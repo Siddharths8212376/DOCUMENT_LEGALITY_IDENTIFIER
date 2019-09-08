@@ -70,8 +70,6 @@ with open("legal_terms.csv", mode='w') as legal_terms_file:
 #     for each_set in all_corr_meanings:
 #         if each_term in all_corr_meanings:
 #             print(all_corr_meanings[index][1])
-<<<<<<< HEAD
-
 
 # we've got 303 legal terms from the legal terms dictionary successfully :)
 # OUTPUT 
@@ -117,5 +115,3 @@ with open("legal_terms.csv", mode='w') as legal_terms_file:
 
 ##
 ##
-=======
->>>>>>> 9cc3375462c3199c6f7ee294e4148a4e1301570d
