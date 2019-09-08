@@ -45,7 +45,8 @@ for each_term in unclean_terms:
         if term in each_term:
             each_term = each_term.replace(term, "")
     if each_term != "A":
-        legal_terms.append(each_term)
+        legal_terms.append(each_term.strip())
+        # stripping for removing all the leading and trailing spaces
     
 print(legal_terms, "\n", len(legal_terms))
 
