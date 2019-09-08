@@ -1,15 +1,22 @@
 # a legal data collection module using the python requests library
+
 # import all the required libraries
 import requests
 from bs4 import BeautifulSoup
 import re
+
+
 # next step is to load the webpage in Python
 # loading the Legal Terms Dictionary - State of Connecticut branch
 web_page = requests.get("https://www.jud.ct.gov/legalterms.htm")
+
+
 # getting all the contents
 contents = web_page.content
 soup = BeautifulSoup(contents, 'html.parser')
 # print(soup.prettify())
+
+
 words_and_meanings = {}
 all_paragraphs = soup.find_all('p', {'class': 'text'})
 all_strong_words = []
@@ -63,6 +70,7 @@ with open("legal_terms.csv", mode='w') as legal_terms_file:
 #     for each_set in all_corr_meanings:
 #         if each_term in all_corr_meanings:
 #             print(all_corr_meanings[index][1])
+<<<<<<< HEAD
 
 
 # we've got 303 legal terms from the legal terms dictionary successfully :)
@@ -109,3 +117,5 @@ with open("legal_terms.csv", mode='w') as legal_terms_file:
 
 ##
 ##
+=======
+>>>>>>> 9cc3375462c3199c6f7ee294e4148a4e1301570d
