@@ -1,15 +1,22 @@
 # a legal data collection module using the python requests library
+
 # import all the required libraries
 import requests
 from bs4 import BeautifulSoup
 import re
+
+
 # next step is to load the webpage in Python
 # loading the Legal Terms Dictionary - State of Connecticut branch
 web_page = requests.get("https://www.jud.ct.gov/legalterms.htm")
+
+
 # getting all the contents
 contents = web_page.content
 soup = BeautifulSoup(contents, 'html.parser')
 # print(soup.prettify())
+
+
 words_and_meanings = {}
 all_paragraphs = soup.find_all('p', {'class': 'text'})
 all_strong_words = []
