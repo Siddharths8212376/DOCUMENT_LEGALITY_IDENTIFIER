@@ -1,4 +1,4 @@
-# DOCUMENT LEGALITY IDENTIFIER - Dictionary Parser Branch
+# DOCUMENT LEGALITY IDENTIFIER
 ___
 
 A project for **Document Legality Identification**, as in, if we're provided with a document, we have to determine whether it's **legal or not**.
