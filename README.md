@@ -12,6 +12,10 @@ ___
 **beautifulSoup4** 
 * **```pip install beautifulSoup```**
 
+  or equivalently
+
+* **```pip install bs4```**
+
 **requests**
 * **```pip install requests```**
 ___
