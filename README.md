@@ -20,6 +20,18 @@ ___
 * **```pip install requests```**
 ___
 
+## Basic Idea For the Implementation of the Document Legality Identifier
+___
+
+** For the Bag of Words creation **
+___
+
+*   Clean the complete_legal_terms.csv file. For each legal term in the document: 
+    *   Clear off all the punctuations
+    *   Get rid of all the stop words
+    *   Add these to the vocabulary
+
+___
 
 Future implementations will be updated soon...
 ___
