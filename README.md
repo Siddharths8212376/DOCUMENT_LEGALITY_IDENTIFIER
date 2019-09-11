@@ -32,7 +32,9 @@ ___
     *   Add these to the vocabulary
 
 ___
-
+## VAGUE IDEA
+___
+![VAGUE_IDEA](./implementation_idea.jpg)
 Future implementations will be updated soon...
 ___
 
