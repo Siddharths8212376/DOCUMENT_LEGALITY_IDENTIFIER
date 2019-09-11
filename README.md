@@ -35,6 +35,9 @@ ___
 ## VAGUE IDEA
 ___
 ![VAGUE_IDEA](./implementation_idea.jpg)
+
+___
+
 Future implementations will be updated soon...
 ___
 
