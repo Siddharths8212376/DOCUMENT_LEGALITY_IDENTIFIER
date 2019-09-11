@@ -36,4 +36,13 @@ ___
 Future implementations will be updated soon...
 ___
 
-Source: **[State Of Connecticut-Legal Terms](https://www.jud.ct.gov/legalterms.htm)**
+Sources:
+___
+
+ **[State Of Connecticut-Legal Terms](https://www.jud.ct.gov/legalterms.htm)**
+
+ **[Law.com Legal Dictionary](https://dictionary.law.com/Default.aspx?letter=A)**
+
+ ___
+ 
+
