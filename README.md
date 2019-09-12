@@ -44,9 +44,11 @@ ___
 Sources:
 ___
 
- **[State Of Connecticut-Legal Terms](https://www.jud.ct.gov/legalterms.htm)**
+*  **[State Of Connecticut-Legal Terms](https://www.jud.ct.gov/legalterms.htm)**
 
- **[Law.com Legal Dictionary](https://dictionary.law.com/Default.aspx?letter=A)**
+*  **[Law.com Legal Dictionary](https://dictionary.law.com/Default.aspx?letter=A)**
+ 
+*  **[3000 Most Common English Words](https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/)**
 
  ___
  
