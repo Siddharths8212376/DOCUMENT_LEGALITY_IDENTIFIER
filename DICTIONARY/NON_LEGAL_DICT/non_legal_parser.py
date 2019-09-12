@@ -31,3 +31,4 @@ with open("most_common_words.csv", mode='w') as common_words:
     for word in set_of_words:
         common_writer.writerow([word])
     
+# next step is to add labels to both the files using pandas
