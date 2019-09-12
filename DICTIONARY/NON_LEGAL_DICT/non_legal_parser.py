@@ -27,7 +27,7 @@ set_of_words = all_words.text.split()
 # so we'll just directly add it to a csv file
 with open("most_common_words.csv", mode='w') as common_words:
     common_writer = csv.writer(common_words, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    common_writer.writerow(['MOST COMMON TERMS'])
+    common_writer.writerow(['COMMON WORDS'])
     for word in set_of_words:
-        common_writer.writerow([word + ', '])
+        common_writer.writerow([word])
     
