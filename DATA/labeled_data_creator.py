@@ -48,3 +48,5 @@ df_final_commons['SCORE'] = 0.0
 df_total_legals.to_csv('./labeled_legals.csv')
 df_common_legals.to_csv('./labeled_common_legals.csv')
 df_final_commons.to_csv('./labeled_commons.csv')
+
+# we'll make a hypothesis function out of this dataset
