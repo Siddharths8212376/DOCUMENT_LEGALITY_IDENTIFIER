@@ -1,0 +1,351 @@
+
+| |CATEGORY  |SUMMARY  |DETAILS                                    | |
+|.|Data      |We only  |We use technologies like cookies (small    | |
+| |          |collect  |files stored by your browser), web beacons,| |
+| |          |anonymous|or unique device identifiers to anonymously| |
+| |          |informati|identify your computer or device so we can | |
+| |          |on.      |deliver a better experience. Our systems   | |
+| |          |         |also log information like your browser,    | |
+| |          |         |operating system and IP address.           | |
+| |          |         |                                           | |
+| |          |         |We do not collect personally identifiable  | |
+| |          |         |information about you. In other words, we  | |
+| |          |         |do not collect information such as your    | |
+| |          |         |name, address, phone number or email       | |
+| |          |         |address.                                   | |
+| |          |         |                                           | |
+| |          |         |We do not knowingly contact or collect     | |
+| |          |         |personal information from children under   | |
+| |          |         |13. If you believe we have inadvertently   | |
+| |          |         |collected such information, please contact | |
+| |          |         |us so we can promptly obtain parental      | |
+| |          |         |consent or remove the information.         | |
+|.|Data      |We       |We use technologies like cookies (small    | |
+| |          |collect  |files stored by your browser), web beacons,| |
+| |          |but do   |or unique device identifiers to anonymously| |
+| |          |not link |identify your computer or device so we can | |
+| |          |personal |deliver a better experience. Our systems   | |
+| |          |and      |also log information like your browser,    | |
+| |          |activity |operating system and IP address.           | |
+| |          |data.    |                                           | |
+| |          |         |We also may collect personally identifiable| |
+| |          |         |information that you provide to us, such as| |
+| |          |         |your name, address, phone number or email  | |
+| |          |         |address. With your permission, we may also | |
+| |          |         |access other personal information on your  | |
+| |          |         |device, such as your phone book, calendar  | |
+| |          |         |or messages, in order to provide services  | |
+| |          |         |to you. If authorized by you, we may also  | |
+| |          |         |access profile and other information from  | |
+| |          |         |services like Facebook.                    | |
+| |          |         |                                           | |
+| |          |         |Our systems are not designed to associate  | |
+| |          |         |personal information with your activities  | |
+| |          |         |(such as pages you view or things you click| |
+| |          |         |on or search for).                         | |
+| |          |         |                                           | |
+| |          |         |We do not knowingly contact or collect     | |
+| |          |         |personal information from children under   | |
+| |          |         |13. If you believe we have inadvertently   | |
+| |          |         |collected such information, please contact | |
+| |          |         |us so we can promptly obtain parental      | |
+| |          |         |consent or remove the information.         | |
+|.|Data      |We       |We use technologies like cookies (small    | |
+| |          |collect  |files stored on your browser), web beacons,| |
+| |          |personal |or unique device identifiers to identify   | |
+| |          |and      |your computer or device so we can deliver a| |
+| |          |activity |better experience. Our systems also log    | |
+| |          |data,    |information like your browser, operating   | |
+| |          |which may|system and IP address.                     | |
+| |          |be       |                                           | |
+| |          |linked.  |We also may collect personally identifiable| |
+| |          |         |information that you provide to us, such as| |
+| |          |         |your name, address, phone number or email  | |
+| |          |         |address. With your permission, we may also | |
+| |          |         |access other personal information on your  | |
+| |          |         |device, such as your phone book, calendar  | |
+| |          |         |or messages, in order to provide services  | |
+| |          |         |to you. If authorized by you, we may also  | |
+| |          |         |access profile and other information from  | |
+| |          |         |services like Facebook.                    | |
+| |          |         |                                           | |
+| |          |         |Our systems may associate this personal    | |
+| |          |         |information with your activities in the    | |
+| |          |         |course of providing service to you (such as| |
+| |          |         |pages you view or things you click on or   | |
+| |          |         |search for).                               | |
+| |          |         |                                           | |
+| |          |         |We do not knowingly contact or collect     | |
+| |          |         |personal information from children under   | |
+| |          |         |13. If you believe we have inadvertently   | |
+| |          |         |collected such information, please contact | |
+| |          |         |us so we can promptly obtain parental      | |
+| |          |         |consent or remove the information.         | |
+|.|          |         |                                           | |
+|.|Location  |We do not|We do not use or collect your precise      | |
+| |          |store or |geographic location.                       | |
+| |          |share    |                                           | |
+| |          |your     |                                           | |
+| |          |precise  |                                           | |
+| |          |location.|                                           | |
+|.|Location  |We       |In serving you, we may use or store your   | |
+| |          |collect  |precise geographic location, if you give us| |
+| |          |or share |permission to do so. We do not use or share| |
+| |          |your     |this data for any other purpose. Many      | |
+| |          |location |devices will indicate through an icon when | |
+| |          |only with|location services are operating. We only   | |
+| |          |permissio|share this location information with others| |
+| |          |n.       |as approved by you.                        | |
+|.|Location  |We may   |To customize our service for you, we may   | |
+| |          |collect  |collect and store your precise geographic  | |
+| |          |but do   |location as part of your user profile. This| |
+| |          |not share|data generally is not shared with others.  | |
+| |          |your     |We may ask for your consent on your first  | |
+| |          |location |use of the service.                        | |
+| |          |history. |                                           | |
+|.|Location  |We may   |To customize our service for you, we and   | |
+| |          |collect  |our partners may collect, use, and share   | |
+| |          |and share|precise location data, including the       | |
+| |          |anonymous|real-time geographic location of your      | |
+| |          |location |computer or device. This location data is  | |
+| |          |data.    |collected anonymously in a form that does  | |
+| |          |         |not personally identify you and is used    | |
+| |          |         |only to provide and improve our service. We| |
+| |          |         |may obtain your consent on your first use  | |
+| |          |         |of the service.                            | |
+|.|          |         |                                           | |
+|.|Access    |You can  |You can sign into your account to see any  | |
+| |          |request  |personally identifiable information we have| |
+| |          |to see   |stored, such as your name, email, address  | |
+| |          |your     |or phone number. You can also contact us by| |
+| |          |personal |email to request to see this information.  | |
+| |          |data.    |                                           | |
+|.|Access    |You can  |You can sign into your account to see or   | |
+| |          |request  |delete any personally identifiable         | |
+| |          |to see or|information we have stored, such as your   | |
+| |          |delete   |name, address, email or phone number. You  | |
+| |          |your     |can also contact us by email to request to | |
+| |          |personal |see or delete this information.            | |
+| |          |data.    |                                           | |
+|.|          |         |                                           | |
+|.|Deletion  |We keep  |Our systems are designed to retain log data| |
+| |          |personal |for up to [TIME PERIOD] after it is        | |
+| |          |data for |collected. We remove personally            | |
+| |          |a limited|identifiable information (such as your     | |
+| |          |period.  |name, address, email or phone number) and  | |
+| |          |         |other preferences associated with your     | |
+| |          |         |account promptly after you delete your     | |
+| |          |         |account.                                   | |
+|.|Deletion  |We keep  |We remove personally identifiable          | |
+| |          |personal |information (such as your name, address,   | |
+| |          |data     |email or phone number) and other           | |
+| |          |until you|preferences associated with your account   | |
+| |          |delete   |promptly after you delete your account. We | |
+| |          |it.      |may retain other data indefinitely.        | |
+|.|Deletion  |We may   |We may keep data indefinitely.             | |
+| |          |keep data|                                           | |
+| |          |indefinit|                                           | |
+| |          |ely.     |                                           | |
+|.|          |         |                                           | |
+|.|Sharing   |We don't |We generally do not share personally       | |
+| |          |share    |identifiable information (such as name,    | |
+| |          |your     |address, email or phone) with other        | |
+| |          |personal |companies.                                 | |
+| |          |data with|                                           | |
+| |          |other    |                                           | |
+| |          |companies|                                           | |
+| |          |.        |                                           | |
+|.|Sharing   |We don't |We generally do not share personally       | |
+| |          |share    |identifiable information (such as name,    | |
+| |          |your     |address, email or phone) with other        | |
+| |          |personal |companies for marketing purposes.          | |
+| |          |informati|                                           | |
+| |          |on with  |                                           | |
+| |          |marketers|                                           | |
+| |          |.        |                                           | |
+|.|Sharing   |You      |We may share personally identifiable       | |
+| |          |control  |information (such as name, address, email  | |
+| |          |whether  |or phone) with trusted partners in order to| |
+| |          |we share |provide you with relevant advertising,     | |
+| |          |personal |offers or services. Contact us if you want | |
+| |          |data with|to opt-out of this sharing:                | |
+| |          |partners.|                                           | |
+| |          |         |[URL OF THE CONTACT FORM] OR [EMAIL]       | |
+| |          |         |                                           | |
+| |          |         |[PHYSICAL MAILING ADDRESS]                 | |
+| |          |         |                                           | |
+| |          |         |California residents are legally entitled  | |
+| |          |         |(at no charge and no more than once        | |
+| |          |         |annually) to request information about how | |
+| |          |         |we may have shared your information with   | |
+| |          |         |others for direct marketing purposes.      | |
+| |          |         |Contact us for this information:           | |
+| |          |         |                                           | |
+| |          |         |[URL OF THE CONTACT FORM] OR [EMAIL]       | |
+| |          |         |                                           | |
+| |          |         |[PHYSICAL MAILING ADDRESS]                 | |
+|.|Sharing   |We may   |We may share personally identifiable       | |
+| |          |share    |information (such as name, address, email  | |
+| |          |personal |or phone) with trusted partners in order to| |
+| |          |data with|provide you with relevant advertising,     | |
+| |          |companies|offers or services.                        | |
+| |          |we trust.|                                           | |
+| |          |         |California residents are legally entitled  | |
+| |          |         |(at no charge and no more than once        | |
+| |          |         |annually) to request information about how | |
+| |          |         |we may have shared your information with   | |
+| |          |         |others for direct marketing purposes.      | |
+| |          |         |Contact us for this information:           | |
+| |          |         |                                           | |
+| |          |         |[URL OF THE CONTACT FORM] OR [EMAIL]       | |
+| |          |         |                                           | |
+| |          |         |[PHYSICAL MAILING ADDRESS]                 | |
+|.|          |         |                                           | |
+|.|Ad        |No ad    |We do not allow advertising companies to   | |
+| |Tracking  |companies|collect data through our service for ad    | |
+| |          |collect  |targeting.                                 | |
+| |          |data     |                                           | |
+| |          |through  |                                           | |
+| |          |our      |                                           | |
+| |          |service. |                                           | |
+|.|Ad        |Ad       |Ad companies may use and collect anonymous | |
+| |Tracking  |companies|data about your interests to customize     | |
+| |          |collect  |content and advertising here and in other  | |
+| |          |anonymous|sites and applications. Interest and       | |
+| |          |data. You|location data may be linked to your device,| |
+| |          |can opt  |but is not linked to your identity. Click  | |
+| |          |out.     |to see company privacy policies and opt-out| |
+| |          |         |choices:                                   | |
+|.|          |         |                                           | |
+|.|Contact   |You can  |If you have any questions or concerns about| |
+| |          |ask      |our privacy policies, please contact us:   | |
+| |          |privacy  |                                           | |
+| |          |questions|[URL OF THE CONTACT FORM] OR [EMAIL]       | |
+| |          |.        |                                           | |
+| |          |         |[PHYSICAL MAILING ADDRESS]                 | |
+|.|Contact   |You can  |If you have any questions or concerns about| |
+| |          |ask      |our privacy policies, please contact us:   | |
+| |          |privacy  |                                           | |
+| |          |questions|[URL OF THE CONTACT FORM] OR [EMAIL]       | |
+| |          |or       |                                           | |
+| |          |opt-out  |[PHYSICAL MAILING ADDRESS]                 | |
+| |          |of       |                                           | |
+| |          |marketing|If you have given us contact information   | |
+| |          |.        |but do not want us to contact you with     | |
+| |          |         |promotional or marketing information, you  | |
+| |          |         |can opt-out here:                          | |
+| |          |         |                                           | |
+| |          |         |[URL LINKING TO OPT-OUT FORM]              | |
+| |          |         |                                           | |
+| |          |         |Please allow sufficient time for us to     | |
+| |          |         |process your request.                      | |
+|.|          |         |                                           | |
+|.|Vendors   |Service  |In order to serve you, we may share your   | |
+| |          |providers|personal and anonymous information with    | |
+| |          |access   |other companies, including vendors and     | |
+| |          |data on  |contractors. Their use of information is   | |
+| |          |our      |limited to these purposes, and subject to  | |
+| |          |behalf.  |agreements that require them to keep the   | |
+| |          |         |information confidential. Our vendors      | |
+| |          |         |provide assurance that they take reasonable| |
+| |          |         |steps to safeguard the data they hold on   | |
+| |          |         |our behalf, although data security cannot  | |
+| |          |         |be guaranteed.                             | |
+| |          |         |                                           | |
+| |          |         |Analytics companies may access anonymous   | |
+| |          |         |data (such as your IP address or device ID)| |
+| |          |         |to help us understand how our services are | |
+| |          |         |used. They use this data solely on our     | |
+| |          |         |behalf. They do not share it except in     | |
+| |          |         |aggregate form; no data is shared as to any| |
+| |          |         |individual user. Click to see company      | |
+| |          |         |privacy policies that govern their use of  | |
+| |          |         |data. [PRIVACY POLICY URL]                 | |
+|.|Vendors   |Vendors  |In order to serve you, we may share your   | |
+| |          |access   |personal and anonymous information with    | |
+| |          |data on  |other companies, including vendors and     | |
+| |          |our      |contractors. Their use of information is   | |
+| |          |behalf.  |limited to these purposes, and subject to  | |
+| |          |         |agreements that require them to keep the   | |
+| |          |         |information confidential. Our vendors      | |
+| |          |         |provide assurance that they take reasonable| |
+| |          |         |steps to safeguard the data they hold on   | |
+| |          |         |our behalf, although data security cannot  | |
+| |          |         |be guaranteed.                             | |
+|.|Vendors   |Analytics|Analytics companies may access anonymous   | |
+| |          |providers|data (such as your IP address or device ID)| |
+| |          |access   |to help us understand how our services are | |
+| |          |data on  |used. They use this data solely on our     | |
+| |          |our      |behalf. They do not share it except in     | |
+| |          |behalf.  |aggregate form; no data is shared as to any| |
+| |          |         |individual user. Click to see company      | |
+| |          |         |privacy policies that govern their use of  | |
+| |          |         |data. [PRIVACY POLICY URL]                 | |
+|.|          |         |                                           | |
+|.|Security  |We take  |We take reasonable steps to secure your    | |
+| |          |steps to |personally identifiable information against| |
+| |          |protect  |unauthorized access or disclosure. We      | |
+| |          |personal |encrypt transmission of data on pages where| |
+| |          |informati|you provide payment information. However,  | |
+| |          |on       |no security or encryption method can be    | |
+| |          |         |guaranteed to protect information from     | |
+| |          |         |hackers or human error.                    | |
+| |          |         |                                           | |
+| |          |         |Information we collect may be stored or    | |
+| |          |         |processed on computers located in any      | |
+| |          |         |country where we do business.              | |
+|.|Security  |We take  |We take reasonable administrative, physical| |
+| |          |detailed |and electronic measures designed to        | |
+| |          |steps to |safeguard and protect your information from| |
+| |          |protect  |unauthorized access or disclosure. This    | |
+| |          |personal |includes utilizing Secure Sockets Layer    | |
+| |          |informati|(SSL) software, which encrypts the personal| |
+| |          |on.      |information you input, and storing your    | |
+| |          |         |information in encrypted form behind a     | |
+| |          |         |firewall designed to block access from     | |
+| |          |         |outside our network. However, no security  | |
+| |          |         |or encryption method can be guaranteed to  | |
+| |          |         |protect information from hackers or human  | |
+| |          |         |error.                                     | |
+| |          |         |                                           | |
+| |          |         |Information we collect may be stored or    | |
+| |          |         |processed on computers located in any      | |
+| |          |         |country where we do business.              | |
+|.|          |         |                                           | |
+|.|Special   |Special  |To operate the service, we also may make   | |
+| |          |situation|identifiable and anonymous information     | |
+| |          |s may    |available to third parties in these limited| |
+| |          |require  |circumstances: (1) with your express       | |
+| |          |disclosur|consent, (2) when we have a good faith     | |
+| |          |e of your|belief it is required by law, (3) when we  | |
+| |          |data.    |have a good faith belief it is necessary to| |
+| |          |         |protect our rights or property, or (4) to  | |
+| |          |         |any successor or purchaser in a merger,    | |
+| |          |         |acquisition, liquidation, dissolution or   | |
+| |          |         |sale of assets. Your consent will not be   | |
+| |          |         |required for disclosure in these cases, but| |
+| |          |         |we will attempt to notify you, to the      | |
+| |          |         |extent permitted by law to do so.          | |
+|.|          |         |                                           | |
+|.|More      |You can  |This privacy policy was last updated on    | |
+| |          |review   |[DATE PRIVACY POLICY WAS UPDATED]. Our     | |
+| |          |more     |privacy policy may change from time to     | |
+| |          |privacy-r|time. If we make any material changes to   | |
+| |          |elated   |our policies, we will place a prominent    | |
+| |          |informati|notice on our website or application. If   | |
+| |          |on.      |the change materially affects registered   | |
+| |          |         |users, we will send a notice to you by     | |
+| |          |         |email, push notification or text.          | |
+|.|More      |Our full |This privacy policy was last updated on    | |
+| |          |privacy  |[DATE PRIVACY POLICY WAS UPDATED]. Our     | |
+| |          |policy   |privacy policy may change from time to     | |
+| |          |includes |time. If we make any material changes to   | |
+| |          |more     |our policies, we will place a prominent    | |
+| |          |informati|notice on our website or application. If   | |
+| |          |on.      |the change materially affects registered   | |
+| |          |         |users, we will send a notice to you by     | |
+| |          |         |email, push notification or text. Please   | |
+| |          |         |read our full privacy policy, which        | |
+| |          |         |includes other important                   | |
+| |          |         |information.[PRIVACY POLICY URL]           | |
+

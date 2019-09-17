@@ -1,0 +1,708 @@
+
+
+CONTRATTO PER LO SVILUPPO SOFTWARE
+
+
+Questo Contratto per lo Sviluppo di Software (il "Contratto") è stipulato e
+in vigore a partire dal [DATA DI INIZIO CONTRATTO] (la "Data di Efficacia")
+da e tra [NOME SVILUPPATORE], (lo "Sviluppatore" o "Developer"), e [NOME
+SOCIETÀ O AZIENDA] (la "Società", e insieme con lo sviluppatore, le
+"Parti").
+
+
+PREMESSE
+
+
+PREMESSO che la Società è impegnata nella fornitura [BUSINESS PRIMARIO
+DELLA SOCIETÀ], e
+
+
+CONSIDERANDO che, lo sviluppatore è impegnato in attività di sviluppo e
+progettazione di soluzioni per applicazioni mobili, e
+
+
+PREMESSO che la Società intende coinvolgere lo sviluppatore come un
+appaltatore indipendente per la Società ai fini della progettazione e
+sviluppo di sistemi applicativi della Società (l'"Applicazione") secondo i
+termini e le condizioni indicati di seguito, e
+
+
+CONSIDERANDO che, lo sviluppatore intende sviluppare l'Applicazione e si
+impegna a farlo secondo i termini e le condizioni del presente accordo;
+
+
+CONSIDERANDO che, ciascuna Parte è debitamente autorizzata e in grado di
+entrare in questo accordo.
+
+
+In considerazione quindi dei punti di cui sopra, delle promesse e vantaggi
+reciproci contenuti nel presente documento, le Parti concordano quanto
+segue:
+
+
+1. SCOPO.
+
+
+La Società nomina e impegna lo Sviluppatore, e lo Sviluppatore accetta
+questo incarico, per eseguire i servizi descritti in "Allegato A" allegato
+e ha fatto parte integrante del Contratto, in connessione con la
+progettazione e lo sviluppo della Applicazione (collettivamente, i
+"Servizi").
+
+
+2. COMPENSO.
+
+
+Il compenso complessivo per lo sviluppo dei Servizi deve essere come
+indicato nel Allegato A del presente regolamento. Tali pagamenti sono
+effettuati in rate secondo il calendario stabilito nel Allegato A del
+presente regolamento.
+
+
+3. TERMINI.
+
+
+Il presente Accordo entrerà in vigore a partire dalla data di validità e,
+se non diversamente risolto in conformità con le disposizioni della sezione
+4 del presente accordo, continuerà fino a quando i servizi sono stati
+completati in modo soddisfacente e lo Sviluppatore è stato integralmente
+pagato per tali servizi (la "Fine").
+
+
+4. RISOLUZIONE.
+
+
+(A) Tipi di risoluzione. Il presente accordo può essere risolto:
+
+
+   1. Da una delle parti con comunicazione scritta all'altra parte con un
+      preavviso di trenta (30) giorni.
+   2. Da entrambe le parti per una violazione materiale di qualsiasi
+      disposizione del presente Contratto, se grave inadempimento dell'altra
+      parte non è risolto entro quindici (15) giorni dal ricevimento della
+      comunicazione scritta. Ciò include tutti i ritardi alla linea
+      temporale specificata nell'Allegato A.
+   3. Dalla Società in qualsiasi momento e senza preavviso, se il
+      committente è condannato per alcun crimine o delitto, non riesce o si
+      rifiuta di rispettare le norme scritte o direttive ragionevoli della
+      Società, o è colpa grave in relazione a prestazioni ai sensi del
+      presente Accordo.
+
+
+(B) Responsabilità dopo la risoluzione. In seguito alla risoluzione del
+presente Contratto, per qualsiasi motivo, la Società dovrà pagare
+prontamente lo Sviluppatore secondo i termini del Allegato A per i servizi
+resi prima della data di efficacia della risoluzione (la "Data di
+Scadenza").
+
+
+Lo sviluppatore prende atto ed accetta che nessun altro indennizzo, di
+qualsiasi natura o tipo, deve essere pagato a seguito della risoluzione del
+presente Contratto.
+
+
+Tutti i contenuti di proprietà intellettuale sviluppati ai sensi del
+presente accordo prima della data di risoluzione devono essere consegnati
+alla Società entro tre giorni dalla data di risoluzione.
+
+
+5. RESPONSABILITÀ.
+
+
+(A) Dello sviluppatore. Lo sviluppatore si impegna a fare ciascuna delle
+seguenti attività:
+
+
+   1. Creare i Servizi come descritto in Allegato A del presente accordo, e
+      di estendere i suoi migliori sforzi per garantire che la progettazione
+      e la funzionalità dei Servizi soddisfino le specifiche della Società.
+   2. Dedicare il tempo più produttivo, l'energia e la capacità che possa
+      risultare necessaria per fornire i Servizi richiesti in modo
+      tempestivo e produttivo nel periodo di tempo specificato in Allegato
+      A.
+   3. Eseguire i Servizi a regola d'arte e con diligenza professionale e
+      competenza, come pienamente addestrato, esperto, competente e con
+      esperienza personale.
+   4. A completamento dell'Applicazione, assistere la Società nella
+      pubblicazione dell'Applicazione nelle piattaforme di distribuzione
+      elencate nel Allegato A.
+   5. Fornire tutti i file e il codice alla Società.
+   6. Presentare un'Applicazione che sia soddisfacente e accettabile per la
+      Società e sostanzialmente priva di difetti.
+   7. Comunicare con la Società per quanto riguarda progressi compiuti
+      rispetto alle tappe di cui Allegato A ogni settimana.
+
+
+(B) Della Società. La Società si impegna a fare ciascuno dei seguenti:
+
+
+   1. Coinvolgere lo Sviluppatore come il creatore della propria
+      Applicazione come specificato in Allegato A al presente accordo.
+   2. Fornire tutta l'assistenza e la cooperazione allo Sviluppo, al fine di
+      completare l'applicazione tempestivamente ed efficientemente.
+   3. Fornire informazioni iniziali, e la fornitura di tutti i contenuti per
+      l'Applicazione.
+
+
+6. SUPPORTO PERIODO.
+
+
+Lo Sviluppatore si impegna a fornire supporto continuo per il sistema di
+applicazione per 30 giorni dopo che l'Applicazione ([SISTEMI OPERATIVI SU
+CUI È SVILUPPATA]) è approvata con successo sul relativo Store (il "Periodo
+di Supporto"). Il periodo di assistenza fa riferimento a eventuali bug o
+problemi relativi alle caratteristiche specificate in Allegato A, e non per
+creare nuove funzionalità per il sistema di applicazione. Questo supporto
+sarà fornito alla Società, senza alcun costo aggiuntivo.
+
+
+7. INFORMAZIONI RISERVATE.
+
+
+Lo Sviluppatore si impegna, per la durata e, successivamente, di tenere in
+massima riservatezza, e di non utilizzare, fatta eccezione per il beneficio
+della Società, ovvero di rivelare a qualsiasi persona, ditta o impresa
+senza la previa autorizzazione scritta della Società, qualsiasi
+Informazione riservata della Società.
+
+
+"Informazioni riservate" si intendono qualsiasi delle informazioni di
+proprietà della Società, i dati tecnici, segreti commerciali, o di know-
+how, tra cui, ma non limitato a, business plan, ricerche, piani di
+prodotto, prodotti, servizi, elenchi di clienti, mercati, software,
+sviluppi , invenzioni, processi, formule, tecnologia, progetti, disegni,
+ingegneria, informazioni di configurazione hardware, marketing, finanza, o
+altre informazioni di attività esposte allo Sviluppatore dalla Società,
+direttamente o indirettamente.
+
+
+8. DICHIARAZIONI E GARANZIE PARTI.
+
+
+(A) Ciascuna delle Parti dichiara e garantisce quanto segue:
+
+
+   1. Ciascuna Parte ha il pieno potere, l'autorità, e il diritto di
+      adempiere ai propri obblighi ai sensi dell'accordo.
+   2. Questo accordo è un obbligo di legge, valida e vincolante di ciascuna
+      parte, efficace nei suoi confronti secondo i suoi termini (ad
+      eccezione di quanto può essere limitata dalla bancarotta, insolvenza,
+      moratoria, o leggi simili che interessano i diritti dei creditori in
+      generale e rimedi equi).
+   3. La stipula del presente accordo non viola la Carta o statuto di una
+      delle parti o di qualsiasi contratto materiale al quale tale Parte è
+      anche una parte.
+
+
+(B) Lo sviluppatore dichiara e garantisce quanto segue:
+
+
+   1. Lo Sviluppatore ha il diritto di controllare e dirigere i mezzi, i
+      dettagli, le modalità ed il metodo con il quale i servizi richiesti
+      dal presente accordo saranno eseguiti.
+   2. Lo Sviluppatore ha l'esperienza e la capacità di svolgere i servizi
+      richiesti dal presente accordo.
+   3. Lo Sviluppatore ha il diritto di effettuare i servizi richiesti dal
+      presente accordo in qualsiasi luogo o posizione, e nei momenti
+      stabiliti dallo sviluppatore.
+   4. I servizi devono essere effettuati in conformità e non devono violare
+      le leggi vigenti, regole o regolamenti, e lo Sviluppatore dovrà
+      ottenere tutte le autorizzazioni o permessi necessari per conformarsi
+      a tali leggi, norme o regolamenti.
+   5. I servizi richiesti dal presente accordo sono svolti dallo
+      Sviluppatore, e la Società non è tenuta ad assumere, supervisionare, o
+      pagare eventuali assistenti per aiutare lo sviluppatore ad eseguire
+      tali servizi.
+   6. Lo Sviluppatore è responsabile del pagamento di tutte le spese
+      ordinarie e necessarie per se stesso.
+
+
+(C) La Società dichiara e garantisce quanto segue:
+
+
+   1. La Società farà tempestivamente i pagamenti delle somme guadagnate
+      dallo sviluppatore nel presente accordo e, come specificato nel
+      Allegato A del presente regolamento.
+   2. La Società comunicherà eventuali modifiche delle procedure che
+      riguardano gli obblighi dello sviluppatore nell'ambito del presente
+      accordo, almeno quindici (15) giorni prima di attuare tali modifiche.
+   3. La Società mette a disposizione qualsiasi altra assistenza allo
+      Sviluppatore che ritenga ragionevole e opportuna.
+
+
+9. DICHIARAZIONE DEL SERVIZIO E GARANZIE.
+
+
+(A) Performance. Lo Sviluppatore dichiara e garantisce che per un periodo
+di 20 giorni dopo la consegna dell'Applicazione per la Società ai sensi del
+Allegato A (il "Periodo di Supporto"), l'Applicazione sarà esente da errori
+di programmazione e difetti di fabbricazione e materiali , e sarà conforme
+alle specifiche del Allegato A. Se vengono rilevati errori di
+programmazione o altri difetti durante il periodo di assistenza, lo
+sviluppatore deve tempestivamente porre rimedio a tali errori o difetti a
+proprie spese.
+
+
+(B) Non Invalidità. Lo Sviluppatore garantisce e dichiara che
+l'applicazione, al momento della consegna o di accesso da parte della
+Società, sarà esente da difetti di materiale e da virus, blocchi logici e
+altri dispositivi invalidanti o codici, e, in particolare, non contiene
+alcun virus, Trojan horse, worm, dispositivi di drop-dead, botole, bombe a
+tempo, o altre routine di software o altro componente hardware che potrebbe
+consentire l'accesso non autorizzato, disabilitare, cancellare, o comunque
+danneggiare l'applicazione o eseguire funzioni diverse da quelle
+specificate nel presente accordo, interrompere, distruggere o degradare il
+funzionamento dell'Applicazione.
+
+
+10. TEMPI E RITARDI.
+
+
+Lo Sviluppatore riconosce e concorda che l'inosservanza del programma di
+consegna dell'Applicazione dettagliato in Allegato A si tradurrà in costi e
+danni alla Società. Lo Sviluppatore informa immediatamente la Società di
+eventuali ritardi previsti nel programma di consegna e di eventuali azioni
+correttive prese per garantire il completamento dell'applicazione in base a
+tale programma. Se la data di consegna è mancata, la Società può, a sua
+discrezione, dichiarare tale ritardo una violazione sostanziale del
+Contratto ai sensi del comma 4 (a) e perseguire tutti i suoi mezzi di
+ricorso ed equo. La Società non può dichiarare una violazione, e per lo
+sviluppatore non può essere ritenuta violazione del presente Contratto, di
+questa sezione, se tale ritardo è causato da un'azione o fallimento
+dell'attività della Società. In tal caso, lo Sviluppatore fornirà alla
+Società con comunicazione scritta del ritardo e di lavoro sul Sistema
+applicazione funzionerà fino a quando il motivo del ritardo è stato risolto
+dalla Società e comunicazione scritta di tale risoluzione è stata fornita
+per lo sviluppatore.
+
+
+11. NATURA DEL RAPPORTO.
+
+
+(A) Stato imprenditore freelance. Lo Sviluppatore si impegna ad eseguire il
+seguito Servizi esclusivamente come un imprenditore indipendente. Le parti
+convengono che nessuna disposizione del presente accordo può essere
+interpretata come la creazione di una joint venture, partnership,
+franchising, agenzia, datore di lavoro / dipendente, o un rapporto simile
+tra le Parti, o come autorizzare una delle parti di agire come agente
+dell'altra. Lo Sviluppatore è e rimarrà un imprenditore indipendente nel
+suo rapporto con la Società. La Società non sarà responsabile per ritenute
+d'acconto rispetto al compenso seguito dello sviluppatore. Lo Sviluppatore
+non ha alcun diritto nei confronti della Società o altrimenti qui di
+seguito per ferie pagate, assenze per malattia, le prestazioni
+pensionistiche, la sicurezza sociale, la compensazione dei lavoratori, la
+salute o di invalidità, indennità di disoccupazione, o di benefici per i
+dipendenti di qualsiasi tipo. Nessuna disposizione del presente accordo può
+creare obblighi tra una delle parti e di terzi.
+
+
+(B) Indennizzo della Società dallo Sviluppatore. La Società ha stipulato il
+Contratto in base alle informazioni fornite dallo Sviluppatore, tra cui la
+rappresentazione esplicita per gli Sviluppatori che si tratta di un
+imprenditore indipendente e nel rispetto di tutte le leggi applicabili
+relative al lavoro come un imprenditore indipendente. Se un organo di
+regolamentazione o tribunale competente constata che lo Sviluppatore non è
+un imprenditore indipendente e / o non è in conformità con le leggi vigenti
+relative al lavoro come un imprenditore indipendente, sulla base di proprie
+azioni dello Sviluppatore, lo Sviluppatore si assume la piena
+responsabilità e responsabilità per tutte le imposte, le valutazioni, e le
+sanzioni imposte contro il Developer e / o la Società risultante da tale
+interpretazione contraria.
+
+
+12. LAVORO IN AFFITTO.
+
+
+(A) Work for hire. Il Developer riconosce espressamente e accetta che tutti
+i materiali di proprietà preparate dallo Sviluppatore ai sensi del presente
+accordo sono considerate "work for hire" e la proprietà esclusiva della
+Società se non diversamente specificato. Queste voci comprendono, ma non
+sono limitati a, qualsiasi e tutti i risultati finali derivanti dai servizi
+dello sviluppatore o previste dal presente accordo, tutti i risultati
+tangibili e dei proventi dei servizi, lavori in corso, i record, schemi,
+appunti, disegni, specifiche, schemi, documenti, disegni, miglioramenti,
+invenzioni, scoperte, sviluppi, marchi, segreti commerciali, elenchi di
+clienti, banche dati, software, programmi, middleware, applicazioni e
+soluzioni concepiti, realizzati, o scoperti dallo sviluppatore,
+esclusivamente o in collaborazione con altri, durante la durata del
+presente accordo in qualsiasi modo relativi ai servizi dello sviluppatore.
+
+
+(B) Azione supplementare per assegnare Interesse. Nella misura in cui tale
+lavoro non può essere considerato un "work for hire" secondo la legge
+applicabile, il Developer cede alla Società tutti i suoi diritti, titoli e
+interessi relativi a tale lavoro. Lo Sviluppatore deve eseguire e
+consegnare alla Società eventuali atti di trasferimento e di prendere
+qualsiasi altra iniziativa che la Società può ragionevolmente richiedere,
+compresi, senza limitazione, l'esecuzione e la presentazione, a spese della
+Società, le applicazioni d'autore, le assegnazioni, e altri documenti
+necessari per la tutela dei diritti della Società di tali materiali.
+
+
+(C) Nota relativa alla fondazione di lavoro esistente. Se lo Sviluppatore
+intende integrare o incorporare qualsiasi lavoro che precedentemente creato
+in qualsiasi prodotto di lavoro deve essere creato a sostegno della sua
+prestazione dei Servizi, lo Sviluppatore deve ottenere il previo consenso
+scritto della Società di tale integrazione o incorporazione.
+
+
+Se la Società, a sua ragionevole discrezione, consensi, la Società è
+concessa un'esclusiva mondiale royalty-free perpetua, e irrevocabile di
+usare, distribuire, modificare, pubblicare, e altrimenti sfruttare gli
+oggetti incorporati in relazione al prodotto di lavoro sviluppato per la
+Società.
+
+
+13. ALCUN CONFLITTO DI INTERESSI; ALTRE ATTIVITÀ.
+
+
+Lo Sviluppatore dichiara garantisce alla Società che, per quanto a sua
+conoscenza, non è attualmente tenuta sotto qualsiasi contratto esistente o
+un altro servizio che è in conflitto con, o è incompatibile con, il
+presente Accordo. Durante il Periodo di validità, lo Sviluppatore è libero
+di impegnarsi in altre attività di sviluppo, a condizione, tuttavia, che lo
+sviluppatore non debba accettare il lavoro, stipulare contratti, o
+accettare obblighi incoerenti o incompatibili con gli obblighi dello
+sviluppatore o la portata dei servizi da prestare per la Società ai sensi
+del presente Accordo.
+
+
+14. RESTITUZIONE DELLE PROPRIETÀ.
+
+
+Entro sette (7) giorni dalla cessazione del presente accordo, sia per
+scadenza o in caso contrario, lo Sviluppatore si impegna a restituire alla
+Società tutti i prodotti dell'azienda, esempi, modelli o altre proprietà e
+tutti i documenti, trattenere alcuna copia o note, relative alla l'attività
+della Società tra cui, ma non limitato a, le relazioni, abstract, elenchi,
+corrispondenza, informazioni, file di computer, dischi per computer e tutti
+gli altri materiali e tutte le copie di tali materiali ottenuti dalla
+sviluppatore durante e in connessione con la sua rappresentazione della
+Società. Tutti i file, record, documenti, progetti, specifiche,
+informazioni, lettere, note, elenchi dei media, l'illustrazione originale /
+creativo, quaderni, e simili relativi alla attività della Società, se
+preparata dallo sviluppatore o comunque entrano in suo possesso, restano
+proprietà esclusiva della Società.
+
+
+15. INDENNIZZO.
+
+
+(A) Della Società da parte dello Sviluppatore. Il Developer dovrà
+indennizzare e tenere indenne la Società ed i suoi funzionari, soci,
+dirigenti, dipendenti, agenti, appaltatori, sottolicenziatari, collegate,
+controllate, successori e cessionari da e contro qualsiasi e tutti i danni,
+responsabilità, costi, spese , reclami e / o giudizi, compresi, senza
+limitazione, le spese e gli esborsi legali ragionevoli (collettivamente, i
+"Reclami") che nessuno di loro possono soffrire di o incorrere e che
+derivino o risultino principalmente da
+
+
+   1. qualsiasi grave negligenza o dolo del Developer derivante o connesso
+      con lo svolgimento dei suoi compiti nell'ambito del presente accordo
+   2. violazione dello Sviluppatore di qualsiasi dei suoi obblighi, accordi
+      o obblighi derivanti dal presente accordo.
+
+
+(B) Dello Sviluppatore da parte della Società. La Società si obbliga a
+tenere indenne il Sviluppatore da e contro tutte le richieste che si può
+soffrire di o incorrere e che derivino o risultino principalmente da
+
+
+   1. la gestione del proprio business della Società
+   2. la violazione della Società o presunta violazione di, o la sua
+      mancanza o parziale mancanza di eseguire sotto, qualsiasi accordo al
+      quale essa è parte
+   3. violazione di uno qualsiasi dei suoi obblighi, accordi o obblighi
+      derivanti dal presente accordo della Società, a condizione, tuttavia,
+      nessuno dei risultati sopra da o derivare dalle azioni o inazioni
+      dello Sviluppatore.
+
+
+16. PROPRIETÀ INTELLETTUALE.
+
+
+(A) Nessun diritto di proprietà intellettuale da Developer. L'Autore
+dichiara e garantisce che l'uso e la proposta di utilizzare i Servizi da
+parte della Società o di terzi non deve violare, e lo Sviluppatore non ha
+ricevuto alcun avviso, denuncia, minaccia, o ricorso relativi alla
+violazione, qualsiasi marchio, copyright, brevetti, segreti commerciali, il
+design industriale, o altri diritti di terze parti nei Servizi, e
+l'utilizzo dei Servizi non include qualsiasi attività che possa costituire
+"passing off". Per utilizzare servizi di terze parti quali marchio,
+copyright, brevetti, segreti commerciali, design industriale lo
+Sviluppatore dovrà richiedere alle suddette terze parti la possibilità di
+utilizzo, a spese della Società.
+
+
+(B) Nessun diritto di proprietà intellettuale da parte della Società. La
+Società rappresenta per il Developer e garantisce incondizionatamente che
+eventuali elementi di testo, grafici, foto, disegni, marchi, o altro
+materiale illustrativo forniti al Developer per l'inserimento nei Servizi
+sono di proprietà della Società, o che la Società ha l'autorizzazione del
+legittimo proprietario di usare ognuno di questi elementi, e terrà indenne,
+proteggere, risarcire e difendere il Developer e suoi subappaltatori da
+qualsiasi responsabilità (comprese le spese legali e spese giudiziarie),
+incluso qualsiasi rivendicazione o azione, minacciata o effettiva,
+derivante dall'uso di tali elementi forniti dalla Società.
+
+
+(C) Proprietà dei marchi esistenti. Il Developer riconosce alla Società il
+diritto, titolo e interesse in e per tutti i marchi di servizio, marchi e
+nomi commerciali utilizzati dalla Società e si impegna a non impegnarsi in
+qualsiasi attività o di compiere atti, direttamente o indirettamente, che
+può impugnare, contenzioso, o altrimenti mettere in pericolo il diritto
+della Società, titolo e interesse in essa, né il Developer causa
+diminuzione del valore di tali marchi o nomi commerciali attraverso
+qualsiasi atto o dichiarazione. Lo Sviluppatore non si applica per
+acquistare, o rivendicare alcun diritto, titolo o interesse a tali marchi
+di servizio, marchi o nomi commerciali o altri che possono essere confusi
+con nessuno di loro, attraverso la pubblicità o altro. Efficace come la
+risoluzione del presente Contratto, lo Sviluppatore deve cessare di
+utilizzare tutti i marchi della Società, marchi e denominazioni
+commerciali.
+
+
+17. MODIFICHE.
+
+
+Nessuna modifica, variazione o modifica del presente Contratto sono valide
+solo se in forma scritta e firmata da entrambe le parti.
+
+
+18. CESSIONE.
+
+
+La Società potrà cedere il presente Contratto liberamente, in tutto o in
+parte. Lo Sviluppatore non può, senza il consenso scritto della Società,
+assegnare, subappaltare o delegare i suoi obblighi ai sensi del presente
+accordo, salvo che il committente può trasferire il diritto di ricevere le
+somme eventualmente esigibili ad esso per i suoi servizi nell'ambito del
+presente accordo, che il trasferimento sarà efficace solo dopo il
+ricevimento da parte della Società della comunicazione scritta di tale
+cessione o trasferimento.
+
+
+19. SUCCESSORI E ASSEGNATARI.
+
+
+Tutti i riferimenti nel presente accordo per le Parti si considerano
+includere, a seconda del caso, un riferimento ai rispettivi successori e
+aventi causa. Le disposizioni del presente Accordo sono vincolanti e sono
+in vigore a beneficio dei successori e aventi causa delle parti.
+
+
+20. FORZA MAGGIORE.
+
+
+Una parte non può essere considerato in violazione o in difetto nel
+presente accordo per conto di, e non è responsabile per l'altra parte di,
+qualsiasi ritardo o inadempimento ai suoi obblighi in esso previsti a causa
+di incendi, terremoti, inondazioni, esplosioni , scioperi, sommosse,
+guerre, terrorismo, o eventi simili al di fuori del ragionevole controllo
+di tale parte (ciascuno un "Evento di Forza Maggiore"), a condizione,
+tuttavia, se si verifica un Evento di Forza Maggiore, la Parte interessata
+deve, non appena possibile:
+
+
+    • comunica all'altra parte dell'Evento di Forza Maggiore e il suo
+      impatto sulle prestazioni ai sensi del presente accordo;
+    • ragionevole sforzo per risolvere eventuali problemi derivanti dal
+      Evento di Forza Maggiore e attenersi agli obblighi qui di seguito.
+
+
+21. NO RINUNCIA IMPLICITA.
+
+
+Il fallimento di una delle Parti ad insistere sul rigoroso adempimento di
+qualsiasi patto o obbligo previsto dal presente accordo, indipendentemente
+dalla durata di tempo in cui tale condizione persiste, non è considerata
+una rinuncia del diritto di tale Parte di esigere il rigoroso rispetto in
+futuro. Nessun consenso o rinuncia, espressa o implicita, o di qualsiasi
+violazione o inadempienza nello svolgimento di qualsiasi obbligo previsto
+dal presente accordo costituiscono un consenso o rinuncia o di qualsiasi
+altra violazione o inadempienza nello svolgimento dello stesso o di altri
+obblighi.
+
+
+22. AVVISO.
+
+
+Qualsiasi avviso o altra comunicazione prevista nel presente documento o
+dato seguito ad un presente parte devono essere in forma scritta e devono
+essere fornite in persona, per corriere espresso o per posta (posta
+raccomandata o certificata, spese postali prepagate, ricevuta di ritorno
+richiesta) per il rispettivo Parti come segue:
+
+
+Se alla Società:
+
+
+[INDIRIZZO SOCIETÀ]
+
+
+Se per lo sviluppatore:
+
+
+[INDIRIZZO SVILUPPATORE]
+
+
+23. LEGGE.
+
+
+Il presente accordo è regolato dalle leggi dello Stato italiano. Nel caso
+in cui i risultati di contenzioso da o derivino da questo Contratto o la
+sua esecuzione, le parti decidono di rimborsare le ragionevoli spese legali
+della parte vittoriosa, spese giudiziarie, e tutte le altre spese, anche
+non imponibile dal giudice come costi, in aggiunta a qualsiasi altra
+riparazione a cui la parte prevalente può avere diritto.
+
+
+24. CONTROPARTI / FIRME ELETTRONICHE.
+
+
+Il presente accordo può essere eseguito in una o più copie, ognuna delle
+quali è considerata un originale, ma ognuno dei quali costituisce un unico
+strumento. Ai fini del presente Accordo, l'uso di un fax, e-mail o altro
+mezzo elettronico devono avere la stessa forza ed effetto, come una firma
+originale.
+
+
+25. CLAUSOLA.
+
+
+Quando possibile, ogni disposizione del presente Contratto sarà
+interpretato in modo tale da essere efficace e valida in base al diritto
+applicabile, ma se una disposizione del presente Contratto fosse ritenuta
+non valida, illegale o non attuabile da qualsiasi punto sotto qualunque
+legge o regola in qualsiasi giurisdizione, tale invalidità, illegalità o
+inapplicabilità non influenzerà alcuna altra disposizione o qualsiasi altra
+giurisdizione, ma a questo Accordo verrà riformato, interpretati e
+applicati in tale giurisdizione, come se tali disposizioni non valida,
+illegale o non applicabile non erano mai state contenute nel presente
+documento.
+
+
+26. INTERO ACCORDO.
+
+
+Il presente accordo, costituisce il testo definito, completo ed esclusivo
+dell'accordo delle parti rispetto alla materia oggetto del presente
+documento, e sostituisce qualsiasi e tutti gli altri accordi e le intese
+precedenti e contemporanei, sia scritta che orale, tra le Parti.
+
+
+27. RUBRICHE.
+
+
+I titoli utilizzati nel presente accordo sono forniti solo per comodità e
+non devono essere utilizzati per interpretare significato o intento.
+
+
+****************************************************************************
+**************************
+
+
+ALLEGATO A
+
+
+A. SCOPO DEL SISTEMA DI APPLICAZIONE.
+
+
+Lo scopo del sistema di applicazione è quello di creare una piattaforma per
+la Società a [INSERIRE SCOPO APPLICAZIONE]. Il sistema di applicazione sarà
+composto di due parti:
+
+
+   1. i servizi web e database;
+   2. [NOME APPLICAZIONE].
+
+
+La Società deve fornire il servizio web e di database allo Sviluppatore che
+ne sarà responsabile per l'Applicazione [NOME APPLICAZIONE].
+
+
+B. SERVIZI.
+
+
+Lo Sviluppatore produrrà un sistema di applicazioni, in conformità con
+l'allegato delle caratteristiche di seguito dettagliate:
+
+
+[INSERIRE SPECIFICHE]
+
+
+C. CONTENUTO.
+
+
+Tutti i contenuti devono essere fornite al Developer dalla Società nei
+formati di seguito specificate:
+
+
+   1. Tutto il testo deve essere fornito in RTF, Word, Pages, PDF, LaTex,
+      TXT o HTML.
+   2. Tutti gli elementi grafici devono essere forniti in formato TIFF, GIF,
+      JPEG, PNG o PSD.
+
+
+D. SPECIFICHE.
+
+
+Le parti convengono sulle seguenti specifiche per l'applicazione
+(collettivamente, le "Specifiche"):
+
+
+   1. La grafica utilizzata nella domanda deve essere in formato JPEG o PNG.
+   2. Lo sviluppatore deve sviluppare l'applicazione per proiettare
+      l'immagine professionale più alta.
+   3. Lo sviluppatore non deve includere collegamenti ad altri siti senza il
+      preventivo consenso scritto della Società
+   4. La domanda non comprende qualsiasi attrezzo dello sviluppatore, in
+      codice oggetto e forma di codice sorgente, che lo sviluppatore ha già
+      sviluppato o che lo sviluppatore si sviluppa in modo indipendente o
+      licenze da parte di terzi
+
+
+E. REQUISITI DI PIATTAFORMA.
+
+
+L'applicazione fornita dallo sviluppatore alla Società deve essere
+compatibile con i dispositivi mobili che supportano i seguenti sistemi
+operativi: iOS ≥8.0 e Android ≥4.4.
+
+
+F. COMPLETAMENTO ORARIO.
+
+
+Il calendario per il completamento dei Servizi (il "Prospetto) e le
+responsabilità nell'ambito dell'accordo è così dettagliato:
+
+
+[INSERIRE IL PROGRAMMA DI SVILUPPO]
+
+
+G. SCADENZE DI PAGAMENTO.
+
+
+La Società si impegna a pagare al Developer €[IMPORTO DA PAGARE] al termine
+del Periodo di Supporto secondo la seguente suddivisione: 40% dell'importo
+alla firma del contratto, 30% alla consegna della prima beta, 30% alla
+consegna finale.
+
+
+Firmando, le parti convengono di rispettare tutti i requisiti contenuti nel
+presente Allegato A.
+
+
+In fede di che, le parti hanno sottoscritto il presente Accordo alla data
+prima sopra scritto.
+
+|SOCIETÀ/AZIENDA/ASSOCIAZIONE  |[NOME SOCIETÀ O AZIENDA]        |
+|                              |Contatto: [CONTATTO]            |
+|                              |Indirizzo: [INDIRIZZO SOCIETÀ]  |
+|                              |Email: [EMAIL SOCIETÀ]          |
+|SVILUPPATORE/DEVELOPER        |[NOME SVILUPPATORE]             |
+|                              |Indirizzo: [INDIRIZZO           |
+|                              |SVILUPPATORE]                   |
+|                              |Email: [EMAIL SVILUPPATORE]     |
+

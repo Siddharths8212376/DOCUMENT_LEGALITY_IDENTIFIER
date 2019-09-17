@@ -1,0 +1,160 @@
+
+At VigilanteTech, we collect and manage user data according to the
+following Privacy Policy, with the goal of incorporating our company
+values: transparency, accessibility, sanity, usability. This document is
+part of VigilanteTech's Terms of Service, and by using vigilante.tech (the
+“Website”), you agree to the terms of this Privacy Policy and the Terms of
+Service. Please read the Terms of Service in their entirety, and refer to
+those for definitions and contacts.
+
+
+Data Collected
+
+
+We collect anonymous data from every visitor of the Website to monitor
+traffic and fix bugs. For example, we collect information like web
+requests, the data sent in response to such requests, the Internet Protocol
+address, the browser type, the browser language, and a timestamp for the
+request.
+
+
+We ask you to log in and provide certain personal information (such as your
+username, password, and email address) in order to be able to save your
+profile and the documents and comments associated with it. In order to
+enable these or any other login based features, we use cookies to store
+session information for your convenience. You can block or delete cookies
+and still be able to use VigilanteTech, although if you do you will then be
+asked for your username and password every time you log in to the Website.
+In order to take advantage of certain features of the Website, you may also
+choose to provide us with other personal information, such as your
+avatar/picture, full name, date of birth, or personal website, but your
+decision to utilize these features and provide such data will always be
+voluntary.
+
+
+You are able to view, change and remove your data associated with your
+profile. We currently do not provide support for account deletion, but
+should you desire to close your account, please contact the server
+administrator at the@vigilante.tech and we will follow up with such request
+as soon as possible.
+
+
+Minors and children should not use VigilanteTech. By using the Website, you
+represent that you have the legal capacity to enter into a binding
+agreement. Additionally, some content on VigilanteTech may be against legal
+regulations in your country as we do not limit content access based upon
+geolocation, you are responsible for using the Website in a way that does
+not violate any legal restrictions that you are subject to.
+
+
+Use of the Data
+
+
+We only use your personal information to provide you the VigilanteTech
+services or to communicate with you about the services or the Website.
+
+
+With respect to any content you may choose to upload to VigilanteTech, we
+take the privacy and confidentiality of our users and their content
+seriously. We encrypt all documents, and permanently delete any edits you
+make to shared content. By use of the Website you may subject your content
+to public view. If you choose to share content that may be personal in
+nature, we require you redact any and all references to people and
+addresses, as we can't protect public data and we are not responsible for
+any violation of privacy law you may be liable for.
+
+
+We employ industry standard techniques to protect against unauthorized
+access of data about you that we store, including personal information.
+
+
+We do not share personal information you have provided to us without your
+consent, unless:
+
+
+    • doing so is required to carry out your own request;
+    • we believe it's needed to enforce our Terms of Service, or that is
+      legally required;
+    • we believe it's needed to detect, prevent or address fraud, security
+      or technical issues;
+    • otherwise protect our property, legal rights, or that/those of others.
+
+
+VigilanteTech is operated from the United States (we're sorry). If you are
+visiting the Website from outside the U.S., you agree to any processing of
+any personal information you provide us according to this policy.
+VigilanteTech recommends supplying only the requisite information and
+securing your browsing from a reliable VPN.
+
+
+VigilanteTech may contact you, by email or other means. For example,
+VigilanteTech may send you notification emails relating to VigilanteTech,
+or communicate with you about your use of the VigilanteTech website. The
+aforementioned emails may not be opted out of due to their infrequent
+nature, and the need to alert users of any privacy policy or terms of
+service overhauls, or Website closure. Additionally, the NodeBB platform
+offers several digest notification emails that can be opted into via your
+profile on the Website. As a user of the Website, you are responsible for
+managing these settings yourself.
+
+
+Sharing of Data
+
+
+We don't share your personal information with third parties. We have
+included a list of all services employed by VigilanteTech and a synopsis of
+any anonymized, aggregated data that those services might collect. These
+external services are used to help us improve the VigilanteTech Website and
+service. Feel free to check out their own Privacy Policies to find out
+more.
+
+
+    • Mailgun: transactional logs (addresses, time/date) of email sent via
+      the community
+    • Freshdesk: anonymous
+    • Docracy: uses Google Analytics and Kissmetrics (browser type,
+      demographics, time/date, language settings, page views, ad serving
+      domains, pseudonymous IP address).
+
+
+Note: Docracy is only utilized when viewing the external links to our
+Privacy Policy and Terms of Service.
+
+
+We also use social buttons provided by services like Twitter and Google+.
+Your use of these third party services is entirely optional. We are not
+responsible for the privacy policies and/or practices of these third party
+services, and you are responsible for reading and understanding those third
+party services’ privacy policies.
+
+
+We do not employ nor contract with people and other entities that perform
+certain tasks on our behalf and who are under our control (our “Agents”).
+
+
+We may choose to buy or sell assets. In these types of transactions, user
+information is typically one of the transferred business assets. Moreover,
+if we, or substantially all of our assets, were acquired, or if we go out
+of business or enter bankruptcy, user information would be one of the
+assets that are transferred or acquired by a third party in the event of
+the sale. You acknowledge that such transfers may occur and that any
+acquirer of us or our assets may continue to use your personal information
+as set forth in this policy. Please note that there are no plans to sell
+VigilanteTech assets, and such plans are incredibly unlikely.
+
+
+Changes to the Privacy Policy
+
+
+We may amend this Privacy Policy from time to time. Use of information we
+collect now is subject to the Privacy Policy in effect at the time such
+information is used. If we make major changes in the way we collect or use
+information, we will notify you by posting an announcement on the Website
+or sending you an email. A user is bound by any changes to the Privacy
+Policy when he or she uses the Services after such changes have been first
+posted.
+
+
+Should you have any question or concern, please write to
+the@vigilante.tech.
+

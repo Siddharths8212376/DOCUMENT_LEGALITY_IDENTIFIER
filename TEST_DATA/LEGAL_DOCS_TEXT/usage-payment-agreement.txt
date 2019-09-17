@@ -1,0 +1,136 @@
+
+THIS AGREEMENT (the "Agreement"), executed on [[[DATE]]], governs the usage
+rights and financial obligations of [[[PARTY A]]] (the “first Party”) and
+[[[PARTY B]]] (the “second Party”), with regards to a dedicated server (the
+"Server") to be shared amongst the Parties.
+
+
+                                  Article I
+
+
+                             Nature of Agreement
+
+
+1. Ownership: Upon entering the Agreement, the Parties agree to share the
+Server physically located at [[[LOCATION]]].The Server is on rent from
+[[[PROVIDER]]] (the "Provider").
+
+
+2. Termination: This Agreement terminates when either Party decides not to
+share the Server or the Server has been terminated by the Provider.
+
+
+3. Amendment: Additional provisions may be amended to this agreement, with
+written consent of the Parties.
+
+
+4. Violation of Terms Set Forth: Any violation of this document enables
+legal action against the violator on behalf of the other party.
+
+
+5. Severability: If any provision of this Agreement is found by a proper
+authority to be unenforceable or invalid such unenforceability or
+invalidity shall not render this Agreement unenforceable or invalid as a
+whole and in such event, such provision shall be changed and interpreted so
+as to best accomplish the objectives of such unenforceable or invalid
+provision within the limits of applicable law.
+
+
+6. Provider’s Policies: The Parties agree to follow the Terms of Service
+and Acceptable Use Policy defined by the Provider. These are located at
+[[[PROVIDER’S TOS LINK]]] and [[[PROVIDER’S AUP LINK]]].
+
+
+7. Governing Body: This Agreement shall be governed by and construed in
+accordance with the laws of the State of Missouri, USA without regard to
+the conflicts of laws provisions thereof.
+
+
+                                 Article II
+
+
+                                   Payment
+
+
+1. Expenses and Methods: The effective monthly expense of the Server,
+[[[MONTHLY PAYMENT]]] (“Monthly Expense”), is to be split amongst the
+Parties accordingly: the first Party agrees to pay the amount of [[[COST
+A]]] per month, and the second Party agrees to pay the amount of [[[COST
+B]]] per month.Additionally, the Parties agree to pay a 50/50 split of the
+one-time, nonrefundable setup fee of [[[SETUP COST]]]. Due to limitations
+of the Provider, (a) the first Party agrees to maintain the financial
+account with the Provider; (b) the first Party agrees to paying both the
+Monthly Expense and the one-time, nonrefundable setup fee in full to the
+Provider; and (c) the second Party agrees to provide both her/his monthly
+payment to the first Party and her/his portion of the one-time,
+nonrefundable setup fee.The first Party agrees to forward a copy of all
+receipts paid for by both parties, to the second party, at his/her
+preferred e-mail address.
+
+
+2. Circumstances: The Parties are permitted to negotiate special
+circumstances between each Party with regards to a future Monthly
+Expense.If a Party is unable to provide her/his portion of the next Monthly
+Expense, he/she agrees to notify the other Party at least one week in
+advance except in extenuating circumstances, including but not necessarily
+limited to: hospitalization, admission to an asylum, or a life altering
+event.
+
+
+                                 Article III
+
+
+                                    Usage
+
+
+1. Usage of Resources: The Parties agree to share processing time, memory
+allocation, and bandwidth as is necessary for optimal operation of
+applications on the Server; these resources may be used as much as each
+Party needs as long as operation of critical services are not significantly
+affected negatively.What constitutes negative effects include, but are not
+limited to, the following: downtime, increased latency, increased
+processing time, and decreased network throughput.Should a Party need to
+perform a resource intensive operation that would result in any negative
+effect, he/she must receive consent from the other Party to either perform
+the operation, or schedule its execution to the off-hours of 23:00-05:00
+UTC-6. The Parties agree to share hard drive space on the Server’s solid-
+state drive equally, to the best of their ability.The Parties also agree to
+keep total disk usage on the solid-state drive under 90%, for optimal disk
+operation.The Parties agree to tentatively split hard drive space on the
+secondary platter drive to the proportions of each Party’s monthly payment:
+the first Party owns [[[DISK SPACE A]]] and the second [[[DISK SPACE B]]].
+
+
+2. Privacy and Non-disclosure: The Parties agree to  follow  the  terms  set
+forth by  the  non-disclosure  agreements  between  them.Additionally,  both
+Parties agree to respect each other’s privacy by not performing any  of  the
+following actions.
+
+
+* Perusing through the other Party's data
+
+
+* Modifying or deleting other Party's data
+
+
+* Killing processes owned by the other Party
+
+
+* Removing the other Party's programs
+
+
+* Inhibiting processes from running
+
+
+* Monitoring or recording other Party's usage data
+
+
+The above list does not seek to define all actions that would  violate  each
+other’s privacy. This section does not supersede any terms set forth by  the
+non-disclosure agreements between the Parties.These privacy  restraints  may
+be waived if a Party has obtained explicit permission from the other  Party,
+or when legally requested by a court.The perusal and modification  of  data,
+as well as the killing of processes may also be  allowed  when  required  to
+resolve a problem impeding server operation or to  resolve  another  Party’s
+resource usage in order to keep Article III, Section 1 in effect.
+

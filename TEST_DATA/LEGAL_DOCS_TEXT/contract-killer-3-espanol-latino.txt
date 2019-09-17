@@ -1,0 +1,270 @@
+
+Fecha: [[FECHA]]
+
+
+Entre nosotros [[NUESTRA EMPRESA]] y ustedes [[NOMBRE DEL CLIENTE]]
+
+
+Compromiso:
+
+
+Nuestro compromiso es hacer siempre lo mejor para satisfacer las
+necesidades y cubrir las expectativas de nuestros clientes, y es importante
+que ambas partes tengamos las cosas claras y por escrito de manera que
+todos entendamos qué es qué, quién debe hacer qué, cuándo debe hacerlo, y
+qué va a pasar si algo no sale como se planeó. Este convenio es muy
+sencillo y no encontrarán en él complicados términos legales o largos
+párrafos difíciles de entender. Buscamos lo mejor para ambas partes, ahora
+y en el futuro.
+
+
+Antecedentes:
+
+
+Ustedes ([[NOMBRE DEL CLIENTE]]), de ahora en adelante, el Cliente , con
+dirección en [[DIRECCIÓN DEL CLIENTE]]contrata a [[NUESTRA EMPRESA]] para
+[[DISEÑAR Y DESARROLLAR UN SITIO WEB]] por un precio total acordado de
+[[PRECIO TOTAL]]. (Podría ser más complicado que esto, pero ya llegaremos
+allí)
+
+
+¿Qué acuerdan ambas partes?
+
+
+El Cliente: El cliente tiene la autoridad para entrar en este convenio
+representándose a sí mismo, a su empresa o a su organización. Pondrán a
+nuestra disposición todo lo que necesitemos para llevar a cabo el proyecto
+y en el formato que requerimos. Revisarán nuestro trabajo, comentaran y
+aprobarán de manera puntual. Los estimados de tiempo se aplican a ambas
+partes, así que ustedes estarán sujetos a las fechas que hayamos acordado.
+De igual manera se ajustarán a las fechas de pagos establecidas al final de
+este contrato.
+
+
+[[NUESTRA EMPRESA]]: [[NUESTRA EMPRESA]] utilizará su experiencia y
+habilidad para llevar a cabo lo que hemos acordado de una forma profesional
+y dentro de las fechas acordadas. Cumpliremos todos los estimados de tiempo
+establecidos y sobre todo mantendremos total confidencialidad en todo lo
+que nos entreguen.
+
+
+Metodología
+
+
+Diseño
+
+
+Nosotros diseñamos el aspecto de la web y diagramas flexibles que se
+adaptan a las capacidades de los distintos dispositivos y tamaños de
+pantalla. Creamos diseños iterativamente y usamos principalmente HTML y CSS
+así no perdemos tiempo maquetando cada plantilla de manera estática. De
+todas maneras puede que usemos diseños estáticos para mostrar el aspecto
+(color, textura y tipografía.) A eso lo llamamos "Atmósfera de Diseño"
+
+
+En cada etapa del desarrollo el Cliente tendrá un mínimo de dos
+oportunidades para revisar nuestro trabajo y proveer comentarios y
+opiniones. Si, en cualquier etapa, no hubiera satisfacción con el trabajo,
+nos pagarían solo por lo realizado hasta ese punto y se cancelaría de esa
+manera el contrato.
+
+
+Textos
+
+
+No somos responsables de escribir o introducir ningún tipo de contenido de
+texto. Si es su deseo que produzcamos nuevos contenidos o texto por
+ustedes, podemos proveer un precio estimado aparte por ello.
+
+
+Fotografías
+
+
+Deben proveer archivos gráficos en un formato de vectores editable. Deben
+proveer fotografías en un formato digital de alta resolución. Si deciden
+comprar las fotografías, podemos sugerir bancos de imágenes. Si es su deseo
+que busquemos o produzcamos estas fotografías por ustedes, podemos proveer
+un precio estimado aparte por ello.
+
+
+HTML, CSS y Javascript
+
+
+Las plantillas son desarrolladas en HTML5, hojas de estilos en CSS2.1 + 3 y
+JavaScript no intrusivo para rutinas de detección, poly-fills y
+comportamiento en general.
+
+
+Pruebas en navegadores
+
+
+Las pruebas en navegadores ya no suponen que un sitio web debe verse igual
+en navegadores con capacidades distintas o en dispositivos de pantalla con
+diferentes tamaños. Lo que quiere decir es que aseguramos que la
+experiencia del usuario de nuestro diseño será apropiada a las capacidades
+de su navegador o dispositivo.
+
+
+Pruebas en navegadores de Escritorio
+
+
+Probamos nuestro trabajo en las versiones actuales de la mayoría de los
+navegadores modernos, incluidos aquellos desarrollados por Apple (Safari),
+Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox y Opera.
+También hacemos pruebas para asegurar que los usuarios de Internet Explorer
+8 para Windows obtengan una experiencia apropiada, aunque posiblemente
+diferente.
+
+
+No haremos pruebas en otros navegadores antiguos a menos que especifiquen
+lo contrario. Si consideran apropiado un diseño optimizado para otros
+navegadores antiguos, podemos proveer un precio estimado aparte por ello.
+
+
+Pruebas en navegadores Móviles
+
+
+Las pruebas en los dispositivos más populares son esenciales para asegurar
+que la experiencia de usuario de un diseño es apropiada para el dispositivo
+que usa. Hacemos pruebas en:
+
+
+iOS: Safari, Google Chrome y Opera Mini
+
+
+Android 4.1: Google Chrome, Firefox y Opera Mini
+Android 3.2: Browser, Firefox y Opera Mini
+
+
+Actualmente no probamos/revisamos en Blackberry OS o Blackberry QNX, Opera
+Mobile, Symbian o ningún otro navegador móvil. Si necesitan que probemos
+con éstos, podemos proveer un precio estimado aparte por ello.
+
+
+Soporte Técnico
+
+
+No somos una compañía de hospedaje y por eso no ofrecemos soporte al
+hospedaje de su web, e-mail u otro servicio relativo al hospedaje.
+Probablemente el Cliente ya tiene un servicio profesional de hospedaje e
+incluso controla todo eso internamente. Si lo hace, bien. Si no, podemos
+crear una cuenta para ustedes en uno de nuestros proveedores de hospedaje
+preferidos.
+
+
+De requerirlo así, también podemos configurar su sitio en un servidor,
+además de cualquier software de estadísticas y métricas como Google
+Analytics, y proveeremos un precio estimado aparte por ello. A partir de
+ese punto, las actualizaciones y administración del servidor, dependen
+exclusivamente del Cliente.
+
+
+Cambios y revisiones
+
+
+Sabemos por experiencia que los contratos por un precio fijo pocas veces
+son beneficiosos para ustedes, ya que la mayoría los limita a las ideas
+iniciales. No queremos limitar su libertad de cambiar de parecer.
+
+
+El precio al inicio de este convenio está basado en la cantidad de tiempo
+que estimamos que nos llevará completar todo lo que nos comunicaron que
+quieren lograr, pero nos encanta ser flexibles.
+
+
+Si quieren cambiar de parecer o agregar cualquier cosa nueva al proyecto,
+no será un problema ya que proveeremos un precio estimado aparte por ello.
+
+
+Asuntos legales
+
+
+No podemos garantizar que nuestro trabajo estará libre de errores que no
+sean de nuestra exclusiva responsabilidad técnica y por ello no podemos y
+no nos hacemos responsables ante ustedes o terceros por daños o perjuicios.
+
+
+En cuanto a la parte técnica referida, si hubiera cambios o fallas que se
+descubran en un futuro, no está dentro de nuestras posibilidades saberlo
+desde ahora, por lo que puede ocurrir que más adelante sea necesario hacer
+ajustes que hoy no están presupuestados.
+
+
+Este convenio no puede ser transferido a nadie más sin nuestro permiso.
+
+
+Finalmente si una parte de este convenio es anulada, o imposible de cumplir
+por cualquier razón, entonces esa parte será apartada y no afectará la
+validez de las partes restantes.
+
+
+Derechos de Autor
+
+
+El Cliente debe garantizar que todos los elementos como textos, imágenes u
+otros elementos visuales entregados por ustedes son de su propiedad o que
+tienen permiso para usarlos.
+
+
+Una vez que su pago final se haya efectuado, los derechos serán asignados
+de la siguiente manera:
+
+
+Al Cliente le pertenecerán los elementos visuales que hayamos creado para
+este proyecto. Les daremos los archivos fuente y las imágenes/archivos
+finales y ustedes son responsables de guardarlos y respaldarlos ya que
+nosotros no estamos obligados a mantener una copia. Son propietarios o
+permisionarios de todos los textos, imágenes y datos que ustedes nos
+entregaron.
+
+
+[nuestra empresa] tendrá la propiedad intelectual de la combinación de
+estos elementos que constituyen un diseño completo y ustedes contarán con
+la licencia exclusiva a perpetuidad. Si el Cliente desea utilizar el diseño
+para otros proyectos, podemos proveer un precio estimado aparte por ello.
+
+
+Nos encanta mostrar nuestro trabajo y compartir lo que hemos aprendido con
+otras personas, así que nos reservamos el derecho, con su permiso, de
+mostrar o enlazar a su proyecto como parte de nuestro portafolio y de
+escribir sobre ello en sitios web, revistas y libros.
+
+
+Pagos
+
+
+Estamos seguros de que comprenden lo importante que es para una pequeña
+empresa recibir el pago a tiempo de nuestras facturas, por lo que acuerdan
+ajustarse a los tiempos de pagos propuestos a continuación:
+
+
+[[CALENDARIO DE PAGOS]]
+
+
+¿Pero dónde está la letra pequeña?
+
+
+No hay letras pequeñas. Este convenio queda validado y no necesita ser
+renovado. Si por cualquier razón alguna parte de este convenio queda
+invalidada, el resto de las partes siguen en práctica.
+
+
+Aunque el lenguaje es simple, las intenciones son serias y este convenio es
+un documento legal bajo la jurisdicción legal exclusiva de las cortes [[DEL
+PAÍS]].
+
+
+La línea de puntos
+
+
+Firmado por y en representación de [[NUESTRA EMPRESA]]
+
+
+Firmado por y en representación de [[NOMBRE DEL CLIENTE]]
+
+
+Fecha [[FECHA]]
+
+
+Cada quien debe firmar arriba y mantener una copia para sus registros.
+

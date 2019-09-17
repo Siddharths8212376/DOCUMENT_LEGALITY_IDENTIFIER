@@ -1,0 +1,146 @@
+
+                                                  Hashdog - Software Factory
+
+
+                            CONTRACTOR AGREEMENT
+
+
+In this document are set the terms and conditions of the service that
+Hashdog will offer to PepitoEars (from now on referred to as "the client").
+
+
+Listed below are the services to be provided, the workflow, and the
+guarantees offered to the client.
+
+
+1. SERVICES TO BE PROVIDED
+
+
+    • Software Factory: Analysis, design, development, implementation and
+      maintenance of websites and web applications.
+    • Project Management: Usage of Agile methodologies like Scrum and
+      Kanban.
+    • System Administration: Handling of the infrastructure to support the
+      working system.
+    • This and any other services that can be considered billable hours (see
+      point 2)
+
+
+2. BILLABLE HOURS
+
+
+These are the hours invested by Hashdog in analyzing and solving the tasks
+required by the client from the beginning of the project until its
+culmination. This tasks are: Previous project analysis, design,
+development, project management tasks, and any other tasks that require
+Hashdog’s time to complete the client’s project.
+
+
+Billable hours are defined as any activity that requires time/effort to
+Hashdog’s team.
+
+
+3. WORK METHOLOGY
+
+
+Agile software development methodologies (Scrum and Kanban) will be used,
+or an adaptation of them if this was necessary. This methodologies will be
+agreed with the client before the beginning of each project.
+
+
+4. CONTRACT RIGHTS
+
+
+Both parties (Hashdog and the Client) may cancel the project during its
+development in the case that one of the parts isn’t satisfied. liquidating
+the costs of the project if necessary.
+
+
+5. WORKING HOURS
+
+
+The daily amount of working hours will be 8 (eight). Hashdog’s team will
+work Mondays to Fridays, from 9am to 18pm (Argentina time), with the
+exception of national holidays, in which the team will not work. For more
+information on Argentina’s national holidays,
+visithttp://www.mininterior.gov.ar/tramitesyservicios/feriados.php.
+
+|TimeZone      |Start|End  |
+|PST/PDT       |5:00 |2:00 |
+|              |am   |pm   |
+|CST/CDT       |7:00 |4:00 |
+|              |am   |pm   |
+|EST/EDT       |8:00 |5:00 |
+|              |am   |pm   |
+|BS AS         |9:00 |6:00 |
+|(Argentina)   |am   |pm   |
+
+
+Any out of-the-schedule request must be agreed between both parts (Hashdog
+and the client). It must be kept in mind that extra development hours cost
+double the value of regular working hours.
+
+
+6.NDA
+
+
+The client can request an NDA (non disclosure agreement) to Hashdog if
+needed.
+
+
+7. COST OF THE SERVICES
+
+
+We offer various payment methods. The cost of each one of these depends on
+the hours of development spent at the moment of payment. The client must
+choose one payment method and keep that method through the project’s
+development until its completion. The cost per hour may change every 6
+months.
+
+|Monthly Hours    |        |         |          |
+|Range            |        |         |          |
+|T \ Hs           |0 hs- 40|41 hs -  |80 hs -   |
+|                 |hs      |80 hs    |160 hs    |
+|NET 0            |$50.00  |$35.00   |$30.00    |
+|NET 15           |$53.00  |$37.10   |$31.80    |
+|NET 30           |$56.18  |$39.33   |$33.71    |
+
+
+Table 1
+
+
+In case of incompliance of payment on the established days, Hashdog will
+automatically modify the cost of the mensual cuota for that period to a
+preassigned percentage established in the following table:
+
+|Monthly Hours Range in case of      |        |         |          |
+|incompliance                        |        |         |          |
+|T \ Hs                              |0 hs- 40|41 hs -  |80 hs -   |
+|                                    |hs      |80 hs    |160 hs    |
+|NET 0                               |$58.30  |$40.81   |$34.98    |
+|NET 15                              |$61.80  |$43.26   |$37.08    |
+|NET 30                              |$67.98  |$47.58   |$40.79    |
+|NET 45                              |$74.78  |$52.34   |$44.87    |
+|NET 60                              |$79.26  |$55.48   |$47.56    |
+
+
+Table 2
+
+
+8. PAYMENT PROCESS
+
+
+Once started the development of the project, Hashdog will send the client a
+Freshbook invoice (or any program previously agreed with the client) every
+15 (fifteen) days, with independence of the payment method selected by the
+client.
+
+
+The client must process and send the payment detailed in the invoice
+through the previously agreed payment method.
+
+
+If the client does not make the payment in a timely manner, the costs will
+be charged in the next invoice. If the last payment is due, a new invoice
+will be generated for the interests
+

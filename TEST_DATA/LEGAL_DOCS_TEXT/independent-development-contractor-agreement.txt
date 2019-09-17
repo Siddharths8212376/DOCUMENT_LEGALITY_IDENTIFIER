@@ -1,0 +1,162 @@
+
+
+                Independent Development Contractor Agreement
+
+
+Definitions
+
+
+Developer: [NAME OF INDIVIDUAL ISSUING THIS CONTRACT]
+
+
+Client: [NAME OF COMPANY OR INDIVIDUAL ENTERING INTO THIS CONTRACT WITH THE
+DEVELOPER]
+
+
+Services: [ANY TASK OR SERIES OF TASKS DONE BY THE DEVELOPER ON REQUEST
+FROM THE CLIENT, OR AS PART OF FULFILLING A REQUEST FROM THE CLIENT]
+
+
+Prerequisites: [DESCRIBE THE PREREQUISITES FOR COMPLETING THE JOB.]
+
+
+Deliverables: [ANY CODE, IMAGES, MARKUP, SCRIPTS, CONTENT CREATED BY THE
+DEVELOPER WHILE PERFORMING SERVICES]
+
+
+Acceptance Criteria: [DESCRIBE THE CONDITIONS UNDER WHICH THE CLIENT WILL
+ACCEPT THE DELIVERABLES.]
+
+
+Terms
+
+
+   1. Rate: Services shall be billed to the Client at the rate of $___ USD
+      per hour.
+
+
+   2. Payment: The Client shall send payment to the Developer within 30 days
+      of receiving an invoice.
+
+        1. Late Payment: In the event that any payment required to be paid
+           by Client is not made within 5 days of when due, Contractor
+           shall pay to Developer, in addition to such payment or other
+           charges due hereunder, a "late fee" equal to 30% of the total
+           amount due.
+
+   3. Billable Time: All time spent performing Services and communicating
+      with the Client is billable.
+
+        1. Estimations: If an estimate is requested by the Client, the
+           first 30 minutes of time spent preparing the estimate will not
+           be billable. Time spent on an estimate beyond 30 minutes will be
+           billable at the normal rate.
+
+   4. Copyright: Copyright of all Products created while performing Services
+      for the Client will be transferred to the Client upon receipt of
+      payment in full, except in the cases described below.
+
+
+   5. Copyright Exceptions
+
+        1. The Developer reserves the right to reuse and re-license
+           portions of the created Product as desired, as long as the
+           portions are general solutions to common problems and are not
+           specific to the Clients product.
+        2. Any portions of the Product whose copyright is withheld by the
+           developer are licensed to the Client for use in the Product
+           under the MIT license: http://www.opensource.org/licenses/mit-
+           license.php
+        3. The Client will only be billed for portions of the Product which
+           were created during the effective period of this contract and
+           created while performing Services for the Client.
+
+   6. Termination: Either party must give at least 14 days notice to the
+      other party before termination. This contract may only be terminated
+      after all outstanding invoices have been paid in full.
+
+
+   7. Changes: Either party may request to modify the terms of this contract
+      at any time. When both parties consent to new terms and a new contract
+      is signed, this contract is terminated immediately.
+
+
+   8. Acceptance
+
+
+        1. Acceptance Criteria: The Client and Developer shall define the
+           Acceptance Criteria.
+
+
+        2. Acceptance Period: The Client will have 10 days following the
+           date of delivery to evaluate the deliverables.
+
+
+        3. Completion. If, in the sole opinion of Client, the deliverables
+           satisfy the Acceptance Criteria, then Developer shall be deemed
+           to have completed its delivery obligations.
+
+
+        4. Rejection. If, in the sole opinion of Client, the deliverables
+           does not satisfy the Acceptance Criteria, then:
+
+
+              1. Notification. Client shall itemize in writing each failure
+                 to satisfy the Acceptance Criteria.
+
+
+              2. Correction. Developer shall use its best efforts to correct
+                 the deliverables and upon delivery of such correction and
+                 deliver the deliverables to Client for acceptance.
+
+
+              3. Continued Failure. If Developer's corrections, in the sole
+                 opinion of Client, fails to deliver or satisfy the
+                 Acceptance Criteria on more than two corrections, then
+                 Client may elect to:
+
+
+                    1. terminate the agreement, or
+
+
+                    2. adjust the Acceptance Criteria.
+
+
+   9. Independent Contractor Status
+
+
+        1. The Developer is an independent contractor of Client. Nothing
+           contained in this Agreement shall be construed to create the
+           relationship of employer and employee, principal and agent,
+           partnership or joint venture, or any other fiduciary
+           relationship.
+
+
+        2. The Developer shall have no authority to act as agent for, or on
+           behalf of, the Client, or to represent the Client, or bind the
+           Client in any manner.
+
+
+        3. The Developer shall not be entitled to worker's compensation,
+           retirement, insurance or other benefits afforded to employees of
+           the Client.
+
+
+  10. Indemnification
+
+
+        1. The Developer agrees to indemnify and hold harmless the Client,
+           its affiliates, and its respective officers, directors, agents
+           and employees from any and all claims, demands, losses, causes
+           of action, damage, lawsuits, judgments, including attorneys’
+           fees and costs, arising out of, or relating to, the Developer's
+           services under this Agreement. This provision shall survive the
+           duration of this Agreement.
+
+
+        2. The Developer agrees to defend against any and all claims,
+           demands, causes of action, lawsuits, and/or judgments arising
+           out of, or relating to, the Developer's services under this
+           Agreement, unless expressly stated otherwise by the Client, in
+           writing.
+

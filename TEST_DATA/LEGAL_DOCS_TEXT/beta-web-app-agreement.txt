@@ -1,0 +1,357 @@
+
+                       BETA WEB APPLICATION AGREEMENT
+
+
+      This Beta Web Application Agreement (this  "Agreement")  is  made  and
+entered into as of the ________ day of ________ (the  "Effective  Date")  by
+and between ________ ("Primary Provider") and ________ ("Web  Vendor").  Web
+Vendor and Primary Provider may be referred to  individually  as  a  "Party"
+and collectively as the "Parties."
+
+
+      WHEREAS, Primary Provider sells or provides to its end-user  customers
+certain equipment, software products and related services which are used  or
+installed at  the  customers'  sites,  including  [describe  the  equipment,
+products or services] (the "Basic Installation"); and
+
+
+      WHEREAS, Web Vendor sells and provides certain Web-based  applications
+via  the  Internet,  including  [describe  the   applications]   (the   "Web
+Service"), which can be combined with the Basic Installation  to  create  an
+"Integrated Solution" for use by the same customers; and
+
+
+      WHEREAS, the Parties desire to conduct a "beta test" in which  one  or
+more existing customers using the  Basic  Installation  (the  "Beta  Users")
+test the  use  of  the  Web  Service  as  part  of  an  Integrated  Solution
+(collectively, the "Beta"); and
+
+
+      WHEREAS, during the Beta, the Parties desire to  continue  discussions
+regarding a possible business relationship between the Parties  regarding  a
+joint offering of the Integrated Solution, subject to terms  and  conditions
+to be agreed by the Parties.
+
+
+      NOW, THEREFORE, for good and valuable consideration, the  receipt  and
+sufficiency of which are hereby acknowledged, the Parties hereto,  intending
+to be legally bound, hereby agree as follows:
+
+
+1. Responsibilities of the Parties.
+
+
+1.1 Delivery, Test,  and  Monitoring  Systems.  Prior  to  installation  and
+delivery of the Web  Service  to  any  Beta  User,  the  Parties  will  work
+together to establish systems for the delivery, testing  and  monitoring  of
+the Web Service in combination with the Basic  Installation,  based  on  the
+protocol described  in  Schedule  1.1  hereto  [omitted].  Each  party  will
+provide the equipment, services and other services necessary  to  carry  out
+such systems.
+
+
+1.2 Licenses.
+
+
+(a) Subject to the terms  and  conditions  of  this  Agreement,  Web  Vendor
+hereby  grants  Primary  Provider  a  nonexclusive,  nonassignable  license,
+during the Term, to  make,  use,  have  used,  execute,  transmit,  display,
+perform,  transfer  and  create  derivative  works  with  respect   to   any
+programming, technology, or intellectual property  provided  by  Web  Vendor
+with respect to the Web Services, in any medium  or  form  of  distribution,
+and to authorize others to do some or all of  the  foregoing  in  connection
+with the performance of this Agreement, for the  purposes  of  (i)  offering
+the Web Service to Beta Users in combination with the Basic Installation  to
+Beta Users and  allowing  Beta  Users  to  use  and  access  the  Integrated
+Solution pursuant to this Agreement,  (ii)  using  the  Integrated  Solution
+both  internally  and  externally  for  training,  sales  demonstration  and
+support, to the extent Primary Provider is expected or permitted  to  engage
+in such activities pursuant to this Agreement, and (iii) using Web  Services
+for the purposes of integration, development and testing of  the  Integrated
+Solution.
+
+
+(b) Each Party shall be responsible for obtaining  any  additional  licenses
+or authorizations determined to be necessary by such Party  for  development
+and operation of its Test Systems, beyond those granted hereunder.
+
+
+1.3 Specifications, Milestones, Schedule and Launch.
+
+
+(a)  Each  party  will  use  commercially  reasonable  efforts   to   render
+performance in accordance with the technical  specifications  set  forth  in
+Schedule 1.3(a) hereto, including specified service  levels  [omitted].  Any
+revisions to such specifications shall be  in  writing  and  signed  by  the
+Project Manager for each Party.
+
+
+(b) Each  Party  will  use  commercially  reasonable  efforts  to  meet  the
+milestone schedule set forth in Schedule 1.3(b)  hereto  [omitted]  so  that
+the Beta is available for launch to Beta Users by [specify date].
+
+
+1.4 Phased Approach. Initially the  Beta  will  be  limited  to  a  mutually
+agreed number of Beta Users  for  the  purpose  of  testing  the  Integrated
+Service and gathering feedback from Beta Users. Next, the  Parties  plan  to
+expand the audience and establish a process for  roll-out  and  coordination
+of support functions. Next, the Parties plan to integrate delivery,  testing
+and monitoring systems in order to improve efficiency and  provide  coverage
+for the widest possible audience of end-user customers.
+
+
+1.5 Availability. Web Vendor will use  commercially  reasonable  efforts  to
+have the hosted applications and monitoring services that are the basis  for
+the Web Service ready for use, accessible, and  capable  of  operation  from
+the hours of [e.g., 8AM to 8PM EST Monday through Friday] during the  course
+of the Beta, except for scheduled maintenance and construction.
+
+
+1.6 Beta Users. The parties will work together to identify prospective  Beta
+Users. Primary  Provider  will  have  the  final  decision  regarding  which
+customers using the Basic Installation are chosen  to  participate  as  Beta
+Users.1.6
+
+
+1.7 In Call Support. Web Vendor agrees to provide "in call support" to  Beta
+Users during the Beta  at  no  charge.  Web  Vendor  will  use  commercially
+reasonable efforts to  resolve  basic  issues  relating  to  the  Integrated
+Solution including usage, how-to questions and quality problems. Web  Vendor
+will provide Primary Provider, though use of an on-line  log  accessible  to
+Primary Provider, with a brief description of each call received,  including
+a description of the problem and any associated resolution. When Web  Vendor
+is unable to resolve a given problem, Web Vendor will direct the  Beta  User
+to a Web feedback forum and/or "Level 2 Support" based on the  protocol  set
+forth in Schedule 1.7 [omitted].
+
+
+1.8 Training. Primary  Provider  will  provide  Web  Vendor  operators  with
+training  regarding  the  Basic  Installation  portion  of  the   Integrated
+Solution. This training will be focused on providing  the  skills  necessary
+to resolve basic issues during In Call Support as outlined in  Section  1.7.
+This training may be provided on site in [identify location] or  via  a  Web
+conference at the election of Primary Provider.
+
+
+2. Costs. Each Party shall be responsible for its  own  expenses  associated
+with the Beta and this Agreement. For purposes of clarification, Web  Vendor
+will provide the Web Service and In Call Support for the Beta at no charge.
+
+
+3. Ownership.
+
+
+3.1 General. As between the Parties,  (i)  Primary  Provider  will  own  all
+rights and title to the Basic Installation and  its  systems  for  delivery,
+testing and monitoring the Basic  Installation,  and  any  enhancements  and
+improvements thereto, and derivative  works  thereof,  and  all  proprietary
+rights therein, and (ii) Web Vendor will own all rights  and  title  to  the
+Web System and its systems for delivery,  testing  and  monitoring  the  Web
+System, and any enhancements and improvements thereto, and derivative  works
+thereof, and all proprietary rights therein.
+
+
+3.2 New Development. Subject to Section 3.1, each Party will own all  rights
+and title to any new software, technology, and derivative  works  that  such
+Party develops in connection with the Beta, including any  documentation  or
+other materials related thereto.
+
+
+3.3 Joint Work Not Intended. The Parties do not  intend  to  jointly  create
+any  intellectual  property  pursuant  to  this  Agreement;  if   any   such
+intellectual property is inadvertently jointly developed, the  Parties  will
+negotiate and execute a separate written  agreement(s)  that  will  allocate
+ownership and usage rights for such intellectual property.
+
+
+4. Public Statements.
+
+
+4.1 Confidentiality. Neither Party will make, and  each  Party  will  direct
+its  representatives  not  to  make,  directly  or  indirectly,  any  public
+comment, statement or communication (including press releases and the  like)
+with respect to, or otherwise to disclose or permit the  disclosure  of  the
+existence  of  discussions  regarding  this   business   arrangement,   this
+Agreement or the terms thereof, without the prior  written  consent  of  the
+other Party. If either Party is required by law to make  any  such  comment,
+statement,  communication  or  disclosure  ("Disclosure"),  it  shall  first
+provide to the other Party the content of the Disclosure, the  reasons  that
+such Disclosure is  required  by  law  and  the  time  and  place  that  the
+Disclosure will be made, and shall  redact  mutually  agreed  upon  portions
+prior to such Disclosure, as applicable.
+
+
+4.2 Press Release. Notwithstanding the provisions of Section 4.1  above,  in
+the event the Parties mutually agree upon a press  release  regarding  their
+planned business arrangement, the  Parties  will  mutually  agree  upon  the
+timing and content of such press release.
+
+
+5. Representations/Warranty. Each  Party  represents  and  warrants  to  the
+other Party that: (i) such Party has the full  corporate  right,  power  and
+authority to enter into the Agreement and to perform the  acts  required  of
+it hereunder; (ii) the execution of the Agreement by  such  Party,  and  the
+performance by such Party of its obligations and duties  hereunder,  do  not
+and will not violate any agreement to which such Party  is  a  party  or  by
+which it is otherwise bound; (iii)  when  executed  and  delivered  by  such
+Party,  the  Agreement  will  constitute  the  legal,  valid   and   binding
+obligation of such Party, enforceable against such Party in accordance  with
+its terms; and (iv) such Party acknowledges that the other  Party  makes  no
+representations, warranties or agreements  related  to  the  subject  matter
+hereof that are not expressly provided for in the  Agreement.  Additionally,
+each  Party  warrants  to  the  other  Party  that  it  possesses  qualified
+personnel and such other resources as are necessary to perform all  services
+to be provided under this Agreement. Notwithstanding the  foregoing,  it  is
+mutually agreed that the Beta is primarily for  testing  purposes,  and  all
+products and services are provided "AS IS."  EXCEPT  AS  EXPRESSLY  PROVIDED
+ABOVE, EACH PARTY DISCLAIMS ANY AND  ALL  WARRANTIES,  EXPRESS  OR  IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY  AND  FITNESS
+FOR A PARTICULAR PURPOSE.
+
+
+6. Project Management. In  connection  with  the  Beta,  each  Party  hereby
+assigns project manager to  manage  its  respective  obligations  hereunder,
+including to assist  with  administrative,  economic  and  technical  issues
+associated with the Beta. For Web  Vendor,  the  project  manager  shall  be
+[insert name], and for  Primary  Provider,  the  project  manager  shall  be
+[insert name].
+
+
+7. Term and Termination.
+
+
+7.1 Term. This Agreement shall  be  in  effect  for  [define  Term--e.g.,  a
+period of six (6) months, subject to renewal from month to month  as  agreed
+to by both Parties], provided that, in the event the Beta does not  commence
+on or before [insert date],  this  Agreement  shall  terminate  immediately,
+unless otherwise agreed in writing by the Parties.
+
+
+7.2 Termination. Either  Party  shall  have  the  right  to  terminate  this
+Agreement in the event that the other Party commits  a  material  breach  of
+this Agreement and any such breach remains uncured thirty  (30)  days  after
+written notice thereof.
+
+
+7.3 Termination for Convenience. Each Party reserves the right to  terminate
+this Agreement for convenience upon thirty (30) days' written notice to  the
+other Party.
+
+
+7.4 Effect of Termination. Upon termination or expiration of the  Beta,  (i)
+neither Party shall have any obligation to provide the other with  continued
+access to its products, services or  systems,  and  (ii)  each  Party  shall
+return or destroy any Confidential Information provided by the  other  Party
+for the purposes of the Beta unless agreed otherwise.
+
+
+8. Confidentiality. This agreement, the associated Beta, and any  access  to
+customer or prospect lists, systems and support information as required  for
+either party to conduct the Beta or provide support to Beta Users, shall  be
+considered Confidential Information of the disclosing party subject  to  and
+treated by the receiving party in accordance with the Confidential  Exchange
+Agreement attached hereto as Exhibit D [omitted].
+
+
+9. Limitation of Liability. NOTWITHSTANDING ANYTHING TO THE CONTRARY  STATED
+OR IMPLIED HEREIN, NEITHER PARTY SHALL HAVE  ANY  LIABILITY  WHATSOEVER  FOR
+ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES SUFFERED BY  THE
+OTHER OR BY ANY ASSIGNEE OR OTHER TRANSFEREE OF THE OTHER, EVEN IF  INFORMED
+IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+10. General.
+
+
+10.1 Governing  Law.  This  Agreement,  and  the  relationship  between  the
+parties arising herefrom or related hereto, shall be governed and  construed
+under the laws of the State of [insert jurisdiction], without regard to  its
+conflicts of law principles.
+
+
+10.2 Force Majeure. During the term of this Agreement, neither  Party  shall
+be in default of its obligations to  the  extent  that  its  performance  is
+delayed or prevented by causes beyond its reasonable control, including  but
+not limited to acts of God, natural disasters, bankruptcy of  a  contractor,
+supplier or service provider, strikes and other labor disturbances, acts  of
+war or civil disturbance.
+
+
+10.3 Assignment. Neither Party may assign this Agreement or  its  rights  or
+obligations under this Agreement to a third party without the prior  written
+consent of the other Party.
+
+
+10.4 Notices. All notices  or  reports  permitted  or  required  under  this
+Agreement shall be in writing and shall be delivered by  personal  delivery,
+nationally recognized overnight courier  or  facsimile  transmission  or  by
+registered mail, return receipt requested. Notices  shall  be  sent  to  the
+signatories of this Agreement at the addresses set forth  at  the  beginning
+of this Agreement or such other address  as  either  Party  may  specify  in
+writing. Notices shall be effective upon receipt.
+
+
+10.5 No Agency. Nothing contained herein shall be construed as creating  any
+agency, partnership, or other form of joint enterprise between the Parties.
+
+
+10.6 Non-Exclusivity. This is a non-exclusive agreement.  Nothing  contained
+herein shall be deemed to restrict either Party from  quoting,  offering  to
+sell or selling to others. Nothing contained in this Agreement precludes  or
+in any way limits either Party from entering into  similar  agreements  with
+other entities, including,  but  not  limited  to,  agreements  between  Web
+Vendor and other companies related to  other  interoperability  projects  or
+integrated offerings.
+
+
+10.7 Entire Agreement.  This  Agreement  constitutes  the  entire  agreement
+between the  Parties  with  respect  to  the  subject  matter  hereof.  This
+Agreement  may  only  be  changed  by   mutual   agreement   of   authorized
+representatives of the Parties in writing.
+
+
+10.8 Waiver. No failure on the part of either  Party  to  exercise,  and  no
+delay in exercising any right  or  remedy  hereunder,  shall  operate  as  a
+waiver thereof, nor shall any single or partial exercise  of  any  right  or
+remedy hereunder preclude any other  or  further  exercise  thereof  or  the
+exercise of any other right or remedy granted hereby or by law.
+
+
+10.9 Counterparts. This Agreement may be executed in  several  counterparts,
+each of which shall be deemed an original, but  all  of  which,  when  taken
+together, shall constitute one and the  same  instrument.  The  Parties  may
+sign and deliver  this  Agreement  by  facsimile  transmission.  Each  Party
+agrees that the delivery of this Agreement by facsimile shall have the  same
+force and effect as delivery of  original  signature  pages  and  that  each
+Party may use such facsimile signatures as evidence  of  the  execution  and
+delivery of the Agreement  by  all  Parties  to  the  same  extent  that  an
+original signature could be used.
+
+
+IN  WITNESS  WHEREOF,  the  Parties  hereto  have  executed  this  Agreement
+effective as of the Effective Date.
+
+
+PRIMARY PROVIDER
+
+
+_____________________________________
+
+
+By:
+
+
+Name:
+
+
+WEB VENDOR
+
+
+_____________________________________
+
+
+By:
+
+
+Name:
+

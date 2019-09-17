@@ -1,0 +1,959 @@
+
+Tyler Snyder
+
+
+369 Montezuma Ave, #491
+
+
+Santa Fe, NM 87501
+
+
+tyler@elevate-studios.com
+
+
+505.919.9473
+
+
+Managed Wordpress Hosting with Provisions for Additional Services
+
+
+15th July 2016
+
+
+This Agreement ("Agreement") is made as of [DATE], by [PROVIDER] located at
+[PROVIDER ADDRESS], and [CLIENT] ("Client"), located at [CLIENT ADDRESS].
+
+
+The purpose of this Agreement (hereafter referred to as the “Agreement”) is
+to precede a longer-term contract arrangement under which Company will
+provide Web Hosting services on behalf of Client.
+
+
+Summary
+
+
+I will always do my best to fulfill your needs and meet your goals, but
+sometimes it is best to have a few simple things written down so that we
+both know what is what, who should do what and what happens if things go
+wrong. In this contract you won't find complicated legal terms or large
+passages of unreadable text. I have no desire to trick you into signing
+something that you might later regret. I do want what's best the safety of
+both parties, now and in the future.
+
+
+What do both parties agree to do?
+
+
+As my customer, you have the power and ability to enter into this contract
+on behalf of you or your company or organization. You agree to provide me
+with everything that I need to complete the project including text, images
+and other information as and when I need it, and in the format that I ask
+for. You agree to review my work, and to provide feedback and sign-off
+approval in a timely manner. Deadlines work two ways and you will also be
+bound by any dates that we set together. You also agree to stick to the
+payment schedule set out at the end of this contract.
+
+
+I have the experience and ability to perform the services you need and I
+will carry them out in a professional and timely manner. Along the way I
+will endeavor to meet all the deadlines set, but I can't be responsible for
+a missed launch date or a deadline if you have been late in supplying
+materials or have not approved or signed off my work on-time at any stage.
+On top of this I will also maintain the confidentiality of any information
+that you give me.
+
+
+1. Scope of Work
+
+
+Client is contracting [PROVIDER] to provide website maintenance, technical
+support, and hosting services for [WEB URL]. [PROVIDER] agrees to provide
+such services to the Client on an ongoing basis defined in the Terms -
+Length of Service. Services not considered “standard website maintenance,
+technical support, or hosting” are subject to be charged at a separate rate
+and will not be considered part of this agreement.
+
+
+a. What IS included in this Agreement
+
+
+Ongoing web hosting services, and up to [QUARTERLY INCLUDED HOURS] hours of
+standard website maintenance and technical support for [WEB URL] every
+three months, which includes:
+
+
+    • Weekly updates of the Clients CMS (Wordpess, including any third­-
+      party plugins) to make sure it is operating on the latest versions and
+      is secure
+    • Daily backups of your website and database files so that it may be
+      fully restored in case of loss.
+    • Integrated Comprehensive Security - Sucuri live monitoring and free
+      threat removal - Included (integrated platform)
+    • Limited login attempts & Intelligent IP blocking
+    • Uptime monitoring to make sure the site is actually online and
+      available to use- Included (integrated platform)
+    • High end page caching- Included (no plugins required)
+    • Dedicated staging sites and blueprints for rapid development
+    • Content management updates and formatting of content to make sure the
+      look and feel of the site is consistent with your brand style guide
+      and aesthetic -site optimization to maintain best practices
+    • Front-end updates to HTML, CSS, and Javascript
+    • We'll communicate with your hosting provider if there are any issues
+    • 24/7 Emergency Email Support, Chat or Phone support Mon-Fri 9am - 7pm
+      CST
+    • Monthly report that includes speed, security, performance, and updated
+      information
+    • Site Consultations and Recommendations
+    • The addition of new features or changes to existing features on the
+      website. If the time required to complete these changes exceeds the
+      time allotted in the agreement, additional hours will be billed
+      separately (See Additional Services).
+    • If any regular maintenance or software update procedure requires
+      additional time to complete beyond the scope of this agreement,
+      [PROVIDER] will notify the Client in advance and any additional time
+      will be billed separately. Support hours expire at the end of the
+      quarter and do not roll over to the next maintenance quarter.
+
+
+b. What is NOT included in this Agreement
+
+
+    • Maintenance, support, or hosting services for websites other than [WEB
+      URL].
+    • Domain name registration, DNS service, or email services.
+    • Web site redesign, re-alignment or re-development equalling more than
+      50% change to web page, web site, web graphics on the website (i.e. 4
+      graphics on website, and you want 3 changed, there is a charge for
+      anything above 2, meaning 50%)
+    • CMS design or integration including but not limited to blogs, shopping
+      carts and web forums. These require a separate design agreement.
+    • Search Engine Optimization (SEO)
+
+
+We have a good idea of how to get your site seen and read by google and we
+include the basic optimizations that Google scans your your code and your
+content for. You may provide us with a list of keywords to target and we
+will place them where they need to be placed. You may, however, hire us to
+research and implement those keywords for you in your site for $85.00/hr
+SEO Fee.
+
+
+We cannot guarantee that our optimizations will get you the #1 spot in
+Google results and if we're redesigning your site, we cannot guarantee you
+will have the same ranking after the new site has been published. Google
+does what Google wants but we do our best to follow their rules and
+generally our changes improve our clients visibility.
+
+
+2. Terms
+
+
+Subject to the terms and conditions of this Agreement, [PROVIDER] will
+provide Web Hosting services for [CLIENT], subject to the following terms:
+
+
+1. Length of Service.
+
+
+Client agrees to an initial twelve (12) months contractual term of service
+(“Term”).
+
+
+2. Service Start Date.
+
+
+The first payment plus setup charges, if any, shall be due in advance of
+any service provided. Service shall begin upon [PROVIDER]s' receipt of
+payment for such first Term of service or upon a mutually agreed upon
+alternate date.
+
+
+3. Renewal by Client.
+
+
+This Agreement will automatically renew for successive twelve (12) month
+Terms unless canceled in writing by Client at least 30 days prior to the
+end of Term renewal date. Renewal prices are subject to change. Renewal of
+services by Client indicates agreement to any Contract revisions and price
+changes. Renewal fees for the following term will be automatically invoiced
+to Client’s account.
+
+
+3. Payment
+
+
+a. Payment Schedule
+
+
+Client agrees to pay Elevate Studios a total of $500.00 annualy in exchange
+for the above services. The first payment is due upon execution of this
+Agreement. Subsequent payments will be due every twelve (12) months
+thereafter.
+
+
+3.2 Expenses. Client shall pay Developer’s expenses incurred in connection
+with this Agreement as follows: (a) incidental and out-of- pocket expenses
+including but not limited to costs for telephone calls, postage, shipping,
+overnight courier, service bureaus, typesetting, blueprints, models,
+presentation materials, photocopies, computer expenses, parking fees and
+tolls, and taxis at cost plus Developer’s standard markup of 30%, and, if
+applicable, a mileage reimbursement at $Cost Per Mile per mile; and (b)
+travel expenses including transportation, meals, and lodging, incurred by
+Developer with Client’s prior approval.
+
+
+3.3 Additional Costs. The Project pricing includes Developer’s fee only.
+Any and all outside costs including, but not limited to, equipment rental,
+photographer’s costs and fees, photography and/or artwork licenses,
+prototype production costs, talent fees, music licenses and online access
+or hosting fees, will be billed to Client unless specifically otherwise
+provided for in the Proposal.
+
+
+3.4 Invoices. All invoices are payable within 30 days of receipt. A monthly
+service charge of 3.5% [or the greatest amount allowed by state law] is
+payable on all overdue balances. Payments will be credited first to late
+payment charges and next to the unpaid balance. Client shall be responsible
+for all collection or legal fees necessitated by lateness or default in
+payment. Developer reserves the right to withhold delivery and any transfer
+of ownership of any current work if accounts are not current or overdue
+invoices are not paid in full. All grants of any license to use or transfer
+of ownership of any intellectual property rights under this Agreement are
+conditioned upon receipt of payment in full which shall be inclusive of any
+and all outstanding Additional Costs, Taxes, Expenses, and Fees, Charges,
+or the costs of Changes. Unpaid balances running over 30 days may be
+removed from the public accessibility via the Internet. If the payment is
+not received within 60 days, the website may be removed from our servers
+permanently and will not be recoverable.
+
+
+4. Changes
+
+
+4.1 General Changes. Unless otherwise provided in the Proposal, and except
+as otherwise provided for herein, Client shall pay additional charges for
+changes requested by Client which are outside the scope of the Services on
+a time and materials basis, at Developer’s standard hourly rate of
+Developer's Hourly Rate per hour. Such charges shall be in addition to all
+other amounts payable under the Proposal, despite any maximum budget,
+contract price or final price identified therein. Developer may extend or
+modify any delivery schedule or deadlines in the Proposal and Deliverables
+as may be required by such Changes.
+
+
+4.2 Substantive Changes. If Client requests or instructs Changes that
+amount to a revision of at least 15% of the time required to produce the
+Deliverables, and or the value or scope of the Services, Developer shall be
+entitled to submit a new and separate Proposal to Client for written
+approval. Work shall not begin on the revised services until a fully signed
+revised Proposal and, if required, any additional retainer fees are
+received by Developer.
+
+
+4.3 Timing. Developer will prioritize performance of the Services as may be
+necessary or as identified in the Proposal, and will undertake commercially
+reasonable efforts to perform the Services within the time(s) identified in
+the Proposal. Client agrees to review Deliverables within the time
+identified for such reviews and to promptly either, (i) approve the
+Deliverables in writing or (ii) provide written comments and/or corrections
+sufficient to identify the Client’s concerns, objections or corrections to
+Developer. The Developer shall be entitled to request written clarification
+of any concern, objection or correction. Client acknowledges and agrees
+that Developer’s ability to meet any and all schedules is entirely
+dependent upon Client’s prompt performance of its obligations to provide
+materials and written approvals and/or instructions pursuant to the
+Proposal and that any delays in Client’s performance or Changes in the
+Services or Deliverables requested by Client may delay delivery of the
+Deliverables. Any such delay caused by Client shall not constitute a breach
+of any term, condition or Developer’s obligations under this Agreement.
+
+
+4.4 Testing and Acceptance. Developer will exercise commercially reasonable
+efforts to test Deliverables requiring testing and to make all necessary
+corrections prior to providing Deliverables to Client. Client, within 5
+business days of receipt of each Deliverable, shall notify Developer, in
+writing, of any failure of such Deliverable to comply with the
+specifications set forth in the Proposal, or of any other objections,
+corrections, changes or amendments Client wishes made to such Deliverable.
+Any such written notice shall be sufficient to identify with clarity any
+objection, correction or change or amendment, and Developer will undertake
+to make the same in a commercially timely manner. Any and all objections,
+corrections, changes or amendments shall be subject to the terms and
+conditions of this Agreement. In the absence of such notice from Client,
+the Deliverable shall be deemed accepted.
+
+
+4.5 Increase in Fees. Host expressly reserves the right to change the fees
+charged hereunder for the Hosting Services with advanced notice to the
+Client. If Client does not agree to any such pricing change, it may cancel
+the Hosting Services within thirty (30) days from the date of your notice;
+otherwise all such changes shall be effective with respect to Client’s
+account and Client agrees that Host is authorized to charge the payment
+method provided by Client for any new Hosting Services Fee, on the next
+monthly or annual (as applicable) payment cycle.
+
+
+5. Deadlines & Deliverables
+
+
+Elevate Studios will respond via email to all maintenance requests from
+Client within 24 hours on weekdays with a confirmation that the request was
+received as well as an estimated completion date. Maintenance requests
+received after 5:00 pm PST on weekdays may not be completed until the next
+business day unless prior arrangements have been made.
+
+
+Elevate Studios will make all reasonable efforts to adhere to all quoted
+deadlines for the deliverables in the Client’s maintenance requests. In the
+event that Elevate Studios has any issues in delivering on a quoted
+deadline, Client will be notified via email the reasoning for any change.
+
+
+WEBSITE BUILDING MATERIALS
+
+
+Client Resources: The Client will submit all content to the designer,
+including, but not limited to: written materials, photographs, previous
+designs, sprites (functional design elements), and logos within a
+reasonable amount of time. Website will be designed using the design
+platform deemed a best fit for the site, allowing the Developer to have
+full control of website code.
+
+
+6. Client Responsibilities
+
+
+Client acknowledges that it shall be responsible for performing the
+following in a reasonable and timely manner:
+
+
+(a) coordination of any decision-making with parties other than the
+Developer;
+
+
+(b) provision of Client Content in a form suitable for reproduction or
+incorporation into the Deliverables without further preparation, unless
+otherwise expressly provided in the Proposal; and
+
+
+(c) final proofreading and in the event that Client has approved
+Deliverables but errors, such as, by way of example, not limitation,
+typographic errors or misspellings, remain in the finished product, Client
+shall incur the cost of correcting such errors.
+
+
+AUTHORIZATION
+
+
+Client hereby authorizes Elevate Studios to access their web hosting
+account, providing active user name / password combinations for access to
+the server via FTP, assuring that 'write permissions' are in place on said
+hosting provider.
+
+
+Client Resources: The Client will submit all content to the designer,
+including, but not limited to: written materials, photographs, previous
+designs, sprites (functional design elements), and logos within a
+reasonable amount of time. Website will be designed using the design
+platform deemed a best fit for the site, allowing the Developer to have
+full control of website code.
+
+
+During the duration of this contract, the Client agrees that Elevate
+Studios will be the sole provider of maintenance services for the website,
+and no other party will have access to or rights to change the website. If
+a party other than Elevate Studios makes changes to the website, any errors
+that are created must be repaired and will be charged for at $75.00 per
+hour.
+
+
+7. Additional Services
+
+
+Any revisions, additions, or redesign the Client requests Elevate Studios
+to perform that is not specified in this document shall be considered
+"additional" and will require a separate agreement and payment. Elevate
+Studios shall advise Client on any requested work that falls within these
+bounds.
+
+
+ACCREDITATION AND PROMOTION
+
+
+Accreditation: Developer shall be entitled to place accreditation, as a
+hyperlink or otherwise, in the form, size and location as incorporated by
+Developer in the Deliverables on each page of the Final Deliverables.
+
+
+Promotion: Developer retains the right to reproduce, publish and display
+the Deliverables in Developer’s portfolios and websites, in galleries,
+design periodicals and other media or exhibits for the purposes of
+recognition of creative excellence or professional advancement, and to be
+credited with authorship of the Deliverables in connection with such uses.
+
+
+Promotional Approval: Either party, subject to the other’s reasonable
+approval, may describe its role in the Project on its website and in other
+promotional and marketing materials, and, if not expressly objected to,
+include a link to the other party’s website.
+
+
+CONFIDENTIAL INFORMATION
+
+
+Client’s "Confidential Information" includes information that Developer
+should reasonably believe to be confidential. Developer's "Confidential
+Information" includes the source code of any Developer Tools. All material
+considered confidential by either party shall be designated as
+confidential. Confidential Information shall not be disclosed to third
+parties and shall only be used as needed to perform this Agreement.
+
+
+Confidential Information shall not include any information that is already
+known by the recipient, becomes publicly known through no fault of the
+recipient, or is received from a third party without a restriction on
+disclosure
+
+
+8. Relationship of the Parties
+
+
+8.1 Independent Contractor. Developer is an independent contractor, not an
+employee of Client or any company affiliated with Client. Developer shall
+provide the Services under the general direction of Client, but Developer
+shall determine, in Developer’s sole discretion, the manner and means by
+which the Services are accomplished. This Agreement does not create a
+partnership or joint venture and neither party is authorized to act as
+agent or bind the other party except as expressly stated in this Agreement.
+Developer and the work product or Deliverables prepared by Developer shall
+not be deemed a work for hire as that term is defined under Copyright Law.
+All rights, if any, granted to Client are contractual in nature and are
+wholly defined by the express written agreement of the parties and the
+various terms and conditions of this Agreement.
+
+
+8.2 Developer Agents. Developer shall be permitted to engage and/or use
+third party designers or other service providers as independent contractors
+in connection with the Services (“Design Agents”). Notwithstanding,
+Developer shall remain fully responsible for such Design Agents’ compliance
+with the various terms and conditions of this Agreement.
+
+
+8.3 No Solicitation. During the term of this Agreement, and for a period of
+six (6) months after expiration or termination of this Agreement, Client
+agrees not to solicit, recruit, engage or otherwise employ or retain, on a
+full-time, part-time, consulting, work-for-hire or any other kind of basis,
+any Developer, employee or Design Agent of Developer, whether or not said
+person has been assigned to perform tasks under this Agreement. In the
+event such employment, consultation or work-for-hire event occurs, Client
+agrees that Developer shall be entitled to an agency commission to be the
+greater of, either (a) 25 percent of said person’s starting salary with
+Client, or (b) 25 percent of fees paid to said person if engaged by Client
+as an independent contractor. In the event of (a) above, payment of the
+commission will be due within 30 days of the employment starting date. In
+the event of (b) above, payment will be due at the end of any month during
+which the independent contractor performed services for Client. Developer,
+in the event of nonpayment and in connection with this section, shall be
+entitled to seek all remedies under law and equity.
+
+
+8.4 No Exclusivity. The parties expressly acknowledge that this Agreement
+does not create an exclusive relationship between the parties. Client is
+free to engage others to perform services of the same or similar nature to
+those provided by Developer, and Developer shall be entitled to offer and
+provide design services to others, solicit other clients and otherwise
+advertise the services offered by Developer.
+
+
+9. Warranties and Representations
+
+
+9.1 By Client. Client represents, warrants and covenants to Developer that
+
+
+(a) Client owns all right, title, and interest in, or otherwise has full
+right and authority to permit the use of the Client Content,
+
+
+(b) to the best of Client’s knowledge, the Client Content does not infringe
+the rights of any third party, and use of the Client Content as well as any
+Trademarks in connection with the Project does not and will not violate the
+rights of any third parties,
+
+
+(c) Client shall comply with the terms and conditions of any licensing
+agreements which govern the use of Third Party Materials, and
+
+
+(d) Client shall comply with all laws and regulations as they relate to the
+Services and Deliverables.
+
+
+9.2 By Developer
+
+
+(a) Developer hereby represents, warrants and covenants to Client that
+Developer will provide the Services identified in the Agreement in a
+professional and workmanlike manner and in accordance with all reasonable
+professional standards for such services.
+
+
+(b) Developer further represents, warrants and covenants to Client that (i)
+except for Third Party Materials and Client Content, the Final Deliverables
+shall be the original work of Developer and/or its independent contractors,
+(ii) in the event that the Final Deliverables include the work of
+independent contractors commissioned for the Project by Developer,
+Developer shall have secure agreements from such contractors granting all
+necessary rights, title, and interest in and to the Final Deliverables
+sufficient for Developer to grant the intellectual property rights provided
+in this Agreement, and (iii) to the best of Developer’s knowledge, the
+Final Art provided by Developer and Developer’s subcontractors does not
+infringe the rights of any party, and use of same in connection with the
+Project will not violate the rights of any third parties. In the event
+Client or third parties modify or otherwise use the Deliverables outside of
+the scope or for any purpose not identified in the Proposal or this
+Agreement or contrary to the terms and conditions noted herein, all
+representations and warranties of Developer shall be void.
+
+
+(c) Except for the express representations and warranties stated in this
+agreement, designer makes no warranties whatsoever, designer explicitly
+disclaims any other warranties of any kind, either express or implied,
+including but not limited to warranties of merchantability or fitness for a
+particular purpose or compliance with laws or government rules or
+regulations applicable to the project.
+
+
+10. Indemnification/Liability
+
+
+10.1 By Client. Client agrees to indemnify, save and hold harmless
+Developer from any and all damages, liabilities, costs, losses or expenses
+arising out of any claim, demand, or action by a third party arising out of
+any breach of Client’s responsibilities or obligations, representations or
+warranties under this Agreement. Under such circumstances Developer shall
+promptly notify Client in writing of any claim or suit;
+
+
+(a) Client has sole control of the defense and all related settlement
+negotiations; and
+
+
+(b) Developer provides Client with commercially reasonable assistance,
+information and authority necessary to perform Client’s obligations under
+this section. Client will reimburse the reasonable out-of-pocket expenses
+incurred by Developer in providing such assistance.
+
+
+10.2 By Developer. Subject to the terms, conditions, express
+representations and warranties provided in this Agreement, Developer agrees
+to indemnify, save and hold harmless Client from any and all damages,
+liabilities, costs, losses or expenses arising out of any finding of fact
+which is inconsistent with Developer’s representations and warranties made
+herein, except in the event any such claims, damages, liabilities, costs,
+losses or expenses arise directly as a result of gross negligence or
+misconduct of Client provided that
+
+
+(a) Client promptly notifies Developer in writing of the claim;
+
+
+(b) Developer shall have sole control of the defense and all related
+settlement negotiations; and
+
+
+(c) Client shall provide Developer with the assistance, information and
+authority necessary to perform Developer’s obligations under this section.
+Notwithstanding the foregoing, Developer shall have no obligation to defend
+or otherwise indemnify Client for any claim or adverse finding of fact
+arising out of or due to Client Content, any unauthorized content, improper
+or illegal use, or the failure to update or maintain any Deliverables
+provided by Developer.
+
+
+10.3 Limitation of Liability. The services and the work product of designer
+are sold "as is." In all circumstances, the maximum liability of designer,
+its directors, officers, employees, design agents and affiliates
+("Developer Parties"), to client for damages for any and all causes
+whatsoever, and client's maximum remedy, regardless of the form of action,
+whether in contract, tort or otherwise, shall be limited to the net profit
+of designer. In no event shall designer be liable for any lost data or
+content, lost profits, business interruption or for any indirect,
+incidental, special, consequential, exemplary or punitive damages arising
+out of or relating to the materials or the services provided by designer,
+even if designer has been advised of the possibility of such damages, and
+notwithstanding the failure of essential purpose of any limited remedy.
+
+
+11. Term and Termination
+
+
+11.1 This Agreement shall commence upon the Effective Date and shall remain
+effective until the Services are completed and delivered.
+
+
+11.2 This Agreement may be terminated at any time by either party effective
+immediately upon notice, or the mutual agreement of the parties, or if any
+party:
+
+
+(a) becomes insolvent, files a petition in bankruptcy, makes an assignment
+for the benefit of its creditors; or
+
+
+(b) breaches any of its material responsibilities or obligations under this
+Agreement, which breach is not remedied within 10 days from receipt of
+written notice of such breach.
+
+
+11.3 In the event of termination, Developer shall be compensated for the
+Services performed through the date of termination in the amount of (a) any
+advance payment, (b) a prorated portion of the fees due, or (c) hourly fees
+for work performed by Developer or Developer’s agents as of the date of
+termination, whichever is greater; and Client shall pay all Expenses, fees,
+out of pockets together with any Additional Costs incurred through and up
+to, the date of cancellation.
+
+
+11.4 In the event of termination by Client and upon full payment of
+compensation as provided herein, Developer grants to Client such right and
+title as provided for in Schedule A of this Agreement with respect to those
+Deliverables provided to, and accepted by Client as of the date of
+termination.
+
+
+11.5 Upon expiration or termination of this Agreement: (a) each party shall
+return or, at the disclosing party’s request, destroy the Confidential
+Information of the other party, and (b) other than as provided herein, all
+rights and obligations of each party under this Agreement, exclusive of the
+Services, shall survive.
+
+
+11.6 Unsolicited Email & Spamming: Flywheel/Elevate Studios does provide
+SMTP throughput, so policy regarding spam and unsolicited commercial
+advertisements apply.
+
+
+(a) Unsolicited commercial advertisements (SPAM) are not allowed in e-mail,
+and will likely result in account cancelation. Flywheel/Elevate Studios
+takes a zero-tolerance approach to SPAM originating from its servers or for
+spam advertising of domains hosted within our network. If found, the Client
+is subject to fees up to $25 per unsolicited email message sent. The
+following activities are not allowed: SPAM, which includes, but is not
+limited to, bulk mailing of commercial advertising, informational
+announcements, charity requests, petitions for signatures, and political or
+religious tracts (such messages may only be sent to those who have
+explicitly requested it from your domain); Forging, altering or removing
+electronic mail headers – any domain sending stealth spam will be
+terminated without warning and without refund.
+
+
+(b) Sending numerous copies of the same or substantially similar message
+with the intent to disrupt a server or account (mail bombing); Spamming
+Newsgroups: Commercial advertisements are unwelcome in most Usenet
+discussion groups and on most e-mail mailing lists. Inappropriate posting
+may result in account cancelation. See the newsgroup or mailing lists
+charter for whether advertising is allowed or not. Sending a message to
+many different off-topic newsgroups, is particularly unethical and will be
+treated as such; Mail may not be used to harass or intimidate others.
+Harassment, whether through language, frequency of messages, or size of
+messages, is prohibited. Sending a single unwelcome message may be
+considered harassment. If a recipient asks to stop receiving e-mail, the
+Client must not send that person any further messages.
+
+
+(c) If the Client uses the services of another provider to promote a
+website hosted by or through Flywheel/Elevate Studios(spamvertising), then
+the provisions of the above policy shall apply as if the SPAM were sent
+through our servers.
+
+
+12. General
+
+
+12.1 Modification/Waiver. This Agreement may be modified by the parties.
+Any modification of this Agreement must be in writing, except that
+Developer’s invoices may include, and Client shall pay, expenses or costs
+that Client authorizes by electronic mail in cases of extreme time
+sensitivity. Failure by either party to enforce any right or seek to remedy
+any breach under this Agreement shall not be construed as a waiver of such
+rights nor shall a waiver by either party of default in one or more
+instances be construed as constituting a continuing waiver or as a waiver
+of any other breach.
+
+
+12.2 Notices. All notices to be given hereunder shall be transmitted in
+writing either by facsimile or electronic mail with return confirmation of
+receipt or by certified or registered mail, return receipt requested, and
+shall be sent to the addresses identified below, unless notification of
+change of address is given in writing. Notice shall be effective upon
+receipt or in the case of fax or email, upon confirmation of receipt.
+
+
+12.3 No Assignment. Neither party may assign, whether in writing or orally,
+or encumber its rights or obligations under this Agreement or permit the
+same to be transferred, assigned or encumbered by operation of law or
+otherwise, without the prior written consent of the other party.
+
+
+12.4 Force Majeure. Developer shall not be deemed in breach of this
+Agreement if Developer is unable to complete the Services or any portion
+thereof by reason of fire, earthquake, labor dispute, act of God or public
+enemy, death, illness or incapacity of Developer or any local, state,
+federal, national or international law, governmental order or regulation or
+any other event beyond Developer’s control (collectively, “Force Majeure
+Event”). Upon occurrence of any Force Majeure Event, Developer shall give
+notice to Client of its inability to perform or of delay in completing the
+Services and shall propose revisions to the schedule for completion of the
+Services.
+
+
+12.5 Governing Law and Dispute Resolution. The formation, construction,
+performance and enforcement of this Agreement shall be in accordance with
+the laws of the United States and the state of Name of State without regard
+to its conflict of law provisions or the conflict of law provisions of any
+other jurisdiction. In the event of a dispute arising out of this
+Agreement, the parties agree to attempt to resolve any dispute by
+negotiation between the parties. If they are unable to resolve the dispute,
+either party may commence mediation and/or binding arbitration through the
+American Arbitration Association, or other forum mutually agreed to by the
+parties. The prevailing party in any dispute resolved by binding
+arbitration or litigation shall be entitled to recover its attorneys’ fees
+and costs. In all other circumstances, the parties specifically consent to
+the local, state and federal courts located in the state of Name of State.
+The parties hereby waive any jurisdictional or venue defenses available to
+them and further consent to service of process by mail. Client acknowledges
+that Developer will have no adequate remedy at law in the event Client uses
+the deliverables in any way not permitted hereunder, and hereby agrees that
+Developer shall be entitled to equitable relief by way of temporary and
+permanent injunction, and such other and further relief at law or equity as
+any arbitrator or court of competent jurisdiction may deem just and proper,
+in addition to any and all other remedies provided for herein.
+
+
+12.6 Severability. Whenever possible, each provision of this Agreement
+shall be interpreted in such manner as to be effective and valid under
+applicable law, but if any provision of this Agreement is held invalid or
+unenforceable, the remainder of this Agreement shall nevertheless remain in
+full force and effect and the invalid or unenforceable provision shall be
+replaced by a valid or enforceable provision.
+
+
+12.7 Headings. The numbering and captions of the various sections are
+solely for convenience and reference only and shall not affect the scope,
+meaning, intent or interpretation of the provisions of this Agreement nor
+shall such headings otherwise be given any legal effect.
+
+
+12.8 Integration. This Agreement comprises the entire understanding of the
+parties hereto on the subject matter herein contained, and supersedes and
+merges all prior and contemporaneous agreements, understandings and
+discussions between the parties relating to the subject matter of this
+Agreement. In the event of a conflict between the Proposal and any other
+Agreement documents, the terms of the Proposal shall control. This
+Agreement comprises this Basic Terms and Conditions document, the Proposal,
+Schedule A and Schedule B below.
+
+
+By their execution, the parties hereto have agreed to all of the terms and
+conditions of this Agreement effective as of the last date of signature,
+and each signatory represents that it has the full authority to enter into
+this Agreement and to bind her/his respective party to all of the terms and
+conditions herein.
+
+
+Schedule A: Intellectual Property Provisions
+
+
+1. RIGHTS TO DELIVERABLES OTHER THAN FINAL ART
+
+
+1.1 Client Content. Client Content, including all pre-existing Trademarks,
+shall remain the sole property of Client or its respective suppliers, and
+Client or its suppliers shall be the sole owner of all rights in connection
+therewith. Client hereby grants to Developer a nonexclusive,
+nontransferable license to use, reproduce, modify, display and publish the
+Client Content solely in connection with Developer’s performance of the
+Services and limited promotional uses of the Deliverables as authorized in
+this Agreement.
+
+
+1.2 Third Party Materials. All Third Party Materials are the exclusive
+property of their respective owners. Developer shall inform Client of all
+Third Party Materials that may be required to perform the Services or
+otherwise integrated into the Final Art. Under such circumstances Developer
+shall inform Client of any need to license, at Client’s expense, and unless
+otherwise provided for by Client, Client shall obtain the license(s)
+necessary to permit Client’s use of the Third Party Materials consistent
+with the usage rights granted herein. In the event Client fails to properly
+secure or otherwise arrange for any necessary licenses or instructs the use
+of Third Party Materials, Client hereby indemnifies, saves and holds
+harmless Developer from any and all damages, liabilities, costs, losses or
+expenses arising out of any claim, demand, or action by a third party
+arising out of Client’s failure to obtain copyright, trademark, publicity,
+privacy, defamation or other releases or permissions with respect to
+materials included in the Final Art.
+
+
+1.3 Preliminary Works. Developer retains all rights in and to all
+Preliminary Works. Client shall return all Preliminary Works to Developer
+within 30 days of completion of the Services and all rights in and to any
+Preliminary Works shall remain the exclusive property of Developer.
+
+
+1.4 Original Artwork. Developer retains all right and title in and to any
+original artwork comprising Final Art, including all rights to display or
+sell such artwork. Client shall return all original artwork to Developer
+within 30 days of completion of the Services.
+
+
+1.5 Trademarks. Upon completion of the Services and expressly conditioned
+upon full payment of all fees, costs and out-of- pocket expenses due,
+Developer assigns to Client all ownership rights, including any copyrights,
+in and to any artworks or designs comprising the works created by Developer
+for use by Client as a Trademark. Developer shall cooperate with Client and
+shall execute any additional documents reasonably requested by Client to
+evidence such assignment. Client shall have sole responsibility for
+ensuring that any proposed trademarks or Final Deliverables intended to be
+a Trademark are available for use in commerce and federal registration and
+do not otherwise infringe the rights of any third party. Client hereby
+indemnifies, saves and holds harmless Developer from any and all damages,
+liabilities, costs, losses or expenses arising out of any claim, demand, or
+action by any third party alleging any infringement arising out of Client’s
+use and/or failure to obtain rights to use or use of the Trademark.
+
+
+1.6 Developer Tools. All Developer Tools are and shall remain the exclusive
+property of Developer. Developer hereby grants to Client a nonexclusive,
+nontransferable (other than the right to sublicense such uses to Client’s
+web hosting or internet service providers), perpetual, worldwide license to
+use the Developer Tools solely to the extent necessary with the Final
+Deliverables for the Project. Client may not directly or indirectly, in any
+form or manner, decompile, reverse engineer, create derivative works or
+otherwise disassemble or modify any Developer Tools comprising any software
+or technology of Developer.
+
+
+2. RIGHTS TO FINAL ART
+
+
+2.1 Assignment:
+
+
+Upon completion of the Services, and expressly subject to full payment of
+all fees, costs and expenses due, Developer hereby assigns to Client all
+right, title and interest, including without limitation copyright and other
+intellectual property rights, in and to the Final Art. Developer agrees to
+reasonably cooperate with Client and shall execute any additional documents
+reasonably necessary to evidence such assignment.
+
+
+Schedule B: Interactive-specific Terms and Conditions
+
+
+1. SUPPORT SERVICES
+
+
+1.1 Warranty Period. “Support Services” means commercially reasonable
+technical support and assistance to maintain and update the Deliverables,
+including correcting any errors or Deficiencies, but shall not include the
+development of enhancements to the Project or other services outside the
+scope of the Proposal. During the first Months covered by Warranty months
+following expiration of this Agreement (“Warranty Period”), if any,
+Developer shall provide up to Hours covered by Warranty hours of Support
+Services at no additional cost to Client. Additional time shall be billed
+at Developer’s regular hourly rate, then in effect upon the date of the
+request for additional support.
+
+
+1.2 Maintenance Period. Upon expiration of the Warranty Period and at
+Client’s option, Developer will provide Support Services for the following
+Months covered by Maintenance months (the “Maintenance Period”) for a
+monthly fee of $Monthly Maintanance Fee OR Developer’s hourly fees of $
+Developer's Hourly Rate per hour. The parties may extend the Maintenance
+Period beyond one year upon mutual written agreement.
+
+
+2. ENHANCEMENTS
+
+
+During the Maintenance Period, Client may request that Developer develop
+enhancements to the Deliverables, and Developer shall exercise commercially
+reasonable efforts to prioritize Developer’s resources to create such
+enhancements. The parties understand that preexisting obligations to third
+parties existing on the date of the request for enhancements may delay the
+immediate execution of any such requested enhancements. Such enhancements
+shall be provided on a time and materials basis at Developer’s then in
+effect price for such services.
+
+
+3. ADDITIONAL WARRANTIES AND REPRESENTATIONS
+
+
+3.1 Deficiencies. Subject to the representations and warranties of Client
+in connection with Client Content, Developer represents and warrants that
+the Final Deliverables will be free from Deficiencies. For the purposes of
+this Agreement, “Deficiency” shall mean a failure to comply with the
+specifications set forth in the Proposal in any material respect, but shall
+not include any problems caused by Client Content, modifications,
+alterations or changes made to Final Deliverables by Client or any third
+party after delivery by Developer, or the interaction of Final Deliverables
+with third party applications such as Web browsers other than those
+specified in the Proposal. The parties acknowledge that Client’s sole
+remedy and Developer’s sole liability for a breach of this Section is the
+obligation of Developer to correct any Deficiency identified within the
+Warranty Period. In the event that a Deficiency is caused by Third Party
+Materials provided or specified by Developer, Developers sole obligation
+shall be to substitute alternative Third Party Materials.
+
+
+3.2 Developer Tools. Subject to the representations and warranties of the
+Client in connection with the materials supplied by Client, Developer
+represents and warrants that, to the best of Developer’s knowledge, the
+Developer Tools do not knowingly infringe the rights of any third party,
+and use of same in connection with the Project will not knowingly violate
+the rights of any third parties except to the extent that such violations
+are caused by Client Content, or the modification of, or use of the
+Deliverables in combination with materials or equipment outside the scope
+of the applicable specifications, by Client or third parties.
+
+
+4. COMPLIANCE WITH LAWS
+
+
+Developer shall use commercially reasonable efforts to ensure that all
+Final Deliverables shall be designed to comply with the known relevant
+rules and regulations. Client, upon acceptance of the Deliverables, shall
+be responsible for conformance with all laws relating to the transfer of
+software and technology.
+
+
+Approval
+
+
+_________________________________
+
+
+Signed by and on behalf of Tyler Snyder, Elevate Studios, LLC
+
+
+___________________
+
+
+Date
+
+
+____________________________________________________
+
+
+Signed by and on behalf of Kate Kendall, Hipico Santa Fe
+
+
+___________________
+
+
+Date
+
+
+*Both parts must sign above and keep a copy for their own records.
+

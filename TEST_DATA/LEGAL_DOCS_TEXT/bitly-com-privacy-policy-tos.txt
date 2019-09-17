@@ -1,0 +1,150 @@
+
+
+What Information Does Bitly Collect?
+
+
+The information we gather enables us to personalize, improve and continue
+to operate the Services. In connection with certain aspects of the
+Services, we may request, collect and/or display some of your Personal
+Information. We collect the following types of information from our users.
+
+
+Sign-In Information:
+
+
+When you create an Account, you will provide information that could be
+Personal Information, such as your username, password and email address.
+You acknowledge that this information may be personal to you, and by
+creating an account on Bitly and providing Personal Information to us, you
+allow others, including Bitly, to identify you and therefore may not be
+anonymous. We may use your contact information to send you information
+about our Services, but only rarely when we feel such information is
+important. You may unsubscribe from these messages through your Account
+settings, although Bitly regardless reserves the right to contact you when
+we believe it is necessary, such as for account recovery purposes.
+
+
+URL Information:
+
+
+One feature of the Services is the ability to create shortened uniform
+resource locators (“URLs”). Bitly collects and stores both the original URL
+and the shortened URL and, if you have an Account and are logged in,
+associates that information with your Account. Bitly also collects and
+stores (i) the time and date on which you shortened the original URL and
+(ii) if you chose to share the URL, information on the channels through
+which the URL was shared.
+
+
+Metrics and Analytics:
+
+
+Bitly collects information about accesses (such as clicks) of every
+shortened URL created through the Services. This information includes, but
+is not limited to: (i) the IP address and physical location of the devices
+accessing the shortened URL; (ii) the referring websites or services; (iii)
+the time and date of each access; and (iv) information about sharing of the
+shortened URL on Third Party Services such as Twitter and Facebook. These
+metrics and analytics are used by Bitly and its partners to improve their
+websites and services by, for example, providing value-added features.
+
+
+User Content:
+
+
+Some features of the Services allow you to provide content to the Services,
+such as written descriptions of URLs, comments, images and video. For
+example, using the Bundles feature, Bitly users can curate and “bundle
+together” a set of links, and can add content to those Bundles, such as
+comments and videos. All content submitted by you to the Services may be
+retained by Bitly indefinitely, even after you terminate your account. We
+may continue to disclose such content to third parties in a manner that
+does not reveal Personal Information, as described in this Privacy Policy.
+
+
+Information Collected From Third Party Services:
+
+
+Some features of the Services allow you to share your Bitly information
+through your accounts with Third Party Services such as Facebook and
+Twitter. If you choose to connect Bitly to such Third Party Services, we
+may collect information related to your use of those Third Party Services,
+such as authentication tokens that allow us to connect to your Third Party
+Service accounts. We may otherwise collect information about how you are
+using the Services to interact with those connected Third Party Services.
+Note that Third Party Services may have the ability to restrict the
+information that is provided to us.
+
+
+IP Address Information and Other Information Collected Automatically:
+
+
+    • Bitly automatically receives and records information from your web
+      browser when you interact with the Services, including your IP address
+      and cookie information. This information may be used for to help us
+      understand how users transit a website, to fight spam/malware, to
+      facilitate collection of data concerning your interaction with the
+      Services (e.g., what Bitly links you have clicked on) and for other
+      similar purposes.
+    • Generally, the Services automatically collect usage information, such
+      as the number and frequency of visitors to the Site. Bitly may use
+      this data in aggregate form, that is, as a statistical measure, but
+      not in a manner that would identify you personally. This type of
+      aggregate data enables us and third parties authorized by us to figure
+      out how often individuals use parts of the Services so that we can
+      analyze and improve them.
+
+
+Email Communications:
+
+
+We may receive a confirmation when you open an email from us. We use this
+confirmation to improve our customer service.
+
+
+Information Collected Using Cookies:
+
+
+    • Cookies are pieces of text that may be provided to your computer
+      through your web browser when you access a website. Your browser
+      stores cookies in a manner associated with each website you visit. We
+      use cookies to enable our servers to recognize your web browser and
+      tell us how and when you visit our Site and use the Services through
+      the web.
+    • Bitly cookies also allow Bitly to track when you have clicked on a
+      Bitly shortened URL. Each click of a shortened URL is tracked using a
+      unique identifier assigned to you in one or more cookies stored by
+      your web browser and associated with Bitly.
+    • Bitly cookies do not, by themselves, contain Personal Information, and
+      we do not combine the general information collected through cookies
+      with other Personal Information to tell us who you are. As noted,
+      however, we do use cookies to identify that your web browser has
+      accessed a Bitly URL and may associate that information with your
+      Account if you have one.
+    • Most browsers have an option for turning off the cookie feature, which
+      will prevent your browser from accepting new cookies, as well as
+      (depending on the sophistication of your browser software) allowing
+      you to decide on acceptance of each new cookie in a variety of ways.
+      We strongly recommend that you leave cookies active, because they
+      enable you to take advantage the most attractive features of the
+      Services.
+    • You may also ask bitly not to place cookies on your web browser when
+      you are logged in. When cookies are disabled in this manner, clicks on
+      bitly links are not tied back to or associated with your web browser.
+    • This Privacy Policy covers the use of cookies by Bitly only and does
+      not cover the use of cookies by third parties. Bitly does not control
+      when or how third parties place cookies on your computer. For example,
+      third party websites to which a URL points may set cookies on your
+      computer.
+
+
+Aggregate Information:
+
+
+We collect statistical information about how both unregistered and
+registered users, collectively, use the Services (“Aggregate Information”).
+Some of this information is derived from Personal Information, such as your
+location (which, in turn, is derived from your IP address). This
+statistical information is not Personal Information and cannot be tied back
+to you, your Account or your web browser.
+

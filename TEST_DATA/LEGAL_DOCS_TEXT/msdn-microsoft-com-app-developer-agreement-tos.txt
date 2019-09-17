@@ -1,0 +1,875 @@
+
+WINDOWS STORE
+
+
+APPLICATION DEVELOPER AGREEMENT
+
+
+Version: 4.6
+
+
+Effective date: March 20, 2013
+
+
+Important  This version of the App Developer Agreement is for your
+information only. Some countries/regions might require a different version
+of this agreement. If you have registered as an app developer, you can view
+your agreement at http://go.microsoft.com/fwlink/p/?LinkID=221922.
+
+
+Thank you for your interest in building apps for Windows. This agreement
+describes the relationship between you and Microsoft Corporation (or the
+Microsoft subsidiary in the region where you live) and governs your use of
+the Windows Store and the Developer Website.
+
+
+By submitting an application (or "app", as we refer to them in the Windows
+Store) or related materials to Microsoft, you represent and warrant to us
+that you have the authority to accept this agreement, and you also agree to
+be bound by its terms. Throughout this agreement, we refer to you as a
+developer, but we understand that in some cases, you may be a publisher
+submitting apps that you did not develop.
+
+
+1) WINDOWS STORE ACCOUNT. To submit apps to the Windows Store, you must
+open a Windows Store developer account through the developer website.
+Microsoft may verify information you submit when you set up your Store
+account. You may be required to pay an account fee to submit your app for
+certification. Your Store account is only for your use, and you are
+responsible for all activity that takes place with your Store account. If
+you fail to keep your account in good standing (for example, by failing to
+pay fees, if any, associated with the account, by giving Microsoft
+incorrect or outdated information, or by repeatedly submitting apps that
+violate this agreement, abuse the Store service, or interfere with any
+other party’s use of the Store service) Microsoft may revoke your Store
+account, remove your apps from the Windows Store, delete app ratings and
+reviews, and retain associated account fees (if any) and pursue any other
+remedies available to Microsoft.
+
+
+2) SUBMISSION, EVALUATION, CERTIFICATION, AND DISTRIBUTION OF APPS.
+
+
+     a. Submission. You must submit to Microsoft each app that you wish to
+     make available through the Windows Store, including any updates to each
+     app. Microsoft will retain (or destroy) all copies of the app and other
+     materials you submit. It will not return them, so you must maintain
+     your own backup copies.
+
+
+     b. Desktop App Submission. You may submit an app description for one or
+     more desktop apps to the Windows Store. Notwithstanding anything else
+     in this agreement, you understand that Microsoft will not offer any
+     desktop apps through the Store and only Windows Store apps are made
+     available through the Windows Store. Microsoft may, but is not required
+     to, list the desktop app in the Windows Store together with a link you
+     provide, to a website where users can acquire the app. You are solely
+     responsible and agree to maintain that website and provide an updated
+     link to Microsoft if the url changes. Desktop apps are any apps built
+     using APIs other than the APIs for Windows Store apps that run on
+     Windows 8.
+
+
+     c. Updates to Apps. You may submit updates to apps for certification
+     and distribution through the Windows Store. Those updates are subject
+     to all of the requirements of this agreement.
+
+
+     d. Evaluation and Testing. You may use the Windows App Certification
+     Kit to test your app on a Windows 8 enabled device.
+
+
+     e. Certification. Microsoft will evaluate each app (including any
+     updates) you submit to determine whether it complies with this
+     agreement (which includes the Certification Requirements) and other
+     policies made available to you (if any). Microsoft will not make any
+     app available in the Windows Store unless and until the app is
+     certified by Microsoft. That process is described in more detail in the
+     Certification Requirements.
+
+
+     f. Content. You are solely responsible for selecting all content made
+     available through your app(s), including your Marks. "Marks" means, for
+     each app, the name, trademarks, logos, icons, titles, product
+     descriptions, and screenshots you provide to Microsoft for use in
+     connection with the marketing and distribution of your app through the
+     Windows Store.
+
+
+     g. Responding to Claims. If Microsoft receives a claim from a third
+     party requesting that your app be changed or removed, Microsoft may
+     refer that claim to you. You must comply with the notice as soon as
+     reasonably practicable, together with any other requirements in
+     Microsoft’s Notice and Takedown policies at
+     http://go.microsoft.com/fwlink/p/?LinkID=224390 . If you discover that
+     your app violates the terms of this agreement, you must immediately
+     notify Microsoft and work with Microsoft to repair the app.
+
+
+     h. Making a Claim. If you believe another app violates your rights, you
+     may submit a claim to Microsoft in accordance with Microsoft's Notice
+     and Takedown policies.
+
+
+     i. App Availability. Microsoft has no obligation to make any app
+     available that you submit, even if that app is Certified.
+
+
+     j. App Placement and Promotion. Microsoft will, in its sole discretion,
+     make all decisions regarding placement or promotion of apps in the
+     Windows Store.
+
+     k. DELETED.
+
+     l. Removal Policies. Microsoft may remove or suspend the availability
+     of any app from the Windows Store for any reason or no reason.
+     Microsoft also may disable previously downloaded copies of an app if
+     Microsoft believes that the app could cause harm to end users or their
+     devices, third parties or any network, or to comply with any judicial
+     process, government order or lawsuit settlement. Unless your app is
+     removed or disabled for breach of this Agreement or in response to an
+     infringement allegation (in which case Section 10.b will apply),
+     Microsoft will pay to you the amounts owed, if any, in connection with
+     the distribution of your app before removal or disablement.
+
+
+     m. Modification or Discontinuance. The Windows Store is the property of
+     Microsoft. Microsoft may change or discontinue the Windows Store at any
+     time.
+
+
+3) APPOINTMENT AS AGENT OR COMMISSIONAIRE; LICENSES.
+
+
+     a. Appointment of Microsoft. The Windows Store is a forum through which
+     apps are made available by developers to Windows users. Microsoft’s
+     role is to provide the technology and services to enable this forum,
+     and to process the related purchases, returns and chargebacks for you.
+     You appoint Microsoft to act as your agent or commissionaire, as
+     applicable, for these purposes. If your app is designated as
+     preinstallable by an OEM or other channel partner, or "channel
+     exclusive", you authorize us to make your app available to the
+     designated OEM or channel partner on your behalf.
+
+
+     b. License to Microsoft. You grant to Microsoft the worldwide right to:
+     host, install, use, reproduce, format, make available to customers
+     (including through multiple tiers of distribution), and sign the app
+     (including by removing preexisting signatures) all for purposes of
+     exercising Microsoft’s rights and responsibilities under this
+     agreement, including performing certification of your app and
+     conducting penetration or other testing for identification of security
+     vulnerabilities. Microsoft may also evaluate your app periodically
+     after it becomes available in the Windows Store, to verify that it
+     continues to comply with this agreement and remains compatible with
+     Windows. You also grant Microsoft the worldwide, royalty-free right to
+     publicly perform and display, duplicate and demonstrate your app,
+     pieces of your app, or associated Marks and materials, at trade shows
+     and industry events, and to advertise or promote your app in any and
+     all media.
+
+
+     c. Unpublishing an App. If you use the unpublish functionality in the
+     Dashboard , then within a reasonable period of time Microsoft will
+     cease distribution of the requested app, except as permitted under
+     Section 10.b of this agreement. To unpublish an app, you should submit
+     a metadata only update destined for no markets.
+
+
+     d. Product Ratings. The Windows Store will allow users to comment on
+     and rate apps. Microsoft may use those ratings and other data to
+     determine the placement or marketing of apps in the Windows Store. Your
+     apps may be subject to user ratings with which you may not agree. You
+     may not attempt to manipulate ratings for your app or any other app,
+     and you may not rate your own app. You may contact Microsoft if you
+     have any questions or concerns regarding these ratings.
+
+
+     e. Right to Use Marks. You grant Microsoft, its agents, licensees and
+     affiliates the right to use, reproduce, display, publicly perform and
+     publish your entity name and the Marks for each app, in connection with
+     the distribution and marketing of the app through the Windows Store and
+     in any marketing campaigns, presentations and press releases for the
+     app, Windows operating system and/or Windows Store that Microsoft may
+     elect to engage in.
+
+
+     f. Privacy Policy. If your app enables access to and the use of any
+     Internet-based services, or otherwise collects or transmits any user’s
+     personal information, you must maintain a privacy policy. You are
+     responsible for informing customers of your privacy policy (including
+     by submitting that policy to us for display to customers). Your privacy
+     policy must (i) comply with applicable laws and regulations, (ii)
+     inform users of the information collected by your app and how that
+     information is used, stored, secured and disclosed, and (iii) describe
+     the controls that users have over the use and sharing of their
+     information, and how they may access their information. You must also
+     provide access to your privacy policy in the app’s settings as
+     displayed in the Windows settings charm.
+
+
+     g. License to Customer for Windows Store apps. You, not Microsoft, will
+     license the right to install and use each app to customers. You may
+     provide a license agreement to the customer for your app. That license
+     agreement or other terms that govern a customer’s use of your app
+     (including any privacy policy), or a link to them, must be delivered to
+     Microsoft for publication via the product description materials you
+     provide to Microsoft. If you do not provide such materials, then the
+     Standard Application License Terms, attached as Exhibit A, will apply
+     between you and customers of your app. If you provide your own license
+     agreement, your license must, at a minimum, (a) permit the customer to
+     download and run the app on up to five Windows 8 enabled devices that
+     are associated with that customer’s Microsoft account, without payment
+     of any additional fees to you (from either Microsoft or customer), (b)
+     include "disclaimer of warranty" and "limitation on and exclusion of
+     remedies and damages" sections that are at least as protective as
+     Exhibit A and (c) disclaim any support services from Microsoft and the
+     customer’s device manufacturer and network operator (if applicable).
+     Your license terms must also not conflict with the Standard Application
+     License Terms, in any way, except if you include FOSS, your license
+     terms may conflict with the limitations set forth in Section 3 of those
+     Terms, but only to the extent required by the FOSS that you use. "FOSS"
+     means any software licensed under an Open Source Initiative Approved
+     License.
+
+
+     h. Roaming. Your Windows Store app must be licensed and technically
+     enabled to support "roaming." Roaming is a Windows 8 feature that
+     enables users to use your app on up to 5 Windows 8 enabled devices at
+     any one time, unless you identify your app as eligible for distribution
+     by only named OEMs, or on only an ARM or X86 processor. In such case,
+     the app must support roaming to the eligible OEM or processor specific
+     machines. Only the most recently distributed version of your app will
+     be roamed to consumers.
+
+
+     i. License to Microsoft Mark. Effective as of: (i) the general
+     availability date for Windows 8, (ii) the day Microsoft makes your app
+     available for download in the Windows Store, and (iii) for so long as
+     your app continues to be made available in the Windows Store, Microsoft
+     grants you a worldwide, nonexclusive, nontransferable, royalty-free
+     license to use the Microsoft Mark in connection with advertising for
+     your app, solely as described at the logo use specifications posted at:
+     http://go.microsoft.com/fwlink/p/?linkid=254841. The Microsoft Mark is
+     also described at that site. Microsoft may change this URL, but if it
+     does, Microsoft will use reasonable means to redirect you to any new
+     URL where the specifications are posted. Microsoft may, with reasonable
+     notice to you, change the specifications to include a new Microsoft
+     Mark. Microsoft reserves all rights not expressly granted herein. You
+     may not: (i) use the Microsoft Mark in a way that may cause confusion
+     about ownership of the Microsoft Mark or whether the app is a Microsoft
+     product, (ii) do or say anything that implies affiliation with, or
+     sponsorship, endorsement or approval by Microsoft other than as
+     contemplated by this Agreement, (iii) use the Microsoft Mark in a way
+     that implies that non-licensed products meet Microsoft’s certification
+     requirements, (iv) register, adopt or use any name, trademark, domain
+     name or other designation that includes or violates Microsoft’s rights
+     in the Microsoft Mark or any Microsoft trademark in the Microsoft Mark,
+     (v) use the Microsoft Mark in a way that would damage Microsoft’s
+     reputation or goodwill in the Microsoft Mark, (vi) alter, animate or
+     distort the Microsoft Mark or combine it with any other symbols, words,
+     images or designs. You must display the following trademark notice on
+     all materials where the Microsoft Mark is used: “Windows and the
+     Windows logo are trademarks of the Microsoft group of companies."
+     Microsoft is the sole owner of the Microsoft Mark and associated
+     goodwill, and the sole beneficiary of the goodwill associated with your
+     use of the Microsoft Mark. You will not acquire any right, title or
+     interest in the Microsoft Mark because of your use of the Microsoft
+     Mark. You hereby assign and will assign in the future any rights you
+     may acquire in the Microsoft Mark as a result of your use of the
+     Microsoft Mark under this license, along with the associated goodwill.
+     You will reasonably assist Microsoft at Microsoft’s expense in
+     protecting the Microsoft Mark. Microsoft will determine, in its sole
+     discretion, whether to take legal action to enforce or defend its
+     rights in the Microsoft Mark and will control any legal action
+     concerning the Microsoft Mark.
+
+
+4) APP REQUIREMENTS. Each app you submit to Microsoft for distribution
+through the Windows Store must meet the following requirements:
+
+
+     a. Certification Requirements. The app, including any app that contains
+     FOSS, must comply with this Agreement, the Certification Requirements
+     and any other materials provided to you by Microsoft, as any of these
+     may be revised from time to time.
+
+
+     b. Local Law. The app and your marketing of the app must comply with
+     the laws of each territory or country into which you request
+     distribution of the app. This includes: (i) data protection, privacy
+     and other laws and regulations relating to collection and use of user
+     information by your app (ii) telecommunications laws and (iii) content
+     ratings regulations. If you are required to make any disclosures to
+     consumers prior to sale or download of the app, you must provide those
+     in the app description field. Those may include your full contact
+     information, notice that an app supports in-app purchases, or other
+     disclosures. You must make such notices sufficiently prominent as is
+     required by local law. Your app must not require further export, import
+     or technology control licensing from any government. You must disclose
+     to Microsoft any controlled technology employed, used or supported by
+     your app. You may not use the Windows Store or any services or tools
+     made available for the development of apps for any illegal activity.
+
+
+     c. Third Party Rights. Your app, including any app that contains FOSS,
+     must not infringe or misappropriate any intellectual property or
+     personal right of any third party. You will obtain and maintain all
+     necessary rights, clearances and consents, and pay all performance,
+     licensing and reuse fees, including any consideration associated with
+     providing music or video related content in and through your app. If
+     your app includes FOSS, you must comply with all applicable FOSS
+     licensing terms, including any source availability requirements.
+
+
+     d. FOSS Software. If your app includes FOSS, it must not cause any non-
+     FOSS Microsoft software to become subject to the terms of any FOSS
+     license.
+
+
+     e. In-App Commerce. You may elect to support purchasing options from
+     within your app. You are not required to use Microsoft’s commerce
+     engine to support those purchases. If you choose to use Microsoft’s in-
+     app purchase commerce engine, purchases will be subject to the terms of
+     this Agreement, including without limitation the Store Fee and
+     licensing and roaming requirements. You may not use Microsoft’s in-app
+     purchase commerce engine to support the sale of physical goods from
+     within your Application. If your Application uses a non-Microsoft
+     commerce engine, you must disclose that information in the product
+     description.
+
+
+     f. Sweepstakes and Charitable Contributions. If your app is used to
+     facilitate or collect charitable contributions or to conduct a
+     promotional sweepstakes or contest, you must do so in compliance with
+     applicable law. You must also state clearly that Microsoft is not the
+     fundraiser or sponsor of the promotion. You may not use the Microsoft
+     commerce engine to facilitate charitable contributions or sweepstakes.
+
+
+5) APP PRICING, PAYMENTS, TRANSACTIONS AND TAXES.
+
+
+     a. App Pricing. When you submit an app, you will designate the price
+     (if any) to be charged to customers by selecting one of the app price
+     points that are listed in the Dashboard, and Microsoft will charge
+     customers that price (or its reasonable equivalent in local currency)
+     for the license to your app as acquired through the Windows Store.
+
+
+     b. Store Fees. You will pay Microsoft a Store Fee for each of your apps
+     that Microsoft makes available through the Windows Store. Microsoft may
+     deduct and retain the store fees you owe Microsoft from any amounts it
+     receives from customers for those apps. You will also pay any store
+     fees that Microsoft does not deduct, within five (5) days after you
+     receive a written request. The Store Fee is the percentage of Net
+     Receipts that is retained by Microsoft as a fee for making your app
+     available through the Windows Store. That percentage is 30%, unless and
+     until your app takes in total Net Receipts of USD$25,000, after which
+     time the percentage is 20% for that app. Net Receipts are the total
+     amount collected from customers in connection with the download of your
+     app through the Windows Store, minus any (i) sales, use or VAT/GST
+     taxes collected from customers for remittance by Microsoft; (ii)
+     amounts refunded to customers; and (iii) amounts owed to Microsoft
+     under this agreement.
+
+
+     c. Payment Terms. Microsoft will pay you an amount equal to the Net
+     Receipts for your app, minus the Store Fee (the “App Proceeds”) as full
+     compensation for your app as made available to customers from the
+     Windows Store, on a monthly basis, unless the Net Receipts are less
+     than US$200 (or its equivalent in local currency), in which case
+     Microsoft may elect to carry forward the amount owed to subsequent
+     months until the total amount owed is more than USD$200 (or its
+     equivalent in local currency).
+
+
+     d. Payment Processing. Microsoft will pay you the App Proceeds in
+     accordance with Microsoft's then-current payment policies and in the
+     manner you indicated during the Windows Store account setup. Microsoft
+     is not responsible for delay, loss or misapplication of payment because
+     of incorrect or incomplete information supplied by you or a bank or for
+     failure of a bank to credit your account. If you are outside of the
+     United States of America, Microsoft may remit payment to you in the
+     local currency of your address for payment, using Microsoft’s then
+     current rates for converting USD into or from your local currency. The
+     amount you actually receive will depend in part on the rates and fees
+     imposed by your financial institution and on any applicable tax
+     withholding requirements, and the amount you receive will be inclusive
+     of any sales, use, or value-added taxes that may be chargeable between
+     you and Microsoft. You must provide Microsoft with all financial, tax
+     and banking information requested so Microsoft can pay you under this
+     agreement. Microsoft will notify you of any changes to the required
+     information. Your failure to keep such information current and accurate
+     may result in Microsoft’s removal of your app from distribution and
+     forfeiture of amounts owed to you under this agreement. A customer will
+     be deemed to have paid in full for your app when Microsoft receives
+     payment from the customer, and Microsoft’s failure to remit the amounts
+     owing to you will not affect a customer’s rights to the app.
+
+
+     e. Retaining Costs. If Microsoft removes your app(s) from the Windows
+     Store and/or any customer’s device(s) for breach of this agreement or
+     in response to an allegation of intellectual property infringement,
+     Microsoft may deduct any costs incurred in connection with the removal
+     of such app (s) from any App Proceeds. If Microsoft terminates or
+     suspends your Store account for breach of this agreement, Microsoft
+     will deduct any costs incurred in connection with closing or suspending
+     your Store account from any App Proceeds otherwise payable to you.
+
+
+     f. Taxes on Payments. You are responsible for your own taxes, including
+     taxes unique to where you reside, that are related to payments you may
+     receive under this agreement. You are also responsible for paying any
+     sales, use, or value-added taxes (if any) in connection with the Store
+     Fee that Microsoft collects from you. If taxes are required to be
+     withheld on any amounts to be paid by Microsoft to you, Microsoft will
+     deduct such taxes from the amount owed and pay them to the appropriate
+     taxing authority and will secure and deliver to you an official receipt
+     for any such taxes withheld. Microsoft will use reasonable efforts to
+     minimize such taxes to the extent permissible under applicable law, and
+     each party will reasonably cooperate with the other to obtain the
+     lowest tax rates or elimination of such taxes pursuant to the
+     applicable income tax treaties.
+
+
+     g. Reconciliation and Offset. You are responsible for all costs and
+     expenses for returns and chargebacks of your app, including the full
+     refund and chargeback amounts paid or credited to customers. Refunds
+     processed after you receive the App Proceeds will be debited against
+     your account. Microsoft may offset any amounts owed to Microsoft
+     (including the refund and chargeback costs described in this paragraph)
+     against amounts Microsoft owes you. Refunds processed by Microsoft can
+     only be initiated by Microsoft; if you wish to offer a customer a
+     refund, directly, you must do so via your own payment processing tools.
+
+
+     h. Taxes on App Transactions. If you choose to have Microsoft make your
+     app available for customers in the United States, any current member
+     country of the European Union, Canada, Norway, Switzerland, Taiwan or
+     Liechtenstein (Remittance Countries), Microsoft (or its billing service
+     provider) will collect and remit sales, use, goods and services, value
+     added or similar taxes, if any, applicable to your app as made
+     available in such country(s) through the Windows Store. In any country
+     other than the Remittance Countries, Microsoft will not remit any
+     sales, use, goods and services, value added or other similar tax. You
+     are responsible for determining whether you have an obligation to
+     register, collect, and remit taxes in any country other than the
+     Remittance Countries, and you must designate the sales price of your
+     app to include any applicable taxes that you are obligated to collect
+     and pay in those countries. For additional tax information and
+     requirements please see MSDN.
+
+
+6) WARRANTIES. You represent, warrant and undertake to Microsoft that:
+
+
+     a. You have the power and authority to enter into this Agreement and to
+     fully perform your obligations under this agreement;
+
+
+     b. Your app, together with all advertising or other materials
+     accessible from or that provide access to your app, complies with and
+     will continue to comply with all requirements of this agreement,
+     including the Certification Requirements;
+
+
+     c. You are at least 18 years of age (or the age of full legal capacity
+     in your location) on the date you submit your app(s) to Microsoft;
+
+
+     d. Listing and distribution of your app in the Windows Store does not
+     and will not violate any agreements to which you are a party or of
+     which you are otherwise aware, and does not and will not misappropriate
+     or infringe the intellectual property or proprietary rights of any
+     third party;
+
+
+     e. Microsoft’s exercise of the rights you grant under this agreement
+     will not obligate Microsoft or its subsidiaries to pay any third party
+     any amounts; and
+
+
+     f. The information you provide to Microsoft under or in connection with
+     this agreement is true, accurate, current, and complete.
+
+
+7) CONFIDENTIALITY. During the term of this agreement and for five (5)
+years after, the recipient of Confidential Information under this agreement
+will hold in confidence, and will not use or disclose any of the other
+party’s Confidential Information to a third party, except contractors who
+are performing on the receiving party’s behalf and only subject to
+confidentiality terms at least as protective as this section. "Confidential
+Information" means all information that a party designates as confidential,
+or which, under the circumstances of disclosure, ought to be treated as
+confidential. If Microsoft exposes you to any customer personal
+information, then between you and Microsoft, that personal information is
+Microsoft Confidential Information and you will return to Microsoft, or
+destroy that information, immediately upon Microsoft’s request.
+Confidential Information does not include information that is or becomes
+known to the receiving party without a breach of this agreement or any
+other confidentiality obligation owed to a disclosing party. If you have
+any questions as to what comprises Microsoft Confidential Information, you
+will consult with Microsoft. This section does not prohibit either party
+from responding to lawful requests from law enforcement authorities. You
+also agree that Microsoft may aggregate business intelligence metrics and
+report that information in non-identifiable form via the Developer Portal.
+
+
+8) ACCESS TO TRANSACTION DATA. Even though Microsoft is your agent or
+commissionaire as described in Section 3(a), Microsoft will not provide you
+access to any personal information submitted by customers through the
+Windows Store, including transaction data. You waive, release and disclaim
+any claim or right you may have to request access to such information.
+Microsoft’s only reporting obligation to you is to provide you the
+reporting capabilities we are required to provide under applicable tax laws
+and regulations.
+
+
+9) DISCLAIMER, LIMITATION OF LIABILITY, AND DEFENSE OF CLAIMS.
+
+
+     a. DISCLAIMER OF WARRANTY. WE PROVIDE THE WINDOWS STORE AND DASHBOARD
+     "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE." YOU BEAR THE RISK OF
+     USING THE WINDOWS STORE AND DEVELOPER PORTAL. TO THE EXTENT PERMITTED
+     BY LOCAL LAW, MICROSOFT EXCLUDES ANY IMPLIED WARRANTIES OR CONDITIONS,
+     INCLUDING THOSE OF PRODUCT LIABILITY, MERCHANTABILITY, FITNESS FOR A
+     PARTICULAR PURPOSE, WORKMANLIKE EFFORT, AND NON-INFRINGEMENT, RELATING
+     TO THE WINDOWS STORE AND DEVELOPER PORTAL.
+
+
+     b. LIMITATION OF LIABILITY. YOU CAN RECOVER FROM MICROSOFT AND ITS
+     AFFILIATES ONLY DIRECT DAMAGES UP TO AN AMOUNT EQUAL TO YOUR ACCOUNT
+     FEE (OR $1, IF THERE IS NO ACCOUNT FEE). YOU AGREE NOT TO SEEK AND
+     WAIVE ANY RIGHT TO RECOVER ANY OTHER LOSSES OR DAMAGES, INCLUDING
+     WITHOUT LIMITATION CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT,
+     PUNITIVE OR INCIDENTAL DAMAGES. THESE LIMITS AND EXCLUSIONS APPLY EVEN
+     IF MICROSOFT KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF THE
+     DAMAGES. THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU BECAUSE
+     YOUR STATE OR COUNTRY MAY NOT ALLOW THE EXCLUSION OF CERTAIN DAMAGES.
+
+
+     c. Duty to defend. You will defend, indemnify and hold harmless
+     Microsoft and its subsidiaries from and against (including by paying
+     associated any costs, losses, damages or expenses and attorneys’ fees)
+     any and all third party claims: (i) that your app infringes any
+     proprietary or personal right of a third party; (ii) alleging your
+     breach of this agreement, (iii) relating to the use of or inability to
+     use the app, including any product liability claims; or (iv) by any tax
+     authority based on any nonpayment or underpayment of any sales, use,
+     goods and services, value added or other similar tax, including any
+     associated penalties and interest, in any country other than the
+     Remittance Countries. Microsoft will notify you promptly in writing of
+     the claim and, at your reasonable request, provide you with reasonable
+     assistance in defending the claim. You will reimburse Microsoft for any
+     reasonable out-of-pocket expenses incurred in providing that
+     assistance. You will not make any settlement or compromise of a claim,
+     or admit or stipulate any fault or liability on Microsoft part with
+     respect to any claim covered by this section without Microsoft’s
+     express, prior written consent.
+
+
+10) TERM AND TERMINATION.
+
+
+     a. General. This agreement will remain in effect until terminated. You
+     or Microsoft may terminate this agreement at any time for any reason or
+     no reason, upon at least sixty (60) days’ written notice. Either party
+     may terminate this agreement in the event of an uncured material breach
+     of this agreement by the other party which termination will be
+     effective thirty (30) days after the other party’s receipt of written
+     notice of the breach.
+
+
+     b. App Retention. If you terminate this agreement or request that
+     Microsoft remove your app from the Windows Store, Microsoft may retain
+     a copy of the affected app(s), indefinitely. Unless the app was removed
+     from the Windows Store because of a court order relating to
+     intellectual property infringement, Microsoft may reproduce and
+     continue to make the app(s) available only to customers who previously
+     downloaded the app(s) under the terms of the customer’s existing
+     license, or for storage management, backup and restore, or technical
+     reasons.
+
+
+11) MISCELLANEOUS
+
+
+     a. Notices. All notices that you provide to Microsoft under this
+     agreement must be sent to Microsoft as described at
+     http://go.microsoft.com/fwlink/p/?LinkID=221914.
+
+
+     b. Assignment. Microsoft may assign this agreement (or any rights or
+     duties under it) at any time. You may not assign this agreement or any
+     rights or duties under it without the express written consent of
+     Microsoft.
+
+
+     c. Subcontractors. Microsoft may sublicense its rights under this
+     agreement to third parties to assist Microsoft in performing its
+     obligations or exercising its rights under this agreement. Microsoft
+     will, subject to the terms of this agreement, be responsible for the
+     performance of such third parties.
+
+
+     d. English Language. The parties intend for this agreement to be
+     written and interpreted solely in English. Any notices required or
+     provided under this agreement will be in English. In the event of any
+     conflict between the English version of this agreement or any notices
+     and a translation, the English version will prevail.
+
+
+     e. Choice of Law and Venue. This agreement is governed by the laws of
+     Washington State. You irrevocably consent to the exclusive jurisdiction
+     and venue of the courts in King County, Washington.
+
+
+     f. Limitation on Claims. To the maximum extent permitted by local law,
+     any claim related to this agreement or to the Windows Store must be
+     filed within one year of the claimant first becoming aware of the
+     claim. If it is not filed within that time, then the claim is
+     permanently barred.
+
+
+     g. No Waiver. A party’s failure to enforce any rights under this
+     agreement will not be deemed a waiver of the same right on another
+     occasion, or of the right to enforce any other right under this
+     agreement. Microsoft’s decision to make an app available on the Windows
+     Store will not be deemed a waiver of any rights Microsoft may have
+     under this agreement, including for violations of the Certification
+     Requirements or other content related terms.
+
+
+     h. Survival. Sections 2(g), 9h), (j) and (l), 3(c), (d) and (e), 6-9,
+     10(b), and 11 will survive any termination or expiration of this
+     agreement.
+
+
+     i. Not Exclusive. This agreement is nonexclusive, and nothing in this
+     agreement restricts you or Microsoft from entering into other, similar
+     agreements with other marketplaces or app developers, or from
+     acquiring, licensing, developing, manufacturing, or distributing
+     similar or competing technologies.
+
+
+     j. Updates. Microsoft may update this agreement at any time in its sole
+     discretion. Microsoft will indicate the last date on which the
+     agreement was modified at the top of the agreement. By submitting an
+     app and/or any related materials under this agreement, you agree to be
+     bound by the terms and conditions contained in the agreement then in
+     effect on the date of submission. Those terms will apply to apps that
+     you submit on and after that date, until the terms are updated again.
+     If you do not agree with an update, you have no right to, and must not,
+     submit an app or any related materials.
+
+
+Exhibit A
+
+
+STANDARD APPLICATION LICENSE TERMS
+
+
+WINDOWS STORE
+
+
+These license terms are an agreement between you and the application
+developer. Please read them. They apply to the software application you
+download from the Windows Store, including any updates or supplements for
+the application, unless the application comes with separate terms, in which
+case those terms apply.
+
+
+BY DOWNLOADING OR USING THE APPLICATION, OR ATTEMPTING TO DO ANY OF THESE,
+YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, YOU HAVE NO RIGHT TO AND
+MUST NOT DOWNLOAD OR USE THE APPLICATION.
+
+
+The application developer means the entity licensing the application to
+you, as identified in the Windows Store.
+
+
+If you comply with these license terms, you have the rights below.
+
+
+1. INSTALLATION AND USE RIGHTS; EXPIRATION. You may install and use one
+copy of the application on each of up to five (5) Windows 8 enabled devices
+that are affiliated with the Microsoft account associated with your Windows
+Store account.
+
+
+2. INTERNET-BASED SERVICES.
+
+
+     a. Consent for Internet-Based or Wireless Services. The application
+     connects to computer systems over the Internet, which may include via a
+     wireless network. Using the application operates as your consent to the
+     transmission of standard device information (including but not limited
+     to technical information about your device, system and application
+     software, and peripherals) for internet-based or wireless services.
+
+
+     b. Misuse of Internet-based Services. You may not use any Internet-
+     based service in any way that could harm it or impair anyone else’s use
+     of it or the wireless network. You may not use the service to try to
+     gain unauthorized access to any service, data, account or network by
+     any means.
+
+
+3. SCOPE OF LICENSE. The application is licensed, not sold. This agreement
+only gives you some rights to use the application. Application developer
+reserves all other rights. Unless applicable law gives you more rights
+despite this limitation, you may use the application only as expressly
+permitted in this agreement. You may not
+
+
+    • work around any technical limitations in the application;
+    • reverse engineer, decompile or disassemble the application, except and
+      only to the extent that applicable law expressly permits, despite this
+      limitation;
+    • make more copies of the application than specified in this agreement
+      or allowed by applicable law, despite this limitation;
+    • publish or otherwise make the application available for others to
+      copy; or
+    • rent, lease or lend the application.
+
+
+4. DOCUMENTATION. If documentation is provided with the Application, you
+may copy and use the documentation for personal reference purposes.
+
+
+5. TECHNOLOGY AND EXPORT RESTRICTIONS. The Application may be subject to
+United States or international technology control or export laws and
+regulations. You must comply with all domestic and international export
+laws and regulations that apply to the technology used or supported by the
+application. These laws include restrictions on destinations, end users and
+end use. For information on Microsoft branded products, see
+www.microsoft.com/exporting.
+
+
+6. SUPPORT SERVICES. Microsoft and your hardware manufacturer are not
+responsible for providing support services for the application. If
+Microsoft is the application developer, it may provide support services,
+but is not obligated to do so under this agreement. Contact the application
+developer to determine what support services are available.
+
+
+7. ENTIRE AGREEMENT. This agreement, any applicable privacy policy, and the
+terms for supplements and updates are the entire agreement between you and
+application developer for the application. If Microsoft is the application
+developer, this agreement does not change the terms of your relationship
+with Microsoft with regard to Windows, including the Windows Store.
+
+
+8. APPLICABLE LAW.
+
+
+     a. United States. If you acquired the application in the United States,
+     Washington state law governs the interpretation of this agreement and
+     applies to claims for breach of it, regardless of conflict of laws
+     principles. The laws of the state where you live govern all other
+     claims, including claims under state consumer protection laws, unfair
+     competition laws, and in tort.
+
+
+     b. Outside the United States. If you acquired the application in any
+     other country, the laws of that country apply.
+
+
+9. LEGAL EFFECT. This agreement describes certain legal rights. You may
+have other rights under the laws of your state or country. This agreement
+does not change your rights under the laws of your state or country if the
+laws of your state or country do not permit it to do so.
+
+
+10. DISCLAIMER OF WARRANTY. TO THE FULLEST EXTENT PERMITTED BY LAW, (A) THE
+APPLICATION IS LICENSED "AS-IS," "WITH ALL FAULTS," AND "AS AVAILABLE" AND
+YOU BEAR ALL RISK OF USING IT; (B) THE APPLICATION DEVELOPER, ON BEHALF OF
+ITSELF, MICROSOFT (IF MICROSOFT IS NOT THE APPLICATION DEVELOPER), AND EACH
+OF OUR RESPECTIVE AFFILIATES, VENDORS, AGENTS AND SUPPLIERS, GIVES NO
+EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS IN RELATION TO THE
+APPLICATION; (C) YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL
+LAWS THAT THIS AGREEMENT CANNOT CHANGE. APPLICATION DEVELOPER AND MICROSOFT
+EXCLUDE ANY IMPLIED WARRANTIES OR CONDITIONS, INCLUDING THOSE OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.
+
+
+TO THE EXTENT NOT PROHIBITED BY LAW, YOU CAN RECOVER FROM THE APPLICATION
+DEVELOPER ONLY DIRECT DAMAGES UP TO THE AMOUNT YOU PAID FOR THE APPLICATION
+OR $1.00, WHICHEVER IS GREATER. YOU WILL NOT, AND WAIVE ANY RIGHT TO, SEEK
+TO RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS,
+SPECIAL, INDIRECT OR INCIDENTAL DAMAGES FROM THE APPLICATION DEVELOPER.
+
+
+This limitation applies to
+
+
+    • anything related to the application or services made available through
+      the application; and
+
+
+    • claims for breach of contract, breach of warranty, guarantee or
+      condition, strict liability, negligence, or other tort to the extent
+      permitted by applicable law.
+
+
+It also applies even if
+
+
+    • repair, replacement or a refund for the application does not fully
+      compensate you for any losses; or
+
+
+    • application developer knew or should have known about the possibility
+      of the damages.
+
+
+Revision history
+
+|Date   |Versi|Summary of changes                   |Links to     |
+|       |on   |                                     |document     |
+|March  |4.6  |Synchronized version numbers between |             |
+|20,    |     |App Developer Agreement and          |             |
+|2013   |     |Certification Requirements           |             |
+|Decembe|4.5  |Section 1 UPDATED—includes statement |Version 4.5  |
+|r 12,  |     |about abusing the Store service.     |App Developer|
+|2012   |     |                                     |Agreement    |
+|October|4.0  |Section 2k REMOVED                   |Version 4.0  |
+|19,    |     |Section 3c UPDATED—includes how to   |App Developer|
+|2012   |     |unpublish an app                     |Agreement    |
+|       |     |Section 4b REVISED—includes          |             |
+|       |     |information on what information you  |             |
+|       |     |need to disclose                     |             |
+|       |     |Installation and Use Rights,         |             |
+|       |     |Expiration REVISED—removed references|             |
+|       |     |to pre-release versions of Windows 8.|             |
+|       |     |Disclaimer of Warranty               |             |
+|       |     |REVISED—updated for clarification    |             |
+|July 9,|3.0  |Synchronized version numbers between |Version 3.0  |
+|2012   |     |App Developer Agreement and          |App Developer|
+|       |     |Certification Requirements           |Agreement    |
+|       |     |Section 1 REVISED—account fee may be |             |
+|       |     |required to submit apps              |             |
+|       |     |Section 3a REVISED—includes          |             |
+|       |     |information on preinstallable apps   |             |
+|       |     |for OEMs                             |             |
+|       |     |Section 3i ADDED—information on      |             |
+|       |     |license to Microsoft Mark            |             |
+|       |     |Section 4e REVISED—added             |             |
+|       |     |clarifications for in-app commerce   |             |
+|       |     |Section 5 REVISED—expanded to reflect|             |
+|       |     |capability to charge for apps        |             |
+|       |     |Section 9c REVISED—Updated           |             |
+|       |     |information to include tax authority,|             |
+|       |     |nonpayments, and other payment       |             |
+|       |     |details                              |             |
+|May 7, |1.1  |Updated ADA for Release Preview      |Version 2.0  |
+|2012   |ADA  |                                     |App Developer|
+|       |     |                                     |Agreement    |
+
+
+Build date: 6/21/2013
+

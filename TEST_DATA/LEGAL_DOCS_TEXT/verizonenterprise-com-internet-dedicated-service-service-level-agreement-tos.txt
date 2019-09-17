@@ -1,0 +1,304 @@
+
+
+Service Level Standard 1 – Circuit Installation
+
+
+Installation Scope. Verizon's Circuit Installation Service Level Standard
+is to have installation of a Verizon-ordered telephone company circuit and
+activation of a Verizon port completed within forty (40) business days for
+T1 services, sixty (60) business days for T3 services, and within the
+scheduled installation date provided in writing by a Verizon Sales Manager
+for OC-3, OC-12, OC-48, FE Port Only, and Internet Dedicated Ethernet (and
+GigE) services.
+
+
+Installation Process. The installation date shall be counted from the date
+Verizon has received all of the following from Customer: signed contract
+(e.g., Service Agreement or Amendment), completed Customer Information
+Form, and (if requested by Verizon) completed credit application. The
+Circuit Installation Service Level Standard is not available for Customer-
+ordered telephone company circuits, Verizon-ordered telephone company
+circuits outside the contiguous U.S., or if installation delay is
+attributable to Customer equipment, Customer's facility, acts or omissions
+of Customer, its employees or agents, Customer not passing Verizon's credit
+check, or reasons of Force Majeure (see below if not defined in the
+applicable service agreement).
+
+
+Installation Remedy. To claim a credit, Customer must request it by calling
+the Billing Inquiry/Trouble telephone number on its invoice. At the time of
+the call, Customer must provide the company name, account number, circuit
+ID, name of the service (Internet Dedicated), contact name and number, e-
+mail address, Service Level Standard installation date, and the actual
+installation date in order to process the request. If Verizon determines in
+its reasonable commercial judgment that it has not met a Circuit
+Installation Service Level Standard, then at Customer's request, Customer's
+invoice will be credited an amount equal to 50% of Verizon's billed
+installation charge, to include any applicable Internet Port/service
+installation charges and Verizon-ordered and -billed access installation
+charges for the Internet Dedicated Service for which the Circuit
+Installation Service Level Standard was not met.
+
+
+Service Level Standard 2 - Availability
+
+
+Service Availability Scope. Verizon's Service Availability Service Level
+Standard provides that the Verizon Network (as defined in the applicable
+service agreement) will be available 100% of the time.
+
+
+Service Availability Process. At Customer's request, Verizon will calculate
+Customer's "Network Unavailability" during a calendar month. "Network
+Unavailability" consists of the number of minutes that the Verizon Network
+or a Verizon-ordered access circuit in the contiguous U.S. was not
+available to Customer, and includes unavailability associated with any
+maintenance at the Verizon data center where Customer's circuit is
+connected or Customer's server is located other than Scheduled Maintenance
+(defined below). Outages will be counted as Network Unavailability only if
+Customer opens a trouble ticket with Verizon Customer support within four
+(4) hours from learning of the outage. Network Unavailability will not
+include Scheduled Maintenance, or any unavailability resulting from (a) any
+Customer-ordered telephone company circuits or equipment, (b) Customer's
+applications or equipment, (c) acts or omissions of Customer or user of the
+Internet Dedicated Service authorized by Customer or (d) Force Majeure (see
+below if not defined in the applicable service agreement). If Verizon fails
+to meet this Service Level Standard during any given calendar month in
+accordance with the above, Customer's account will be credited at
+Customer's request.
+
+
+Service Availability Remedy. To receive credit for a failure to meet a
+Service Level Standard, Customer must request such credit within 30 days
+from the date that the Internet Dedicated Service was unavailable. For each
+cumulative hour of Network Unavailability or fraction thereof in any
+calendar month, at Customer's request, Customer's account shall be credited
+for the pro-rated charges for one day of the Verizon I monthly recurring
+charge plus one day of the telephone company line charges for the Service
+with respect to which a Service Availability Service Level Standard was not
+met.
+
+
+Service Level Standard 3 – Latency
+
+
+Latency Scope. Verizon's U.S. Latency Service Level Standard provides for
+average round-trip transmissions of 45 milliseconds or less between Verizon-
+designated inter-regional transit backbone routers ("Hub Routers") in the
+contiguous U.S. Verizon's Transatlantic Latency Service Level Standard
+provides for average round-trip transmissions of 90 milliseconds or less
+between a Verizon Hub Router in the New York metropolitan area and a
+Verizon Hub Router in the London metropolitan area. Latency is calculated
+by averaging sample measurements taken during a calendar month between Hub
+Routers. Network performance statistics relating to the U.S. Latency
+Guarantee and the Transatlantic Latency Guarantee are posted at the
+following location: http://www.verizonbusiness.com/about/network/latency.
+
+
+Latency Remedy. If Verizon fails to meet the Latency Service Level Standard
+in a calendar month, Customer's account shall be automatically credited for
+that month. The credit will equal the pro-rated charges for one day of the
+Verizon monthly recurring charge for the Internet Dedicated Service with
+respect to which the Service Level Standard has not been met. Credits will
+not be issued if failure to meet either the U. S. Latency Service Level
+Standard or the Transatlantic Latency Service Level Standard is
+attributable to reasons of Force Majeure (see below if not defined in the
+applicable service agreement).
+
+
+Service Level Standard 4 - Network Packet Delivery
+
+
+Network Packet Delivery Scope. Verizon offers both a North American and
+Transatlantic Network Packet Delivery Service Level Standard. Verizon's
+North American Network Packet Delivery Service Level Standard provides for
+a monthly packet delivery of 99.5% or greater between Verizon-designated
+Hub Routers in North America. The Transatlantic Network Packet Delivery
+Service Level Standard provides for a monthly packet delivery of 99.5% or
+greater between a Verizon-designated Hub Router in the New York City
+metropolitan area and a Verizon-designated Hub Router in the London U.K.
+metropolitan area.
+
+
+Network Packet Delivery Process. Packet delivery is calculated based on the
+average of regular periodic measurements taken during a calendar month
+between Hub Routers. Network Performance statistics relating to the Network
+Packet Delivery Service Level Standard will be posted at the following
+location: http://www.verizonbusiness.com/about/network/latency. No credits
+will be issued if failure to meet a Network Packet Delivery Service Level
+Standard is attributable to reasons of Force Majeure (see below if not
+defined in the applicable service agreement).
+
+
+Network Packet Delivery Remedy. If Verizon fails to meet any Network Packet
+Delivery Service Level Standard in a calendar month, Customer's account
+will be automatically credited for that month. Such credit will equal the
+pro-rated charges for one day of the Verizon monthly recurring charge for
+the Internet Dedicated Service with respect to which a Network Packet
+Delivery Service Level Standard has not been met.
+
+
+Service Level Standard 5 - Denial of Service Service Level Standard
+
+
+Denial of Service Scope. Verizon will respond to Denial of Service attacks
+reported by Customer within 15 minutes of Customer opening a complete
+trouble ticket with the Verizon Business Customer Center. Verizon defines a
+Denial of Service attack as more than 95% bandwidth utilization. This
+Service Level Standard is only available in the United States.
+
+
+Denial of Service Process. To open a trouble ticket for Denial of Service,
+Customer must call Verizon at 1-800-900-0241 and state: "I am under a
+Denial of Service Attack." A complete trouble ticket consists of Customer's
+Name, Account Number, Caller Name, Caller Phone Number, Caller E-mail
+Address and Possible Destination IP address/Type of Attack. Verizon will
+use trouble tickets and other appropriate Verizon records to determine, in
+its sole judgment, whether a Service Level Standard has been met. Customer
+must notify Verizon no later than 30 days after the Denial of Service
+attack(s) occurred.
+
+
+Denial of Service Remedy. If Verizon fails to meet the Denial of Service
+Service Level Standard, Customer's account will be credited, at Customer's
+request, the pro-rated charges for one day of the Verizon monthly recurring
+charges for the affected Internet Dedicated Service. Customer may obtain no
+more than one credit per day, regardless of the number of times a Denial of
+Service Service Level Standard has not been met during the day.
+
+
+Service Level Standard 6 - Reporting Service Level Standard
+
+
+Verizon provides two types of reporting Service Level Standards – a Network
+Outage Notification Service Level Standard and a Scheduled Maintenance
+Notification Service Level Standard. Verizon's Network Outage Service Level
+Standard provides Customer notification within 15 minutes after it is
+determined that Internet Dedicated Service is unavailable. Verizon's
+standard procedure is to ping Customer's router every five minutes. If the
+router does not respond after two consecutive five-minute ping cycles,
+Verizon will deem the Internet Dedicated Service unavailable and the
+Customer's point of contact will be notified by e-mail, phone or pager, as
+elected by Verizon.
+
+
+Scheduled Maintenance. Scheduled Maintenance means any maintenance at the
+Verizon hub to which Customer's circuit is connected (a) of which Customer
+is notified seven calendar days in advance, and (b) that is performed at
+the Verizon hub to which Customer's circuit is connected. Notice of
+Scheduled Maintenance will be provided to Customer's designated point of
+contact by e-mail or pager, as elected by Verizon. Upon receiving such
+notice, Customer may request to have such maintenance postponed to a later
+date if agreed to by Verizon.
+
+
+Force Majeure. Any delay in or failure of performance by Verizon will not
+be considered a breach of this Service Level Standard if and to the extent
+caused by events beyond its reasonable control, including, but not limited
+to, acts of God, embargoes, governmental restrictions, strikes, lockouts,
+work stoppages or other labor difficulties, riots, insurrection, wars, or
+other military action, acts of terrorism, civil disorders, rebellion,
+fires, floods, vandalism, or sabotage (“Force Majeure”). Verizon's
+obligations hereunder will be suspended to the extent caused by Force
+Majeure so long as the Force Majeure continues.
+
+
+Service Level Standard 7 - Network Jitter Service Level Standard (currently
+applicable only in U.S.)
+
+
+U.S Network Jitter Scope. Also known as delay variation, Jitter is defined
+as the variation or difference in the end-to-end delay between received
+packets of an IP or packet stream. Jitter is usually caused by
+imperfections in hardware or software optimization and varying traffic
+conditions and loading. Excessive delay variation in packet streams usually
+results in additional packet loss, which affects quality. Verizon’s North
+American Network jitter performance will not exceed 1 milliseconds between
+Verizon-designated inter-regional transit backbone network routers Hub
+Routers in the contiguous U.S.
+
+
+Network Jitter Process. Jitter shall be measured by averaging sample
+measurements taken during a calendar month between Hub Routers. Each
+month's Network performance statistics relating to the Network Jitter
+Service Level Standards shall be posted at
+http://www.verizonbusiness.com/about/network/latency. No credits will be
+made if failure to meet a Network Jitter Service Level Standard is
+attributable to reasons of Force Majeure (as defined in the applicable
+service agreement).
+
+
+Network Jitter Service Level Standard Remedy. If Verizon fails to meet
+Jitter Service Level Standard in a calendar month; Customer's account shall
+be automatically credited for that month for the pro-rated charges for one
+day of the Verizon Monthly Fee for the service with respect to which Jitter
+Service Level Standard has not been met.
+
+
+Service Level Standard 8 - Mean Opinion Score ("MOS") Service Level
+Standard (currently applicable only on the U.S. Mainland)
+
+
+MOS Scope. Mean Opinion Score is a measure (score) of the audio fidelity,
+or clarity, of a voice call. It is a statistical measurement that predicts
+how the average user would perceive the clarity of each call. The Verizon
+Internet Dedicated MOS Service Level Standard provides that Verizon's U.S.
+Mainland Network MOS performance not be less than 4.0 between Verizon-
+designated inter-regional transit backbone network routers ("Hub Routers")
+in the contiguous United States. MOS is calculated using the standards
+based E-model (ITU-T G.107).
+
+
+MOS Process. Credits will not be issued if failure to meet the MOS Service
+Level Standard is attributable to reasons of Force Majeure (as defined in
+Service Level Standard.6 above, if not defined in the applicable service
+agreement.)
+
+MOS Service Level Standards shall be posted at
+http://www.verizonbusiness.com/about/network/latency.
+
+
+MOS Remedy. To receive a credit, Customer must submit a request within 30
+business days after Service Level Standard results for the preceding month
+have been posted and which indicate that the MOS Service Level Standard has
+not been met. Customer’s account will be credited a pro-rated amount of the
+monthly recurring charges equivalent to one day’s Internet Dedicated
+Service plus one day of the access line charges for the Internet Dedicated
+Service.
+
+
+Service Level Standard 9 – Time to Repair ("TTR") Service Level Standard
+
+
+TTR Service Level Standard Scope. Calculation of Customer’s TTR Service
+Level will be based on the time taken to restore service to a circuit
+following an event that results in the outage of a circuit. The TTR Service
+Level Standard for Internet Dedicated Services is 4 hours. The TTR time
+starts when a trouble ticket is opened by Verizon or the Customer after the
+outage of a circuit other than for outages associated with the exceptions
+stated below, and concludes with the restoration of the affected circuit.
+TTR Service Level Standard applies to the Local Access line and the WAN
+infrastructure port.
+
+
+TTR Service Level Standard Process. Outages will be counted only if
+Customer opens a trouble ticket with Verizon Customer support within (30)
+days of the outage. Calculation of the TTR Service Level Standard does not
+count as a covered outage any outage resulting from (a) scheduled
+Maintenance; (b) any Customer-ordered telephone company circuits or
+equipment; (c) Customer's applications or equipment; (d) acts or omissions
+of Customer, non-Verizon affiliated third parties or user of the circuit
+authorized by Customer; or (e) Force Majeure (as defined below if not
+defined in the applicable service agreement). If Verizon does not meet the
+TTR Service Level Standard during any calendar month Customer's account
+will be credited at Customer's request.
+
+
+TTR Service Level Standard Remedy. To receive a credit, Customer must
+submit its request within 30 days after the month in which the TTR Service
+Level Standard was not met. Such credit will equal the pro-rated charges
+for one day of the Verizon Monthly Fee for the affected Service with
+respect to the calendar month the TTR Service Level Standard has not been
+met. The TTR Service Level Standard Remedy is not available to Customer if
+Customer has requested a credit under the Service Availability Standard.
+

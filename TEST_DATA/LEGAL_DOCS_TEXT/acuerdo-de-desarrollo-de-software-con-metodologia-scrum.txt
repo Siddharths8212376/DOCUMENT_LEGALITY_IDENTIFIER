@@ -1,0 +1,572 @@
+
+ACUERDO DE DESARROLLO DE SOFTWARE
+
+
+Este acuerdo, con fecha [FECHA] (la “Fecha Efectiva”) por servicios de
+Desarrollo de Software (el “Acuerdo”), entre [MIEMBROS DEL EQUIPO DEL
+PROVEEDOR DE SERVICIOS], de [PROVEEDOR](el “Proveedor”), con direcciones
+electrónicas [DIRECCIONES DE CORREO ELECTRÓNICO DE LOS MIEMBROS DEL EQUIPO
+DEL PROVEEDOR DE SERVICIOS], y [NOMBRE DE CLIENTE], de [COMPAÑÍA DEL
+CLIENTE] (“Cliente”) , con dirección de correo electrónico [DIRECCIÓN DE
+CORREO ELECTRÓNICO DEL CLIENTE], (conocidos como las “Partes”), para la
+ejecución de los mencionados Servicios de Desarrollo de Software y la
+producción de Componentes descritos en el Cronograma A, adjuntos en este
+documento e incorporados para referencia. Las Partes acuerdan:
+
+
+1. DEFINICIONES
+
+
+Empleadas en la totalidad de este Acuerdo:
+
+
+1.1 “Acuerdo” significa la totalidad de este documento, los documentos de
+la Propuesta (si los hubiere), el Cronograma A, en conjunto con cualquier
+otro Suplemento, Anexo, o Cronogramas adicionales que se incorporen como
+referencias aquí.
+
+
+1.2 “Contenido del Cliente” significa todos los materiales, información,
+fotografías, escritos y otros contenidos provistos por el Cliente para el
+uso en la preparación y/o incorporación en los Componentes.
+
+
+1.3 “Derechos de Autor” significa el derecho a la propiedad en trabajos
+originales de autoría, avalado por la Ley 11.723 de Propiedad Intelectual
+en Argentina.
+
+
+1.4 “Componentes” significa los servicios y el producto, mutuamente
+acordados tanto por el Cliente como el Proveedor, que el Proveedor
+entregará al cliente, en la forma y medios que especifica el Cronograma A.
+
+
+1.5 “Herramientas de Desarrollo” significa todas las herramientas de
+desarrollo creadas y/o utilizadas por el Proveedor para la prestación de
+los Servicios, incluyendo, pero no limitado a: software pre-existente y
+creado con su correspondiente código fuente, herramientas de Desarrollo
+Web, tipografías, y herramientas de aplicación, en conjunto con cualquier
+otro software, u otras invenciones (patentables o no patentables) y
+conceptos generales no alcanzados por el derecho de autor, como los
+elementos de arquitectura, disposición, navegación (Web, si correspondiera)
+y funcionalidad de los Componentes.
+
+
+1.6 “Software Final” significa todo el contenido desarrollado o creado por
+el Proveedor de manera exclusiva e incorporado al Proyecto como parte de
+los Componentes Finales, incluyendo, pero no limitándose a elementos
+visuales, interfaces, herramientas lógicas, datos, y código fuente,
+adaptaciones y/o modificaciones al Contenido del Cliente, y la selección,
+arreglo y coordinación de dichos elementos por parte del Proveedor, en
+conjunto con Materiales de Terceros, si los hubiere, aprobados y aceptados
+debidamente por el Cliente.
+
+
+1.7 “Componentes Finales” significa las versiones finales de los
+Componentes, entregadas por el Proveedor y aprobadas y aceptadas por el
+Cliente.
+
+
+1.8 “Muestras Preliminares” significa todo conjunto de/sin limitarse a:
+conceptos, previsualizaciones de funcionalidad, presentaciones u otros
+documentos y especificaciones preliminares, desarrolladas por el Proveedor
+y que pueden o no ser mostradas y/o entregadas al Cliente para su
+consideración.
+
+
+1.9 “Proyecto” significa el alcance y propósito del uso identificado del
+producto por parte del Cliente.
+
+
+1.10 “Servicios” (o “Servicios del Proveedor”) significa todos los
+servicios y el producto de trabajo que el Proveedor entregará al Cliente
+como está descrito y definido en cada Componente.
+
+
+1.11 “Materiales de Terceros” significa componentes propietarios de
+terceras partes que se incorporan a los Componentes Finales, incluyendo
+(pero no limitado a): íconos, tipografías, código fuente, librerías de
+software o componentes relevantes a la implementación de los Componentes
+Finales.
+
+
+1.12 “Marcas Registradas” significa nombres comerciales, palabras,
+símbolos, logotipos u otros dispositivos y/o diseños utilizados para
+designar el origen de bienes o servicios.
+
+
+2. SERVICIOS
+
+
+El Proveedor proveerá al Cliente con servicios (los "Servicios) que
+incluirán, sin limitación:
+
+
+El diseño y desarrollo de [DESCRIPCIÓN DEL PROYECTO DE SOFTWARE] que es un
+conjunto de Componentes de Software.
+
+
+Los Componentes serán desarrollados utilizando la metodología Scrum de
+desarrollo ágil. El tiempo de desarrollo será dividido en períodos de 2
+semanas (un "Sprint"). Cada Sprint comenzará con una reunión de
+planeamiento del Sprint, y cada semana se realizará una reunión de revisión
+del Sprint.
+
+
+Se espera que el Cliente participe de forma activa en el Proyecto. El rol
+del Cliente incluye lo siguiente:
+
+
+   1. Priorizar los requerimientos según la importancia para su negocio e
+      implementarlas en orden de máximo valor.
+   2. Acordar de forma mutua los estimados para todas las tareas de trabajo.
+      Los representantes oficiales de ambas partes, el Proveedor y el
+      Cliente, necesitan estar de acuerdo. Si se acordara un cambio en los
+      estimados se deberá anotar de forma escrita en un apéndice a este
+      contrato.
+   3. Participar en cada reunión de planeamiento de Sprint, discutiendo los
+      requerimientos seleccionados con el equipo de desarrollo del
+      Proveedor, incluyendo responder a preguntas para clarificar dudas del
+      equipo.
+   4. Participar en la definición de las condiciones de satisfacción de cada
+      requerimiento, de manera que el Proveedor y el Cliente tengan de forma
+      compartida una clara definición de cuando un requerimiento está
+      terminado. Estas condiciones deberían estar definidas como parte de la
+      descripción de un requerimiento antes de que se comience con el
+      desarrollo de la misma.
+   5. Participar en cada reunión de revisión del Sprint, y proveer
+      información tanto del trabajo en progreso como de las tareas
+      completadas.
+
+
+3. TARIFAS
+
+
+En consideración de los Servicios que prestará el Proveedor, el Cliente
+deberá abonar al Proveedor tarifas en los montos y condiciones establecidos
+a continuación.
+
+
+3.1 Monto por hora. El trabajo realizado por el Proveedor será realizado a
+la velocidad establecida a continuación, y no podrá exceder el monto
+estimado total que se especifica a continuación:
+
+
+Tarifa por hora: $[TARIFA POR HORA]
+
+
+Monto estimado total: $[MONTO MÁXIMO]
+
+
+3.2 Pago. Las facturas serán expedidas al Cliente por el Proveedor de forma
+mensual luego del trabajo realizado, y el pago deberá abonarse 14 días
+hábiles después de la recepción de las facturas.
+
+
+3.1 Monto por Sprint. El trabajo realizado por el Proveedor será realizado
+a la velocidad establecida a continuación, y no podrá exceder el monto
+estimado total que se especifica a continuación:
+
+
+Tarifa por Sprint: $[TARIFA POR SPRINT]
+
+
+Monto estimado total: $[MONTO MÁXIMO]
+
+
+3.2 Pago. Las facturas serán expedidas al Cliente por el Proveedor de forma
+mensual luego del trabajo realizado, y el pago deberá abonarse 14 días
+hábiles después de la recepción de las facturas.
+
+
+3.1 Monto del Proyecto. El trabajo realizado por el Proveedor se llevará a
+cabo a la velocidad establecida a continuación, y no podrá exceder el monto
+estimado total que se especifica a continuación:
+
+
+Tarifa del Proyecto: $[TARIFA DEL PROYECTO]
+
+
+Tarifa por hora adicional (si es solicitado por la empresa para trabajo
+adicional o cambios): $[TARIFA POR HORA DEL PROYECTO]
+
+
+3.2 Pago. Las facturas deberán ser expedidas al Cliente por por parte del
+Proveedor. 40% de la tarifa del proyecto se pagará al comienzo del
+proyecto. 40% se abonará a la finalización con éxito del proyecto. El 20%
+restante se pagará después de la implementación final del proyecto
+incluyendo cualquier acuerdo de capacitación, documentación, depuración, la
+sumisión a tiendas de aplicaciones, aprobación de tiendas de aplicaciones y
+testing. Todos los pagos deberán abonarse a los 14 días hábiles siguientes
+a la recepción de las facturas.
+
+
+3.3 Impuestos. El Cliente no será responsable de impuestos federales,
+estatales y/o locales derivados de los ingresos netos del Proveedor o de la
+retención y/o pago de cualquier ingreso federal, estatal y/o local y otros
+impuestos sobre la nómina, compensación de trabajadores, beneficios por
+discapacidad u otros requisitos legales aplicables al Proveedor.
+
+
+4. GASTOS
+
+
+4.1 Pago. El Cliente reembolsará al Proveedor de todos los gastos pre-
+aprobados, razonables y necesarios, incluyendo, sin limitación, los viajes
+nacionales y extranjeros, alojamiento y gastos de comida incurridos en
+relación con los Servicios.
+
+
+4.2 Fundamentación. El Proveedor proporcionará al Cliente la documentación
+de respaldo de todos los gastos.
+
+
+4.3 Pago. El Cliente reembolsará al Proveedor dentro de los 14 días
+siguientes al recibo de la solicitud de reembolso por parte del
+contratista.
+
+
+5. TIEMPOS Y APROBACIÓN
+
+
+5.1 Tiempos. El Proveedor deberá priorizar la prestación de los Servicios
+como sea necesario o acordado por las Partes, y realizará esfuerzos
+comercialmente razonables para prestar los Servicios. El Cliente acuerda
+revisar los Componentes dentro del tiempo determinado para tales revisiones
+y se compromete: a) A aprobar y aceptar los Componentes por escrito
+(convirtiendo a éstos en Componentes Finales) o b) proveer comentarios y/o
+correcciones suficientes por escrito para identificar las correcciones,
+objeciones y/o preocupaciones del Cliente al Proveedor.
+
+
+5.2 Aceptación. El Cliente, dentro de los [2 DÍAS] hábiles de recibir cada
+Componente, deberá notificar al Proveedor, por escrito o correo
+electrónico, de cualquier falencia del Componente en cumplir las
+especificaciones acordadas por las Partes, o de cualquier otra objeción,
+corrección, cambios o enmiendas que el Cliente desee realizar a tal
+Componente. Cualquier notificación por escrito o correo electrónico deberá
+ser suficiente para identificar con claridad cualquier objeción, corrección
+o enmienda, y el Proveedor deberá cumplimentar tales requerimientos en un
+tiempo sujeto al horario comercial de éste. Cualquier y toda objeción,
+corrección, cambio o enmienda estará sujeta a los términos y condiciones de
+este Acuerdo. En la ausencia de tal notificación por parte del Cliente,
+dentro del período de tiempo establecido, el Componente será considerado
+aceptado y por ende, Final.
+
+
+6. RESPONSABILIDADES DEL CLIENTE
+
+
+El Cliente acepta ser responsable de cumplimentar lo siguiente en tiempos y
+formas razonables:
+
+
+(a) Coordinación de cualquier toma de decisiones propia de su Compañía;
+
+
+(b) Suministro de Contenido del Cliente en una forma adecuada para
+reproducción o incorporación en los Componentes sin preparación adicional;
+
+
+(c) El Cliente deberá responder cualquier inquietud que tenga un impacto
+directo en los Servicios que el Proveedor realiza para el Cliente, dentro
+de las 48hs hábiles a partir de recibir la inquietud por escrito o correo
+electrónico de parte del Proveedor. En la ausencia de respuesta por parte
+del Cliente, dentro del período de tiempo establecido, se podrá considerar
+el requerimiento que se vio afectado de forma directa como aprobado para el
+Sprint en curso aunque no cumpla con la definición de las condiciones de
+satisfacción acordadas al comienzo del Sprint. Esto no significa que el
+requerimiento quede inconcluso, sino que no impedirá la finalización del
+Sprint por disconformidad del Cliente. El mismo requerimiento podrá ser
+retomado en un próximo Sprint durante la planificación correspondiente; y,
+
+
+(d) Revisión y aprobación Final, conforme a lo establecido en la sección 4
+del presente Acuerdo.
+
+
+7. RECONOCIMIENTO
+
+
+El Proveedor se adjudica el derecho de reproducir, publicar y exhibir los
+Componentes Finales en el portfolio del Proveedor y sitios Web relevantes,
+y en otros medios o puntos de exposición con el único fin de reconocimiento
+por la excelencia en el Desarrollo de Software y/o crecimiento profesional,
+y de ser mencionado con la autoría de los Componentes Finales en conexión a
+tales fines. Cualquier Parte, sujeta a la aprobación por escrita de la
+otra, puede incluir un enlace al sitio Web de la otra Parte.
+
+
+8. INFORMACIÓN CONFIDENCIAL
+
+
+Cada Parte acepta que en conexión a este Acuerdo puede recibir cierta
+información confidencial o propietaria, información del negocio o
+especificaciones técnicas igualmente propietarias, así como también
+materiales de la otra Parte, incluyendo, pero no limitado a Muestras
+Parciales. Cada Parte, sus agentes y empleados deberán mantener en secreto
+toda Información Confidencial, se comprometerá a no revelar Información
+Confidencial a ningún tercero y a no utilizar Información Confidencial
+alguna excepto en lo necesario para el cumplimiento de las obligaciones
+establecidas en este Acuerdo, salvo que fuere requerido por una Corte
+judicial o Autoridad Gubernamental. Sin perjuicio de lo anteriormente
+dicho, la Información Confidencial no deberá incluir ninguna información
+que esté en el dominio público o se dé a conocer públicamente sin error de
+la Parte receptora, o bien es adecuadamente recibida por un tercero sin
+obligación de confidencialidad.
+
+
+9. RELACIÓN DE LAS PARTES
+
+
+9.1 Contratista Independiente. El Proveedor es un contratista
+independiente, no un empleado del Cliente o parte de la Compañía del
+Cliente o de cualquier entidad afiliada al Cliente. El Proveedor prestará
+sus Servicios bajo la dirección general del Cliente, pero el Proveedor
+determinará la manera y los medios por los cuales se prestarán los
+Servicios. Este Acuerdo no crea una sociedad u empresa conjunta, y ninguna
+Parte está autorizada a actuar como representante de la otra Parte, salvo
+en las maneras establecidas por este Acuerdo. Todos los derechos, de
+existir alguno, concedidos al Cliente son contractuales en su naturaleza y
+definidos expresamente por el acuerdo escrito entre las Partes, en conjunto
+con los términos y condiciones de este Acuerdo.
+
+
+9.2 No Exclusividad. Las Partes expresamente aceptan que este Acuerdo no
+crea una relación exclusiva entre las Partes. El Cliente es libre de
+contactarse con otros para solicitar servicios de la misma o similar índole
+que aquellos prestados por el Proveedor, y el Proveedor tendrá el derecho
+de ofrecer y prestar Servicios a otros, interactuar con otros clientes y
+publicitar los Servicios prestados por el Proveedor.
+
+
+10. GARANTÍAS
+
+
+10.1 Del Cliente. El Cliente garantiza al Proveedor que
+
+
+(a) el Cliente es dueño de todo derecho, titularidad e interés, o bien
+tiene todo derecho y autoridad para permitir el uso del Contenido del
+Cliente; y,
+
+
+(b) al entendimiento del Cliente, el Contenido del Cliente no infringe los
+derechos de tercero alguno, y que el uso del Contenido del Cliente así como
+también de cualquier Marca Registrada vinculada al Proyecto no infringe ni
+infringirá los derechos de tercero alguno.
+
+
+10.2 Del Proveedor.
+
+
+(a) El Proveedor garantiza al Cliente que el Proveedor prestará los
+Servicios del Proveedor y producirá los Componentes identificados en este
+Acuerdo de manera profesional y responsable, conforme a todos los
+estándares profesionales relevantes a tales servicios.
+
+
+(b) El Proveedor garantiza que:
+
+
+    • (i) Los Componentes Finales serán trabajo original del Proveedor; y,
+    • (ii) al entendimiento del Proveedor, el Software Final entregado por
+      el Proveedor no infringe los derechos de tercero alguno, y el uso del
+      mismo en conexión con el Proyecto no infringirá los derechos de
+      tercero alguno.
+
+
+11. CLÁUSULAS DE PROPIEDAD INTELECTUAL
+
+
+11.1 Del Contenido del Cliente. El Contenido del Cliente, incluyendo todas
+las Marcas Registradas pre-existentes y material sujeto a derecho de autor,
+permanecerá bajo la propiedad exclusiva del Cliente, y el Cliente será el
+único titular de todos los derechos relacionados a éstos. El Cliente, por
+ende, concede al Proveedor una licencia no exclusiva, no transferible para
+utilizar, reproducir y modificar el Contenido del Cliente con el único
+propósito de la prestación de Servicios del Proveedor y la producción de
+los Componentes.
+
+
+11.2 De los Materiales de Terceros. Todos los Materiales de Terceras Partes
+son de propiedad exclusiva de sus respectivos titulares. El Proveedor
+deberá informar al Cliente de todos los Materiales de Terceros que puedan
+ser requeridos para ejecutar los Servicios del Proveedor o bien para su
+integración en el Software Final. Bajo tales circunstancias, el Proveedor
+deberá informar de cualquier necesidad de licenciamiento pertinente.
+
+
+11.3 De la Asignación de Derechos de Autor. Sujeto al cumplimiento de todos
+los pagos acordados en la Sección "TARIFAS" y Sección "VIGENCIA Y
+TERMINACIÓN", el Proveedor otorgará al Cliente una licencia no exclusiva,
+paga, global y libre de regalías para instalar, utilizar y realizar copias
+del Software Final y toda documentación relacionada, conforme a los
+términos y condiciones de este Acuerdo. El Proveedor retendrá todo Derecho
+de Autor, patentes, secretos comerciales, y otros derechos de propiedad
+intelectual sobre el Software Final entregado. El Cliente se comprometerá a
+no remover, alterar, o encubrir cualquier notificación de Derecho de Autor,
+Marca Registrada, u otras notificaciones de derecho de propiedad que se
+incluyan en el Software Final.
+
+
+11.3.1 Del derecho a Modificaciones. Adicionalmente, y también sujeto al
+cumplimiento de todos los pagos acordados en la Sección "TARIFAS" y Sección
+"VIGENCIA Y TERMINACIÓN", el Cliente podrá, a su discreción, realizar
+cambios o adiciones al Software Final creado bajo los términos y
+condiciones de este Acuerdo, pudiéndose contactar con otros proveedores
+para tal fin, sin incurrir en pagos al Proveedor. El Cliente deberá pagar
+al Proveedor un monto sujeto a negociación separada, en el caso de que
+solicite a éste la adición de nuevos Componentes y/o la modificación de
+Componentes Finales al Software Final ya entregado.
+
+
+11.3.2. De la Responsabilidad del Proveedor respecto del Derecho a
+modificaciones. El Cliente no podrá adjudicarle responsabilidad alguna al
+Proveedor, en el caso de contactarse con terceras partes para realizar la
+adición de nuevos Componentes y/o la modificación de Componentes Finales al
+Software Final ya entregado, de producirse algún desperfecto, daño o falla
+en éste, a partir de la modificación del Software Final.
+
+
+12. NO CAPTACIÓN
+
+
+Durante la vigencia del presente Acuerdo y durante 1 año después de la
+terminación de este Acuerdo, el Proveedor no podrá, sin el consentimiento
+previo por escrito del Cliente, ya sea directa o indirectamente, en nombre
+propio del Proveedor, o en servicio o en nombre de terceros, solicitar o
+intentar solicitar, desviar o contratar a cualquier persona empleada por el
+Cliente, o cualquier consumidor o usuario del Cliente.
+
+
+13. PLAZO
+
+
+Este Acuerdo entrará en vigor en la fecha y año anteriormente escritos y
+continuará por un período de 6 meses a menos que se rescinda con
+anterioridad, de conformidad con el presente Acuerdo.
+
+
+14. VIGENCIA Y TERMINACIÓN
+
+
+14.1 Este acuerdo comenzará a partir de la Fecha Efectiva y permanecerá
+vigente hasta que los Servicios estén completados y los Componentes Finales
+y el Software Final hayan sido entregados, con las debidas conformidades y
+aprobaciones del Cliente, producidas al término de cada Sprint.
+
+
+14.2 El presente Acuerdo podrá ser terminado por el Cliente por cualquier
+razón, con o sin causa, al terminar cualquier Sprint. El Cliente podrá
+rescindir el contrato al final de cualquier Sprint. El presente Acuerdo
+podrá ser terminado por el Proveedor, en cualquier momento y por cualquier
+motivo, con o sin causa, dando 30 días a partir de la notificación escrita
+de terminación, o la finalización del Sprint actual, lo que sea mayor.
+
+
+14.3 Este Acuerdo puede ser rescindido en cualquier momento por el mutuo
+acuerdo de las Partes, o si alguna de las Partes quebranta cualquiera de
+sus responsabilidades u obligaciones materiales en el marco de este
+Acuerdo, cuyo quebrantamiento no haya sido remediado dentro los 20 días de
+recibida la notificación sobre tal incumplimiento.
+
+
+14.4 El Cliente pagará al Proveedor todos los servicios realizados por el
+Proveedor hasta la fecha de terminación. El Cliente además abonará al
+Proveedor el 20% del valor del contrato restante para ejercer la
+terminación anticipada, salvo que la terminación haya sido por el mutuo
+acuerdo de las Partes.
+
+
+14.5 Al expirar o rescindirse este Acuerdo:
+
+
+(a) Cada Parte deberá devolver o, a petición de la Parte correspondiente,
+destruir la Información Confidencial de la otra Parte; y,
+
+
+(b) Salvo establecido contrariamente por el Acuerdo, todos los derechos y
+obligaciones de cada Parte bajo este Acuerdo, referidos exclusivamente a
+los Servicios, no perecerán.
+
+
+15. INDEMNIZACIÓN
+
+
+15.1 Por parte del Cliente. El Cliente acuerda indemnizar, proteger y
+resguardar al Proveedor de cualquier y todo daño, responsabilidad, costo,
+pérdida o gasto derivado de cualquier reclamo, demanda o acción judicial
+iniciada por un tercero, en consecuencia del quebrantamiento de cualquiera
+de las responsabilidades u obligaciones, y garantías del Cliente,
+debidamente establecidas en este Acuerdo.
+
+
+15.2 Por parte del Proveedor. Sujeto a los términos, condiciones y expresas
+garantías declaradas en este Acuerdo, el Proveedor acepta indemnizar,
+proteger y resguardar al Cliente de cualquier y todo daño, responsabilidad,
+costo, pérdida o gasto incurrido por cualquier hecho inconsistente con las
+responsabilidades y garantías que el Proveedor aceptó debidamente en este
+Acuerdo, salvo aquellos reclamos, daños, responsabilidades, costos,
+pérdidas o gastos directamente derivados de la negligencia o falta de
+conducta por parte del Cliente.
+
+
+15.3 Notificación. La Parte correspondiente deberá notificar con prontitud
+a la otra Parte de cualquier demanda de indemnización.
+
+
+16. DISPOSICIONES GENERALES
+
+
+16.1 Modificación/Renuncia. Este Acuerdo puede ser modificado por las
+Partes, pero cualquier modificación de este Acuerdo debe expresarse por
+escrito y ser ejecutada por ambas Partes. Cualquier quebrantamiento de
+alguna de las disposiciones de este Acuerdo no se verá perjudicado por la
+renuncia de cualquiera de las Partes al presente Acuerdo.
+
+
+16.2 Notificaciones. Todas las notificaciones a entregarse durante la
+vigencia del Acuerdo serán transmitidas por escrito vía correo electrónico
+y/o alternativas similares, con acuse de recibo, y deberán ser enviadas a
+las direcciones de correo electrónico consignadas en la firma del Acuerdo,
+salvo que se dé una notificación de cambio de dirección de correo
+electrónico por escrito. La notificación será efectiva apenas sea recibida
+o cualquiera de las partes reciba el correspondiente acuse de recibo.
+
+
+16.3 Jurisdicción. La formación, construcción, ejecución y vigencia de este
+Acuerdo estarán en concordancia con las leyes de la República Argentina y
+de la Provincia de Santa Fe, sin consideración respecto al conflicto de
+disposiciones legales de cualquier otra jurisdicción.
+
+
+16.4 Divisibilidad. Siempre que sea posible, cada disposición de este
+Acuerdo será interpretada de tal manera que sea efectiva y válida bajo la
+ley aplicable, pero si alguna disposición de este Acuerdo se considera
+inválida o inefectiva, el resto del Acuerdo se mantendrá en plena vigencia
+y la disposición inválida deberá ser respaldada por otra debidamente
+válida.
+
+
+16.5 Títulos. La numeración y título de las diferentes secciones de este
+Acuerdo sirven al único fin de conveniencia y referencia y no afectarán al
+alcance, significado, intención o interpretación de las disposiciones de
+este Acuerdo, ni tales títulos tendrán efecto legal alguno.
+
+
+16.6 Integración. Este Acuerdo comprende el total entendimientos de las
+Partes respecto al tópico en cuestión, y sustituye y combina todos los
+previos acuerdos, entendimientos y discusiones entre las Partes, referidos
+al tópico que concierne a este Acuerdo.
+
+
+Con su firma, las Partes presentes acuerdan aceptar todos los términos y
+condiciones de este Acuerdo, efectivo a partir de la última fecha de firma,
+y cada signatario declara poseer total autoridad para tomar parte en este
+Acuerdo y vincular su respectiva Parte a todos los términos y condiciones
+aquí establecidos.
+
+
+Cronograma A: Componentes
+

@@ -1,0 +1,37 @@
+
+|Tenant      |[TENANT NAME]  |Address/Premi|[ADDRESS/PREMISES] |
+|Name(s):    |               |ses:         |                   |
+|Date        |[DATE RECEIVED]|Date         |[DATE RETURNED]    |
+|Received:   |               |Returned:    |                   |
+
+|ROOM      |CONDITION               |REMARKS                |
+|Living    |[LIVING ROOM CONDITION] |[LIVING ROOM REMARKS]  |
+|Room      |                        |                       |
+|Dining    |[DINING ROOM CONDITION] |[DINING ROOM REMARKS]  |
+|Room      |                        |                       |
+|Kitchen   |[KITCHEN CONDITION]     |[KITCHEN REMARKS]      |
+|Bath(s)   |[BATH(S) CONDITION]     |[BATH(S) REMARKS]      |
+|Bedroom 1 |[BEDROOM 1 CONDITION]   |[BEDROOM 1 REMARKS]    |
+|Bedroom 2 |[BEDROOM 2 CONDITION]   |[BEDROOM 2 REMARKS]    |
+|Bedroom 3 |[BEDROOM 3 CONDITION]   |[BEDROOM 3 REMARKS]    |
+|Deck      |[DECK CONDITION]        |[DECK REMARKS]         |
+|Den       |[DEN CONDITION]         |[DEN REMARKS]          |
+|Shed      |[SHED CONDITION]        |[SHED REMARKS]         |
+|Other     |[OTHER CONDITION]       |[OTHER REMARKS]        |
+
+|All furniture, fixtures, finishes and appliances in the Premises  |
+|at beginning of Agreement are the property of Owner/Landlord and  |
+|must remain in the dwelling of Address/Premises at the conclusion |
+|of Agreement and/or when Tenant moves out.                        |
+
+|I, and/or we, accept the aforementioned report as a part of the   |
+|Agreement for Address/Premises and agree that it is an accurate   |
+|account of the condition of Address/Premises for the purposes of a|
+|refund of deposit upon move-out and compliance with the law.      |
+
+|Tenant Signature(s):  |[TENANT SIGN]          |[TENANT SIGN  |
+|                      |                       |2]            |
+|Manager Signature:    |[MANAGER SIGN]         |              |
+|Owner/Landlord        |[OWNER/LANDLORD SIGN]  |              |
+|Signature:            |                       |              |
+

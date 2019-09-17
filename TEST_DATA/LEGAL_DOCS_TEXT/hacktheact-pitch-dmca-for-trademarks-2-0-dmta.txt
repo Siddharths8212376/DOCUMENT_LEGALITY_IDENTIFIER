@@ -1,0 +1,286 @@
+
+POLICY PROPOSAL: [TRADEMARK ENFORCEMENT REFORM ON THE INTERNET]
+
+
+
+
+
+Topic
+
+
+
+
+
+This proposal seeks to solve [ENFORCING TRADEMARKS ON THE ANONYMIZED WEB].
+
+
+[CURRENTLY, THE DMCA PROVIDES A FLAWED, BUT WORKABLE ATTEMPT AT
+EXTRAJUDICIAL ENFORCEMENT OF COPYRIGHTS ON THE INTERNET. TRADEMARK
+INFRINGEMENT IS JUST AS COMMON A PROBLEM, BUT LACKS SUCH AN EFFICIENT
+EXTRAJUDICIAL PROCESS. TRADEMARK HOLDERS ARE LEFT WITH THE UNATTRACTIVE
+OPTIONS OF SENDING A CEASE & DESIST LETTER (WHICH MAY BE IGNORED) OR OF
+ESCALATING TO A LAWSUIT (WHICH MAY BE UNFEASIBLE FOR A MULTITUDE OF
+REASONS). ADDING A DMCA-STYLE NOTICE AND TAKEDOWN PROCEDURE THAT WOULD
+APPLY TO TRADEMARK INFRINGEMENT AS WELL WOULD STREAMLINE ENFORCEMENT
+EFFORTS FOR RIGHTS HOLDERS AND ALSO SIMPLIFY INFRINGING MATERIAL REMOVAL
+EFFORTS ON THE PART OF INTERMEDIARIES (FACEBOOK, ETC.)]
+
+
+
+
+
+Solution
+
+
+
+
+
+The solution [TEAM OGLEGALHACKERZ] proposes will solve the problem by
+[CREATING A DMCA-STYLE NOTICE AND TAKEDOWN REGIME FOR TRADEMARKS.]
+
+
+
+
+
+Background
+
+
+
+
+
+[A.     WHAT’S THE DMCA? THE DMCA CAME ABOUT IN CONGRESS AS A WAY TO TRY TO
+REACH A MIDDLE GROUND BETWEEN WEBSITES THAT HOST USER-GENERATED CONTENT
+(SUCH AS YOUTUBE) AND THE MUSIC AND MOVIE INDUSTRIES. THE INDUSTRIES ARE
+OFTEN WORRIED ABOUT THEIR CONTENT ENDING UP ON SITES SUCH AS YOUTUBE, BUT
+IT IS ALSO IMPORTANT TO KEEP THOSE SITES OPEN TO FOSTER USERS’ CREATIVITY.
+THE DMCA ALLOWS FOR A PROCESS, CALLED “NOTICE AND TAKEDOWN” AS A WHOLE, TO
+TRY TO SOLVE THIS PROBLEM OUTSIDE OF COURT. IT IS NOT PERFECT, BUT IT IS AN
+IMPORTANT PART OF THE INTERNET TODAY. WITHOUT THE DMCA, YOUTUBE, AS AN
+INTERMEDIARY, COULD BE SUED FOR DISTRIBUTING INFRINGING WORKS THAT USERS
+UPLOAD.]
+
+
+[B.     HOW IT WORKS: THE LAW CREATES SOMETHING LAWYERS CALL A “SAFE
+HARBOR” FOR WEBSITES THAT HOST USER-GENERATED CONTENT. THIS MEANS THAT THE
+SITES THEMSELVES GENERALLY CAN’T BE SUED FOR THINGS THAT USERS UPLOAD TO
+THE SITES THAT INFRINGE SOMEONE’S RIGHTS. HOWEVER, IN ORDER TO EARN THIS
+SAFE HARBOR, THE SITES MUST COMPLY WITH THE REQUIREMENTS OF THE DMCA.]
+
+
+[C.     REQUIREMENTS: (I) COMPLYING WITH TAKEDOWN NOTICES – THIS MEANS THAT
+IF A WEBSITE RECEIVES A TAKEDOWN NOTICE FROM A COPYRIGHT HOLDER THAT
+ALLEGES INFRINGEMENT, IT MUST REMOVE ACCESS TO THE ITEM(S) AND THEN NOTIFY
+THE USER THAT UPLOADED THE ITEM. (II) COMPLYING WITH “COUNTER-NOTICES” –
+COUNTER-NOTICES ARE NOTICES THAT USERS FILE IN RESPONSE TO A TAKEDOWN OF
+THEIR CONTENT. A USER CAN FILE A COUNTER-NOTICE IF HE OR SHE BELIEVES THAT
+TAKEDOWN WAS SENT BY MISTAKE OR THAT WHAT THEY WERE DOING CONSTITUTES FAIR
+USE, AMONG OTHER THINGS. IF A USER FILES SUCH A COUNTER NOTICE, AND THE
+PERSON WHO HAS THE COPYRIGHT DOES NOT SUE, THEN THE SITE MUST RESTORE
+ACCESS TO THE ITEM. AT THIS POINT, IT IS UP TO THE RIGHTS HOLDER TO
+ESCALATE TO A FULL LAWSUIT OR NOT. THIS WON’T INVOLVE THE WEBSITE BECAUSE
+IT IS PROTECTED UNDER THE SAFE HARBOR. (III) DESIGNATING AN AGENT - SITES
+SEEKING TO INVOKE THE SAFE HARBOR MUST SELECT AN AGENT, MEANING A PERSON
+WHO IS DESIGNATED TO RECEIVE TAKEDOWN NOTICES AND HANDLE THEM EXPEDIENTLY.
+THERE ARE SOME SPECIFIC REQUIREMENTS IN THE LAW REGARDING THIS. THE AGENT
+MUST BE CLEARLY INDICATED ON THE WEBSITE IN QUESTION.]
+
+
+
+
+
+Problem
+
+
+
+
+
+[ONE OF THE FACTORS THAT HELPED DRIVE SOPA AND PIPA WAS THE POSSIBILITY OF
+THE UNABATED PROLIFERATION OF ONLINE TRADING IN COUNTERFEIT GOODS.
+ SUPPORTERS OF THE BILLS POINTED TO THE POSSIBILITY OF SENIOR CITIZENS
+BEING BEGUILED INTO BUYING FAKE PRESCRIPTION DRUGS, AND SHODDY
+MANUFACTURING PARTS FINDING THEIR WAY INTO AUTOMOBILES AND MILITARY
+VEHICLES. MORE POPULARLY RECOGNIZABLE EXAMPLES INVOLVE LUXURY GOODS SUCH AS
+HANDBAGS AND SUNGLASSES, WHICH ARE FREQUENTLY DUPED. THEREFORE, CREATING AN
+EXPEDITED WAY FOR THE LEGITIMATE HOLDERS OF THESE RIGHTS (I.E., MAKERS OF
+THE LEGITIMATE GOODS) TO TAKE DOWN BOGUS POSTS THAT ADVERTISE FAKE GOODS
+WILL ASSIST IN THE GOAL OF PROTECTING CONSUMERS WHILE LESSENING THE BURDENS
+ON THE RIGHTS HOLDERS.]
+
+
+
+
+
+Proposal
+
+
+
+
+
+[PERHAPS ONE OF THE GREAT THINGS ABOUT THE DMCA NOTICE-AND-TAKEDOWN
+PROCEDURE IS THE FACT THAT EVERYONE ON BOTH SIDES OF THE IP DEBATE SEEMS TO
+HATE IT. WE ACKNOWLEDGE THAT THE DMCA PATH IS NOT A PERFECT SOLUTION, BUT
+FEW SUCH SOLUTIONS EXIST. THE EXISTENCE OF THE DMCA PROCEDURE HAS ENABLED A
+TREMENDOUS AMOUNT OF INNOVATION AND CREATIVITY IN THE WORLD OF TECHNOLOGY
+BECAUSE IT LETS THE USER-GENERATED CONTENT (UGC) INDUSTRY OFF THE HOOK.
+WITHOUT THE DMCA SAFE HARBOR, SITES SUCH AS YOUTUBE COULD NOT HAVE
+PROCEEDED AS BOLDLY AHEAD AS THEY HAVE, AND IP RIGHTS HOLDERS WOULD HAVE
+BEEN FORCED TO EITHER SUE UGC SITES OUT OF EXISTENCE OR STAND PAT WHILE
+OTHERS REAPED BENEFITS OF THEIR CONTENT.]
+
+
+
+
+
+[INTRODUCING NOTICE AND TAKEDOWN TO THE TRADEMARK WORLD MAKES EVEN MORE
+SENSE. TRADEMARK HAS ITS ROOTS IN CONSUMER PROTECTION LAW, AND OPERATES
+UNDER THE PRESUMPTION THAT CONSUMERS DESERVE TO KNOW THAT A BRAND OWNER
+STANDS BEHIND THE PRODUCT THEY ARE PURCHASING. INTRODUCING THIS SYSTEM INTO
+THE TRADEMARK CONTEXT BOTH ALLOWS SITE OWNERS TO UNDERSTAND THE POTENTIAL
+DEMANDS PLACED ON THEM AND PROVIDES A MECHANISM FOR BRAND OWNERS TO HAVE
+INFRINGING CONTENT (WHICH MAY POSE A GENUINE AND DEMONSTRABLE RISK TO THE
+PUBLIC WELFARE) TAKEN DOWN. IN THE PROCESS, THIS PROPOSAL REMOVES ONE
+JUSTIFICATION FOR ACTS SUCH AS SOPA AND PIPA.]
+
+
+ 
+
+
+Selected portions of sample statute: (Modeled after 17 USC 512(c))
+
+
+(I) In general. A service provider shall not be liable for monetary relief,
+or, except as provided elsewhere in this statute, for injunctive or other
+equitable relief, for trademark infringement by reason of the storage at
+the direction of a user of material that resides on a system or network
+controlled or operated by or for the service provider, if the service
+provider:
+
+
+(A)(i) does not have actual knowledge that the material or an activity
+using the material on the system or network is infringing;
+
+
+(ii) in the absence of such actual knowledge, is not aware of facts or
+circumstances from which infringing activity is apparent; or
+
+
+(iii) upon obtaining such knowledge or awareness, acts expeditiously to
+remove, or disable access to, the material;
+
+
+(B) does not have a financial benefit directly attributable to the
+infringing activity, in a case in which the service provider has the right
+and ability to control such activity; and
+
+
+(C) upon notification of claimed infringement as described in paragraph
+(3), responds expeditiously to remove, or disable access to, the matrial
+that is claimed to be infringing or to be the subject of infringing
+activity.
+
+
+(II) Designated agent. The limitations on liability established in this
+subsection apply to a service provider only if the service provider has
+designated an agent to receive notifications of claimed infringement
+described in paragraph (3), by making available through its service,
+including on its website in a location accessible to the public, and by
+providing to the USPTO, the following information:
+
+
+(A) the name, address, phone number, and electronic mail address of the
+agent.
+
+
+(B) other contact information which the USPTO may deem appropriate.
+
+
+The USPTO shall maintain a current directory of agents available to the
+public for inspection, including through the Internet in both electronic
+and hard copy formats, and may require payment of a fee by service
+providers to cover the costs of maintaining the directory.
+
+
+(III) Sample Requirements of Notice:
+
+
+(A) To be effective under this subsection, a notification of claimed
+infringement must be a written communication provided to the designated
+agent of a service provider that includes substantially the following:
+
+
+(1) A physical or electronic signature of a person authorized to act on
+behalf of the owner the allegedly infringed federally registered trademark.
+
+
+(2) Identification of the trademark along with its federal trademark
+registration number.
+
+
+(3) Identification of the material that is claimed to be infringing or to
+be the subject of infringing activity and that is to be removed or access
+to which is to be disabled, and information reasonably sufficient to permit
+the service provider to locate the material.
+
+
+(4) Information reasonably sufficient to permit the service provider to
+contact the complaining party, such as an address, telephone number, and,
+if available, an electronic mail address at which the complaining party may
+be contacted.
+
+
+(5) A statement that the complaining party has a good faith belief that use
+of the material in the manner complained of is not authorized by the
+trademark owner, its agent(s), or the law, and that it is likely to cause
+confusion with the registered trademark.
+
+
+(6) A statement that the information in the notification is accurate, and
+under penalty of perjury, that the complaining party is authorized to act
+on behalf of the owner the allegedly infringed trademark.
+
+
+(IV) Private Cause of Action
+
+
+The recipient of any notification under this section made in bad faith may
+maintain a civil action against the violator to obtain damages in amount
+not greater than $X.
+
+
+Notes:  
+
+
+This proposal deals primarily with federally registered marks in the
+language above, though we discussed at length how a notice and takedown
+provision might potentially deal with the world beyond federally registered
+marks, including state registrations, common law marks, and internationally
+registered marks. Above all, the simplicity of having a federal
+registration number, which a service provider in receipt of a takedown
+notice could verify, greatly appealed to us.
+
+
+Moreover, using federal law to enforce state or common law marks on the
+inherently interstate web might pose both constitutional and
+administraibility issues. Given that such marks are traditionally meant to
+be inherently limited by the geography of their area of use, a broader
+consideration of the law in this area might be worthwhile.
+
+
+It might be possible to address the issues of international marks by
+requesting an international registration number (which Twitter requests as
+part of its own private takedown system). It might be best, however, to
+require some kind of international agreement, however, to gather these
+marks together in an appropriate, verifiable database that could then be
+enforced through federal law.
+
+
+Conclusion
+
+
+Nothing can stop an idea whose time has come.  Our proposal basically
+grafts the current DMCA system onto the world of trademark law. Our
+alternative also mirrors elements of solutions posed by Frederick Mostert
+and Marty Schwimmer.
+http://home.comcast.net/%7Ejlw28129/Mostert%20and%20Schwimmer%20vol101_no1_a
+14.pdf
+

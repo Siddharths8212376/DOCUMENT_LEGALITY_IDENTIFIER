@@ -1,0 +1,154 @@
+
+Maintenance Agreement
+
+
+This agreement is between [COMPANY/DEVELOPER] and [CLIENT/COMPANY], the
+Client.
+
+
+Client is contracting [COMPANY/DEVELOPER] as a provider of web site
+maintenance services. Services not considered 'standard website
+maintenance' are subject to be charged at a regular hourly rate of $[20],
+and will not be considered part of this contract. The Monthly charge for
+maintenance is $[00] for [X] hours, any additional work that is included in
+this agreement will be charged at $[20]/per hour.
+
+
+What IS included in this agreement:
+
+
+   1. Edit, revise, update or create new textual/graphical content
+   2. New pages that utilize the current design and do not require
+      modification of the theme or layout.
+   3. Consultation, and guidance on the use of the web site.
+   4. Onpage SEO such as Meta tags (title, description, keywords), alt tag,
+      h1, h2, h3.
+   5. Regular backups of your site so that it may be restored in case of
+      loss.
+   6. We’re here should you need us for consultation and advice.
+   7. Monitoring your website functionality to ensure that everything is
+      working as it should and upgrade where necessary. Some plugins may
+      become outdated and no longer work with the newest version of your
+      website software. Plugins may need upgrading to accommodate the newer
+      version, or become obsolete with the improvements in the website
+      software.
+   8. Downtime is highly inconvenient for any website owner and when it
+      happens it is important to have someone on hand to help. We can assist
+      you by liaising with the hosting company to sort out the situation as
+      quickly as possible.
+
+
+*When your site is oﬄine you need immediate technical support, We ensure
+that option is available and deal with any issues ourselves so you don’t
+have to.
+
+
+What is NOT included in this agreement:
+
+
+   1. Web site redesign, re-alignment or re-development (i.e. changes to the
+      overall look and feel of the website that would require editing of the
+      theme files)
+   2. New Website integration including but not limited to blogs (unless it
+      will utilize the current theme/design), shopping carts and web forums.
+      These require a separate design agreement.
+
+
+Total Agreement:
+
+
+[COMPANY/DEVELOPER] shall provide Client with minor updates to the web
+site. The contract will be paid on a Monthly Basis with the 1st payment due
+30 days after the signing of this agreement. Each following monthly payment
+will be due on the date of initial payment of each month. There will be a
+10 day grace period for payments and a 10% late fee for payments made after
+the grace period.
+
+
+During the duration of this contract, the Client agrees that
+[COMPANY/DEVELOPER] will be the sole provider of maintenance services for
+the web site, and no other party will have access to or rights to change
+the web site. If a party other than [COMPANY/DEVELOPER] makes changes to
+the web site, any errors that are created must be repaired and will be
+charged for at the hourly rate specified above. Minor updates should not
+exceed more than 50% of the content on any single site page, THE PERCENTAGE
+TO BE DETERMINED BY [COMPANY/DEVELOPER].
+
+
+Deadlines & Deliverables:
+
+
+[COMPANY/DEVELOPER] will respond to all maintenance requests from Client
+within [24] hours on weekdays and 48 hours on weekends, via email or phone,
+with a confirmation that the request was received, and an estimated
+completion date for each action item in the request. Maintenance requests
+received after 18:00 PT may not receive a response until the next business
+day unless prior arrangements have been made.
+
+
+[COMPANY/DEVELOPER] will adhere to all quoted deadlines for the
+deliverables in the maintenance requests. In the event that
+[COMPANY/DEVELOPER] has any issues in delivering on a quoted deadline,
+Client will be notified via email or telephone the reasoning for any
+change.
+
+
+Meetings & Correspondence
+
+
+[COMPANY/DEVELOPER] strives to maintain a minimal carbon footprint.
+Meetings and correspondence will primarily be conducted by phone and email.
+Files and documentation will be exchanged using email or cloud storage such
+as Dropbox. Face to face meetings, when necessary, will be charged by the
+half hour and will use the prepaid time first or be charged at the hourly
+rate specified above if the monthly prepaid time is exhausted.
+
+
+Additional Services:
+
+
+Any revision, addition, or redesign Client requests [COMPANY/DEVELOPER] to
+perform that is not specified in this document shall be considered
+"additional" and will require separate agreement and payment.
+[COMPANY/DEVELOPER] shall advise Client on any requested work that falls
+within these bounds.
+
+
+Authorization:
+
+
+Client hereby authorizes [COMPANY/DEVELOPER] to access their web hosting
+account, providing active user name / password combinations for access to
+the server via FTP, assuring that 'write permissions' are in place on said
+hosting provider.
+
+
+Cancellation
+
+
+This contract can be terminated by [CLIENT/COMPANY] by giving 30 days
+written notice of the cancellation.
+
+
+This contract can be terminated by [COMPANY/DEVELOPER] by giving 30 days
+written notice of the cancellation to the Client.
+
+
+If the final 30 day period would extend into another billing cycle, the
+termination date of this contract will be the last day of that billing
+cycle unless otherwise agreed upon by both [CLIENT/COMPANY] and
+[COMPANY/DEVELOPER]. All outstanding payments will be due on the
+termination date of this contract. A late fee of 10% will be charged for
+every day the final payment is late.
+
+
+Legal:
+
+
+This Agreement shall be governed by and construed in accordance with the
+laws of California applicable therein.
+
+
+Signing this document means you agree to the terms of this document
+“Website Maintenance Agreement” on behalf of [CLIENT/COMPANY].
+

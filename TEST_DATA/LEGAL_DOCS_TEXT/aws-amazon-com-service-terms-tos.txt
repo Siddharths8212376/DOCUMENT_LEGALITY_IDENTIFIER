@@ -1,0 +1,1891 @@
+
+
+Last updated: July 9, 2013
+
+
+
+
+The following Service Terms apply only to the specific Services to which
+the Service Terms relate. In the event of a conflict between the terms of
+these Service Terms and the terms of the AWS Customer Agreement or other
+agreement with us governing your use of our Services (the “Agreement”), the
+terms and conditions of these Service Terms apply, but only to the extent
+of such conflict. Capitalized terms used herein but not defined herein
+shall have the meanings set forth in the Agreement.
+
+
+1. Universal Service Terms (Applicable to All Services)
+
+
+1.1. You may only use the Services to store, retrieve, query, serve, and
+execute Your Content that is owned, licensed or lawfully obtained by you.
+As used in these Service Terms, “Your Content” includes any “Company
+Content”. As part of the Services, you may be allowed to use certain
+software (including related documentation) provided by us or third party
+licensors. This software is neither sold nor distributed to you and you may
+use it solely as part of the Services. You may not transfer it outside the
+Services without specific authorization to do so.
+
+
+1.2. You must comply with the current technical documentation applicable to
+the Services (including the applicable developer guides) as posted by us
+and updated by us from time to time on the AWS Site. In addition, if you
+create technology that works with a Service, you must comply with the
+current technical documentation applicable to that Service (including the
+applicable developer guides) as posted by us and updated by us from time to
+time on the AWS Site.
+
+
+1.3. You will provide information or other materials related to Your
+Content (including copies of any client-side applications) as reasonably
+requested by us to verify your compliance with the Agreement. We may
+monitor the external interfaces (e.g., ports) of Your Content to verify
+your compliance with the Agreement. You will not block or interfere with
+our monitoring, but you may use encryption technology or firewalls to help
+keep Your Content confidential. You will reasonably cooperate with us to
+identify the source of any problem with the Services that we reasonably
+believe may be attributable to Your Content or any end user materials that
+you control.
+
+
+1.4. If we reasonably believe any of Your Content violates the law,
+infringes or misappropriates the rights of any third party or otherwise
+violates a material term of the Agreement (including the documentation, the
+Service Terms, or the Acceptable Use Policy) (“Prohibited Content”), we
+will notify you of the Prohibited Content and may request that such content
+be removed from the Services or access to it be disabled. If you do not
+remove or disable access to the Prohibited Content within 2 business days
+of our notice, we may remove or disable access to the Prohibited Content or
+suspend the Services to the extent we are not able to remove or disable
+access to the Prohibited Content. Notwithstanding the foregoing, we may
+remove or disable access to any Prohibited Content without prior notice in
+connection with illegal content, where the content may disrupt or threaten
+the Services, pursuant to the Digital Millennium Copyright Act or as
+required to comply with law or any judicial, regulatory or other
+governmental order or request. In the event that we remove content without
+prior notice, we will provide prompt notice to you unless prohibited by
+law.
+
+
+1.5. From time to time, we may offer free or discounted pricing programs
+covering certain usage of the Services (each , a “Special Pricing
+Program”). We may stop accepting new sign-ups or discontinue a Special
+Pricing Program at any time. Standard charges will apply after a Special
+Pricing Program ends or if you exceed the limitations by the Special
+Pricing Program. You must comply with any additional terms, restrictions,
+or limitations (e.g., limitations on the total amount of usage) for the
+Special Pricing Program as described in the offer terms for the Special
+Pricing Program or on the pricing page for the eligible Service(s). You may
+not access or use the Services in a way intended to avoid any additional
+terms, restrictions, or limitations (e.g., establishing multiple AWS
+accounts in order to receive additional benefits under a Special Pricing
+Program), and we may immediately terminate your account if you do so. Any
+data stored or instances provided as part of a Special Pricing Program must
+be actively used.
+
+
+1.6. If we make multiple discounts or pricing options for a Service
+available to you at one time, you will only be eligible to receive one
+discount or pricing option, and will not be entitled to cumulative
+discounting and pricing options.
+
+
+1.7. You will ensure that all information you provide to us via the AWS
+Site (for instance, information provided in connection with your
+registration for the Services, requests for increased usage limits, etc.)
+is accurate, complete and not misleading.
+
+
+1.8. From time to time, we may apply upgrades, patches, bug fixes or other
+maintenance to the Service Offerings (“Maintenance”). We agree to use
+reasonable efforts to provide you with prior notice of any scheduled
+Maintenance (except for emergency Maintenance) and you agree to use
+reasonable efforts to comply with any Maintenance requirements that we
+notify you about.
+
+
+2. Amazon CloudFront
+
+
+2.1. You must own or have all necessary rights to use any domain name or
+SSL certificate that you use in conjunction with Amazon CloudFront. You are
+solely responsible for the renewal, security and proper configuration of
+any SSL certificates that you provide for use with Amazon CloudFront,
+including any disclosure of your SSL certificates to third parties.
+
+
+2.2. Amazon CloudFront requires you to store the original version of Your
+Content in an origin server (such as Amazon S3). If you use other Services
+to store the original version of Your Content, you are responsible for the
+separate fees you accrue for the other Services and for Amazon CloudFront.
+
+
+2.3 While you will only be charged fees specified for the selected Price
+Class, Your Content you select for delivery from edge locations in a Price
+Class may from time to time be served from edge locations located outside
+the regions in that Price Class.
+
+
+3. Amazon Simple Queue Service (Amazon SQS)
+
+
+3.1. You may not knowingly create and maintain inactive queues. We may
+delete, without liability of any kind, any of Your Content that sits in an
+Amazon SQS queue or any Amazon SQS queue that remains inactive for more
+than the number of days specified in the user documentation.
+
+
+4. Amazon Elastic Compute Cloud (Amazon EC2)
+
+
+4.1. You are responsible for maintaining licenses and adhering to the
+license terms of any software you run.
+
+
+4.2. Using Microsoft Software. In conjunction with the Services, you may be
+allowed to use certain software (including related documentation) developed
+and owned by Microsoft Corporation or its licensors (collectively, the
+“Microsoft Software”). If you choose to use the Microsoft Software,
+Microsoft and its licensors require that you agree to these additional
+terms and conditions:
+
+
+    • The Microsoft Software is neither sold nor distributed to you and you
+      may use it solely in conjunction with the Services.
+    • You may not transfer or use the Microsoft Software outside the
+      Services.
+    • You may not remove, modify or obscure any copyright, trademark or
+      other proprietary rights notices that are contained in or on the
+      Microsoft Software.
+    • You may not reverse engineer, decompile or disassemble the Microsoft
+      Software, except to the extent expressly permitted by applicable law.
+    • Microsoft disclaims, to the extent permitted by applicable law, all
+      warranties by Microsoft and any liability by Microsoft or its
+      suppliers for any damages, whether direct, indirect, or consequential,
+      arising from the Services.
+    • Microsoft is not responsible for providing any support in connection
+      with the Services. Do not contact Microsoft for support.
+    • You are not granted any right to use the Microsoft Software in any
+      application controlling aircraft or other modes of human mass
+      transportation, nuclear or chemical facilities, life support systems,
+      implantable medical equipment, motor vehicles, weaponry systems, or
+      any similar scenario (collectively, “High Risk Use”). Microsoft and
+      its suppliers disclaim any express or implied warranty of fitness for
+      High Risk Use. High Risk Use does not include utilization of the
+      Microsoft Software for administrative purposes, to store configuration
+      data, engineering and/or configuration tools, or other non-control
+      applications, the failure of which would not result in death, personal
+      injury, or severe physical or environmental damage. These non-
+      controlling applications may communicate with the applications that
+      perform the control, but must not be directly or indirectly
+      responsible for the control function.
+
+
+4.3. Using IBM Software. In conjunction with the Services, you may be
+allowed to use certain software (including related documentation) developed
+and owned by International Business Machines Corporation or its licensors
+(collectively, the “IBM Software”). If you choose to use the IBM Software,
+IBM and its licensors require that you agree to the additional terms and
+conditions:
+
+
+    • The IBM Software is neither sold nor distributed to you and you may
+      use it solely in conjunction with the Services.
+    • You may not transfer the IBM Software outside the Services.
+    • Your use of the IBM Software is subject to the terms and conditions
+      defined in the IBM License Information (“IBM LI”) for each IBM
+      Software program and any applicable terms for Separately Licensed Code
+      contained therein. You can access the applicable IBM LI here using the
+      IBM Program Number found in the AMI Catalog.
+    • Any restrictions in the IBM LI regarding Processor Value Units
+      (“PVUs”) apply to your use of the IBM Software in conjunction with the
+      Services. IBM’s current conversion table for applying PVUs to the
+      Services can be found here. The IBM LI may refer to products or
+      features that are not available in conjunction with the Services.
+    • By using the IBM Software, you hereby agree to be bound by the terms
+      of the applicable IBM LI, which is presented the first time you access
+      the relevant machine image.
+    • We may disclose your company name, the IBM Software your company has
+      used, and your company’s total usage fees for the IBM Software
+      (collectively, “Usage Data”). IBM is required to keep Usage Data
+      confidential and IBM cannot use Usage Data for marketing or lead
+      generation.
+
+
+4.4. Using Novell Software. In conjunction with the Services, you may be
+allowed to use certain software (including related documentation) developed
+and owned by Novell, Inc. or its licensors (collectively, the “Novell
+Software”). If you choose to use the Novell Software, Novell and its
+licensors require that you agree to these additional terms and conditions:
+
+
+    • Your use of the Novell Software is subject to the terms and conditions
+      of the Novell End User License Agreement (“Novell EULA”) provided with
+      the Novell Software. By using the Novell Software, you hereby agree to
+      be bound by the terms of the applicable Novell EULA, which is
+      presented the first time you access the relevant machine image.
+
+
+4.5. Using Red Hat Software. In conjunction with the Services, you may be
+allowed to use certain software (including related support, maintenance,
+and documentation) developed, owned or provided by Red Hat, Inc. or its
+licensors (collectively, the “Red Hat Software”). If you choose to use the
+Red Hat Software, Red Hat and its licensors require that you agree to these
+additional terms and conditions:
+
+
+    • Red Hat disclaims any (i) warranties with respect to the Red Hat
+      Software and (ii) liability for any damages, whether direct, indirect,
+      incidental, special, punitive or consequential, and any loss of
+      profits, revenue, data or data use, arising from your use of the Red
+      Hat Software.
+    • Your use of the Red Hat Software is subject to the terms and
+      conditions of the Red Hat Cloud Software Subscription Agreement
+      currently located at www.redhat.com/licenses/cloud_cssa/ (the “Red Hat
+      CSSA”). By using the Red Hat Software, you hereby agree to be bound by
+      the terms of the Red Hat CSSA.
+
+
+4.6. Spot Instance Pricing. You may request that certain Amazon EC2
+instances run pursuant to the spot instance pricing and payment terms
+(“Spot Instance Pricing”) set forth on the Amazon EC2 product detail page
+on the AWS Site (each requested instance, a “Spot Instance”). You must
+request Spot Instances through the AWS Management Console or by using API
+tools (“Spot Instance Request”). As part of your Spot Instance Request, you
+must specify the maximum hourly price you are willing to pay to run the
+requested Spot Instances (“Your Maximum Price”). Unless you specify a
+permissible alternative termination date, your Spot Instance Request will
+remain active until we fulfill it or you cancel it. We set the price for
+Spot Instances (the “Spot Price”), which may vary over time based on a
+number of factors, including the amount of available compute capacity we
+have available and the price you and other customers are willing to pay for
+Spot Instances (e.g., supply and demand). While a requested Spot Instance
+remains running, you will be charged the current Spot Price in effect at
+the beginning of each instance hour. You will not be charged more than Your
+Maximum Price. We may terminate Spot Instances at any time and without any
+notice to you if we determine the current Spot Price equals or exceeds Your
+Maximum Price. If we terminate your Spot Instance, you will only be charged
+for each full hour the Spot Instance ran. Unless you designate your Spot
+Instance Request as a persistent request, terminated Spot Instances will
+not automatically restart. You should save your work frequently and test
+your application to ensure it is fault tolerant and will correctly handle
+interruptions. We have no liability whatsoever for any damages,
+liabilities, losses (including any corruption, deletion, or destruction or
+loss of data, applications or profits), or any other consequences resulting
+from our termination of any Spot Instance. Spot Instances may not be used
+with certain Services, features and third-party software we specify,
+including Amazon DevPay, IBM software packages, or Microsoft SQL Server.
+You may not, directly, indirectly, alone or in cooperation with any third
+party, attempt to control, influence or manipulate the price for Spot
+Instances. Without limiting the foregoing, you may not submit requests for
+Spot Instances through any third party (e.g., “proxy bidding”) or share
+information with any third party regarding the maximum prices specified in
+your Spot Instance Requests. We may modify or terminate the Spot Instance
+Pricing program at any time. In addition to the Spot Instance Pricing, Spot
+Instances are subject to all data transfer and other usage fees applicable
+under the Agreement.
+
+
+4.7. EC2 Reserved Instance Pricing. You may designate Amazon EC2 instances
+as subject to the reserved pricing and payment terms (“EC2 Reserved
+Instance Pricing”) set forth on the Amazon EC2 detail page on the AWS Site
+(each designated instance, a “EC2 Reserved Instance”). You may designate
+instances as EC2 Reserved Instances by calling to the Purchasing API or
+selecting the EC2 Reserved Instance option in the AWS console. When you
+designate instances as Reserved Instances, you must designate an
+availability zone, instance type, EC2 Reserved Instance type, and quantity
+for the applicable EC2 Reserved Instances. The EC2 Reserved Instances may
+only be used in the designated availability zone. We may change EC2
+Reserved Instance Pricing at any time but price changes will not apply to
+previously designated EC2 Reserved Instances, except as described in this
+Section 4.7. If Microsoft increases the license fees it charges for
+Windows, or if Red Hat increases the license fees it charges for Red Hat
+Enterprise Linux (“RHEL”), we may make a corresponding increase to the per-
+hour usage rate for EC2 Reserved Instances with Windows or RHEL. Any
+increase in the per-hour usage rate for EC2 Reserved Instances with Windows
+will be made between December 1 and January 31, and we will provide 30
+days’ notice. For any increase in the per-hour usage rate for EC2 Reserved
+Instances with RHEL we will provide 30 days’ notice. If this happens, you
+may: (a) continue to use your EC2 Reserved Instances with Windows or RHEL
+with the new per-hour usage price; (b) convert your EC2 Reserved Instances
+with Windows or RHEL to comparable EC2 Reserved Instances with Linux; or
+(c) terminate your EC2 Reserved Instances with Windows or RHEL and receive
+a pro rata refund of the up-front fee you paid for the terminated EC2
+Reserved Instances with Windows or RHEL. We may terminate the EC2 Reserved
+Instance Pricing program at any time. EC2 Reserved Instances are
+nontransferable, except in accordance with the requirements of the RI
+Marketplace. All amounts paid in connection with the EC2 Reserved Instances
+are nonrefundable, except that if we terminate the Agreement other than for
+cause, terminate an individual EC2 Reserved Instance type, or terminate the
+EC2 Reserved Instance Pricing program, we will refund you a pro rata
+portion of any up-front fee paid in connection with any previously
+designated EC2 Reserved Instances. You may not purchase EC2 Reserved
+Instances for the purpose of reselling them in the RI Marketplace, and we
+reserve the right to refuse or cancel your purchase if we suspect you are
+doing so. Upon expiration or termination of the term of EC2 Reserved
+Instances, the EC2 Reserved Instance pricing will expire and standard on-
+demand usage prices will apply to the instances. In addition to being
+subject to EC2 Reserved Instance Pricing, EC2 Reserved Instances are
+subject to all data transfer and other fees applicable under the Agreement.
+
+
+4.8 EC2 Reserved Instance (RI) Marketplace.
+
+
+A. Eligibility. The rights to an active EC2 Reserved Instance can be
+offered for sale through the RI Marketplace as long as (1) the remaining
+term on the Reserved Instance is greater than one month, and (2) your
+payment of the upfront charge for it has been received and processed (for
+credit card purchases, 30 days after you have paid the upfront fee, and for
+invoice purchases, after you have paid the applicable invoice) (a
+“Marketable EC2 Reserved Instance”). The characteristics of the Marketable
+EC2 Reserved Instance (e.g., Instance Type, Platform, Region, Availability
+Zone, Tenancy, Hypervisor, Reserved Instance Type, Duration, and Hourly
+Price) will remain as originally designated. The term for the Marketable
+EC2 Reserved Instance will be the remainder of the original EC2 Reserved
+Instance term rounded down to the nearest month (for example, an EC2
+Reserved Instance with 9 months and 16 days until expiration will be listed
+and sold as a 9 month Marketable EC2 Reserved Instance). You can be a
+“Seller” if you are a current AWS customer in good standing, you have a
+Marketable EC2 Reserved Instance associated with your AWS account, and you
+complete the registration process through your AWS account. Non-U.S.-based
+entities may not be Sellers without providing the Form W-8BEN (Certificate
+of Foreign Status of Beneficial Owner for United States Tax Withholding) to
+establish that you are not a U.S. person. You can be a “Buyer” if you are a
+current AWS customer in good standing. You can resell an EC2 Reserved
+Instance that you previously purchased through the RI Marketplace. You may
+not resell an EC2 Reserved Instance that you purchased through a discount
+program (Reserved Instance Volume Discounts or otherwise) without obtaining
+our prior approval.
+
+
+B. Submitting Marketable EC2 Reserved Instance for Sale. As a Seller, you
+will set the one-time price for your Marketable EC2 Reserved Instance. The
+hourly price will be the then-current hourly price for that type of EC2
+Reserved Instance, and you will not receive any funds collected from
+payments associated with the hourly prices. You will pay the then-current
+fee to us specified on the AWS Site when your Marketable EC2 Reserved
+Instance is sold. Your Marketable EC2 Reserved Instance will be available
+for sale after you list it in the RI Marketplace, but it will remain yours
+and you will be able to use it until it is sold. You may remove a listing
+of Marketable EC2 Reserved Instance from the RI Marketplace at any time
+before it has been purchased by a Buyer. We may remove Marketable EC2
+Reserved Instance from the RI Marketplace at any time for any reason. Once
+sold and transferred to a Buyer, a Seller will have no rights to that
+Marketable EC2 Reserved Instance.
+
+
+C. Our Role. As a Seller, you will be the seller of record of your rights
+to a Marketable EC2 Reserved Instance. Except as expressly set forth in
+these Service Terms, we are not involved in any underlying transaction
+between you and any Buyer. We or our affiliates may also participate in the
+market as a Seller or a Buyer.
+
+
+D. Processing of Transactions; Collection of Transaction Proceeds. On
+Seller’s behalf, we will process all payments for Transactions and collect
+the applicable Transaction Proceeds. “Transaction” means any sale of
+Marketable EC2 Reserved Instance through the RI Marketplace. “Transaction
+Proceeds” means the gross sales proceeds received by us from any
+Transaction. You will ensure that all fees and charges payable by Buyers
+for Marketable EC2 Reserved Instance are billed and collected through us
+and you will not offer or establish any alternative means of payment. We
+may impose transaction limits on some or all Buyers and Sellers relating to
+the value of any Transaction or disbursement, the cumulative value of all
+Transactions or disbursements during a period of time, or the number of
+Transactions that we will process over a period of time. We may withhold
+for investigation, or refuse to process, any of your Transactions that we
+suspect is fraudulent, unlawful or otherwise violates the terms of these
+Service Terms, the Agreement, or our Acceptable Use Policy. For each
+Transaction, we will not remit Transaction Proceeds to a Seller, and the
+Marketable EC2 Reserved Instance will be available to the Buyer, until
+after we have successfully processed payments for that Transaction from the
+Buyer.
+
+
+E. Remittance of Transaction Proceeds to Sellers. At the end of each
+business day, we will pay to you all due and payable Transaction Proceeds
+that we have collected as of the date that is 2 business days prior to the
+date of payment. We will deduct from each payment any applicable fees and
+charges due to us related to Marketable EC2 Reserved Instances. The
+applicable fees and charges are posted on the AWS Site and may be changed
+from time to time. We may withhold, deduct, or setoff any amounts payable
+by you to us or our affiliates against any Transaction Proceeds. Payments
+will be made only to an ACH-enabled bank account located in the United
+States that you register with us. If there is an error in the processing of
+any Transaction, you authorize us to initiate debit or credit entries to
+your designated bank account, to correct such error, provided that any such
+correction is made in accordance with applicable laws and regulations. If
+we are unable to debit your designated bank account for any reason, you
+authorize us to resubmit the debit, plus any applicable fees, to any other
+bank account or payment instrument that you have on file with us or to
+deduct the debit and applicable fees from future Transaction Proceeds.
+
+
+F. Taxes. Sellers are responsible for the calculation, validation and
+payment of any and all sales, use, excise, import, export, value added,
+withholding and other taxes and duties assessed, incurred or required to be
+collected (“Taxes”) or paid for any reason in connection with any
+Transaction and with Marketable EC2 Reserved Instance. We are not obliged
+to determine whether any Taxes apply to any Transaction, and we are not
+responsible for remitting Taxes to any taxing authority with respect to any
+Transaction, or for reporting any information (including the payment of
+Taxes) with respect to any Transaction. Each Seller will indemnify us and
+our affiliates against any claim or demand for payment of any Taxes imposed
+in connection with any Transaction, and for any fines, penalties, or
+similar charges imposed as a result of the Seller’s failure to collect,
+remit or report any Taxes in connection with any Transaction.
+
+
+G. Data Collection and Sharing. For each Seller, we will collect the
+necessary data and tax forms to enable compliance with applicable tax laws.
+For example, for U.S.-based Sellers, we will collect and retain Seller name
+and address, and may collect the tax identification number and other data
+as needed to comply with Form 1099K reporting requirements; for non-U.S.-
+based Sellers, we will collect and retain a Form W-8BEN tax form (which
+includes name, address, and a signature) as proof that you are exempt from
+Form 1099K reporting. For each Buyer, we will collect and retain the
+Buyer’s name and address. Buyers and Sellers will not know the name of the
+other party to the Transaction until the Transaction is completed. Upon
+completion of the Transaction, we will share the applicable Buyer’s city,
+state, and zip with the Seller so that the Seller can calculate the
+appropriate tax (if any) to remit to the appropriate government entity. We
+will share the Seller’s legal name on the Buyer’s invoice. Buyers and
+Sellers may not use information about the Transaction or about the other
+party gained in connection with a Transaction (“Transaction Information”)
+for any purpose that is not related to the Transaction. For example, you
+may not, directly or indirectly: (1) disclose any Transaction Information
+to any third party, except as necessary for you to perform your tax
+obligations or other obligations under these Service Terms and only if you
+ensure that every recipient uses the information only for that purpose and
+complies with these restrictions; (2) use any Transaction Information for
+any marketing or promotional purposes whatsoever; (3) use any Transaction
+Information in any way inconsistent with applicable law; (4) contact a
+party to influence them to make an alternative sale or purchase; (5)
+disparage us, our affiliates or any of their or our respective products; or
+(6) target communications of any kind on the basis of the intended
+recipient being an RI Marketplace Buyer or Seller.
+
+
+4.9 You may only use the AWS Management Pack for System Center on computer
+equipment owned or controlled by you for your internal business purposes,
+solely to access Your Content used in connection with the Services. Your
+use of the AWS Management Pack for System Center is governed by the license
+agreement, located here: AWS Management Pack for System Center License
+Agreement http://aws.amazon.com/windows/system-center/aws-mp-license.
+
+
+4.10 Dedicated Instances. You may request that certain Amazon EC2 instances
+run on physically isolated host hardware dedicated to a single customer
+account (each requested instance, a “Dedicated Instance”), using the
+process set forth on the Amazon EC2 Dedicated Instance detail page on the
+AWS Site. As part of using Amazon EC2 Dedicated Instances, you agree that
+Dedicated Instances are subject to reboot Maintenance at most once every
+three months. Except for emergency reboot Maintenance, we agree to provide
+14 days’ notice prior to reboot Maintenance of Dedicated Instances. We have
+no liability whatsoever for any damages, liabilities, losses (including any
+corruption, deletion, or destruction or loss of data, applications or
+profits), or any other consequences resulting from rebooting Dedicated
+Instances.
+
+
+5. Alexa® Web Services
+
+
+5.1. You may use Alexa® Web Services to create or enhance applications or
+websites, to create search websites or search services, to retrieve
+information about websites, and to research or analyze data about the
+traffic and structure of the web.
+
+
+5.2. You may not display data you receive via the Alexa® Services that has
+been cached for more than 24 hours.
+
+
+5.3. You may not resell or redistribute the Alexa® Web Services or data you
+access via the Alexa® Web Services.
+
+
+5.4. You may use data you receive from the Alexa® Web Services, such as web
+site traffic data, to enhance your application or website, but may not use
+it in any application whose primary purpose is to display the same or
+related data or whose primary purpose is to compete with www.alexa.com.
+
+
+6. Amazon Flexible Payments Service (Amazon FPS)
+
+
+6.1. The terms in this Section 6 apply only to Amazon FPS and use of Your
+Content with the web-based payment service provided by Amazon Payments,
+Inc. (“Amazon Payments”) that enables the processing of payment
+transactions initiated by third parties, and that may include, without
+limitation, the processing and settlement of credit card transactions, bank
+transfers, or the administration of prepaid or post-paid balances (the
+“Payment Service”).
+
+
+6.2. You may:
+
+
+    • access and use Amazon FPS to enable use of the Payment Service by
+      users who have an appropriate Payment Service account (each, an
+      “Amazon Payments User”) via Your Content in accordance with any
+      applicable FPS Specifications (as defined below);
+    • install, copy, and use the software development kit provided by us as
+      part of Amazon FPS, including the related development guides and
+      technical documentation (collectively, the “FPS SDK”), and access and
+      use the online testing environment made available by us (the “FPS
+      Sandbox”), in each case as necessary to internally develop and test
+      Your Content for use with the Payment Service; and
+    • create, incorporate, compile, and copy derivative works of the sample
+      computer programming code provided by us for development and testing
+      of Your Content (the “FPS Sample Code”) as part of Your Content for
+      distribution in machine readable binary form or object code form to
+      Amazon Payments Users as necessary for them to use the Payment
+      Service. Use of FPS Sample Code is also subject to any additional
+      license terms included with the FPS Sample Code. Such additional terms
+      will control in the event of any inconsistency or conflict with the
+      Agreement.
+
+
+6.3. The FPS SDK, FPS Sample Code, and FPS Specifications (as defined
+below) constitute Amazon Properties. Except as expressly authorized by this
+Section 6, you may not sublicense, loan, sell, assign, lease, rent,
+transfer, act as a service bureau, distribute or grant rights to any person
+or entity in Amazon FPS, the FPS SDK, the FPS Sandbox or the Payment
+Services.
+
+
+6.4. You and Your Content will comply with any technical and operational
+specifications and other documentation or policies provided or made
+available by us or Amazon Payments with respect to Amazon FPS or the
+Payment Service respectively (the “FPS Specifications”). We reserve the
+right to update or modify the FPS Specifications at any time. Prior to
+making Your Content generally available for commercial use, you will
+thoroughly test Your Content to ensure that it operates properly with
+Amazon FPS, including without limitation that it complies with the FPS
+Specifications.
+
+
+6.5. We may review and test Your Content to confirm that it operates
+properly with Amazon FPS and complies with the FPS Specifications, using
+review and test processes determined in our sole discretion. You agree to
+correct any material errors, defects or other non-compliance of which you
+become aware, including from review and test results provided by us. We may
+make modifications, updates or upgrades to Amazon FPS, the FPS SDK, or FPS
+Specifications. In such event, you will test and, if necessary, modify Your
+Content to ensure that it continues to operate properly with the then-
+current version of Amazon FPS, the FPS SDK, and FPS Specifications.
+
+
+6.6. You must establish and maintain a payments account with Amazon
+Payments to use Your Content commercially with Amazon FPS and to access the
+Payment Service. Your use of the Payment Service is subject to Amazon
+Payment’s policies, procedures, and user agreements, and any breach of the
+foregoing will constitute a breach of the Agreement. In addition to the
+limitations described in the Agreement, any use of the Amazon Payments logo
+and trademark is subject to the trademark usage guidelines issued by Amazon
+Payments.
+
+
+6.7. You are responsible for (a) the collection and payment of any and all
+sales, use, excise, import, export, value added and other taxes and duties
+assessed, incurred or required to be collected or paid for any reason in
+connection with any offer or sale of products or services by you, including
+Your Content, and (b) any payment transaction that is initiated using Your
+Content that is charged back or reversed (a “Chargeback”) to the extent
+that such Chargeback is attributable to any error, act or omission of you
+or Your Content and is not otherwise recovered by Amazon Payments from an
+Amazon Payments User. You will indemnify and reimburse Amazon Payments and
+its affiliates against any claim or demand for payment of any such taxes or
+any Chargebacks.
+
+
+6.8. You represent, warrant, and covenant that you will at all times:
+
+
+    • represent the capabilities and features of the Payment Service
+      consistent with our description of such capabilities and features and
+      avoid false, deceptive, misleading or unethical practices that may be
+      detrimental to us or Amazon Payments, the Payment Service, Amazon
+      Payments Users or other third parties;
+    • refrain from providing warranties or disclaimers with respect to the
+      Payment Service;
+    • promptly investigate and report to us all complaints received by you
+      with regard to Amazon FPS and the Payment Service, and make every
+      reasonable effort to maintain and promote good public relations for us
+      in the handling of any such complaints; and
+    • ensure that the terms of any agreements between you and any Amazon
+      Payments User are consistent with the terms of the Agreement and these
+      Service Terms.
+
+
+7. Amazon DevPay Service (Amazon DevPay)
+
+
+7.1. You may use Amazon DevPay to: (a) sell to end users (“Customers”) use
+of Your Content that you develop and make available with the Services (the
+“Bundled Application”), including machine images that you develop; (b)
+establish accounts for Customers that use the Bundled Application
+(“Customer Accounts”); (c) manage features of Customer Accounts; and (d)
+receive payments from Customers for Bundled Applications.
+
+
+7.2. You will establish the pricing applicable to Customers for their use
+of any Bundled Application. We will only be responsible for collecting
+those fees that are fully disclosed and properly configured within the
+DevPay Service. The fees you charge to Customers for your Bundled
+Applications through the DevPay Service (as further described in Section
+7.6 below) must constitute the full and complete fees you charge Customers
+for such Bundled Applications. You may not charge or impose any additional
+or supplemental fees for Bundled Applications other than those disclosed
+through the DevPay Service. While you are using the DevPay Service, you
+shall not establish any alternative means of payment for such Bundled
+Applications. The foregoing does not limit your ability to charge and
+receive payments for goods and services other than the Bundled Application
+sold through the DevPay Service.
+
+
+7.3. You are responsible for designating all terms and conditions
+applicable to the use of the Bundled Application; provided that, use of the
+underlying Services are subject to the terms of the Agreement which will
+control in the event of a conflict. We may require users to register an AWS
+account (including agreeing to the terms of the Agreement) in order to use
+Amazon EC2 or other Services associated with the Bundled Application. You
+may not extend on behalf of us any written or oral warranty or guarantee,
+or make any representation or claim, with respect to the Services without
+our prior written consent. Upon termination of the Agreement or the Amazon
+Payments User Agreement for any reason, all access by Customers with
+respect to your Bundled Applications may be terminated by us.
+
+
+7.4. Except as set forth in Section 7.5 below, you are fully liable for all
+charges incurred for Services under your account identifiers or those
+assigned to your Customers for your Bundled Applications. All Services will
+be charged at the then current price applicable to such Services under the
+Agreement. Payments will be processed by Amazon Payments, Inc. and are
+subject to the terms of the Amazon Payments User Agreement, including your
+liability for chargebacks. All payments collected using the DevPay Service
+are subject to the then current processing fee described on the DevPay
+detail page on the AWS Site. Amounts owed under the Agreement may be
+deducted from proceeds collected under the Amazon Payments User Agreement.
+
+
+7.5. If we are unable to collect the fees you specify from your Customers
+for the sale of your Bundled Applications (“Customer Fees”) or a prior
+transaction for those fees is reversed, you will not be responsible for
+paying the fees for the Services used by you and your Customer (“Service
+Fees”) and AWS will have no obligation to remit or otherwise seek
+collection of the Customer Fees, provided that the payment failure is due
+to:
+
+
+    • AWS’s inability to charge a Customer’s credit card for the Customer
+      Fees, or
+    • A transaction is reversed as a result of a Chargeback (as described in
+      the Amazon Payments User Agreement) because the transaction was not
+      authorized or was otherwise fraudulent.
+
+
+In addition, in the applicable month, the Customer Fees charged must exceed
+the Service Fees. In the event of such a payment failure, we may recover or
+otherwise set off any Customer Fees from you that we collected in the month
+to the extent they do not exceed the Service Fees. In the event that either
+you or AWS is subsequently able to collect the Customer Fees, you will pay
+to AWS the corresponding Service Fees as provided in the Agreement.
+
+
+7.6. We will host and make available to Customers a customer interface
+(“Customer UI”) permitting (a) the display to Customers of certain pricing,
+terms and conditions and other information you provide to us regarding your
+Bundled Applications (“Subscription Information”) and (b) Customers to
+engage in certain functions with respect to your Bundled Applications, such
+as account establishment, account termination, payment authorization and
+termination rights. We will define and control the fields and format for
+the Customer UI and for Subscription Information. We retain all rights to
+the Customer UI, including its look and feel, and you will not copy or
+mimic the Customer UI in any manner.
+
+
+7.7. You are responsible for ensuring and shall ensure that all
+Subscription Information (as you provide it to us and as it is ultimately
+shown on the Customer UI) is: (a) full, accurate and complete, (b) not
+misleading; and (c) in compliance, in all respects, with applicable laws.
+You must promptly update the Subscription Information when and as necessary
+to ensure that the Subscription Information continues to comply with the
+foregoing requirements, even if the updates are necessary as a result of
+changes we make to the data input fields or to the Customer UI.
+
+
+7.8. You are responsible for providing customer service (if any) to
+Customers for your Bundled Applications. We shall have no obligation to
+provide customer or technical support to any Customer for Bundled
+Applications; provided that, we will provide support to Customers regarding
+billing and payment questions.
+
+
+7.9. You will use the communication methods we establish through the DevPay
+Services for the administration of Customer Accounts, including, but not
+limited to, any communications regarding Customer Account termination or
+pricing changes.
+
+
+7.10. You acknowledge and agree that we may take any of the corrective
+action regarding Customer Accounts to the extent we deem necessary or
+appropriate, in our sole discretion, to (a) comply with law, (b) enforce or
+apply the Agreement, the Amazon Payments User Agreement, or other
+agreements or policies applicable to the Services or DevPay Service, or (3)
+protect the rights, property or safety of our business, a Customer, or any
+third party. Corrective action may include (i) suspending, canceling or
+closing of Customer Accounts; (ii) re-establishment of Customer Accounts;
+and (iii) waiving or refunding of fees on Customer Accounts. We shall have
+no liability to you for taking any such actions. You shall promptly comply
+with any actions we take or may require of you regarding Customer Accounts.
+These actions may include, without limitation, reimbursing us for Customer
+refunds we issue, discontinuing provision of services on Customer Accounts
+we cancel, and re-establishment of services on Customer Accounts we re-
+establish. Should you ask us to close a Customer Account by using a method
+we have provided for that purpose, we will endeavor to close the Customer
+Account reasonably promptly, but we shall have no liability to you for the
+speed with which we do so or for our failure to do so. You shall indemnify
+and hold us and our employees, officers, directors and representatives,
+harmless from and against any and all claims, losses, damages, liabilities,
+judgments, penalties, fines, costs and expenses (including reasonable
+attorneys fees), arising out of or in connection with any claim based on or
+related to any actions we may take with respect to any Customer Account at
+your direction, including, without limitation, any closure of a Customer
+Account.
+
+
+7.11. You acknowledge and agree that: (a) you have no expectation and have
+received no assurances that your business relationship with us will
+continue beyond the Term (or its earlier termination), that any investment
+by you in the promotion of any Bundled Application will be recovered or
+recouped, or that you will obtain any anticipated amount of profits; and
+(b) you will not have or acquire by virtue of the DevPay Services or
+otherwise any vested, proprietary or other right in the promotion of any
+Services or in any related goodwill created by your efforts.
+
+
+8. Amazon SimpleDB Service (Amazon SimpleDB)
+
+
+8.1. If during the previous six (6) months you have incurred no fees for
+Amazon SimpleDB and have registered no usage of Your Content stored in
+Amazon SimpleDB, we may delete, without liability of any kind, Your Content
+that is stored in Simple DB upon thirty (30) days prior notice to you.
+
+
+9. Amazon Fulfillment Web Service (Amazon FWS)
+
+
+9.1. You may only access and use Amazon FWS to query, access, transmit and
+receive product and shipping information related to your use of the
+Fulfillment by Amazon service (“FBA Service”) sold and provided by Amazon
+Services LLC (“Amazon Services”) in accordance with any applicable FBA
+Specifications (as defined below).
+
+
+9.2. To use Amazon FWS, you must have an Amazon seller account (your
+“Seller Account”) that is in good standing and be registered to use the FBA
+Service. Your use of the FBA Service and your Seller Account is solely
+subject to Amazon Services’ policies, procedures, the Amazon Business
+Services Agreement or other applicable user agreements. Amazon FWS is only
+a technical interface that enables you to access and process certain
+information related to your Seller Account. AWS will have no liability to
+you or any third party related to your Seller Account.
+
+
+9.3. You may use Amazon FWS only to administer product and shipping
+information associated with your Seller Account. When registering for
+Amazon FWS, you must use the same username and password which is associated
+with your Seller Account. You may not develop or use an application to
+access Amazon FWS that collects, processes or stores the account
+identifiers or other security credentials (including usernames and
+passwords) of any third party associated with AWS or any of its affiliates.
+
+
+9.4. You and Your Content will comply with any technical and operational
+specifications, security protocols and other documentation or policies
+provided or made available by us with respect to Amazon FWS (the “FBA
+Specifications”). We reserve the right to update or modify the FBA
+Specifications at any time. Prior to making Your Content available for
+commercial use, you will thoroughly test Your Content to ensure that it
+operates properly with Amazon FWS, including, without limitation, that it
+complies with the FBA Specifications.
+
+
+10. Amazon Elastic MapReduce
+
+
+10.1. We may collect certain information about computing jobs you run using
+Amazon Elastic MapReduce, including CPU utilization, memory usage, IO
+performance, and error and information messages.
+
+
+10.2. You are responsible for all fees incurred from your use of Amazon
+Elastic MapReduce regardless of the results obtained, the quality of the
+resulting data, or whether a computing job runs successfully. Use of Amazon
+Elastic MapReduce requires use of Amazon EC2 and Amazon S3, and certain
+features require use of Amazon SimpleDB. You are responsible for the
+separate fees you accrue for Amazon EC2, Amazon S3, and Amazon SimpleDB.
+
+
+10.3. You are solely responsible for monitoring the status of your
+computing jobs. We may throttle or terminate computing jobs that we
+determine degrade the performance of Amazon Elastic MapReduce, the
+Services, or any component of the Services. We are not responsible for any
+data loss or data corruption that occurs as part of your computing jobs.
+
+
+11. Amazon CloudWatch and Auto Scaling
+
+
+11.1. You may only use Amazon CloudWatch to perform monitoring and auto-
+scaling functions in connection with Amazon EC2. Amazon CloudWatch enables
+Auto Scaling in connection with Amazon EC2. Auto Scaling requires use of
+both Amazon CloudWatch and Amazon EC2.
+
+
+11.2. In connection with Auto Scaling, we may launch additional Amazon EC2
+instances or terminate Amazon EC2 instances based on conditions you set.
+You are responsible for the separate fees you accrue for Amazon EC2. You
+are responsible for all fees incurred from your use of Amazon CloudWatch
+and Auto Scaling regardless of the results obtained or the quality or
+timeliness of the results. Charges for Amazon CloudWatch will accrue as
+soon as you use begin using Amazon CloudWatch or Auto Scaling
+functionality.
+
+
+11.3. Amazon CloudWatch collects and stores certain information for the
+Amazon EC2 instances you are monitoring, including CPU utilization, data
+transfer, and disk usage and activity.
+
+
+12. Elastic Load Balancing
+
+
+12.1. You may only use Elastic Load Balancing to provide load balancing
+functionality in connection with Amazon EC2. You must have instances
+running in all Availability Zones across which you want to balance loads
+with Elastic Load Balancing.
+
+
+12.2. Use of Elastic Load Balancing requires use of Amazon EC2. You are
+responsible for the separate fees you accrue for Amazon EC2. You are
+responsible for all fees incurred from your use of Elastic Load Balancing
+regardless of the results obtained or the quality or timeliness of the
+results. Charges for Elastic Load Balancing will accrue as soon as you use
+begin using Elastic Load Balancing functionality.
+
+
+13. AWS Import/Export
+
+
+13.1. You may send physical storage media (the “Media”) to us that we will
+use to either (a) transfer data contained on the Media into supported
+storage Services (such as Amazon S3, Amazon EBS, and Amazon Glacier) as
+Your Content or (b) transfer certain of Your Content to the Media (such
+data contained on Media either before or after transfer, “Data”) and
+provide the Media to you.
+
+
+13.2. You will comply with all specifications and documentation for AWS
+Import/Export (including the AWS Import/Export Pack and Ship Check List) as
+posted by us and updated by us from time to time on the AWS Site, including
+Media requirements and shipping requirements. You will be solely
+responsible for all shipping and handling costs (including costs of freight
+and transit insurance) for shipping Media to or from us. We may pay some
+reasonable return shipping charges as described on the AWS Import/Export
+section of the AWS Site. You are responsible for payment of all customs,
+duties, taxes and other charges in connection with Media being shipped to
+or from us.
+
+
+13.3. You will not deliver to us, and we may refuse to accept any, damaged
+or defective Media or any Media not shipped in accordance with the
+Agreement (collectively, “Unsuitable Media”). We may return or dispose of
+any Unsuitable Media in accordance with Section 13.12 below (and you will
+be deemed to have consented to such action) if you fail to direct us to
+return or dispose of any Unsuitable Media within thirty (30) days after we
+notify you that we are in possession of it. In addition, you will reimburse
+us for any expenses we incur in connection with any Unsuitable Media.
+
+
+13.4. You will bear the entire risk of loss of, or damage to, any Media
+(including Data) while in transit and you are solely responsible for
+obtaining insurance at your expense. We have no liability or responsibility
+with respect to any delay, damage or loss incurred during shipment,
+including loss of Data.
+
+
+13.5. You will retain title to any Media we receive from you and store as
+part of AWS Import/Export. You supply us with Media and Data entirely at
+your own risk. We are not responsible for and will not be held liable for
+any damage to Media or any loss of Data. Our confirmed receipt of delivery
+does not: (a) indicate or imply that any Media or Data has been delivered
+free of loss or damage, or that any loss or damage to any Media or Data
+later discovered occurred after confirmed receipt of delivery; (b) indicate
+or imply that we actually received the number of units of Media specified
+by you for such shipment; or (c) waive, limit or reduce any of our rights
+under the Agreement. We reserve the right to impose, and change, from time
+to time, volume limitations on the delivery of your Media, and you will
+comply with any of these restrictions or limitations.
+
+
+13.6. You should back-up Data prior to delivery to us. Your Data should not
+include live or production data or any other data that you are not prepared
+to lose. For avoidance of doubt, Your Content includes Data.
+
+
+13.7. You represent that you have all necessary rights to (a) provide the
+Media and Data to us for upload into supported storage Services and (b)
+authorize our transfer of any Data specified by you to the Media. You
+represent that import or export of the Media or Data to or from us does not
+require a license under the laws or regulations of any country.
+
+
+13.8. We may reproduce Data as necessary to transfer it between Media and
+supported storage Services.
+
+
+13.9. Use of AWS Import/Export requires use of a supported storage Service.
+You are responsible for the separate fees you accrue for storage Services.
+
+
+13.10. IN ADDITION TO THE DISCLAIMERS IN THE AGREEMENT, WE HEREBY DISCLAIM
+ANY DUTIES OF A BAILEE OR WAREHOUSEMAN, AND YOU HEREBY WAIVE ALL RIGHTS AND
+REMEDIES OF A BAILOR (WHETHER ARISING UNDER COMMON LAW OR STATUTE), RELATED
+TO OR ARISING OUT OF ANY POSSESSION, STORAGE OR SHIPMENT OF MEDIA OR DATA
+BY US OR OUR AFFILIATES OR ANY OF OUR OR THEIR CONTRACTORS OR AGENTS. YOU
+ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY MEASURES TO YOUR
+DATA, INCLUDING ENCRYPTING SENSITIVE DATA.
+
+
+13.11. In addition to your indemnification obligations under the Agreement,
+you agree to indemnify, defend and hold us, our affiliates and licensors,
+each of our and their business partners (including third party sellers on
+websites operated by or on behalf of us) and each of our and their
+respective employees, officers, directors and representatives, harmless
+from and against any and all claims, losses, damages, liabilities,
+judgments, penalties, fines, costs and expenses (including reasonable
+attorneys’ fees), arising out of or in connection with any claim arising
+out of (a) the Media (whether or not title has transferred to us) and Data,
+including any personal injury, death or property damage (including any
+damage caused by malicious or harmful code included in Data); (b) any
+sales, goods and services, use, excise, import, export, property, value
+added or other taxes or duties assessed or imposed on us or our affiliates
+in connection with or as a result of the storage, shipping or other actions
+by us taken with respect to the Media or Data; (c) any legal or regulatory
+violation, arising under the laws or regulations of any country, related to
+import or export of the Media or the Data.
+
+
+13.12. Once AWS Import/Export services are complete, we will return the
+Media to you. We may return Media to you for any reason, including upon
+termination of the Agreement or the AWS Import/Export service. Returned
+Media will be sent to your designated shipping address. Media shipped to us
+for import into or export from supported storage Services in the EU
+(Ireland) Region must originate from and be returned to an address within
+the European Union. If we have an outdated, incorrect or prohibited address
+for you, we will notify you and you will have thirty (30) calendar days
+from the date we notify you to supply a substitute address. If you do not
+supply a substitute address within thirty (30) calendar days of
+notification, the Media will be deemed Unsuitable Media subject to
+disposal. We may dispose of Media in any manner and we have no obligation
+to reimburse or compensate your for any loss of Media or Data due to our
+disposal.
+
+
+13.13. Notwithstanding anything to the contrary in the Agreement, you may
+give agents and subcontractors of your choosing access to the private key
+associated with your account solely for the purpose of (a) preparing Data
+for import or export using AWS Import/Export or (b) confirming the
+integrity of Data imported or exported using AWS Import/Export. You remain
+fully responsible for and indemnify us for all activities undertaken by
+such third parties under your account. Other than as specifically set forth
+in this section, all terms and conditions of the Agreement continues to
+apply to your use of the Services.
+
+
+13.14. We will not act as the importer of record for your shipments of
+Media or Data. If we are importing or exporting your shipments of Media or
+Data into the Asia Pacific (Singapore) Region, you will not act as the
+importer of record and you represent and warrant that: (a) You are not a
+resident of Singapore; (b) You have a business establishment or fixed
+establishment outside of Singapore and not in Singapore; (c) You are
+domiciled outside Singapore if you have no business or fixed establishment
+in any country; (d) You are not registered or required to be registered for
+GST in Singapore.
+
+
+You will notify us if, at any time, you are using the AWS Import/Export
+service to ship Media or Data into the Asia Pacific (Singapore) Region and
+you are not acting as the importer of record, and you become unable to make
+any of the above representations and warranties.
+
+
+If you are not acting as the importer of record on your shipment of Media
+or Data to the Asia Pacific (Singapore) Region, then the Media or Data must
+(i) be returned to a location outside of Singapore, (ii) be exported on an
+FCA basis; and (iii) you must be importer of record in the country that the
+Media or Data is returned to.
+
+
+14. Amazon Virtual Private Cloud (Amazon VPC)
+
+
+14.1. You may only use Amazon VPC to connect your computing resources to
+certain AWS computing resources via a Virtual Private Network (VPN)
+connection.
+
+
+14.2. Use of Amazon VPC requires the use of other Services. You are
+responsible for all applicable fees associated with your use of other
+Services in connection with Amazon VPC. When you transfer data between AWS
+computing resources running inside Amazon VPC and AWS computing resources
+running outside Amazon VPC, you will be charged VPN data transfer rates in
+addition to any applicable Internet data transfer changes. VPN connection
+charges accrue during any time your VPN connection is in the “available”
+state.
+
+
+14.3. You are solely responsible for the configuration, operation,
+performance and security of all equipment and computing resources you use
+with Amazon VPC, including any gateways or other devices you use to connect
+to Amazon VPC.
+
+
+15. AWS Multi-Factor Authentication (AWS MFA)
+
+
+15.1. You may only use AWS MFA in connection with accessing your AWS
+account.
+
+
+15.2. Your use of AWS MFA requires the use of other Services. You are
+responsible for all applicable fees associated with your use of other
+Services in connection with AWS MFA.
+
+
+15.3. You are solely responsible for the procurement and for the
+configuration, operation, performance and security of any hardware or non-
+AWS software that you use in connection with AWS MFA, including any
+compatible authentication devices.
+
+
+16. Amazon Relational Database Service (Amazon RDS)
+
+
+16.1. You may only use Amazon RDS to store, query, retrieve and serve data
+and other content owned, licensed or lawfully obtained by you. You
+acknowledge that neither we nor our licensors are responsible in any
+manner, and you are solely responsible, for the proper configuration of
+database security groups and other security settings associated with Amazon
+RDS.
+
+
+16.2. You may store snapshots of Your Amazon RDS Content for later use in
+Amazon RDS but snapshots cannot be downloaded outside the Services.
+
+
+16.3. We may terminate your Amazon RDS database instance if you attempt to
+access or tamper with any software we pre-load on the database instance,
+including the operating system software running on the database instance.
+
+
+16.4. You are responsible for configuring your backup retention period to
+give yourself enough time to recover data from your backups in the event of
+a hardware or file system failure.
+
+
+16.5. Reserved DB Instance Pricing. You may designate Amazon RDS database
+instances as subject to the reserved pricing and payment terms ("Reserved
+DB Instance Pricing") set forth on the Amazon RDS detail page on the AWS
+Site (each designated instance, a "Reserved DB Instance"). You may
+designate database instances as Reserved DB Instance by calling to the
+Purchasing API or selecting the Reserved DB Instance option in the AWS
+console. When you designate a database instance as a Reserved DB Instance,
+you must designate a region, instance type and quantity for the applicable
+Reserved DB Instances. The Reserved DB Instances may only be used in the
+designated region. We may change Reserved DB Instance Pricing at any time
+but price changes will not apply to previously designated Reserved DB
+Instances. We may terminate the Reserved DB Instance Pricing program at any
+time. Reserved DB Instances are nontransferable and all amounts paid in
+connection with the Reserved DB Instances are nonrefundable, except that if
+we terminate the Agreement other than for cause, terminate an individual
+Reserved DB Instance type, or terminate the Reserved DB Instance Pricing
+program, we will refund you a pro rata portion of any up-front fee paid in
+connection with any previously designated Reserved DB Instances. Upon
+expiration or termination of the term of a Reserved DB Instance, the
+Reserved DB Instance Pricing will expire and standard on-demand usage
+prices will apply to the database instance. In addition to being subject to
+Reserved DB Instance Pricing, Reserved DB Instances are subject to all data
+transfer and other fees applicable under the Agreement.
+
+
+16.6. Using Oracle Software.
+
+
+16.6.1 “License Included”. As part of the Services, you may be allowed to
+use certain software (including related documentation) described on the AWS
+Site developed and owned by Oracle America, Inc. or its affiliates
+(“Oracle”) and Oracle’s licensors (collectively, the “Oracle Software”). If
+you choose to use the Oracle Software and do not already have a license
+from Oracle for that Oracle Software, Oracle and its licensors require that
+you agree to these additional terms and conditions:
+
+
+    • Oracle or its licensors retains all ownership and intellectual
+      property rights in the Oracle Software, and title to the Oracle
+      Software does not transfer to you or any third party by virtue of this
+      Agreement.
+    • The Oracle Software is subject to a restricted license and may only be
+      used in connection with the Service Offerings, and only by the
+      individual or legal entity that entered into the Agreement.
+    • You may only use the Oracle Software for your internal business
+      operations and in accordance with the Agreement. You may permit agents
+      or contractors (including outsourcers) to use the Oracle Software on
+      your behalf for the purposes set forth in, and subject to, the
+      Agreement, provided you are responsible for the agent’s, contractor’s
+      and outsourcer’s compliance with the Agreement in connection with such
+      use.
+    • You may not:
+         o assign, grant, or transfer the Oracle Software or any interest
+           in the Oracle Software to another individual or entity, and if
+           you purport to grant a security interest in the Oracle Software,
+           the secured party will have no right to use or transfer the
+           Oracle Software;
+         o use the Oracle Software for rental, timesharing, subscription
+           services, hosting, or outsourcing;
+         o remove or modify any notice of Oracle’s or its licensors’
+           proprietary rights;
+         o make the Oracle Software available in any manner to any third
+           party for use in the third party’s business operations;
+         o duplicate, reverse engineer (unless required by law for
+           interoperability), disassemble or decompile the Oracle Software
+           (including by reviewing data structures or similar materials
+           produced by the Oracle Software); or
+         o publish any results of benchmark tests run on the Oracle
+           Software.
+    • Third party technology that may be appropriate or necessary for use
+      with some Oracle Software is specified in the related documentation,
+      and that third party technology is licensed to you only for use with
+      the Service Offerings and under the terms of the third party license
+      agreement specified in the documentation, not this Agreement.
+    • To the extent permitted by applicable law, Oracle disclaims any
+      liability for any damages, whether direct, indirect, incidental,
+      special, punitive or consequential, and any loss of profits, revenue,
+      data or data use, arising from your use of the Oracle Software.
+    • Notwithstanding anything to the contrary elsewhere in the Agreement,
+      Oracle is an intended third party beneficiary of the Agreement, but
+      solely with respect to this Section 16.5 of these Service Terms.
+    • The Uniform Computer Information Transactions Act does not apply to
+      your use of the Oracle Software.
+    • Upon any termination of the Agreement, you must discontinue use of the
+      Oracle Software and any related documentation.
+
+
+16.6.2 “Bring-Your-Own-License” (BYOL). Under the BYOL option, Amazon RDS
+enable you to provision Oracle Software to Amazon EC2 instances and use the
+management capabilities of Amazon RDS for the Oracle Software. You can use
+the Oracle Software with Amazon RDS if you meet the following conditions:
+
+
+    • You must have a valid license with “Software Update License & Support”
+      for the Oracle Software you wish to run. The terms of your existing
+      license and support agreement(s) with Oracle continue to apply to your
+      use of the Oracle Software; and
+    • You must follow Oracle’s current policies for licensing Oracle
+      Database software in the cloud computing environment. The database
+      instances using the Oracle Software with Amazon RDS reside in the
+      Amazon EC2 environment.
+
+
+16.7 Using Microsoft Software.
+
+
+16.7.1 "License Included" In conjunction with the Services, you may be
+allowed to use certain software (including related documentation) developed
+and owned by Microsoft Corporation or its licensors (collectively, the
+“Microsoft Software”). If you choose to use the Microsoft Software,
+Microsoft and its licensors require that you agree to these additional
+terms and conditions:
+
+
+    • The Microsoft Software is neither sold nor distributed to you and you
+      may use it solely in conjunction with the Services.
+    • You may not transfer or use the Microsoft Software outside the
+      Services.
+    • You may not remove, modify or obscure any copyright, trademark or
+      other proprietary rights notices that are contained in or on the
+      Microsoft Software.
+    • You may not reverse engineer, decompile or disassemble the Microsoft
+      Software, except to the extent expressly permitted by applicable law.
+    • Microsoft disclaims, to the extent permitted by applicable law, all
+      warranties by Microsoft and any liability by Microsoft or its
+      suppliers for any damages, whether direct, indirect, or consequential,
+      arising from the Services.
+    • Microsoft is not responsible for providing any support in connection
+      with the Services. Do not contact Microsoft for support.
+    • You are not granted any right to use the Microsoft Software in any
+      application controlling aircraft or other modes of human mass
+      transportation, nuclear or chemical facilities, life support systems,
+      implantable medical equipment, motor vehicles, weaponry systems, or
+      any similar scenario (collectively, "High Risk Use"). Microsoft and
+      its suppliers disclaim any express or implied warranty of fitness for
+      High Risk Use. High Risk Use does not include utilization of the
+      Microsoft Software for administrative purposes, to store configuration
+      data, engineering and/or configuration tools, or other non-control
+      applications, the failure of which would not result in death, personal
+      injury, or severe physical or environmental damage. These non-
+      controlling applications may communicate with the applications that
+      perform the control, but must not be directly or indirectly
+      responsible for the control function.
+    • SQL Server Web Edition may be used only to support public and Internet
+      accessible Web pages, Web sites, Web applications or Web services. It
+      may not be used to support line of business applications (e.g.,
+      Customer Relationship Management, Enterprise Resource Management and
+      other similar applications).
+
+
+16.7.2 License Mobility with Software Assurance (Bring Your Own License or
+BYOL). Under this option, Amazon RDS enable you to provision Microsoft SQL
+Server Software to Amazon EC2 instances and use the management capabilities
+of Amazon RDS for the SQL Server Software. You can use this benefit if only
+you meet the requirements and have signed up as described here.
+
+
+17. Amazon Simple Notification Service (Amazon SNS)
+
+
+17.1. You may only use Amazon SNS to send notifications to parties who have
+agreed to receive notifications from you.
+
+
+17.2. We may throttle or restrict notifications if we determine, in our
+sole discretion, that your activity may be in violation of the AWS
+Acceptable Use Policy or the Agreement.
+
+
+17.3. Your notifications sent through Amazon SNS may be blocked, delayed or
+prevented from being delivered by destination servers and other reasons
+outside of our control and there is no warranty that the service or content
+will be uninterrupted, secure or error free or that notifications will
+reach their intended destination during any stated time-frame. In addition,
+you acknowledge that we may not be able to provide the service if a
+wireless carrier delivering Amazon SNS notifications by short messaging
+service (SMS) terminates or suspends their service. Your payment
+obligations may continue regardless of whether delivery of your
+notifications are prevented, delayed or blocked.
+
+
+17.4. You may not use Amazon SNS to send SMS messages that include Premium
+Content (as defined in the Mobile Marketing Association Guidelines). You
+may not charge recipients for receiving Amazon SNS notifications by SMS
+unless you have obtained the recipient’s express consent. You must advise
+recipients receiving Amazon SNS notification by SMS that wireless carriers
+may charge the recipient to receive Amazon SNS notifications by SMS. You
+must obtain our prior written consent before using Amazon SNS to send SMS
+messages for:
+
+
+    • financial transactions or payment services (e.g., mobile banking, bill
+      presentment, bill payment, money transfer, peer-to-peer payment or
+      lending credit, debit or stored value payment services);
+    • charitable programs (e.g., soliciting donations for a non-profit
+      organization);
+    • sweepstakes or contests;
+    • advertisements or promotions for commercial products, goods or
+      services; or
+    • location-based services (e.g., where a recipient receives messages
+      based on the geographical location of the recipient’s wireless
+      device).
+
+
+18. Consolidated Billing
+
+
+18.1. You may only use Consolidated Billing as described in this Section
+and on the AWS Site to (i) link an AWS account (the “Paying Account”) with
+another AWS account (each, a “Linked Account”), or (ii) allow an AWS
+account to be linked to a Paying Account. You may only link accounts held
+by you, your affiliates or your employees, or by your agents or
+subcontractors currently doing work on your behalf. If an agent or
+subcontractor ceases doing work on your behalf, you will promptly unlink
+the applicable account. When accounts are linked, the Paying Account will
+be billed for and will pay all applicable charges for each Linked Account
+in accordance with the payment provisions in the Agreement while the
+accounts are linked. By linking your Linked Account to a Paying Account,
+you consent to disclosing your billing and account activity for that Linked
+Account to the Paying Account. We will determine the number of accounts
+that may be linked. An account may unlink another account from it at any
+time. As soon as a Linked Account is unlinked from a Paying Account, the
+Linked Account will be billed for and will pay all applicable charges for
+the Linked Account in accordance with payment provisions in the Agreement.
+If a Paying Account is terminated for failure to satisfy the payment
+provisions in the Agreement, then all linked Accounts associated with the
+Paying Account will be unlinked. We may unlink a Linked Account from a
+Paying Account at any time upon notice to both accounts in accordance with
+the Agreement, except that accounts linked in violation of this Section
+18.1 may be unlinked by us immediately and without notice. Paying Accounts
+and Linked Accounts are jointly and severally liable for all fees accrued
+by Linked Accounts while the accounts are linked. Accordingly, if a Paying
+Account fails to pay for fees accrued by a Linked Account while the
+accounts are linked, the Linked Account remains liable for such fees.
+
+
+19. AWS Identity and Access Management (IAM)
+
+
+19.1. You may use IAM to create additional sets of security credentials
+(the “User Credentials”) under your AWS account, the format of which may
+include a username and password, roles, policies, permissions, access keys,
+and/or a security token. The User Credentials are subject to change: (a) by
+you through the IAM APIs, or (b) if we determine in our reasonable
+discretion that a change is necessary. We will promptly notify you of any
+change we make to the User Credentials.
+
+
+19.2. You will ensure that all use of the Services under the User
+Credentials complies with the terms and conditions of the customer
+agreement between you and us that governs your use of the Services.
+
+
+19.3. You are responsible for all applicable fees associated with use of
+the Services in connection with IAM, including fees incurred as a result of
+any User Credentials. You are responsible for maintaining the secrecy and
+security of the User Credentials (other than any key that we expressly
+permit you to use publicly). You are solely responsible, and we have no
+liability, for any activities that occur under the User Credentials,
+regardless of whether such activities are undertaken by you, your
+employees, agents, subcontractors or customers, or any other third party.
+You are responsible for the creation, distribution, and security (including
+enabling of access) of all User Credentials created under your AWS account,
+including credentials that you have used IAM to create or disclose to other
+parties.
+
+
+19.4. Except as otherwise provided by AWS, you may only use User
+Credentials for your internal use and may not expose your User Credentials
+publicly. You may not sell, transfer or sublicense or authorize the
+creation of User Credentials (other than public use of any key that we
+expressly permit you to use publicly) to any other party; provided that,
+you may disclose or cause to be disclosed User Credentials to your agents
+or subcontractors that are performing services for you, solely to allow the
+agents or subcontractors to use the Services on your behalf in accordance
+with the agreement between you and us that governs your use of the
+Services.
+
+
+19.5. Any third party identity provider that you use in connection with the
+Service Offerings is Third Party Content under the Agreement and may be
+provided directly to you by a third party under separate terms and
+conditions. You are solely responsible for complying with those terms and
+conditions. We may change, discontinue or deprecate support for an identity
+provider for any reason, including if the continued use of the identity
+service (a) poses a security or intellectual property issue, (b) is
+economically or technically burdensome, or (c) must be terminated to comply
+with the law or requests of governmental entities.
+
+
+20. Amazon Route 53
+
+
+20.1. You may use Amazon Route 53 to answer Domain Name System (DNS)
+queries for your applications.
+
+
+20.2. You will not create a hosted zone for a domain that you do not own or
+have authority over.
+
+
+20.3. All DNS records used in connection with Amazon Route 53 will be
+publicly available and AWS will have no liability for disclosure of those
+DNS records.
+
+
+21. AWS Elastic Beanstalk
+
+
+21.1. The URL used in connection with an AWS Elastic Beanstalk environment
+will have the formulation [myapp].elasticbeanstalk.com. You will select the
+“myapp” portion of the URL and will not:
+
+
+    • include any trademark of Amazon or its affiliates, or a variant or
+      misspelling of a trademark of Amazon or its affiliates – for example,
+      , , , , , or would be unsuitable; or
+    • otherwise violate the intellectual property rights of any third party
+      or the AWS Acceptable Use Policy (including, without limitation,
+      containing any offensive, harmful or illegal content).
+
+
+AWS may reject any URL that fails to comply with this Section. Further, AWS
+may modify any URL in order to make it compliant with this Section. In
+addition, AWS may treat any URL that fails to comply with this Section as
+Prohibited Content.
+
+
+21.2. The [myapp] portion of the URL is reserved for you only during the
+time your application environment is running. If you stop running your
+application environment at any time, for any reason, the [myapp] portion of
+the URL you were using to run the application environment will no longer be
+available to you, and will be returned to a pool from which it may be used
+by another AWS customer.
+
+
+21.3. AWS may make available reference or sample applications for you to
+use in connection with AWS Elastic Beanstalk (“Elastic Beanstalk Sample
+Apps”). Elastic Beanstalk Sample Apps are provided “as is” and you will be
+charged the same fees for running Elastic Beanstalk Sample Apps as you
+would be charged for running your own application.
+
+
+21.4. AWS Elastic Beanstalk is offered at no additional charge, but
+requires the use of other AWS services. You are responsible for all fees
+incurred for AWS services used in connection with AWS Elastic Beanstalk.
+
+
+22. Amazon Simple Email Service (SES)
+
+
+22.1. We take steps to increase the security and reliability of email you
+send or attempt to send using SES (“SES Email”). Like many email service
+providers, when you send or attempt to send an email, we (or our third-
+party providers) may scan your SES Email and Your Content included in SES
+Email. This helps us protect you and SES by preventing and blocking “spam”
+e-mails, viruses and spyware, and other harmful or unwanted items from
+being sent over SES.
+
+
+22.2. Your use of SES and all SES Email must comply with the AWS Acceptable
+Use Policy and the Agreement. We may throttle, suspend or terminate your
+access to SES, or block or decline to send any SES Email, if we determine
+in our sole discretion that
+
+
+    • our scan of SES Email or Your Content included in SES Email reveals
+      abusive or low quality email (such as “spam”),
+    • SES Email bounces back to us or we receive abuse complaints (including
+      complaints from third parties) in connection with your SES Email,
+    • the source or ReturnPath email address you have provided us for
+      “address bounces” or complaints is not successfully receiving email,
+      or
+    • your use of SES Email does not comply with the AWS Acceptable Use
+      Policy or the Agreement, or
+    • your SES Emails or Your Content include an attachment in a format that
+      we do not support.
+
+
+22.3. Your SES Emails may be blocked, delayed or prevented from being
+delivered by destination email servers and other reasons outside of our
+control. Your payment obligations continue regardless of whether delivery
+of your emails is prevented, delayed or blocked.
+
+
+22.4. You are solely responsible for ensuring any emails you send using SES
+comply with the Federal CAN-SPAM Act. AWS is not the “sender” as defined in
+the Federal CAN-SPAM Act. You will not use SES in connection with an open
+mail relay, including, without limitation, an open mail relay in the form
+of an SMTP server, unrestricted web form, or otherwise.
+
+
+23. AWS CloudFormation
+
+
+23.1. You may use AWS CloudFormation to create a collection of AWS
+resources and provision them.
+
+
+23.2. AWS may make sample templates available for you to use in connection
+with AWS CloudFormation. All sample templates are offered “as is” and you
+are solely responsible for your use of the sample templates.
+
+
+23.3. Any templates you use in connection with AWS CloudFormation must
+comply with the Agreement and the AWS Acceptable Use Policy and you are
+solely responsible for your use of any templates.
+
+
+23.4. AWS CloudFormation is offered at no additional charge, but requires
+the use of other AWS services. You are responsible for all fees incurred
+for AWS services used in connection with AWS CloudFormation.
+
+
+24. AWS Direct Connect
+
+
+24.1. You may use AWS Direct Connect to establish a dedicated network
+connection between your network and your AWS resources by using connection
+types and locations supported by AWS. When you establish a dedicated
+connection, your network traffic that would have otherwise been routed over
+the Internet may be routed through your dedicated network connection,
+including your network traffic sent to or from (i) services offered by
+other affiliates of Amazon.com, Inc. or (ii) the AWS resources of other AWS
+customers.
+
+
+24.2. The hardware and equipment you use with AWS Direct Connect must
+comply with the Documentation provided by AWS. You are responsible for
+protecting your AWS Direct Connect connections, including using physical
+security, firewalls and other network security tools as appropriate.
+
+
+24.3. AWS will permit data center operator or other service provider to
+connect your hardware to AWS’s hardware at the AWS Direct Connect
+location(s) that you select. AWS will provide the necessary information to
+enable the data center operator or other service provider to establish and
+monitor this connection, including your name, email address, network
+configuration, activity information, and AWS account number.
+
+
+24.4. You are responsible for your separate relationship with the data
+center operator or other service provider, including compliance with your
+agreement with, and the policies and procedures of, the data center
+operator or other service provider, and payment of applicable fees to the
+data center operator or other service provider. You are responsible for
+providing or procuring (and AWS will not own) any equipment or cabling
+necessary to establish this dedicated connection. Neither AWS nor any of
+its affiliates are responsible for the actions, errors or omissions of any
+employees or contractors of data center operators or service providers,
+including if the employees or contractors fail to follow instructions from
+you or AWS.
+
+
+24.5. We may disconnect your AWS Direct Connect connection at any time for
+any reason. If the connection you establish as part of AWS Direct Connect
+is temporarily unavailable or terminated, AWS will route traffic bound for
+your AWS resources over the public Internet and AWS’s standard data
+transfer charges will apply. However, if you are using Amazon Virtual
+Private Cloud (VPC), traffic bound for your Amazon VPC resources will be
+routed through an IPsec VPN connection. If an IPsec VPN connection is
+unavailable, traffic bound for your Amazon VPC resources will not be
+delivered.
+
+
+25. Amazon ElastiCache
+
+
+25.1. You may only use Amazon ElastiCache to store, query, retrieve and
+serve Your Content. You are solely responsible, for the proper
+configuration of all security settings associated with Amazon ElastiCache.
+
+
+25.2. You may not access or tamper with any software we install on the
+cache nodes as part of Amazon ElastiCache.
+
+
+25.3. Amazon ElastiCache is designed for the ephemeral storage of Your
+Content. You are responsible for maintaining a persistent data storage for
+Your Content, and routinely archiving Your Content to prevent the loss of
+Your Content.
+
+
+25.3. Replacement cache nodes automatically generated by Amazon ElastiCache
+may have different IP address, and you are responsible for reviewing your
+application configuration to ensure that your cache nodes are associated
+with the appropriate IP addresses.
+
+
+25.4. We may apply software updates on your behalf if we determine there is
+a security vulnerability in the system or software we install on the cache
+nodes as part of Amazon ElastiCache.
+
+
+25.5. Reserved Cache Node Pricing. You may designate Amazon ElastiCache
+cache node as subject to the reserved pricing and payment terms ("Reserved
+Cache Node Pricing") set forth on the Amazon ElastiCache detail page on the
+AWS Site (each designated instance, a "Reserved Cache Node"). You may
+designate cache nodes as Reserved Cache Nodes by calling to the Purchasing
+API or selecting the Reserved Cache Node option in the AWS console. When
+you designate a cache node as Reserved Cache Node, you must designate a
+region, cache node type, Reserved Cache Node type, and quantity for the
+applicable Reserved Cache Node. The Reserved Cache Node may only be used in
+the designated region. We may change Reserved Cache Node Pricing at any
+time but price changes will not apply to previously designated Reserved
+Cache Nodes. We may terminate the Reserved Cache Node Pricing program at
+any time. Reserved Cache Nodes are nontransferable and all amounts paid in
+connection with the Reserved Cache Nodes are nonrefundable, except that if
+we terminate the Agreement other than for cause, terminate an individual
+Reserved Cache Node type, or terminate the Reserved Cache Node Pricing
+program, we will refund you a pro rata portion of any up-front fee paid in
+connection with any previously designated Reserved Cache Nodes. Upon
+expiration or termination of the term of a Reserved Cache Node, the
+Reserved Cache Node Pricing will expire and standard on-demand usage prices
+will apply to the cache node. In addition to being subject to Reserved
+Cache Node Pricing, Reserved Cache Nodes are subject to all data transfer
+and other fees applicable under the Agreement.
+
+
+26. Amazon Web Services Support (AWS Support)
+
+
+26.1. We will provide “Support” in accordance with the terms of AWS Support
+Features page available at http://aws.amazon.com/premiumsupport/features
+(the “Guidelines”). AWS Support is available only as described in the
+Guidelines. If you are experiencing problems with one or more Services in
+connection with your use of any Content that was provided to you by a third
+party (someone other than yourself or AWS) then AWS Support is not
+available.
+
+
+26.2. In providing AWS Support, AWS will use commercially reasonable
+efforts to (a) respond within the “Response Times” set forth in the
+Guidelines for all properly submitted cases from authorized individuals,
+and (b) work towards the identification and resolution of the problems
+submitted. When submitting a case, you may designate the severity level of
+a problem; provided that, we reserve the right to reclassify the severity
+level in our reasonable opinion. All Response Times are measured from the
+point when a case has been properly submitted by an authorized individual
+to us. Cases may be submitted as specified in the Guidelines. We do not
+represent, warrant or guarantee that (i) we will always be able to resolve
+a case fully, (ii) you will no longer experience a problem, (iii) we will
+provide a bug fix, patch or other workaround in connection with the
+identified problem, or (iv) any support or advice will result in any
+performance efficiency or improvement. You are solely responsible for the
+implementation and results of any suggestions or advice received.
+
+
+26.3. Unless otherwise set forth in the Guidelines, AWS Support fees will
+be the greater of (a) the specified minimum monthly fee, or (b) a
+percentage of your monthly usage charges for all Services during the
+billing period. Regardless of when you sign up or terminate AWS Support,
+you are obligated to pay for a minimum of thirty (30) days of support each
+time you register to receive the service. Implementation of any suggested
+configurations or improvements may result in additional fees and charges.
+We reserve the right to refuse to provide AWS Support to any customer that
+frequently registers for and terminates the service.
+
+
+27. AWS GovCloud (US) Service Terms
+
+
+27.1 You are responsible for satisfying any applicable eligibility
+requirements for using the AWS GovCloud (US) Region including providing
+accurate and current registration information. We may require you to
+provide additional registration information before we permit you to access
+the AWS GovCloud (US) Region. Such information may include your U.S. person
+status, as defined by 22 CFR part 120.15 (“US Person”), and whether you are
+subject to export restrictions under U.S. export control laws and
+regulations. We may make, directly or through third parties, any inquiries
+we consider necessary to validate information that you provide to us,
+including without limitation checking commercial and/or governmental
+databases. While we may take steps to verify the identity of our Customers,
+we cannot and do not guarantee any Customer's identity.
+
+
+27.2 AWS is responsible for maintaining access controls to the AWS GovCloud
+(US) Region that limit AWS personnel’s physical and logical access to the
+“AWS Network” to US Persons only. The AWS Network consists of AWS’s
+internal data center facilities, servers, networking equipment, and host
+software systems that are within AWS’s reasonable control and are used to
+provide the AWS Services. You are responsible for all physical and logical
+access controls beyond the AWS Network including, but not limited to,
+Customer or End User account access, data transmission, encryption, and
+appropriate storage and processing of your Content within the AWS GovCloud
+(US) region. AWS makes no representation or warranty related to the US
+Persons status of any Customer or End Users that may be granted access to
+the AWS GovCloud (US) Region by other Customers and their End Users.
+
+
+27.3 You are responsible for verifying the adequacy of the AWS GovCloud
+(US) Region for the processing and storage of your Content and that your
+use of AWS Services will comply with the laws and regulations that may
+govern your Content. You are also solely responsible for verifying that End
+Users are eligible to access your Content in the AWS GovCloud (US) region.
+
+
+27.4 You may only use Amazon VPC to connect your computing resources to the
+AWS GovCloud (US) region.
+
+
+27.5 AWS Services may not be used to process or store classified data. If
+you or your end users introduce classified data into the AWS Network, you
+will be responsible for all sanitization costs incurred by AWS.
+
+
+28. Amazon DynamoDB
+
+
+28.1 You will be charged for the throughput capacity (reads and writes) you
+provision in your Amazon DynamoDB tables even if you do not fully utilize
+the provisioned capacity.
+
+
+28.2 The actual reads and writes performance of your Amazon DynamoDB tables
+may vary and may be less than the throughput capacity that you provision.
+
+
+28.3 Reserved Capacity Pricing. You may purchase reserved throughput
+capacity (reads and writes) subject to the pricing and payment terms set
+forth on the Amazon DynamoDB detail page on the AWS Site ("Amazon DynamoDB
+Reserved Capacity"). You may purchase Amazon DynamoDB Reserved Capacity by
+submitting a request through the AWS console. When you purchase Amazon
+DynamoDB Reserved Capacity, you must designate a region, quantity, and
+term. You will be charged (1) a one-time, up-front fee and (2) an hourly
+fee for each hour during the term based on the amount of Amazon DynamoDB
+Reserved Capacity you purchase. The Amazon DynamoDB Reserved Capacity may
+only be used in the designated region and only by the account that
+purchased the Amazon DynamoDB Reserved Capacity. We may change the pricing
+for Amazon DynamoDB Reserved Capacity at any time, but price changes will
+not apply to previously purchased Amazon DynamoDB Reserved Capacity. We may
+terminate the Amazon DynamoDB Reserved Capacity program at any time. Amazon
+DynamoDB Reserved Capacity is nontransferable and all amounts paid in
+connection with the Amazon DynamoDB Reserved Capacity are nonrefundable,
+except that if we terminate the Agreement (other than for cause) or the
+Amazon DynamoDB Reserved Capacity program, we will refund you a pro rata
+portion of any up-front fee paid in connection with any previously
+purchased Amazon DynamoDB Reserved Capacity. Upon expiration or termination
+of the term of any Amazon DynamoDB Reserved Capacity, standard on-demand
+usage prices will apply to the your use of Amazon DynamoDB. Amazon DynamoDB
+Reserved Capacity is also subject to all storage, data transfer and other
+fees applicable under the Agreement.
+
+
+29. AWS Storage Gateway
+
+
+29.1 You may only use the AWS Storage Gateway on computer equipment owned
+or controlled by you for your internal business purposes, solely to access
+Your Content used in connection with the Services. Your use of the AWS
+Storage Gateway is governed by the AWS Storage Gateway License, located
+here: AWS Storage Gateway License Agreement
+
+
+30. AWS Marketplace
+
+
+30.1 The AWS Marketplace is a venue operated by AWS that allows Content to
+be offered, sold, and bought. Content may sold by AWS or a third party, and
+the party offering or selling the Content may specify separate terms and
+conditions and privacy policies for the use of the Content. If the Content
+is offered or sold by a third party, that party will be the seller of
+record for the Content. AWS is not a party to the terms with respect to
+Content offered or sold by third parties. Any Content of third parties
+offered through the AWS Marketplace constitutes “Third Party Content” under
+the Agreement. While AWS may help facilitate the resolution of disputes
+between you and third parties, AWS is not responsible for Third Party
+Content and has no control over and does not guarantee the quality, safety
+or legality of items advertised, the truth or accuracy of Third Party
+Content or listings, or the ability of sellers to offer the Content.
+
+
+30.2 Except to the extent Content is provided to you under a separate
+license that expressly states otherwise, neither you nor any End User may,
+or may attempt to, (a) modify, alter, tamper with, repair, or otherwise
+create derivative works of any Content, (b) reverse engineer, disassemble,
+or decompile the Content or apply any other process or procedure to derive
+the source code of any software included in the Content, (c) resell or
+sublicense the Content, (d) transfer Content outside the Services without
+specific authorization to do so, or (e) tamper with or circumvent any
+controls or make unauthorized copies of the Content.
+
+
+30.3 AWS may stop providing the AWS Marketplace (or any features of or
+listings within the AWS Marketplace) to you at AWS’s sole discretion,
+without prior notice to you. In addition, AWS may disable or remove Content
+already purchased, if AWS determines in its sole discretion that the
+Content may violate any AWS policies or any other regulations, policies or
+laws.
+
+
+30.4 You authorize AWS, its affiliates, and its third-party payment
+processors and any service providers to charge the payment method you
+select in your AWS account for Content that you purchase in the AWS
+Marketplace. This may include one-time payments as well as recurring
+payments. A “recurring payment” is a payment that occurs at the specified
+intervals and amounts provided at the time of purchase (e.g. annually or
+monthly). The applicable fees and billing periods for the Content are
+listed on the confirmation screen when you place your order. Your
+authorizations will remain until cancelled. You may cancel your
+subscriptions at any time by logging into “Your Software Subscriptions” on
+the AWS Site. Unless we specify otherwise, only valid credit cards may be
+used to purchase a recurring payment subscription.
+
+
+31. AWS Data Pipeline
+
+
+31.1 You may only use the AWS Data Pipeline on computer equipment owned or
+controlled by you for your internal business purposes, solely to access
+Your Content used in connection with the Services.
+
+
+31.2 Your use of the AWS Data Pipeline Remote Runner is governed by the AWS
+Data Pipeline Remote Runner License, located here: AWS Data Pipeline Remote
+Runner License Agreement.
+
+
+32. Amazon Elastic Transcoder
+
+
+32.1 The further distribution of files created by Amazon Elastic Transcoder
+may require that you obtain license rights from third parties, including
+owners or licensors of certain third party audio and video formats. You are
+solely responsible for obtaining these licenses and paying any necessary
+royalties or fees.
+
+
+32.2 We do not represent, warrant or guarantee the quality of any files you
+create through your use of Amazon Elastic Transcoder or that the files will
+be of a certain fidelity or error free.
+
+
+33. AWS OpsWorks
+
+
+33.1 You may use AWS OpsWorks to create a collection of AWS resources and
+provision them.
+
+
+33.2 AWS may make sample templates available for you to use in connection
+with AWS OpsWorks. Sample templates may include chef recipes and/or sample
+code. All sample templates are offered “as is” and you are solely
+responsible for your use of the sample templates.
+
+
+33.3. Any templates you use in connection with AWS OpsWorks must comply
+with the Agreement and the AWS Acceptable Use Policy and you are solely
+responsible for your use of any templates.
+
+
+33.4. AWS OpsWorks is offered at no additional charge, but requires the use
+of other AWS services. You are responsible for all fees incurred for AWS
+services used in connection with AWS OpsWorks.
+
+
+34. AWS CloudHSM
+
+
+34.1 You may not access, modify, update or tamper with, or attempt to
+access, modify, update or tamper with, any of the software installed on the
+HSM device, except as expressly permitted by us.
+
+
+34.2 As part of the AWS CloudHSM service, AWS will provide access to HSM
+devices of its choosing. You have no ownership or rental rights in the
+specific HSM device to which we provide you access in the course of
+providing the AWS CloudHSM service.
+
+
+34.3. In conjunction with the AWS CloudHSM service, you may be allowed to
+use certain software (including related documentation) developed and owned
+by SafeNet, Inc. or its licensors (collectively, the “SafeNet Software”).
+In connection with your use of the SafeNet Software, SafeNet and its
+licensors require that you agree to the additional terms and conditions
+located here.
+
+
+34.4. If you elect to discontinue use of a HSM device, you must issue a
+command to delete the contents of the device (i.e., “zero-ize” the device).
+You will continue to be charged for use of an HSM device until the device
+has been zero-ized out and you notify us that you wish to discontinue the
+service.
+
+
+34.5. Failure of an HSM device can result in unrecoverable data loss. We do
+not perform backups or implement fault tolerant configurations on your
+behalf. You are solely responsible for backup and fault tolerant
+configurations.”
+

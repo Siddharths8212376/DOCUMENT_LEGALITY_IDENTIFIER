@@ -1,0 +1,258 @@
+
+This Agreement ("Agreement") is made as of [DATE], by [PROVIDER] located at
+[PROVIDER ADDRESS], and [CLIENT] ("Client"), located at [CLIENT ADDRESS].
+
+
+Scope of Work
+
+
+Client is contracting [PROVIDER] to provide website maintenance, technical
+support, and hosting services for [WEB URL]. [PROVIDER] agrees to provide
+such services to the Client on a quarterly basis. Services not considered
+“standard website maintenance, technical support, or hosting” are subject
+to be charged at a separate rate and will not be considered part of this
+agreement.
+
+
+a. What IS included in this Agreement
+
+
+Ongoing web hosting services, web font hosting services, and up to [NUMBER
+OF HOURS] hours of standard website maintenance and technical support for
+[WEB URL] every three months, which includes:
+
+
+    • Guaranteed response for bug fixes and maintenance issues (See
+      Deadlines and Deliverables).
+    • Web hosting through a third-party provider to allow your website to be
+      accessible online.
+    • Web font hosting through a third-party provider to serve fonts on your
+      website.
+    • Regular monitoring and updating to ensure performance across all the
+      latest versions of Chrome, Firefox, Internet Explorer and Microsoft
+      Edge, Safari, and mobile versions of Chrome and Safari.
+    • Security protection against hackers from gaining access to your site.
+    • Regular and thorough backups of your website so that it may be fully
+      restored in case of loss.
+    • Monitoring your website functionality to ensure that everything is
+      working as it should and provide updates when necessary. Software
+      updates may be necessary to address security or stability issues in
+      the software or to add new features, and may include:
+    • Server-level updates (Linux, PHP, Apache, and various submodules)
+    • Application-level updates to WordPress
+    • Plugin-level updates for specific functionality within the context of
+      the CMS
+    • Front-end updates to HTML, CSS, and Javascript
+    • Assisting with downtime or performance issues by liaising with the web
+      host provider.
+    • The addition of new features or changes to existing features on the
+      website. If the time required to complete these changes exceeds the
+      time allotted in the agreement, additional hours will be billed
+      separately (See Additional Services).
+    • Consultation, advice and guidance on the use of the website.
+
+
+If any regular maintenance or software update procedure requires additional
+time to complete beyond the scope of this agreement [PROVIDER] will notify
+the Client in advance and any additional time will be billed separately.
+Support hours expire at the end of the quarter and do not roll over to the
+next maintenance quarter.
+
+
+b. What is NOT included in this Agreement
+
+
+    • Maintenance, support, or hosting services for websites other than [WEB
+      URL].
+    • Domain name registration, DNS service, or email services.
+
+
+Payment
+
+
+a. Payment Schedule
+
+
+Client agrees to pay [PROVIDER] a total of $[TOTAL] each quarter in
+exchange for the above services. The first payment is due upon execution of
+this Agreement. Subsequent payments will be due every three months
+thereafter. All payments are due upon receipt.
+
+
+b. Late Payments
+
+
+If the Client fails to pay any amount properly due under the Agreement by
+the due date, [PROVIDER] may, after giving three days’ notice to the
+Client, suspend any work until payment is made in full. [PROVIDER] reserves
+the right to withhold delivery of any current work if accounts are not
+current or overdue invoices are not paid in full.
+
+
+c. Third Party Fees
+
+
+The Client is responsible for all third party fees, including any necessary
+license fees required to purchase and install new plugins or software on
+the website. These fees will be communicated to client in writing before
+they are incurred.
+
+
+Deadlines & Deliverables
+
+
+[PROVIDER] will respond via email to all maintenance requests from Client
+within 24 hours on weekdays with a confirmation that the request was
+received as well as an estimated completion date. Maintenance requests
+received after 5:00 pm PST on weekdays may not be completed until the next
+business day unless prior arrangements have been made.
+
+[PROVIDER] will make all reasonable efforts to adhere to all quoted
+deadlines for the deliverables in the Client’s maintenance requests. In the
+event that [PROVIDER] has any issues in delivering on a quoted deadline,
+Client will be notified via email the reasoning for any change.
+
+
+Additional Services
+
+
+Any revisions, additions, or redesign the Client requests [PROVIDER]to
+perform that is not specified in this document shall be considered
+"additional" and will require a separate agreement and payment. [PROVIDER]
+shall advise Client on any requested work that falls within these bounds.
+
+
+Authorization
+
+
+Client hereby authorizes [PROVIDER] to access their web hosting account,
+providing active user name / password combinations for access to the server
+via FTP, assuring that 'write permissions' are in place on said hosting
+provider.
+
+During the duration of this contract, the Client agrees that [PROVIDER]
+will be the sole provider of maintenance services for the website, and no
+other party will have access to or rights to change the website. If a party
+other than [PROVIDER] makes changes to the website, any errors that are
+created must be repaired and will be charged for at $[HOURLY RATE] per
+hour.
+
+
+Indemnity
+
+
+Client agrees to indemnify [PROVIDER] against all claims, judgments,
+decrees, costs and expenses, including attorney's fees, incident to any
+proceeding which may be brought against [PROVIDER] or its agents,
+distributors, customers, or other vendors based on a claim of alleged
+copyright, trademark, or alleged misappropriation of a trade secret, as
+well as for a claim of alleged unfair competition resulting from similarity
+in design, trademark or appearance of Contract Products and Services
+provided under this Agreement.
+
+Client agrees that it will, upon request of [PROVIDER] and at Client’s own
+expense, defend or assist in the defense of any action which may be brought
+against [PROVIDER] or its officers, employees, agents, distributors,
+customers, or other vendors for these claims of alleged infringement,
+misappropriation, or unfair competition. [PROVIDER] agrees to notify Client
+promptly upon receipt of notice of infringement or information of such a
+suit having been filed. This indemnification will be in addition to all
+other obligations under this Agreement.
+
+
+Miscellaneous
+
+
+a. Headings
+
+
+The section headings contained in this Agreement are for reference purposes
+only and shall not affect the meaning or interpretation of this Agreement.
+
+
+b. Relationship
+
+
+[PROVIDER] will perform services hereunder only as an independent
+contractor. Client is to have no control over the methods and means of
+accomplishing the desired result. [PROVIDER] will not be construed to be an
+employee or agent of Client.
+
+
+c. Assignment
+
+
+The Client or [PROVIDER] cannot assign or transfer this Agreement to anyone
+else without the written permission of the other party.
+
+
+d. Limitation of Liability
+
+
+In no event will either party be liable, whether in contract, tort, or
+otherwise, for any incidental, special, indirect, consequential or punitive
+damages, including, but not limited to, damages for any loss of use, loss
+of time, inconvenience, commercial loss, or lost profits, savings, or
+revenues, to the full extent such may be disclaimed by law.
+
+The total liability of [PROVIDER] or Client, whether for breach of
+contract, warranty, negligence, strict liability in tort or otherwise, is
+limited to the price of the particular services purchased, sold, or
+otherwise at issue hereunder with respect to which losses or damages are
+claimed.
+
+
+e. Construction
+
+
+Both parties have had adequate opportunity to obtain legal representation
+and this Agreement reflects arms’ length negotiations. Neither party will
+be deemed the drafter and no ambiguity in the Agreement will be construed
+against either party.
+
+
+f. Contract Cancellation
+
+
+The Client may cancel or choose not to renew this Agreement at any time by
+providing written notice to [PROVIDER]. Within five business days of such
+cancellation, Client will be responsible for securing their own web hosting
+account, web font hosting account, and technical support provider, as
+[PROVIDER] will no longer provide these services. Any fees billed to and/or
+paid for by the Client up until the point of cancellation are non-
+refundable and will not be reimbursed by [PROVIDER] to the Client.
+
+
+[PROVIDER] may cancel or choose not to renew this Agreement at any time by
+providing 30 days written notice to Client. In the event of cancellation or
+non-renewal by the provider, [PROVIDER] will provide a prorated refund for
+unused services and all files necessary to migrate the website to another
+host.
+
+
+g. Governing Law
+
+
+This Agreement is shall be governed by the laws of the State of [STATE].
+Any disputes arising under this Agreement shall be settled by arbitration,
+to take place in [CITY], [STATE].
+
+
+h. Severability
+
+
+If any provision of this Agreement shall be unlawful, void, or for any
+reason unenforceable, then that provision shall be deemed severable from
+this Agreement and shall not affect the validity and enforceability of any
+remaining provisions.
+
+
+i. Entire Agreement
+
+
+This Agreement contains the entire agreement of the parties with respect to
+the subject matter of the Agreement. The Agreement supersedes any prior
+agreements, understandings, or negotiations, whether written or oral. This
+Agreement can only be amended through a written document formally executed
+by all parties.
+

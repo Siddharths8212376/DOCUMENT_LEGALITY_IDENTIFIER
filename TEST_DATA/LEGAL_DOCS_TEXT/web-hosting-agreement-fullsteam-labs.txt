@@ -1,0 +1,463 @@
+
+FullSteam Labs is designed to serve the web hosting needs of small
+businesses and non-profit organizations. It is not appropriate to use our
+basic hosting services to support large enterprises or internationally
+based businesses with a sustained demand that places undue burden on our
+systems or negatively impacts use by small, independently owned and
+operated businesses. If you intend to do more traffic for a larger site,
+please ask us for a more robust hosting package.
+
+
+FullSteam Labs is a shared web hosting service, which means that a number
+of customers web sites and other email or storage services are hosted from
+the same server. FullSteam Labsuses abuse controls to help ensure that use
+of our services does not adversely affect the performance of our system or
+other customers sites. It is not appropriate to use an account primarily as
+an online storage space or for archiving electronic files without prior
+consent and agreement with FullSteam Labs.
+
+
+Disk space:
+If you use your services consistently with the Terms of Service and these
+paragraphs, your site can grow as large as necessary to meet your small
+business needs, but to ensure a great experience for all, we will place
+some constraints on how fast you can grow. The vast majority of our
+customers sites grow at rates well within our rules, but our abuse controls
+may cause a brief delay while we evaluate if expansion is appropriate. If
+you need room for a faster growth rate, you must work with FullSteam Labs
+to ensure your needs are met.
+
+
+Data transfer:
+In most cases, if you use our services consistently with the Terms of
+Service and these paragraphs, visitors to your web site will be able to
+download and view as much content from your site as they like. However, in
+certain circumstances, our server processing power, server memory, or abuse
+controls could limit downloads from your site. You can also upload as much
+as content as you like each month, subject only to the Terms of Service and
+the rules that control how fast your site can grow (see above).
+
+
+ACCEPTABLE USE POLICY & TERMS OF SERVICE
+
+
+The following is the entire Acceptable User Policy (AUP) agreement between
+FullSteam Labs and the personal or corporate account holder (YOU/YOUR
+Customer). FullSteam Labs provides World Wide Web Hosting, Marketing, and
+Development. FullSteam Labs has certain legal and ethical responsibilities
+consisting with the use of its servers and equipment involved in these
+services. FullSteam Labs general policy is to act as a provider of Internet
+presence. FullSteam Labs reserves the rights to suspend or cancel a
+customers access to any or all services provided by FullSteam Labs when we
+decide that the account has been inappropriately used.
+
+
+SERVER ABUSE
+
+
+Any attempt to undermine or cause harm to a server or customer of FullSteam
+Labs is strictly prohibited. FullSteam Labs will strongly react to any use
+or attempted use of an Internet account or computer without the owners
+authorisation. Such attempts include Internet scamming (tricking other
+people into releasing their passwords), password theft, security hole
+scanning, etc. Any unauthorised use of accounts or computers by YOU,
+whether or not the attacked account or computer belongs to FullSteam Labs,
+will result in action against YOU. Possible actions include warnings,
+account suspension or cancelation, as well as civil or criminal legal
+action, depending on the seriousness of the attack.
+
+
+IMPORTANT NOTE – FullSteam Labs has the right to discontinue service, or
+deny access to anyone who violates our policies or the terms and conditions
+shown below WITHOUT WARNING or PRIOR NOTICE. No refunds of fees paid will
+be made if account termination is due to violation of the terms outlined
+below. YOU may not run IRC, bots or clients on shared servers. Unacceptable
+uses also include, but are NOT limited to: Bulk emailing, unsolicited
+emailing, newsgroup spamming, pornographic content, illegal content,
+copyright infringement, trademark infringement, warez sites (including
+links to/from), cracks, software serial numbers, proxy-relaying, link
+farming (the act of or by use of scripts), link grinding, link-only sites,
+spamdexing, FFA (Free-For-All) and/or anything else determined by FullSteam
+Labs to be unacceptable use of our services including abuse of server
+resources.
+
+
+WEB APPLICATIONS and WEB ACCESSIBLE SCRIPTS
+
+
+All web applications that are out-of-date and actively being exploited will
+be shut down immediately without prior notice. YOU are responsible for and
+should evaluate YOUR web-based applications and scripts on a regular basis
+to ensure their security and orderliness. Shared hosting accounts may also
+be terminated if it includes the following content or have links to the
+following content: Providing material that is grossly offensive to the Web
+community including blatant expressions of bigotry, racism, hatred, or
+profanity; promoting or providing instructional information about illegal
+activities; promoting physical harm or injury against any group or
+individual; displaying material containing obscene nudity or pornographic
+material (not applicable to managed dedicated servers); displaying material
+that exploits children under 18-years of age; acts of copyright
+infringement including offering pirated computer programs or links to such
+programs; information used to circumvent manufacturer-installed copy-
+protect devices, including serial or registration numbers for software
+programs, or any type of cracker utilities.
+
+
+STORAGE SPACE ABUSE
+
+
+FullSteam Labs will not tolerate any form of storage space abuse. At least
+90% of YOUR web pages (HTML) must be linked with files (GIF, JPEG, etc.)
+stored on FullSteam Labs servers. Websites that are found to contain
+either/or no HTML documents, a large number of unlinked files are subject
+to files deletion or account cancelation at the discretion of FullSteam
+Labs Management (MANAGEMENT), with or without prior notice. For basic
+hosting customers, YOUR disk space will be unlimited unless you begin
+reaching bandwidth use limits. FullSteam Labs will be the sole arbiter as
+to what constitutes a violation of this provision.
+
+
+BANDWIDTH ABUSE
+
+
+The intention of FullSteam Labs is to provide a large bandwidth to transfer
+web documents, and not an offsite storage area for electronic files. If YOU
+violate this condition, YOU will be notified and given 48 hours to remedy
+the problem. Failure to do so will result in YOU being billed for the
+overages. If YOU do not qualify for the free service, traffic will go
+unmonitored until YOU reach the amount of quota allocated to YOUR specific
+PLAN. Thereafter, normal data transfer cost of $10.00/1GB/month will be
+billed to YOUR account. If YOU want to pre-pay for bandwidth overages, YOU
+will be billed $5.00/1GB/month. YOU will have 3 days to pay for your
+overages. Failure to do so will result in YOUR website being disabled
+within 3 days of YOUR first notice. FullSteam Labs will be the sole arbiter
+as to what constitutes a violation of this provision.
+
+
+99.99% UPTIME GUARANTEE
+
+
+(1.) COVERAGE – This 99.99% uptime guarantee applies to any Customer in
+good financial standing with FullSteam Labs at the time of a service
+outage.
+(2.) SERVICE LEVEL AGREEMENT (SLA) & SPECIFICATIONS – FullSteam Labs
+endeavours to have the content of YOUR website available for http access by
+any party in the world 99.99% of the time. Network downtime
+(unavailability) is defined as 100% packet loss from FullSteam Labs to its
+backbone providers. Downtime is measured past 10 minutes after notification
+of network failure via FullSteam Labs online ticketing system. If the
+ticketing system itself is unreachable, the ticket must be started by
+calling the FullSteam Labs phone number. FullSteam Labs administrators will
+determine the end of the downtime by a traceroute to YOUR machine from
+outside the FullSteam Labs network.
+(3a.) SHARED HOSTING CREDITS – In the event that YOUR website is
+unavailable for less than 99.99%, FullSteam Labs will credit the following
+months service fee as follows. YOUR credit shall be retroactive and
+measured in 24 hours a day of a calendar month, with the maximum credit not
+exceeding 50% of the monthly service charge for the affected month.
+
+
+Monthly Uptime Credit:
+- 95% to 99.9% – YOUR account will be credited 10% of your monthly hosting
+fee
+- 90% to 94.9% – YOUR account will be credited 20% of your monthly hosting
+fee
+- 89.9% or below – YOUR account will be credited 50% of your monthly
+hosting fee
+
+
+(3b.) MANAGE DEDICATED SERVERS – For managed dedicated server Customers, if
+the uptime is between 98.9% and 99.9% for any particular month, credit
+shall be retroactive and equivalent to the difference between the
+guaranteed level of availability of the Customers services during the month
+and the calculated actual level of availability of the Customers services,
+multiplied by the actual charges incurred by YOU for the services during
+that monthly period. In addition, for managed dedicated servers, YOU may be
+entitled to additional credits as calculated below measured 24-hours a day
+in a calendar month, with the maximum credit not to exceeding 25% of the
+monthly service charge for the affected month.
+
+
+In order for YOU to receive a credit on YOUR account, YOU must request such
+credit within seven (7) days after YOU experienced the downtime. You must
+request credit by sending an email message to hosting@fullsteamlabs.com.
+For security, the body of this message must contain YOUR account number,
+the dates and times of the unavailability of YOUR website, and such other
+customer identification requested by FullSteam Labs. Credits will usually
+be applied within sixty (60) days of YOUR credit request. Credit to YOUR
+account shall be YOUR sole and exclusive remedy in the event of an outage.
+
+
+(4.) RESTRICTIONS – Credit shall not be provided to YOU in the event that
+you have any outage resulting from:
+- scheduled maintenance as posted from time to time at FullSteam Labs,
+- your behavior or the performance or failure of your equipment, facilities
+or applications,
+- circumstances beyond reasonable control of FullSteam Labs, including,
+without limitation, acts of any governmental body, war, insurrection,
+sabotage, embargo, fire, flood, strike or other labor disturbance,
+interruption of or delay in transportation, unavailability of interruption
+or delay in telecommunications or third party services, including DNS
+propagation, domain name registration/transfer, failure of third party
+software or hardware or inability to obtain raw materials, supplies, or
+power used in or equipment needed for provision of your web site,
+- YOU breaking any agreement policy in FullSteam Labs Terms & Conditions
+and AUP causing a machine to fail as a result.
+
+
+TECHNICAL SUPPORT BOUNDARIES
+
+
+FullSteam Labs provides technical support for YOU that encompasses within
+our area of expertise only. Such expertise includes assistance,
+troubleshooting, and debugging of our cPanel control panel interface,
+servers within our immediate responsibility and any other hosting related
+issues.
+
+
+However, in under no circumstances is FullSteam Labs neither obligated to
+help YOU in the installations of new application modules, templates and/or
+programming languages, nor in providing assistance for any errors produced
+by any applications that have been modified by YOU previously. We will only
+provide assistance in making sure any EasyApps applications that are
+installed through the cPanel control panel interface are installed as
+directed.
+
+
+CGI SCRIPTS
+Each shared web hosting account comes with its own CGI-BIN. YOU are free to
+use any CGI scripts YOU wish, however we reserve the rights to disable any
+CGI script that effects normal shared server operation without prior
+notice. (this section does not apply to managed dedicated servers)
+
+
+FILE SERVER
+FullSteam Labs installed and provides special file-servers in our network
+infrastructure for YOUR benefit as a means of storage for electronic files
+and applications. In addition, all electronic files stored within FullSteam
+Labs file-servers must be legally owned and be accompanied with a valid
+license and/or copyright. This includes and is not limiting to MP3, AVI,
+MID, MIDI, MPG, MPEG, MOV, EXE, ISO. Should we discover any unlicensed
+and/or illegal files within YOUR account, the files will be subjected to
+deletion without any further notifications. File-servers will not be backed
+up.
+
+
+YOU are advised to have YOUR own backup locally or elsewhere other than
+within the FullSteam Labs servers. If YOU are found to not adhere to this
+Policy, the offending material(s) will be deleted from YOUR hosting account
+without any prior notice. This service is only available for FullSteam Labs
+SHARED-HOSTING customers.
+
+
+BACKGROUND RUNNING PROGRAMS
+We may allow programs to run continually in the background. These are
+considered on a one-to-one basis and an extra charge will be incurred based
+on system resources used and operational maintenance needed. (This section
+does not apply to managed dedicated servers).
+
+
+PAYMENT POLICIES
+All accounts are set up on a pre-pay basis. Setup fees are charged for all
+new accounts as well as major account changes and are non-refundable. All
+pricing is guaranteed for the term of prepayment. FullSteam Labs reserves
+the right to change prices at any time, unless other terms have been agreed
+upon. Any account not brought current within 14 days of e-mail notice or
+exceeding this time frame in any way is subject to suspension. YOU are
+responsible for all fees owed on the account from the time it was
+established to the time that YOU notifies FullSteam Labs to request for
+termination of services. All payment is in U.S. currency.
+
+
+FullSteam Labs will bill each client $50 per returned check and per credit
+card chargeback received. All FullSteam Labs accounts are setup on
+anniversary billing cycles. YOUR particular billing cycle corresponds to
+the contract length that was initially chosen at setup. YOUR account will
+automatically renew at this length. There is no fee to change to a shorter
+billing cycle at the end of the current cycle. However, if you wish to
+change to a shorter billing cycle during a current cycle, there will be a
+$50.00 fee. Please contact the billing department at
+hosting@fullsteamlabs.com should you wish to change your anniversary
+billing cycle.
+
+
+CANCELATION OF SERVICE
+
+
+FullSteam Labs reserves the right to cancel a service at any time. All fees
+paid in advance of cancellation will be pro-rated and paid by FullSteam
+Labs if we institutes our right of cancelation. Any violation of policies
+which results in extra costs billed to YOU (i.e. transfer, space etc.). All
+of FullSteam Labs PLANS are backed by a 30-day money back guarantee. If YOU
+are not completely satisfied with our services or support within the first
+30 days of YOUR contract, YOU will be given a full refund of the contract
+amount excluding setup fees, domain registration fees, add-on/upgrade fees
+and overages. Setup fees are refundable only if the account order is
+canceled prior to account activation. If YOU cancel, the full contract
+amount less any setup fees and overages will be refunded if FullSteam Labs
+is notified within the first 30 days following activation. This policy does
+not apply to any additional services such as overages, referrer logs, real
+audio/video, additional disk space, additional pop accounts, domain
+registration fees, etc. For credit card payment, refunds will be made to
+made available by the Customer after the 120th day. Refund policy will not
+be made available to Customers using wire transfers. All account
+cancelations must be done via our cancelation form at YOUR hosting account
+control panel. Phone or email requests will not constitute acceptance of
+any cancelation.
+
+
+PROMOTIONAL RATES & SPECIAL OFFERS
+
+
+FullSteam Labs may offer subsequent promotional rates or special offers,
+the terms of which may or may not be more favourable than the terms and
+conditions for YOUR Services. Any such promotions or modifications shall
+not affect YOUR obligations under this Agreement. Promotional fees may be
+subject to additional terms and conditions which, to the extent they
+conflict with the terms of this Agreement, shall govern. Different
+promotional fees and special offers may not be combined together.
+
+
+INTELLECTUAL PROPERTY RIGHTS
+
+
+Material accessible to you through FullSteam Labs services may be subject
+to protection under the United States or other copyright laws, or laws
+protecting trademarks, trade secrets and proprietary information. Except
+when expressly permitted by the owner of such rights, YOU must not use
+FullSteam Labs or its servers and network in a manner that would infringe,
+violate, dilute or misappropriate any such rights, with respect to any
+material that you access or receive through the FullSteam Labs network. If
+YOU use a domain name in connection with FullSteam Labs or similar service,
+YOU must not use that domain name in violation of any trademark, service
+mark, or similar rights of any third party. NETWORK SECURITY Customers may
+not use the FullSteam Labs network with an attempt to circumvent user
+authentication or security of any host, network, or account. This includes,
+but is not limited to, accessing data not intended for YOU, logging into a
+server or account YOU are not expressly authorised to access, password
+cracking, probing the security of other networks in search of weakness, or
+violation of any other organisations security policy. YOU may not attempt
+to interfere or deny service to any user, host, or network. This includes,
+but is not limited to, flooding, mail bombing, or other deliberate attempts
+to overload or crash a host or network. FullSteam Labs will cooperate fully
+with investigations for violations of systems or network security at other
+sites, including cooperating with law enforcement authorities in the
+investigation of suspected criminal violations. Users who violate system or
+network security may incur criminal or civil liability.
+
+
+ELECTRONIC COMMERCE
+
+
+YOU will be solely responsible for the development, operation and
+maintenance of YOUR online store and products along with all content and
+materials appearing online or on YOUR products, including without
+limitation:
+
+
+(a.) the accuracy and appropriateness of content and materials appearing
+within the store or related to YOUR products,
+(b.) ensuring that the content and materials appearing within the store or
+related to YOUR products do not violate or infringe upon the rights of any
+third party, and
+(c.) ensuring that the content and materials appearing within the store or
+related to YOUR products are not libellous or otherwise illegal.YOU will be
+solely responsible for the final calculation and application of shipping
+and sales tax. YOU will also be solely responsible for accepting,
+processing, and filling any customer orders, and for handling any customer
+inquiries or complaints arising there from. YOU are also responsible for
+the security of any customer credit card numbers and related customer
+information YOU may access as a result of conducting electronic commerce
+transactions through YOUR website. YOU will keep all such information
+confidential and will use the same degree of care and security as YOU use
+with your confidential information.
+
+
+STATIC & DYNAMIC CONTENT CACHING
+
+
+YOU expressly (i) grant to FullSteam Labs a license to cache the entirety
+of YOUR website, including content supplied by third parties, hosted by
+FullSteam Labs under this Agreement and(ii) agree that such caching is not
+an infringement of any of YOUR intellectual property rights or any third
+partys intellectual property rights.
+
+
+IP ADDRESS OWNERSHIP
+
+
+FullSteam Labs shall maintain and control ownership of all IP numbers and
+addresses that may be assigned to YOU by FullSteam Labs. FullSteam Labs
+reserves, in its sole discretion, the right to change or remove any and all
+such IP numbers and addresses.
+
+
+LAWFUL PURPOSE
+
+
+FullSteam Labs reserves the right to refuse service to anyone. YOU may only
+use FullSteam Labs server for lawful purposes and our services may not be
+used for illegal purposes or in support of illegal activities. We reserve
+the right to cooperate with legal authorities and/or injured third parties
+in the investigation of any suspected crime or civil wrongdoing. If
+anything is not legal in the United States of America, it is not permitted
+to reside on our servers. Transmission, distribution or storage of any
+material in violation of any applicable law or regulation is prohibited.
+This includes but not limiting material protected by copyright, trademark,
+trade secret or other intellectual property right used without proper
+authorisation, and material that is obscene, defamatory, constitutes an
+illegal threat, or violates export control laws. Examples of non-acceptable
+content or links: Pirated Warez, OGG, AVI, MPEG, ISO, Hacker programs or
+archives, Copyrighted Digital Movie Copies (DIVX) and Unlicensed MP3. The
+designation of any materials as such described above is left entirely to
+the discretion of FullSteam Labs management. If illegal content or usage is
+found, the account will be suspended and/or terminated. YOU agree that
+FullSteam Labs may disclose any and all YOUR information including assigned
+IP numbers, account history, account use, etc. to any law enforcement agent
+who makes a written request without further consent or notification.
+
+
+Regardless of the place of signing this agreement, YOU agree that for
+purposes of venue this contract is entered in Asheville, North Carolina,
+and any dispute will be litigated or arbitrated in Asheville, North
+Carolina. Defendants further waive all objections to venue and acknowledge
+that venue in any such litigation will be held in Fremont courts.
+
+
+IN NO EVENT SHALL FULLSTEAM LABS MAXIMUM LIABILITY EXCEED FIVE HUNDRED
+($500.00) DOLLARS.
+
+
+INDEMNIFICATION
+
+
+YOU AGREE THAT IT SHALL DEFEND, INDEMNIFY, SAVE AND HOLD FullSteam Labs
+HARMLESS FROM ANY AND ALL DEMANDS, LIABILITIES, LOSSES, COSTS AND CLAIMS,
+INCLUDING REASONABLE ATTORNEYS FEES ASSERTED AGAINST FullSteam Labs, ITS
+AGENTS, ITS CUSTOMERS, OFFICERS AND EMPLOYEES, THAT MAY ARISE OR RESULT
+FROM ANY SERVICE PROVIDED OR PERFORMED OR AGREED TO BE PERFORMED OR ANY
+PRODUCT SOLD BY YOU, YOUR AGENTS, EMPLOYEES OR ASSIGNS. YOU AGREE TO
+DEFEND, INDEMNIFY AND HOLD HARMLESS FullSteam Labs AGAINST LIABILITIES
+ARISING OUT OF:
+(1) ANY INJURY TO PERSON OR PROPERTY CAUSED BY ANY PRODUCTS SOLD OR
+OTHERWISE DISTRIBUTED IN CONNECTION WITH FullSteam Labs SERVERS.
+(2) ANY MATERIAL SUPPLIED BY THE CUSTOMER INFRINGING OR ALLEGEDLY
+INFRINGING ON THE PROPRIETARY RIGHTS OF A THIRD PARTY
+(3) COPYRIGHT INFRINGEMENT AND
+(4) ANY DEFECTIVE PRODUCTS SOLD TO CUSTOMER FROM FullSteam Labs SERVERS.
+
+
+DISCLAIMER
+
+
+FullSteam Labs WILL NOT BE RESPONSIBLE FOR ANY DAMAGES YOUR BUSINESS MAY
+SUFFER. FullSteam Labs MAKES NO WARRANTIES OF ANY KIND, EXPRESSED OR
+IMPLIED FOR SERVICES WE PROVIDE. FullSteam Labs DISCLAIMS ANY WARRANTY OR
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THIS INCLUDES LOSS OF
+DATA RESULTING FROM DELAYS, NON-DELIVERIES,WRONG DELIVERY, AND ANY AND ALL
+SERVICE INTERRUPTIONS CAUSED BY FullSteam Labs AND ITS EMPLOYEES. FullSteam
+Labs RESERVES THE RIGHT TO REVISE ITS POLICIES AT ANY TIME. ALL SUB-
+NETWORKS, RESELLERS AND DEDICATED SERVERS OF FullSteam Labs MUST ADHERE TO
+THE ABOVE POLICIES.FAILURE TO FOLLOW ANY TERM OR CONDITION WILL BE GROUNDS
+FOR IMMEDIATE ACCOUNT CANCELATION.
+

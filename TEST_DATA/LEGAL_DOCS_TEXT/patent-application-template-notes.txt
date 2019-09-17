@@ -1,0 +1,320 @@
+
+Inventor:       Jane Doe
+
+
+ 
+
+
+Specification
+
+
+ 
+
+
+Title. [Realtime Cloudbased Mobile Web App and Social Rootkit].  
+
+
+ 
+
+
+Cross References to Related Applications. This application claims the
+benefit of Applicants’ prior provisional application, number [00/000,000],
+filed on [January 1, 2012]. 
+
+
+ 
+
+
+Field of Invention. The technology relates to the general field of [social
+media software], and has certain specific application to [haptic
+boilerstrap software-as-aservice].
+
+
+ 
+
+
+Background
+
+
+ 
+
+
+ 
+
+
+Summary
+
+
+The disclosed [THING] does [RESULTS]. It may be used by [EXAMLEs].
+
+
+ 
+
+
+ 
+
+
+Brief Description of the Drawings
+
+
+ 
+
+
+Various embodiments of the invention are disclosed in the following
+detailed description and accompanying drawings.
+
+
+Fig. 1 illustrates a [three-quarter view of the crankshaft wingnut
+assembly].
+
+
+Fig. 2 illustrates an [exploded view of the clockwork linchpin]
+
+
+Fig. 3 illustrates ...
+
+
+ 
+
+
+ 
+
+
+Detailed Description and Preferred Embodiment
+
+
+ 
+
+
+The following is a detailed description of exemplary embodiments to
+illustrate the principles of the invention. The embodiments are provided to
+illustrate aspects of the invention, but the invention is not limited to
+any embodiment. The scope of the invention encompasses numerous
+alternatives, modifications and equivalent; it is limited only by the
+claims.
+
+
+Numerous specific details are set forth in the following description in
+order to provide a thorough understanding of the invention. However, the
+invention may be practiced according to the claims without some or all of
+these specific details. For the purpose of clarity, technical material that
+is known in the technical fields related to the invention has not been
+described in detail so that the invention is not unnecessarily obscured.
+
+
+ 
+
+
+Definitions.
+
+
+ 
+
+
+A. Computer-Readable Medium - is broadly defined to include any kind of
+computer memory, including, hard disks, solid state drives, flash drives,
+CDs and DVDs, and RAM.
+
+
+B. Subliminal Transmogrifier - is a fine gossamer oxidizer for a wrought
+iron piston fuse. 
+
+
+C. Clickable Mousover - is a pixelated peer-to-peer digital breadcrumb for
+mobile apps. 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Figure 1  -  A Mechanical Component.
+
+
+Figure 1 illustrates an overview of a preferred embodiment. It is a three-
+quarter view of the crankshaft wingnut assembly.
+
+
+ 
+
+
+Figure 2  -  A Software Component
+
+
+Figure 2 illustrates a block diagram of a preferred embodiment. Data is
+received from the femtosecond authentication array and concatenated with a
+cascading RESTful API call. Logarithmic read-only sampling of broadband
+metadata is developed in a bloatware feedback sequence.   
+
+
+ 
+
+
+ 
+
+
+Another Component
+
+
+Figure 3 depicts another component....
+
+
+ 
+
+
+Alternate Embodiment
+
+
+Figure 4 depicts an alternate embodiment.
+
+
+ 
+
+
+Conclusion.
+
+
+ 
+
+
+The disclosed embodiments are illustrative, not restrictive. While specific
+configurations of the [technology] have been described, it is understood
+that the present invention can be applied to a wide variety of [technology
+category]. There are many alternative ways of implementing the invention.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Claims
+
+
+
+
+
+ 
+
+
+What is Claimed is:
+
+
+   1. A realtime, cloud-based, mobile web app for social jalbreaking,
+      comprising: 
+        1. a Turing test,
+        2. a vaporware firewall, and 
+        3. a keystroke logging rootkit. 
+
+
+            
+   2. The web app of claim one, wherein, 
+        1. the Turing test receives version tracking data from the rootkit.
+
+
+            
+
+
+Here are some different claim flavors from the claim buffet: 
+
+
+   1. Apparatus Claim.
+        1. "A computer system comprising..."
+   2. Component Apparatus Claims. Claim the innovative component alone, and
+      then claim it as part of a broader system:
+        1. A disk drive comprising X, Y and Z.
+        2. A computer system comprising a disk drive, X, Y and Z.
+            
+   3. Method Claim. Claim the steps in a process.
+        1.
+   4. Product by Process Claim.
+        1. Use if structure of invention is difficult to describe.
+        2. But, this type of claim is only infringed by a product made by a
+           substantially identical process.
+
+
+   5. Computer Readable Medium (Beauregard) claim.
+        1.
+
+
+   6. Means-Plus-Function / Step-Plus-Function Claims.
+
+
+ 
+
+
+ 
+
+
+   1. Strategic Claiming.
+        1. Avoid "Restriction Requirements" from the Patent Examiner. 
+              1. Glue Claim - A glue claim recites every limitation of every
+                 independent claim verbatim.
+              2. Nephew Claims - Each independent claim has a dependent
+                 claim that corresponds to every other independent claim.
+
+
+
+
+
+General Claiming Notes
+
+
+Describe invention:   Language should be inclusive, but not ambiguous.
+Specific and comprehensive. § 112 ¶ 2.
+Claim Novel Tools and Manufacturing as well as End Product.
+Claim intermediate products in the manufacturing process.
+
+
+Language:    Draft some claims using terms that are not in the
+specification.  If the verbatim term (as opposed to the concept) is used in
+the specification, it may be easier for an opponent to later argue that the
+claim scope should be limited to the description in the specification (as
+opposed to the broader underlying inventive concept).
+
+
+Infringement:    Try to claim Direct, Detectable, Undivided, Domestic
+Activity.
+Is the claim directed at a party with deep pocket?
+If multiple deep pocket parties, draft claims targeted at each one.
+Litigators want claim language that identifies specific features and can be
+readily applied to an accused product.
+
+
+Damages:    Aim for System-Level Damages. One of the claims should be
+directed to the entire system.
+
+
+
+
+
+
+
+
+Abstract
+
+
+A system for X is disclosed. The system DOES SOME THINGS. The disclosed
+system PRODUCES SOME RESULTS.
+
+
+ 
+
+
+ 
+
+
+Drawings
+

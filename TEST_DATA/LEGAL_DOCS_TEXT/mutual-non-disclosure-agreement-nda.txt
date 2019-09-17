@@ -1,0 +1,163 @@
+
+This agreement is entered into on [AGREEMENT DATE] (the Agreement Date)
+between the parties that sign this document. The Disclosing Party is the
+party disclosing any Confidential Information. The Recipient is the party
+receiving Confidential Information. This agreement applies when any party
+that signs this document (any Signer) is the Disclosing Party and any of
+the other parties are the Recipient(s).
+
+The Recipient acknowledges that the Confidential Information is proprietary
+to the Disclosing Party, and that the Disclosing Party regards all of its
+Confidential Information as secret. All Signers attest they have witnessed
+and agree to the provisions of this document.
+
+
+A. Definition of Confidential Information.
+
+
+   1. For purposes of this Agreement, Confidential Information means any
+      data or information, in any form, that is proprietary to the
+      Disclosing Party and not generally known to the public and is received
+      by Recipient before [INTERACTION PERIOD [A NUMBER OF YEARS AFTER THE
+      AGREEMENT DATE OR A CONDITIONAL DATE]]. Confidential Information need
+      not be novel, patentable, copyrightable, nor constitute a trade
+      secret. This includes, but is not limited to:
+        1. any marketing strategies, plans, financial information,
+           projections, operations, sales estimates or performance results
+           relating to any business activities of the Disclosing Party or
+           its affiliates,
+        2. plans for products or services, and customer or supplier lists,
+        3. any mathematical, scientific or technical information,
+        4. any idea, design, process, improvement, report, know-how, work-
+           in-progress, specification, software, source code, software
+           resource or database.
+   2. Confidential Information shall not include information which:
+        1. has or becomes rightfully known to the Recipient from a third-
+           party source that, after diligent inquiry by the Recipient, is
+           not known to be under an obligation to Disclosing Party to
+           maintain confidentiality,
+        2. has or becomes independently developed by associates of the
+           Recipient without reference or access to any Confidential
+           Information, or
+        3. is required to be disclosed by law or regulation.
+
+
+B. Disclosure of Confidential Information.
+
+
+The Recipient will:
+
+
+   1. Limit disclosure of any Confidential Information to
+        1. its representatives or associates (collectively the
+           Representatives) who have a need to know such Confidential
+           Information in connection with the current or potential business
+           relationship between the parties to which this agreement
+           relates, and only for that purpose, and
+        2. those persons to which a legal governmental order (including
+           subpoenas) requires to be disclosed, provided that (to the
+           extent legal and practicable) the Recipient promptly notifies
+           the Disclosing Party in writing of such demand for disclosure so
+           that the Disclosing Party has time to seek to contest the order,
+           make an other appropriate remedy to preserve the confidentiality
+           of the Confidential Information, or disclose the Confidential
+           Information in a manner acceptable to the Disclosing Party. The
+           Recipient agrees that it shall reasonably cooperate with efforts
+           by the Disclosing Party to maximize the confidentiality of the
+           information both required or not required by the order
+           (including by contesting the governmental order).
+   2. Advise its Representatives of the proprietary nature of the
+      Confidential Information and of the obligations set forth in this
+      Agreement and require such Representatives to keep the Confidential
+      Information confidential.
+   3. Shall keep all Confidential Information strictly confidential using a
+      reasonable degree of care not less than the degree of care used by it
+      in safeguarding its own Confidential Information. Each party shall be
+      responsible for any breach of this Agreement by any of their
+      respective Representatives.
+
+
+D. Return of Confidential Information.
+
+
+Recipient shall, immediately upon any of the following events, return all
+tangible materials embodying the Confidential Information, and either
+return or destroy all information or materials based on or deriving
+thereof:
+
+
+   1. the completion or termination of the dealings between the parties,
+   2. the termination of this Agreement,
+   3. at such time as the Disclosing Party may so request,
+
+
+provided however that the Recipient may retain such of its documents as is
+necessary to enable it to comply with its document retention policies. Any
+digital data must be reasonably nonrecoverable to be considered
+"destroyed".
+
+
+E. Notice of Breach.
+
+
+Recipient shall notify the Disclosing Party immediately upon discovery of
+any breach of this Agreement by Recipient or its Representatives, and will
+cooperate with efforts by the Disclosing Party to regain possession of
+Confidential Information and prevent its further unauthorized use.
+
+
+F. Remedies.
+
+
+Both parties acknowledge that the unauthorized dissemination of the
+Confidential Information would diminish the value of such information in a
+way that may be impossible to calculate. Therefore, both parties hereby
+agree that the Disclosing Party shall be entitled to injunctive relief,
+litigation, and/or similar relief in the case that the agreement is
+breached, and that the prevailing party is entitled to recover its costs
+and fees, including reasonable attorneys’ fees, incurred in obtaining any
+such remedies.
+
+
+G. Warranties
+
+
+   1. Each party warrants that it has the right to make all promises made by
+      signing this Agreement.
+   2. No warranty as to the accuracy or completeness of the Confidential
+      Information is being made by either party.
+   3. The Disclosing Party shall not have any liability to the Recipient or
+      the Recipient's Representatives resulting from any use of the
+      Confidential Information.
+
+
+H. Restrictions
+
+
+   1. This Agreement can only be modified or by a written amendment signed
+      by both parties.
+   2. Title to the Confidential Information will remain solely in the
+      Disclosing Party.
+   3. All use of Confidential Information by the Recipient shall be for the
+      benefit of the Disclosing Party and any modifications and improvements
+      thereof by the Recipient shall be the sole property of the Disclosing
+      Party.
+   4. This Agreement shall be governed in accordance with the laws of
+      [JURISDICTION] (the State) and any legal action take place in courts
+      within the State.
+
+
+I. Miscellaneous
+
+
+   1. This agreement supersedes all prior unsigned agreements concerning the
+      subject matter herein.
+   2. Any failure by either party to enforce any provision of this Agreement
+      will not constitute a waiver of its right to subsequently enforce any
+      provision of this agreement.
+   3. If any provision in this agreement is found by a court of competent
+      jurisdiction to be unenforceable, such provision will be modified to
+      include as much of its nature and scope as will render it enforceable.
+   4. Nothing contained herein is intended to contradict Federal Rule of
+      Evidence 408.
+

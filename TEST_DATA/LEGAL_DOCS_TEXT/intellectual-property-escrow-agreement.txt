@@ -1,0 +1,746 @@
+
+                   INTELLECTUAL PROPERTY ESCROW AGREEMENT
+
+
+THIS AGREEMENT (“Agreement”)  is  effective  _______________  ,  2013  among
+_______________    (“Custodian”),    _______________    (“Depositor”)    and
+_______________ (“Company”), who collectively may be  referred  to  in  this
+Agreement as the parties (“Parties”).
+
+
+A. Depositor  and  Company  have  entered  or  will  enter  into  a  license
+agreement, development agreement, and/or other agreement  regarding  certain
+proprietary technology of Depositor (referred to in this Agreement  as  “the
+License Agreement”).
+
+
+B. Depositor desires to  avoid  disclosure  of  its  proprietary  technology
+except under certain limited circumstances.
+
+
+C. The availability of the proprietary technology of Depositor  is  critical
+to Company in the conduct of its  business  and,  therefore,  Company  needs
+access to the proprietary technology under certain limited circumstances.
+
+
+D. Depositor and Company desire to establish an  escrow  with  Custodian  to
+provide for the retention,  administration  and  controlled  access  of  the
+proprietary technology materials of Depositor.
+
+
+                            ARTICLE 1 -- DEPOSITS
+
+
+           1.1 Obligation  to  Make  Deposit.  Upon  the  signing  of  this
+Agreement  by  the  parties,  Depositor  shall  deliver  to  Custodian   the
+proprietary technology and other materials  (“Deposit  Materials”)  required
+to be deposited by the License Agreement or, if the License  Agreement  does
+not identify the  materials  to  be  deposited  with  Custodian,  then  such
+materials will be identified on Exhibit A. If Exhibit A  is  applicable,  it
+is to be prepared and signed by Depositor andCompany. Custodian  shall  have
+no obligation to either party with respect  to  the  preparation,  accuracy,
+execution or delivery of Exhibit A.
+
+
+           1.2 Identification of Tangible Media. Prior to the  delivery  of
+the Deposit Materials to Custodian, Depositor shall conspicuously label  for
+identification each document, magnetic tape, disk, or other  tangible  media
+upon which the  Deposit  Materials  are  written  or  stored.  Additionally,
+Depositor shall complete a copy of Exhibit B to this  Agreement  by  listing
+each such tangible media by the item label description, the  type  of  media
+and the quantity. Each Exhibit B shall be signed by Depositor and  delivered
+to Custodian with the Deposit Materials. Unless and  until  Depositor  makes
+the initial deposit with Custodian, Custodian shall have no obligation  with
+respect to this Agreement, except  the  obligation  to  notify  the  parties
+regarding the status of the account as required in Section 2.2 below.
+
+
+           1.3 Acceptance of Deposit.  Custodian  will  conduct  a  deposit
+inspection upon receipt of any Deposit Material and associated Exhibit B  by
+visually matching the labeling of the tangible media containing the  Deposit
+Materials to the  item  descriptions  and  quantity  listed  on  Exhibit  B.
+Depositor shall provide notice by electronic  mail,  telephone,  or  regular
+mail to the Depositor and  Beneficiary  of  all  Deposit  Material  that  is
+accepted and deposited into the escrow  account  under  this  Agreement.  If
+Custodian  determines  that  the  Deposit  Material  does  not   match   the
+description provided by Depositor represented in Exhibit B attached  hereto,
+Custodian will provide Depositorwith notice by electronic  mail,  telephone,
+or regular mail of such discrepancies. Custodian  will  work  directly  with
+the Depositor to resolve any such discrepancies prior to  accepting  Deposit
+Material. Other  than  Custodian's  inspection  of  the  Deposit  Materials,
+Custodian  shall  have  no  obligation  to   the   accuracy,   completeness,
+functionality, performance or non-performance of the Deposit Materials.
+
+
+           1.4  Depositor's  Representations.   Depositor   represents   as
+follows:
+
+
+           a. Depositor lawfully possesses all  of  the  Deposit  Materials
+deposited with Custodian;
+
+
+           b. With respect to all of the Deposit Materials,  Depositor  has
+the right and authority to grant to Custodian  and  Company  the  rights  as
+provided in this Agreement;
+
+
+           c. As of the effective  date  of  this  Agreement,  the  Deposit
+Materials are not the subject of a lien or encumbrance, however,  any  liens
+or encumbrances  made  after  the  execution  of  this  Agreement  will  not
+prohibit, limit, or alter the rights  and  obligations  of  Custodian  under
+this Agreement;
+
+
+           d. The Deposit Materials consist of the  proprietary  technology
+and other materials identified either in the License  Agreement  or  Exhibit
+A, as the case may be; and
+
+
+           e. The  Deposit  Materials  are  readable  and  useable  in  the
+appropriate technical environment their current form or, if any  portion  of
+the Deposit Materials is encrypted,  the  decryption  tools  and  decryption
+keys have also been deposited.
+
+
+           f. The Deposit Materials include the source  code  corresponding
+to the computer software licensed by Depositor to Company under the  License
+Agreement, except for third-party software that Depositor has  no  right  to
+provide to Custodian or to Company in source code form. Either  the  License
+Agreement  or  Exhibit  A  properly  identifies  all  third-party   software
+embedded in or associated with the computer software licensed  by  Depositor
+to Company under the License Agreement that is not included in  the  Deposit
+Materials.  The  Deposit  Materials  include  any  pertinent  commentary  or
+explanation that may be necessary to render the source  code  understandable
+and useable by  a  trained  computer-programming  expert  who  is  generally
+familiar with ________  systems  and  ________  program  code.  The  Deposit
+Materials  include  system  documentation,  statements  of   principles   of
+operation and schematics, all as  necessary  or  useful  for  the  effective
+understanding and use of  the  source  code.  Insofar  as  the  “development
+environment” employed by Depositor for  the  development,  maintenance,  and
+implementation of the Source  Code  includes  any  device,  programming,  or
+documentation not commercially available  to  Company  on  reasonable  terms
+through readily known sources other than Depositor,  the  Deposit  Materials
+shall  include  all  such  devices,  programming,  or   documentation.   The
+foregoing reference to such “development environment” is intended  to  apply
+to any programs, including  compilers,  “workbenches,”  tools,  and  higher-
+level (or “proprietary”) languages, used by Depositor for  the  development,
+maintenance and implementation of the Source Code.
+
+
+           1.5 Deposit Updates. Unless otherwise provided  by  the  License
+Agreement, Depositor shall update the Deposit Materials  within  sixty  (60)
+days of each release of a new version, release,  addition,  modification  or
+update of the licensed software, which is subject to the License  Agreement;
+provided that Depositor shall not be required to  make  updates  more  often
+than once every six (6) months, nor less  frequently  than  once  per  year.
+Such updates will be added to the  existing  deposit.  All  deposit  updates
+shall be listed on a new Exhibit B and Depositor shall sign the new  Exhibit
+B. Each Exhibit B will be held and maintained separately within  the  escrow
+account. An independent record will  be  created  which  will  document  the
+activity for each Exhibit B. The processing of all deposit updates shall  be
+in accordance with Sections 1.2  and  1.3  above.  All  references  in  this
+Agreement to  the  Deposit  Materials  shall  include  the  initial  Deposit
+Materials and any updates.
+
+
+           1.6 Removal of Deposit Materials. The Deposit Materials  may  be
+removed and/or exchanged only on written instructions  signed  by  Depositor
+andCompany, or as otherwise provided in this Agreement.
+
+
+           1.7 Verification.Company shall  have  the  right,  at  Company's
+expense, to cause a verification of any Deposit Materials  once  within  the
+first 90 days after execution of this Agreement by Company,  and  thereafter
+once in any 12-month period. Company shall notify  Depositor  and  Custodian
+of Company's request for verification. Depositor shall have the right to  be
+present at the verification. A verification determines, in different  levels
+of detail, the  accuracy,  completeness,  sufficiency  and  quality  of  the
+Deposit Materials as well as to confirm that it compiles  to  the  pertinent
+object code of the licensed software. If a  verification  is  elected  after
+the Deposit Materials have been delivered to Custodian, then  Custodian,  or
+at Company's election, an independent person or company selected by  Company
+who is reasonably acceptable to Depositor  will  perform  the  verification.
+The Company  shall  be  responsible  for  all  costs  of  the  verification,
+including, without limitation, DSI's fees associated with the  verification,
+the costs incurred by Depositor relating to  such  verification  (including,
+without limitation, travel  and  living  expenses  for  Depositor  personnel
+required to assist with the verification and fees for the services  of  such
+personnel, at Depositor's standard daily rates, as applicable).
+
+
+               ARTICLE 2 -- CONFIDENTIALITY AND RECORD KEEPING
+
+
+           2.1 Confidentiality. Custodian  shall  have  the  obligation  to
+reasonably  protect  the  confidentiality  of  the  Deposit   Materials   by
+maintaining the Deposit Materials in a secure, environmentally safe,  locked
+facility which is accessible only  to  authorized  representatives  of  DSI.
+Except as provided in this Agreement or  any  subsequent  agreement  between
+the Parties, Custodian shall not disclose, transfer, make available  to  any
+party, or use the Deposit Materials. Custodian shall not disclose the  terms
+of this Agreement to any third party. If Custodian receives  a  subpoena  or
+any other order from a court or other judicial tribunal  pertaining  to  the
+disclosure or release of the Deposit Materials, Custodian  will  immediately
+notify the parties to this Agreement ofsame in  writing,  unless  prohibited
+by law. It shall be  the  responsibility  of  Depositor  and/or  Company  to
+challenge any such order; provided, however, that Custodian does  not  waive
+its rights  to  present  its  position  with  respect  to  any  such  order.
+Custodian will not be required to disobey any order from a  court  or  other
+judicial  tribunal,  including,  but  not  limited  to,  notices   delivered
+pursuant to Section 7.6 below. Custodian will not  be  required  to  disobey
+any order from a court or other judicial tribunal.
+
+
+           2.2  Status  Reports.  Custodian  shall  provide  to   Depositor
+andCompany access to the Custodian's real-time, on-line portal to view  data
+and documentation relative to this Agreement. Upon request,  Custodian  will
+provide ad hoc status reports to Depositor and Company.
+
+
+           2.3 Audit Rights. During the term of this  Agreement,  Depositor
+andCompany shall each have the right  to  inspect  the  written  records  of
+Custodian pertaining to this Agreement.  Any  such  inspection  shall  occur
+during normal business hours and following reasonable prior notice.
+
+
+                      ARTICLE 3 -- RIGHT TO MAKE COPIES
+
+
+      Custodian may make copies of the Deposit  Materials  as  necessary  to
+meet its obligations under this Agreement, while retaining a copy  to  carry
+out its obligations for other  licensees  who  may  benefit  from  the  same
+arrangement. Custodian shall include  in  any  copies  all  copyright,  non-
+disclosure and  other  proprietary  notices  and  titles  contained  on  the
+Deposit Materials.  With  all  Deposit  Materials  submitted  to  Custodian,
+Depositor shall provide any and all instructions  as  may  be  necessary  to
+duplicate   the   Deposit   Materials,   including,   without    limitation,
+instructions as to necessary hardware or software. In  all  other  respects,
+Custodian shall not make copies of the Deposit Materials except  to  fulfill
+an order of a court of competent jurisdiction (see Section 2.1).
+
+
+      If for any reason Custodian  should  make  any  copy  of  the  Deposit
+Materials, Custodian shall promptly give  written  notice  to  Depositor  of
+such action and shall explain the reason for such copying in the notice.
+
+
+                       ARTICLE 4 -- RELEASE OF DEPOSIT
+
+
+           4.1 Release Conditions. As  used  in  this  Agreement,  “Release
+Condition”  shall  mean  the  occurrence  and  continuance  of  any  of  the
+following:
+
+
+           a. Entry of an order for relief regarding Depositor under  Title
+11 (bankruptcy) of the United States Code, the  making  by  Depositor  of  a
+general assignment for the benefit of its creditors, the  appointment  of  a
+general receiver  or  trustee  in  bankruptcy  of  Depositor's  business  or
+property, or the commencement of similar proceedings under  the  bankruptcy,
+insolvency, liquidation or reorganization laws of any  state  or  any  other
+country or province (except that were entry of an order,  appointment  of  a
+receiver  or  trustee  in  bankruptcy,  or  commencement  of  bankruptcy  or
+insolvency proceedings is effected on an involuntary basis,  then  Depositor
+shall have 60 days to have such case or proceeding dismissed);
+
+
+           b. Depositor's  failure  to  continue  to  do  business  in  the
+ordinary course;
+
+
+           c. Any decision by Depositor to withdraw maintenance services in
+support of the Depositor software licensed by  Depositor  to  Company  under
+the License Agreement but such withdrawal is not accompanies by an offer  to
+customers of  a  migration  path  to  another  technology  or  an  offer  of
+professional services on a time-and-materials or  other  basis  to  continue
+support of the Depositor's software;
+
+
+           d. The occurrence of a material breach (or a series  of  related
+breaches  that  collectively  are  material)   under   the   implementation,
+maintenance  and   support   terms   of   the   License   Agreement,   which
+Depositorfails to cure within thirty (30) days (or  such  longer  period  of
+time as may be reasonable under the circumstances) after written  notice  of
+such breach.
+
+
+           4.2 Filing For Release. IfCompany believes in good faith that  a
+Release Condition has occurred and  is  continuing,  then  Company,  at  any
+time, may provide to Custodian written  notice  of  the  occurrence  of  the
+Release Condition and a request for the release of  the  Deposit  Materials.
+Within five (5) business days of receipt  of  a  written  notice,  Custodian
+shall provide a copy of the notice to  Depositor.  Custodian  will  promptly
+notify   the   Parties   unless   Custodian   acknowledges   or    discovers
+independently,  or  through   the   Parties,   its   need   for   additional
+documentation or information in order to  comply  with  this  Section.  Such
+need for additional documentation or information may extend the time  period
+for Custodian's performance under this section.
+
+
+           4.3 Contrary Instructions. From the  date  Custodian  mails  the
+notice  by  overnight  express  mail  requesting  release  of  the   Deposit
+Materials, Depositor shall  have  ten  (10)  business  days  to  deliver  to
+Custodian  contrary   instructions   (“Contrary   Instructions”).   Contrary
+Instructions shall mean the  written  representation  by  Depositor  that  a
+Release Condition has not occurred  or  has  been  cured.  Upon  receipt  of
+Contrary Instructions, Custodian shall send a copy of Contrary  Instructions
+toCompany by overnight  commercial  express  mail.  Additionally,  Custodian
+shall notify both Depositor and Company  that  there  is  a  dispute  to  be
+resolved pursuant to Section 7.4 of this Agreement. Subject to  Section  5.2
+and 4.1(e) of this Agreement, Custodian will continue to store  the  Deposit
+Materials without release pending (a) joint instructions from Depositor  and
+Company; or (b) dispute resolution pursuant to Section 7.4; or (c) an  order
+from a court of competent jurisdiction.
+
+
+           4.4 Release of Deposit. If Custodian does not  receive  Contrary
+Instructions from the Depositor, or if the Preferred  Beneficiaries  request
+to release is based on  4.1(e),  Custodian  is  authorized  to  release  the
+Deposit Materials to theCompany. However, Custodian is entitled  to  receive
+any fees due Custodian  before  making  the  release.  This  Agreement  will
+terminate upon the release of the Deposit Materials held by Custodian.
+
+
+           4.5 Right to Use Following Release. Unless otherwise provided in
+the License Agreement, upon release of the Deposit Materials  in  accordance
+with this Article  4,Company  shall  have  the  right  to  use  the  Deposit
+Materials for the sole  purpose  of  continuing  the  benefits  afforded  to
+Company by the License Agreement. Company shall  be  obligated  to  maintain
+the confidentiality of the released Deposit Materials.
+
+
+                      ARTICLE 5 -- TERM AND TERMINATION
+
+
+           5.1 Term of Agreement. The initial term of this Agreement is for
+a period of one year. Thereafter, this Agreement shall  automatically  renew
+from  year-to-year  unless  (a)  Depositor   andCompany   jointly   instruct
+Custodian in  writing  that  the  Agreement  is  terminated;  (b)  Custodian
+instructs Depositor and Company  in  writing  ninety  (90)  days  after  its
+renewal date, that the Agreement is terminated for nonpayment in  accordance
+with Section 5.2; or (c) Custodian reserves  the  right  to  terminate  this
+Agreement,  for  any  reason,  other  than  for  nonpayment,  by   providing
+Depositor and Company sixty (60)  days  written  notice  of  its  intent  to
+terminate this Agreement. If the Deposit Materials are  subject  to  another
+escrow agreement with Custodian, Custodian reserves  the  right,  after  the
+initial one year term, to adjust the anniversary date of this  Agreement  to
+match  the  then  prevailing  anniversary  date   of   such   other   escrow
+arrangements.
+
+
+           5.2 Termination for Nonpayment. In the event of  the  nonpayment
+of fees owed  to  Custodian,  Custodian  shall  provide  written  notice  of
+delinquency to all parties to this Agreement. Any party  to  this  Agreement
+shall have the right to make the payment to Custodian to cure  the  default.
+If the past due payment is not received in full by Custodian within one  (1)
+month of the date of such notice, then Custodian shall  have  the  right  to
+terminate this Agreement at any time thereafter by  sending  written  notice
+of termination to all parties. Custodian shall have no  obligation  to  take
+any action under this Agreement so long as  any  payment  due  to  Custodian
+remains unpaid.
+
+
+           5.3 Disposition of Deposit Materials Upon  Termination.  Subject
+to the foregoing  termination  provisions,  and  upon  termination  of  this
+Agreement, Custodian  shall  destroy,  return  to  Depositor,  or  otherwise
+deliver the Deposit Materials in accordance with  Depositor's  instructions.
+If there are  no  instructions,  Custodian  may,  at  its  sole  discretion,
+destroy the Deposit Materials or return them to Depositor.  Custodian  shall
+have no obligation to  destroy  or  return  the  Deposit  Materials  if  the
+Deposit Materials are subject to another escrow agreement with Custodian  or
+have been totally released to theCompany in accordance with Section 4.4.
+
+
+           5.4 Survival of Terms Following Termination. Upon termination of
+this Agreement, the following provisions of this Agreement shall survive:
+
+
+           a. Depositor's Representations (Section 1.4);
+
+
+           b. The  obligations  of  confidentiality  with  respect  to  the
+Deposit Materials;
+
+
+           c. The obligation to pay Custodian any fees and expenses due;
+
+
+           d. The provisions of Article 7;
+
+
+           e. Section 4.5 to the extent applicable; and
+
+
+           f. Any provisions in this Agreement,  which  specifically  state
+they survive the termination of this Agreement.
+
+
+                        ARTICLE 6 -- CUSTODIAN'S FEES
+
+
+           6.1 Fee Schedule. Custodian is entitled to be  paid  its  agreed
+fees and expenses applicable  to  the  services  provided.  Custodian  shall
+notify the party responsible for payment of Custodian's fees  at  leastsixty
+(60) days prior to any increase in fees.  For  any  service  not  listed  on
+Custodian's standard fee schedule, Custodian will provide a quote  prior  to
+rendering the service, if requested.
+
+
+           6.2 Payment Terms. Custodian shall not be  required  to  perform
+any service, including release of any Deposit  Materials  under  Article  4,
+unless the payment for such service and any  outstanding  balances  owed  to
+Custodian are paid in full. Fees are due upon receipt of a  signed  contract
+or receipt of the Deposit Materials whichever is earliest. If invoiced  fees
+are not paid, Custodian may terminate  this  Agreement  in  accordance  with
+Section 5.2.
+
+
+                     ARTICLE 7 -- LIABILITY AND DISPUTES
+
+
+           7.1 Right to Rely on Instructions. Custodian may act in reliance
+upon any  instruction,  instrument,  or  signature  reasonably  believed  by
+Custodian to be genuine. Custodian may assume that any employee of  a  party
+to this Agreement who gives any written notice, request, or instruction  has
+the authority to do so. Custodian will not be required to inquire  into  the
+truth or evaluate the merit of any statement or representation contained  in
+any notice or document. Custodian shall not be responsible  for  failure  to
+act as a result of causes beyond the reasonable control of Custodian.
+
+
+           7.2  Indemnification.  Depositor  andCompany   each   agree   to
+indemnify, defend and hold harmless  Custodian  from  any  and  all  claims,
+actions,  damages,  arbitration  fees  and   expenses,   costs,   reasonable
+attorney's fees and other liabilities (“Liabilities”) incurred by  Custodian
+directly  resulting  from  this  escrow  arrangement,  except  where  it  is
+adjudged that Custodian acted with gross negligence or willful misconduct.
+
+
+           7.3 Limitation of Liability and Waiver of Consequential Damages.
+(a) Notwithstanding anything else herein, all  liability,  if  any,  whether
+arising in contract, tort (including negligence) or otherwise, of  Custodian
+under this Agreement shall be limited to the amount equal to ten  times  the
+then annual fees owed or paid to Custodian under this  Agreement.  If  claim
+or loss is made  in  relation  to  a  specific  deposit  or  deposits,  such
+liability shall  be  limited  to  the  fees  related  specifically  to  such
+deposits. This limit shall not apply for: (I) any claims of infringement  of
+any patent, copyright, trademark or other proprietary right; (II)  liability
+for death or bodily injury; (III) damage  to  tangible  property  (excluding
+the Deposit Material);  (IV)  theft;  or  (V)  proven  gross  negligence  or
+willful misconduct.
+
+
+           (b) In no event will Custodian be  liable  for  any  incidental,
+indirect, special, exemplary, punitive or consequential damages,  including,
+but not limited  to,  damages  (including  loss  of  data,  revenue,  and/or
+profits) costs or expenses (including  legal  fees  and  expenses),  whether
+arising in contract, tort (including negligence) or otherwise  even  if  the
+possibility thereof may be known in advance  to  one  or  more  parties  and
+whether  foreseeable  or  unforeseeable,  that  may  arise  out  of  or   in
+connection with this Agreement.
+
+
+           7.4 Dispute Resolution. Any dispute relating to or arising  from
+this Agreement shall be submitted to,  and  settled  by  arbitration  by,  a
+single  arbitrator  chosen  by  the  American  Arbitration  Association   in
+accordance  with  the  Commercial  Rules   of   the   American   Arbitration
+Association. The arbitrator shall apply the lawof the  State  of  New  York.
+Any court having jurisdiction over the matter  may  enter  judgment  on  the
+award of the arbitrator. Service of a petition to  confirm  the  arbitration
+award may be made by registered mail or by commercial express mail,  to  the
+attorney for the party or, if unrepresented, to the party at the last  known
+business address. If, however, Depositor and/orCompany refuses to submit  to
+arbitration, the matter shall not be submitted to arbitration and  Custodian
+may submit the  matter  to  any  court  of  competent  jurisdiction  for  an
+interpleader or similar action. Any costs incurred by  Custodian,  including
+reasonable attorney's fees and costs, shall be divided equally and  paid  by
+Depositor and Company.
+
+
+           7.5 Controlling Law.  This  Agreement  is  to  be  governed  and
+construed in accordance with the laws of  the  State  of  New  York  without
+regard to its conflict of law provisions.
+
+
+           7.6 Notice of Requested Order. If any party intends to obtain an
+order from the arbitrator or any court of competent jurisdiction, which  may
+direct Custodian to take, or refrain from  taking  any  action,  that  party
+shall:
+
+
+           a. Give notice to Custodian at  least  five  (5)  business  days
+prior to the hearing; and
+
+
+           b. Include  in  any  such  order  that,  as  a  precondition  to
+Custodian's obligation, Custodian be paid in full for any past due fees  and
+be paid for the reasonable value of the services to be rendered pursuant  to
+such order.
+
+
+                       ARTICLE 8 -- GENERAL PROVISIONS
+
+
+           8.1 Entire Agreement. This Agreement,  which  includes  Exhibits
+described herein, embodies the entire understanding among the  parties  with
+respect to its subject matter and supersedes  all  previous  communications,
+representations or understandings, either oral or written. Custodian is  not
+a party to the License Agreementbetween Depositor and  Company  and  has  no
+knowledge of any of the terms or provisions of any such  License  Agreement.
+Custodian's only obligations to Depositor or Company are  as  set  forth  in
+this Agreement. No amendment or modification  of  this  Agreement  shall  be
+valid or binding unless signed  by  all  the  parties  hereto,  except  that
+Exhibit A need not be signed by Custodian, Exhibit B need not be  signed  by
+Company and Exhibit C need not be signed.
+
+
+           8.2 Notices. All notices, invoices, payments, deposits and other
+documents and communications shall be given to the parties at the  addresses
+specified in the attached Exhibit C. It shall be the responsibility  of  the
+parties to notify each other as provided in this Section in the event  of  a
+change of address. The parties shall have the right  to  rely  on  the  last
+known address of the other parties. Any correctly addressed notice  or  last
+known address of the  other  parties  that  is  relied  on  herein  that  is
+refused, unclaimed, or undeliverable because of an act or  omission  of  the
+party to be notified as provided herein shall be deemed effective as of  the
+first date that said notice was refused, unclaimed, or deemed  undeliverable
+by the postal authorities  by  registered  mail,  or  through  messenger  or
+commercial express delivery services.  Unless  otherwise  provided  in  this
+Agreement, all non-critical documents (such as  invoices)  and  non-critical
+communications may be delivered by First Class mail.
+
+
+           8.3 Severability. In the event any provision of  this  Agreement
+is found to be invalid, voidable or unenforceable, the  parties  agree  that
+unless  it  materially  affects  the  entire  intent  and  purpose  of  this
+Agreement, such  invalidity,voidability  or  unenforceability  shall  affect
+neither the validity of this Agreement nor the remaining provisions  herein,
+and the provision in question shall be deemed to be replaced  with  a  valid
+and enforceable provision most closely reflecting the intent and purpose  of
+the original provision.
+
+
+           8.4 Successors and Assigns. This Agreement shall be binding upon
+and shall inure to  the  benefit  of  the  successors  and  assigns  of  the
+parties. However, Custodian shall have  no  obligation  in  performing  this
+Agreement to recognize  any  successor  or  assign  of  Depositor  orCompany
+unless  Custodian  receives  clear,  authoritative  and  conclusive  written
+evidence of the change of parties.
+
+
+           8.5 Waiver.Any term of this Agreement may be waived by the party
+entitled to the benefits thereof, provided that any such waiver must  be  in
+writing and signed by the party against whom the enforcement of  the  waiver
+is sought. No waiver of any condition, or breach of any  provision  of  this
+Agreement, in any one or more instances, shall be deemed to be a further  or
+continuing waiver of such condition or breach. Delay or failure to  exercise
+any right or remedy shall not be deemed the waiver of that right or remedy.
+
+
+           8.6 Regulations. Depositor andCompany are  responsible  for  and
+warrant  compliance  with  all  applicable  laws,  rules  and   regulations,
+including but not limited to customs  laws,  import,  export,  and  reexport
+laws and government regulations of any country from or to which the  Deposit
+Materials may be  delivered  in  accordance  with  the  provisions  of  this
+Agreement.
+
+
+           8.7 Attorney's Fees. Each party shall be responsible for its own
+attorney fees to enforce this agreement.
+
+
+           8.8 No Third Party Rights. This Agreement is made solely for the
+benefit of the Parties to this  Agreement  and  their  respective  permitted
+successors and assigns, and no other person or entity shall have or  acquire
+any right by virtue of this Agreement unless otherwise agreed to by all  the
+parties hereto.
+
+
+           8.9 Authority to Sign. Each of the Parties herein represents and
+warrants that the execution, delivery, and  performance  of  this  Agreement
+has been duly authorized and signed by  a  person  who  meets  statutory  or
+other binding approval to sign on behalf of  its  business  organization  as
+named in this Agreement.
+
+
+           8.10 Counterparts. This Agreement may be executed in any  number
+of counterparts, each of which shall  be  an  original,  but  all  of  which
+together shall constitute one instrument.
+
+
+                          [Signature Page Follows]
+
+|__________________________________|________________________________|
+|____                              |____                            |
+|Depositor                         |Company                         |
+|                                  |                                |
+|By:                               |By:                             |
+|__________________________________|                                |
+|____                              |                                |
+|                                  |                                |
+|Name:                             |Name:                           |
+|__________________________________|________________________________|
+|____                              |____                            |
+|                                  |                                |
+|Title:                            |Title:                          |
+|__________________________________|________________________________|
+|____                              |____                            |
+|                                  |                                |
+|Date:                             |Date:                           |
+|__________________________________|________________________________|
+|____                              |____                            |
+|                                  |                                |
+
+
+                                  Custodian
+
+
+                     By: ______________________________
+
+
+                    Name: ______________________________
+
+
+                    Title: ______________________________
+
+
+                    Date: ______________________________
+
+
+                                  EXHIBIT A
+
+
+                          MATERIALS TO BE DEPOSITED
+
+
+      Depositor represents to Company that Deposit Materials delivered to
+Custodian shall consist of the following:
+
+|__________________________________|________________________________|
+|____                              |___                             |
+|Depositor--                       |Company--                       |
+|                                  |                                |
+|By:                               |By:                             |
+|__________________________________|________________________________|
+|____                              |___                             |
+|                                  |                                |
+|Name:                             |Name:                           |
+|__________________________________|________________________________|
+|____                              |___                             |
+|                                  |                                |
+|Title:                            |Title:                          |
+|__________________________________|________________________________|
+|____                              |___                             |
+|                                  |                                |
+|Date:                             |Date:                           |
+|__________________________________|________________________________|
+|____                              |___                             |
+|                                  |                                |
+|                                  |                                |
+
+
+                                  EXHIBIT B
+
+
+                      DESCRIPTION OF DEPOSIT MATERIALS
+
+
+      Depositor Company Name
+_________________________________________________
+
+
+      Account Number
+_________________________________________________________
+
+
+      Product Name
+___________________________________________________________
+
+
+      (Product Name will appear as the Exhibit B Name on Account History
+report)
+
+
+      DEPOSIT MATERIAL DESCRIPTION:
+
+|Quantit|Media Type &  |Label Description of Each     |
+|y      |Size          |Separate Item                 |
+|_______|_____         |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+|       |              |                              |
+|_______|              |                              |
+|_      |              |                              |
+
+
+      PRODUCT DESCRIPTION:
+
+
+      Environment
+____________________________________________________________
+
+
+      DEPOSIT MATERIAL INFORMATION:
+
+
+      Is the media or are any of the files encrypted? If yes, please include
+any passwords and the decryption tools.
+
+
+      Encryption tool name_______________ Version
+____________________________
+
+
+      Hardware
+required_______________________________________________________
+
+
+      Software
+required_______________________________________________________
+
+
+      Other required
+information______________________________________________
+
+|I certify for Depositor that the above         |                  |
+|described Custodian has accepted the above.    |                  |
+|Deposit Materials have been transmitted to     |                  |
+|Custodian: _______________                     |                  |
+|Materials                                      |(any exceptions   |
+|                                               |are noted above): |
+
+|Signa|____________________|Signature              |________________|
+|ture |__________          |                       |________        |
+|Print|____________________|Print Name             |________________|
+|Name |__________          |                       |________        |
+|Date |____________________|Date Accepted          |                |
+|     |__________          |_______________________|                |
+|     |                    |___________            |                |
+|     |                    |Exhibit B#             |                |
+|     |                    |_______________________|                |
+|     |                    |___________            |                |
+
+
+                                  EXHIBIT C
+
+
+                             DESIGNATED CONTACT
+

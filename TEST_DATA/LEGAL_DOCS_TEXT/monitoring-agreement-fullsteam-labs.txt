@@ -1,0 +1,71 @@
+
+By signing this agreement, [CLIENT NAME] (“Client”) has retained FullSteam
+Labs (“Developer”) to proceed with website monitoring services starting on
+[START DATE], and agrees to the terms and conditions as set forth in this
+Agreement.
+
+
+During this period, Developer agrees to devote up to [2] hours per month
+towards website software updates, backups, and security monitoring. Work
+will be performed at the offices of Developer. Work will normally occur
+between the hours of 9 to 5 weekdays.
+
+
+Payment for these services will be to Developer at the rate of $[MONTHLY
+COST] per month for 12 months and will be made for the following year no
+later than the deadline specified on the invoice. Invoices will be
+submitted annually.
+
+
+Developer services in addition to the allotted hours per month specified
+above will be made available by the Developer at the rate of $[85] per hour
+and will be billed separately.
+
+
+Description of Developer Services:
+
+
+    • 24x7 Monitoring & Offline Alerts
+    • Updated Plugins & Extensions
+    • Regular Offsite Backups
+    • DNS Proxy (blocks bad IPs & protects against malicious attacks)
+    • Cloud Caching (keeps site online if your server goes down)
+    • Recovery Support for Quick Restoration
+
+
+Nightly Backups:
+
+
+Developer will provide service that makes nightly backups of site and
+stores them offsite on Amazon S3.
+
+
+The results of any and all work performed by the Developer for Client,
+including original creative work, will remain the property of the Client.
+Client may use this material in any way deemed appropriate. However, this
+agreement does not modify any terms from previous creative work agreements
+between Developer and Client.
+
+
+Restoration:
+
+
+In the event that your website needs to be restored from a previous backup,
+we will use the most up to date backup that passes a virus scan for
+malware.
+
+
+This agreement may be terminated on 30 days’ written notice by either
+Service Provider or Client. In case of termination, Service Provider shall
+make a reasonable attempt to finish work in progress. Any remaining balance
+after the 30 days’ notice period ends will be refunded as a pro-rated
+amount.
+
+
+FullSteam Labs
+(Developer)
+
+
+[CLIENT COMPANY NAME]
+(Client)
+

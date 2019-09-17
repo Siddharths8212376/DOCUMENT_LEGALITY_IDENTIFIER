@@ -1,0 +1,129 @@
+
+Statement of Work for Web Development
+
+
+This Agreement ("Agreement") is made as of [MAR 28, 2017], by [PROVIDER]
+located at [PROVIDER ADDRESS], and [CLIENT] ("Client"), located at [CLIENT
+ADDRESS].
+
+
+Summary
+
+
+This project involves the design and development of a web site for use by
+[CLIENT]. This project will follow the timeline outlined below and does not
+include ongoing maintenance of the site outside of what may be stated in
+the scope.
+
+
+Project Scope
+
+
+This SOW covers the following activities and deliverables.
+
+
+    • Theme Design and Development: At the onset of this project, a maximum
+      of 4 hours of time will be included in order to collaborate with you
+      on the design and theme of the site, often including wireframing,
+      choosing a color palette, and exchanging your media that will be used
+      for the site. The theme decided on during the onset of this project
+      will be the basis for the design of the website. The theme will be
+      built with the Bootstrap v4 alpha6 frontend framework. There will be a
+      period of revisions, and development will start once you have signed
+      off on the design. Once development has started, only minor changes
+      can be made without affecting the scope of the project.
+    • Integrations Discovery: [PROVIDER] will consult with you to discover
+      various means for achieving the integrations requested, and will spend
+      time researching and developing the integrations requested with best
+      practices and modern security standards.
+    • Host and Domain Setup: If hosting is required, [PROVIDER] will source
+      and set up hosting for the requested domain. Maintenance and ownership
+      of the account will fall to [CLIENT] at the conclusion of the project,
+      and [CLIENT] will maintain ownership of the registered domain name
+      used for the project.
+    • SSL Certificates: With your security in mind, all projects developed
+      by [PROVIDER] will require the use of a modern SSL Certificate
+      authorized by a recognized Certificate Authority. All pages and
+      traffic on your site will be encrypted with this SSL Certificate. You
+      can purchase one, if you don’t already have one, through your domain
+      name registrar or other similar service, or we can purchase one for
+      you and include it in your quote. Just like a domain name, SSL
+      Certificates must be renewed and updated annually. It is your
+      responsibility to renew and update your SSL certificate unless we
+      agree otherwise in an ongoing Service Agreement.
+    • Installation and Setup: [PROVIDER] will install and set up the project
+      on the host mentioned above so that [CLIENT] is able to maintain the
+      site.
+    • The pages for the site will include:
+         o [LIST AND DESCRIPTION OF WEB APP PAGES]
+    • The features of the site will include:
+         o [LIST AND DESCRIPTION OF WEB APP FEATURES]
+    • Browser Testing: [PROVIDER] will test the site to make sure it works
+      with modern desktop web browsers. [PROVIDER] will also test to make
+      sure that the site does not break when viewed on mobile devices.
+
+
+Deliverables
+
+
+[ACCOUNT AND LOGIN INFORMATION FOR HOST AND WEBSITE. A BACKUP COPY OF THE
+FILES ASSOCIATED WITH THE SITE. A REFERENCE DOCUMENT OUTLINING HOW TO MAKE
+UPDATES TO THE SITE ALONG WITH A LINK TO ONLINE RESOURCES. 1 HOUR OF IN
+PERSON TRAINING ON ENTERING AND UPDATING INFORMATION ON THE SITE.]
+
+
+Schedule
+
+
+[ESTIMATED COMPLETION DATE – APRIL 18TH, 2017 SIGN CONTRACT – MARCH 31ST,
+2017 FINALIZE DESIGN – APRIL 3RD, 2017 CLIENT PROVIDES THEIR MEDIA AND
+CONTENT – APRIL 3RD, 2017 BASIC THEME COMPLETE AND STAGING SITE DEPLOYED –
+APRIL 10TH, 2017 DEPLOY TO PRODUCTION HOST – APRIL 17TH, 2017 CLIENT SIGN
+OFF AND RECEIPT OF DELIVERABLES – APRIL 18TH, 2017]
+
+
+*This schedule is just an estimate and makes some assumptions regarding the
+complexity of requests in the Theme Designing phase, as well as the
+complexity of integrations requested.
+
+
+Price
+
+
+[PRICE DETAILS]
+
+
+Key Assumptions
+
+
+This agreement is based on the following assumptions:
+
+
+    • You have provided [PROVIDER] with a complete list of your requirements
+      for the website.
+    • You will provide [PROVIDER] all necessary account information for
+      existing accounts to be utilized or integrated in this project,
+      including but not limited to, your domain name registrar if you
+      already have a domain name, and third party services necessary for
+      requested integrations.
+
+
+Acceptance
+
+
+The [CLIENT] below verifies that the terms of this Statement of Work are
+acceptable. The parties hereto are each acting with proper authority by
+their respective organizations.
+
+
+Signed by and on behalf of [PROVIDER]
+
+
+Signed by and on behalf of [CLIENT]
+
+
+[DATE]
+
+
+Everyone should sign above and keep a copy for their records.
+

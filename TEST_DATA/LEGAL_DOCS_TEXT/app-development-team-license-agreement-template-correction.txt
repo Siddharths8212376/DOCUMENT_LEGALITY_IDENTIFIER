@@ -1,0 +1,266 @@
+
+                              LICENSE AGREEMENT
+
+
+This Agreement is made and entered into as of [[DATE OF AGREEMENT]] (the
+“Effective Date”) between [[LEGAL NAME OF COMPANY]] (the “Company”), and
+the application development team of [[NAME OF APP/TEAM NAME]], individually
+comprised of [[NAME OF DEV TEAM MEMBER]], [[NAME OF DEV TEAM MEMBER]],
+[[NAME OF DEV TEAM MEMBER]] (the “Development Team”) (collectively the
+“Parties”).
+
+
+WHEREAS, the Company and the Development Team desire to enter into an
+agreement, which will define respective rights and duties as to all
+services to be performed,
+
+
+WHEREAS, the Parties represent and warrant that they are duly and fully
+authorized and empowered to enter into this Agreement, and that their
+performance of the obligations under this Agreement will not violate any
+agreement between either Party and any other person, firm or organization
+or any law or governmental regulation,
+
+
+NOW, THEREFORE, in consideration of the covenants and agreements contained
+herein, the Parties hereto agree as follows:
+
+
+1.0 Definitions. For the purposes of this Agreement, the following terms
+shall have the meanings set forth in this Section 1.
+
+
+      1.1 The “Agreement” means the entire content of this document,
+together with any accompanying appendices, duplicates, copies, exhibits,
+schedules or attachments hereto.
+
+
+      1.2 The “Content” means any and all materials, lists, formulas,
+algorithms, systems, and any other information, proprietary or otherwise,
+owned or controlled by the Company at the time of the Effective Date and
+provided to the Development Team for the purposes of this Agreement.
+
+
+      1.3 The “Intellectual Property” means any and all patents, copyrights,
+trademarks and trade secrets, and registration of, applications to apply
+for and priority rights based on, the foregoing, owned, licensed or
+otherwise controlled by the Company at the time of the Effective Date,
+related to the Content, that are necessary or useful for the development,
+manufacture or use of the Application.
+
+
+      1.4 The “Application” means any and all works, goods, services or
+other work products developed by, or commissioned by, the Development Team,
+under this Agreement and potentially incorporating and/or utilizing the
+Content and/or the Intellectual Property.
+
+
+2.0 Scope of License.
+
+
+      2.1 Beginning on the Effective Date, and remaining in effect for the
+Term of this Agreement, the Company hereby grants to the Development Team,
+a non-exclusive, transferable, sub-licensable, royalty-free, worldwide
+license to use the Content and the Intellectual Property provided by the
+Company as it sees fit as part of the Application.
+
+
+      2.2 Nothing in this Agreement shall be construed (expressly or by
+implication) as granting or conveying to the Development Team, or as
+otherwise creating, any licenses or other rights or interests in or to any
+of the Content and/or the Intellectual Property owned or controlled by the
+Company other than the specific licenses to the Content and the
+Intellectual Property that are expressly granted under this Agreement.
+
+
+3.0 Ownership Rights.
+
+
+      3.1 The Development Team shall retain sole and exclusive ownership of
+all rights, title and interest in and to the Application and any
+infrastructure, code, designs, written content or other materials created
+in connection with the Application.
+
+
+      3.2 Upon termination of this Agreement, any and all rights to the
+Content and the Intellectual Property shall revert back to the Company. The
+Development team shall have no future claim to the Content and the
+Intellectual Property after termination of this Agreement.
+
+
+      3.3 The Company shall be solely responsible, at its own expense, for
+all aspects of the prosecution, maintenance, enforcement and defense of all
+applications and registrations that are included in the Intellectual
+Property. The Company’s rights and responsibilities in that regard shall
+include sole and final decision making authority with respect to all such
+matters (as determined by the Company in his or her sole discretion).
+
+
+      3.4 The Company is under no obligation to notify the Development Team
+of any third party actions which may constitute infringement of the
+Intellectual Property, or if any third party initiates actions seeking to
+invalidate or contest the enforceability or validity of any of the
+Intellectual Property, unless otherwise specified herein.
+
+
+4.0 Compensation.
+
+
+      4.1 The Company shall receive no monetary or equitable compensation
+from the Development Team in exchange for the license set out in this
+Agreement.
+
+
+5.0 Confidential Information
+
+
+      5.1 The Parties understand and agree that in connection with the
+negotiation and performance of this Agreement, each Party may have had or
+have access to or may have been or be exposed to, directly or indirectly,
+private or confidential information of the other Party, including, but not
+limited to, trade secrets and any other information that the receiving
+party reasonably should know is confidential (“Confidential Information”).
+Each Party (on its behalf and on behalf of its subcontractors, employees or
+representatives, or agents of any kind) agrees to hold and treat all
+Confidential Information of the other Party in confidence and will protect
+the Confidential Information with the same degree of care as each Party
+uses to protect its own Confidential Information of like nature.
+Notwithstanding anything contained herein to the contrary, Confidential
+Information does not include any information that (i) at the time of the
+disclosure or thereafter is lawfully obtained from publically available
+sources generally known by the public (other than as a result of a
+disclosure by the receiving or its representatives); (ii) is available to
+the receiving Party on a non-confidential basis from a source that is not
+and was not bound by a confidentiality agreement with respect to the
+Confidential Information; or (iii) has been independently acquired or
+developed by the receiving Party without violating its obligations under
+this Agreement or under any federal or state law. This Section shall
+supersede any previous agreement relating to confidential treatment and/or
+non-disclosure of Confidential Information; provided, however, that any
+information disclosed pursuant to that earlier agreement shall be deemed to
+be Confidential Information and protected under the terms of this Agreement
+as if this Agreement had been in place at the time of such disclosures. The
+Confidential Information will not, without the prior written consent of the
+other Party, be disclosed to any third party, except that the receiving
+Party may disclose the Confidential Information or portions thereof to (a)
+its directors, officers, employees, agents and representatives on a need-to-
+know basis, or (b) as may be required by law, applicable regulation or
+judicial process, provided, however, that if the receiving Party is
+required to disclose such Confidential Information under this Section, the
+receiving party shall promptly notify the disclosing Party of such pending
+disclosure and consult with the disclosing Party prior to such disclosure
+as to the advisability of seeking a protective order or other means of
+preserving the confidentiality of the Confidential Information. Neither
+Party shall use any Confidential Information received from the other Party
+except as may be necessary in its performance under this Agreement. The
+Parties acknowledge that unauthorized use by a Party of the other Party’s
+Confidential Information will diminish the value of such information and
+that breach of this obligation may cause irreparable harm and entitle the
+non-breaching Party to seek injunctive relief to protect its interest
+herein, in addition to any other monetary or other remedies it may be
+entitled to hereunder.
+
+
+6.0 Liability.
+
+
+      6.1 The Company shall not be responsible for any costs incurred by the
+Development Team in association with the development of the Application.
+
+
+      6.2 The Development Team shall not be responsible for any costs
+incurred by the Company in association with the enforcement, maintenance or
+upkeep of the Intellectual Property and the Content.
+
+
+      6.3 NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL,
+INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES ARISING FROM OR
+RELATED TO THIS AGREEMENT, INCLUDING BODILY INJURY, DEATH, LOSS OF REVENUE,
+OR PROFITS OR OTHER BENEFITS, AND CLAIMS BY ANY THIRD PARTY, EVEN IF THE
+PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING
+LIMITATION APPLIES TO ALL CAUSES OF ACTION IN THE AGGREGATE, INCLUDING
+WITHOOUT LIMITATION TO BREACH OF CONTRACT, BREACH OF WARRANTY, NEGLIGENCE,
+STRICT LIABILITY, AND OTHER TORTS.
+
+
+7.0 Disclaimer of Warranty.
+
+
+      7.1 THE WARRANTIES CONTAINED HEREIN ARE THE ONLY WARRANTIES MADE BY
+THE PARTIES HEREUNDER. NEITHER PARTY MAKES ANY OTHER WARRANTY, WHETHER
+EXPRESS OR IMPLIED, AND EXPRESSLY EXCLUDES AND DISCLAIMS ALL OTHER
+WARRANTIES AND REPRESENTATIONS OF ANY KIND, INCLUDING ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-
+INFRINGEMENT. NEITHER PARTY PROVIDES NO WARRANTY THAT OPERATION OF ANY
+SERVICES HEREUNDER WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+
+8.0 Duration, Scope and Severability of Agreement.
+
+
+      8.1 This Agreement shall take effect immediately, and shall remain in
+full force and effect for [[LENGTH OF LICENSE]] days from the Effective
+Date (the “Term”), ending on [[DATE OF TERMINATION]], or until terminated
+pursuant to this Section 10 of the Agreement.
+
+
+      8.2 The Company may terminate this Agreement for any reason upon [TEN
+(10) DAYS] written notice to the Development Team. Either Party may
+terminate this Agreement for cause immediately upon notice to the breaching
+Party.
+
+
+      8.3 This Agreement, and any accompanying appendices, duplicates, or
+copies, constitutes the entire agreement between the Parties with respect
+to the subject matter of this Agreement, and supersedes all prior
+negotiations, agreements, representations, and understandings of any kind,
+whether written or oral, between the Parties, preceding the date of this
+Agreement.
+
+
+      8.4 This Agreement may be amended only by written agreement duly
+executed by an authorized representative of each Party.
+
+
+      8.5 If any provision or provisions of this Agreement shall be held
+unenforceable for any reason, then such provision shall be modified to
+reflect the Parties’ intention. All remaining provisions of this Agreement
+shall remain in full force and effect for the duration of this Agreement.
+
+
+      8.6 No modifications to this Agreement shall be binding upon the
+either Party without the express written consent of the Parties.
+
+
+      8.7 This Agreement shall not be assigned by either Party without the
+express consent of the Parties.
+
+
+9.0 Governing Law and Jurisdiction.
+
+
+      9.1 This Agreement shall be governed by and construed in accordance
+with the laws of the State of ­­­­­­­­­­­­[[JURISDICTION STATE]] without
+reference to any principles of conflicts of laws, which might cause the
+application of the laws of another state. Any action instituted by either
+Party arising out of this Agreement shall only be brought, tried and
+resolved in the applicable federal or state courts having jurisdiction in
+the State of ­[[JURISDICTION STATE]]. EACH PARTY HEREBY CONSENTS TO THE
+EXCLUSIVE PERSONAL JURISDICTION AND VENUE OF THE COURTS, STATE AND FEDERAL,
+HAVING JURISDICTION IN THE STATE OF ­­­­­­­­­­­[[JURISDICTION STATE]].
+
+
+10.0 Waiver of Rights.
+
+
+      10.1 A failure or delay in exercising any right, power or privilege in
+respect of this Agreement will not be presumed to operate as a waiver, and
+a single or partial exercise of any right, power or privilege will not be
+presumed to preclude any subsequent or further exercise, of that right,
+power or privilege or the exercise of any other right, power or privilege.
+
+
+IN WITNESS WHEREOF, the Parties, intending to be legally bound, have each
+executed this agreement as of the Effective Date.
+
+

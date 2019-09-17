@@ -1,0 +1,102 @@
+
+
+Facture
+
+
+[VOTRE NOM]
+
+
+votre adresse postale
+
+
+votre numéro de téléphone
+
+
+[VOTRE SIRET, OU “SIRET EN COURS D'OBTENTION” SI L'URSSAF NE VOUS L'A PAS
+ENCORE TRANSMIS]
+
+
+Dispensé d'immatriculation en application de l'article L 123-1-1 du code de
+commerce.
+
+
+
+
+
+[CLIENT : NOM, ADRESSE POSTALE, SIRET]
+
+
+À l'attention de nom du trésorier, Trésorier.
+
+
+Date : [DATE]
+
+
+Projet : [NOM DU PROJET]
+
+
+Numéro de facture : numéro d'identification unique dans l'année d'exercice
+
+
+Montant total : [VALEUR TOTALE]€
+
+
+Échéance : inférieure à 60 jours, maximum légal européen jours
+
+
+Escompte : valeur éventuellement déjà payée par le client
+
+
+Pénalités de retard : minimum légal ou valeur spécifique€ / jour
+
+
+Modes de paiement : vos coordonnées bancaires ou autres
+
+
+ 
+
+
+Détail :
+
+
+Description
+
+
+tâche 1
+
+
+tâche 2
+
+
+Montant net
+
+
+valeur tâche 1
+
+
+valeur tâche 2
+
+
+Total
+
+
+[VALEUR TOTALE]€
+
+
+
+
+
+TVA non applicable (article 293 B du CGI).
+
+
+ 
+
+
+En votre aimable règlement,
+
+
+[VOTRE SIGNATURE]
+
+
+[VOTRE NOM]
+

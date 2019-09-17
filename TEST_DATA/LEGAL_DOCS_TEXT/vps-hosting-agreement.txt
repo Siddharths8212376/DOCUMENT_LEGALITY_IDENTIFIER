@@ -1,0 +1,678 @@
+
+Temple Pate is designed to serve the hosting needs of small, independently
+owned and operated businesses in a single country. It is not appropriate to
+use our services to support large enterprises or internationally based
+businesses with a sustained demand that places undue burden on our systems
+or negatively impacts use by small, independently owned and operated
+businesses.
+
+
+Temple Pate is a Open Source shared hosting service, which means that a
+number of customers sites and other email or storage services are hosted
+from the same server. Temple Pate uses abuse controls to help ensure that
+use of our services does not adversely affect the performance of our system
+or other customers sites. It is not appropriate to use an account primarily
+as an online storage space or for archiving electronic files. All products
+they offer will be free for use, and free to share. If there are any
+questions, you may contact them using the contact information provided.
+
+
+You agree to allow Temple Pate to control, access, and edit any information
+on the Server as ROOT. You agree to allow him to control it singularly and
+plurally via other hosting providers and / or people to manage it. You also
+agree you will not be paying for this server, or any of it's programs, and
+all expenses, if any are present, will be donation based for the hosting of
+the server. You agree that you will have limited access to the server, and
+if you were to request ROOT access, it will be at Temple Pates discretion.
+
+
+You understand and agree that your size and control of the server will be
+based on Temple Pate's understanding and view of your size of company /
+organization. You grant him the right to choose and control the size and in
+most cases control every aspect of the server and applications you are
+running.
+
+
+You also agree to keep relevant and up-to-date contact information with
+Temple Pate, in case of emergency, or otherwise needed situation.
+
+
+You also authorize and understand Temple Pate will be able to end the
+server at any time. As well as change any persons ability over an
+application and / or server as he sees fit.
+
+
+Voice Servers:
+
+
+If you use a voice service, you will be restricted by the owners rules and
+obligations. These rules may or may not change at any time, in which case
+you will be notified a week in advance, and upon exact time the new
+regulations will be in place. You are subjected to bandwidth caps (See
+Below)
+
+
+Disk space:
+If you use your services consistently with the Terms of Service and these
+paragraphs, your site can grow as large as necessary to meet your small
+business needs, but to ensure a great experience for all, we will place
+some constraints on how fast you can grow. The vast majority of our
+customers sites grow at rates well within our rules, but our abuse controls
+may cause a brief delay while we evaluate if expansion is appropriate.
+
+
+Data transfer:
+In most cases, if you use our services consistently with the Terms of
+Service and these paragraphs, visitors to your site will be able to
+download, upload, and view as much content from your site as they like.
+However, in certain circumstances, our server processing power, server
+memory, or abuse controls could limit downloads from your site. These are
+subject only to the Terms of Service and the rules that control how fast
+your site can grow (see above).
+
+
+Email storage:
+You do not have to worry about hitting a storage limit if you use our
+services consistently with the Terms of Service and these paragraphs.
+Temple Pate will increase your space along with your appropriate small
+business needs, but our abuse controls may impact the rate of growth or
+your folder size, and there may be a short delay while we assess your
+usage. In some cases, creating additional folders or subfolders will help
+ensure that the system works well for everyone.
+
+
+ACCEPTABLE USE POLICY & TERMS OF SERVICE
+
+
+The following is the entire Acceptable User Policy (AUP) agreement between
+Temple Pate and the personal or corporate account holder (YOU/YOUR
+Customer). Temple Pate provides World Wide Hosting, Marketing, and
+Development.Temple Pate has certain legal and ethical responsibilities
+consisting with the use of its servers and equipment involved in these
+services. Temple Pate general policy is to act as a provider of Internet
+presence. Temple Pate reserves the rights to suspend or cancel a customers
+access to any or all services provided by Temple Pate when we decide that
+the account has been inappropriately used.
+
+
+SERVER ABUSE
+
+
+Any attempt to undermine or cause harm to a server or customer of Temple
+Pate is strictly prohibited. Temple Pate will strongly react to any use or
+attempted use of an Internet account or computer without the owners
+authorisation. Such attempts include Internet scamming (tricking other
+people into releasing their passwords), password theft, security hole
+scanning, etc. Any unauthorised use of accounts or computers by YOU,
+whether or not the attacked account or computer belongs to Temple Pate,
+will result in action against YOU. Possible actions include warnings,
+account suspension or cancelation, as well as civil or criminal legal
+action, depending on the seriousness of the attack.
+
+
+IMPORTANT NOTE – Temple Pate has the right to discontinue service, or deny
+access to anyone who violates our policies or the terms and conditions
+shown below WITHOUT WARNING or PRIOR NOTICE. No refunds of fees paid will
+be made if account termination is due to violation of the terms outlined
+below. YOU may not run IRC, bots or clients on shared servers. Unacceptable
+uses also include, but are NOT limited to: Bulk emailing, unsolicited
+emailing, newsgroup spamming, pornographic content, illegal content,
+copyright infringement, trademark infringement, warez sites (including
+links to/from), cracks, software serial numbers, proxy-relaying, link
+farming (the act of or by use of scripts), link grinding, link-only sites,
+spamdexing, FFA (Free-For-All) and/or anything else determined by Temple
+Pate to be unacceptable use of our services including abuse of server
+resources.
+
+
+APPLICATIONS and ACCESSIBLE SCRIPTS
+
+
+All applications that are out-of-date and actively being exploited will be
+shut down immediately without prior notice. YOU are responsible for and
+should evaluate YOUR -based applications and scripts on a regular basis to
+ensure their security and orderliness. Shared hosting accounts may also be
+terminated if it includes the following content or have links to the
+following content: Providing material that is grossly offensive to the
+community including blatant expressions of bigotry, racism, hatred, or
+profanity; promoting or providing instructional information about illegal
+activities; promoting physical harm or injury against any group or
+individual; displaying material containing obscene nudity or pornographic
+material (not applicable to managed dedicated servers); displaying material
+that exploits children under 18-years of age; acts of copyright
+infringement including offering pirated computer programs or links to such
+programs; information used to circumvent manufacturer-installed copy-
+protect devices, including serial or registration numbers for software
+programs, or any type of cracker utilities.
+
+
+STORAGE SPACE ABUSE
+
+
+Temple Pate will not tolerate any form of storage space abuse. At least 90%
+of YOUR pages (HTML) must be linked with files (GIF, JPEG, etc.) stored on
+Temple Pate servers. site that are found to contain either/or no HTML
+documents, a large number of unlinked files are subject to files deletion
+or account cancelation at the discretion of Temple Pate Management
+(MANAGEMENT), with or without prior notice. If YOU do not qualify for the
+free service, disk space will go unmonitored until YOU reach the amount
+allocated to YOUR specific hosting plan (PLAN). Thereafter, normal site
+data storage costs $0.20/1MB/month will be billed toYOUR account. If you
+want to pre-pay for disk space overages, you will be billed
+$0.10/1MB/month. YOU will have 3 days to pay for your overages. Failure to
+do so will result in YOUR site being disabled within 3 days of YOUR first
+notice. This does not apply to co-location clients. Co-location clients
+will be billed for the overages based on switch reports. Co-location
+clients must pay for the overages IMMEDIATELY once billing or Temple Pate
+has the sole decision to deactivate any and all servers. Temple Pate will
+be the sole arbiter as to what constitutes a violation of this provision.
+
+
+BANDWIDTH ABUSE
+
+
+The intention of Temple Pate is to provide a large bandwidth to transfer
+documents, and not an offsite storage area for electronic files. If YOU
+violate this condition, YOU will be notified and given 48 hours to remedy
+the problem. Failure to do so will result in YOU being billed for the
+overages. If YOU do not qualify for the free service, traffic will go
+unmonitored until YOU reach the amount of quota allocated to YOUR specific
+PLAN. Thereafter, normal data transfer cost of $0.00/500GB/month will be
+free to use on YOUR account. If YOU go over bandwidth overages, YOU will be
+billed $4.00/100GB/month. YOU will have till the end of the month to pay
+for your overages. Failure to do so will result in YOUR site being disabled
+within 3 days of YOUR first notice. This does not apply to co-location
+clients. Co-location clients will be billed for the overages based on
+switch reports. Co-location clients must pay for the overages IMMEDIATELY
+once billing or Temple Pate has the sole decision to deactivate any and all
+servers. Temple Pate will be the sole arbiter as to what constitutes a
+violation of this provision.
+
+
+UNSOLICITED EMAIL & SPAMMING
+
+
+Unsolicited commercial advertisements (SPAM) are not allowed in e-mail, and
+will likely result in account cancelation. Temple Pate takes a zero-
+tolerance approach to SPAM originating from its servers or for spam
+advertising of domains hosted within our network. If found, we will charge
+YOU up to $25 per unsolicited email message sent and delete YOUR account
+with any prior notice. The following activities are not allowed: SPAM,
+which includes, but is not limited to, bulk mailing of commercial
+advertising, informational announcements, charity requests, petitions for
+signatures, and political or religious tracts (such messages may only be
+sent to those who have explicitly requested it from your domain); Forging,
+altering or removing electronic mail headers – any domain sending stealth
+spam will be terminated without warning and without refund.
+
+
+Sending numerous copies of the same or substantially similar message with
+the intent to disrupt a server or account (mail bombing); Spamming
+Newsgroups: Commercial advertisements are unwelcome in most Usenet
+discussion groups and on most e-mail mailing lists. Inappropriate posting
+may result in account cancelation. See the newsgroup or mailing lists
+charter for whether advertising is allowed or not. Sending a message to
+many different off-topic newsgroups, is particularly unethical and will be
+treated as such; Mail may not be used to harass or intimidate others.
+Harassment, whether through language, frequency of messages, or size of
+messages, is prohibited. Sending a single unwelcome message may be
+considered harassment. If a recipient asks to stop receiving e-mail, YOU
+must not send that person any further messages.
+
+
+NOTE – If YOU use the services of another provider to promote a site hosted
+by or through Temple Pate (spamvertising), then the provisions of the above
+policy shall apply as if the SPAM were sent through our servers.
+
+
+99.99% UPTIME GUARANTEE
+
+
+(1.) COVERAGE – This 99.99% uptime guarantee applies to any Customer in
+good financial standing with Temple Pate at the time of a service outage.
+(2.) SERVICE LEVEL AGREEMENT (SLA) & SPECIFICATIONS – Temple Pate
+endeavours to have the content of YOUR site available for http access by
+any party in the world 99.99% of the time. Network downtime
+(unavailability) is defined as 100% packet loss from Temple Pate to its
+backbone providers. Downtime is measured past 10 minutes after notification
+of network failure via Temple Pate online ticketing system. If the
+ticketing system itself is unreachable, the ticket must be started by
+calling the Temple Pate NOC. Temple Pate administrators will determine the
+end of the downtime by a traceroute to YOUR machine from outside the Temple
+Pate network.
+(3a.) SHARED HOSTING CREDITS – In the event that YOUR site is unavailable
+for less than 100%, Temple Pate will credit the following months service
+fee as follows. YOUR credit shall be retroactive and measured in 24 hours a
+day of a calendar month, with the maximum credit not exceeding 50% of the
+monthly service charge for the affected month.
+
+
+Monthly Uptime Credit:
+- 95% to 99% – YOUR account will be credited 10% of your monthly hosting
+fee
+- 90% to 94.9% – YOUR account will be credited 20% of your monthly hosting
+fee
+- 89.9% or below – YOUR account will be credited 50% of your monthly
+hosting fee
+
+
+(3b.) MANAGE DEDICATED SERVERS – For managed dedicated server Customers, if
+the uptime is between 98.9% and 99.9% for any particular month, credit
+shall be retroactive and equivalent to the difference between the
+guaranteed level of availability of the Customers services during the month
+and the calculated actual level of availability of the Customers services,
+multiplied by the actual charges incurred by YOU for the services during
+that monthly period. In addition, for managed dedicated servers, YOU may be
+entitled to additional credits as calculated below measured 24-hours a day
+in a calendar month, with the maximum credit not to exceeding 25% of the
+monthly service charge for the affected month.
+
+
+In order for YOU to receive a credit on YOUR account, YOU must request such
+credit within seven (7) days after YOU experienced the downtime. You must
+request credit by sending an email message to accounts@example.com. For
+security, the body of this message must contain YOUR account number, the
+dates and times of the unavailability of YOUR site, and such other customer
+identification requested by Temple Pate. Credits will usually be applied
+within sixty (60) days of YOUR credit request. Credit to YOUR account shall
+be YOUR sole and exclusive remedy in the event of an outage.
+
+
+(4.) RESTRICTIONS – Credit shall not be provided to YOU in the event that
+you have any outage resulting from:
+- scheduled maintenance as posted from time to time at Temple Pate,
+- your behaviour or the performance or failure of your equipment,
+facilities or applications,
+- circumstances beyond reasonable control of Temple Pate, including,
+without limitation, acts of any governmental body, war, insurrection,
+sabotage, embargo, fire, flood, strike or other labor disturbance,
+interruption of or delay in transportation, unavailability of interruption
+or delay in telecommunications or third party services, including DNS
+propagation, domain name registration/transfer, failure of third party
+software or hardware or inability to obtain raw materials, supplies, or
+power used in or equipment needed for provision of your site,
+- YOU breaking any agreement policy in Temple Pate Terms & Conditions and
+AUP causing a machine to fail as a result.
+
+
+TECHNICAL SUPPORT BOUNDARIES
+
+
+Temple Pate provides technical support for YOU that encompasses within our
+area of expertise only. Such expertise includes assistance,
+troubleshooting, and debugging of our cPanel control panel interface,
+servers within our immediate responsibility and any other hosting related
+issues.
+
+
+However, in under no circumstances is Temple Pate neither obligated to help
+YOU in the installations of new application modules, templates and/or
+programming languages, nor in providing assistance for any errors produced
+by any applications that have been modified by YOU previously. We will only
+provide assistance in making sure any EasyApps applications that are
+installed through the cPanel control panel interface are installed as
+directed.
+
+
+CGI SCRIPTS
+Each shared hosting account comes with its own CGI-BIN. YOU are free to use
+any CGI scripts YOU wish, however we reserve the rights to disable any CGI
+script that effects normal shared server operation without prior notice.
+(this section does not apply to managed dedicated servers)
+
+
+CHAT ROOMS
+We do not allow YOU to install YOUR own chat rooms within a shared hosting
+account, without approving it with Temple Pate. This includes, but not
+limited to, chat applications written in PHP, Perl, CGI, Python, Ruby, etc.
+Any application that provides real-time chat is also not permitted. Most
+chat rooms tend to be large system hogs and we cannot allow it as an
+account option. However, based forums such as vBulletin, phpBB or similar
+forum scripts are acceptable. Voice Chats are an exception.
+
+
+FILE SERVER
+Temple Pate installed and provides special file-servers in our network
+infrastructure for YOUR benefit as a means of storage for electronic files
+and applications that are not dynamically generated and is downloadable in
+nature. Files such as MP3, AVI, MID, MIDI,MPG, MPEG, MOV, ZIP, RAR, EXE and
+anything else we deemed as downloadable and not dynamically generated
+scripting languages are to be stored within these file-servers, away from
+the servers. This Policy does not apply for image files formats such as
+JPG, JPEG, GIF,PNG, and BMP. In addition, all electronic files stored
+within Temple Pate file-servers must be legally owned and be accompanied
+with a valid license and/or copyright. This include and is not limiting to
+MP3, AVI, MID, MIDI, MPG, MPEG, MOV, EXE, ISO. Should we discover any
+unlicensed and/or illegal files within YOUR account, the files will be
+subjected to deletion without any further notifications. File-servers will
+not be backed up.
+
+
+YOU are advised to have YOUR own backup locally or elsewhere other than
+within the Temple Pate servers. If YOU are found to not adhere to this
+Policy, the offending material(s) will be deleted from YOUR hosting account
+without any prior notice. This service is only available for Temple Pate
+SHARED-HOSTING customers.
+
+
+SMTP MAIL SERVER ABUSE
+
+
+We do not allow YOU to send outbound mail to more than 20 recipients at any
+one given time and/or more than 1,000 pieces of e-mail per day from a
+shared hosting account with a maximum file size of 20MB per email message.
+If YOU violate Temple Pate policies persistently in email activities, YOUR
+account will be suspended and deleted.
+
+
+BACKGROUND RUNNING PROGRAMS
+We may allow programs to run continually in the background. These are
+considered on a one-to-one basis and an extra charge will be incurred based
+on system resources used and operational maintenance needed. (This section
+does not apply to managed dedicated servers).
+
+
+IRC
+We currently do not allow IRC or IRC bots to be operated on our servers.
+IRC servers are not permitted on our network. YOU can however, install IRC
+clients on managed dedicated servers. The installation and/or execution of
+a script and/or binary that runs in the background or listens to any given
+port are also strictly prohibited.
+
+
+PAYMENT POLICIES
+All accounts are set up on a Open Source. Setup fees are Free for all new
+accounts as well as major account changes and are non-refundable. All
+pricing is guaranteed for the term of prepayment. Temple Pate reserves the
+right to change prices at any time, unless other terms have been agreed
+upon. Any account not brought current within a week (14 days) of e-mail
+notice or exceeding this time frame in any way is subject to suspension.
+YOU are responsible for all fees owed on the account from the time it was
+established to the time that YOU notifies Temple Pate to request for
+termination of services. All payment is in U.S. currency.
+
+
+Temple Pate will bill each client $50 per returned check, per wire transfer
+received and per credit card chargeback received. All Temple Pate accounts
+are setup on anniversary billing cycles. YOUR particular billing cycle
+corresponds to the contract length that was initially chosen at setup. YOUR
+account will automatically renew at this length. There is no fee to change
+to a shorter billing cycle at the end of the current cycle. However, if you
+wish to change to a shorter billing cycle during a current cycle, there
+will be a no fee. Please contact the billing department at
+linuxkeymaker@gmail.com should you wish to change your anniversary
+billing cycle.
+
+
+CANCELATION OF SERVICE
+
+
+Temple Pate reserves the right to cancel a service at any time. All fees
+paid in advance of cancellation will be pro-rated and paid by Temple Pate
+if we institutes our right of cancelation. Any violation of policies which
+results in extra costs billed to YOU (i.e. transfer, space etc.). All of
+Temple Pate PLANS are backed by a 30-day money back guarantee. If YOU are
+not completely satisfied with our services or support within the first 30
+days of YOUR contract, YOU will be given a full refund of the contract
+amount excluding setup fees, domain registration fees, add-on/upgrade fees
+and overages. Setup fees are refundable only if the account order is
+canceled prior to account activation. If YOU cancel, the full contract
+amount less any setup fees and overages will be refunded if Temple Pate is
+notified within the first 30 days following activation. This policy does
+not apply to any additional services such as overages, referrer logs, real
+audio/video, additional disk space, additional pop accounts, domain
+registration fees, etc. For credit card payment, refunds will be made to a
+PayPal account made available by the Customer after the 120th day. Refund
+policy will not be made available to Customers using wire transfers. All
+account cancelations must be done via our cancelation form at YOUR hosting
+account control panel. Phone or email requests will not constitute
+acceptance of any cancelation.
+
+
+PROMOTIONAL RATES & SPECIAL OFFERS
+
+
+Temple Pate may offer subsequent promotional rates or special offers, the
+terms of which may or may not be more favourable than the terms and
+conditions for YOUR Services. Any such promotions or modifications shall
+not affect YOUR obligations under this Agreement. Promotional fees may be
+subject to additional terms and conditions which, to the extent they
+conflict with the terms of this Agreement, shall govern. Different
+promotional fees and special offers may not be combined together.
+
+
+INTELLECTUAL PROPERTY RIGHTS
+
+
+Material accessible to you through Temple Pate services may be subject to
+protection under the United States or other copyright laws, or laws
+protecting trademarks, trade secrets and proprietary information. Except
+when expressly permitted by the owner of such rights, YOU must not use
+Temple Pate or its servers and network in a manner that would infringe,
+violate, dilute or misappropriate any such rights, with respect to any
+material that you access or receive through the Temple Pate network. If YOU
+use a domain name in connection with Temple Pate or similar service, YOU
+must not use that domain name in violation of any trademark, service mark,
+or similar rights of any third party. NETWORK SECURITY Customers may not
+use the Temple Pate network with an attempt to circumvent user
+authentication or security of any host, network, or account. This includes,
+but is not limited to, accessing data not intended for YOU, logging into a
+server or account YOU are not expressly authorised to access, password
+cracking, probing the security of other networks in search of weakness, or
+violation of any other organisations security policy. YOU may not attempt
+to interfere or deny service to any user, host, or network. This includes,
+but is not limited to, flooding, mail bombing, or other deliberate attempts
+to overload or crash a host or network. Temple Pate will cooperate fully
+with investigations for violations of systems or network security at other
+sites, including cooperating with law enforcement authorities in the
+investigation of suspected criminal violations. Users who violate system or
+network security may incur criminal or civil liability.
+
+
+ELECTRONIC COMMERCE
+
+
+YOU will be solely responsible for the development, operation and
+maintenance of YOUR online store and products along with all content and
+materials appearing online or on YOUR products, including without
+limitation:
+
+
+(a.) the accuracy and appropriateness of content and materials appearing
+within the store or related to YOUR products,
+(b.) ensuring that the content and materials appearing within the store or
+related to YOUR products do not violate or infringe upon the rights of any
+third party, and
+(c.) ensuring that the content and materials appearing within the store or
+related to YOUR products are not libellous or otherwise illegal.YOU will be
+solely responsible for the final calculation and application of shipping
+and sales tax. YOU will also be solely responsible for accepting,
+processing, and filling any customer orders, and for handling any customer
+inquiries or complaints arising there from. YOU are also responsible for
+the security of any customer credit card numbers and related customer
+information YOU may access as a result of conducting electronic commerce
+transactions through YOUR site. YOU will keep all such information
+confidential and will use the same degree of care and security as YOU use
+with your confidential information.
+
+
+STATIC & DYNAMIC CONTENT CACHING
+
+
+YOU expressly (i) grant to Temple Pate a license to cache the entirety of
+YOUR site, including content supplied by third parties, hosted by Temple
+Pate under this Agreement and(ii) agree that such caching is not an
+infringement of any of YOUR intellectual property rights or any third
+partys intellectual property rights.
+
+
+IP ADDRESS OWNERSHIP
+
+
+Temple Pate shall maintain and control ownership of all IP numbers and
+addresses that may be assigned to YOU by Temple Pate. Temple Pate reserves,
+in its sole discretion, the right to change or remove any and all such IP
+numbers and addresses.
+
+
+DOMAIN NAME REGISTRATION
+
+
+YOU agree to pay Temple Pate prior to the effectiveness of the desired
+domain name registration, the then-current amount set forth in the Temple
+Pate price schedule for the initial registration of the domain name and,
+should YOU choose to renew the registration, subsequent renewals of the
+registration. All fees are non-refundable, in whole or in part, even if
+YOUR domain name registration is suspended, canceled or transferred prior
+to the end of YOUR then current registration term.
+
+
+Temple Pate reserves the right to change fees, surcharges, renewal fees or
+to institute new fees at any time, for any reason, at its sole discretion.
+YOUR requested domain name will not be registered unless and until we
+receive actual payment of the registration fee, and have confirmed YOUR
+registration in an email from Temple Pate to the email address indicated in
+YOUR registration application. In the event of a chargeback by a credit
+card company (or similar action by another payment provider allowed by
+Temple Pate) in connection with the payments of the registration fee for
+YOUR domain name registration, YOU agrees and acknowledges that the domain
+name registration shall be transferred to Temple Pate as the paying entity
+for that registration to the registry and that we reserve all rights
+regarding such domain name including, without limitation, the right to make
+the domain name available to other parties for purchase.
+
+
+Temple Pate will reinstate YOUR domain name registration solely at the
+discretion of Temple Pate, and subject to our receipt of the initial
+registration or renewal fee and our then-current reinstatement fee.
+Transfer domain registrar to Temple Pate, YOU agree to pay Temple Pate
+prior to the effectiveness of the desired domain name transfer request, the
+then-current amount set forth in the Temple Pate price schedule for the
+initial transfer request of the domain name. YOU agree and acknowledge that
+the domain name transfer will fail, and all fees are non-refundable, for
+the following reasons, but not limited to:
+
+
+- No response from the Registered Name Holder or Administrative Contact
+- Domain name in Registrar Lock Status
+- Domain name registration period time expires or other constraints, other
+than during the first 60 days of initial registration or during the first
+60 days after a registrar transfer Temple Pate reserves the right to change
+fees, surcharges, renewal fees or to institute new fees at any time, for
+any reason, at its sole discretion. YOUR requested domain name will not be
+registered unless and until we receive actual payment of the registration
+fee, and have confirmed YOUR registration in an email from Temple Pate to
+the email address indicated in YOUR registration application.
+
+
+In the event of a chargeback by a credit card company (or similar action by
+another payment provider allowed by Temple Pate) in connection with the
+payments of the registration fee for YOUR domain name registration, YOU
+agrees and acknowledges that the domain name registration shall be
+transferred to Temple Pate as the paying entity for that registration to
+the registry and that we reserve all rights regarding such domain name
+including, without limitation, the right to make the domain name available
+to other parties for purchase.
+
+
+Temple Pate will reinstate YOUR domain name registration solely at Temple
+Pate discretion, and subject to our receipt of the initial registration or
+renewal fee and our then-current reinstatement fee. Transfer domain
+registrar away from Temple Pate. Temple Pate reserves all rights, without
+limitation, to reject the domain name transfer request for the following
+reasons, but not limited to:
+
+
+- No response from the Registered Name Holder or Administrative Contact
+- Domain name in Registrar Lock Status and there is no request from
+Registered Name Holder or Administrative Contact for the status change
+- Domain name registration period time will be expiring in less than 60
+days or other constraints, other than during the first 60 days of initial
+registration or during the first 60 days after a registrar transfer YOU
+agree and acknowledge that the failure or success of a domain name transfer
+will be his/her sole responsibility, and Temple Pate will not be held
+liable for the failure of a domain name transfer for any reason.
+
+
+LAWFUL PURPOSE
+
+
+Temple Pate reserves the right to refuse service to anyone. YOU may only
+use Temple Pate server for lawful purposes and our services may not be used
+for illegal purposes or in support of illegal activities. We reserve the
+right to cooperate with legal authorities and/or injured third parties in
+the investigation of any suspected crime or civil wrongdoing. If anything
+is not legal in the United States of America, it is not permitted to reside
+on our servers. Transmission, distribution or storage of any material in
+violation of any applicable law or regulation is prohibited. This includes
+but not limiting material protected by copyright, trademark, trade secret
+or other intellectual property right used without proper authorisation, and
+material that is obscene, defamatory, constitutes an illegal threat, or
+violates export control laws. Examples of non-acceptable content or links:
+Pirated Warez, OGG, AVI, MPEG, ISO, Hacker programs or archives,
+Copyrighted Digital Movie Copies (DIVX) and Unlicensed MP3. The designation
+of any materials as such described above is left entirely to the discretion
+of Temple Pate management. If illegal content or usage is found, the
+account will be suspended and/or terminated. YOU agree that Temple Pate may
+disclose any and all YOUR information including assigned IP numbers,
+account history, account use, etc. to any law enforcement agent who makes a
+written request without further consent or notification.
+
+
+Regardless of the place of signing this agreement, YOU agree that for
+purposes of venue this contract is entered in Atlanta, Georgia, and any
+dispute will be litigated or arbitrated in Atlanta, Georgia. Defendants
+further waive all objections to venue and acknowledge that venue in any
+such litigation will be held in Fremont courts.
+
+
+IN NO EVENT SHALL Temple Pate MAXIMUM LIABILITY EXCEED FIVE HUNDRED
+($500.00) DOLLARS.
+
+
+INDEMNIFICATION
+
+
+YOU AGREE THAT IT SHALL DEFEND, INDEMNIFY, SAVE AND HOLD Temple Pate
+HARMLESS FROM ANY AND ALL DEMANDS, LIABILITIES, LOSSES, COSTS AND CLAIMS,
+INCLUDING REASONABLE ATTORNEYS FEES ASSERTED AGAINST Temple Pate, ITS
+AGENTS, ITS CUSTOMERS, OFFICERS AND EMPLOYEES, THAT MAY ARISE OR RESULT
+FROM ANY SERVICE PROVIDED OR PERFORMED OR AGREED TO BE PERFORMED OR ANY
+PRODUCT SOLD BY YOU, YOUR AGENTS, EMPLOYEES OR ASSIGNS. YOU AGREE TO
+DEFEND, INDEMNIFY AND HOLD HARMLESS Temple Pate AGAINST LIABILITIES ARISING
+OUT OF:
+(1) ANY INJURY TO PERSON OR PROPERTY CAUSED BY ANY PRODUCTS SOLD OR
+OTHERWISE DISTRIBUTED IN CONNECTION WITH Temple Pate SERVERS.
+(2) ANY MATERIAL SUPPLIED BY THE CUSTOMER INFRINGING OR ALLEGEDLY
+INFRINGING ON THE PROPRIETARY RIGHTS OF A THIRD PARTY
+(3) COPYRIGHT INFRINGEMENT AND
+(4) ANY DEFECTIVE PRODUCTS SOLD TO CUSTOMER FROM Temple Pate SERVERS.
+
+
+DISCLAIMER
+
+
+Temple Pate WILL NOT BE RESPONSIBLE FOR ANY DAMAGES YOUR BUSINESS MAY
+SUFFER. Temple Pate MAKES NO WARRANTIES OF ANY KIND, EXPRESSED OR IMPLIED
+FOR SERVICES WE PROVIDE. Temple Pate DISCLAIMS ANY WARRANTY OR
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THIS INCLUDES LOSS OF
+DATA RESULTING FROM DELAYS, NON-DELIVERIES,WRONG DELIVERY, AND ANY AND ALL
+SERVICE INTERRUPTIONS CAUSED BY Temple Pate AND ITS EMPLOYEES. Temple Pate
+RESERVES THE RIGHT TO REVISE ITS POLICIES AT ANY TIME. ALL SUB-NETWORKS,
+RESELLERS AND DEDICATED SERVERS OF Temple Pate MUST ADHERE TO THE ABOVE
+POLICIES.FAILURE TO FOLLOW ANY TERM OR CONDITION WILL BE GROUNDS FOR
+IMMEDIATE ACCOUNT CANCELATION.
+
+
+PRIVACY STATEMENT
+
+
+Temple Pate follows the strict guidelines of our customer privacy
+statement. Please make sure you understand this statement fully.
+
+
+[SIGN]
+
+
+[CUSTOMER SIGNS]
+

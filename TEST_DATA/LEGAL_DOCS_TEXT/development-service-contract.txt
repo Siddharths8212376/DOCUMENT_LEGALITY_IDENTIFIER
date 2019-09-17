@@ -1,0 +1,109 @@
+
+
+                      Service Contract for Development
+
+
+Definitions
+
+
+Developer: [DEVELOPER]
+
+
+Client: [CLIENT]
+
+
+Services: [ANY TASK OR SERIES OF TASKS PERFORMED BY THE DEVELOPER ON
+REQUEST FROM THE CLIENT, OR AS PART OF FULFILLING A REQUEST FROM THE
+CLIENT.]
+
+
+Product: [ANY CODE, IMAGES, MARKUP, SCRIPTS, CONTENT, DOCUMENTATION CREATED
+BY THE DEVELOPER WHILE PERFORMING SERVICES.]
+
+
+Intangibles: [KNOWLEDGE ABOUT SOLUTIONS TO PROBLEMS, METHODS, OR DESIGNS.]
+
+
+Terms
+
+
+   1. Rate: Services shall be billed to the Client at the rate of $60 per
+      hour. Rate for Australian Clients is in Australian Dollars, exclusive
+      of GST. Rate for non-Australian Clients is in USD. Rate is valid for 3
+      months from the date of this contract.
+
+
+   2. Payment: The Client shall send payment to the Developer within 14 days
+      of receiving an invoice.
+
+        1. Invoicing: Client shall be billed on a fortnightly basis or when
+           work is complete.
+        2. Late Payment: If a payment is more than 7 days late, no further
+           Services will be performed, and no Product will be delivered,
+           until the Developer has received payment.
+        3. Legal Fees: In the unlikely case that the services of a
+           collection agency or lawyer are required to secure back payment,
+           the Client must pay all associated fees.
+
+   3. Billable Time: All time spent performing Services and communicating
+      with the Client is billable.
+
+        1. Estimations: If an estimate is requested by the Client, the
+           first 60 minutes of time spent preparing the estimate will not
+           be billable. Time spent on an estimate beyond 60 minutes will be
+           billable at the normal rate.
+
+   4. Expenses: The Client shall reimburse the Developer for all expenses
+      arising from this assignment, including but not limited to Software
+      Licenses, Stock Photography, Artwork, and or material needed for the
+      project.
+
+
+   5. Copyright: Copyright of all Products created while performing Services
+      for the Client will be transferred to the Client upon receipt of
+      payment in full.
+
+
+   6. Copyright Exceptions
+
+        1. The Developer reserves the right to reuse and re-license
+           portions of the created Product as desired, as long as the
+           portions are general solutions to common problems and are not
+           specific to the Clients product.
+        2. Any portions of the Product whose copyright is withheld by the
+           developer are licensed to the Client for use in the Product
+           under the MIT license: http://www.opensource.org/licenses/mit-
+           license.php
+        3. The Client will only be billed for portions of the Product which
+           were created during the effective period of this contract and
+           created while performing Services for the Client.
+
+   7. Intangible Property: The Developer retains ownership of all
+      Intangibles gained by the Developer (that are not previously owned by
+      the Client) while providing Services.
+
+
+   8. Limitation of Liability: The Services and Product of the Developer are
+      sold "as is." In all circumstances, the maximum liability of the
+      Developer to the Client for damages for any and all causes whatsoever,
+      and the Client's maximum remedy, regardless of the form of action,
+      whether in contract, tort or otherwise, shall be limited to the net
+      profit of the Developer. In no event shall the Developer be liable for
+      any lost data or content, lost profits, business interruption or for
+      any indirect, incidental, special, consequential, exemplary or
+      punitive damages arising out of or relating to the materials or the
+      services provided by the Developer, even if the Developer has been
+      advised of the possibility of such damages, and notwithstanding the
+      failure of essential purpose of any limited remedy.
+
+
+   9. Changes: Either party may request to modify the terms of this contract
+      at any time. When both parties consent to new terms and a new contract
+      is signed, this contract is terminated immediately.
+
+
+  10. Termination: If either party wishes to terminate this contract, they
+      must notify the other party at least 14 days prior to termination.
+      This contract may only be terminated after all outstanding invoices
+      have been paid in full.
+

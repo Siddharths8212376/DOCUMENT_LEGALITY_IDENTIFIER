@@ -1,0 +1,347 @@
+
+Effective as from 20 June 2012.
+
+
+ 
+
+
+1. Acceptance of the Terms of Service
+
+
+Welcome to xlogs (a.k.a. "we" or "us" or the "Company"). We are excited to
+have you as user an member of the community. The following terms and
+conditions (collectively, these "Terms of Service") apply to your use of
+xlogs including any content, functionality and services offered on or via
+xlogs (the "Website"). The Terms of Service also include our Privacy
+Policy, that you can review here: https://xlo.gs/privacy.html We want to
+keep our relationship with you as lean and informal as possible, but please
+read the Terms of Service carefully before you start using xlogs, because
+by using the Website you accept and agree to be bound and abide by these
+Terms of Service. Should you disagree with any of the provisions herein,
+you must leave the Website, but please let us know at support@xlo.gs. We'll
+be happy to hear your comments and suggestions.
+
+
+2. Changes to the Terms of Service and the Website
+
+
+xlogs reserves the right to update the Website and these Terms of Service
+from time to time, at our discretion and without notice. Nevertheless, this
+document is public on xlogs, and you will be able to track the changes for
+any new version. Your continued use of the Website following the publishing
+of updated Terms of Service means that you accept and agree to the changes.
+
+
+ 
+
+
+3. Accessing the Website,Security and Privacy
+
+
+We're working hard on improving xlogs, but we can't guarantee that the
+Website will be up and running 24/7. We also reserve the right to suspend
+or restrict access to some features to users. In any case, we will not be
+liable if for any reason all or any part of the Website is unavailable at
+any time or for any period, nor for any data loss. To access certain
+features of the Website you have to register by entering your email and
+choosing a password as part of our security procedures. You must treat such
+information as confidential, not disclosing it to any third party. There is
+a password reset procedure in case you forget your password, but please
+notify us of any breach of security. We highly recommend to choose a strong
+password (e.g. "itslongWITHCAPSand99numbers!!") and you log out from your
+account at the end of every session. It is a condition of your use of the
+Website that all the information you provide on the Website is correct,
+current and complete. In the future, you may be asked to provide certain
+registration details or other information. As custom for internet websites,
+we reserve the right to disable any user account, at any time in our sole
+discretion for any or no reason, including, if in our opinion you have
+failed to comply with any provision of these Terms of Service. We use SSL
+encrypted browsing for all logged-in users, but we cannot guarantee that
+all use will be secure. We also do not guarantee that the Website or any
+content provided on the Website is error free. We manage your personal data
+according to our Privacy Policy, that you can review in detail here:
+https://xlo.gs/privacy.html.
+
+
+ 
+
+
+4. Grant of Permission to use your AWS keys to poll your AWS account
+
+
+In order for xlogs to work, you agree to provide us with a set of read-only
+keys with which we will access Amazon AWS on your behalf. By providing us
+with your access keys, you confirm that you are authorized to do so, and
+are also granting xlogspermission to peridically poll your account. We
+cannot guarantee the security of your keys, however should there be a
+breach we will do our best to notify you as soon as possible so you can
+cancel your keys. We cannot be responsible for keys with excessive
+permissions - please choose and use your Amazon AWS keys wisely.
+
+
+ 
+
+
+5. Purchase of the xlogs Service
+
+
+If you agree to pay the fee for access to the applicable xlogs Service,
+such fee will be charged by the company designated by xlogs in accordance
+with the payment method you have chosen for your purchase. If you are
+paying by credit or debit card, by designating a card to be billed, you
+confirm that you are authorized to make such purchase and that you are the
+holder of such card (i.e. that the card is issued in your name). All prices
+stated on the xlogs Websites are inclusive of any applicable sales taxes
+and fees. xlogs accepts a variety of different payment methods, so please
+check the xlogsWebsites for the best way for you to pay.
+
+
+ 
+
+
+6. Prices
+
+
+xlogs may change the price for the xlogs Paid Service from time to time. In
+respect of the xlogs Paid Service, such changed price will take effect
+after the expiry of the then current paid for period (i.e. the term that
+you have already paid for). Any price change will be communicated to you at
+least 14 days in advance so that you have an opportunity to elect to not
+renew. If you do not wish to be bound by such changed price relating to
+your xlogs Paid Service you may terminate your subscription of your xlogs
+Paid Service in accordance with Section 9 (Term and termination). Your
+continued use of the xlogsPaid Service after the communication of such
+price change to you constitutes an acceptance of such new price.
+
+
+ 
+
+
+7. Automatic subscription renewal
+
+
+Your subscription to the xlogs Paid Service will automatically renew at the
+end of each subscription term unless you terminate your subscription prior
+to the end of such subscription term in accordance with Section 9 (Term and
+termination). Such renewal will always be for a monthly subscription term,
+even if the previous subscription term was for a longer period. At the time
+of renewal the payment method you have designated to be charged for the
+purchase of the xlogsPaid Service will automatically be charged our then
+current fees for the applicable subscription.
+
+
+ 
+
+
+8. Disclaimer of Warranties, Limitations of Liability and Indemnification.
+
+
+Your use of xlogsis at your sole risk. The service is provided "as is" and
+"as available". We disclaim all warranties of any kind, express or implied,
+including, without limitation, the warranties of merchantability, fitness
+for a particular purpose and non-infringement. We are not liable for
+damages, direct or consequential, resulting from your use of the Website,
+and you agree to defend, indemnify and hold us harmless from any claims,
+losses, liability costs and expenses (including but not limites to
+attorney's fees) arising from your violation of any third-party's rights.
+You acknowledge that you have only a limited, non-exclusive,
+nontransferable license to use the Website. Because the Website is not
+error or bug free, you agree that you will use it carefully and avoid using
+it ways which might result in any loss of your or any third party's
+property or information.
+
+
+ 
+
+
+9. Term and termination
+
+
+This Agreement will become effective in relation to you when you create a
+xlogs account or when you start using the xlogs Service and will remain
+effective until terminated by you or xlogs. You may cancel your
+subscription of the xlogs Paid Service at any time by visiting your
+subscription page which termination shall have effect at the expiry of the
+then-current subscription period that you have already paid for (e.g. one
+month, one quarter or a year). xlogs will not refund any remaining portion
+of subscription fees you have already paid for. xlogs reserves the right to
+terminate this Agreement or suspend your xlogs account at any time in case
+of unauthorized, or suspected unauthorized use of the xlogs Service whether
+in contravention of this Agreement or otherwise. If xlogs terminates this
+Agreement, or suspends your xlogs account for any of the reasons set out in
+this section, xlogs shall have no liability or responsibility to you, and
+xlogswill not refund any amounts that you have previously paid.
+
+
+ 
+
+
+10. Intellectual property
+
+
+xlogs respects intellectual property rights, and expects you to do the
+same. The xlogs Service and the content provided through the xlogs Service
+is the property of xlogs or xlogs's licensors and protected by intellectual
+property rights (including but not limited to copyright), and you do not
+have a right to use the xlogs Service (including but not limited to its
+content) in any manner not covered by the Agreement. Furthermore, you must
+not infringe any third party's intellectual property rights in using the
+xlogs Service. Further, you may not remove or alter any copyright,
+trademark or other intellectual property notices contained on or provided
+through the xlogsService.
+
+
+ 
+
+
+11. Copyright infringement and take down
+
+
+If you are a copyright holder who believes that any of the products,
+services or content which are directly available via the xlogs Websites are
+infringing copies of your work, please let us know. Pursuant to The Digital
+Millennium Copyright Act, 17 United States Code 512(c)(3), a notice of
+alleged copyright infringement should be sent to xlogs's designated
+copyright agent at the following address: xlogs Attn: Legal Department,
+Copyright Agent 1419 Atlantic Blvd, Suite 1 Key West, Florida, 33040
+legal@xlo.gs A notification of claimed copyright infringement must be
+addressed to xlogs's copyright agent listed above and include the
+following: A physical or electronic signature of the owner (or person
+authorized to act on behalf of the owner) of the copyright that is
+allegedly infringed; Specific identification of each copyrighted work
+claimed to have been infringed; A description of where the material
+believed to be infringed is located on xlogs Service or the xlogsWebsites
+(please be as detailed as possible and provide a URL to help us locate the
+material you are reporting); Contact information for the complaining party,
+such as a complete name, address, telephone number, and email address; A
+statement that the complaining party has a good faith belief that use of
+the work(s) in the manner complained of is not authorized by the copyright
+owner, its agent, or the law; and A statement that the information in the
+notification is accurate, and under penalty of perjury, that the
+complaining party is authorized to act on behalf of the owner of an
+exclusive right that is allegedly infringed.
+
+
+ 
+
+
+12. Technology limitations and modifications
+
+
+xlogs will make reasonable efforts to keep the xlogs Service operational.
+However, certain technical difficulties or maintenance may, from time to
+time, result in temporary interruptions. xlogs reserves the right at any
+time and from time to time to modify or discontinue, temporarily or
+permanently, functions and features of the xlogsService with or without
+notice.
+
+
+ 
+
+
+13. Assignment
+
+
+xlogsmay assign this Agreement or any part of it without restrictions. You
+may not assign this Agreement or any part of it to any third party.
+
+
+ 
+
+
+14. Entire agreement
+
+
+This Agreement together with the xlogs Privacy Policy, (the Agreements)
+constitutes all the terms and conditions agreed upon between you and xlogs
+and supersede any prior agreements in relation to the subject matter of
+these Agreements, whether written or oral. Any additional or different
+terms or conditions in relation to the subject matter of these Agreements
+in any written or oral communication from you to xlogs are void. You agree
+and accept that you have not accepted the terms and conditions of this
+Agreement in reliance of or to any oral or written representations made by
+xlogsnot contained in this Agreement.
+
+
+ 
+
+
+15. Severability
+
+
+Should for any reason or to any extent any provision of this Agreement be
+held invalid or unenforceable, such invalidity or enforceability shall not
+in any manner affect or render invalid or unenforceable the remaining
+provisions of this Agreement and the application of that provision shall be
+enforced to the extent permitted by law.
+
+
+ 
+
+
+16. Mandatory arbitration; exceptions to mandatory arbitration, waiver of
+class action rights; limitations period; venue and choice of law
+
+
+i. You and xlogs agree that any dispute, claim or controversy arising out
+of or relating in any way to the xlogs Service or your use thereof,
+including our Agreement, shall be determined by mandatory binding
+arbitration. You agree that the U.S. Federal Arbitration Act governs the
+interpretation and enforcement of this provision, and that you and xlogs
+are each waiving the right to a trial by jury and the right to participate
+in a class or multi-party action. This arbitration provision shall survive
+termination of this Agreement and the termination of your xlogs
+subscription. The arbitration will be governed by the Commercial
+Arbitration Rules and the Supplementary Procedures for Consumer Related
+Disputes of the American Arbitration Association (the "AAA Rules"), as
+modified by this Agreement, and as administered by the AAA. ii. You and
+xlogs agree that (a) any claims seeking to enforce, protect, or determine
+the validity or ownership of any intellectual property rights, and (b) any
+claims related to allegations of theft, piracy or unauthorized use of the
+xlogs Service are NOT subject to mandatory arbitration. Instead, you and
+xlogs agree that the preceding claims (including but not limited to claims
+for injunctive or equitable relief) shall be exclusively decided by Courts
+of competent jurisdiction in Key West, Florida, and that applicable Florida
+and/or Federal law shall govern, without regarding to choice of law
+principals. iii. YOU AND XLOGS AGREE THAT EACH MAY BRING CLAIMS AGAINST THE
+OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A CLASS MEMBER OR
+IN ANY REPRESENTATIVE CAPACITY OR PROCEEDING. Further, the arbitrator shall
+not consolidate any other person's claims with your claims, and may not
+otherwise preside over any form of a multi-party or class proceeding. If
+this specific provision is found to be unenforceable in any way, then the
+entirety of this arbitration section shall be null and void. The arbitrator
+may not award declaratory or injunctive relief. iv. Any arbitration must be
+commenced by filing a demand for arbitration with the AAA within ONE (1)
+YEAR after the date the party asserting the claim first knows or reasonably
+should know of the act, omission or default giving rise to the claim; and
+there shall be no right to any remedy for any claim not asserted within
+that time period. If applicable law prohibits a one-year limitations period
+for asserting claims, any claim must be asserted within the shortest time
+period permitted by applicable law. Your arbitration fees and your share of
+arbitrator compensation will be limited to those fees set forth in the
+AAA's Consumer Rules with the remainder paid by xlogs. Any arbitration
+costs or fees deemed "excessive" will be paid by xlogs. v. You and xlogs
+agree that this Agreement involves interstate commerce and is subject to
+the Federal Arbitration Act. You and xlogsfurther agree that applicable
+laws of the State of Florida shall exclusively govern any dispute without
+regard to choice or conflicts of law rules. The sole and exclusive venue
+for the resolution of any dispute, whether or not subject to mandatory
+arbitration as described above, shall lie in Key West, Florida.
+
+
+ 
+
+
+17. English version prevails
+
+
+In the event that this Agreement is translated into other languages and
+there is a discrepancy between the two language versions, the English
+language version shall prevail to the extent that such discrepancy is the
+result of an error in translation. Copyright © 2012 xlogs and its
+affiliates. All rights reserved.
+xlogs
+1419 Atlantic Blvd, Suite 1
+Key West, Florida, 33040
+USA
+

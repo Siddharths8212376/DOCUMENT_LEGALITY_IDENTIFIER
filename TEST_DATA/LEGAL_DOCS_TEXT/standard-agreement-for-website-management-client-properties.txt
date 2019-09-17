@@ -1,0 +1,104 @@
+
+This agreement is between [COMPANY/DEVELOPER] and [CLIENT/COMPANY], the
+Client.
+
+
+Client is retaining [COMPANY/DEVELOPER] as a provider of website management
+services. Client agrees to the charge of $50 per month in exchange for
+Services Included in This Agreement. Services not considered “standard
+website management” are subject to be charged at a regular hourly rate of
+$[90]; such services are not included in this contract.
+
+
+Services Included in This Agreement
+
+
+   1. Edit, revise, update or create new text content.
+   2. Create minor graphic elements
+   3. Consultation on use of website’s Content Management System (“CMS”)
+      (WordPress).
+   4. On-page Search Engine Optimization (“SEO”).
+   5. Regular monitoring and updating of CMS, associated assets, and website
+      links.
+   6. Ensuring compatibility of updates with current website layout.*
+   7. Monthly website and database backups.
+   8. Monitoring website downtime
+   9. Monthly analytics reports
+  10. Liaising with the hosting company to sort out the situation as quickly
+      as possible.
+
+
+*Regular software updates contribute to website security. Some website
+assets (e.g. WordPress plugins or themes) may become incompatible with
+those updates, requiring work not included here to maintain compatibility
+if desired/needed. [COMPANY/DEVELOPER] will notify the Client in advance of
+such updates.
+
+
+Services Excluded in This Agreement
+
+
+   1. Graphic / User Interface Design
+   2. Website Code Development
+   3. Code editing equalling more than 50% change to given document or web
+      page.
+   4. CMS design or integration including but not limited to blogs, shopping
+      carts and web forums.
+
+
+Total Agreement
+
+
+[COMPANY/DEVELOPER] shall provide Client with Services Included in This
+Agreement on a month-to-month basis. The contract will be paid on a Monthly
+Basis with payment due upon receipt of invoice sent at the beginning of
+each month.
+
+
+During the duration of this contract, the Client agrees that
+[COMPANY/DEVELOPER] will be the sole provider of management services for
+the web site, and no other party will have access to or rights to change
+the web site. If a party other than [COMPANY/DEVELOPER] makes changes to
+the web site, any errors that are created must be repaired and will be
+charged for at the hourly rate specified above. Minor updates should not
+exceed more than 50% of the content on any single site page, THE PERCENTAGE
+TO BE DETERMINED BY [COMPANY/DEVELOPER].
+
+
+Deadlines & Deliverables
+
+
+[COMPANY/DEVELOPER] will respond to all management requests from Client
+within [48] hours on during normal business days, via email or phone, with
+a confirmation that the request was received, and an estimated completion
+date for each action item in the request.
+
+
+[COMPANY/DEVELOPER] will adhere to quoted deadlines for deliverables in the
+management requests at all possible costs. In the event that
+[COMPANY/DEVELOPER] has any issues in delivering on a quoted deadline,
+Client will be notified via email or telephone with an explanation for any
+delays.
+
+
+Additional Services
+
+
+Any revisions, additions, or redesign requests not specified in this
+document shall be considered “additional” and will require separate
+agreement and payment. [COMPANY/DEVELOPER] shall advise Client on any
+requested work that falls within these bounds.
+
+
+Authorization
+
+
+Client hereby authorizes [COMPANY/DEVELOPER] to access their web hosting
+account, providing active user name / password combinations for access to
+the server via FTP, assuring that 'write permissions' are in place on said
+hosting provider.
+
+
+Signing this document confirms your agreement to the terms of this
+“Standard Agreement for Website Management — Client Properties”.
+

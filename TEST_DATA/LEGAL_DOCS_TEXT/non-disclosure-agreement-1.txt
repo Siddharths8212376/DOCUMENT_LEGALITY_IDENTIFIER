@@ -1,0 +1,100 @@
+
+This Confidentiality and  Non-Disclosure  Agreement  (this  “agreement”)  is
+between Meld Development Solutions, Inc., an Oregon corporation  located  at
+208 SW 5th Ave, Portland, OR 97204 (“Meld”) and (client, located  at  client
+address) (“you”).
+
+
+Summary:
+
+
+Meld  is  developing  for  you  [include  description  of  engagement]  (the
+“Application”). In connection with development of the Application,  we  will
+share certain confidential and proprietary information with each other,  and
+we agree that neither of us will share any  confidential  information  about
+each other, by any means, with anyone  else,  except  as  provided  in  this
+agreement.
+
+
+What’s covered? What are our primary responsibilities to each other?
+
+
+Confidential information includes: source  code  of  the  Application  being
+developed and any adaptations, improvements, revisions and derivative  works
+of the same, passwords, API keys, trade secrets,  know-how,  and  any  other
+information that we designate as confidential or proprietary at the time  we
+disclose it to each other. Any  confidential  information  will  remain  the
+property of the party that disclosed it and we  both  agree  to  return  all
+confidential information in whatever form  (including  any  copies)  to  the
+disclosing party upon request.
+
+
+We both agree not to use, copy  or  disclose  the  confidential  information
+apart from  the  reason  it  was  shared,  except  that  we  may  share  the
+confidential information with our employees that have a  need  to  know  the
+information in connection with development of the Application,  so  long  as
+we advise them of the obligations in  this  agreement  and  take  reasonable
+steps to ensure their compliance with it. We also agree take at least  those
+measures that we take  to  protect  our  own  confidential  and  proprietary
+information, such as keeping files, access to online systems  and  any  user
+names and passwords safe and secure so the  information  doesn’t  fall  into
+the wrong hands.
+
+
+If  we  think  that  there’s  even  a  possibility  that  any   confidential
+information might have been compromised, we agree to tell each  other  right
+away so we can promptly take the steps necessary to protect the  information
+from public disclosure. We also agree to help  each  other  to  resolve  any
+problems that might arise if confidential information is compromised.
+
+
+What’s not covered?
+
+
+If something is already in the public domain or becomes  public  through  no
+action or inaction by either  of  us,  it’s  not  confidential  information.
+Although we hope it will never happen, this agreement also does not  protect
+information that we are required by law to disclose, except  that  we  agree
+to give each other notice of the disclosure requirement  in  that  situation
+and to assist  each  other  in  trying  to  obtain  an  order  to  keep  the
+information confidential.
+
+
+This agreement will not prohibit us  from  working  with  any  other  party,
+provided that we continue to abide by this agreement.
+
+
+How long does this agreement last?
+
+
+Our obligations under this agreement will remain in effect until  such  time
+as the information protected by it is  no  longer  confidential  through  no
+action or inaction by either of us.
+
+
+Miscellaneous legal stuff
+
+
+You can’t transfer this agreement to anyone else without our  prior  written
+permission. This agreement benefits and binds Your successors and  permitted
+assigns.
+
+
+If it turns out part of this agreement isn’t enforceable, we both  agree  to
+remove that part, and we also agree that  doing  so  shall  not  affect  the
+enforceability of the rest of the agreement.
+
+
+If we have a dispute, the State of Oregon’s laws will apply, except for  the
+conflict  of  laws  rules.  If  the  dispute  concerns  the  disclosure   or
+threatened  disclosure  of  confidential  information  in  breach  of   this
+agreement, we both acknowledge it would irreparably damage the  other  party
+and agree that the non-breaching party shall immediately be entitled  to  an
+injunction  (including  a  temporary  restraining   order   or   preliminary
+injunction) without having to post a bond.  We  also  agree  that  the  non-
+breaching party shall also be entitled to recover damages for any injury  it
+may incur, along with any other  remedies  available  to  the  non-breaching
+party. We both agree we will go to court  in  Multnomah  County,  Oregon  to
+resolve any dispute arising under this agreement that we  are  not  able  to
+resolve ourselves.
+

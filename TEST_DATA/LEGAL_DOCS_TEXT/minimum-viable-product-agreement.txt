@@ -1,0 +1,153 @@
+
+THIS AGREEMENT is entered into this [DATE], by and between [YOUR CLIENT]
+(“Client” / "You"), and [DEVELOPER NAME/COMPANY] (“Developer” / "Us").
+
+
+1. Summary
+We’ll always do our best to fulfil your needs and meet your expectations,
+but it’s important to have things written down so that we both know what’s
+what, who should do what and when, and what will happen if something goes
+wrong. In this contract you won’t find any complicated legal terms or long
+passages of unreadable text. We’ve no desire to trick you into signing
+something that you might later regret. What we do want is what’s best for
+both parties, now and in the future.
+
+
+So in short :
+
+
+You with a principal place of business at [CLIENT'S ADDRESS] has asked Us
+(Terato Tech Sdn Bhd) located at [DEVELOPER'S ADDRESS]to create a minimum
+viable product with named : [MVP NAME] for total price USD [AMOUNT] within
+[NUMBER OF DAYS] days. Of course it’s a little more complicated, but we’ll
+get to that.
+
+
+2. What do both parties agree to do ?
+
+
+You: You have the authority to enter into this contract on behalf of
+yourself, your company or your organisation. You’ll give us everything we
+need to complete the project as and when and in the format we need it.
+You’ll review our work, provide feedback and approval in a timely manner
+too. Deadlines work two ways, so you’ll also be bound by dates we set
+together. You also agree to stick to the payment schedule set out at the
+end of this contract.
+
+
+Us: We have the experience and ability to do everything we’ve agreed with
+you and we’ll do it all in a professional and timely manner. We’ll
+endeavour to meet every deadline that’s set and on top of that we'll
+maintain the confidentiality of everything you give us.
+
+
+3. Scope of Work
+The scope of the work is listed in Exhibit A of this Agreement. We will
+start working on this project within 1 days after we receives a signed copy
+of this Agreement and thirty percent of the total payment from You. If the
+scope of work changes after signing this Agreement, both parties agree to
+negotiate and sign an amended Exhibit A.
+
+4. Project Milestones
+You have agreed that we will work on this project in quick phases. Exhibit
+B to this Agreement lists the milestones that both parties have agreed on
+will apply to each phase of our work. If the scope of work changes after
+both parties sign this Agreement, both parties agree to negotiate and sign
+an amended Exhibit B.
+
+
+5. Final Deliverables
+We will provide final product which can be either an app or system. For iOS
+app, we will use our own certificate so you don't have to purchase
+developer account, but this can be used in limited time (3 months only).
+For Android app, we will deliver apk via internet, you can use and
+distribute it freely and if it's for a website, we will host in our hosting
+and server (1 year only). As you know, since the goal of MVP is to have a
+look and feel and present ideas, we hope you can come into decision before
+given time expired. If you satisfied with our work and want to proceed with
+fully working product, we are more than happy to assist you. Having said
+that, MVP product can't be develop or continue further as a real product,
+we will have to build properly and start from beginning, however, we can
+mirror the product or design to mvp that We have delivered.
+
+
+6. Source code
+Not to dissatisfied any parties in the agreement, We don't share source
+code to anyone (You or any parties). Before you discouraged, hear what We
+thought of it. Our framework allow us to build rapidly by using test data
+and not too focus on MVC architecture much, as our goal to develop a
+working prototype as fast as possible. The source code will be a messed up
+and there will no time to reverse engineer the code. You can't expect to
+enhance many things from MVP and come up with fully working app or system,
+because it should be for one purpose only which is prototyping and present
+ideas into tangible product.
+
+
+7. Original Work/Conflicts/Confidentiality
+We promises with the best of our ability that our work does not violate the
+patent, copyright, trade secrets or other property right of any person,
+firm or entity. We promises that this Agreement does not conflict with any
+other contract, agreement or understanding to which we is a party. Finally,
+we promises to hold and maintain in strict confidence any confidential
+information that You provides (such as proprietary technical or business
+information), and we will not disclose such information to any third party
+except as may be required by a court or governmental authority.
+
+
+8. Payment
+Payment should be payable to PayPal account only, as We want to fasten the
+invoice and payment process and much as you do. As per agreed with both
+party, the total price payable to us as stated above. Don't need to worry
+to pay all in front, as We divide it into three (3) payments. Thirty (30)
+percent of the Fee will be due when both parties sign this Agreement and
+before We begins work. A second thirty (30) percent of the Fee will be due
+upon completion of the agreed upon halfway milestone listed in Exhibit B.
+The remaining forty (40) percent of the Fee will be due immediately before
+We sends You final product.
+
+
+9. Feedback and Acceptance
+We need your help to help us understand your ideas and feedback to make
+sure we are in line, and to achieve that, we are required Your fully
+committed time to give us feedback in time. Since We are the expert in this
+area, We hope you can understand our concerns, objections or corrections
+and not to unreasonably withhold acceptance of the deliverables we will
+provide to you for final product. Since it's minimum viable product, the
+ideas behind to present basic look and feel and present ideas in a product,
+having said that, We cannot guarantee it will be error-free, and so we
+can’t be liable to you or any third-party for damages, including lost
+profits, lost savings or other incidental, consequential or special
+damages, even if you’ve advised us of them. Finally, if any provision of
+this contract shall be unlawful, void, or for any reason unenforceable,
+then that provision shall be deemed severable from this contract and shall
+not affect the validity and enforceability of any remaining provisions.
+
+
+10. Entire Agreement
+This Agreement constitutes the complete and exclusive agreement between
+both parties concerning the work on this project, and it supersedes all
+other prior agreements, proposals, and representations, whether stated
+orally or in writing. Both parties can modify this agreement in writing, if
+both parties sign that modification.
+
+
+11. Independent Contractor
+We hope you understand that We are an independent contractor. We still need
+Your help to provide general direction, however, having said that, We will
+determine, in our's sole discretion, the manner and ways in which We will
+create the software for You. The work that We create for You under this
+Agreement will not be deemed a "work-for-hire". Whatever rights We grant
+You are contained in this Agreement.
+
+
+Exhibit A
+
+
+Scope of work described in detail
+
+
+Exhibit B
+
+
+Agreed upon milestones, including halfway point.
+
