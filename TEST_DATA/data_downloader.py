@@ -11,7 +11,7 @@ with open('legal_file_names.csv', mode='w') as file_names:
 df_links = pd.read_csv('document_links.csv')
 links_list = df_links['LINKS']
 # print(list(links_list))
-for each_link in list(links_list):
+for each_link in list(links_list)[1001:1500]:
     web_page = requests.get(each_link)
     contents = web_page.content
     soup = BeautifulSoup(contents, 'html.parser')
