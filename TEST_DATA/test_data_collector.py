@@ -11,12 +11,12 @@ import csv
 # download them and add those to a folder
 page_range = [x for x in range(1, 21)]
 
-with open('document_links.csv', mode='w') as doc_links_file:
-    link_writer = csv.writer(doc_links_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    link_writer.writerow(['LINKS'])
+# with open('document_links.csv', mode='w') as doc_links_file:
+#     link_writer = csv.writer(doc_links_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+#     link_writer.writerow(['LINKS'])
 # print(page_range)
 # initial_web_page = requests.get("https://www.docracy.com/doc/showall?sortBy=4&page=1")
-for each_num in page_range:
+for each_num in range(21, 31):
     # each_num = 1
     web_page = requests.get("https://www.docracy.com/doc/showall?sortBy=4&page=" + str(each_num))
     contents = web_page.content
