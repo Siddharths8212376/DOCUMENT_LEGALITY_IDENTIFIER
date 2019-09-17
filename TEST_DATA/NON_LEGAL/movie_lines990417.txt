@@ -1,0 +1,200 @@
+L597809 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ I'm... I'm not the king...
+L597808 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ There's no need to be afraid, sire.
+L598311 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ Noooo!
+L598310 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ I... I don't know... it'll sound like we... betrayed her...?
+L598208 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ Let them come!  Let them see who's the true king of France!
+L598207 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ There's no time, sire -- we can't hold up the ceremony... there's no telling when the English might come back... they're only ten leagues away...
+L598206 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ He's probably right -- let's call a delay...
+L597875 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ No doubt your captains will fight for your fine cause -- but what about the ordinary soldier?  They don't fight for causes these days. They fight for money.  Who's going to pay them?
+L597874 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ My captains have sworn their support.
+L597820 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ ... to ensure our privacy.  I need to talk to her.  Alone.
+L597819 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ ... as always, majesty...
+L597818 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ My dear loyal Tremoille, I know I can count on you...
+L597817 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ Your majesty, I really think you...
+L597776 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ Tremoille, I'm not even king yet... who'd want to assassinate me?
+L597775 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ Supposing she's an assassin?
+L597774 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ My astrologers assure me that the hour is p-p-propitious -- Leo, with Virgo rising.  Have you ever noticed on the astrological chart how the Virgin is next to the Lion?
+L597773 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ Your majesty, I urge you not to see this woman.  It all reeks of a Burgundian trap!
+L597757 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ The other half.
+L597756 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ I can see her if I want to.  I mean, with half of France in the hands of the English, what have I got to lose?
+L597755 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ Not exactly.  She wants you to give her an army -- at your expanse.  Bearing in mind that your mother stole every last piece of gold in the treasury, I fail to see how you can afford such an adventure.
+L597752 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ If she comes from Burgundy it makes a difference.  It might be a trap...  Look... Signed "X".  What sort of name is "X"?  Or must we conclude that a messenger of God can't even write her own name?
+L597751 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ What difference does it make where she comes from?
+L597750 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ You mustn't see her, my lord.  We know nothing about her... we don't even know if she is from Lorraine.
+L597749 +++$+++ u8322 +++$+++ m565 +++$+++ CHARLES +++$+++ She says she'll be here tomorrow...!
+L597748 +++$+++ u8336 +++$+++ m565 +++$+++ TREMOILLE +++$+++ She pretends she's been sent by God! These charlatans -- it's a pity there isn't enough wood to burn them all!
+L598588 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ That's enough!  You will answer the question... or face the consequences!
+L598587 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Go on to the next question.
+L598586 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ But if the devil were to take on the physical appearance of a saint or an angel... or a man... how would you recognize him?  By what he said?
+L598585 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I'm more interested in what he says, not what he looks like.
+L598584 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ Is it long and hanging down?
+L598583 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes.
+L598582 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ Does he have hair?
+L598581 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ His face.
+L598580 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ You told us about the appearance of this... voice.  What exactly did you see?  Part of it... or all of it?
+L598548 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Go and ask him yourself.
+L598547 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ Then why did your king believe in you without any proof?
+L598546 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ If there was, I didn't see it...
+L598545 +++$+++ u8323 +++$+++ m565 +++$+++ D'ESTIVET +++$+++ When you saw your king for the first time, was there an angel over his head?
+L598401 +++$+++ u8324 +++$+++ m565 +++$+++ DIJON +++$+++ I must offer to the Duke.  I will give you his answer tomorrow.
+L598400 +++$+++ u8334 +++$+++ m565 +++$+++ REGNAULT +++$+++ 8,000.  We can't raise more... We can only place ourselves at the mercy of your generosity.
+L598397 +++$+++ u8324 +++$+++ m565 +++$+++ DIJON +++$+++ 20,000 gold crowns.
+L598396 +++$+++ u8334 +++$+++ m565 +++$+++ REGNAULT +++$+++ May I, without offending you, inquire how generous?
+L598395 +++$+++ u8324 +++$+++ m565 +++$+++ DIJON +++$+++ I know... but the English want her very badly, and I have to tell you that they are proving much more generous.
+L598394 +++$+++ u8334 +++$+++ m565 +++$+++ REGNAULT +++$+++ It is all his majesty can afford. He has even donated his very own personal savings.  His majesty will greatly appreciate a gesture of good will in this delicate negotiation between our two families.
+L598393 +++$+++ u8324 +++$+++ m565 +++$+++ DIJON +++$+++ That's not a lot.
+L598392 +++$+++ u8334 +++$+++ m565 +++$+++ REGNAULT +++$+++ 5,000 gold crowns.
+L598191 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ The English won't wait.
+L598190 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Not yet.
+L598189 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Well...?  Shall we go?
+L598127 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ The bridge won't wait!
+L598126 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ We need another ten minutes...
+L598125 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Stand by with the battering-rams...
+L598103 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I know what I'm doing, so either lend a hand or go back to bed!
+L598102 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Jeanne, what are you doing with that... you've got it back to front...
+L598098 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ We're taking back the Tourelles!
+L598097 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ What's going on?
+L598040 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ The wind will be with us!  Do as I say.
+L598039 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ The wind will be against us...
+L598038 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Position the long-bows over there, crossbows over there -- and set up Dijon Culverins either side of those trees...
+L598028 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Sooner is better than later!
+L598027 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Can we -- uh -- discuss this later?
+L598026 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Dunois... was it you who ordered the attack?  Answer me?!
+L597985 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Knowing what I know?  Enormous gratitude.
+L597984 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Jeanne, put yourself in my shoes for a moment -- how would you feel, if you were me?
+L597983 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Ah, so that's it.  To you I'm just a girl.
+L597982 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Jeanne, you have to understand -- it's not easy for us -- I mean for our pride -- to suddenly be usurped by a -- well, with all due respect, by a... girl.
+L597981 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ "Be patient, be patient"... is that the only advice you can ever come up with??  I've shown more patience than a dozen saints!
+L597979 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ What complicated about it?  All you have to do is do what you're told -- what could be simpler than that? I'm the drum on which God is beating out his message -- beating so loudly it's bursting my ears -- but you're all so full of your own voices, you're deaf to His!
+L597978 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Jeanne, with respect -- we can't just attack the Tourelles like that -- it's a very complicated matter and...
+L597977 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ You know, I feel a great sorrow for you, because you're laughing now, but by tomorrow night some of you will be dead and having to repeat your jokes in front of God.
+L597973 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ God.
+L597972 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Jeanne, that really makes no sense at all.  The Tourelles is virtually impregnable... besides, if we're on the other side of the river attacking the Tourelles, what's to stop Talbot attacking the city from the north?
+L597971 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ We offer the English a last chance to return home in peace.  If they refuse, we recross the river and attack them here -- at the Tourelles.
+L597970 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ So... what is the message?
+L597950 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Fine -- go now if you want, but not with me!  You may have a duty to God but I have a duty to my people, and my people are starving!  So right now I'm going to take the food back to the city, and if you can please calm down, and let me accompany you to Orleans, it will be my honor to welcome you.
+L597949 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ You may have been with your counsel, but I've been with mine, and I'm telling you, God's counsel is wiser than yours, and he's telling me to speak to the English -- now!
+L597948 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Well.  I'd love to see that, but after taking counsel with my captains, I felt it would be better to first bring the food into the city, then wait till Alencon arrives with reinforcements before doing anything.
+L597947 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Because if they don't, I'll raise such a war-cry against them that they will remember us forever!
+L597946 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Because... because -- I mean -- the English have a broad sense of humor, but... I mean, you don't understand... to them you're a witch, working for the devil.  What makes you think they'll listen to you?
+L597945 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ For what?
+L597944 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Wait, wait...
+L597935 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ He's on the other side of the river.
+L597934 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Good.  Can you bring me to him?
+L597933 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ I know...
+L597932 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ It's coming -- I rode on ahead.  I have to speak with the Captain of the English army... his name's Talbot...
+L597931 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Everywhere.  Where is the food?
+L597930 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Good.  Where are the English?
+L597929 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Yes... they were.
+L597928 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Were you sent by Lord Dunois?
+L597919 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ As long as she brings food and supplies, she'll be welcome.
+L597918 +++$+++ u8337 +++$+++ m565 +++$+++ XAINTRAILLES +++$+++ But... don't you think we should at least... go and... welcome her?
+L597917 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Xaintrailles...!  Don't talk to me about miracles...  If I was still sitting there waiting for a miracle, I'd be dead now. Anyway...
+L597916 +++$+++ u8337 +++$+++ m565 +++$+++ XAINTRAILLES +++$+++ And it's not the first one!  They say she saved a little boy who was dying of...
+L597915 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Yes, it's a miracle.
+L597914 +++$+++ u8337 +++$+++ m565 +++$+++ XAINTRAILLES +++$+++ The Dauphin -- he's sending us food -- and supplies -- and an army -- led by Jeanne -- the maiden from Lorraine -- isn't it wonderful?!
+L597913 +++$+++ u8325 +++$+++ m565 +++$+++ DUNOIS +++$+++ Calm yourself, Xaintrailles.  Now slowly.  Who has finally done what?
+L597912 +++$+++ u8337 +++$+++ m565 +++$+++ XAINTRAILLES +++$+++ My lord Dunois... I have wonderful news! -- finally -- he's sending her to us -- thanks be to God -- we're saved -- it's wonderful!
+L598249 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ No good?  This is a disaster!
+L598248 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ This is no good!
+L598055 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Good idea...
+L598054 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Yes.  We can pray.
+L598053 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ There must be something we can do for her for Chrissakes!
+L597989 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Me too...
+L597988 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ I do love her when her fire gets well and truly stoked!
+L597976 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Oh, but I forgot!  It was a Sunday... that explains it.  God's day off.
+L597975 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Damn right!
+L597974 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ God... why of course -- we'd forgotten about him!  Strange, I don't seem to remember seeing him at Agincourt.
+L597850 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ That'll put fire in my soldiers!
+L597849 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Brilliant idea... but to be really effective, why not send a whole army of virgins?
+L598264 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ To hell with your voices -- it's time to face facts!  We have nothing to do here... none of us... not even you.  You should go home, Jeanne.
+L598263 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ But my voices... they promised me...
+L598262 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ He never sent them... Don't you understand?  He doesn't want this war anymore... he has his crown now, that's all he ever wanted...
+L598261 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ But... where is Dunois... where are the men the king promised me?
+L598260 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Jeanne... that is not ten thousand reinforcements -- that is one hundred very loyal but very tired soldiers.
+L598259 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Of course I do?  Bring them up!
+L598258 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Do you know how to count?
+L598257 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Never look behind -- only ahead!
+L598256 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Jeanne, look behind you.
+L598255 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Right behind us -- Dunois with another then thousand men!
+L598254 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Reinforcements?  Where??
+L598253 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ So... bring up the reinforcements!
+L598252 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Jeanne... we're not enough...
+L598251 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I know, but so is the enemy -- they're falling back -- Paris is ours...!
+L598250 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Jeanne... The men are exhausted!
+L598182 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Maybe... I don't know... but first we have to confess...
+L598181 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Bravo!  What about all the other hundreds of prisoners?  Do we let them go too?
+L598174 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I care!  And I care because God cares!  All life is precious to God -- even his -- even yours and mine...
+L598173 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Jeanne... let him do it.  One more dead body's not going to make any difference, so who cares?
+L598159 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ For weeks you've been asking for this... well now you have it!
+L598158 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No... not like this...
+L598157 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ You look disappointed... Isn't this what you wanted?
+L598120 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ Perfectly.
+L598119 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Clear?
+L598034 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ The English are rebuilding it.
+L598033 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ But the bridge has been pulled down!
+L598032 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ We return to Orleans... across the bridge, at the Tourelles.
+L597969 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't think.  I leave that to God. I'm nothing in all this, I'm just the messenger.
+L597968 +++$+++ u8326 +++$+++ m565 +++$+++ GILLES +++$+++ And... what does Jeanne think?
+L598597 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ It seems to me that the Church and Our Lord are one and the same.  Why must you complicate what is so simple?
+L598596 +++$+++ u8327 +++$+++ m565 +++$+++ JEAN LE MAISTRE +++$+++ But will you also submit to the decision of the Church?
+L598595 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I... submit to Our Lord.
+L598594 +++$+++ u8327 +++$+++ m565 +++$+++ JEAN LE MAISTRE +++$+++ So you think you did well to cut your hair and dress as a man?
+L598593 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ It was just... more convenient as I was among soldiers...
+L598592 +++$+++ u8327 +++$+++ m565 +++$+++ JEAN LE MAISTRE +++$+++ You also cut your hair short like a man, and in the Bible it clearly states that it is an abomination for a woman to pretend to be a man!  It proves your desire to deceive...
+L598591 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ The clothes are not important...
+L598590 +++$+++ u8327 +++$+++ m565 +++$+++ JEAN LE MAISTRE +++$+++ Who told you to wear men's clothes?
+L598640 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ Oh?  Perhaps someone pushed you then?
+L598639 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No!
+L598638 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ And you didn't jump of your free will?
+L598637 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes, but...
+L598636 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ You mean it was not of your own free will that you were on the ledge?
+L598635 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I know, but that's not the way things happened...
+L598634 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ Do you not know that suicide is a very grievous sin?  No one is allowed to destroy the life that God created!
+L598633 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ That's now what I meant...
+L598632 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ How can you deny it when you just said "I'd rather die than fall into the hands of the English"...?
+L598631 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No...!
+L598630 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ So when you jumped, you wanted to kill yourself?
+L598629 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No...
+L598628 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ Did your voice tell you to jump?
+L598627 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I had been sold to the English.  I'd rather die than fall into their hands.
+L598626 +++$+++ u8328 +++$+++ m565 +++$+++ JEAN MIDI +++$+++ Tell us, Jeanne... why did you jump from the tower at Beaurevoir?
+L598178 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Here -- take this instead.
+L598177 +++$+++ u8335 +++$+++ m565 +++$+++ SOLDIER +++$+++ Yeah...
+L598167 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ That's different... I mean... we were fighting for a... for a cause!
+L598166 +++$+++ u8335 +++$+++ m565 +++$+++ SOLDIER +++$+++ Besides, what about these...?
+L598164 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Because... because you just can't!
+L598163 +++$+++ u8335 +++$+++ m565 +++$+++ SOLDIER +++$+++ Why not?  He has good teeth...
+L598162 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ But you can't just kill a man for his teeth!
+L598161 +++$+++ u8335 +++$+++ m565 +++$+++ SOLDIER +++$+++ Nothing... just taking his teeth.
+L598160 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Stop it!  What are you doing?
+L598266 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ We still believe in you, Jeanne.  If it were up to me, I'd chase every goddamn Englishman into the ocean. But it's not up to us anymore -- it's up to the king...
+L598265 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ You don't believe me anymore?
+L598186 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I said, kneel!
+L598185 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Jeanne, if you don't mind... I'll stay standing... this armor... it's a nightmare to get back up...
+L598176 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ A few teeth... that's the price of his life?
+L598175 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Jeanne... the man hasn't been paid for six months -- that's his only reward.  Let him take a few teeth...
+L598172 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ If you kill him, you kill me!
+L598171 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Jeanne... get up... this is ridiculous...
+L598170 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Take mine instead -- here -- smash mine first!
+L598156 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ It's not possible...
+L598155 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ ... the smell of victory, Jeanne! Mmmmmmm!  I love it!
+L598154 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ You call this... glory...?  All this... this blood... this smell of...
+L598152 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Won?!  Such a small word will never do!  This is victory, Jeanne, this is... glory!
+L598151 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ We... won?!
+L598111 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Not for long...
+L598110 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ What's the use?  The drawbridge is up!
+L598109 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Prepare these as battering-rams!
+L598066 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I'd sooner die than use magic!
+L598065 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Physicians are a waste of time. You'll have more luck with this charm of mine... it saved my life at Agincourt!
+L598057 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Don't swear...
+L598056 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ I swear I'll never swear again in my life if you save her life!  But I'm warning you, if you let her die, then you're the biggest...
+L598024 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Were the men confessed?  Where are the priests?
+L598023 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ God knows, but it was a bad idea!
+L598022 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ What happened?  Who gave the order to attack?
+L597952 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ They will -- and so will you if you go on swearing like that.
+L597951 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Jesus Christ... the goddamn English will pay for this!
+L597943 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Then, Lord Dunois, show me the way to the other side of the river...
+L597942 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Jeanne, let me introduce the king's half brother, the dogged Lord Dunois.
+L597939 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Sorry Jeanne...  Did you both meet already?
+L597938 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ La Hire, I'm warning you -- don't swear!

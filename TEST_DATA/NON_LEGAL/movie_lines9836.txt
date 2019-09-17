@@ -1,0 +1,200 @@
+L224541 +++$+++ u5392 +++$+++ m358 +++$+++ DARYL +++$+++ Yeah.
+L224540 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ You go to Xavier High School, Daryl?
+L224539 +++$+++ u5392 +++$+++ m358 +++$+++ DARYL +++$+++ That was over thirty years ago.  I paid for that and then some.
+L224714 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ I'll go find Hayes.
+L224713 +++$+++ u5393 +++$+++ m358 +++$+++ DESK SGT. +++$+++ No, I think he's up in interrogation.
+L224712 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Where's the collar, in the cells?
+L224711 +++$+++ u5393 +++$+++ m358 +++$+++ DESK SGT. +++$+++ Just missed Deleon.  Hayes is up in the squad.
+L224710 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ They around?
+L224709 +++$+++ u5393 +++$+++ m358 +++$+++ DESK SGT. +++$+++ That's Deleon and Hayes' collar.
+L224708 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ I'm working with one of the victims outta Brooklyn North.  You mind I take a shot at him?
+L224707 +++$+++ u5393 +++$+++ m358 +++$+++ DESK SGT. +++$+++ Yeah.
+L224706 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ You got a collar in here for the Nightingale murders?
+L223971 +++$+++ u5402 +++$+++ m358 +++$+++ SUPERVISOR +++$+++ There's a manhole at Canal and Bowery.
+L223970 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ How do we get to the vault door?
+L223965 +++$+++ u5402 +++$+++ m358 +++$+++ SUPERVISOR +++$+++ We tried.  Bulkhead door's rusted shut. Won't budge.
+L223964 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ We gotta go underground.  Get those guys out, now.
+L223963 +++$+++ u5402 +++$+++ m358 +++$+++ SUPERVISOR +++$+++ Wish I was.  Oldest part of the system down there.  We're on it, but it's gonna take awhile.
+L223962 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ You're shitting me!
+L223961 +++$+++ u5402 +++$+++ m358 +++$+++ SUPERVISOR +++$+++ Switches are shorted out.
+L223960 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Why haven't they killed the juice?
+L224277 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Elvis has left the building.
+L224276 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ You okay, man?
+L224259 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Then fuckin' find it.  I'm going for the girl.
+L224258 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Gotta be another way up, Frank.
+L224255 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ One way to find out.
+L224254 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Don't know what's behind it.
+L224253 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ It looks open on the other side.
+L224233 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I'm alright, Gibby.
+L224232 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Frank.  Hey, man.  You alright?
+L223980 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ I should'a been a fucking mailman.
+L223979 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Stay with me, Gib.  We're gonna do this.
+L223978 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Frank.  We gotta go back.  Frank...
+L223954 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ I seem nervous, huh?
+L223953 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Hey, Rookie.  Be cool.  Just stay with me.  This is what we do.
+L223952 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Oh, yeah.  Damn.  My watch is busted.
+L223951 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ The game, Graham.  The Series?
+L223950 +++$+++ u5395 +++$+++ m358 +++$+++ GIBSON +++$+++ Baltimore?
+L223949 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Oh, man.  Hope it ain't like this in Baltimore tomorrow.
+L224765 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Frank...
+L224764 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Hey, bud.
+L224612 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I gotcha, I gotcha Chief!
+L224611 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Then you gotta hide it somewhere. Somewhere where nobody's gonna find it...for 29 years!  Put it under the loose floorboard by the window!
+L224493 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Yeah, but, no kidding around, he's a good guy, a real good guy...
+L224492 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ The future guy?
+L224491 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Jules, I want you to say hello to somebody...  I'm on with John - that guy I told you about.
+L224465 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ So am I.
+L224464 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I'm serious.
+L224463 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I'll be upstairs...if you want to play.
+L224461 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No.  Not our Johnny.  I mean, it's Johnny...but not now...in the future.
+L224460 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I know.  He loves that thing.
+L224459 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I've been talking to Johnny...on the radio.
+L224458 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Honey, what is it?  Just tell me.
+L224457 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I've been talking to this...guy...this cop...on the HAM...and, uh, he...
+L224456 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Okay...
+L224455 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ There's something I gotta take care of. Something I need to tell you about.
+L224374 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Do you know how much I love you?
+L224373 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Wish you weren't.
+L224372 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I'm off.
+L224371 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ He ain't the only one.
+L224370 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Boy is he excited about the game tomorrow.
+L224347 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I love you more.
+L224346 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I love you, Bud.
+L224340 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Probably marry some rich doctor and never have to work...
+L224339 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ One in each ear.  What would you do without me?
+L224338 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ You give him his drops?
+L224337 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I tucked him in at Gordo's.
+L224336 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Where's Johnny?
+L224333 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Nothing.  I just wanted to see you.
+L224332 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Frank...what's wrong?
+L224098 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Sure.
+L224097 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Frankie, Johnny wants to say goodnight.
+L224010 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Nothing wrong with old age, Frank...long as you get there.
+L224009 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ It was under control, Bud.  Butchy's just getting tight in his old age.
+L224008 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ He did.
+L224007 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Did he?
+L224006 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Butch called.
+L224005 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ The usual.
+L224004 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ How was your tour?
+L224002 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I'd go with you and Chinese take-out over her any time.
+L224001 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ You didn't marry Donna Reed.
+L224000 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What's the matter, Jules?  Trouble workin' an eight hour shift, watching the kid and whipping up a little bolognese?
+L223999 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I think I ruined the sauce...again.
+L223998 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ You alright?
+L223997 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Damn.
+L223996 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Well, why not a little of the King?
+L223995 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ How about a little of the King?
+L223991 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Hey, bud.
+L223990 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Hey, bud.
+L224763 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Get him home safe.
+L224762 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Next time lets put some money on it.
+L224761 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ You missed a hell of a game, Frank.
+L224759 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No kidding.  I'm on the corner of 65th and CPW.  Come get me.
+L224758 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Frank.  We know.  We know it's Shepard.
+L224757 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Satch, you gotta listen to me...
+L224756 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Deleon.
+L224700 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Go watch the game?  Go watch the fucking game?  Frank, they're gonna make you for Sissy Clark's murderer.  It matches the Nightingale's profile.  You understand what that means?
+L224699 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ In the bottom of the 7th, Weis is gonna hit a solo home run.  Jones and Swoboda are gonna score in the 8th.  The Mets are gonna win 5-3.  Go watch the game, Satch.
+L224698 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Frank, this is insane...
+L224697 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ The next batter, Clendenon, hits one outta the park.
+L224696 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Frank, please...
+L224695 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What if I told you that in the bottom of the 6th we're gonna be down 3-0.  And Cleon Jones is gonna get hit in the foot. It's gonna leave a scuff mark on the ball.
+L224694 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ How's that?
+L224693 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What if I could prove it to you, Satch?
+L224692 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Are you listening to me?  You're in a world of shit.  An eye witness has you outside the dead girl's apartment.  We got your prints all over the place.  Plus the fucking driver's license, Frank.  You gotta give me something here. Something I can believe.
+L224691 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ He's not gonna stop, Satch.  He's gonna keep on...
+L224690 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Frank, this is not the time to be worried about covering up if you had a thing with this girl.
+L224688 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Satch, would you listen to me here.  Just you and me.  Can I talk to you here, alone?
+L224687 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Uh, huh.
+L224686 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ As nuts as that sounds, yes.
+L224685 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Uh, huh...  Uh, huh.  And you got this from the guy you were talking to on the radio when I came in?
+L224684 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I swear, Satch.
+L224674 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ You can talk to Julia.  Forget the radio.
+L224673 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Okay, okay.  I need to go say something to Julia and finish up with the guy on the radio.
+L224672 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ I wanna be wrong here.  But we need to go to the precinct and talk about it.
+L224671 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No.  This isn't what you think.
+L224670 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ 415 Greenwich St.  #302.  Under the body of a murdered woman.
+L224669 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Do you know where I found this?
+L224668 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What do you mean?
+L224665 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Let's go.  Do us both a favor.
+L224664 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ About what?
+L224663 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Let's go outside and talk.  We need to do that.
+L224662 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No, I don't.
+L224661 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ I think you know, Frank.
+L224660 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What is going on here, Satch?  What are those guys doing out there?
+L224657 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ I'm sorry, Frank, but you need to come outside.
+L224656 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Satch, you gotta just give me...Satch is here John.  You hear me?  Satch is here.
+L224655 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ John, hold on a second.  I'm in the middle of something important here.  You mind if...
+L224654 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Frank, we need to talk...
+L224651 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Hello, Frank.
+L224650 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Okay, I'm on it.  Hey.
+L224102 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Luck, my ass.
+L224101 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Lucky throw, fire boy.
+L224310 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ I'm doing it!  I'm doing it!
+L224309 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Yes!  That's it!  You got it, you got it! Way to go, Chief!
+L224307 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I'm right here behind you...
+L224306 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ Wait...
+L224305 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ You ready?
+L224303 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No, but we can.  We can do it together. Spirit and guts, Chief.
+L224302 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ Daddy, Daddy, I can't.
+L224301 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Don't be scared.  This time I'm right behind you if you fall.
+L224300 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ I'm scared.
+L224143 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I'll be up soon, Little Chief.
+L224142 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ Daddy, come up and sing the baseball.
+L224015 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ C'mon, Chief, show some guts.
+L224014 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ Daddy, I'm scared.
+L224013 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Don't think about falling, just keep pedaling.
+L224012 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ Daddy put the wheels back on.  I'm gonna fall.
+L224011 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Okay, start pedaling.
+L223994 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Glad to hear that.
+L223993 +++$+++ u5398 +++$+++ m358 +++$+++ JOHNNY +++$+++ I know.  Sorry, Dad.
+L223992 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Looks like two weeks worth of allowance, Chief.
+L224771 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I don't remember.  Why don't I remember?
+L224770 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What's wrong?
+L224769 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Wait.  Something's wrong.  I don't...
+L224768 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ We did it, John.  We stopped him.
+L224767 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I'm here, Dad.  I'm here.
+L224678 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Satch is busting me for Sissy Clark's murder.  John...
+L224677 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah, Dad.  What the hell is going on?
+L224676 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ John, you there?
+L224659 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Just a minute, John...okay?  Don't go away.
+L224658 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Dad, what the hell is going on?
+L224653 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Dad, you there?
+L224652 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What are you doing here, Satch?  You off today?
+L224648 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Call the FBI.  Use a pay phone.  Don't give 'em your name, Dad.  Just tell 'em that it was Shepard who killed Finelli and Clark and the others.  That he's the Nightingale.
+L224647 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ You're telling me this maniac is a cop? What the hell am I supposed to do with that one?
+L224614 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Hang on.
+L224613 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ It's gonna work, Dad.  We're gonna stop him.
+L224610 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Huh?
+L224609 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Right, now I need you to tape it up on the outside, where he touched it, so the prints keep.
+L224608 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I got it.
+L224607 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Okay, okay...
+L224606 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Please, Dad, just do it.
+L224605 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What...
+L224604 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Listen to me, very carefully, take your wallet out, just touch it on the corners.
+L224603 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ How the hell am I gonna do that?
+L224602 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ His prints.  You've got his prints.  I'll run them through criminal index.  You gotta get me that wallet.
+L224601 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ What?
+L224600 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ We got him!  Dad you got him!
+L224599 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ In my pocket.
+L224598 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ He touched your wallet!  Where's your wallet?
+L224597 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ No, he tossed the wallet, but he kept the license.
+L224596 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ He took your wallet?
+L224595 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ He took my driver's license, John, he knows where we live.
+L224594 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ What?
+L224593 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ John, he's got my driver's license.
+L224592 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I need you to believe in me.  To believe that we can do this.
+L224591 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Johnny, I know, but...
+L224590 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ But we can, we can do it together. Spirit and guts, remember?
+L224589 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ I don't think I can.  I'm not a cop.  I can't.   I can't stop this guy.
+L224588 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I know...  But Dad, you can't go back.  You didn't die in that fire.  And no matter what you do, nothing is gonna change that.  So all we can do is deal with this...and try to make it right.
+L224587 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ This is wrong...it's like we cheated...
+L224586 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ No.
+L224585 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Yes it is...we did this.  We changed everything.  I've been having bad dreams, Johnny. Dreams where I die...in the fire.  I was supposed to die in that warehouse.
+L224584 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ It's not your fault, Dad.
+L224583 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ He killed her John.  He killed her and I didn't do a thing to stop it.
+L224520 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ Don't worry, Chief.  I'm not gonna let anything happen to her...no matter what.
+L224519 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah, I think so...
+L224518 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ You all right?
+L224517 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I'm right here, Dad.
+L224516 +++$+++ u5394 +++$+++ m358 +++$+++ FRANK +++$+++ John, you still there?

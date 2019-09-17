@@ -1,0 +1,200 @@
+L312163 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ I just did, but they said you left. This is a pickle, George, this is a pickle.
+L312162 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Why didn't you call me?
+L312159 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ George . . .
+L312158 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What is this, Uncle Billy? A holiday?
+L312018 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ That way, huh?
+L312017 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Now you just turn this way and go right straight down.
+L312016 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Old Building and Loan pal, huh . . .
+L312015 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Right down here.
+L312014 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Oh, thank you, George, old boy, old boy. Now, look –– if you'll point me in the right direction . . . would you do that? George?
+L312002 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, how do you do. Congratulations. Congratulations. What am I doing?
+L312001 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Well, what do you know –– wife.
+L311996 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ How do you do.
+L311995 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hello.
+L311988 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Peanut?
+L311987 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No, no, no, no! Anchor chains, plane motors, and train whistles.
+L311986 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Uh-huh. Breakfast is served; lunch is served; dinner . . .
+L311693 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ There's a squall in there that's shapin' up into a storm.
+L311692 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ It's important.
+L311691 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Some other time, George.
+L311690 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Got to see Pop, Uncle Billy.
+L311689 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Avast, there, Captain Cook! Where you headin'?
+L312510 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Five hundred dollars.
+L312509 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Yes . . . how much is your equity in it?
+L312507 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ I see. I've suddenly become quite important. What kind of security would I have, George? Have you got any stocks?
+L312506 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ They don't have that kind of money, Mr. Potter. You know that. You're the only one in town that can help me.
+L312505 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Well, what about all your other friends?
+L312504 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I can't get hold of him. He's in Europe.
+L312503 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Not that it makes any difference to me, but why did you come to me? Why don't you go to Sam Wainwright and ask him for the money?
+L312502 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ What is it –– a woman, then? You know, it's all over town that you've been giving money to Violet Bick.
+L312501 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No, sir. No, sir. I haven't.
+L312500 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No, sir. I didn't want the publicity. Harry's homecoming tomorrow . . .
+L312499 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Have you notified the police?
+L312498 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yes, sir.
+L312300 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ All right, sir.
+L312299 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ In the meantime, I'll draw up the papers.
+L312298 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I'd like to do that.
+L312297 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Sure, sure, sure. You go on home and talk about it to your wife.
+L312296 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, Mr. Potter, I . . . I . . . I know I ought to jump at the chance, but I . . . I just . . . I wonder if it would be possible for you to give me twenty-four hours to think it over?
+L312295 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Oh, confound it, man, are you afraid of success? I'm offering you a three year contract at twenty thousand dollars a year, starting today. Is it a deal or isn't it?
+L312294 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, what about the Building and Loan?
+L312293 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Oh, yes, George Bailey. Whose ship has just come in –– providing he has brains enough to climb aboard.
+L312292 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Would I?  You're not talking to somebody else around here, are you? You know, this is me, you remember me? George Bailey.
+L312291 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ You wouldn't mind living in the nicest house in town, buying your wife a lot of fine clothes, a couple of business trips to New York a year, maybe once in a while Europe. You wouldn't mind that, would you, George?
+L312287 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ The envious ones say that, George, the suckers. Now, I have stated my side very frankly. Now, let's look at your side. Young man, twenty-seven, twenty-eight . . . married, making, say . . . forty a week.
+L312286 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yes. Well, most people say you stole all the rest.
+L312285 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ You like it? I'll send you a box.
+L312284 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Thank you, sir. Quite a cigar, Mr. Potter.
+L311963 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I know very well what you're talking about. You're talking about something you can't get your fingers on, and it's galling you. That's what you're talking about, I know.  Well, I've said too much. I . . . You're the Board here. You do what you want with this thing. Just one thing more, though. This town needs this measly one-horse institution if only to have some place where people can come without crawling to Potter. Come on, Uncle Billy!
+L311962 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ I'm not interested in your book. I'm talking about the Building and Loan.
+L311961 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Just a minute –– just a minute. Now, hold on, Mr. Potter. You're right when you say my father was no business man. I know that. Why he ever started this cheap, penny-ante Building and Loan, I'll never know. But neither you nor anybody else can say anything against his character, because his whole life was . . . Why, in the twenty-five years since he and Uncle Billy started this thing, he never once thought of himself. Isn't that right, Uncle Billy? He didn't save enough money to send Harry to school, let alone me. But he did help a few people get out of your slums, Mr. Potter. And what's wrong with that? Why . . . Here, you're all businessmen here. Doesn't it make them better citizens? Doesn't it make them better customers? You . . . you said . . . What'd you say just a minute ago? . . . They had to wait and save their money before they even ought to think of a decent home. Wait! Wait for what? Until their children grow up and leave them? Until they're so old and broken-down that they . . . Do you know how long it takes a working man to save five thousand dollars? Just remember this, Mr. Potter, that this rabble you're talking about . . . they do most of the working and paying and living and dying in this community. Well, is it too much to have them work and pay and live and die in a couple of decent rooms and a bath? Anyway, my father didn't think so. People were human beings to him, but to you, a warped, frustrated old man, they're cattle. Well, in my book he died a much richer man than you'll ever be!
+L311960 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ You see, if you shoot pool with some employee here, you can come and borrow money. What does that get us? A discontented, lazy rabble instead of a thrifty working class. And all because a few starry-eyed dreamers like Peter Bailey stir them up and fill their heads with a lot of impossible ideas. Now, I say . . .
+L311959 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yes, sir.
+L311709 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ They're not my children.
+L311708 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Pop!
+L311704 +++$+++ u6059 +++$+++ m402 +++$+++ POTTER +++$+++ Have you put any real pressure on those people of yours to pay those mortgages?
+L311703 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Pop!
+L312132 +++$+++ u6061 +++$+++ m402 +++$+++ SAM'S VOICE +++$+++ Well, now listen. I want you to put every cent you've got into our stock, you hear? And George, I may have a job for you; that is, unless you're still married to that broken-down Building and Loan. This is the biggest thing since radio, and I'm letting you in on the ground floor. Oh, Mary . . . Mary . . .
+L312131 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Money? Yeah . . . well, a little.
+L312130 +++$+++ u6061 +++$+++ m402 +++$+++ SAM'S VOICE +++$+++ That so? Well, I'll tell him. Hey, that sounds great! Oh, baby, I knew you'd come through. Now, here's the point. Mary, Mary, you're in on this too. Now listen. Have you got any money?
+L312129 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, I don't know . . . why not right here? You remember that old tool and machinery works? You tell your father he can get that for a song. And all the labor he wants, too. Half the town was thrown out of work when they closed down.
+L312128 +++$+++ u6061 +++$+++ m402 +++$+++ SAM'S VOICE +++$+++ Well, why not? Can you think of anything better?
+L312127 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Rochester? Well, why Rochester?
+L312126 +++$+++ u6061 +++$+++ m402 +++$+++ SAM'S VOICE +++$+++ Well, Dad's snapped up the idea. He's going to build a factory outside of Rochester. How do you like that?
+L312125 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Huh? Yeah-yeah-yeah . . . soybeans. Yeah.
+L312124 +++$+++ u6061 +++$+++ m402 +++$+++ SAM'S VOICE +++$+++ I have a big deal coming up that's going to make us all rich. George, you remember that night in Martini's bar when you told me you read someplace about making plastics out of soybeans?
+L312746 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ You have no idea what happened . . .
+L312745 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You have no idea what's happened to me.
+L312744 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, George, George!
+L312743 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mary! Let me touch you! Oh, you're real!
+L312742 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, George, George, George.
+L312741 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ George, darling! Where have you been?
+L312740 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mary! Mary!
+L312455 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Going up to see Zuzu.
+L312454 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Where're you going?
+L312451 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Just a teensie one –– ninety-nine, six. She'll be all right.
+L312450 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Is she running a temperature? What is it?
+L312449 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Yes, I called him right away. He says it's nothing to worry about.
+L312448 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ The doctor? Was the doctor here?
+L312447 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Just a cold. The doctor says it's nothing serious.
+L312446 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What is it, a sore throat or what?
+L312445 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, she's got a cold. She's in bed. Caught it coming home from school. They gave her a flower for a prize and she didn't want to crush it so she didn't button up her coat.
+L312444 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Zuzu! What's the matter with Zuzu?
+L312431 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Left them at the office.
+L312430 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Where's your coat and hat?
+L312429 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yeah, just started.
+L312428 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Is it snowing?
+L312314 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Lassos the stork! You mean you . . . What is it, a boy or a girl?
+L312313 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ George Bailey lassos stork.
+L312312 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ My baby.
+L312311 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You didn't even have a honeymoon. I promised you . . .  . . . Your what?
+L312310 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I didn't want to marry anybody else in town. I want my baby to look like you.
+L312309 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You could have married Sam Wainwright or anybody else in town.
+L312308 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ To keep from being an old maid.
+L312307 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mary Hatch, why in the world did you ever marry a guy like me?
+L312306 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Hi.
+L312305 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hi.
+L312282 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Thanks for dropping around.
+L312281 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Have fun.
+L312245 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Darling, you're wonderful.
+L312244 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Remember the night we broke the windows in this old house? This is what I wished for.
+L312243 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, Mary . . .
+L312156 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I'll be back in a minute, Mary.
+L312155 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Please, let's not stop, George.
+L312154 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Just a minute, dear. Oh-oh . . .
+L312150 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ That does it –– come here.
+L312149 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ After that, who cares?
+L312147 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You know what we're going to do? We're going to shoot the works. A whole week in New York. A whole week in Bermuda. The highest hotels –– the oldest champagne –– the richest caviar –– the hottest music, and the prettiest wife!
+L312146 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I feel like a bootlegger's wife.  Look!
+L312145 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Where are we going?  Look at this. There's the kitty, Ernie. Here, come on, count it, Mary.
+L312135 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mary . . .
+L312134 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ George . . . George . . . George . . .
+L312100 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No, marriage is all right for Harry, and Marty, and Sam and you.
+L312099 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, it's just marriage in general you're not enthusiastic about, huh?
+L312098 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, of course I like her. She's a peach.
+L312097 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Don't you like her?
+L312096 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh . . . yeah, yeah. That's all right.
+L312094 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Thank you.
+L312093 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, I see it still smells like pine needles in here.
+L312092 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Well, then, sit down.
+L312091 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No, I don't want to be rude.
+L312090 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Would you rather leave?
+L312089 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ All right, for a minute. I still can't understand it though. You know I didn't tell anybody I was coming here.
+L312087 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, I worked there for a couple of vacations, but I don't know . . . I guess I was homesick.
+L312086 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ It's all right. I thought you'd go back to New York like Sam and Ingie, and the rest of them.
+L312085 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Do you like it?
+L312084 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Where'd you get that dress?
+L312083 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Tuesday.
+L312082 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ When did you get back?
+L312081 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, I'll come in for a minute, but I didn't tell anybody I was coming over here.
+L312080 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Well, are you coming in or aren't you?
+L312077 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I didn't tell anybody. I just went for a walk and happened to be passing by . . .
+L312076 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Didn't you tell her?
+L312075 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ My mother just called you? Well, how did she know?
+L312074 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ About coming in. Your mother just phoned and said you were on your way over to pay me a visit.
+L312073 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ About what?
+L312072 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Have you made up your mind?
+L312071 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ How's that?
+L312070 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Yeah, so I noticed. Have you made up your mind?
+L312069 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hello, Mary. I just happened to be passing by.
+L311938 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I'm going to scream!
+L311937 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ They're way downtown. They'd be on my side, too.
+L311934 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Gesundheit. This requires a little thought here.
+L311933 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Ouch!
+L311922 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, then you could swallow it and it'd all dissolve, see? And the moonbeams'd shoot out of your fingers and your toes, and the ends of your hair.  Am I talking too much?
+L311921 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I'll take it. And then what?
+L311920 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What is it you want, Mary? What do you want? You want the moon? Just say . . .
+L311919 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ If I told you it might not come true.
+L311918 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Come on, tell me.
+L311917 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, no.
+L311915 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, not just one wish. A whole hatful, Mary. I know what I'm going to do tomorrow and the next day and the next year and the year after that. I'm shaking the dust of this crummy little town off my feet and I'm going to see the world. Italy, Greece, the Parthenon, the Colosseum. Then I'm coming back here and go to college and see what they know . . . and then I'm going to build things. I'm gonna build air fields. I'm gonna build skyscrapers a hundred stories high. I'm gonna build bridges a mile long . . .
+L311914 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ What'd you wish, George?
+L311913 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I wouldn't live in it as a ghost. Now watch . . . right on the second floor there.
+L311912 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Uh-huh.
+L311911 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ In that place?
+L311910 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, no, George, don't. It's full of romance, that old place. I'd like to live in it.
+L311908 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Oh, no, don't. I love that old house.
+L311907 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Okay, then, I'll throw a rock at the old Granville house.
+L311906 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Ummmmm . . .
+L311905 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ You may kiss my hand.
+L311904 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Your . . . your caboose, my lady.
+L311900 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, no. Just right. Your age fits you. Yes, sir, you look a little older without your clothes on.
+L311899 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Too young or too old?
+L311898 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Eighteen? Why, it was only last year you were seventeen.
+L311897 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Eighteen.
+L311896 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I don't know. Maybe I will say it. How old are you anyway?
+L311895 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Well, why don't you say it?
+L311894 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I guess I'm not quite the football type. You . . . look wonderful. You know, if it wasn't me talking I'd say you were the prettiest girl in town.
+L311893 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Do I look as funny as you do?
+L311891 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Beautiful.
+L311890 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hot dog! Just like an organ.
+L311886 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Okay –– what can we lose?
+L311885 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Neither am I.
+L311884 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I'm not very good at this.
+L311882 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Uh-uh. That was a little girl named Mary Hatch. That wasn't you.
+L311881 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Uh-huh.
+L311880 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Me?
+L311879 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ You've passed me on the street almost every day.
+L311878 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, I don't.
+L311877 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ Hello. You look at me as if you didn't know me.
+L311876 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, hello.
+L311666 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Of course you never. Only us explorers can get it. I've been nominated for membership in the National Geographic Society.
+L311665 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ A new magazine! I never saw it before.
+L311664 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You don't like coconuts! Say, brainless, don't you know where coconuts come from? Lookit here –– from Tahiti –– Fiji Islands, the Coral Sea!
+L311663 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I don't like coconuts.
+L311662 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ With coconuts?
+L311661 +++$+++ u6054 +++$+++ m402 +++$+++ MARY +++$+++ I'll take chocolate.
+L311660 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Made up your mind yet?
+L311807 +++$+++ u6047 +++$+++ m402 +++$+++ HARRY +++$+++ Okay, Mom. You coming later? You coming later, George?
+L311806 +++$+++ u6055 +++$+++ m402 +++$+++ MOTHER +++$+++ Put those things in the car and I'll get your tie and studs together.
+L311793 +++$+++ u6055 +++$+++ m402 +++$+++ MOTHER +++$+++ Oh, no you don't. Harry, now, not my best Haviland.
+L311792 +++$+++ u6047 +++$+++ m402 +++$+++ HARRY +++$+++ Oh, Mom –– I'm chairman of the eats committee and we only need a couple of dozen.
+L311791 +++$+++ u6055 +++$+++ m402 +++$+++ MOTHER +++$+++ What plates?
+L311790 +++$+++ u6047 +++$+++ m402 +++$+++ HARRY +++$+++ Pop, can I have the car? I'm going to take over a lot of plates and things.
+L311785 +++$+++ u6047 +++$+++ m402 +++$+++ HARRY +++$+++ I don't care. It's George's tux.
+L311784 +++$+++ u6055 +++$+++ m402 +++$+++ MOTHER +++$+++ Well, aren't you going to finish dressing for your graduation party? Look at you.
+L311783 +++$+++ u6047 +++$+++ m402 +++$+++ HARRY +++$+++ I've eaten.
+L311782 +++$+++ u6055 +++$+++ m402 +++$+++ MOTHER +++$+++ Oh, you two idiots! George, sit down and have dinner.
+L312386 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Hmm? Well, I . . .
+L312385 +++$+++ u6062 +++$+++ m402 +++$+++ TELLER +++$+++ How about that one there?
+L312384 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Oh, shucks . . .

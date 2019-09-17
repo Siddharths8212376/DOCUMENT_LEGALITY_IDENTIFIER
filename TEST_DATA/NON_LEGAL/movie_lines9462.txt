@@ -1,0 +1,200 @@
+L583708 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ You were convicted of the crime.
+L583706 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ You're not crazy.
+L583705 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Because I don't think I'm crazy.
+L583704 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ I guess I'd ask you why.
+L583703 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ And if I didn't want to come?
+L583959 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ I've been here for 11 years. It's my neighborhood. 'Course I'm sure. He's as drugged up as the rest of us...I guess he has to be to put up with all this.
+L583958 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Becker does? Are you sure?
+L583957 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ [Shrugging] What if we are? There're crazier things than thinking up fictions for yourself. [Beat] Everyone does it, don't they? Even Becker. That roller coaster car pops more pills than all of Ward 3.
+L583956 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ MacKenzie, [beat] what if we are crazy?
+L583952 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Is it true?
+L583951 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ Geez, how's that for a fucking "thank you"?
+L583740 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ You could still always give Becker an itch. 'Course you might get killed when he goes to scratch it, but seems to me you're saying that's about to happen anyway. [Beat] Just be careful not to walk yourself right into something.
+L583739 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ So what am I supposed to do?
+L583738 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ 'Cause Lorenson's got her claws in it now. When she started getting suspicious about me was when they stopped using it on me. Women!
+L583737 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Why?
+L583736 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ It's gonna be sticky.
+L583732 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No. [Beat] I mean I found out while I was in it that my body's gonna be found in four days.
+L583731 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ Oh no, you're pretty young. Your body'll be able to handle a lot more of it than you think...
+L583730 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ The Jacket.
+L583729 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ [Beat] How do you know?
+L583728 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Gravely] No, I mean in four days, I'm supposed to die.
+L583727 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ Mortality's actually a great thing to be familiar with. It means you're sane on some level.
+L583726 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Cutting in] MacKenzie, listen to me. Listen. I'm going to die.
+L583725 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ I know you need one when it's really cold.
+L583723 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Yeah, you were. What you said about them taking me out to the woods...
+L583722 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ I wasn't talking about anything.
+L583721 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ What were you talking about the other day?
+L583484 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ Or just plain stupid. You'd think by the twentieth time, I'd have found an alternative method. Maybe a more effective one, if you know what I mean.
+L583483 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Yeah, well 30 times probably would make you seem crazy.
+L583481 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ I tried something like 30 times. There is, as STARKS rightly figures, no suitable response to that.
+L583480 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Don't you go to jail for that?
+L583479 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ I tried to kill my wife.
+L583477 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ TV. Helps numb [makes a "crazy gesture"] any active mind. [Sticking out a jittery hand] Rudy MacKenzie.
+L583476 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Yeah, guess so. How'd you know?
+L583475 +++$+++ u3251 +++$+++ m215 +++$+++ MACKENZIE +++$+++ That's Kingsley. Old bastard hears us, I'm sure. He just doesn't want to bother answering so he makes us think he can't talk. I know. I tried it on my mother for two months once before she fished out my tongue. Literally. [Beat] You're the cop killer, right?
+L584079 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ Great, get in. We'll switch off in a bit.
+L584078 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Sure.
+L584077 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ Can you drive?
+L584076 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ I'm going to Canada but I can let you ride with me up to the border.
+L584075 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Where are you going?
+L584074 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ Hey, Mister, you need a ride?
+L583779 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I doubt it. [Beat] I don't think prison's so bad you don't want to remember it...
+L583778 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ It's worse than war. It's worse than anywhere you've ever been.
+L583777 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No.
+L583776 +++$+++ u3253 +++$+++ m215 +++$+++ TENNY +++$+++ You ever been to jail?
+L583608 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ That when you stopped being a nurse?
+L583607 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Yeah, me too. [Softly] Every day for the last ten years.
+L583606 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm sorry.
+L583605 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ She fucked herself up day after day and then, one day, she fell asleep with a burning cigarette. [Beat] I came home from work and she was gone.
+L583604 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ How?
+L583603 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Never knew my father. I grew up with my mother. Actually, I grew up around my mother. She was great though. I mean, the way she was with her friends... She was this woman who had so much life in her, she had to find ways to kill some of it just to be like the rest of us. [Beat] She died young.
+L583602 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Yeah. [Beat] How about you?
+L583601 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ I'm sorry.
+L583600 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I guess not. But, as of now, I never knew either.
+L583599 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ So you never knew your mother?
+L583598 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ They told me I joined the army when I was seventeen. That's when my father died and, before that, it was apparently just me and him since I was born 'cause my mom split.
+L583597 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ May be easy to remember, but not easy to get. Being warm, maybe -- but, look, you don't even have a coat and I still have to chop wood to make a fire. [Beat] And, being happy...you tell me if that's simple.
+L583596 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ But hey, who can forget those words? The man just wants simple and good things for his woman -- that she be warm and happy. How hard can that be to remember?
+L583595 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ You remember it?
+L583594 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ This is a great song.
+L583591 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Maybe. [Beat] Maybe not.
+L583590 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You don't think that's crazy?
+L583589 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ [Beat] Real is overrated.
+L583588 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] Why?
+L583587 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Well, good for you.
+L583585 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I don't know, but I think part of it's...
+L583584 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Shit happens, and your life changes. 'Bout the best explanation of a lot of things that happen. [Beat] So how come you don't know where you're coming from?
+L583583 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] Why'd you stop?
+L583582 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Have you always been a waitress?
+L583581 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ [Beat] I do it.
+L583580 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You like it?
+L583579 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Yup. That's me.
+L583578 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ So you're a waitress, right? I mean...from the uniform you were wearing.
+L583577 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Thanks.
+L583576 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ This is pretty good. Considering...
+L583575 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Sure.
+L583574 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ You want a drink?
+L583573 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ No, it's fine. [Beat, swallow] Thanks.
+L583572 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I only lit it because it was so cold in here. I'm sorry if...
+L583571 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ The best I could do with what was in your fridge.
+L583570 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ What's this?
+L583567 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ You know what? It's Christmas Eve. And you look clean -- I mean, you're normal-looking. [Resolutely, for her own benefit] It's Christmas Eve, and I have a couch.
+L583566 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] Yeah, I'm fine.
+L583564 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No, I'm ok.
+L583563 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ No, you won't. You'll die of cold out there and then I'll have to feel guilty. And I've already got more guilt than I know what to do with. [Beat] Do you want something to drink?
+L583562 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'll manage.
+L583561 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Where are you going? You'll freeze out there. You don't even have a coat.
+L583560 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Nothing. [Getting up] Thanks for bringing me this far.
+L583559 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Great. That was our last option. What am I going to do with you?
+L583557 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No. [Beat] Not around here.
+L583556 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Well, don't you somewhere? Stuff? Belongings?
+L583555 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No.
+L583554 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Do you have a motel or something? Money?
+L583553 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] I was dropped off.
+L583552 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Well, how'd you get here?
+L583548 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Well, you definitely didn't pick normal or simple this time either.
+L583547 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Because in my life, it wouldn't make sense for me to pick up some normal guy with a place where he's from and a place where he's going to. It'd be too simple. I probably wouldn't know how to handle a situation like that.
+L583546 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Why "of course"?
+L583545 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Of course you don't know.
+L583544 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm not sure. [Beat] I don't really know.
+L583543 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Well, where are you from?
+L583542 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I don't think so.
+L583541 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ You don't have anywhere to stay?
+L583540 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm not sure.
+L583536 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Let me ask you that again. This time, look around and consider your options.
+L583535 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm not sure.
+L583534 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ All right. [Beat] You got somewhere you need to go, Mister?
+L583533 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] Thanks.
+L583532 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ In case you hadn't figured, it's Christmas Eve. You're never gonna get a cab here.
+L583530 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ Good.
+L583529 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] I'm not deaf.
+L583528 +++$+++ u3254 +++$+++ m215 +++$+++ WAITRESS +++$+++ If you're deaf, read my lips...I don't need a psycho following me today.
+L595254 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Go fuck yourself.
+L595253 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ What?
+L595252 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Darryl.
+L595248 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ No you won't.  You'll be back today. Now!  You get your ass back here, Thelma, now, Goddamnit.  Thelma, do you understand me?
+L595247 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ ... only for one day and we'll be back tomorrow night.
+L594978 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ See ya.
+L594977 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ 'Bye, honey.  I won't wait up.
+L594976 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ Well then, it's a good thing you're not regional manager and I am.
+L594975 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Funny how so many people wanna buy carpet on a Friday night.  You'd almost think they's want to forget about it for the weekend.
+L594974 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ No, Thelma, I don't give a shit what we have for dinner.  I may not even make it home for dinner.  You know how Fridays are.
+L594973 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ You want anything special for dinner?
+L594972 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ What?!
+L594971 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Hon?
+L594970 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ Uh-huh.
+L594969 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Have a good day at work today.
+L594968 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ What.
+L594967 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Hon.
+L594966 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I'm sorry, Doll, I just didn't want you to be late.
+L594965 +++$+++ u3255 +++$+++ m216 +++$+++ DARRYL +++$+++ Damnit, Thelma, don't holler like that!  Haven't I told you I can't stand it when you holler in the morning.
+L595456 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ I gotta go to Little Rock.
+L595455 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ In the leg.
+L595454 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ That's what everybody says.  Only problem is nobody's husband was unaccounted for that night... Could you shoot Eddie in the face?  At point blank range?
+L595453 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ Honey.  Nothing's impossible.  You just don't shoot someone like that for no reason.  Maybe he was askin' for it.  Anyway, somebody's husband probably got ol' Harlan.
+L595452 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Yeah, I could too.  But... I don't know why I'm even asking you this. It's just... we can't place anybody at the scene but these two gals that everybody swears is sweet as pie. I don't know.  I keep hearing words -- impossible -- inconceivable.  If just one person would say...
+L595451 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ Well, maybe if they were trying to hurt you or one of the kids.  I'm sure I could shoot someone if they tried to hurt one of the children.
+L595450 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ On what?
+L595449 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ I don't know, honey.  I guess it would depend.
+L595448 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ I'm asking you seriously, Sarah, a stranger?
+L595447 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ Because he's an inconsiderate asshole.
+L595446 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Why?
+L595445 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ I could shoot your cousin Eddie.
+L595444 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Do you think you could ever think of a set of circumstances that would just cause you to haul off and shoot someone?
+L595443 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ What?
+L595442 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Do you think you could ever shoot someone?
+L595441 +++$+++ u3265 +++$+++ m216 +++$+++ SARAH +++$+++ Yes, baby?
+L595440 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Honey?
+L595582 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ There's two girls out there that had a chance, they had a chance...!  And you blew it for 'em.  Now they've gotten in some serious trouble, some very serious trouble and for at least part of it, I'm gonna hold you personally responsible for anything that happens to them.  I've got no feelin' for you.  But I may be the only person in the world who gives a rat's ass what happens to them and you're either gonna tell me every damn thing you know, so there's a small chance I can actually do them some good, or I'm gonna be all over you like a fly on shit for the rest of your natural life.  Your misery is gonna be my goddamn mission in life.  That's a sincere promise.
+L595581 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ How do you know I took it?  How do you know they didn't just give it to me?
+L595575 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You know what?  You're starting to irritate me.
+L595574 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Now that you mention it, they might have been a little bit jumpy.
+L595573 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Did either of them ever indicate that they might be running from the Law?
+L595570 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ You might say we had a meeting of the minds, yes.
+L595569 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ He said he took it to a motel in Oklahoma City.  He also says that at that time he met a man.  He identified you through a series of mug shots.  He also told us that you and Mrs. Dickinson seemed "close." Is that true?
+L595568 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Umm, yes.  She was driving.
+L595567 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ We spoke with a gentlemen today who says he personally delivered very close to that same amount to a Miss Louise Sawyer.  Do you know her too?
+L595564 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Well, son, she's doin' a damn sight better 'n you right now.
+L595563 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Alright!  She did good!  Didn't she?
+L595562 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Aw, God.
+L595561 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ That's Thelma Dickinson's husband.
+L595560 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Who's the nut?
+L595132 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Alright, Lena.  Go on home.  We might have to call you in for some more questioning.
+L595131 +++$+++ u3260 +++$+++ m216 +++$+++ LENA +++$+++ It's a nightclub, not a drive-in, Hal.  I don't follow the customers to the parking lot.
+L595130 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You didn't happen to notice what kind of car they were driving?
+L595129 +++$+++ u3260 +++$+++ m216 +++$+++ LENA +++$+++ Well, if I had to guess, I'd say it was some ol' gal, some ol' gal's husband.  But it wasn't either one of those two.  The tall one, the redhead, she left me a huge tip.
+L595128 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Lena, just cut the bullshit, will ya?  Do have any ideas or don't ya? I been standin' in this stupid parkin' lot all goddamn night, and I still got to go file a report before I can go home in time to get back up again!
+L595127 +++$+++ u3260 +++$+++ m216 +++$+++ LENA +++$+++ Has anybody asked his wife?  She's the one I hope did it.
+L595126 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Who do you think did it?
+L595125 +++$+++ u3260 +++$+++ m216 +++$+++ LENA +++$+++ If waitin' tables in a bar don't make you an expert on human nature, then nothin' will, and I could've told you that Harlan Puckett would end up buyin' it in a parkin' lot. I'm just surprised it didn't happen before now.
+L595124 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Well, you're not exactly an expert witness, but what makes you so sure?
+L595123 +++$+++ u3260 +++$+++ m216 +++$+++ LENA +++$+++ Hal, I've told you about twenty times, yes, I could identify 'em, but neither one of them was the type to pull something like this.
+L595122 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Could you identify 'em, if ya saw 'em again?
+L595766 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Louise, I'll do anything.  I know what's makin' you run.  I know what happened to you in Texas.
+L595765 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ You know, certain words and phrases just keep floating through my mind, things like incarceration, cavity search, life imprisonment, death by electrocution, that sort of thing. So, come out alive?  I don't know. Let us think about that.
+L595762 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You want to come on in?
+L595761 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ No!
+L595759 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ I do believe you.  That's what I want everybody to believe.  Trouble is, it doesn't look like an accident and you're not here to tell me about it... I need you to help me here.
+L595758 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Would you believe me if I told you this whole thing is an accident?
+L595757 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You're gettin' in deeper every moment you're gone.
+L595755 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Well, we're not in the middle of nowhere, but we can see it from here.
+L595754 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You're still with us though.  You're somewhere on the face of the earth?
+L595753 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Weird.  Got some kind of snowball effect goin' here or somethin'.
+L595752 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ How are things goin' out there?
+L595751 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Hey.
+L595610 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Sure.  Maybe over coffee sometime. I'll buy.
+L595609 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Good.  You wanna tell me what happened?
+L595608 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ We're both fine.
+L595606 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Yes, sir.  I know.
+L595605 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ You girls are in some hot water.
+L595604 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ I've been better.
+L595203 +++$+++ u3262 +++$+++ m216 +++$+++ MAJOR +++$+++ Somebody's butt is gonna bar-b-que.
+L595202 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ I have no problem with that.
+L595201 +++$+++ u3262 +++$+++ m216 +++$+++ MAJOR +++$+++ Why don't we go ahead and let the bureau in on this.
+L595200 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ That's certainly possible.
+L595199 +++$+++ u3262 +++$+++ m216 +++$+++ MAJOR +++$+++ Is there any reason to believe they've left the state?
+L595198 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Alright.
+L595197 +++$+++ u3262 +++$+++ m216 +++$+++ MAJOR +++$+++ Well, you'd best get something. Even if they didn't do it, it times out that they most likely witnessed it.  I want somebody to at least talk to 'em.  Put out an APB with a description and see what we get back.
+L595196 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ All we know is there were two women in a green T-Bird convertible that turned left out of the parking lot, going real fast.  We're trying to get a make on the car, but nothin' yet.  So far, we got nothin'.
+L595539 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Oh, great.

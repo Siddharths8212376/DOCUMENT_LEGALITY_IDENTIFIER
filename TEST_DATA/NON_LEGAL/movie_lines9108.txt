@@ -1,0 +1,200 @@
+L255258 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ You are seeing it. You're looking right at it.
+L255257 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ Well, I'd have to see it, of course.
+L255256 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ I have only one thing now. Are you interested?
+L255255 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ You'll give us an opportunity to serve you again, I hope. If there's anything you think we might be interested in...
+L255254 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ It's not your fault.
+L255253 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ I hope you're not too badly disappointed with us, Mrs. Langtry.
+L255252 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ I'll get you a check.
+L255251 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ All right.
+L255250 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ Why, of course it is. I can offer you -- well, five hundred dollars.
+L255249 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ It was a gift. It isn't worth anything at all?
+L255248 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ Glass will cut glass, Mrs. Langtry. Do you know where it was purchased?
+L255247 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ But they must be! They cut glass!
+L255246 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ This is some of the finest filigreed platinum I've ever seen. But the stones, no. They're not diamonds, Mrs. Langtry.
+L255245 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ What is?
+L255244 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ I can't understand a thing like this. It's something you almost never see.
+L255243 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ But what's wrong?
+L255242 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ You are a valued customer, as you know.
+L255241 +++$+++ u1213 +++$+++ m79 +++$+++ MYRA +++$+++ Why? What's wrong?
+L255240 +++$+++ u1208 +++$+++ m79 +++$+++ JEWELER +++$+++ Mrs. Langtry, I'm sorry.
+L255842 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Fair enough.
+L255841 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ That's what we'll do, then. But I tell you what, Roy. Before I hire anybody else, I'll ask you one last time. Fair enough?
+L255840 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Oh, I'd like to stay on. Just keep everything the way it was.
+L255839 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Well, Roy, if that's the way you feel, I won't badger you.  Don't want to lose you as a salesman, too.
+L255838 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Maybe I'm just not ready for that yet.
+L255837 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ A well-rounded life. I respect that. But it has to have a center, Roy, something you care about, something you can think about.
+L255836 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Okay, fine. Perk, the truth is, I like things the way they are now. Pick my own hours, have time for, uh, other activities...
+L255835 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Perk, remember?
+L255834 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ The truth is, Mr. Kaggs --
+L255833 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Oh, come on, Roy.
+L255832 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I guess I'm just not a leader of men.
+L255831 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ You're turning me down? Makes no sense, Roy.
+L255830 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Mr. Kaggs, I'm sorry.
+L255829 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Good to have you back, Roy. I was just looking at --
+L255581 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Perk.
+L255580 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ And I'm Perk. Short for Percy, I'm afraid.
+L255579 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Oh, sure. Fine.
+L255578 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ See you in a week, Roy. I can call you Roy?
+L255577 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well...
+L255576 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ I take care of the being-fair-to-me department. Things've gone to hell this long, they can go a little longer.
+L255575 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ But you need a man right now. It wouldn't be fair to you to --
+L255574 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ I didn't realize. Yeah, you do look a little pale. How soon will you be ready? A week?
+L255573 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I can't take that job! I mean, I mean, I can't take it right away. I'm still recuperating, I just dropped in to say hello, see everybody --
+L255572 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ No?
+L255571 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well, uh... No.
+L255570 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ That's just the first year. If you aren't worth a lot more than that the second year, I'll kick you out. What do you say?
+L255569 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ What? Me?
+L255568 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ I don't know offhand what your best year's been, we can look it up. The idea is, we'll top it by fifteen percent.
+L255567 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Sounds like a good Idea.
+L255566 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ That's right, you've had to supervise yourself. This place needs a sales manager. Somebody who's proved he's a salesman and can handle other salesmen. He'd have a lot of deadwood to clear out, new men to hire. What do you think?
+L255565 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Just myself.
+L255564 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Makes no difference to me if they're only on commission. If they don't make good money, they're not giving us good representation, and we can't afford to have them around. Ever supervise salesmen?
+L255563 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ So I heard.
+L255562 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ When I said you being the best salesman here didn't say much, I meant for us. I know your record with Sarber and Webb, and I'd say you're a top-flight man, but you've had no incentive. No one walking on your heels. Just a lot of half asses, so the tendency's been not to stretch yourself. I'm bouncing the slobs, incidentally.
+L255560 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Lead on.
+L255559 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ You're right. I apologize. But I still want to talk to you.
+L255558 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ That was a pretty backhanded compliment. If I let people get away with things like that, I wouldn't be a good salesman.
+L255557 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ What's up?
+L255556 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ I know that. Knew it when I saw you out there. The best salesman here, which isn't saying much. Want to talk to you, Dillon.
+L255555 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Roy Dillon.
+L255554 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Kaggs. Home office.
+L255541 +++$+++ u1209 +++$+++ m79 +++$+++ KAGGS +++$+++ Hello.
+L255540 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Whadaya say?
+L256049 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ NO!
+L256048 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Is there nothing I can do, Roy, nothing at --
+L256047 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Lilly, Jesus, what are you doing?
+L256045 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I have to have that money, Roy. What do I have to do to get it?
+L256044 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ There's nothing more to talk about.
+L256040 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ What?
+L256039 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Roy... What if I told you I wasn't really your mother? That we weren't related?
+L256038 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Just trying to help, Lilly.
+L256037 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ ) That's what it is, isn't it? Keep me down. Your turn to be in charge, have the power.
+L256036 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ That money wouldn't last forever. And then what? You'd be back in some other part of the rackets. Another Bobo Justus to slap you around and burn holes in your hands. This way, you've got to go the square route. You could send me a card when you're settled, I could maybe help out sometimes...
+L256035 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ A future. The only future I've got.
+L256034 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ If I should get out of the racket, that goes double for you. That's why you've got to change your life completely, go to some town, get a square job, live like a john yourself. If you try to do it your way, what future is in it?
+L256032 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Oh, that's it! You're stealing my money for my own good! How very motherly of you, Lilly.
+L256031 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ And that's why you've got to get rid of this money. If you keep it around, it'll just make you think how clever you are. It'll be a temptation to get back into the game.
+L256030 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well, it doesn't matter, does it? I'm getting out.
+L256029 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Sure, sure, that doesn't count. That's different.
+L256028 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well, uh...
+L256027 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Well, I guess I got it wrong, then. Seems to me I heard about a guy just your age that got hit so hard in the guts it almost killed him.
+L256026 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I don't see why not.
+L256025 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ If you stayed a crook, do you think you'd live to be my ripe age?
+L256024 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I don't?
+L256023 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ That's good. You don't really belong on this side of the fence, you know.
+L256022 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ That's right.
+L256021 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You're getting off the grift?
+L256020 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ No.
+L256019 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I gave you your life twice. I'm asking you to give me mine once. I need the money.
+L256018 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ For God's sake, Lilly!
+L256017 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ And making you feel bad at the same time, huh? But that's the way I am, you know, the way I've always been. Always picking on poor little Roy.
+L256016 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ What do you want me to do? Pin a halo on you? You're doing a pretty good job of that yourself.
+L256015 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No, I guess not. It was pretty lousy of me, I guess, to be a child at the same time you were. Not to stop being a child just because I had a child. I guess I was a real stinker not to be a grown-up when you needed a grown-up.
+L256014 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Never.
+L256013 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I wonder did you ever think about it from my side.
+L256012 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Uh-huh.
+L256011 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ A bad mother. By any standards. I've thought about it, you know, from your side, since then. I know just how bad I was.
+L256010 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Not very good!
+L256009 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Oh, really? You've got a legitimate complaint, Roy, I don't deny that. I wasn't a very good mother when you were a kid.
+L256008 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Oh? I didn't know anything was.
+L256007 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I know what's bugging you, of course.
+L256006 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Oh, you'll live, Lilly.
+L256005 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You don't know what I'd do, Roy. You have no idea. To live.
+L256002 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I'll get it.
+L256001 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Yeah, sure, that sounds nice.
+L256000 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No, but I'm goddamn thirsty. Ice water?
+L255999 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I don't think so. You probably shouldn't either.
+L255998 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You want a drink?
+L255997 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ No.
+L255996 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ And to survive, my way, I need money. Bobo knows about the stash in the car, so I didn't dare touch it, not if Lilly Dillon's dead. So that leaves this.
+L255995 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I know you do, so that's why --
+L255994 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Bobo isn't after you! Bobo's after me, and he's goddamn good! But so am I. I'm a survivor, Roy. I survive.
+L255993 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I thought you'd be happy for me. After all, you --
+L255992 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Roy, that's fine, but I don't have time for this. Bobo --
+L255991 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I thought it over, and you were right. You wanted me out of the rackets, and now --
+L255990 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ What?
+L255989 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Not any more. Lilly, listen, I'm giving you good advice. I'm following it myself.
+L255988 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Roy, I know what to do with myself! It's a big world out there.
+L255987 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well, you're gonna start, if you hope to live through this. A square job and a quiet life. You start showing up at the track or the hot spots and Bobo's boys will be all over you.
+L255986 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ A job? I've never had a legit job in my life!
+L255985 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You're smart, Lilly, and you're good-looking. You won't have any trouble finding a job.
+L255984 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ At what?
+L255983 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Far enough. Maybe up to San Francisco. Or St. Louis, someplace new. Start over.
+L255982 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Her credit cards. How far am I gonna get with that?
+L255981 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ And Myra's stuff?
+L255980 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Just a few bucks.
+L255979 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You must have some money.
+L255978 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I need this, Roy. I can't run without money, and if I can't run I'm dead.
+L255977 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Don't be sorry. You're not taking it.
+L255976 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I'm sorry. I hated to take your money, but --
+L255975 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You've already made a start. Doesn't look that clean, though.
+L255974 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ It is, isn't it? And maybe it's a break for me after all. I've been wanting out of the racket for years, and now I'm out. I can make a clean start, and --
+L255973 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ This way's perfect.
+L255972 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I sat in there with her, I thought, what do I do now? Run and I've got Bobo and the law after me. Stay, and how do I explain?
+L255969 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ That's pretty funny, all right. What happened in Phoenix?
+L255968 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ As though you do what I say.
+L255967 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I wouldn't go in on a deal with her. She blamed you for it.
+L255966 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No, you wouldn't. That's what she was after, though. But why hit on me?
+L255965 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ No.
+L255964 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ She must have been the one that blew me off with Bobo. I guess to get me running. Did you tell her about my stash?
+L255963 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Myra followed you, huh?
+L255961 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Even so. You still got time. Relax a minute, tell me what happened. Sit down.
+L255960 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Bobo won't be. He'll spend the money to make sure.
+L255959 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Why should they? The cops are satisfied.
+L255958 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Not for long. Not when they do a fingerprint check.
+L255957 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You're dead, Lilly, it worked.
+L255956 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I've really got to --
+L255955 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Looks very solid, Lilly. Sit down. Take a minute, tell me about it.
+L255954 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Oh, yeah? Is the frame holding?
+L255953 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I just came back from Phoenix.
+L255952 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Somewhere else, that's for sure.
+L255951 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Going somewhere?
+L255884 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well, that's good news.
+L255883 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Well, sure, Roy. You want me to drive up --? Okay, fine, come on down.  It won't be a home-cooked meal, you know.
+L255794 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You, too, Roy.
+L255793 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Well... nice to see you again, Lilly.
+L255792 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ After the meet. Back to Baltimore.
+L255791 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I guess not. You'll be heading east from here, huh?
+L255790 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I thought... I was hoping we could play it straight with one another.
+L255787 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No can do. Have to dip in and out of my bag too much. Besides, it'll heal in the air.
+L255786 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You ought to put a bandage on that.
+L255785 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No. That was the point.
+L255784 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Expecting visitors?
+L255783 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You do?
+L255782 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I pay my debts.
+L255781 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Roy, I don't want money from you.
+L255780 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Four grand. For the hospital. Is that enough?
+L255779 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ What's that?
+L255778 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ We won't hit the track. The beach. Couple a nice restaurants.
+L255777 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ If you come out to the track, don't know me.
+L255776 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Myra and me come down to LaJolla for the weekend.
+L255775 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Roy! What are you doing in San Diego?
+L255523 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ That's right.
+L255522 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I just give you your life. What you do with it is up to you.
+L255521 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You don't have the stomach for it.
+L255520 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Why?
+L255519 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Get off the grift, Roy.
+L255518 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I tripped over a chair.
+L255517 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You do if you're where I am. Where you want to be. How'd you get that punch in the stomach, Roy?
+L255516 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You don't put up with that! Nobody has to put up with that!
+L255515 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ He let me live. He let me be his friend.
+L255514 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Lucky? You call that lucky?
+L255447 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ I sent Bobo ten grand of my own money, like it was the winnings from my bets. I hoped that would cover me.  It didn't.
+L255446 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Bluebell came in?
+L255445 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ That was my choice, nothing to do with you. I took a chance, and it didn't work out.
+L255444 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ The first day of the Delmar meet, there was a nag called Bluebell. I should have been on it. But that was the day after you came in here, so I stuck around to see how you were gonna be.
+L255443 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Sure.
+L255442 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ My boss is a guy named Bobo Justus, back in Baltimore. When a long shot gets too much action, I have to put money on that horse at the track, because it's the only way to get the odds down.
+L255441 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Up to you.
+L255439 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ No. And you have to be.
+L255438 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ Not as tough as you, huh?
+L255436 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ How come?
+L255435 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ That's me. That's who I am. You were never cut out for the rackets, Roy, and if you --
+L255434 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ You're one to talk. Still running playback money for the mob.
+L255433 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ You do not! Roy Dillon? Cornball clown pictures? Commission salesman? It's all a front, isn't it? You're on the grift, I know you are. You're working some angle, and don't tell me you're not because I wrote the book!
+L255432 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ I like those.
+L255431 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ And that dump you live in! Those clown pictures on the walls!
+L255430 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ It's there. The boss called, you said so yourself.
+L255429 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Stop kidding me! Four years in a town like Los Ang-gleez, and a peanut selling job is the best you can do? You expect me to believe that?
+L255428 +++$+++ u1215 +++$+++ m79 +++$+++ ROY +++$+++ What are you talking about? So I've got a job. So what?
+L255427 +++$+++ u1210 +++$+++ m79 +++$+++ LILLY +++$+++ Whatever you say. The manager says your boss called.  Really pulled the wool over everybody's eyes, huh?

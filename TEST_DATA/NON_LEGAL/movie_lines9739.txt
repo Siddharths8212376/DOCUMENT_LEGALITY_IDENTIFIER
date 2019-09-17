@@ -1,0 +1,200 @@
+L156891 +++$+++ u4767 +++$+++ m317 +++$+++ MARY +++$+++ Some of Rhodes' men. At the door.
+L156890 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ Hey. Slow down. What is it?
+L156889 +++$+++ u4767 +++$+++ m317 +++$+++ MARY +++$+++ Toby...thank God...wait here. I gotta find out what's goin' on.
+L156814 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ In the battle, sir.
+L156813 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ It's been fired.
+L156812 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ Let me see your weapon.
+L156811 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ No, sir.
+L156810 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ You fired that shot, didn't you?
+L156809 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ Sir!
+L156808 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ Step up here, Tyler.
+L156805 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ I said, I'll take care of them. Just leave them there. Go help with the rest of the gear.
+L156804 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ Just....following procedure, sir. They're entitled to burial.
+L156803 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ No time for that. I'll take care of them.
+L156802 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ My..."detail", sir. We're going to bury the heads.
+L156801 +++$+++ u4769 +++$+++ m317 +++$+++ RHODES +++$+++ Where are you going, Tyler?
+L157146 +++$+++ u4773 +++$+++ m317 +++$+++ TRICKS +++$+++ I'm alright. Let's go.
+L157145 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ Tricks...Jesus...
+L157018 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ We need fuel, and a couple automatics.
+L157017 +++$+++ u4773 +++$+++ m317 +++$+++ TRICKS +++$+++ Rafts. Two 38s. A little ammo.
+L157016 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ What'dya get?
+L157015 +++$+++ u4773 +++$+++ m317 +++$+++ TRICKS +++$+++ Not as bad as yours, pal.
+L157014 +++$+++ u4771 +++$+++ m317 +++$+++ TOBY +++$+++ Hey, Tricks. Some detail they got you on.
+L157705 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Will do.
+L157704 +++$+++ u4774 +++$+++ m318 +++$+++ BUBBA +++$+++ Well, I'd better find Patsy.  Say hello to Mutt for me.
+L157701 +++$+++ u4774 +++$+++ m318 +++$+++ BUBBA +++$+++ To fucking Mutt.
+L157700 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Actually I don't really know Mutt.
+L157699 +++$+++ u4774 +++$+++ m318 +++$+++ BUBBA +++$+++ So what the hell's Mutt been up to?
+L157695 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Actually I don't
+L157694 +++$+++ u4774 +++$+++ m318 +++$+++ BUBBA +++$+++ Say Steve, where's your manners?  Here's Mutt's brother and you don't offer him a drink? Want some bourbon?
+L157693 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ No relation.  Never heard of him. Sorry.
+L157684 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ Hell no, I'm not afraid of them just, if we get caught with them, we're dead.
+L157683 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Cameron, what is the matter with you. You act like they're your mother or something.  You afraid of them?
+L157682 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ They're townies?!
+L157681 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I don't think they're in school.
+L157680 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ Do they go to Henley Hall?
+L157439 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Knox?
+L157438 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ I'm in as long as we're careful.
+L157427 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Well, no shit, Sherlock
+L157426 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ All I'm saying is we have to be careful. We can't get caught.
+L157425 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ So don't goddam come!  Please.
+L157424 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ You know how many demerits we're talking?
+L157423 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Don't come.
+L157422 +++$+++ u4775 +++$+++ m318 +++$+++ CAMERON +++$+++ Sounds boring to me.
+L157943 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ I'll tell you later.
+L157942 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ What do you mean you don't know?
+L157939 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Yep.
+L157938 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ How'd it go?  Did you read it to her?
+L157622 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ The point is she was thinking about me! I've only met her once and already she's thinking about me.  Damn it, it's gonna happen!  I feel it.  She's going to be mine!
+L157621 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ What is the point?
+L157620 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Well hell no, Charlie, but that's not the point.  That's not the point at all!
+L157619 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ So you really think she means you're going with her?
+L157618 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ So?
+L157617 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Well?
+L157616 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Yeah.
+L157615 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ At Chet Danburry's house.
+L157614 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Can you believe it?  She was gonna call me!  She invited me to a party with her!
+L157601 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ No, I've been calm all my life!  If I don't do something, it's gonna kill me.
+L157600 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Knox, you gotta calm down.
+L157599 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ God, I can't take it anymore!  If I don't have Chris, I'll kill myself.
+L157518 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Meeks, you're the brain here.  What do the dead poets say about somebody like me?
+L157517 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Needs Chris!  Must have Chris!
+L157516 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I feel like I've never been alive.  For years I've been risking nothing.  I have no idea what I am or what I want to do! Neil, you know you want to act.  Knox wants Chris.
+L157465 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Hey, this is great.
+L157464 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ The millions are awake enough for Physical labor; but only one in a million is awake enough for effective intellectual exertion, only one in a hundred millions to a poetic or divine life.  To be awake is to be alive.
+L157444 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ But why?
+L157443 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Women swoon!
+L157442 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ It will?  How do you figure?
+L157441 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Come on.  It'll help you get Chris.
+L157440 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ I don't know.  I don't get it.
+L157395 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ What is the Dead Poets Society?
+L157394 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Thigh man?  Mr. "K" was a hell raiser.
+L157365 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Terrible.  Awful!  I met the most beautiful girl I've ever seen in my life!
+L157364 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ How was dinner?
+L157271 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Yeah!  Tell him off!  It couldn't get any worse.
+L157270 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Why doesn't he let you do what you want?
+L157245 +++$+++ u4782 +++$+++ m318 +++$+++ KNOX +++$+++ Knox Overstreet.
+L157244 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Charlie Dalton.
+L157758 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ Garden?
+L157757 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Hey guys, why don't you show Tina the Dead Poets garden?
+L157458 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ This is it.
+L157457 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ Ahh!  Eat it, Dalton!
+L157456 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Yaa, I'm a dead poet!
+L157437 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Except sex.
+L157436 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ All right.  I'll try anything once.
+L157320 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ How about a trig study group?  Right after dinner.
+L157319 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Oh come on, Cameron, don't you get anything?
+L157251 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ And English, and trig
+L157250 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ He flatters me so I'll help him with Latin.
+L157249 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It's every bit as hard as they say. Unless you're a genius like Meeks.
+L157248 +++$+++ u4783 +++$+++ m318 +++$+++ MEEKS +++$+++ Well, welcome to "Hell"ton.
+L157957 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ So much the better.
+L157956 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ But what if they see it, Nuwanda?
+L157899 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I couldn't stop myself.
+L157898 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Damn it, Nuwanda.  You idiot.
+L157715 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It's Nuwanda, Cameron.
+L157714 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Don't you think they'll figure out who did it?!  Don't you know they'll come to you and demand to know what the Dead Poets Society is?   Charlie, you had no right to do something like that!
+L157713 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Why? Nobody knows who we are.
+L157712 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Oh God, it's over now!
+L157677 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I thought I'd be spontaneous.  I mean, that's the point of this whole thing, isn't it?
+L157676 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Well, of course not.  It's just that... You could have warned us.
+L157523 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It should, but I found it and now I claim it.  carpe cavern, guys.  Seize the cave.
+L157522 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Wait a minute, Charlie. This should belong to the club.
+L157521 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I hereby declare this the Charles Dalton Cave for Passionate Experimentation.  In the future, anyone wishing entry must have permission from me.
+L157431 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Oh come on, Pitts...
+L157430 +++$+++ u4787 +++$+++ m318 +++$+++ PITTS +++$+++ Well...
+L157890 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I'm sorry.  I, we
+L157889 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ Anything else you'd care to rifle through, Mr. Dalton?
+L157825 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ So keep your head about you--the lot of you--understood?
+L157824 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Yes sir.
+L157823 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ Like, if nothing else, the opportunity to attend my classes, understand?
+L157822 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Yeah?  Like what?
+L157821 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ But I thought-
+L157820 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ Sucking out the marrow doesn't mean getting the bone stuck in your throat, Charles.  You still have responsibilities to yourself and those who care about you.
+L157819 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ You're siding with Mr. Nolan?!  What about carpe diem and sucking all the marrow out of life and all that?
+L157818 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ I don't know what misguided impulse caused you to pull that ridiculous stunt, Mr. Dalton, but, whatever it was, I hope you've learned your lesson.
+L157817 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Mr. Keating!
+L157472 +++$+++ u4781 +++$+++ m318 +++$+++ KEATING +++$+++ So avoid using the word 'very' because it's lazy.  A man is not very tired, he is exhausted.  Don't use very sad, use morose.  Language was invented for one reason, boys--to woo women--and, in that endeavor, laziness will not do.  It also won't do in your essays.
+L157471 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I here and now commit myself to daring!
+L157778 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ This is better than sex any day.  This is romance!
+L157777 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ "O, no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wandering bark whose worth's unknown, although his height be taken."
+L157776 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Don't stop.
+L157775 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ All right!  I'm thinking!  "Let me not to the marriage of true minds Admit impediments; love is not love Which alters when it alteration finds Or bends with the remover to remove."
+L157774 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Nuwanda?  Please?
+L157773 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Please!    It's so wonderful to be appreciated for my mind!
+L157772 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ But...
+L157771 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ No!  Anybody else would have jumped my bones by now but you're after my soul. Make me up some more poetry.
+L157770 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I'm not?
+L157769 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Every guy that I meet wants me for one thing my body.  You're not like that.
+L157768 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ What?
+L157767 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ You know what really excites me about you?
+L157766 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I think you're sweet.
+L157765 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ I think he's sweet.
+L157717 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ And are we just playing around out here or do we mean what we say?  If all we do is come and read a bunch of poems to each other, what the hell are we doing?
+L157716 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ That's right, it's Nuwanda.
+L157709 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Miss it?  It drives us crazy.  That's part of what this club is about.  In fact, I'd like to announce that I've published an article in the school paper, in the name of the Dead Poets society, demanding girls be admitted to Welton, so we can all stop beating off.
+L157708 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Yeah!    Don't you guys miss having girls here?
+L157661 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ Isn't he precious?
+L157660 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I told you, that's a secret.
+L157659 +++$+++ u4779 +++$+++ m318 +++$+++ GLORIA +++$+++ It's such a strange name!  Won't you tell us what it means?
+L157795 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ If I find that there are others, Mr. Dalton, they will be expelled and you will remain enrolled.  Stand up.
+L157794 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It's only me, Mr. Nolan.  I swear. I made it up.
+L157793 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ What is this "Dead Potts Society"?  I want names.
+L157792 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Yes... sir.
+L157791 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Do you still insist that this was your idea and your idea alone?
+L157787 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Mr. Dalton, if you think you're the first to try to get thrown out of this school, think again.  Others have had similar actions and they have failed just as surely as you will fail.  Bend over and grab your shins.
+L157786 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ No one, sir.  It was just me.  I did the proofing so I inserted my article in place of Rob Crane's.
+L157785 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Who else was involved in this?
+L157782 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ what?!
+L157781 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Welton Academy, hello?  Yes, he is, just a moment.  Mr. Nolan, it's for you.
+L157403 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Good.  We're very excited about him.  He was a Rhodes Scholar, you know.
+L157402 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Yes sir.  We were just talking about that.
+L157215 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Your family move into that new house, Mr. Overstreet?
+L157214 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Doing fine, sir.
+L157213 +++$+++ u4786 +++$+++ m318 +++$+++ NOLAN +++$+++ Welcome. back, Mr. Dalton.  How's your father?
+L157881 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It's better than doing nothing.
+L157880 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ This is stupid.
+L157879 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Are you kidding?  Don't be ridiculous.
+L157878 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Maybe he'll have some advice.  Maybe he'll even talk to your father.
+L157877 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ What good will that do?
+L157876 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Why don't you talk to Mr. Keating about it?
+L157802 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Damn it, Neil, the name is Nuwanda.
+L157801 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ What are you going to do? - Charlie?
+L157800 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I'm supposed to turn everybody in, apologize to the school and all will be forgiven.
+L157799 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ What happened?
+L157798 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ No.
+L157797 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ What happened? Were you kicked out?
+L157719 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Hey, would you not worry about your precious little necks?  If they catch me, I'll tell them I made it up.  All your asses are safe.  Look, Gloria and Tina didn't come here to listen to us argue. Are we gonna have a meeting or what?
+L157718 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ You still shouldn't have done it, Charlie.  You don't speak for the club.
+L157711 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I'm one of the proofers.  I slipped the article in.
+L157710 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ You what?!  How did you do that?
+L157679 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ They were walking along the fence past the soccer field.  Said they were curious about the school so I invited them to the meeting.
+L157678 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Where'd you find them?
+L157675 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Nothing, unless you object to having girls here.
+L157674 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Nuwanda, what is going on?
+L157673 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ It's Nuwanda.
+L157672 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Charlie...
+L157598 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ My parents made me take clarinet but I hated it.  The sax is more sonorous.
+L157597 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Charlie, That was great!  Where did you learn to play like that?
+L157463 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ To put the rout all that was not life.  And not, when I came to die, discover that I had not lived.  Pledge Overstreet.
+L157462 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ All right.  I'll second that.
+L157461 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ I went to the woods because I wanted to live deliberately."  I wanted to live deep and suck out all the marrow of life!"
+L157429 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I'm in.
+L157428 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Who's in?
+L157283 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ You're welcome to join us, Todd.
+L157282 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Sure.
+L157281 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ I don't know about anyone else, but I could use a refresher in Latin.  Eight o'clock in my room?
+L157276 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Then don't tell me how to talk to my father when you're the same way.  All right?!
+L157275 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Okay, so I don't like it any more than you do.  I'm just saying
+L157247 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Oh yeah.  Sure.  Valedictorian, National Merit Scholar
+L157246 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Todd's brother is Jeffrey Anderson.
+L157241 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ That's not my fault.
+L157240 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Hey, he's your roommate.
+L157239 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ What's his specialty, brown-nosing?
+L157238 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Sure, but Cameron asked me too.  Anybody mind including him?
+L157237 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Well, Meeks aced Latin and I didn't quite flunk English so if you want, we've got our study group.
+L157236 +++$+++ u4785 +++$+++ m318 +++$+++ NEIL +++$+++ Yeah, chemistry.  My father thought I should get ahead.
+L157235 +++$+++ u4776 +++$+++ m318 +++$+++ CHARLIE +++$+++ Hey, I heard you went to summer school?
+L157750 +++$+++ u4778 +++$+++ m318 +++$+++ CHRIS +++$+++ Chet, you don't have to hurt him.
+L157749 +++$+++ u4777 +++$+++ m318 +++$+++ CHET +++$+++ You fucked up little prick!
+L157746 +++$+++ u4778 +++$+++ m318 +++$+++ CHRIS +++$+++ Knox?!

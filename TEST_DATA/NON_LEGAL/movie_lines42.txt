@@ -1,0 +1,200 @@
+L36420 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ WHAT HAVE YOU DONE?!
+L36419 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I ain't done --
+L36418 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ What have you done?
+L36417 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ How'd they --
+L36399 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Leave me alone, Bob.
+L36398 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Cole, we're outlaws. Not exactly the most respectable job, if you know what I mean.
+L36397 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ As long as people think Jesse's still riding, we will never get the respect we deserve.
+L36396 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ That was because of... the reputation the gang had.
+L36395 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ It's still taking too long. The people used to snap to.
+L36394 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ This is the best score yet.
+L36292 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ What?
+L36291 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ That's what the newspapers say. Weren't for Jesse James, this gang wouldn't be able to find a goat's ass with a stick.
+L36177 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Frankly, yes. I'm feeling a little left out.
+L36176 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ We got a problem here, brother?
+L36132 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Say we bust into a bank. We yell "We're the Younger-James Gang!" People are gonna be thinking, "The younger James Gang? Is there an older James Gang? How come we never heard of the older James gang?" So people are trying to figure that out instead of raising their arms.
+L36131 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ How?
+L36130 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ No, Jimmy has a point. The Younger-James Gang could be confusing.
+L36043 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ You stay out of this, Bob.
+L36042 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Uhh, yeah it does.
+L36034 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Better pass them over here before something happens to 'em.
+L36033 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ These are deeds and mortgages of farms the bank was holding for the railroad.
+L35966 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I say we ride into town and kill us some Pinkertons and railroad men.
+L35965 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ The sheriff says it was a gang of drunk Kansas boys.
+L35964 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Our place, Clell Miller's, Sammy Johnston, the Creeders. Will Hite.
+L35920 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Zee, I'm pleased you came.
+L35919 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Here's Liberty's favorite son!  I'll never forget what you did, cousin.
+L35747 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ That was two hours ago.
+L35746 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Your Ma wouldn't let us leave until we ate something.
+L35663 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Anywhere nobody's shooting at me is pretty.
+L35662 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Never thought that pissant town would look so pretty.
+L35622 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Never a good thing.
+L35621 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ He's smiling.
+L35590 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Dammit, this stopped being fun about two years ago!
+L35589 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Gatling! They've got a Gatling!
+L35836 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Tomorrow.
+L35835 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ The Army can hang him.
+L35834 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ They said because the detectives were working for the Department of the Interior --
+L35833 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Damn!
+L35830 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ He just lost his temper a little.
+L35829 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Oh no...
+L35828 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ They came up, made the same offer they made you folks. Our little brother Jim tried to chase 'em off, one of those detectives hit him in the head, knocked him out. Cole lost his temper.
+L35690 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Stop by our spread after that, tell our Ma we're all right. We'll go to Doc Mimms.
+L35689 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Cole, I want to get to the farm, make sure Little Jim and the girls are okay.
+L35681 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ ... Will Perry ...
+L35680 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Jesus mercy, that's Charlie Higgins, Dave Laller ...
+L35668 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Then I love it.
+L35667 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Nope.
+L35666 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Corn gonna shoot at me?
+L35656 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Well, somebody better go tell THE DAMN YANKEES!
+L35655 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Yesterday.
+L35619 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I can hit those boys from here. We just need a distraction.
+L35618 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ My plan of lying here pissing myself seems to be working mighty fine, thank you.
+L36276 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Tell me.
+L36275 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Listen, he's my brother and I don't want to start trouble...
+L36274 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What?
+L36273 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ He's planning a job.
+L36272 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ He's been full of vinegar lately.
+L36271 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Listen, Jesse, we've got a problem.  It's Cole.
+L36270 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You are a fine figure of a man.
+L36269 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ The things a fella has to do to get a little respect around here...
+L36179 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Yes. I am obviously not standing out in people's minds at the robberies.
+L36178 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ This is about the "Wanted!" Posters, isn't it.
+L36173 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ You heard me, Jesse. You know how crazy I get!
+L36172 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Beg pardon?
+L36171 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ One false move and I'll blow your heads off!
+L36170 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Okay, folks, I think we know how this is going to go...
+L36068 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ "Bank officials estimate the loss at fifty thousand dollars."
+L36067 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Hey!
+L36066 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ "The outlaws calling themselves the James-Younger Gang shot their way out of town, wounding the Sherriff and three other townsfolk."
+L36037 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ We oughta take some of this, give it to our neighbors in Liberty. Lot of people hurting up there.
+L36036 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Well, no, Jesse, it was the bank's. That's why we had to go to all that trouble of stealing it.  You explain it to him.
+L36035 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ All right, settle down. All this money ain't ours.
+L35973 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Exactly.
+L35972 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ But if we take their money and supplies...
+L35924 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Not yet. But I'm hoping.
+L35923 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You have no shame.
+L35832 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Two.
+L35831 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ How many of them did he kill?
+L35659 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Best damn plan I heard all war.
+L35658 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Home. We go home. We ride like hell to get there, and we kill anything or anyone that comes between us and our homes. And when we get there we stay there and God help any fool who tries to get me to leave my farm again.
+L36486 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ No, really. You're wife said she needed some help, seeing as you were so fat you couldn't find your --
+L36485 +++$+++ u307 +++$+++ m19 +++$+++ BURLY DETECTIVE +++$+++ You shut up now, boy.
+L36484 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I think I saw you leavin' by the front door just as I was coming in the back.
+L36483 +++$+++ u307 +++$+++ m19 +++$+++ BURLY DETECTIVE +++$+++ How?
+L36482 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I think I recognize you.
+L36481 +++$+++ u307 +++$+++ m19 +++$+++ BURLY DETECTIVE +++$+++ What you sayin' boy?
+L36480 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You, ya barrel of pork lard. Here piggy piggy!
+L36479 +++$+++ u307 +++$+++ m19 +++$+++ BURLY DETECTIVE +++$+++ What?
+L36523 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ We didn't. Zerelda did. Turns out your wife makes a hell of an outlaw.
+L36522 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Where'd you get all these riders?
+L36518 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Pff. All we been through, the thought never crossed my mind.
+L36517 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ You know, you gettin' caught, right after leaving us, some people thought --
+L36516 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Missed you too, cousin.
+L36515 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Missed you, cousin.
+L36353 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Who's next? You? Me? Bob?
+L36352 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ WHAT?! We follow you for a year, and now that our blood's been spilled, you're gonna quit?!
+L36351 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I'm out.
+L36350 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ We'll make them pay for this.
+L36335 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Pass me some whisky.
+L36334 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Bob, rip up some bandages.
+L36331 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Clell, Tom, go get Doc Mimms in Liberty!
+L36330 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Okay, you're gonna rest here.
+L36320 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ A trap.
+L36319 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Dammit!
+L36314 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ You'll be smiling once you've got all that money to spend, cousin.  Cole Younger's going to make everybody rich!
+L36313 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Fine. We hit this bank.
+L36312 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Then let me run the show, General Lee.
+L36311 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Still smells fishy.
+L36307 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ And I'm the better outlaw.
+L36306 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I'm the better soldier, Jesse.
+L36300 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ That's it.
+L36299 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ And almost got hanged in peacetime.
+L36298 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I got us through the War all right.
+L36297 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ A bad idea.
+L36296 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Now the one time one of us comes up with an idea --
+L36295 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Beautiful.
+L36284 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You're forgetting who's in charge --
+L36283 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I've robbed just as many banks as you have! I know this town, and I know this bank, and I say it's an easy job.
+L36282 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What are you saying?
+L36281 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ If you'd read about it first, you'd have no problems.
+L36280 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Smells funny, it being mentioned in the paper.
+L36278 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What will be?
+L36277 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ It'll be the biggest score yet.
+L36181 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Hold on, hold on, we all know Bob is an important part of the gang.
+L36180 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ This is your fault for hogging all the publicity.
+L36127 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Why aren't we the "Younger-James Gang"? I mean, there's three Younger brothers and only two James brothers here.
+L36126 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Yep.
+L36125 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ All the posters and newspapers are calling this bunch the "James-Younger Gang."
+L36124 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Sure, cousin.
+L36123 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Jesse, we got to have a word.
+L36063 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Twenty?!
+L36062 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ "The Fidelity Bank and Trust was robbed on Tuesday by a gang of twenty heavily armed men."
+L36057 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ It's better. It's a construction depot. They'll have the strongbox and some ammo and explosives for us to take. That way we can take on a bigger job.
+L36056 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ It's not a bank.
+L36041 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Just because he reads all those books and knows all those big words doesn't make him smart.
+L36040 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ See, Frank's being smart about this.
+L36030 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I got three.
+L36029 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I got seven thousand.
+L36001 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Don't let it happen again.
+L36000 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Sorry.
+L35999 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ The James-Younger Gang.
+L35979 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Let's ride.
+L35978 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Perfect, Cole.
+L35977 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I'll pick the first job! I mean... I know a girl down at the bank. See if she can't get a list of towns where the railroad keeps its money.
+L35971 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Just like in the war. Harass their supply lines. We kill the railroad's men, they won't care.
+L35970 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ So what do we do, General Lee?
+L35969 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ This isn't a feud, this is war. They've got more men than we do. We kill detectives, they can replace 'em in a day.
+L35776 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Yeah.
+L35775 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Because we were good at it?  Hell, we were great at it. Jesse, don't tell anyone I said this, because everybody knows I'm the toughest man in this town, but you are one terrifying sonofabitch with those guns.
+L35774 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ But it was a whole lot of killing. Why should we miss that?
+L35773 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ It was exciting.
+L35772 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ The war? What, are you crazy?  There are things I miss about it.
+L35771 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ After all you did on our farm?  You miss it, don't you Jesse?
+L35770 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Thanks for the help.
+L35763 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ All right, calm down. I'll agree Sadie was a woman --
+L35762 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ She was European!
+L35761 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ She had a moustache.
+L35754 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ She got two of them.
+L35753 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You ever notice Zerelda's eyes?
+L35688 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ In case we have to kill these sonofabitches, I don't want them to see us coming.
+L35687 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ What is wrong with you?
+L35686 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Not now.
+L35678 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Pick your fights, cousin. You taught me that.
+L35677 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ You're not scared, are you?
+L35676 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Hands off your hip, Cole.
+L35665 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Planting corn. Harvesting corn. Year after year.
+L35664 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Home, boys. Back to our farms.
+L35653 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ There's Yankees back there. Lot's of 'em.
+L35652 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Where you boys going?
+L35646 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Suit yourself. We'll have some horses waiting for you at the road.  Let's ride, Rangers!
+L35645 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I could use the walk.
+L35644 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Ride with me, cousin?
+L35615 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What's going on?
+L35614 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ 'Bout time you got here, buddy.
+L35672 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ I'm thinking...
+L35671 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Well?
+L35670 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Hmm. Go back to the reservation and get drunk in a dirt shack, or work for you...
+L35669 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Tom, why don't you stop at our spread before you head on out to the reservation? Figure we might have some work for you, if you want.
+L35641 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ You ride like a Comanche.
+L35640 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Wait'll we get back to Missouri, start telling those gals about how little Jesse James charged the whole Union Army by himself!
+L35596 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ You pay me to find you Bluecoats. There they are.
+L35595 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Some Indian tracker you turned out to be, Tom.
+L36323 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ They're just insurance in case we run.
+L36322 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ They gonna rush us?
+L36321 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Another dozen out back.
+L36287 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Cole, he didn't mean that.
+L36286 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Oh, you're in charge? We ain't partners any more, Jesse? You tell Cole Younger where and when to ride?
+L36285 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Jesse.
+L36053 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ -- Exactly. Because this is a war.
+L36052 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Strategically.
+L36051 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Hey! We decide something, that's it! We're in this for the long haul, and this idea of me and Jesse's will help give us more places to hide out without worrying about some farmer with a shotgun sneakin' up on us in our sleep. We've got to think --
+L35947 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Get buckets!
+L35946 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ BASTARDS! Come back here and face me!
+L35768 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Ah.
+L35767 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Shakespeare.  He's European.
+L35766 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I have no idea what you just said, but it sounded real nice.
+L35760 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Sadie was not a man!
+L35759 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Oh, Lord, the dance hall girl at Bunty's...
+L35757 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ The brown one.
+L35756 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Which one, right or left?

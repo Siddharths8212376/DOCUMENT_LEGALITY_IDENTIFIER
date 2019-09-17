@@ -1,0 +1,200 @@
+L277689 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ Are you gonna take me somewhere next weekend?
+L277686 +++$+++ u5821 +++$+++ m386 +++$+++ BERNIE +++$+++ Me in my uniform.  Used to be on the bookcase.
+L277685 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ What picture?
+L277684 +++$+++ u5821 +++$+++ m386 +++$+++ BERNIE +++$+++ You never saw that picture, huh?
+L277683 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ Were you in it?  In the war?
+L277682 +++$+++ u5821 +++$+++ m386 +++$+++ BERNIE +++$+++ It was this war.  Viet Nam.  Doesn't matter.
+L277681 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ "The Nomm"?  What's that?
+L277680 +++$+++ u5821 +++$+++ m386 +++$+++ BERNIE +++$+++ Oh yeah?  A hero, huh?  Was he in the 'Nam, this guy Elliot?
+L277679 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ Sometimes.  His name's Elliot.  He saved a guy's life one time.  In a fire.
+L277678 +++$+++ u5821 +++$+++ m386 +++$+++ BERNIE +++$+++ This guy, this "friend" your mother's seeing, he's a fireman, huh?  He ever... spend the night, whatsisname?
+L278356 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ No, John, you're too hard on yourself.  I've got the creep here, the guy who's...
+L278355 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ "A little mistake"!
+L278352 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ You do?
+L278351 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ John, I know all about it.
+L278350 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Gale!  This is for you.  I want you to know I never meant to hurt you. This will explain everything.
+L278240 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ It's no big deal, it just <u>looks</u> better carrying me.  Oh, you mean because I wasn't carrying my purse at the time.
+L278239 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ It's not right, Gale...
+L278237 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Bodybuilding!
+L278236 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I just remembered.  You were talking about bodybuilding and swearing.
+L278235 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Gale...
+L278234 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ There, like that.  Kind of, uh, sexy.  You can support me anytime, John.
+L278233 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ That's not what I mean...
+L278232 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You're doing fine.  You didn't actually lift me though.  It was more like you supported me.
+L278231 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Gale!  I can't go through with this! It's... it's all wrong!'
+L278230 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Now you help me up.  Boy, you seem...  taller.  It must be psychological...  now that I know you saved my life...
+L278211 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Read it.  It'll be fine.
+L278210 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ A script!  I thought we just walked through everything...
+L278209 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You were... very... inspiring.
+L278142 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Goodnight, John.
+L278141 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Vietnam!
+L278140 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I know the truth, John.  I'm flying in some guys from your unit in Vietnam tomorrow.  Interviewing them live on network hookup!
+L278139 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Uh, right.  A... news story.
+L278138 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ No, I don't have the right.  You're a <u>news</u> <u>story</u>!
+L278137 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ I... no... I don't have the right... I...
+L278136 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You did save my life!  And it's <u>me</u>! I'd be taking advantage of <u>you</u>! I'm a reporter, John, an experienced professional...  I...
+L278135 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ You... you think I saved your... life.  I can't take advantage....
+L278134 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I... I know that, John...
+L278133 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Gale... you're a very nice person. I wouldn't want to hurt you... in any way...
+L278132 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Years?  There are going to be lots of... opportunities.
+L278131 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ It's been sometime since, uh, I received any, uh, of that kind of, uh... attention.  A couple of... years.
+L278130 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Uh, if you could, just, uh, support, uh, a small airfield...
+L278129 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ John, I'm sure she could support just about anything.  I think I'll see you to your room. A sort of bodyguard.  Make sure no harm comes to you.
+L278128 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Uh, no.  But I, uh, wonder if you could up support... support a program to help the needy and...
+L278116 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You're a celebrity, John.  People are going to want to please you... or use you... or both.
+L278115 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Is she... serious?  A half a million dollars?  In my behalf?
+L278111 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ ...unworthy of the adoration.  We all do.
+L278110 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Yes.
+L278109 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Instant celebrity is overwhelming to anybody.  <u>You've</u> known John Bubber all your life, you're used to him, you know you're the same human being you were before all the excitement.  So you feel like a fraud...
+L278106 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Uh, actually... yes... I... should never have come forward and presented myself as --
+L278105 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ All the adulation?  It makes you feel like a fake, doesn't it?
+L278104 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Well, I'm not entitled to a million dollars.  I... I... didn't expect... I didn't expect...
+L278103 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You were saying you don't want a million dollars.
+L278102 +++$+++ u5822 +++$+++ m386 +++$+++ BUBBER +++$+++ Uh, er... I...
+L278337 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Because he was a <u>real</u> hero, Chucky. He was acting out of a deep instinctive decency, not out of some ego thing.  He didn't expect the media to lionize him.  He didn't expect a million dollar reward. He saved fifty-four people because something inside him, some fundamental love for his fellow man, made him rush into that plane when "good sense" told him otherwise. He was willing to settle for some credit cards he sold to LaPlante....  For how much, LaPlante?  A couple of bucks?  Did you give him enough for a decent meal?
+L278336 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ He's gotta be a nut!  He saves all those people and swipes a <u>purse</u>?
+L278335 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ And sold it to Mister LaPlante, the fence, who's now trying to blackmail poor John.
+L278334 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ Swiped your purse!  While he was saving you?  You gotta be kidding!
+L278297 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ LaPlante!
+L278296 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ "For Excellence in the Pursuit of Truth."
+L278295 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ This guy LaPlante won an award?
+L278294 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ The...Silver...Mike...Award!
+L278293 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ What is it?
+L278292 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ This sofa is a lethal weapon.  The springs... are... the springs... what...?
+L278291 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ What's the matter?
+L278290 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You're lucky, Chucky, you... OW!
+L278289 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ Hey, listen, great that you're a career-fiend, I got a wife and family, I...
+L278288 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Maybe, maybe not.  I have a feeling this guy is important somehow.
+L278287 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ We're gonna wait here?  The guy could be hours.
+L277741 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ I told them how you were upset we didn't save the guy...
+L277740 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ What're we talking about?  Reach out for what?
+L277731 +++$+++ u5824 +++$+++ m386 +++$+++ CHUCKY +++$+++ Yeah, I got it.  Sports training. You learn to follow the ball.  How about you do a wrap-up from up here?  I'll pan off that skyscraper over there, find you here, then reveal the drop.
+L277730 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Did you get it?  Jesus, did I say that?
+L278174 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ He'll do it.  You really-should have talked to him first.
+L278173 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ How'd it go?
+L278013 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ WHAT?  THEY FOUND WHAT?
+L278012 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ There could be problems with something like that Mister Wallace. What if...?
+L277961 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ A "mystery guy!"  "Not a passenger." Who?
+L277960 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ We're piecing together different accounts and...
+L277957 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Apparently the guy who pulled you out wasn't a passenger...
+L277956 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You said all the passengers were accounted for...
+L277955 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ There's a lot of confusion around what went on last night, it's not clear...
+L277760 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Would the station put me up at a good hotel...?
+L277759 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ That too.
+L277758 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ The story behind the story, the ugly scandal behind the falling millionaire, the dirt, you mean.
+L277757 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ She broke up with her boyfriend.  Listen, babe, we needja back. You gotta follow up on the jumper, find the human interest in the grim, unending tale of woe that pours from the wounded heart of the heartless metropolis.
+L277751 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ You're sitting on your ticket.
+L277750 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ You just can't bear the idea of good news.
+L277749 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Unprofessional.
+L277748 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ It would make me feel like a human being instead of a cynical, hardbitten newswoman.  Besides it wouldn't be a bad story, would it, "Newswoman Saves Suicide?"
+L278508 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ For ten more minutes they love him, Wally.  I'm sick of him and I'm always about ten minutes ahead of the public.
+L278507 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ The Presidency.  The public loves him.
+L278506 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ What?
+L278505 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ It's not unthinkable.
+L278414 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ No, Deak, not a great story.  We backed this guy, he's our boy!  We gave him a vote of confidence, we gave him a million dollars.
+L278413 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Helluva story!
+L278412 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Listen, Deak, what if Bubber <u>has</u> got something to hide?  What if he's the wrong guy, not really the hero...?
+L278411 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Gale shoulda aired that bit first, she's the one who found this clown LaPlante!  She let Channel Eight get a beat on us.
+L278406 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ She can't quit.
+L278405 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ She wants to quit?
+L278404 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Listen, Gale, I know you're emotionally involved.  Don't be emotionally involved, be professional.  No, Gale, you are not a hardbitten, cynical hard-ass, you just think you are.  You are a goddamn cream puff!  Try and be a hard-ass!
+L278403 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Quit?  She wants to quit?
+L278402 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Whaddaya mean what do I wanna know? I wanna know everything.  Who's this screwball LaPlante for Pete's sake, what the hell's he doing out there, auditioning for the priesthood? You're supposed to be on top of this, Gale, don't...  "Quit!"  You can't quit!  It's unprofessional!
+L278172 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ We paid him a million dollars. You'd think he'd want to cooperate a little, help our ratings.
+L278171 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ She's talking to him now.
+L278170 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ He's not <u>supposed</u> to be an actor, that's the whole point.  He's a <u>real</u> <u>life</u> <u>hero</u>, all he has to do is <u>act</u> like a real life hero.  That's the <u>beauty</u> of the <u>concept</u>, the whole <u>freshness</u> of it.  Did she call him back?
+L278169 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Said he's not an actor.
+L278168 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Upset!  What's he upset about?
+L278095 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Drake Hotel, Penthouse Suite.  Never stop worrying.  I figure we'll do a sidebar on what it's like to go from sleeping in your car and collecting cans to sleeping in the poshest suite in town.  Also Gale's onto something, digging into his background.
+L278094 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Does this mean I can stop worrying? Where'd we put him?
+L278093 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Relax, Wally.  He had the shoe and the shoe checks out.
+L278092 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ I thought they'd all go "It's him! It's him!" and hug the guy or something.
+L278011 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ What about a reward for coming forward?
+L278010 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ We're gonna feature Gale's cast more.  The trick is gonna be keeping the upper hand on this piece. As long as we have Gale and there's no mystery guy, we're the center of the story.  But if he shows up and somebody else gets him first or exclusive...
+L278009 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ It's a wonderful piece.  Emotional. I love it.
+L278008 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Not bad.  But if you gotta wear a cast, you oughtta feature it more it's parta the story.  Network's taking everything we give 'em.  They wanta feed off our six o'clock whether we find the mystery guy or not.  We're very big nationally.
+L277754 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ A Silver Mike!  You're covering us in glory!
+L277753 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ She's flying to New York.  She's been nominated for a Silver Mike...
+L277752 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Ticket!  What's going on?
+L277743 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ You wouldn't push the guy, would you?
+L277742 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ Saving people is not our job.  It's as wrong to step in and save someone as it would be to push someone off.
+L277739 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ If you reach out, you could get pulled over yourself.
+L277738 +++$+++ u5825 +++$+++ m386 +++$+++ DEAKINS +++$+++ He's right.  It's unprofessional.
+L278448 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ Dad!
+L278447 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ Oh my God!  Bernie!
+L278420 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ It's when you say, "Everybody else cheats why shouldn't I?"  But I don't -- I don't <u>hate</u> -- him. I... loved him once, Joey.  Very much.  I just got... tired.  Maybe it wasn't all his fault.  He... What's happening?  Oh, my God...
+L278419 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ What's "cynical"?
+L278418 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ If I gave you the impression I hated him I didn't mean to.  I... I hate the way he <u>behaves</u>... he's selfish and self-centered and cynical...
+L278408 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ Wh-why's he... why's he up there, mom?
+L278407 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ My God!  It... it <u>is</u> him!
+L278026 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ I... I saw him out the window.
+L278025 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ You were in bed.  Weren't you?
+L278024 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ My father didn't have his shoes on when he... when he came here.
+L278018 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ The "unknown hero."  They found his shoe right beside the plane crash.
+L278017 +++$+++ u5828 +++$+++ m386 +++$+++ EVELYN +++$+++ Who lost a shoe?  Wash your hands.
+L278016 +++$+++ u5831 +++$+++ m386 +++$+++ JOEY +++$+++ He lost a shoe!
+L277756 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ An hour after...!  Deak, for Heaven's sake!  Let's give her a night in New York City.  We'll put her and her boyfriend up at a good hotel...
+L277755 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I haven't won it yet.  I notice you've got me scheduled on a flight back an hour after the ceremony.
+L277746 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I said I wished it had at least occurred to me to consider saving him.
+L277745 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ You didn't?
+L277744 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I didn't say I thought we should have saved him..
+L277737 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Hello, Mister Wallace.
+L277736 +++$+++ u5834 +++$+++ m386 +++$+++ WALLACE +++$+++ Never reach out!
+L277735 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Hi, Chief.  You like the suicide?
+L278285 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ I wonder if you'd mind if we waited for him here, Mister Winston...
+L278284 +++$+++ u5835 +++$+++ m386 +++$+++ WINSTON +++$+++ No dead body.  Too bad.  Not too often you guys get pictures of a body even before the cops get there. Exclusive!
+L278281 +++$+++ u5835 +++$+++ m386 +++$+++ WINSTON +++$+++ Half the time he don't answer even if he's home.  Know why?  'Cause he don't want no bill collectors to find him.  I don't mean to be judgmental, but he's a scumbag. He don't have no friends.  Who's gonna like a creep like LaPlante? I was doin' him a favor on the TV outta kindness, and he screwed me. You know what color skin you get on my set, Miss Gayley?  Purple! That's what color skin you got on the tee vee LaPlante sells me!
+L278280 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Shouldn't we have buzzed him to let him know --
+L278278 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ We couldn't find his name on the buzzer or on the mailbox, but...
+L278277 +++$+++ u5835 +++$+++ m386 +++$+++ WINSTON +++$+++ "This is Gale Gayley for Channel Four News!"  Incredible. Unbelievable!  For Bernie LaPlante! He's a celebrity now?  'Cause he stole <u>paint</u>?
+L278276 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ We're from Channel Four, yes.  We'd like to find --
+L278275 +++$+++ u5835 +++$+++ m386 +++$+++ WINSTON +++$+++ LaPlante!  That asshole!  I don't... Hey, is that you, from the tee vee? In person?
+L278157 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Reporters... have to... rise above their hormones.
+L278156 +++$+++ u5830 +++$+++ m386 +++$+++ JOAN +++$+++ Reporters don't have hormones?
+L278155 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Don't be ridiculous.  I'm a reporter.
+L278154 +++$+++ u5830 +++$+++ m386 +++$+++ JOAN +++$+++ You didn't... get it on with him?
+L278153 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ He's pretty... remarkable.
+L278152 +++$+++ u5830 +++$+++ m386 +++$+++ JOAN +++$+++ Is he like that in real life?  So gorgeous?
+L277998 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Look at the guy!  He just saved fifty people.  Now he's going to disappear. Who is he?
+L277997 +++$+++ u5830 +++$+++ m386 +++$+++ JOAN +++$+++ There's no face really, nothing to work with.  Big dots, that's all you'll get.
+L278099 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Nobody stole my credit cards.  They burned up in the crash.  Which reminds me, did you get me cash? And what about the reservations?
+L278098 +++$+++ u5832 +++$+++ m386 +++$+++ PARKER +++$+++ Inspector Dayton, the cop from Robbery Detail who was looking for you.  They caught the guy who stole your credit cards trying to sell them and he wants...
+L278097 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Who?
+L278096 +++$+++ u5832 +++$+++ m386 +++$+++ PARKER +++$+++ Excuse me, Ms. Gayley.  That guy Inspector Dayton... he's recovered a bunch of your credit cards and he wants...
+L278064 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ Call him back.  Ask him.  I'm a little...busy.
+L278063 +++$+++ u5832 +++$+++ m386 +++$+++ PARKER +++$+++ I didn't ask him.
+L278062 +++$+++ u5829 +++$+++ m386 +++$+++ GALE +++$+++ What about?
+L278061 +++$+++ u5832 +++$+++ m386 +++$+++ PARKER +++$+++ Hey, Miss Gayley, there's a cop looking for you.  From Robbery Detail, Inspector Dayton.  He wants you to call him.
+L278843 +++$+++ u5836 +++$+++ m387 +++$+++ BERT +++$+++ Friend, that animal will go after whoever's approaching the sound of that whistle.  And God help whoever it is.  Because that dog will not let up until there's dead meat on the ground.  Put your faith in that, pal.
+L278842 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ So this really does the trick, eh?
+L278841 +++$+++ u5836 +++$+++ m387 +++$+++ BERT +++$+++ They're great with kids.  They love 'em.  They eat 'em up.  I'm kidding.
+L278840 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ How are they with kids?
+L278839 +++$+++ u5836 +++$+++ m387 +++$+++ BERT +++$+++ Look at that.  You can't buy better protection than that.  That there is your Man's Best Friend.
+L278838 +++$+++ u5836 +++$+++ m387 +++$+++ BERT +++$+++ Listen, you can kick 'em, hit 'em, pour water all over 'em -- <u>nothing</u>.  I'm telling you, under ordinary conditions they're <u>quiet</u>, they're nice to have around, they're completely harmless -- but when you blow this whistle...  ... then look out.
+L278837 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ Safety?
+L278836 +++$+++ u5836 +++$+++ m387 +++$+++ BERT +++$+++ You better believe it, buddy. Your average Rolls Royce doesn't have to pass as many tests.  You want consistency?  You want dependability?  You want safety?
+L278835 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ You test each one thoroughly?
+L278978 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ What toys do you have?
+L278977 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ A lot of my stuff hasn't been unpacked yet.  Here's the TV.
+L278976 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ Where are these toys of yours?
+L278975 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ Let's watch some TV.
+L278974 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ So where are all your toys?
+L278964 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ Nah, that's some guy fixing the living room floor.
+L278963 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ Was that your dad?
+L278771 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ Whoa, check it out.
+L278770 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ Give it here, Bernard.
+L278661 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ They're really white.
+L278660 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ Hey, c'mon.
+L278659 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ I'm Bernard, by the way.  Those are cool Reeboks, Neil.  They're real new, aren't they?
+L278658 +++$+++ u5841 +++$+++ m387 +++$+++ NEIL +++$+++ Okay.
+L278657 +++$+++ u5837 +++$+++ m387 +++$+++ BULLY +++$+++ So, <u>Neil</u>.  How's it goin'?
+L278628 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ Oh -- uh -- girlfriend.
+L278627 +++$+++ u5846 +++$+++ m387 +++$+++ SALESGIRL +++$+++ Wife, girlfriend or mother?
+L278626 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ Well, it's for a woman.
+L278625 +++$+++ u5846 +++$+++ m387 +++$+++ SALESGIRL +++$+++ Any particular brand?
+L278624 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ I'm looking for some perfume.
+L278623 +++$+++ u5846 +++$+++ m387 +++$+++ SALESGIRL +++$+++ Are you being helped, sir?
+L279017 +++$+++ u5848 +++$+++ m387 +++$+++ THERAPIST +++$+++ Well, you'll just have to <u>make</u> her understand.
+L279016 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ There's so much I want to say to her, it's all jumbled up in my mind, and I don't want her to misunderstand --
+L279015 +++$+++ u5848 +++$+++ m387 +++$+++ THERAPIST +++$+++ I can't help you if you don't help yourself.  It's really up to you. Brooding endlessly isn't going to help matters any.
+L279014 +++$+++ u5838 +++$+++ m387 +++$+++ HIDER +++$+++ I <u>know</u>.  I just feel that the relationship has reached that delicate stage where the slightest little thing could wreck the careful groundwork I've laid up till now.

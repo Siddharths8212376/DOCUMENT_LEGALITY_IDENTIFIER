@@ -1,0 +1,200 @@
+L596612 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Good afternoon, Mrs...?
+L597081 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Ho-hotel... Los Angeles... He...
+L597080 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ The Hyatt...? What’s that?
+L597079 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Hyatt... Friedman’s... at the Hyatt...
+L597078 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Trying to say something, Martin?
+L597076 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Dying without ever reaching the top...
+L597075 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What is?
+L597074 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ I told you... The rabble, it’s me...  Huh... It’s sad.
+L597073 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ You seem very sure about that.
+L597072 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ You’re making a mistake, tough guy. Whoever he is, your guy’s not one of Friedman’s...
+L597071 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is this Friedman, Martin?  Come on, scumbag. You’ve reached your sell- by date. Tell me if this is Friedman, where he is in Los Angeles and what name he’s using?
+L597070 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Who are you? Who are you working for, huh?
+L597069 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is this Friedman?
+L597064 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Could someone have hurt you that bad?
+L597063 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Huh... I’m sure there’d be lots of takers.
+L597062 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ You know what, Martin? I ought to tie you down with your old arse up in the air and advertise the hole in the middle of it to the world. Free. And hope you never die.
+L597061 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Boys like the one you met today are surplus. Commodities worth a handful of notes in whatever arsehole of the world they happen to be born into. We improve some lives buying them where they’re not wanted, improve still more selling them where they are. Is that too hard for you?
+L597060 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I’m overcome by your public-spiritedness.
+L597059 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Maybe you should. Think about it. Those who can afford our goods do their thing without upsetting anyone. Those who can’t do it to kids from the streets or their own family and it makes upsetting headlines.
+L597058 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Maybe I don’t.
+L597057 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Money talks, bullshit walks, whether you like it or not.
+L597056 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Only feeding the disease, eh, Martin?
+L597055 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Huh. I’d have thought a tough guy like you would know better. The sick ones are out there, friend. They make up the clientèle. Get rid of them and we’re out of business.
+L597054 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is it real?  You people are sick.
+L597053 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Maybe the thought of people like you going on holiday bothers me. Come on, let’s go...
+L597052 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ You’re out of your mind. What’s the idea?
+L597050 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Shut up and drive!
+L597049 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ This car needs petrol.
+L597048 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Don’t jump any red lights.
+L597047 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ No. In Hampstead... Why?
+L597046 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Friedman lives with you at the Ambassador?
+L597042 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Look, I don’t think you’re fully aware of what you’re playing with here, Mister. Whoever put you up to this either pays too well or misinformed you. Why don’t you just tell me what it is you want so we can do business in a civilized manner, eh?
+L597041 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Where is Friedman?
+L597040 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Huh, I doubt it...  Friedman only deals directly with select customers. I handle the rabble...
+L597039 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ This one came back and was never seen again. I understand Friedman looked after him.
+L597038 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Clients come and go.
+L597037 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Six weeks ago. He bought a boy of yours.
+L597036 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Am I supposed to know him?
+L597033 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Right now your big friend at the Diplomat is bleeding fast, Martin. He might still possibly survive if attended to soon. And he did cooperate.
+L597032 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ I don’t know what your problem is, but...
+L597031 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Let’s go.
+L597030 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Uh-huh. You could’ve waited for me inside.
+L597029 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is my money in there?
+L597028 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Problems?
+L596969 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Does it matter?
+L596968 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Vous êtes Français?
+L596967 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ Anything at all. I presume you won’t want to take the boy with you when you’re finished?  There’s a £500 fee for disposal. The boy is yours, you understand?
+L596966 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Anything at all?
+L596965 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ The room’s yours for 24 hours. It’s sound- proofed, stocked up with food, drink and other things you might find useful. You can do anything you like.
+L596964 +++$+++ u8304 +++$+++ m564 +++$+++ MARTIN +++$+++ We conclude our transaction.
+L596963 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What happens now?
+L597173 +++$+++ u8303 +++$+++ m564 +++$+++ MAN’S VOICE +++$+++ We need a double-room and as I understand you’re here alone we’d be much obliged if you’d agree to move to a single room...
+L597172 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What are you talking about?
+L597171 +++$+++ u8303 +++$+++ m564 +++$+++ MAN’S VOICE +++$+++ This is the hotel supervisor, Mr Lamont. I’m terribly sorry to disturb you but there’s been a mix-up with our bookings which you might be able to help us resolve.
+L597170 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What is it?
+L596934 +++$+++ u8303 +++$+++ m564 +++$+++ MAN’S VOICE +++$+++ ‘Le Mercury’. Newman street. Ask for Peter.
+L596933 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Three o’clock.
+L596932 +++$+++ u8303 +++$+++ m564 +++$+++ MAN’S VOICE +++$+++ At what time will you be available?
+L596931 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Yeah.
+L596930 +++$+++ u8303 +++$+++ m564 +++$+++ MAN’S VOICE +++$+++ It’s about the puppy. You got the money?
+L596957 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ You must agree to be blindfolded...  Just for the journey. It might appear unseemly - you’re the paying customer - but ordinarily clients come with some kind of endorsement.
+L596956 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I’ll be alone.
+L596955 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ Will you be alone?  The merchandise. Is it just you or...
+L596954 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Questions can amount to revelations. Now, I’d hate to think I was made to come here carrying a substantial amount of money in order to be subjected to a cross- examination. Mr Friedman led me to believe we had a deal. Do we?
+L596953 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ An Austrian... Not much to go on, is it?
+L596952 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ An Austrian.
+L596951 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ And while visiting our fair city you...  An Austrian?
+L596950 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ The lady’s not a friend. She’s a whore.  Someone at a special screening I attended mentioned certain goods could be got from an Austrian here in London. And not just movies.
+L596949 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ Your lady friend did.
+L596948 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I don’t recollect mentioning a friend.
+L596947 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ The person who put us in touch seems to think so.
+L596946 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Have you?
+L596945 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ I gather we’ve done business with a friend of yours?
+L596942 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Should I come back in five minutes?
+L596941 +++$+++ u8309 +++$+++ m564 +++$+++ PETER +++$+++ Five to three. You’re early.
+L596732 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Yes. You wouldn’t know where I could reach him? We had to discuss an exhibition of his photographs at my Paris gallery, you see? I really need to see him before I leave.
+L596731 +++$+++ u8313 +++$+++ m564 +++$+++ WAITRESS +++$+++ I’m sorry...
+L596730 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Oh. This is... We’d arranged to meet tonight and I’m due to return to Paris tomorrow...
+L596729 +++$+++ u8313 +++$+++ m564 +++$+++ WAITRESS +++$+++ No. I meant he left as in no longer works here.
+L596728 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Left? When? I just come from his place and there was no one there. A neighbour of his...
+L596727 +++$+++ u8313 +++$+++ m564 +++$+++ WAITRESS +++$+++ Leon? No. I’m afraid he left.
+L596726 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ No. Thank you. Could you tell me if Leon Spitz is here, please?
+L596725 +++$+++ u8313 +++$+++ m564 +++$+++ WAITRESS +++$+++ Evening. Table for one?
+L597458 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Good. You needn’t worry about the Austrian anymore. He’s dead. I’ll be in touch.
+L597457 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Fine...
+L597456 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ How’s the boy doing?
+L597455 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ He showed me a book with a picture of a couple caught kissing in a street...
+L597454 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ ... No. In fact, I’d seen him a couple of months earlier. He was quite depressed. His work wasn’t getting anywhere. He said he was going to try something new, realism, London in the nineties - documentary stuff, you know...
+L597453 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ You sure? What about before he turned up with the boy?
+L597452 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ ... No.
+L597451 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Did he mention anything about having an exhibition of his work?
+L597450 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Yes. Three thousand pounds. I still...
+L597449 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ The money Leon left for the boy, was it cash?
+L597448 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ He... Apparently the hostility was all hers. Leon didn’t... It hurt him. They used to be close...  Their parents were in their forties when they were born, you see. And mostly away. They grew up in a Scottish mansion with old nannies and servants. He... “Our world was so old and cold, we shone for one another,” Leon used to say. His sister cut him off after she got married. He never understood why but thought it was because she had no children. Was bitter...
+L597447 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Did he ever refer to the hostility between them?
+L597446 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Er... Yes...
+L597445 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I’ve been away.  Did Leon speak to you about his sister?
+L597444 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ The nineteenth... How come you didn’t know?
+L597443 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What’s the date?
+L596820 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ He’d come prepared. He had something besides Shiva... ‘Sleeping Beauty’. The Disney film...  Well, it looked like the Disney film. It was something else. I couldn’t watch...
+L596819 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ No sick people in the country, huh?... Just tell me one thing, Rhian. Leon’s story about the boy? You just took his word for it?
+L596818 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ I’m sorry. It’s just you don’t look local...
+L596817 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ And you better stop greeting strangers with a shotgun. If Leon’s Austrian was looking for you I reckon he’d have found you before I did.
+L596816 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Oh, I... She just moved. I’ve got her new... It’s in my book in the kitchen. Wait... Thank you.
+L596815 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I can’t think of a good reason for it - for now anyway. My number if anything happens. What’s your sister’s number?
+L596814 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Yes...You-you’re not going to take Shiva away?
+L596813 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is she on the phone?
+L596812 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ My sister... She lives in the next valley.
+L596811 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Who else knows about the boy?
+L596809 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Albert... Albert and Ethel. Why?
+L596808 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Do you know Leon’s parents names?
+L596807 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ They’re German Jews. Came here before the war. They both lost all their families in extermination camps, but they themselves never went near one. The idea that his family wealth was started with money he believes should have gone to camp survivors has been haunting Leon. It’s not guilt, more of a curse...  And then there’s something about his parents being involved with Nazi hunters... But I think that’s just one of Leon’s dark delusions...
+L596806 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I’m afraid I don’t understand.
+L596805 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Yeah... But he didn’t beat the demons...  A quarter of all the shoes sold in Europe are made by or retailed through his parent’s leather empire. All started from a small shop in the East End of London and war reparation money for holocaust victims.
+L596804 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ His mother would be pleased to hear that.
+L596803 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ That’s what he said. I tried to dissuade him... Told him I couldn’t take on another child, that he’d get into trouble... I mean, people who sell children... But he wasn’t listening... I guess he finally found himself a crusade... His family think he’s back on drugs, eh?  Huh... Leon did drugs. A lot of drugs. Went through his self-destruct phase, you know?  Things to come to terms with. Demons to fight... Some people’s minds are gloriously uncomplicated. Not Leon’s. He did beat the drug, though. He did.
+L596802 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Good reasons?
+L596801 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ He just said he had good reasons.
+L596800 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Did Leon tell you why he didn’t want the police involved, Rhian?
+L596799 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ We didn’t quite make it as lovers... Leon is a good man, though...
+L596796 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Shut up!
+L596795 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ What are you going to do now? Call the police?  Take him away? I must warn you he’s terrified of men, so...
+L596788 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ You-you’re wrong. I just called to ask if I could stay with him next time I’m in London. That’s all.
+L596787 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Haven’t you? Then why the worried messages on his answering machine, Rhian? I’d have sworn you expect him to be in trouble.
+L596786 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ You thought wrong. I haven’t seen Leon for months.
+L596785 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Well, I obviously do. And I also know that Leon’s not here, Rhian. But I thought that you might know where I should look for him.
+L596784 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ ...Leon’s not here. How did you get here? Phil doesn’t know where I live.
+L596783 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ As you know from speaking to Phil, your friend Leon has disappeared, Rhian. His family have hired me to find him.
+L596782 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ No! What do you want here? How do you know me?
+L596781 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Can I get up now?
+L596780 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ What’s a French private investigator doing here?
+L596779 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Should I be?
+L596778 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ A private investigator... You’re not Austrian?
+L596777 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Reach for it and throw it to me. And... My finger’s on the trigger, you hear!
+L596776 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ In my jacket. Left inside pocket.
+L596775 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Shut up! Where’s your wallet?
+L596774 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Is this some kind of mugging? Because...
+L596773 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ Where’s your wallet? Have you got a wallet?
+L596772 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ It’s wet. Will this do?
+L596769 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ How are you, Rhian?
+L596768 +++$+++ u8311 +++$+++ m564 +++$+++ RHIAN +++$+++ This is private property. The public footpath is back to the left of the bridge.
+L597207 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Is that where lawyers toil for an industry that turns serial killers into heroes who give thrills to young women who write erotic novels about psychopaths and rapists?  You go to your world, I’ll stay in mine. So long, Mister.
+L597206 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Huh... I suppose the idea of a one day trip to Los Angeles doesn’t appeal to you...
+L597205 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Barstow’s 30 miles to the left. Los Angeles a hundred to the right. Wherever you’re heading, I reckon somebody’ll pick you up.
+L597204 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ I’m sure you would. But if I had one, I wouldn’t let you near it. Now you tuck back in and rest until you’re told otherwise.  And for what it’s worth, I wouldn’t try anything that might be construed as unappreciative of my hospitality. I’d sooner shoot you than have you upset me...
+L597203 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I’d appreciate it if I could use your phone.
+L597202 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Los Angeles is 100 miles away.
+L597201 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Los Angeles?
+L597200 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Huh... I guess you ain’t quite ready for civilisation yet... I’ll give you one more day, a meal, and then you’re on your way.
+L597199 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Three days and that’s three days too many.Come on. Get your ass up.
+L597198 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I... How long have I been here?
+L597197 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ Now, can you stand up?  Can you use your legs and stand up?
+L597196 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ I didn’t think so. The rags on their sorry backs are the only wordly possessions those wretched creatures are ever found with...  I don’t wanna know who you are or how come you ended up roasting in Owl Canyon. But you might as well know I’d have let you fry to a buzzard meal if not for this...
+L597195 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ No...
+L597194 +++$+++ u8308 +++$+++ m564 +++$+++ OLD COWBOY +++$+++ And you ain’t neither one of those damned Mexicans who end up littering the landscape after getting ripped-off by their friendly cross- border guides, are you, mister?
+L596750 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Fucked-up fucking weird.
+L596749 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Yeah. Why? You’re going to look for her... Shit! You really think his pictures are that good?
+L596748 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Could that be Camden Market?
+L596747 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Yeah! Somewhere in Wales. I don’t really know her. Used to turn up in a Transit van on weekends, sell old furniture at Camden. That’s how come he only laid her at weekends, ha ha...
+L596746 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Would you know where I might reach her?
+L596745 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Oh. That’d be Rhian, a Welsh chick he used to lay at weekends. She got wise and dumped him months ago...
+L596744 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Small, blond, good-looking. She was with him when we met. She had a funny English accent.
+L596743 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ What about which girlfriend?
+L596742 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What about his girlfriend?
+L596741 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Let me put it this way then; the photographs and the man? One and the same, man, one and the same. At best fucking weird, at worst fucked-up fucking weird. Maybe you should think yourself lucky. Some folks just ain’t worth getting involved with. And Leon sure is one of ‘em.
+L596740 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I know his work better than I know him.
+L596739 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Huh! You could always try Suicide Bridge.  You don’t know Leon, do you?
+L596738 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I take it you don’t know where he is, then?
+L596737 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ No shit... Well, I’m afraid I can’t help you.
+L596736 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Uh-huh.
+L596735 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ I hear you’re looking for Leon.  That makes me, his old-lady, and now you, looking for the little bastard. Leon’s gone, man. Vanished. You interested in his photographs?
+L596734 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Excuse me?
+L596733 +++$+++ u8310 +++$+++ m564 +++$+++ PHIL +++$+++ Welcome to the club.
+L596853 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ If you can, send me a receipt.
+L596852 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ We are so alike, Xavier. Still, sometimes I wonder which one of us is the ugliest.
+L596847 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ I don’t have your credentials, Nathalie.
+L596846 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Then why don’t you reach him?
+L596845 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ But maybe you know someone who does. An Austrian, in London, dealing in kids and snuff videos. How many can there be? These people supply to order. He has to be known, reachable.
+L596844 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ A l’achat, trois ou quatre mille. En location, cinq cent. Mais ça pourrait faire plus. Je ne sais pas. C’est pas vraiment mon truc.  I don’t know any Austrian, Xavier.
+L596843 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Le montage, l’emballage. Not your regular street muck, is it? This is collectors’ stuff. How much would it cost me?
+L596842 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Alors quoi?
+L596841 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Alors?
+L596839 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Eh bien... T’es sûr que t’as besoin de moi?  La petite m’a l’air assez bien foutue, non?
+L596838 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Mon bureau coûtait trop cher.
+L596837 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Où est passé ton salon?
+L596836 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Bye. And thanks... Nathalie gently closes the door, eyes Lombard who shakes himself awake... rolls her eyes and surveys the room...
+L596833 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Tu sais où me trouver.
+L596832 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ J’ai bien peur qu’il te faudra attendre.  Pas avant la matinée.
+L596831 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Viens.
+L596830 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Cinq cents.
+L596829 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ What’s an hour of your time worth these days, Nathalie?  Combien, Nathalie!
+L596827 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Un Autrichien. Negociant en pré- pubescents.
+L596826 +++$+++ u8307 +++$+++ m564 +++$+++ NATHALIE +++$+++ Qu’est-ce que tu veux?
+L597386 +++$+++ u8312 +++$+++ m564 +++$+++ THE ITALIAN +++$+++ Huh. I’m a businessman. What are you, eh?
+L597385 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Don’t tempt me. The last scumbag who thought I might kill him died soon afterwards.
+L597384 +++$+++ u8312 +++$+++ m564 +++$+++ THE ITALIAN +++$+++ What you gonna do? Kill me?
+L597383 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ Shut up and walk...
+L597382 +++$+++ u8312 +++$+++ m564 +++$+++ THE ITALIAN +++$+++ When they realise I’m missing...
+L597381 +++$+++ u8312 +++$+++ m564 +++$+++ THE ITALIAN +++$+++ That’s what he said...
+L597380 +++$+++ u8300 +++$+++ m564 +++$+++ LOMBARD +++$+++ You’re sure he said his caller was a man?

@@ -1,0 +1,200 @@
+L12183 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Some job. Here, have a hit. Don't be such a hardass. I know you got problems, but everybody's got problems. 
+L12182 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You gotta be more careful about that shit. Gordon or one of those guys sees you smoking that wacky tabacky around me they'll expect me to bust you. And I'll be outta a job.
+L12181 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Relax, Chief. We're leaving. You wanna toke?
+L12180 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I thought I told you to move that truck!
+L12150 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Got you for -- 450, 500 bucks? 
+L12149 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ No brag. Just fact.
+L12148 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Where's that gun you were bragging on today?
+L12147 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ LaRiviere's having a hell of a time in there. Master of fucking ceremonies.
+L12146 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Don't mind if I do.
+L12835 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Okay, let's go home, then.
+L12834 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I want to go home.
+L12833 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Jill, please, it's alright. Nothing happened.
+L12830 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Oh.
+L12829 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Nope. Not anymore. I'm nothing anymore.
+L12828 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ You're a policeman.
+L12827 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I know.
+L12826 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ That's illegal, you know.
+L12825 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You can't.
+L12824 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I want to go home.
+L12823 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I don't know. For the food business. I guess. I just thought, you know, we'd sneak a Big Mac on Mommy, like we used to.
+L12822 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ What are you sorry for?
+L12821 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Please don't cry. Please, honey.
+L12819 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Fine.
+L12818 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Okay.
+L12817 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Nothing, I guess. I guess I can wait till we get home. Maybe we'll stop by Wickham's for a hamburger when we get to Lawford. That suit you? You always like Wickham's.
+L12816 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Okay. So we'll get what you want. What do you want?
+L12815 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I know what Mommy says. I'm in charge today, though.
+L12814 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Same thing, Daddy. Mommy says --
+L12813 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You can't have nothing, Jill. We need lunch. Mr. Pizza?
+L12812 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Nothing.
+L12811 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What do you want, then?
+L12810 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ No.
+L12809 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ C'mon, we can always sneak a Big Mac. And a cherry turnover. Your favorite. What do you say?
+L12808 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Mommy won't let me eat fast food. You know that. It's bad for you.
+L12807 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ How about a Big Mac?
+L12806 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Oh.
+L12805 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Grandpa. My father. It's his.
+L12804 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Pop?
+L12803 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It belongs to Pop.
+L12802 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ It's pretty old.
+L12801 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah. My car's in the shop. This'll be fine.
+L12800 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Are we going in this?
+L12598 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I'm glad you're here. Can you stay for a while?
+L12597 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Dad.
+L12179 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ That's fine with me too. When Mommy comes, tell her I'm up here.
+L12178 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Sit right there by yourself if you want. Wait for her by yourself. That's fine with me. Just dandy. I'm going downstairs.
+L12177 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Where do you expect to wait for her? Obviously downstairs with the other kids isn't good enough.
+L12176 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Yes.
+L12175 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ She won't be here for a half hour. Think you can stand it that long?
+L12174 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Yes.
+L12173 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ That's all you got to say? "Yes".
+L12172 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Yes.
+L12171 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ She's gone already!  Gone already! Couldn't wait.
+L12170 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Well, I guess I am. I planned this, I planned all this, you know. I mean, it's sort of pathetic, but I planned it. You shouldn't have called your mother.  C'mon, we're gonna call her before she leaves.
+L12169 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I told her I wanted to come home. Daddy, don't be mad at me.
+L12168 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah. Yeah, right, I'm mad. What'd you tell her, for Christ sake?
+L12167 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ See, I knew you'd be mad.
+L12166 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Come and get you! Shit! It's a damn half hour drive each way. Why didn't you talk to me about it first?
+L12165 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I... because I want to go home. She said she'd come and get me.
+L12164 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Jesus, why?
+L12163 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Yes.
+L12162 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What? You called Mommy? Just now?
+L12161 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I called Mommy.
+L12160 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Jesus. Listen, Jill, tell you what. Tomorrow morning, you still want to go home, I'll drive you down. I'll get off work or something.
+L12159 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I don't want to be here. Don't worry, I love you, Daddy, I do. But I want to go home.
+L12158 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You are home. There are lots of kids you still know here.
+L12157 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ No I didn't see anybody I know. No I don't want to go to school here tomorrow. I want to go home.
+L12156 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ No what?
+L12155 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ No.
+L12154 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Some party, huh? Sorry I lost sight of you. I had to step outside for a smoke. You find anybody you know here? There must be some kids you used to know from school. You want to go tomorrow? See your old teachers? Be more fun than hanging out with me all day.
+L12138 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Oh, Jesus, come on, will you? Don't mess this up anymore than it's already been messed up. Join the other kids. Do that and before you know it you'll be as happy as a goddamned clam.
+L12137 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I want to go home.  I don't like it here.
+L12136 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It's fun.
+L12135 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ It's stupid.
+L12134 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What then?
+L12133 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ It's not that.
+L12132 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Why? Why not? You know these kids from when you went to school here. It hasn't been that long.
+L12131 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I don't want to.
+L12130 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Go on, Jill. Some of those kids you still know.
+L12127 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ No. She doesn't talk about you anymore.
+L12126 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ No. I didn't used to be bad. No sir. Where do you get this stuff? From your mother?
+L12125 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I just think you used to be bad.
+L12124 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What are you talking about?
+L12123 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I bet you did lots of bad things.
+L12122 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It's not funny now. I'm a cop and I gotta listen to all the complaints people make. I'm not a kid anymore. You change.
+L12121 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ But it's not funny now.
+L12120 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ To us it was.
+L12119 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Was it funny?
+L12118 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Well, yeah. Sort of. Nothing really mean. Me and my pals, me and my brothers. It was kind of funny then. Stealing pumpkins, soaping windows. Stuff like that.
+L12117 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Did you do that when you were a kid?
+L12116 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I guess they're stupid.
+L12115 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Yeah. It's stupid.
+L12114 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Break stuff?
+L12113 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ You know.
+L12112 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Do what?
+L12111 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Why do they do that?
+L12110 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Can't you see... look out there. Nobody's got their porch lights on anymore. It's too late. Those Hoyt kids are just out to get in trouble. See, they put shaving cream all over that mailbox there. They chopped down Herb Crane's new bushes. Little bastards. Jesus H. Christ.
+L12109 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ I don't care. They're out.
+L12108 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Those are the Hoyts.
+L12107 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Look. Those kids are still trick-or- treating. They're still out.
+L12106 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah.
+L12105 +++$+++ u143 +++$+++ m10 +++$+++ JILL +++$+++ Who's fault is it then if it's not yours? You're the one in charge, Daddy.
+L12104 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I'm sorry for the screw-up. But I couldn't help it it's too late to go trick-or-treating now. I couldn't help it I had to stop at Penny's for the costume. And you were hungry, remember.
+L12767 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah, you can have the key. It's the key that's kept me locked to you all these years. I give it to you with pleasure.  Now I'm free. See how easy it is, Jack? All you got to do is give back what the man gave you, and you're free of him.  I've got to call my brother.
+L12766 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ The key, Wade.
+L12765 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You two, don't you get it? He's using you. You're his slaves.  Jesus Christ, Jack, don't you see that?
+L12764 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Wade, you're done.  Let me have the shop keys.
+L12703 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Always count on old Wade for a good screwing. Why should I always pay more, sell cheap? Why should you guys make all the money. You and Mel and Jack. Right's right.
+L12702 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Could be.
+L12701 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You and Mel Gordon?
+L12700 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Maybe.
+L12699 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I won't. You interested?
+L12698 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Don't light that in here. I'm allergic.
+L12697 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Want to buy?
+L12696 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ What's the difference? Take my truck, take a rest -- stop worrying about Mel Gordon. Have you decided what to do with your old man's place -- he going to stay there?
+L12695 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ That was before Twombley was shot. Before he knew.
+L12694 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Mel's doing some business with me. It's nice to do favors for people you do business with. He was in a hurry. No big deal.
+L12693 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You? Why?
+L12692 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Wade, that wasn't smart. Going out right after the man's father-in-law shot himself. Let it go. Call it a favor to me.
+L12691 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ He say anything about the summons I tried to give him? Sonofabitch wouldn't accept it.
+L12690 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ So?
+L12689 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I saw Mel Gordon in here this morning.
+L12688 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Nothing, Wade, I've been thinking. You don't get enough appreciation around here and it's time we changed things a little.
+L12687 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What do I have to do for it?
+L12684 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Elaine! Call Chub Meritt and have him pick up Wade's car, fix the clutch.
+L12683 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ On what you pay me?
+L12682 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You ever think of getting a new car, Wade?
+L12681 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Sorry about the long lunch. My clutch is going out again.
+L12576 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You Rolfe?  I remember you from high school. You're a teacher now? Harvard?
+L12575 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I'm fine, fine.
+L12574 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ How you holding up, Wade?
+L12397 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Well, right now we're not too interested. Finish up what you gotta do, then you can get bugged on your own time.
+L12396 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah. A few things.
+L12395 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Something bugging you?
+L12394 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It ain't done, if that's what you mean.
+L12393 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ What the fuck. My day's already ruined.  Give me the keys. You can go back with Jack. You still got a shitload of plowing to do.
+L12378 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Let's get to the top and talk to Jack first. He'll know what happened. He fucking better. If this coulda been avoided, I'll put that kid's ass in a sling.
+L12377 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You want me to follow them to Littleton?
+L12376 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ That must've been Twombley. Jesus. I bet that was Twombley.
+L12375 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Like hell.
+L12374 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You ain't the hunter Jack is. And he can't drive the grader worth shit.
+L12373 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I wish you had. I'd rather be deer hunting instead of freezing my ass on that fucking grader.
+L12372 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ I shoulda sent you instead of Jack.
+L12371 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ He more than likely just shot himself in the foot or something. That's what usually happens.
+L12370 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Yes, Wade, I mean Twombley. Put out that cigarette. Fuck. Fuck. Fuck.
+L12369 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You mean Twombley?
+L12368 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Fuck. You don't know how bad or anything?
+L12367 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Twombley's shot. I heard that. Not Jack. He's okay, I assume.
+L12366 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Fuck. Turn it off.  All you heard was there was some kinda accident?
+L12365 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Twombley, Jesus. We got to get moving: I got to get up there. How would I know? C'mon, you drive. We'll take my truck.
+L12364 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I figured you already heard.
+L12363 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Huh?
+L12362 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ A hunting accident. Jack and Twombley.
+L12361 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ What's the hurry?
+L12297 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ That's what I love about a small town. You know everybody.
+L12296 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Fuck you.
+L12295 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Get the grader. Go out 29 past Toby's. Don't let Lillian get to you. She didn't belong here. That's why she left.
+L12294 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I'm not saying that.
+L12293 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You don't want the extra police pay?
+L12292 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What am I -- a security guard? You hired me, you and your Selectman friends.
+L12291 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Don't go playing policeman.
+L12290 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ At the school crossing. In his BMW. Coulda hurt some kids. I'm gonna bust his ass.
+L12289 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Huh?
+L12288 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ His son-in-law damn near killed me.
+L12287 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Jimmy took it. Jack's out hunting with Evan Twombley.
+L12286 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Where's the plow?
+L12285 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Told you the snow was coming down. Take the grader.
+L12235 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Watch this snow. It's coming down tonight.
+L12234 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Tomorrow, Gordon.
+L12129 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Got here just in time. Go ahead. Jump in line. Maybe you'll win a prize.
+L12128 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ We're looking for the funniest costume! And the scariest! And the most imaginative! And the best costume of all!
+L12798 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ You know what I'm talking about. For what you're doing to me and to the child you say you love so much. Love. You won't get away with it.
+L12797 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Low as what? What have I done? It's bad to want to see your own daughter?
+L12796 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ You make me sick. I can't believe you've sunk so low.
+L12795 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ No problem. Look, I...
+L12792 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Hi honey.
+L12791 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ See. Get your boots.
+L12790 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah, lots.
+L12789 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ Wait there. She'll be right out.  Is there snow on the ground up in Lawford?
+L12604 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ Let the past be.  I'm sorry about your mother. I liked her. You never know how much women like that suffer. It's like they live their lives with the sound turned off -- and then they're gone.
+L12603 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It's just...
+L12602 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ We've done all our talking, Wade.
+L12601 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ We should talk.
+L12600 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ No, not anymore. It's too... it's too far.
+L12599 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You ever come to your father's grave anymore?
+L12218 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I'm not making it any worse. You are. Me and Jill could've worked this thing out. It's normal, it's even normal for me to get a little touchy about it. Believe it or not. How do you think this makes me look, treating her like some tragic victim or something?
+L12217 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ Don't cause a scene. No one's trying to win any 'rounds'. Don't make it any worse.
+L12216 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I don't want her to go, Lillian.
+L12213 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Oh, Jesus, lay off, will you? It looks like you've won this fucking round already, so lay off a little, for Christ's sake.
+L12212 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ She's grown up some, hasn't she?
+L12211 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah.
+L12210 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ While you went off for a few beers with your friends? Is that Hettie Rodgers there, with whatzizname?
+L12208 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ Where is she now? Is she in the truck with your friends?
+L12207 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Me and Jill, we just had a little spat. She felt kind of left out, I guess, from not knowing some of the new kids --
+L12206 +++$+++ u145 +++$+++ m10 +++$+++ LILLIAN +++$+++ Where's Jill?
+L12205 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Lillian!
+L12262 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ From Boston. Evan Twombley's son-in- law -- he was driving. I know where they're headed. Up the lake, Agaway. The old man's out deer hunting with Jack Hewitt, so they probably got some big weekend party planned.
+L12261 +++$+++ u146 +++$+++ m10 +++$+++ LUGENE +++$+++ I still don't understand --
+L12260 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Mel Gordon.
+L12259 +++$+++ u146 +++$+++ m10 +++$+++ LUGENE +++$+++ Good. Who?

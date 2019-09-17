@@ -1,0 +1,200 @@
+L642085 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ I'll box your ears if you don't show some respect for the dead! You mustn't play under this tree.
+L642014 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ You little liar! Get out of here!
+L642013 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ He came in through the cupboard.
+L642011 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ He couldn't get through the door, then?
+L642010 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ Yes -- very, very big!
+L642009 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ Very, very?
+L642008 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ It's a very big one.
+L642007 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ A black bull!
+L642006 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ A black bull came.
+L642005 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ Don't invent stories; go to bed.
+L642004 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ I'm afraid.
+L642003 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ Why are you crying?
+L642411 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I can't do anything to make you stay? These people annoy you, isn't that it?
+L642410 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ Yes!
+L642409 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ You have decided to leave, Moncho.
+L642170 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ But, miss ...
+L642169 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ In you go! Moncho, lead the way!  You stay here.
+L642163 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ This louse is looking for trouble.
+L642162 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ What's going on, Moncho?
+L642145 +++$+++ u8790 +++$+++ m596 +++$+++ MONCHO +++$+++ They shut all right now. And the blankets are ready.
+L642144 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Have you repaired the windows of the dormitories?
+L642108 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ You are forgiven. Goodbye.
+L642107 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Forgive me if I have offended you.
+L642102 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ Are you aware of the pride there is in what you're saying?
+L642101 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I have nothing to reproach myself for. All I know is that I've changed. With all my strength, which is not much, I will follow the road that the Lord has shown me. One can also serve outside a convent.
+L642100 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ Is there some grave impediment which prevents you from taking your vows? There must be something.
+L642095 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ A suicide is horrible. I know. But you should have told me.
+L642094 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I had so many things to think about!
+L642093 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ Ever since yesterday, when we heard by chance about the tragedy, we have been very anxious for you. Why didn't you write? I would have come immediately.
+L642091 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Mother.
+L642090 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ Good morning. You weren't expecting me, were you?
+L641852 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ The retreat will start soon. You can leave tomorrow morning.
+L641851 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I have no desire to see the world again, but if you order me to...
+L641850 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ He has paid for your studies and your maintenance, and he has just sent your dowry. Does that mean so little to you, Viridiana?
+L641849 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ But why does he want to see me? He has never bothered about me.
+L641848 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ I'm afraid that his health is not good. He's your only relative and you ought to say farewell to him before taking your vows. You will certainly never see him again.
+L641847 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I don't want to leave the convent, Mother.
+L641846 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ In any case he's asking you to come and stay with him.
+L641845 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I hardly know him. I saw him only once, some years ago. I can't even remember him.
+L641843 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ All right, Mother.
+L641842 +++$+++ u8791 +++$+++ m596 +++$+++ MOTHER SUPERIOR +++$+++ I've just had a letter from your uncle. He won't be able to come when you take your vows.
+L641841 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Mother?
+L642175 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ If you want to stay you'll have to exercise a little self-control, and be a bit more humble to everybody.
+L642174 +++$+++ u8793 +++$+++ m596 +++$+++ PELON +++$+++ I've had a gutful of this.
+L642173 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Would you mind telling me what I did wrong to you to deserve your insults?
+L642166 +++$+++ u8793 +++$+++ m596 +++$+++ PELON +++$+++ I'll talk the way I want to. I've had enough of this.
+L642165 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Don't talk like that!
+L642117 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Good, then let's go!
+L642116 +++$+++ u8793 +++$+++ m596 +++$+++ PELON +++$+++ When you are, miss.
+L642115 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Give the little girl to me. Come here, sweetheart. Are you ready?
+L642360 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ That's enough.  Go join the others, and don't come back here.  And you'll have to control your temper.
+L642359 +++$+++ u8794 +++$+++ m596 +++$+++ POCA +++$+++ Ask the priest, miss.
+L642273 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Don't pay any attention to him. It's very good.
+L642272 +++$+++ u8794 +++$+++ m596 +++$+++ POCA +++$+++ She looks like a sick marrow!
+L642222 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ That's all right; we all laugh here, but not at you; I'll see to that.
+L642221 +++$+++ u8794 +++$+++ m596 +++$+++ POCA +++$+++ I'm only good at making people laugh.
+L642220 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ What about you, Manuel?
+L642119 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Right, let's go.  And keep the compliments to yourself. I don't like them.
+L642118 +++$+++ u8794 +++$+++ m596 +++$+++ POCA +++$+++ She has the face of an angel. What a pity you can't see her.
+L642034 +++$+++ u8795 +++$+++ m596 +++$+++ RAMONA +++$+++ Oh, you slept well; don't worry.
+L642033 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Have I slept long?
+L642032 +++$+++ u8795 +++$+++ m596 +++$+++ RAMONA +++$+++ You fainted last night after supper. The master and I carried you here.
+L642031 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ What happened to me?
+L642030 +++$+++ u8795 +++$+++ m596 +++$+++ RAMONA +++$+++ That will soon pass. It's nothing.
+L642029 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I have a headache.
+L642028 +++$+++ u8795 +++$+++ m596 +++$+++ RAMONA +++$+++ How do you feel?
+L641860 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Ah! Pleased to meet you.
+L641859 +++$+++ u8795 +++$+++ m596 +++$+++ RAMONA +++$+++ Welcome, miss. I'm Ramona, Don Jaime's servant.
+L641911 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ No, I don't want to.
+L641910 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ I'm going to the hen house. Are you coming with me?
+L641909 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ It's very wicked to spy. Why did you do it?
+L641908 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ From the terrace.
+L641907 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ How did you see me?
+L641904 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ Yes, yes, I saw you!
+L641903 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ What?
+L641893 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Could I trouble you for my glass of milk?
+L641892 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ Today, a good girl.
+L641891 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Good morning, Rita. How are we today?
+L641858 +++$+++ u8797 +++$+++ m596 +++$+++ VIRIDIANA +++$+++ Hello.
+L641857 +++$+++ u8796 +++$+++ m596 +++$+++ RITA +++$+++ Hello.
+L643258 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Jesus Christ.  I know who the dominant personality is.  Lindenmeyer.
+L643257 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ I've discovered something about Lindenmeyer'5 Maestro teaching tool I thought you should know...  The harm done to the music students who used the device —— it was not by accident. The machine was designed explicitly for that purpose. Lindenmeyer intended to hurt the kids using it.
+L643256 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ I'm sorry, I thought you were somebody else.
+L643255 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ Me? What did I do?
+L643254 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ You son-of—a—bitch, I'm going to kill you.
+L642993 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ Look, I feel bad about this, so I'm going to try to look into the programming of his Maestro teaching tool for you.  ) I've had one sitting around for years. Maybe I can learn something that you'll find useful.
+L642992 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ It's not your fault. We appreciate you trying.
+L642991 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ It was very well—hidden. There was no way to see it until it was too late.
+L642990 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ I accidently triggered a protection mechanism which erased the entire program.
+L642989 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ In English, please.
+L642881 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ ) There is one program with approximately 1.3 million lines of programming. It is thoroughly secured, which is not surprising considering Lindenmeyer created it.
+L642880 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Can you tell us what's on the disc?
+L642879 +++$+++ u8798 +++$+++ m597 +++$+++ ALEXIEV +++$+++ ) Daryl Lindenmeyer was only here briefly, one semester at most. But he was singularly the most brilliant student I ever had in a classroom. He created programs so beautiful, so lyrical, they were almost like symphonies...
+L643084 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ You already have staked your reputation.  Mayor Bennett and I have been friends a long time. Since Grimes tried to kill him, it doesn't take a rocket scientist to come to the conclusion that Sid 6.7 might go after him, too.  Bennett's Re-Election Rally is tomorrow night and we already have enough trouble on our hands with one psychotic on the loose.  The fail-safe on—line, yet?
+L643083 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Do I need to remind you what happened to his wife? To his daughter?  I will stake my reputation that Barnes didn't kill those guards.
+L643082 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ He would slaughter eight people sitting in a room, but not two prison guards?
+L643081 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Barnes wouldn't kill two innocent guards.
+L642900 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ I wish we could hear them.
+L642899 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ I don't know.
+L642898 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Why would they be going there?
+L642897 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Madison lives two blocks from their present location.
+L642896 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ What are they doing in Los Feliz?
+L642786 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ But only you will know he's not human.
+L642785 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ There's already a task force out looking for Lindenmeyer. Every other officer in the city will be hunting Sid right along with you.
+L642784 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Yes or no, Mr. Barnes?
+L642783 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ If you try to run, I'll hunt you down and kill you myself.
+L642782 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ This is the newest technology approved for general implementation. It's called a locater implant. Every parolee gets one.  We're going to know where you are every second for the rest of your life.
+L642778 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Catch him and your record's clean.
+L642777 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Recognize this? How would you like your old job back?
+L642771 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Whatever.
+L642770 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ You mean a nano—tech synthetic organism.
+L642769 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ We don't know how, but Sid 6.7 made himself into an android.
+L642627 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Why wasn't I told?
+L642626 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ My first two pairs of convicts suffered the same fate.
+L643121 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ If you're lying, I'll hunt you down and kill you myself.
+L643120 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ On my life, I promise you I will.
+L643119 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ When this is over, will you get this goddam thing out of my head?
+L643112 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Then I guess we're even.
+L643111 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ She saved your life, Parker. She didn't have to, but she did.
+L643108 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ You son—of—a—bitch. How could you let them put the implant in my head? How?
+L643107 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Don't worry, they have no idea where you are.
+L642815 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Where's my gun?
+L642814 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Sid 6.7 is now armed.
+L642813 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Their weapons missing?
+L642812 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Officers in Toluca Lake just found an affluent couple...completely gutted.  So were the first two cops to arrive on scene.
+L642811 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Fine —— you want to stay here?
+L642810 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ She wasn't part of the deal, Cox.
+L642809 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ This is the personnel file on the programmer, Lindenmeyer. There might be something in it you can use.
+L642808 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ What she's going to do is get in my way.
+L642807 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ She's going to help you understand what makes Sid 6.7 tick.
+L642773 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ If you can catch him.
+L642772 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Jesus Christ.  Can you kill it?
+L642768 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Name was Clyde Reilly. Hardware specialist.  LETAC surveillance cameras got a picture of the perp as he left the building.
+L642767 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ I've seen worse.
+L642766 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ These were taken inside LETAC an hour ago. Pretty pictures, aren't they?
+L642762 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ It's too early in the morning for me to be cordial. You got any coffee?
+L642761 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Parker Barnes, I'd like you to meet Crime Czar Elizabeth Deane.
+L642760 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ You're wasting your time. I'm not going to play any more of your goddam games.
+L642650 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Do me a favor —— keep sending them.
+L642649 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ What about them?
+L642648 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ You know those cheesy Christmas cards of your family under that tree in your back yard you keep sending me every year?
+L642647 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Don't give up, Parker. Not ever.
+L642646 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ But with the six months off I get for being your guinea pig, I've only got to survive another 17 years, 5 months, and 23 days.
+L642643 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ I'm getting by.
+L642642 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Before you, nobody else had gotten close enough to Sid 6.7 to take a shot at him. Hell, nobody else had even been able to start tracking him before he got to them first.  New scar —— you making it okay in there?
+L642641 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Real, my ass. It's an overblown game.  Anybody ever catch that fucking psycho?
+L642640 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ You were supposed to act as if everything was real.
+L642639 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ He was a computer program for crissake.
+L642638 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ What the hell did you have to shoot the busboy for?
+L642637 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Donley started experiencing the attack for real. If I hadn't gotten you out, the same thing would have happened to you.  You may not believe this, Parker,
+L642636 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Why'd.. .you pull me out?
+L642635 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ You all right?
+L643096 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Got it.
+L643095 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Give me 30 seconds, then flip every switch you can reach.
+L643093 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ I don't set policy.  You have the key?
+L643092 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Why didn't anybody tell me?!
+L643091 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ I need your help--
+L643090 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ I think we both know who did.  What's so urgent?
+L643089 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ There is no way Parker killed those guards. No way.
+L643069 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Captain, I'm afraid of how smart Sid 6.7 is.  But I'm even more afraid of what's he's becoming.
+L643068 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ You think he's smart?
+L643067 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ I'm not sure. My guess is that's what Sid wants us to think.
+L643066 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ Don't blame yourself. In your shoes, I don't think I would have told Parker, either.  So do you think Grimes has become the dominant personality?
+L643065 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ I should have told him.
+L642980 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ In other words, we collectively don't know shit.
+L642979 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Until we know what new influences are affecting him, we can't be sure.
+L642978 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ None. He could be hiding, he could be helping Sid, or could be in little pieces on Santa Monica beach.  Any idea what Sid's going to do next?
+L642977 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Any sign of Lindenmeyer?
+L642976 +++$+++ u8799 +++$+++ m597 +++$+++ COX +++$+++ ... illegal search of Lindenmeyer' s duplex. Eleven civilian vehicles damaged or destroyed. Twenty—four citizen complaints. And the calls are just starting to come in...  I forgot what it's like to have you on the streets.
+L642804 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ I understand the risks involved here. But there is nobody better qualified to go after Sid 6.7 than Barnes. And, there is nobody who knows him better than you. If a situation becomes volatile, you will find a way to quell it. I have complete confidence in you.
+L642803 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ The man played judge, jury, and executioner with eight people's lives. He lost control and is capable of doing it again.
+L642802 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Not if you're with him every step of the way.
+L642801 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Letting a lunatic like Parker Barnes loose in the free world is like lighting a fuse. At some point, he will go off -- you saw what happened in the simulator. The risk to the public is unacceptably dangerous.
+L642800 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ That's also where Mr. Barnes lost his arms to Mathew Grimes' booby— trap. What's your point, Dr. Carter?
+L642790 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ You're going to put your theories to practice. I'm sending you into the field.
+L642789 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ What's the assignment?
+L642788 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ We have an emergency situation which requires somebody with expertise in criminal psychology. Under the authority vested in me by the President, I'm giving you temporary re—assignment.
+L642787 +++$+++ u8802 +++$+++ m597 +++$+++ MADISON +++$+++ Ms. Deane, you wanted to see me?
+L643244 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Don't forget, convict, if this psycho isn't stopped, you go right back to rotting in a prison cell.
+L643243 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Or what, you'll authorize my death a second time today?
+L643242 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ This better not be a wild goose chase.
+L643241 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ You're the highest law enforcement official in the country. Use the fucking army if you need to.
+L643240 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ You know how much man power you're talking about?
+L643239 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Sid is smart enough to know you'd check everywhere in the immediate area. Whatever the device is, he's probably got it timed to move into position just before it detonates.  Have the demo teams check every subway tunnel, water pipe, gas pipe, and sewer pipe that goes under, over, or into the arena.
+L643238 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Demolition teams have searched everywhere in and around the hotel. I don't know where...
+L643237 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ If I were you, I'd get every demolition team in the city searching in and around the Biltmore Hotel.
+L643236 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Enough to level an entire city block.
+L643235 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ No, but I've confirmed the reelection rally is the target.  How much C-4 is missing?
+L643234 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ It's already been called off. Witnesses confirmed you weren't the shooter.  Did you find out where the bomb is?
+L643233 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Call off the manhunt looking for me. I didn't kill the transport guards.
+L643232 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ What did you find out?
+L643231 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Trying to find out where the bomb is. Where the hell have you been?
+L643230 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Barnes, where the hell have you been?!
+L642781 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ How do you know I won't run?
+L642780 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ If Sid 6.7 hasn't killed you, we throw you back in here and you serve out the rest of your sentence.
+L642779 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ What happens if I can't catch him?
+L642776 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ This is a full pardon. It authorizes your immediate release.
+L642775 +++$+++ u8803 +++$+++ m597 +++$+++ PARKER +++$+++ Not from in here.
+L642774 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Think you can do it?
+L642765 +++$+++ u8800 +++$+++ m597 +++$+++ DEANE +++$+++ Nobody else ever got anywhere near him. Nobody else... understands him like you do.

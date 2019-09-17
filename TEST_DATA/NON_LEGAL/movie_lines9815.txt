@@ -1,0 +1,200 @@
+L205962 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Heck, it's been such a long time, Mike. It's great to hear from ya.
+L205961 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ Oh, pretty good.
+L205960 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah - how are you doon?
+L205959 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ Yah?
+L205958 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Okay, ya know. Okay.
+L205957 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ Well, how the heck are ya?
+L205956 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah, that's me.
+L205955 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ I thought, geez, is that Margie Olmstead? I can't believe it!
+L205954 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah.
+L205953 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ Yah, I'm down in the Twin Cities and I was just watching on TV about these shootings up in Brainerd, and I saw you on the news there.
+L205952 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ No, that's okay.
+L205951 +++$+++ u5244 +++$+++ m347 +++$+++ MIKE +++$+++ Oh, geez. It's quarter to eleven.  I hope I dint wake you.
+L205950 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah, yah, course I remember.  How are ya? What time is it?
+L206074 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ So you think you might remember who those folks were who called ya?
+L206073 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ Nope.
+L206072 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...I know you don't want to be an accessory to something like that.
+L206071 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Now, I saw some rough stuff on your priors, but nothing in the nature of a homicide...
+L206070 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ Uh-huh.
+L206069 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in Stillwater.
+L206068 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ So?
+L206067 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...Now, I know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole -
+L206066 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Well, Mr. Proudfoot, this call came in past three in the morning.  It's just hard for me to believe you can't remember anyone calling.
+L206065 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ Nope.
+L206064 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Anyone else residing there?
+L206063 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ Yep.
+L206062 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Well, you do reside their at 1425 Fremont Terrace?
+L206061 +++$+++ u5249 +++$+++ m347 +++$+++ SHEP +++$+++ Nope.
+L206366 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah, Menominie only has Chief Perpich and he takes February off to go to Boundary Waters.
+L206365 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yes, ma'am. Are we the closest PD?
+L206364 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Copy. Yah, send me back-up!
+L206363 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ ...Chief Gunderson?
+L206362 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Don't go in! Wait for back-up!
+L206361 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ My car! My car! Tan Ciera!
+L206360 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Whose car?
+L206359 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ There's the car! There's the car!
+L206358 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ We've got a -
+L206357 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Copy.
+L206356 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah, it's over the wire, it's everywhere, they'll find 'em.
+L206355 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah, the loudmouth. So the whole state has it, Lundegaard and Gustafson?
+L206354 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Oh. Gary's loudmouth.
+L206353 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, I'm almost back - I'm driving around Moose Lake.
+L206352 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah. Where are ya, Margie?
+L206351 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Copy. And Lundegaard too.
+L206350 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Still missing. We're looking.
+L206349 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Sorry - didn't copy.
+L206348 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ - looking.
+L206347 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ But we still haven't found Gustafson.
+L206346 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah.
+L206345 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Gustafson's accountant.
+L206344 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Lundegaard's father-in-law's accountant.
+L206343 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ And this guy is...
+L206342 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah.
+L206341 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ The day of our homicides.
+L206340 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ His wife. This guy says she was kidnapped last Wednesday.
+L206258 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Geez. Well - geez. That's a suprise.
+L206257 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah, Linda's fine. You should call her.
+L206256 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh. Geez.
+L206255 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah, he - he's been struggling. He's living with his parents now.
+L206254 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh. Oh, my.
+L206253 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ No. No. They never married.  Mike's had psychiatric problems.
+L206252 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ So... they didn't...
+L206251 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ No. No. No. They weren't - he, uh, he was bothering Linda for about, oh, for a good year.  Really pestering her, wouldn't leave her alone.
+L206250 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Linda Cooksey?
+L206249 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ No.
+L206248 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Linda.
+L206247 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ His wife?
+L206246 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Well, it was nothin' specific he said, it just seemd like it all hit him really hard, his wife dyin' -
+L206245 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ What'd he say?
+L206244 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Mm. But ya think he's all right? saw him last night and he's -
+L206243 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Well, I'm sorry I won't see ya.
+L206242 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ No, I'm leavin' this mornin', back up to Brainerd.
+L206171 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Norm?
+L206170 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ ...Hello?
+L205948 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...Mike Yanagita!
+L205947 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ This is Mike Yanagita. Ya know - Mike Yanagita. Remember me?
+L205946 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...Well, yah. Who's this?
+L205945 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Margie Olmstead?
+L205944 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah?
+L205943 +++$+++ u5252 +++$+++ m347 +++$+++ VOICE +++$+++ Yah, is this Marge?
+L205942 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Hello?
+L206412 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ I love you, Norm.
+L206411 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ I love you, Margie.
+L206409 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ That's terrific.
+L206408 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah, I guess.
+L206407 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ When they're stuck with a bunch a the old ones!
+L206406 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah.
+L206405 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, for Pete's - a course they do! Every time they raise the darned postage, people need the little stamps!
+L206404 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Hautman's blue-winged teal got the twenty-nine cent. People don't much use the three-cent.
+L206403 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ It's terrific!
+L206402 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ It's just the three cent.
+L206401 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Norm, that's terrific!
+L206400 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah.
+L206399 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Your mallard?
+L206398 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Three-cent stamp.
+L206397 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...So?
+L206396 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah.
+L206395 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ They announced it?
+L206183 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah, it's good. No pike yet, but it's good.
+L206182 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah, not too bad. So it's nice up there?
+L206181 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Was it reasonable?
+L206180 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Had dinner at a place called the King's Table. Buffet style. It was pretty darn good.
+L206179 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ You shouldn't be on your feet too much, you got weight you're not used too. How's the food down there?
+L206178 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ No, no.
+L206177 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Not on your feet too much?
+L206176 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, fine.
+L206175 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yeah, couple a muskies. No pike yet. How d'you feel?
+L206174 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, pretty good. They bitin'?
+L206173 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah, okay. How's the hotel?
+L205900 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah, ya think?
+L205899 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ They're good, Norm, but you're better'n them.
+L205898 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ They're real good.
+L205897 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Aw, hon, you're better'n them.
+L205896 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Pretty good. Found out the Hautmans are entering a painting this year.
+L205895 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ ...How's the paintin' goin'?
+L205894 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Uh-huh.
+L205893 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ You bet. Thanks for lunch. What do we got here, Arbie's?
+L205892 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Thanks, hon.
+L205891 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah.
+L205792 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Prowler needs a jump.
+L205791 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Yah?
+L205790 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Hon?
+L205788 +++$+++ u5245 +++$+++ m347 +++$+++ NORM +++$+++ Love ya, Margie.
+L205787 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Thanks, hon. Time to shove off.
+L206304 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Yah. Well, I just can't thank you enough, Detective Sibert, this cooperation has been outstanding.
+L206303 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ Well, they're all out on the wire. Well, you know...
+L206302 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Boy, this thing is really... geez.
+L206301 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ And this Shep Proudfoot character, he's a little darling. He's now wanted for assault and parole violation. He clobbered a neighbor of his last night and another person who could be one of your perps, and he's at large.
+L206300 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, my.
+L206299 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ His wife's in the hospital, has been for a couple months. The big C.
+L206298 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Geez. Looks like this thing goes higher than we thought. You call his home?
+L206297 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ She's visiting relatives in Florida. Now his boss, this guy Gustafson, he's also disappeared. Nobody at his office knows where he is.
+L206296 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ And his wife?
+L206295 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ We called his house; his little boy said he hadn't been there.
+L206294 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Uh-huh.
+L205860 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ Well... Why don't we...
+L205859 +++$+++ u5250 +++$+++ m347 +++$+++ STAN +++$+++ I'm tellin' ya.
+L205856 +++$+++ u5250 +++$+++ m347 +++$+++ STAN +++$+++ We gotta protect Jean. These - we're not holdin' any cards here, Wade, they got all of 'em. So they call the shots.
+L205855 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ Well -
+L205854 +++$+++ u5250 +++$+++ m347 +++$+++ STAN +++$+++ I gotta tell ya, Wade, I'm leanin' to Jerry's viewpoint here.
+L205734 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ He's at -
+L205733 +++$+++ u5250 +++$+++ m347 +++$+++ STAN +++$+++ He's at Norstar.
+L205732 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ What the heck, Jerry, if I wanted bank interest on seven hunnert'n fifty thousand I'd go to Midwest Federal. Talk to Bill Diehl.
+L205714 +++$+++ u5250 +++$+++ m347 +++$+++ STAN +++$+++ Congratulations, Jerry.
+L205713 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ This is do-able.
+L213163 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ He was killed serving Project Mayhem.
+L213162 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ No!  Look at you!  You're... you're running around in ski masks, exploding things...
+L213161 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ He was killed in action.
+L213160 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Get your hands off him!  Get off...! What the hell do you think you're doing... ? Evidence?!  This is a man... !  You killed him!
+L213158 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ The garden.  Take him there.  Move, people.  Let's do this!
+L213157 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What... ?
+L213135 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Right, right.
+L213134 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ The first rule of Project --
+L213133 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Where's Tyler?
+L213132 +++$+++ u5256 +++$+++ m348 +++$+++ ANGEL FACE +++$+++ That wouldn't interest you.
+L213202 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm afraid I have to insist you leave.
+L213201 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ You are a moron.
+L213200 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm not disclosed to bespeak any such information to you, nor would I, even if I had said information you want, at this juncture be able.
+L213199 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look at my face.  I'm a member.  I just need to know if you've seen Tyler Durden.
+L213198 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ I'm sorry, I haven't the faintest idea what you're talking about.
+L213197 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ There's no one else here.
+L213196 +++$+++ u5257 +++$+++ m348 +++$+++ BANDAGED PROPRIETOR +++$+++ Sir, you're disturbing the other patrons with your laudish behavior.
+L213195 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I need to know where Tyler is.  Can't you help me?
+L212873 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ You know about the guy who invented it? I hear all kinds of things. Supposedly, he was born in a mental institution.  They say he only sleeps one hour a night.  You know about this guy?  Tyler Durden?
+L212872 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yeah, both of us.
+L212871 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ That's a fucking great, man!  Fucking great! Congratulations.
+L212870 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Look at my face.
+L212869 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ You are?!
+L212868 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob, Bob... I'm a member.
+L212867 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ And the second rule about it is... you're not supposed to talk about it. And the third rule...
+L212866 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Oh.
+L212865 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ The first rule is... you aren't supposed to talk about it...
+L212864 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Really, what's that?
+L212863 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ No.  I found something new.
+L212862 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Really?  Great.  Still "Remaining Men Together?"
+L212861 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ Better than I've ever been in my life.
+L212860 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob.  I'm okay.  How are you?
+L212859 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ Cornelius!  How are you?
+L212266 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Strangers with this kind of honesty make me go a big rubbery one.
+L212265 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ ...using steroids.  I was a juicer. Diabonol, then, Wisterol -- it's for racehorses, for Christsake.  Now I'm bankrupt, divorced, my two grown kids won't return my calls...
+L212264 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Bob was a champion bodybuilder.  You know that chest expansion program you see on TV?  That was his idea.
+L212227 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ They're gonna have to open my pec's again to drain the fluid.
+L212226 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Six months ago, Bob's testicles were removed.  Then hormone therapy.  He developed bitch tits because his testosterone was too high and his body upped the estrogen.  That was where my head fit -- into his huge, sweating tits that hung enormous, the way we think of God's as big.
+L212225 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.  We're men.  Men is what we are.
+L212224 +++$+++ u5258 +++$+++ m348 +++$+++ BOB +++$+++ We're still men.
+L212223 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ This was a support group for men with testicular cancer.  The big moosie slobbering all over me was Bob.
+L212888 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ What about this?  Keep me on payroll as an outside consultant.  In exchange for my salary, I'll keep my mouth shut.  I won't need to come to the office.  I can do this job from home.
+L212887 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Just who the fuck do you think you are?!  Get out!  You're fired!
+L212886 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Let's pretend.  You're the Department of Transportation, and you discover that our company intentionally did nothing about leather seats cured in third world countries with chemicals we know cause birth defects?  Brake linings that fail after a thousand miles.  Fuel injectors that burn people alive.
+L212885 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I Am Jack's Complete Lack of Surprise.
+L212884 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Okay.  Where to begin?  With your constant absenteeism?  With your unpresentable appearance?  You're up for review...
+L212883 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ We need to talk.
+L212822 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Pretend you're me.  You find this. What would you do?
+L212821 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ "Abuse" the copy machine.  There's an image.
+L212820 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ You don't get paid to abuse the copy machine.
+L212819 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Hmm?
+L212818 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ "The second rule of fight club... Is this yours?
+L212817 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ I must've left the original in the copy machine.
+L212725 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Some of it, yes.
+L212724 +++$+++ u5259 +++$+++ m348 +++$+++ BOSS +++$+++ Is that your blood?
+L212610 +++$+++ u5262 +++$+++ m348 +++$+++ JACK +++$+++ Yes.

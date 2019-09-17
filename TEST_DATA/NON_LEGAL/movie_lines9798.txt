@@ -1,0 +1,200 @@
+L198462 +++$+++ u5157 +++$+++ m342 +++$+++ CHARLIE +++$+++ Yeah, come on in.
+L198461 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ You wanted to see me, Charlie?
+L198460 +++$+++ u5157 +++$+++ m342 +++$+++ CHARLIE +++$+++ Frankie.
+L198517 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Suit yourself.
+L198516 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Just the same.
+L198515 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ We have some lotion.
+L198514 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Maybe next time.
+L198513 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Too bad.  You could use some sun. Really.
+L198512 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Oh. No. Strictly dryland.
+L198511 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Swimming trunks.
+L198510 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Trunks?
+L199556 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Frank.
+L199555 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Where are our kids? Has he got one of them in there?
+L199554 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Honey ...
+L199553 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ You believe this?  The kid won't come out.  I'm playing 'Camptown Races' for him and the next thing I know he's locked himself in the bathroom. There's nothing sharp in there, is there?
+L199552 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ Honey ...
+L198509 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ You bring trunks, Jack?
+L198508 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Well, look at this.
+L198505 +++$+++ u5158 +++$+++ m342 +++$+++ DONNA +++$+++ I'll take her inside.  You too, little Frank.  Out of the pool.
+L198504 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Nothing's the matter. Is it, sweetheart?
+L198863 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ The sooner we do this the better, Mr. Baker.
+L198862 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I think maybe I'll bring him back next week ...
+L198861 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Don't worry, Mr. Baker.  We'll knock him out. He won't feel a thing.
+L198860 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What do you do to him?
+L198859 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ No bones.
+L198858 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ No bones?
+L198857 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Start him out on cottage cheese. If you've got him on kibble, just soak it a few minutes.  Go down like pudding through a hot pipe.
+L198856 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ How will he eat?
+L198855 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Decay unfortunately doesn't limit itself to the denture, Mr. Baker. It spreads into his chest. Then the heart goes. We wouldn't want that, would we?
+L198854 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Isn't there something you can give him?  A pill or something?
+L198853 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Five's my guess.  Maybe more. Won't know till I get in there.  Leave him now and you can pick him up in the morning.
+L198852 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ How many?
+L198851 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ They gotta go.
+L198850 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Uh-oh.  That's not good.  Let's get him up here.
+L198849 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ They're falling out.
+L198848 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ What's wrong with them?
+L198847 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Teeth.
+L198846 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ What's our friend's problem?
+L198845 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Baker.
+L198844 +++$+++ u5159 +++$+++ m342 +++$+++ DR. BEASLEY +++$+++ Beasley.
+L199484 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I don't see any ladies here. Except maybe you.
+L199483 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ You're a real tough guy when the ladies are around, aren't you, Ace?
+L199482 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Go fuck yourself.
+L199481 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ Come on, friend.  I can smell it on you. Get yourself a cup of coffee.  You'll forget what you're angry about.
+L199480 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Get your hand off me.
+L199479 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ What do you say we go for a walk, pal.
+L199462 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ The fire.  The way we're going we'll be lucky to buy a carton of jockstraps, let alone a new gym.
+L199461 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Accident?
+L199460 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ Knee.  Tore it up against St. Anthony's.  Right before the accident.
+L199459 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What's wrong with the kid?
+L199458 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ Oh.
+L199457 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ My brother and I. One each.
+L199456 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ Two at a time?
+L199455 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Piano.
+L199454 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ Oh.  What do you do?
+L199453 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ No.
+L199452 +++$+++ u5160 +++$+++ m342 +++$+++ EARL +++$+++ You the magician?
+L198432 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Wait.  Watch.  Here comes Dad.
+L198431 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Oh, look at you two.  So skinny. And those tiny suits ...
+L198430 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I had a boy down at the camera shop cut them all together.  Boy, old man Henderson didn't fool around when he gave a haircut, did he, Jack?
+L198429 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Oh no!
+L198428 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ In the attic.  Behind some of Dad's stuff.  Look, Jack can hardly reach the pedals.
+L198427 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ I thought these were lost. Where did you find ...
+L198426 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Recognize these two characters?
+L198425 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Oh my God ...
+L198404 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Catholics.  What do you expect? Oh, well, what's in a name, right? Let's go inside and have a look at that cake.
+L198403 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Uh ... yeah, well, you know, Ma, John Kennedy went by Jack.
+L198402 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Yes, yes.  It's just that John is so much nicer. Jack sounds so ... crude. When I was a little girl, we had a pig on the farm named Jack. I guess I just can't help making the association.
+L198401 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Twenty years, Ma ...
+L198400 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ I thought maybe held gotten over that.
+L198399 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Uh, Ma, you know, no one calls him that anymore. Jack. He goes by Jack.
+L198396 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ A little stiffer, but just as sturdy.
+L198395 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ How's the birthday girl?
+L198394 +++$+++ u5170 +++$+++ m342 +++$+++ MRS. BAKER +++$+++ Well, if it isn't the fabulous Baker Boys!
+L198359 +++$+++ u5175 +++$+++ m342 +++$+++ WILLIE +++$+++ My pleasure.
+L198358 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Tag 'em, Willie.  The Regency downtown, Thursday-Friday.  Thanks.
+L198353 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Two nights.
+L198352 +++$+++ u5175 +++$+++ m342 +++$+++ WILLIE +++$+++ What's the gig?
+L198348 +++$+++ u5175 +++$+++ m342 +++$+++ WILLIE +++$+++ Wednesday next. Frank looks across the room at Jack.
+L198347 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ When they coming in?
+L198346 +++$+++ u5175 +++$+++ m342 +++$+++ WILLIE +++$+++ Out.
+L198345 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ What happened to the two Clays, Willie?
+L199627 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I told Halloran we didn't do vocals, but he said:
+L199626 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ She asked for it.
+L199625 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Christ, that's right.  How could I forget.  What a nightmare.
+L199624 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Daughter's.  Sweet sixteen.
+L199623 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Right.  It was someone's birthday. Halloran?
+L199622 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Five years ago.  November.
+L199621 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Jesus, when was the last time we played the Mallory?
+L199620 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Yeah.
+L199619 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Yeah.  Larry Shelton.  Blackie.  Couple others. Donna said even Lloyd called the other day. Nothing like a little absence to make the heart grow fonder, huh?
+L199618 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Yeah?
+L199617 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Charlie called.
+L199616 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I can keep the beat.
+L199615 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I mean, you can play.  You're okay.
+L199614 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Yeah, I know.  Me, too.
+L199613 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You know, that night, I ... It just all came up.
+L199612 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Oh. Fine.  It was nothing.  Couple sore knuckles.  Nothing.
+L199611 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ How're your hands?
+L199609 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ This'll kill 'em.
+L199608 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Looks like these got a few years on them.
+L199607 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Good choice.
+L199606 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I'll take the Mallory.
+L199605 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Hey, what do you know.  Looks like we can have that drink after all.  What's your pleasure?  We got the downtown Ramada. We got the Travelodge on Route 41. And ... the Mallory.
+L199600 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Oh, yeah, right.  I forgot.
+L199599 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No, it's not that.  I ... can't drink from the bottle.  I ... gag.
+L199598 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Bought it on the way over.  Clean as a nun.
+L199597 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No.
+L199596 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Go ahead.
+L199591 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Sure.
+L199590 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ There's not going to be a viewing. I figured with the kids and all ...
+L199589 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Yeah, fine.
+L199588 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I set it for Wednesday.  The ceremony.  They're doing the stone today.  It's okay?  Wednesday?
+L199587 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Right.
+L199586 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Oh. Yeah.  It was all worked out before, you know. She and Dad had taken care of it.
+L199585 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Is everything done?  The arrangements, I mean.
+L199584 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Later.
+L199583 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Uh, we already boxed some things.  I figured you'd want to go through Dad's stuff.  It's in there. If you want to get started.
+L199582 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Oh ... I was just hoping for something to drink.  But it seems the old lady was dry. Not even a bottle of cooking sherry.
+L199581 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What're you doing?
+L199580 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I didn't hear you come in.
+L199515 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Who's weak now, big brother?
+L199514 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Jack!
+L199508 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No, fuck you.  And fuck him too. Fuck the both-of you.
+L199507 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Fuck you.
+L199506 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ That's right.  I wasn't there.  I don't have the luxury of being a witness to tragedy.
+L199505 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You weren't there.
+L199504 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No, let's stay on it.  I'm sick and tired of watching you make him up into some kinda god. For Christ sake, Jack, he died doing a stupid bullshit jig.  He left a wife and two sons.  He wasn't a hero.  He was a fool.
+L199503 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Stay off it.
+L199497 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Dignity?  Who the hell are you to talk about dignity?
+L199496 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What's happening to you, Frank?  You been kissing ass so long you're starting to like it?  You let that guy turn us into clowns tonight.  We were always small time, but we were never clowns, Frank. What's happened to your dignity?
+L199495 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ It wasn't professional, Jack.  It was a stunt. A stupid-ass stunt.
+L199494 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What?
+L199493 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I'm sorry.  I should've checked it out.  I screwed up.  But that doesn't mean you walk out in the middle of a gig.
+L199492 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Basketballs, Frank.  You had us playing for basketballs.
+L199491 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Look.  I didn't know when we were going to be on until yesterday.  What was I supposed to do? I had the pianos anyway.
+L199490 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What-are you?  A fucking moron? It's three o'clock in the morning, Frank.  Who's watching?  Your wife? Maybe you can get us a gig playing Little Frank's birthday party. What do you think?
+L199478 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Shut up, Frank.
+L199477 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Jack, you're on television.
+L199467 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ What?
+L199466 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ We're playing for a goddamn gymnasium!
+L199465 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ What?
+L199464 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Are you kidding me?  Are you fucking kidding me?
+L199463 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ We're on after Meadowlark.  What's wrong?
+L199446 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ A channel. It's just a little further down the dial, that's all. Look, it's publicity.  Publicity's publicity.  Right?
+L199445 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Seventy-one?  What's seventy-one?
+L199444 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Seventy-one
+L199443 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What channels it on?
+L199442 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ It's a disease, Jack.  We're against it. It's not a moral decision.
+L199441 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You don't know?
+L199440 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I don't know.
+L199439 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What disease?
+L199438 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I don't know. Some disease.
+L199437 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What's it for?
+L199436 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I told you, Jack.  It's a telethon. No one gets a cent.
+L199435 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Nothing. We get nothing.
+L199434 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No.
+L199433 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ We're not getting paid then.
+L199391 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Twenty-eight years.
+L199390 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ You know, my brother and I have been playing together, gosh, I don't know.  Jack?
+L199382 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Better give her pneumonia.
+L199381 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ You want to know how much I got tied up in deposits with Willie?  We're in for three weeks solid, Jack.
+L199380 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Cancel, Frank.
+L199379 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Just until we find another girl.
+L199378 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ What're you doing?
+L199270 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I play two hundred nights a year with you, Frank. How much more reasonable you expect me to be?
+L199269 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Be reasonable, Jack.
+L199268 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I mean maybe you should check with us before you go off and book us a month in advance.
+L199267 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ What do you mean?
+L199266 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I can't make the tenth.
+L199265 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ What?
+L199264 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ The tenth's out.
+L199263 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ That takes care of this week.  The tenth we got the Sheraton, the sixteenth we're at the Capri.
+L199250 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Maybe so.  You ever go back there?  Where it happened.
+L199249 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You're making things up, Frank.
+L199248 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I could've.  But he didn't want me to.
+L199247 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You could've come.
+L199246 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Yeah, but he told you things.  He never told me anything.  Even though I was the oldest. It was always you two, running off, doing things together.
+L199245 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ It was just a can of beer, Frank.
+L199244 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ It was like you'd passed some test, you know?
+L199243 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ He was just having fun.
+L199242 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Yeah, and you drank yours like it was orange juice. He loved that about you.
+L199241 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ You always threw up.
+L199240 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ I always think of him on New Year's. How he used to pour us each half a can of beer. Remember?
+L199239 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Yeah.
+L199238 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ God, the old man would've loved this view, wouldn't he?
+L199237 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ I told you.  It's a useless talent.
+L199236 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Not for me.  I still have to look at the music sometimes, you know that?  Otherwise, I forget. I just forget.  But you.  You never forget. Ever.  So how come you couldn't remember Ma's birthday?
+L199235 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ They were simple songs.
+L199234 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Drove me crazy when we were kids. The way you never looked at the music. Miss Simpson would just play it and ...
+L199233 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ A useless talent.
+L199232 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Right.  It's incredible how you do that.  Remember things.
+L199231 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ April.
+L199230 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ February?
+L199229 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Couple years.
+L199228 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ Right.  The Royal.  When's the last time we were there?
+L199227 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ The Royal.
+L199224 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ A gift.  Courtesy of our courteous hotel manager, Mr. Daniels.  We, dear brother, are a fucking smash.  Yup.  They want us back.  Easter.  It seems they have this egg hunt every year.  Only not for kids. Adults.  They stuff these plastic eggs with Timexes and little certificates for free Mai Tais and everyone has a grand time crawling around on the front lawn.  Then afterwards, they have a dance.  An egg dance.  Everyone comes dressed in a different colored shell and at the end of the evening they crack themselves open.  It's our job to separate the yolks from the whites. Slippery business.
+L199223 +++$+++ u5164 +++$+++ m342 +++$+++ JACK +++$+++ Expensive hangover.
+L199222 +++$+++ u5161 +++$+++ m342 +++$+++ FRANK +++$+++ No, you're wrong.  It's just beginning. Come on, have a drink. Show your big brother how it's done.

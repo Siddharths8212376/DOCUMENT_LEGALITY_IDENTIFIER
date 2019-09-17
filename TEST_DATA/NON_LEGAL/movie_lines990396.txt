@@ -1,0 +1,200 @@
+L578711 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ --How do you know about that?
+L578710 +++$+++ u8185 +++$+++ m555 +++$+++ SYLVIA +++$+++ Just listen.  You remember when you were a little boy, you stood up in class and said you wanted to be an explorer like Magellan--
+L578709 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ There's no one here.
+L578708 +++$+++ u8185 +++$+++ m555 +++$+++ SYLVIA +++$+++ They're going to stop me talking to you.
+L578707 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Who?
+L578706 +++$+++ u8185 +++$+++ m555 +++$+++ SYLVIA +++$+++ They're coming.  Any minute.
+L578553 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ You can count on it.
+L578552 +++$+++ u8187 +++$+++ m555 +++$+++ TYRONE +++$+++ See you tomorrow, Truman.
+L578551 +++$+++ u8187 +++$+++ m555 +++$+++ TYRONE +++$+++ I'd ask for identification.
+L578550 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Tyrone, what if I said I didn't want meatball today?
+L578549 +++$+++ u8187 +++$+++ m555 +++$+++ TYRONE +++$+++ Good.  Good.
+L578548 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Not bad.  I just won the State Lottery.
+L578547 +++$+++ u8187 +++$+++ m555 +++$+++ TYRONE +++$+++ How's it going, Truman?
+L580484 +++$+++ u8188 +++$+++ m556 +++$+++ 2ND BOY +++$+++ You're not FBI agents.
+L580483 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Well, we're FBI agents.
+L580482 +++$+++ u8188 +++$+++ m556 +++$+++ 2ND BOY +++$+++ We don't even know you.
+L580481 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ I think you better tell us.
+L580478 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ You're not supposed to talk about it? Who told you that?
+L580477 +++$+++ u8188 +++$+++ m556 +++$+++ 2ND BOY +++$+++ Not supposed to talk about it.
+L580475 +++$+++ u8188 +++$+++ m556 +++$+++ 2ND BOY +++$+++ Yeah.
+L580474 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Do you live around here?
+L580219 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Sorry. Don't have one.
+L580218 +++$+++ u8189 +++$+++ m556 +++$+++ BARMAID +++$+++ Why don't you go home to the old lady --
+L580217 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Does what?
+L580216 +++$+++ u8189 +++$+++ m556 +++$+++ BARMAID +++$+++ I think that about does it, Spooky.
+L580215 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What do I do.  I'm a key figure in an ongoing government charade. An annoyance to my superiors. A joke among my peers. "Spooky," they call me. Spooky Mulder. Whose sister was abducted by aliens when he was a kid. Who now chases little green men with a badge and a gun, shouting to the heavens and anyone who'll listen that the fix is in. That our government's hip to the truth and a part of the conspiracy. That the sky is falling and when it hits it's gonna be the shitstorm of all time.
+L580214 +++$+++ u8189 +++$+++ m556 +++$+++ BARMAID +++$+++ What do you do?
+L580213 +++$+++ u8189 +++$+++ m556 +++$+++ BARMAID +++$+++ A woman?  Work.
+L580212 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Yup.
+L580211 +++$+++ u8189 +++$+++ m556 +++$+++ BARMAID +++$+++ Poopy day?
+L580646 +++$+++ u8190 +++$+++ m556 +++$+++ BYERS +++$+++ Me?
+L580645 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I need your clothes, Byers.
+L580635 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ They took her --
+L580634 +++$+++ u8190 +++$+++ m556 +++$+++ BYERS +++$+++ You called 911. Except the call was intercepted.
+L580633 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Scully had a violent reaction to a bee sting --
+L580629 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ When was that?
+L580628 +++$+++ u8190 +++$+++ m556 +++$+++ BYERS +++$+++ They gave you a craniotomy to relieve the pressure from a subdural hematoma. But you've been unconscious since they brought you in.
+L580626 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Penetration but not perforation.
+L580625 +++$+++ u8190 +++$+++ m556 +++$+++ BYERS +++$+++ You were shot in the head. The bullet broke the flesh on your right brow and glanced off your temporal plate.
+L580624 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What am I doing here?
+L580733 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Most of what I find in here is lacking a coherent picture of an organization with an attributable motive. I realize you're very lucky to be alive Agent Scully. The ordeal you've endured has clearly affected you -- though the holes in your account leave this panel with little choice but to delete these references from our final report to the Justice Department. Until which time hard evidence becomes available that would give us cause to pursue such an investigation.
+L580732 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ No, they don't.
+L580731 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Well...where would you like me to start? Antarctica is a long way from Dallas, Agent Scully. I can't very well submit a report to the Attorney General that alleges the links you've made here. Bees and corn crops do not quite fall under the rubric of domestic terrorism.
+L580730 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ What is it you find incredible?
+L580557 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Agent Mulder.
+L580556 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Working with?
+L580555 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ I hope to. We're working to develop this evidence --
+L580554 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Nothing completely conclusive --
+L580553 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ And you have conclusive evidence of this? Something to tie this claim of yours to the crime --
+L580552 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Yes. I know.
+L580551 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ -- those are very serious allegations, Agent Scully --
+L580550 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ That the bombing in Dallas may have been to destroy the bodies of those firemen, so their deaths and the reason for them wouldn't have to be explained --
+L580549 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Are you going to let us in on what exactly you're trying to prove --
+L580548 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Yes.
+L580547 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ You've been back to Dallas?
+L580545 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Evidence of what?
+L580544 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ I apologize for making you wait -- I've brought some new evidence with me --
+L580543 +++$+++ u8191 +++$+++ m556 +++$+++ CASSIDY +++$+++ Special Agent Scully --
+L580287 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ They seemed to buy our story about the Hanta virus. You'll make sure the families are taken care of financially, along with a sizeable donation to the community.  Maybe a small roadside memorial.
+L580286 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ Of what?
+L580285 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Tell them he was trying to save the young boy's life, and that he died heroically like the other firemen.
+L580284 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ This man's family will want to see the body laid to rest.
+L580283 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Incinerate it. Like the others.
+L580282 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ And if it's unsuccessful?
+L580281 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ No. No...we need to try our vaccine on it.
+L580280 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ Do you want me to destroy this one, too? Before it gestates?
+L580279 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ The developing organism is using his life energy, digesting bone and tissue. We've just slowed the process.
+L580278 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ How can this be?
+L580277 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ Technically and biologically, though he'll never recover.
+L580276 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ This man's still alive.
+L580275 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ Heat, I think. The coincident invasion of a host, the fireman, and an environment that raised his basic body temperature above ninety eight point six.
+L580274 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Brought on by what?
+L580273 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ We brought the atmosphere back down to freezing in order to control the development, which is nothing like we've ever seen.
+L580272 +++$+++ u8194 +++$+++ m556 +++$+++ DR. BRONSCHWEIG +++$+++ Yes.
+L580271 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ You've got something to show me.
+L580449 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Kurtzweil, we think.
+L580448 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Who?
+L580447 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Mulder was in Dallas when we were trying to dispose of evidence. He's gone back there again. Someone has tipped him.
+L580446 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Do they know?
+L580445 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ There are complications.
+L580444 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ My lateness may have well been absence. A course has already been taken.
+L580428 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Into what?
+L580427 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Its effect on the host has changed. The virus no longer just invades the brain as a controlling organism. It's developed a way to modify the host body.
+L580417 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ Strughold. He's just gotten on a plane in Tunis.
+L580416 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Who called this meeting?
+L580413 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Is it an emergency?
+L580412 +++$+++ u8192 +++$+++ m556 +++$+++ CIGARETTE SMOKING MAN +++$+++ We have a situation. The members are assembling.
+L580411 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Yes.
+L580331 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ No. Don't bother.
+L580330 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ You want a call if we turn up Kurtzweil?
+L580329 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Yeah, I had an appointment for a pelvic examination.
+L580328 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ You looking for him for some other reason?
+L580327 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ Selling naked pictures of little kids over his computer.
+L580326 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What's that?
+L580325 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ Feds are looking for him, too.  Real nice business he's got, huh?
+L580324 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ Looking for him for what?
+L580323 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I'm looking for him.
+L580322 +++$+++ u8193 +++$+++ m556 +++$+++ DETECTIVE +++$+++ You got some kind of business with him?
+L580321 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Is this Dr. Kurtzweil's residence?
+L580398 +++$+++ u8195 +++$+++ m556 +++$+++ FIELD AGENT +++$+++ Show you right on a map.
+L580397 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You said you knew the location of the archeological site where these were found.
+L580386 +++$+++ u8195 +++$+++ m556 +++$+++ FIELD AGENT +++$+++ No. Just fossils, far as I know.
+L580385 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Have you examined them?
+L580384 +++$+++ u8195 +++$+++ m556 +++$+++ FIELD AGENT +++$+++ Some bone fragments came up in the sift this morning. We thought there'd been another fatality, but we found out FEMA had recovered them from an archeological site out of town.
+L580383 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Was there anything in those offices that didn't go to D.C.?
+L580382 +++$+++ u8195 +++$+++ m556 +++$+++ FIELD AGENT +++$+++ We weren't expecting to find those remains, of course. They went right off to Washington.
+L580381 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I'm looking for anything out of the ordinary. Maybe something from the FEMA offices where the bodies were found.
+L580581 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ And why do you think it is you're standing here talking to me? These people don't make mistakes, Agent Mulder.
+L580580 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Your ass? I just got chased across Texas by two black helicopters.
+L580579 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ You'd be shit out of luck if not for me. You saw what you saw because I led you to it. I'm putting my ass on the line for you.
+L580577 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You're a liar. You lied to me to gather information for you. For your goddamn books. Didn't you?
+L580576 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I told you -- he and I were old friends --
+L580575 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You didn't know my father --
+L580574 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I've been using you?!
+L580573 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You've been using me --
+L580572 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Yeah, well I don't have them all.
+L580571 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You told me you had answers.
+L580569 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Your guess?
+L580568 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ That would be my guess.
+L580567 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ A transportation system. Transgenic crops. The pollen genetically altered to carry a virus.
+L580566 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What do you think?
+L580563 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What did it look like?
+L580562 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ -- You saw this experiment?
+L580561 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I'm not sure. A virus --
+L580560 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What?
+L580559 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Yes. On the Texas border. Some kind of experiment. Something they excavated was brought there in tanker trucks.
+L580558 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ You found something?
+L580363 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ You can't.
+L580362 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ How can I reach you?
+L580361 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Something's gone wrong -- something unanticipated. Go back to Dallas and dig. Or you're only going to find out like the rest of the country, Agent Mulder. When it's too late.
+L580360 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ And they tell me I'm paranoid.
+L580359 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I think you know. The timetable has been set. It will happen on a holiday, when people are away from their homes. When our elected officials are at their resorts or out of the country. The President will declare a state of emergency, at which time all federal agencies, all government will come under the power of the Federal Emergency Management Agency. FEMA, Agent Mulder. The secret government.
+L580358 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Negotiating with whom?
+L580357 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ The plague to end all plagues, Agent Mulder. A silent weapon for a quiet war. The systematic release of an indiscriminate organism for which the men who will bring it on still have no cure. They've been working on this for fifty years. While the rest of the world was fighting gooks and commies these men have been secretly negotiating a planned Armageddon.
+L580356 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ A plague?
+L580355 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What killed those men can't be identified in simple medical terms. My god, we can't even wrap our minds around something as obvious as HIV. We have no context for what killed those men, or any appreciation of the scale in which it will be unleashed in the future. Of how it will be transmitted; of the environmental factors involved.
+L580354 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I'll know soon enough.
+L580353 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What killed them I won't even write about. I tell you, they'd do more than just harass me. They have the future to protect.
+L580352 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What killed those men?
+L580351 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ When we were young men in the military, your father and I were recruited for a project. They told us it was biological warfare. A virus. There were rumors about its origins.
+L580350 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What was it?
+L580348 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Are you saying it wasn't such a small outbreak?
+L580347 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ And are you familiar with FEMA? What the Federal Emergency Management Agency's real power is? FEMA allows the White House to suspend constitutional government upon declaration of a national emergency. To create a non-elected government. Think about that.  What is an agency with such broad sweeping power doing managing a small viral outbreak in suburban Texas?
+L580346 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ It was a deadly virus spread by field mice in the Southwest U.S. several years ago.
+L580345 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ According to the newspaper, FEMA had been called out to manage an outbreak of the Hanta virus. Are you familiar with the Hanta virus, Agent Mulder?
+L580344 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You said the firemen and the boy were found in the temporary offices of the Federal Emergency Management Agency. Why?
+L580343 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I picked up the historical document of the venality and hypocrisy of the American government. The daily newspaper.
+L580342 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ How?
+L580341 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I was right about Dallas. Wasn't I, Agent Mulder?
+L580340 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I don't either, but it sure sells books.
+L580339 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Dr. Kurtzweil, I'm not interested in bigoted ideas about race or genocide. I don't believe in the Elders of Zion, the Knights Templar, the Bilderburg Group or in a oneworld Jew run government --
+L580338 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ You know my work?
+L580337 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You mean that apocalyptic trash you write? I knew your name was familiar. I just didn't know why.
+L580336 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ For what? Because I'm a dangerous man. Because I know too much about the truth.
+L580335 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ They want to discredit you -- for what?
+L580334 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What is it? Kiddie porn again? Sexual battery of a patient? I've had my license taken away in three states.
+L580333 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Not according to the men in blue.
+L580332 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ See this bullshit...? Somebody knows I'm talking to you.
+L580257 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Do you?
+L580256 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I think you're full of shit.
+L580255 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ And one little boy.
+L580254 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You're saying they destroyed an entire building to hide the bodies of three firemen...?
+L580253 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Michaud was a patriot. The men he's loyal to know their way around Dallas. They blew that building to hide something. Maybe something even they couldn't predict.
+L580252 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Michaud was a twenty-two year veteran of the bureau --
+L580251 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ That's what I'm saying.
+L580250 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Before the bomb went off?
+L580249 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Those people were already dead.
+L580247 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ No. They put the bomb in the building across the street because it DID have federal offices. The Federal Emergency Management Agency had a provisional medical quarantine office there. Which is where the bodies were found. But that's the thing...
+L580246 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ The Federal Building was too well guarded.
+L580245 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ What's the question nobody's asking? Why that building? Why not the Federal Building?
+L580244 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ He just let it explode.
+L580243 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ S.A.C. Darius Michaud never tried or intended to defuse the bomb.
+L580242 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ And what's that?
+L580240 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Well, if you've got something to tell me, you've got as long as it takes me to hail a cab...
+L580239 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I came on my own. After reading about the bombing in Dallas.
+L580238 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Who sent you?
+L580237 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ I'm a doctor, but I think I mentioned that. OB-GYN.
+L580236 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You a reporter?
+L580235 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Heard you come here now and again. Figured you'd be needing a little drinky tonight.
+L580234 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ How'd you find me?
+L580231 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Old friend of your father's.
+L580230 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I know the name. Why?
+L580229 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ My name's Kurtzweil. Dr. Alvin Kurtzweil.
+L580228 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Yeah, I did.
+L580227 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You follow me out here for a reason?
+L580226 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ No. I've been watching your career for a good while. Back when you were just a promising young agent -- before that.
+L580225 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Do I know you?
+L580224 +++$+++ u8196 +++$+++ m556 +++$+++ KURTZWEIL +++$+++ Standing around holding your yank while bombs are exploding.
+L580223 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ How's that?
+L580717 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Yes you can. You're going to make it, Scully.
+L580716 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ I can't go any farther.
+L580714 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You got me. But I think I know what they did with Jimmy Hoffa.
+L580713 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Where are we?
+L580712 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ We've got to keep moving.
+L580710 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Hang on. I'm going to get you out of here.
+L580709 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ Cold...
+L580608 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ I've got no allergy. Something... this... Mulder... I think... I think you should call an ambulance.
+L580607 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Scully --
+L580606 +++$+++ u8198 +++$+++ m556 +++$+++ SCULLY +++$+++ No -- it's --
+L580605 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I think you're in anaphylactic shock --

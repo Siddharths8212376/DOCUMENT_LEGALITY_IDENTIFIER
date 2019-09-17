@@ -1,0 +1,200 @@
+L307482 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ The State Police.
+L307481 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Who are you calling?
+L307480 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Stay here.  I'm going to make a phone call.
+L307473 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Maybe -- it landed in the bushes.
+L307472 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Does it look to you like anything landed here?
+L307469 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ We'll be very careful.  But we have to see.  If something landed there, there would be a big scar in the ground. Wouldn't there?
+L307468 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ They'll get us.
+L307467 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Let's go look at the sand pit behind your house.
+L307466 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No.
+L307465 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ But it's not, Jimmy.
+L307464 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I swear it was here.
+L307462 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No, but it was here.
+L307461 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ I don't see anything.
+L307460 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ This is where it was -- the tunnel opening.
+L307457 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ If we go and look and there's nothing there, you'll have to admit to me that this is all in your mind.
+L307456 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Behind my house, up on the ridge.
+L307455 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Where, Jimmy?
+L307454 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I got trapped in Mrs. McKeltch's van -- and she went to the tunnel and went down there with them -- behind my house.  I saw them.
+L307453 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Jimmy, calm down!  What happened? Tell me what happened!
+L307442 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ This shows how to get to my home. I'm giving you back roads and footpaths, so there's less chance of you being seen.
+L307441 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Yes.  I can even read star maps.
+L307440 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Do you know how to follow a map?
+L307414 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ 'Cause he wouldn't lie.
+L307413 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why?
+L307412 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I'd believe him.
+L307411 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What would you think if somebody told you a story like this?
+L307410 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ She said the frog came from around the Copper Ridge.  She must've been behind the hill.
+L307409 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ How did it get Mrs. McKeltch?
+L307408 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ A UFO lands in back of your house and puts something in your Dad and Mom's necks.  Then it gets the police, and your teacher too.
+L307407 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Yes.
+L307406 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ That's quite a story.  You know that, don't you?
+L307201 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Can you tell me about that?
+L307200 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I don't have many friends.  Dad's all the time moving.
+L307199 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why not?  Moving is hard for anybody.  Was it hard for you to leave all your friends?
+L307198 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No.
+L307197 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ This is a new town for you.  Do you like it here?
+L307673 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Oh, I can't remember.  But people do have bad dreams when their routine is disturbed.
+L307672 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What kind, Mom?
+L307671 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ It's all this moving from place to place.  We're never settled.  I'm having nightmares myself.
+L307396 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I'll pack us a lunch.  Hamburgers. You always like that, don't you.
+L307395 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I have school.
+L307394 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ This afternoon.  It's wonderful up there -- you still haven't seen the best part.
+L307393 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ When?
+L307380 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Don't go over the hill, Mom. Please.
+L307379 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ What?
+L307378 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Mom.  I gotta talk to you.
+L307344 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ The back door was open.
+L307343 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Hi.  Sorry I'm late.
+L307304 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What? -- I... 
+L307303 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Your father asked you a question.
+L307296 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What happened to your other slipper?
+L307295 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ George, where have you been?
+L307290 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No, Mom.  It wasn't a plane.
+L307289 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ What do you think he saw?  Could it have been something from the air base?
+L307274 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I know.  But you have a full day of school tomorrow --  You, too.
+L307273 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Mom -- this is the best show all year.
+L307272 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Well, come on, you two.  Time to go to bed.
+L307422 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ All right.  I'll be right back.
+L307421 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Jimmy's father is on the phone.  I wonder if you'd take the call.
+L307420 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why, yes.
+L307419 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Ms. Magnuson, is Jimmy Gardner with you?
+L307184 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ They're from out of state.  Father's an engineer at the nuclear power plant. I really don't know much about them.
+L307183 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What's his family background?
+L307182 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Oh?
+L307181 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ His teacher brought him in to see me. Said he'd been acting up in class. Creating a disturbance.  I couldn't get a thing out of him.
+L307180 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Gardner?  Oh, um -- he's a new student. Just moved here.  Why?
+L307179 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What's the story on Jimmy Gardner?
+L299148 +++$+++ u1446 +++$+++ m97 +++$+++ PHILIP +++$+++ If we do, we'll both die virgins. But at last we'll be together.
+L299147 +++$+++ u1433 +++$+++ m97 +++$+++ ALICIA +++$+++ This could be our last night on Earth. I don't want to die a virgin.
+L298768 +++$+++ u1446 +++$+++ m97 +++$+++ PHILIP +++$+++ Cool.
+L298767 +++$+++ u1433 +++$+++ m97 +++$+++ ALICIA +++$+++ We're going with you. I mean, we're going too.
+L298766 +++$+++ u1446 +++$+++ m97 +++$+++ PHILIP +++$+++ I wish I could do more but we're moving out.
+L298765 +++$+++ u1433 +++$+++ m97 +++$+++ ALICIA +++$+++ It's really nice of you to help us.
+L298764 +++$+++ u1446 +++$+++ m97 +++$+++ PHILIP +++$+++ Penicillin. At least it will help keep his fever down.
+L299185 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ You bet it did.
+L299184 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Did it work?
+L299183 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ Are you all right?
+L299063 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ If anything goes wrong I'll have to think quickly, adjust the signal, who knows?
+L299062 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ With you? I don't understand why you can't just show someone how to plant the virus, somebody trained for this kind of mission?
+L299059 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ We'll be well on our way out of there before we shoot that thing off.
+L299058 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ Thirty seconds? Isn't that cutting it a little too close?
+L298937 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ I wanted a career. Didn't you ever want to be part of something special?
+L298936 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Better be. You left me for him.
+L298935 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ He's a good man.
+L298934 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ You still believe in him.
+L298932 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ A toast to the end of the world.
+L298931 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ I take it you've heard.
+L298930 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Just my luck, no ice.
+L298781 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ David, don't...
+L298780 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ You can't be seriously considering firing nuclear weapons?
+L298647 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ He's not going to listen to me.
+L298646 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ I can't leave. We have to tell this to the President.
+L298645 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ I want you to leave with us. Right now.
+L298644 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ What do you want me to do?
+L298643 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Fifty six minutes, forty five seconds.
+L298642 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ And when is the countdown supposed to expire?
+L298625 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Walk to the window. Right in front of you.
+L298624 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ David? How'd you get this number?
+L298623 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Connie, don't hang up.
+L298622 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ What?
+L298522 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ It's not paranoia. The embedding is very subtle. It's probably been overlooked...
+L298521 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ You're being paranoid.
+L298520 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ I've worked with embedded loading. They're communicating with a hidden signal. They're going to attack...
+L298519 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ In case you haven't noticed, we're in a little bit of a crisis here.
+L298518 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ You don't understand. You have to leave Washington.
+L298517 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ This is not the time or the place to have this same old discussion.
+L298516 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ You have to leave the White House.
+L298515 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ What do you want?
+L298723 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ All you need is love. John Lennon. Smart man. Shot in the back, very sad.
+L298722 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ Love was never our problem.
+L298721 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ All he could think about was getting to you. There's still love there I think.
+L298720 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ Spunky. He told you about that?
+L298719 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Think nothing of it, Spanky.
+L298718 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ He still gets air sick, huh? In all of this I didn't get the chance to thank you two.
+L298665 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ My ex-husband works in satellite communications.
+L298664 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Moishe Martinsburg, Mr. President.
+L298653 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Punched the President? Oh my god.
+L298652 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ David thought I was having an affair, which I wasn't.
+L298739 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Then get them out of there.
+L298738 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ We're losing them.
+L298703 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ I could have evacuated the cities hours ago.  You know, when I flew in the Gulf War everything is simple. We knew what we had to do. It's not simple anymore, Connie. A lot of people died today. How many didn't have to?
+L298702 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ You saved a lot of lives.
+L298662 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ I'll bet.
+L298661 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ He used to run the NASA. He knows where all the bones are buried. Comes in handy.
+L298660 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ I don't know how you put up with him.
+L298439 +++$+++ u1434 +++$+++ m97 +++$+++ CONSTANCE +++$+++ More than likely.
+L298438 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Can we expect the same kid of panic here as in Russia?
+L298511 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Checkmate.
+L298510 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Then what?
+L298507 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Think. It's like in chess. First you strategically position your pieces. Then, when the timing's right. You strike.
+L298506 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ A countdown to what?
+L298505 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ That signal. It's a countdown.
+L298504 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Not really...
+L298503 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Remember I told you that the signal hidden within our satellite signal is slowly recycling down to extinction.
+L298502 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Okay, why did I just send my family to Atlanta?
+L298500 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Just do it!
+L298499 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ What happened?
+L298498 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Tell her to get the kids and leave town.
+L298456 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Haven't you been watching?
+L298455 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ What're you talking about?
+L298454 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Can you believe this?
+L298453 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Strange thing is, if my calculations are right it'll be gone in approximately seven hours anyway. The signal reduces itself every time it recycles. Eventually it will disappear. Are you listening?
+L298452 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Huh? Oh, good, good.
+L298451 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ I've got a lock on the signal pattern. We can filter it out.
+L298404 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ ...and we'll be the only guys in town with a clear picture? That's my man.
+L298403 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Yes, because the analog signal has a definite sequential digital patterns embedded within it. When I find the exact binary sequence and I apply a phase reversed signal to that calculated spectra analyzer I built you last Christmas, we should be able to block out the overlay completely...
+L298402 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ That's the good news?
+L298401 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ No. The good news is I found the problem and it's not our equipment. There's some weird signal embedded within the satellite feed.
+L298400 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ And the good news is you won't charge me.
+L298399 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ You're in meal penalty for disturbing my lunch.
+L298398 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ What's the bad news?
+L298397 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ There's good news and bad news.
+L298354 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ We've tried. It's not working. It's almost as though they weren't even there.
+L298353 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Let's retrofit the dish to another satellite.
+L298352 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Please, would I be this panicked if it was that simple?
+L298351 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Did you try to switch to transponder channels?
+L298350 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ So sue me.
+L298349 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ What the hell is this?
+L298347 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ Started this morning. Every channel is making like it's nineteen fifty. Snow, static, all kinds of distortions. No one knows what the hell is going on.
+L298346 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ It was turned on. I was ignoring you. What's the big emergency?
+L298345 +++$+++ u1440 +++$+++ m97 +++$+++ MARTY +++$+++ What the hell is the point of having a beeper if you don't turn it on?
+L299088 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ I want you should know, I'm very proud of you, son.
+L299087 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Thanks, Pops.
+L298982 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ A cold? Of course.
+L298981 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ What'd I say?
+L298980 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Pops, you're a genius!
+L298978 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ David, you're drunk.
+L298977 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ We've gotta burn the rain forest, Pops. Dump toxic waste, pollute the air, rip up the ozone. Maybe if we screw this planet up enough they won't want it anymore.
+L298976 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ This I can see.
+L298975 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ I'm making a mess.
+L298974 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ David, David! What the hell are you doing!?
+L298791 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ What was it, Roswell? You had the space ship, the bodies, everything locked up in a bunker, the what is it, Area fifty one. That's it! Area fifty one. You knew and you didn't do nothing!
+L298790 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Dad, please...
+L298715 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Moishe, please, don't talk.
+L298714 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ It's Air Force One for crying out loud. Still he gets sick?
+L298651 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ He wasn't the President then.
+L298650 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ You punched the President in the face?
+L298649 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Because last time I saw him I punched him in the face.
+L298648 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Sure he'll listen. Why wouldn't he?
+L298619 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ You can do that?
+L298618 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Yes. I can use he signal to triangulate her exact position in the White House.
+L298617 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ It's perfect the line is busy?
+L298616 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Perfect, she's using it.
+L298603 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ She didn't take my name when we were married.
+L298602 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ You try Martin?
+L298601 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ College nickname.
+L298600 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Spunky?
+L298599 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ I just haven't found it yet. I tried C. Halbrook, Connie Halbrook, Spunky Halbrook...
+L298598 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ Not listed, huh?
+L298582 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ She always keeps her portable phone listed, for emergencies. Sometimes it's just her first initial, sometime her nickname...
+L298581 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ You think an important person like Constance is going to be listed?
+L298580 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ This, pops, is every phone book in America.
+L298579 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ What the hell is that?
+L298555 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ All I'm saying is they've got people who handle these things, David. They want HBO, they'll call you.
+L298554 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Dad...
+L298553 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ And you're going to educate them? Tell me something, you're so smart how come you spent eight years at M.I.T. to become a cable repairman?
+L298552 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ They don't know this.
+L298551 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ You think they don't know what you know? Believe me, they know. She works for the President. They know everything.
+L298550 +++$+++ u1435 +++$+++ m97 +++$+++ DAVID +++$+++ Can't this thing go any faster?
+L298549 +++$+++ u1442 +++$+++ m97 +++$+++ MOISHE +++$+++ It's the White House, for crying out loud. You can't just drive up and ring the bell.

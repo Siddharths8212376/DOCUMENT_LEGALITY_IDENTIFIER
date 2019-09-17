@@ -1,0 +1,200 @@
+L453976 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ No, M'am. I was only about to say, I've sent my mechanic out to give your car a little test... that's all.
+L453975 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ But what?  Is there anything so terribly wrong about... making a decision and wanting to hurry? Do you think I've stolen... my car?
+L453974 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ I'll be perfectly honest with you, Ma'am. It's not that I don't trust you, but...
+L453973 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ I'd really rather not. Please.  Can't we just settle this and...
+L453972 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ I think you'd better give it a trial spin. Don't want any bad word of mouth about California Charlie.
+L453971 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ In the building ...  Mary starts for the building, glancing once in the direction of the Patrolman.
+L453970 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ I think I have the necessary papers. Is there a Ladies Room...
+L453969 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ I take it... you can prove that car's yours... I mean, out of state and all... got your pink slip and your...
+L453968 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ All right.
+L453967 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ Aha! Always got time to argue money, huh...?
+L453966 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Five hundred.
+L453965 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ Well... heck, this is the first time I ever saw the customer high-pressure the salesman!  I'd figure roughly...  ...your car plus five hundred.
+L453964 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Of course not. Please.
+L453963 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ You mean you don't want the usual day and a half to think it over?  You are in a hurry! Somebody chasin' you?
+L453962 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ It looks fine. How much will it be, with my car...?
+L453961 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ Go ahead! Spin it around the block. Now I know you don't know anything about engine condition, but you can feel, can't you... and it's all in the feel, believe me, you feel that one around the block...
+L453960 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ How much?
+L453959 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ That's the one I'd've picked for you myself!
+L453957 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ No. Thank you. I'm in... a hurry. I just want to make a change and start...
+L453956 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ Sick of the sight of it!  Well, suppose you look around for something that strikes your eyes and meanwhile I'll have my mechanic give yours the once over and... want some coffee? I was just about...
+L453955 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Yes, it's... nothing wrong with it, I'm just...
+L453954 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ You can do anything you've a mind to... and bein' a woman, you will!  That yours?
+L453953 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Can I trade in my car and take another?
+L453952 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ There's an old saying, "First customer of the day is always the most trouble!" But like I said, I'm in no mood for it so I'm just going to treat you so fair and square you won't have one human reason to give me...
+L453951 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ What?
+L453950 +++$+++ u7170 +++$+++ m482 +++$+++ CAR DEALER +++$+++ I'm in no mood for trouble!
+L453924 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ I don't need pills... just sleep.
+L453923 +++$+++ u7171 +++$+++ m482 +++$+++ CAROLINE +++$+++ Aren't you going to take the pills?  They'll knock that headache out.
+L453897 +++$+++ u7171 +++$+++ m482 +++$+++ CAROLINE +++$+++ Teddy called.  Me... And my mother called to see if Teddy called. Oh, and your sister called to say she's going to Tucson to do some buying and she'll be gone the whole weekend and...
+L453896 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Were there any calls?
+L453895 +++$+++ u7171 +++$+++ m482 +++$+++ CAROLINE +++$+++ You got aspirins? I have something... not aspirins, but  my mother's doctor gave these to me the day of my wedding.  Teddy was furious when he found out I'd taken tranquilizers!
+L453894 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ It'll pass. Headaches are like resolutions... you forget them soon as they stop hurting.
+L453893 +++$+++ u7171 +++$+++ m482 +++$+++ CAROLINE +++$+++ He's lunching with the man who's buying the Harris Street property, you know, that oil lease man...  so that's why he's late.  You getting a headache?
+L453892 +++$+++ u7175 +++$+++ m482 +++$+++ MARY +++$+++ Isn't Mr. Lowery back from lunch?
+L453992 +++$+++ u7172 +++$+++ m482 +++$+++ CAROLINE'S VOICE +++$+++ Her sister's going to do that.  She's as worried as we are.
+L453991 +++$+++ u7174 +++$+++ m482 +++$+++ LOWERY'S VOICE +++$+++ You better run out to the house. She may be... unable to answer the phone...
+L453990 +++$+++ u7172 +++$+++ m482 +++$+++ CAROLINE'S VOICE +++$+++ I called her sister, Mr. Lowery, where she works, the Music Makers Music Store, you know? And she doesn't know where Mary is any more than we do.
+L453989 +++$+++ u7174 +++$+++ m482 +++$+++ LOWERY'S VOICE +++$+++ Call her sister! If no one's answering at the house....
+L453988 +++$+++ u7174 +++$+++ m482 +++$+++ LOWERY'S VOICE +++$+++ Buzz me the minute she comes in.
+L453987 +++$+++ u7172 +++$+++ m482 +++$+++ CAROLINE'S VOICE +++$+++ No, Mr. Lowery... but then she's always a bit late on Monday mornings.
+L453986 +++$+++ u7174 +++$+++ m482 +++$+++ LOWERY'S VOICE +++$+++ Caroline...? Mary still isn't in?
+L453985 +++$+++ u7172 +++$+++ m482 +++$+++ CAROLINE'S VOICE +++$+++ Yes, Mr. Lowery.
+L454413 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I don't know.
+L454412 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Can see you do. Sorry I couldn't make you feel better. You want to come to my office this afternoon and report a missing person... And the theft, is what you want to do!  Sooner you drop this thing in the lap of the law, that's the sooner you'll stand a chance of your sister bein' picked up. How about that?
+L454411 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I still feel...
+L454408 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Just what he told your detective.
+L454407 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Did he say anything about my sister?
+L454383 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Norman Bates' mother has been dead and buried in Greenlawn Cemetery for the last ten years!
+L454382 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.
+L454379 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Your Detective told you a nakedfaced lie.
+L454378 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ What difference does that...
+L454377 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ You should've called in the police the second you found your sister has skipped. You go starting private investigations, using people you don't even know...
+L454373 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Sorry I got you up, boy. Go back to sleep. Yeah, be glad to.  Said to give you his regards.
+L454372 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Please!
+L454359 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ He said he was dissatisfied... and was going back.
+L454358 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ I think something's wrong, too, Miss. But not the same thing. I think your private detective is what's wrong.  I think he got himself a hot lead as to where your sister was going... probably from Norman Bates...  and called you to keep you still while he took off after her and the money.
+L454357 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Go out there! Find somebody, ask some questions!  I'm sorry if I seem over-anxious to you. I keep thinking... something's wrong. I have to know what!
+L454356 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Like what?
+L454355 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ He didn't mention the money.  What he said on the phone isn't important, is it?  He was supposed to come back after he spoke to the mother, and he didn't! That's what I want you to do something about!
+L454354 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ With the forty thousand dollars?
+L454353 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Mary had been there, one night, and had left.
+L454350 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ And the police haven't been able to...
+L454349 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Forty thousand dollars.
+L454348 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ A lot?
+L454347 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ She stole some money.
+L454344 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ She ain't missing so much as she's run away.
+L454343 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.
+L454340 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ How'd you and this detective come to trace her to Fairvale?
+L454339 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ She left Phoenix a week ago yesterday. And no trace until...
+L454338 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Now. Your sister is missing how long?
+L454337 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Will you help us? I think something's wrong out there!
+L454522 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I could stand something regular.
+L454521 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ It's regular. Okay?
+L454483 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Bates.
+L454482 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Why not?
+L454481 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You can't go up there.
+L454480 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam, that old woman, whoever she is. I think she told Arbogast something! And I want her to tell us the same thing!
+L454479 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Do we simply ask him where he's hidden it?
+L454478 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.  But maybe this proves that Bates found out about the money.
+L454477 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Bates never denied Mary was here.
+L454476 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ That's proof Mary was here!  It would be too wild a coincidence for somebody else to...
+L454475 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ It didn't get washed down. It's figuring... the kind you tear up and get rid of.  Some figure has been added to or subtracted from... forty thousand.
+L454474 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ What is it?
+L454473 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ The bathroom. Look at how clean it is. The one in our cabin is clean... but this is clean!
+L454472 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ What?
+L454471 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Hospital clean.
+L454470 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Sorry.
+L454466 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Arbogast! Sam, he liked me... or felt sorry for me... and he was starting to feel the same about you. I heard it when he called... in his voice, a caring. He wouldn't have gone anywhere or done anything without telling us.  Unless he was stopped. And he was stopped, so he must have found out something!
+L454465 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ What makes you sound so certain?
+L454464 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ There must be some proof that exists right now! Something that proves he got that money away from Mary... Some way!
+L454463 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ How could we prove...  Well, if he opens a new motel on the new highway... say, a year from now...
+L454462 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam, if you owned a useless business like this motel... one you probably couldn't even sell...  what would you need to get away, to start a new business, somewhere else?  Forty thousand dollars?
+L454461 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I know.  Do you think if something happened, it happened there?
+L454460 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ We have to go into that cabin and search it, Sam... no matter what we're afraid of finding and no matter how much it may hurt.
+L454459 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I'm glad we didn't.
+L454458 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ We should have asked for Cabin One... The one Mary was in.
+L454441 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Someone was at that window. I saw the curtain move.
+L454440 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I wonder where Norman Bates does his hermiting?
+L454439 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I believe it.
+L454438 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You won't believe it...  But this will be the first time I've ever pulled one of those man- and-wife-renting-cabin capers!
+L454437 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ We're going to register. As man and wife. And get shown to a cabin... and then search every inch of that place, inside and... outside.
+L454436 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I'm going with you. But we'd better decide what we're going to say and do when we walk in...
+L454435 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ You going to wait here for me?
+L454434 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ She always tries to be proper.
+L454433 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Huh?
+L454432 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Watch your tenses.
+L454431 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I suppose... when you were able to marry her she'd have presented you, all shiny and proper... she always tried to be proper.
+L454430 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ This is the old highway.
+L454429 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Do you know how I found out about you? I found one of your letters... it was a nice letter, Sam.
+L454428 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ We were going to get married. Are going to get married!
+L454427 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I wonder so many things about her now.  Why she never told me about you...  Funny, when you think there's an answer to everything, you think you know all the answers.
+L454426 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ She was willing to lick the stamps.
+L454425 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I didn't. I got a job, too.  I wonder if that hurt her, my not letting her sacrifice for me?  Some people are so willing to suffer for you that they suffer more if you don't let them.
+L454424 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Where'd you go to college?
+L454422 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Alive.
+L454421 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Of course we will.
+L454420 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I wonder if we'll ever see Mary again.
+L454419 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Neither will I.
+L454418 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I won't feel satisfied unless I got out there, Sam.
+L454416 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ You're not.
+L454415 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Maybe I am the seeing-illusions type.
+L454367 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ All right! Then call! At least, call!
+L454366 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I've only been here five. Right now it feels like ten, but...
+L454330 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ This is Lila Crane, from Phoenix. She's been here for a few days, looking for her sister. There's a private detective helping... and, well, we got a call tonight, from this detective, saying he'd traced Mary...
+L454329 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.
+L454328 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I don't know where to start...  Except at the beginning.
+L454327 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ No, thank you. It's my problem, too.
+L454319 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ No. I'm just procrastinating.  People hate when the doorbell rings in the middle of the night.  Come on.
+L454318 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Does that mean we can't...
+L454317 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Nothing.  Just... all the lights out... must be asleep.
+L454316 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Well?
+L454315 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Our Deputy sleeps.
+L454314 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ He's the Deputy Sheriff around here.
+L454313 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Who's he?
+L454312 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Let's go see Al Chambers.
+L454311 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Yes. I think he would have.
+L454310 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam, he called me when he had nothing definite, nothing but a dissatisfied feeling. Don't you think he'd have called if he had anything...
+L454309 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ In a hurry.
+L454308 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Without calling me?
+L454307 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Maybe he got some definite lead. Maybe he went right on...
+L454306 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Where could he have gone?
+L454305 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ No Arbogast. No Bates. And only the old lady at home...  A sick old lady unable to answer the door... or unwilling.
+L454304 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam.
+L454303 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ He didn't come back here?
+L454301 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Contemplate your... panic button.
+L454300 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Just wait here?
+L454299 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I don't know...  One of us has to be here in case Arbogast's on the way.
+L454298 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Why can't I go out there with you?
+L454297 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Stay here.
+L454296 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You'll never find it.
+L454295 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam, I'm going.
+L454294 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Probably on his way back right now.
+L454293 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ And maybe pass Arbogast on the road?  Thanks.
+L454292 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam! Why call when we can go?
+L454291 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Got the number of the motel out on the old highway? Bates, I think. 
+L454290 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ An hour! Or less!
+L454289 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Arbogast said...
+L454288 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Patience doesn't run in our family. Sam, I'm going out there!
+L454287 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ That wouldn't be a wise thing to do.
+L454286 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.
+L454285 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You want to run out there, bust in on Arbogast and the sick old lady, shake her up and maybe spoil everything Arbogast's been building for the last three hours.
+L454284 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Where's the old highway?
+L454283 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I feel better when you feel better.
+L454282 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Whenever I start contemplating the panic button, your back straightens up and your eyes get that God-looks- out-for-everybody look and... I feel better.
+L454281 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Hundreds! Which one is your pet?
+L454280 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ You have an awfully nice habit, Sam.
+L454279 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ He'll be back. Let's sit still and hang on, okay?
+L454278 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Are we just going to go on sitting here?
+L454277 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ It's been three.
+L454276 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Sam. He said an hour. Or less.
+L454275 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Sometimes Saturday night has a lonely sound. Ever notice, Lila?
+L454190 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ First rate hotel, fifty yards up the street. Come on.  After we check you in we'll go to the drugstore and get you a sandwich. Then we'll come back here... and wait.
+L454189 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Where... can I stay?
+L454188 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ She'll need both of us.
+L454187 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ You want me to stay here?
+L454186 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I think she'll contact me if she contacts anybody. Why don't you stay here. When she shows up... or calls... be here.
+L454185 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I came flying up here expecting to get some explanation... for all I know, she may be trying to get in touch with me, at home. I'd better go home.
+L454184 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Maybe we can handle it together. 
+L454183 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ No. I just think... anything can be explained. But Mary, doing a thing like this... I don't know how to handle...
+L454182 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You've led a charmed life.
+L454181 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I need to... I need to believe something. This is the first time I've ever come up against anything I couldn't... understand.
+L454180 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I didn't see her... and I didn't hear from her! Believe that!
+L454179 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ She haven't even called you?
+L454178 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ How could I go away? I'm in debt up to my...  If she did steal that money...  It's hard to believe she did because it's hard to see why she would. Unless she had some wild idea that it would help me... us...
+L454177 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Why not? Sam, is she hiding here? Are you two planning to go away with the money?
+L454176 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ No.
+L454175 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I ought to call the police right now!
+L454174 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ He must have had a darn good reason for wanting them kept out of it... All that cash...
+L454173 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ No. The man whose money she... he talked so loud and fast, and I... I should've called the police.
+L454172 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ It was her boss' idea not to report it to the police?
+L454171 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I just listened... and believed everything they told me. 'She stole the money.' 'We don't want to get her in trouble.' 'No don't bring the police in'...
+L454169 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You might have doubted for say five minutes or so, Sister.
+L454168 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes... I just... did. The moment they told me...
+L454142 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Never mind my ego. Let's talk about Mary.
+L454141 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Not that kind...  You men and your egos.
+L454140 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Well why didn't she come to me... call me...?
+L454139 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ Yes.
+L454138 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Is Mary... in trouble?
+L454137 +++$+++ u7173 +++$+++ m482 +++$+++ LILA +++$+++ I hate tears. 
+L454136 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ What thing could we be in together?

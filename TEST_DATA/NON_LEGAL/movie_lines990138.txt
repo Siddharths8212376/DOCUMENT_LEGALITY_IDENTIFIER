@@ -1,0 +1,200 @@
+L392412 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ He's come to rescue me, father.
+L392411 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ I'm ... er ... Sir Launcelot, sir.
+L392406 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I knew that someone would come.  I knew ... somewhere out there ... there must be ...
+L392405 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Well ... yes ... but I hadn't realised ...
+L392404 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ You've come to rescue me?
+L392403 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Well ... yes ...
+L392402 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ You got my note!
+L392401 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Oh, fair one, behold your humble servant, Sir Launcelot, from the Court of Camelot.  I have come to take you ...  away ... I'm terribly sorry ...
+L392545 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ You've said it!  Aaaaarghhh! ... We've said it ... Wwe're all saying it.
+L392544 +++$+++ u6688 +++$+++ m445 +++$+++ TALL KNIGHT +++$+++ Stop saying it.  AAAArghh! ... I've said it ...
+L392543 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ They're all saying the word ...
+L392541 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ Stop saying the word!  The word we cannot hear!  The word ...
+L392540 +++$+++ u6688 +++$+++ m445 +++$+++ TALL KNIGHT +++$+++ Stop saying the word!
+L392520 +++$+++ u6688 +++$+++ m445 +++$+++ TALL KNIGHT +++$+++ Don't say that word.
+L392519 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ Oh!
+L392515 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ Yes!  With a herring!  With a herring!  Cut down with a herring!
+L392514 +++$+++ u6688 +++$+++ m445 +++$+++ TALL KNIGHT +++$+++ When you have found the shrubbery, then you must cut down the mightiest tree in the forest ... with a herring.
+L392513 +++$+++ u6681 +++$+++ m445 +++$+++ OTHER KNIGHTS +++$+++ A path!  A little path for the late Knights of Ni!
+L392512 +++$+++ u6688 +++$+++ m445 +++$+++ TALL KNIGHT +++$+++ When you have found the shrubbery, place the shrubbery here, beside this shrubbery ... only slightly higher, so you get a two-level effect with a path through the middle.
+L392621 +++$+++ u6689 +++$+++ m445 +++$+++ TIM +++$+++ Did I tell you?  Did you listen to me?  Oh no, no, you knew better didn't you?  No, it's just an ordinary rabbit isn't it.  The names you called me.  Well, don't say I didn't tell you.
+L392620 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ I done it again.
+L392614 +++$+++ u6689 +++$+++ m445 +++$+++ TIM +++$+++ Well, It's got huge ... very sharp ... it can jump a... look at the bones.
+L392613 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ What's he do?  Nibble your bum?
+L392612 +++$+++ u6689 +++$+++ m445 +++$+++ TIM +++$+++ Look.  I'm warning you.
+L392611 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ |      You turd! +      Mangy scots git!
+L392607 +++$+++ u6689 +++$+++ m445 +++$+++ TIM +++$+++ That rabbit's got a vicious streak. It's a killer!
+L392606 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ You tit.  I soiled my armour I was so scared!
+L392196 +++$+++ u6685 +++$+++ m445 +++$+++ SINGERS +++$+++ When danger reared its ugly head, He bravely turned his tail and fled Yes, Brave Sir Robin turned about And gallantly he chickened out Bravely taking to his feet He beat a very brave retreat Bravest of the brave Sir Robin Petrified of being dead Soiled his pants then brave Sir Robin Turned away and fled.
+L392195 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ No, no, no.
+L392194 +++$+++ u6685 +++$+++ m445 +++$+++ SINGERS +++$+++ Bravely ran away, away.
+L392193 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ I didn't.
+L392192 +++$+++ u6685 +++$+++ m445 +++$+++ SINGERS +++$+++ Brave Sir Robin ran away.
+L392177 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ Shut up.  Oh, nobody really. just passing through.
+L392176 +++$+++ u6685 +++$+++ m445 +++$+++ SINGERS +++$+++ He is brave Sir Robin, brave Sir Robin, who ...
+L392172 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ Shut up.
+L392171 +++$+++ u6685 +++$+++ m445 +++$+++ SINGERS +++$+++ Brave, Sir Rob ...
+L392170 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ Er, That's ... That's enough music for a while, lads. It Looks as though like there's dirty work afoot.
+L396906 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She needs me, Archie.  She canna do without me, she said it to my face.  How can I stop now?
+L396905 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Won't you give yourself a rest, John? She's other people to look out for her.
+L396904 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I'm not having some prattler going through my things.
+L396903 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ It's what the maids are for.
+L396902 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I can't move to tidy.
+L396901 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ The place is a mess.
+L396900 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I'm all right.  I just need to rest up a wee bit.  The room ... You don't have to stay.
+L396899 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ You should have someone look after you.
+L396898 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ What do you take me for?
+L396897 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Be careful who sees it.
+L396896 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ It's a diary.
+L396895 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ What's this?
+L396815 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Get out.  Out!
+L396814 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ She'll drop you.  When she's done with you, she'll drop you.
+L396813 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She means it.
+L396812 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Aye.
+L396811 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ My lips may give a message better of Christmas love than e'en this letter.  To my best friend, J.B. from his best friend, V.R.  Best friend!
+L396809 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ When are you gonna see it, John?  She doesn't give a damn about you.
+L396808 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ You know nothing about her!
+L396807 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Come on, man, I'm telling you what you already know.
+L396806 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ You watch your tongue.
+L396805 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Aye, she may say that to you, but the woman can say what she wants.
+L396804 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Oh, I'm much more than that.
+L396803 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ And when was the last time she put herself out for you?  Look, John, whatever she says to you now, in the end you're still a servant.
+L396802 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I can't let her down now, Archie.
+L396801 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ She'll get over it.
+L396800 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She'll be worried about me.
+L396799 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Don't be an idiot!  You're in no fit state to go anywhere.
+L396798 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I've got my duties to attend to.
+L396797 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ You've got three broken ribs, man!
+L396796 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I'm getting dressed.
+L396795 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ What are you doing?!
+L396794 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She'll think it's her fault for keeping me.
+L396793 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ They said you were drunk.  Why don't you tell her the truth?
+L396792 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ And she sent no word down?
+L396564 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I'm on ninety pounds a year plus seventy pounds for a pile of tartan I'd be wearing anyway.  That's as much as a Page of the Back Stairs gets and that job's only for toffs.  I'm Her Majesty's Highland Servant! Indoors and Out.  There's no stopping me now.
+L396563 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ She'll blow hot and cold on you, John, she always does.  You want to be careful.
+L396562 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ But I'm the only one she trusts.
+L396561 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ She's got an army of people to get her up and out.
+L396560 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ The woman's surrounded by fools!  She has to be packed and ready to leave by seven thirty tomorrow morning.  Knowing that lot, they'll still be dressing her at eight.
+L396559 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ John, it's not your problem what she eats.
+L396558 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Aye, but will they?
+L396557 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ So?  Someone'll send it on ahead.
+L396556 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ One box of biscuits, one box of drop tablets, one box of pralines, sixteen chocolate sponges.  It's the same order every week, but does anybody bother to check it?  Now she has to travel all the way to Balmoral without the few luxuries she actually enjoys.
+L396455 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ You work the system right, you could ask her yourself.  Just be thankful you're not working for Household.  The Queen never lets them out of her sight.  But wee spats like us can slip through the net, easy.
+L396454 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Aye?  Then she's obviously not got enough to do.
+L396453 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ The good-looking one.
+L396452 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Which one of us is she flirting with?
+L396451 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ There's love and there's behaving like you do because there's nobody to tell you not to.
+L396450 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I'm not sure I do, Archie.
+L396449 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ You know what I mean.
+L396448 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ What?
+L396447 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Come on, man.  There's love and there's ...
+L396446 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She loved him.
+L396445 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Three years, John.  Is that not a bit long to be grieving?
+L396444 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ It's only grief makes her like she is.
+L396443 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ She's hardly a full hamper herself.
+L396442 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ If you were looking for promotion, you should have picked one of the healthier ones.
+L396441 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ It's better than shovelling horse shit.
+L396440 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Prince Leopold?  Is he the one who bleeds all day?  So what does his valet do?  Wash his poultices for him?
+L396439 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ That's pretty good for a ghillie.
+L396438 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Sixty.
+L396437 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ How about yourself?
+L396436 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Not bad, not bad.
+L396435 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Seventy a year.
+L396434 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ How much?
+L396433 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I think he nearly ruptured his truss.
+L396432 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ So what did Ponsonby do when she started shouting?
+L396431 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ Not down south you don't.
+L396430 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I speak as I find, Archie.
+L396429 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ You don't tell Her Majesty how you feel.
+L396428 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I was just telling the woman how I feel, for God's sake.
+L396427 +++$+++ u6691 +++$+++ m446 +++$+++ ARCHIE +++$+++ So, there are rules.  Things you do and things you don't do.
+L396426 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ So?
+L396886 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Kitchen and lower house.
+L396885 +++$+++ u6692 +++$+++ m446 +++$+++ ASSISTANT DRESSER +++$+++ Checked and locked, sir.
+L396884 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Louder, girl!
+L396883 +++$+++ u6692 +++$+++ m446 +++$+++ ASSISTANT DRESSER +++$+++ Checked and locked, sir.
+L396511 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ You wouldn't happen to know what the Queen's reading for recreation, would you, Mary?
+L396510 +++$+++ u6692 +++$+++ m446 +++$+++ ASSISTANT DRESSER +++$+++ I hope to go up next year.
+L396509 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Have I seen you up in Balmoral, Mary?
+L396508 +++$+++ u6692 +++$+++ m446 +++$+++ ASSISTANT DRESSER +++$+++ Mary Taylor, sir.
+L396507 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ What's your name?
+L396781 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Are you all right, Barney?
+L396780 +++$+++ u6693 +++$+++ m446 +++$+++ BARNEY +++$+++ Yeah.
+L396779 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Good.  She's a good girl.  Aren't you? Yeah, she's a lovely girl.  And you know the Queen's riding tomorrow?
+L396778 +++$+++ u6693 +++$+++ m446 +++$+++ BARNEY +++$+++ Yeah.
+L396777 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Good man.  And is she all right?
+L396776 +++$+++ u6693 +++$+++ m446 +++$+++ BARNEY +++$+++ Yeah, yeah, I did.
+L396775 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Yeah, there's a good girl.  Have you had a look at this hoof?  She was limping badly.  I think there might be a stone in it.
+L396774 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ It's cold out there tonight, Barney.
+L396773 +++$+++ u6693 +++$+++ m446 +++$+++ BARNEY +++$+++ Mr Brown, sir --
+L396772 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Hey, Barney.
+L396659 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ Quite.
+L396658 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I tell you, if we don't stick together on this, you could find yourself First President's Opposition.  Du Royaum Uni.
+L396657 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ I'm flattered you think so.
+L396656 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I don't imagine you frequent the Republican Clubs.  But the fact that neither you nor I are members should not blind us to the significance of their existence.  The Tory Party has always been our party.
+L396655 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ A situation?
+L396654 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I would talk to her myself, but she won't listen to me.  She must be persuaded, by someone she respects, to abandon this ridiculous favoritism before a situation develops.
+L396653 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ I see.
+L396652 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I fear the influence he has on her. The man's word is not to be credited. He is an arriviste of the very lowest water.  She's having a bust cast of him.  In Nero Marquino marble.
+L396651 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ Of course.
+L396650 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ My concern is for the reputation of the Monarchy.
+L396649 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ I take no account of gossip, Your Highness.
+L396648 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ No doubt you've heard the rumors.
+L396647 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ I don't think I've had that pleasure.
+L396646 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Have you met Mr Lyle?  He's in sugar...?
+L396645 +++$+++ u6698 +++$+++ m446 +++$+++ DISRAELI +++$+++ Your Royal Highness.  What a pleasure to see you here.
+L396644 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Mr Disraeli.  Ma'am.
+L396758 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Out of my way!
+L396757 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Well, everyone's entitled to their opinion.
+L396756 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ The future King!
+L396755 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Whom you address.
+L396754 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Do you know who you address, sir?
+L396753 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I said, are you deaf as well as stupid?
+L396752 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ What did you say?
+L396751 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Are you deaf as well as stupid?
+L396750 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Tell her the Prince of Wales wishes to speak with her urgently about matters concerning the press.
+L396749 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She's away to Windsor tomorrow.  Talk to her there.
+L396748 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Convey her a message.
+L396747 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ She's busy.
+L396746 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I wish to see my mother.
+L396606 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I beg your pardon?  Mama...?
+L396605 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ It's the Queen's decision.
+L396604 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Well, I'm sorry, but I really do think it's too much that the gentlemen of the house should be dictated to by a servant.
+L396603 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ And that is my last word on the matter.
+L396602 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Mama...
+L396601 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ Brown's responsibilities are onerous enough already.  He has far too much to do without having to stay up all night waiting for you to go to bed. The smoking-room will be closed and the lights put out at twelve o'clock.
+L396600 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ But mama, the room was built expressly for that purpose.  It has been a smoking-room by tradition ever since father --
+L396599 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ It is quite late enough.
+L396598 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Yes, but isn't midnight a little excessive?
+L396597 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ It is a disgusting habit, Bertie.  It should be discouraged.
+L396596 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Surely it is for the gentlemen to decide when to stop...
+L396536 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ I do believe they send so many boxes to taunt me. Doctor Jenner writes to them to say that my nerves are in an extremely fragile state and yet they continue to hound me with box after box after box after box after box!
+L396535 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ If it is inconvenient to Her Majesty, then perhaps she might consider allowing the Prince of Wales to host--
+L396534 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ ... Least of all my son.  It was his irresponsibility that drove my husband to his grave.
+L396533 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ Mother....
+L396526 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ Cold is good--  Is that not so, Dr. Jenner?!
+L396525 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ It's so infernally cold in here.
+L396524 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ No dinners, Bertie.  Why are you dressed for outdoors?
+L396523 +++$+++ u6694 +++$+++ m446 +++$+++ BERTIE +++$+++ I thought, a dinner for our ambassadors perhaps?
+L396522 +++$+++ u6704 +++$+++ m446 +++$+++ VICTORIA +++$+++ Gesture?
+L396888 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Back and upper corridors.
+L396887 +++$+++ u6695 +++$+++ m446 +++$+++ BERTIE'S VALET +++$+++ Checked and locked, sir.
+L396690 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ You'll talk when I'm finished!
+L396689 +++$+++ u6695 +++$+++ m446 +++$+++ BERTIE'S VALET +++$+++ We --
+L396688 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ What happens to John Brown is his business, but the Queen's security will never be compromised!
+L396504 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ That's a tautology lad.  If you say the Queen arranges something, you've no need to say she's done it personally.  That's understood.
+L396503 +++$+++ u6695 +++$+++ m446 +++$+++ BERTIE'S VALET +++$+++ The order of seating at the Upper Servant's table is arranged personally by the Queen herself.
+L396502 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ My own.
+L396501 +++$+++ u6695 +++$+++ m446 +++$+++ BERTIE'S VALET +++$+++ By whose authority?
+L396500 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Not now he doesn't.  This is my place.
+L396499 +++$+++ u6695 +++$+++ m446 +++$+++ BERTIE'S VALET +++$+++ Mr. Carter, the Head Butler, sits there.
+L396996 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ I recommend Her Majesty uses the covered carriage with a full Horse Guard.  In the event of any disturbance I will ensure --
+L396995 +++$+++ u6701 +++$+++ m446 +++$+++ PONSONBY +++$+++ The Queen will be riding to St. George's on the fifth.
+L396702 +++$+++ u6701 +++$+++ m446 +++$+++ PONSONBY +++$+++ We are all of us subject to forces beyond our control, Mr Brown, even you.
+L396701 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Nobody has any rights over me.
+L396700 +++$+++ u6701 +++$+++ m446 +++$+++ PONSONBY +++$+++ In as much as the article is about yourself, I think you must now accept that the public has a right to its interest in you.
+L396699 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ This is a slur on her good name.
+L396698 +++$+++ u6701 +++$+++ m446 +++$+++ PONSONBY +++$+++ I don't doubt that the Queen was highly amused.  She has always had a very healthy sense of humor.
+L396697 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ Don't think I can't persuade her.
+L396696 +++$+++ u6701 +++$+++ m446 +++$+++ PONSONBY +++$+++ I believe that decision rests with Her Majesty.
+L396695 +++$+++ u6696 +++$+++ m446 +++$+++ BROWN +++$+++ If I find out that you had anything to do with this, I will have you sacked.

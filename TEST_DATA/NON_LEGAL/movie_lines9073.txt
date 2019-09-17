@@ -1,0 +1,200 @@
+L247054 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Follow me.
+L247053 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Excuse me, would you mind telling me what the hell I'm doing here?
+L247052 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Right. The worm guy.  Can someone get those people off the beach?
+L247051 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It's Tatopoulos.
+L247050 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Dr. Niko Topopolosis?
+L247604 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ You don't have the authority to do that.
+L247603 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Organize a search party. I want a complete sweep of the entire city and subway system.
+L247601 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ That thing's dead. What the hell are we waiting for?
+L247600 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We're sending divers into the river now to retrieve the body.
+L247599 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ Do you have any idea what's going on out there? The phones are ringing off the hook with people screaming to be let back into the city.
+L247405 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ That's not true. Our worm guy, er, I mean, Dr. Tatopoulos found blood.
+L247404 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ Last time you didn't even scratch it!
+L247403 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ General Anderson, the problem was the terrain. If we lure him out into a more open area such as this portion of Central Park...  We should be able to take him down.
+L247286 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ But you don't know for sure!
+L247285 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We think there's a strong reason to believe it may be hiding inside one of the buildings within the sequestered area.
+L247718 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Wait.  Au revoir.
+L247717 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I just wanted to say, au revoir and thank you for your help, my friend.
+L247716 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I understand.
+L247714 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Where are you?
+L247713 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It's Raymond.
+L247712 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Hello?
+L247626 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It's okay. I know her.
+L247625 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Who the hell are you?
+L247608 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I can't get through. I don't know what's wrong.
+L247607 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ What'd they say?
+L247596 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ 555-7600. Tell them it's a code dragonfly. They should get you through.
+L247595 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ How do I do that?
+L247594 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Contact the military and get them to send a bomber to blow up this building before these things escape.
+L247584 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Good idea.
+L247583 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I think we should leave now.
+L247561 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ You were right.
+L247560 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Three eggs. I thought there would be more.
+L247541 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Let's hope we are not the hors d'oeuvres.
+L247540 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ They've turned off the ventilation system. They're calling him to dinner.
+L247526 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Makes us look more American.
+L247525 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ What's with the chewing gum?
+L247497 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Are you kidding? I always wanted to join the French Foreign Legion.
+L247496 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ So you're in?
+L247495 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Here. 23rd street subway station. Where we first found the fish. With a little luck, this will lead us right to it.
+L247491 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Yes. This testing done by my country left a terrible mess. We are here to clean it up.
+L247490 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Your talking about the nuclear testing in the Pacific.
+L247489 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It is my job to protect my country. Sometimes I must even protect it from itself. From mistakes we have made. Mistakes that we do not want the world to know about.
+L247488 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Sure.
+L247487 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I am a patriot. I love my country. Can you understand that?
+L247485 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I am not permitted to speak of such things.
+L247484 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ So why all the secrecy? Why aren't you guys working with the US military?
+L247483 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ This is America. There is nothing you can not buy.
+L247482 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ How did you get all of this stuff into the country?
+L247478 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We, have already taken care of them.
+L247477 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh, my bags. I've checked them in.
+L247476 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I need your trust if you're to help me find the nest.
+L247475 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Why do you need that?
+L247474 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I need you to trust me.
+L247473 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Why are you telling this to me?
+L247472 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We know.
+L247471 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Are you sure? How do you know?
+L247470 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We have learned that your American friends have decided not to look for the creature's nest.
+L247469 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh.
+L247468 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It's the French Secret Service.
+L247467 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Sounds like a big company.
+L247466 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ SDECE, Service de Documentation Exterieure et de Contre-Espionnage. Agent Phillip Raymond.
+L247465 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh yeah, the insurance guy.
+L247464 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We've met before.
+L247463 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Do I know you?
+L247129 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Thanks.
+L247128 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Are you looking for this?
+L229753 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ You'll forgive my impertinence, sir, but even though we had never before met, always considered you as a father to me.
+L229752 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Don't speak, Quellek.
+L229751 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ ... It has been my greatest honor to serve with you.  LIving by your example these years, my life has had meaning.  I have been blessed.  Sir, I... I...
+L229750 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ No, don't talk like that, son. We're going to get you fixed up.
+L229749 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I... I don't think I'm going to make it Sir...
+L229748 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Not so bad. We'll get you to medical quarters. You're going to be fine.
+L229746 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I'm... I'm shot.
+L229745 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Okay, Quellek, let's get back to the command deck and-Suddenly we hear a PISTOL BLAST and Quellek's chest turns RED. Alexander and Quellek look down at the blood, horrified.
+L229740 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Open.
+L229739 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Sir! The pressure.  It's normalizing.
+L229647 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Come with me. I'll explain on the way.
+L229646 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I avoided capture using the Mak'tar stealth haze.  Where is everyone?
+L229645 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Quellek. What are you doing in there?
+L229644 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Sir, it's you  Thank Ipthar!
+L229345 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Right... Sorry, sir.
+L229344 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Uh uh! What did we talk about?
+L229343 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Good luck on your mission, Sir. By Grabthar's Hammer, by the Suns of Warvan I wish you-
+L229342 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Thanks.
+L229341 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Dr. Lazarus, here is your surface mapper.  I have programed it to the coordinates of a Beryllium Sphere of sufficient density.
+L229133 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Yes sir... The use of your waste facilities were strangely absent from the historical records, so we had to extrapolate purely on the basis of your anatomy.
+L229132 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Is that the bathroom?
+L229131 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Just as on your home planet, sir. If I may say, it took me three years to master the spikes, but now I sleep with a peace I never thought possible...
+L229130 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Where's my bed?
+L229129 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Yes sir. Marvelous, isn't it? Completely distractionless.
+L229128 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ This is it?
+L229127 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ ...Yes sir.  Your quarters sir.
+L229126 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Just don't.
+L229125 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I'm sorry, sir, I was only-
+L229124 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Don't do that. I'm not kidding.
+L229123 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ By Grabthar's Hammer, Dr. Lazarus, I-
+L229122 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Well good, that's very... nice.
+L229121 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Dr. Lazarus... I hope that I'm not breaching protocol but.. I am so very humbled to stand in your presence... I have studied your missions extensively... Though I am Thermian, I have lived my life by your philosophy, by the code of the Mak'tar.
+L229847 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No time to worry about that, Alex. Tommy, let's get this thing slowed down... Gwen, see if you can calculate the impact point. Guy, cet down to deck C and make sure tne injured are secured. Also lets-
+L229846 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Jason, before we entered the black hole, my instruments detected strange energy surge from Sarris' shiD~ similar to...
+L229784 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay... Let's go, buddy, they can take It from here... I'mo-
+L229783 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes. Good was done this .....
+L229782 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ ~hex!  Alex, are you oKav?
+L229609 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I had the shot...
+L229608 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Sense memory. I see you got to win the fight...
+L229607 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I was staying in character.  "Egomaniacal sonofabitch?"
+L229606 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Purple skinned monstrosity...?"
+L229604 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Shut up.' Just shut up you purple skinned monstronsity,
+L229603 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Hundreds dead, all so you could play at being the Commander.' You've murdered us all you egomaniacal sonofabitch!
+L229541 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Am I crazy, or do you actually have something there?
+L229540 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ That's your problem.  You were never serious about the caraft...  "I'm a rock... I just want to be a rock... Still. Peaceful.. Tranquil.." ..."Oh, but what's this?  Something's making noise... No, not noise, no... MOVEMENT.  VIBRATIONS.  Make the vibrations stop, they go straight into me like a knife!... I must CRUSH the thing that makes the vibrations..."
+L229539 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's a DAMN ROCK MONSTER!!! It doesn't HAVE motivation!
+L229538 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ... . Well  you have to figure out what it wants... What's its motivation?
+L229537 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ ALEXANDER??? PLEASE? You're my advisor, advise me!
+L229530 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ KILL IT? Well I'm open to ideas!...
+L229529 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Fred's no good, Jason. You're going to have to kill it
+L229512 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I heard something. A squeal.
+L229511 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Nothing.
+L229510 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What?  What?
+L229465 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh, of course, I forgot! YOU have to be the hero, don't you?... Heaven forbid anyone else get the spotlight once! Oh no, Jason Nesmith couldn't possibly-
+L229464 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You go first! There's no time!
+L229463 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Go ahead!
+L229390 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Must be some sort of mining facility.
+L229389 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ There it is. The Beryllium sphere.
+L229378 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ THIS much.
+L229377 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What's the scale?  Is that ten miles? A hundred miles?
+L229376 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ About this much.
+L229291 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ KEEP GOING! KEEP GOING!
+L229290 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ DON'T BE INSANE, STOP! FULL STOP!
+L229289 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ NO!  WE'RE ALMOST THROUGH!
+L229272 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Like YOU know?
+L229271 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You don't hold a thruster down! It's for quick boosts
+L229270 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We stop we die. Keep holding the thruster down Tommy!
+L229269 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ We've got to stop!
+L229101 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Like throwing gasoline on a fire...
+L229100 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ At ease men.
+L229093 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Just!?"
+L229092 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Calm down everybody.   We're just here to negotiate General Sarris' surrender.
+L229044 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ COME IN PROTECTOR... PROTECTOR...
+L229043 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ God, what an ass.
+L228944 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Leadership....
+L228943 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ... to camera center no matter whose shot you're blocking...
+L228942 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I'm glad you asked... To me the most important qualities of a Galaxy Explorer are loyalty...
+L228907 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ...Damn you!  Damn you!
+L228906 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ "The show must go on."
+L228905 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ I won't and nothing you say-
+L228904 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You WILL go out there.
+L228899 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Friend. You stole all my best lines.  You cut me out of episode two entirely!..
+L228898 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Come on, old friend...
+L229423 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ As a matter of fact, I do. Look at their eyes. They're obviously nocturnal. Come sundown they will go into the forest to hunt. So our plan is simply to wait for nightfall instead of mounting an insane assault in full daylight simply because we did it that way in episode 31.'
+L229422 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You have a better plan, Alex?
+L229421 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ This is ludicrous.  Why are you listening to this man?  Must I remind you that he is wearing a costume, not a uniform?...  He's no more equipped to lead us than THIS fellow.  No offense.
+L229385 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ ...Sleeves rolled halfway up the biceps...
+L229384 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ And note the sucked in gut.
+L229368 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Hey, watch that "Laredo" shit.
+L229367 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You think you could do better "Laredo?"
+L229366 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You know, with the makeup and everything1 I actually thought he was smart for a second.
+L229365 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Shut up.
+L229364 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You were holding it upside down weren't you?
+L229294 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ The engines are dead. We're drifting.
+L229293 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ What's happened?
+L229283 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ They're drifting toward me... I think they're magnetic!...
+L229282 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Could you possibly try  not to hit  every  single  one!
+L229214 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ No, Jason, that's a wrap!  There's nothing to think about!
+L229213 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He wants to THINK!?
+L229089 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Jason, what have you gotten us into?
+L229088 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ What the hell is going on?!!?
+L228877 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ No. I can't go out there! I won't say that ridiculous catch phrase one more time. I won't.  I can't!
+L228876 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Settle down, Alex...
+L228873 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ I played Richard III...
+L228872 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Not again...
+L228861 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Oh, and did you hear he booked another fan appearance without us?
+L228860 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He's a twit!
+L229891 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ By Grabthar's Hammer, this is true. 159	NT. LIVING ROOM - SOMEWHERE - NIGHT	159
+L229890 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ He always has to make the big entrance.
+L229487 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes you did.
+L229486 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ No I didn't.
+L229485 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Back there. You said "the Commander is down there with a bunch of cannibals."
+L229484 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What?
+L229483 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You said "the Commander.
+L229470 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Down there.
+L229469 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He knocked me out the sonofabitch. Where is he?
+L229448 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ It doesn't make sense... Surely they could have fortified the compound against those creatures...
+L229447 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Those blue things ate everybody here?
+L229432 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Nobody was WATCHING?
+L229431 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I don't know.
+L229395 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Could they be the miners?
+L229394 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Look at that... Will you LOOK at that... They look like little children...
+L229303 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ To see if there's a pub.
+L229302 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Alex? Where are you going?
+L229301 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Go into the cloud! ...
+L229288 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ FRONT ARMOR IS GONE! JUST SLOW IT DOWN A LITTLE!
+L229287 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ WE'VE HAVE TO STOP!
+L229279 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ The ships are gaining...
+L229278 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ May I get the check?
+L229267 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Shit! I'm doing it! I'm repeating the damn computer!
+L229266 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ We heard it the first time!
+L229085 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ All this from watching the.. historical records?
+L229084 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh my god, It's real.
+L228979 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes, poor Jason. As we speak he's probably out somewhere talking rubbish to a roomful of hangers-on. While here I sit eating Christmas cheese in Spring.

@@ -1,0 +1,200 @@
+L244973 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ How is his health?
+L244972 +++$+++ u5547 +++$+++ m369 +++$+++ OLA +++$+++ I just left our friend in Miami.
+L244967 +++$+++ u5547 +++$+++ m369 +++$+++ OLA +++$+++ Sure, I remember Tom from the old days.
+L244966 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ You know my lawyer, Tom Hagen. Johnny Ola.
+L245783 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I do not.
+L245782 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ Do you have interests or control over gambling and narcotics in the state of New York.
+L245781 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I do not.
+L245780 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ Mr. Corleone, do you have any hotel interests in the state of Arizona? Or any gambling interests in that state?
+L245777 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ That is not true.  I own some stock in some of the hotels, but only very small amounts.  I also own some American Telephone and IBM stock.
+L245776 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ Is it true that you own a controlling interest in three of the major hotels in Las Vegas?
+L245775 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ That is a complete falsehood.
+L245774 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ Is it true that in the year 1950 you devised the murder of the heads of the Five Families in New York, to assume and consolidate your nefarious power?
+L245773 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I deny his every charge.
+L245772 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ This witness has testified that you are personally responsible for the murder of a New York Police Captain in the year 1947 and with him a man named Virgil Sollozzo.  Do you deny this?
+L245771 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ No.
+L245770 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ I'm sure we all agree with our esteemed colleague.  Now, Mr. Corleone, you have been advised as to your legal rights.  We have had testimony from a preceding witness who states you are head of the most powerful Mafia family in this country.  Are you?
+L245766 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Yes.
+L245765 +++$+++ u5557 +++$+++ m369 +++$+++ SENATOR KANE +++$+++ Are you the son of Vito Corleone?
+L245376 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Good.
+L245375 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Sure, Mike.  I'll go along.
+L245374 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ This was my father's old study. When I was a kid, we had to be quiet when we played near here. When I was older, I learned many things from him here.  I was happy that this house never went to strangers; first Clemenza took it over, and then you.  My father taught me, in this room, never to act until you know everything that's behind things.  Never.  If Hyman Roth sees that I interceded with you in the Rosato Brothers' favor, he'll think his relationship with me is still sound.  I'm going somewhere to meet him tomorrow.  We have friends in some very important business that we're making.  Do this for me; you make the peace with the Rosato Brothers on their terms.  Let the word out that I forced you; you're not happy wit hit, but acquiesced, just because of me.  It will get back to Hyman Roth.  Do this, Frankie.  You can trust me.
+L245373 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Jesus Christ, Michael, then let's hit 'em now, while we still got the muscle.
+L245372 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Frankie, Roth tried to have me killed.  I'm sure it was him, but I don't know yet why.
+L245371 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Then why do you want me to lay down to them?
+L245370 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I know.
+L245369 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Always... But sometimes I don't understand.  I know I'll never have your kind of brains, in big deals. But Mike, this is a street thing. And Hyman Roth in Miami is behind the Rosato Brothers.
+L245368 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Frankie...do you respect me?  Do I have your loyalty?
+L245367 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ It would be the beginning of the end for my family.  How can I keep all my other territories in like if I let two wise-guys stand up and demand this and that, and then give it to them?
+L245366 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Trust me; do as I ask.
+L245365 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Mike, I don't understand.  Don't ask me to do that.
+L245364 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I want you to settle on their terms.
+L245363 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ I was just going to contact you, Michael; we just had a 'sit-down' - in fact, I just come from there.
+L245362 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I want you to settle these troubles with the Rosato Brothers.
+L245361 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Michael, anything.  What is it I can do for you?
+L245360 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I want you to help me take my revenge.
+L245359 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ In my home!  In the same room where my wife was sleeping; where my children come in their pajamas, and play with their toys.
+L245358 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Michael, yes, we was all relieved...
+L245357 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I didn't want you to know I was coming.  You heard what happened in my home?
+L245356 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Don Corleone, I wish you let me know you was coming.  We could have prepared something for you.
+L245055 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ He did business...but he never trusted him.
+L245054 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Frankie, you know my father respected Roth, did business with him.
+L245053 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ You give your loyalty to a Jew over your own blood.
+L245052 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ No.  There are things that I have planned with Hyman Roth.  I don't want them disturbed.
+L245051 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ How can you be fair with animals? They recruit niggers and spicks; they do violence in their own Grandmother's neighborhoods.  And everything is dope and whores; the gambling is left to last.  Let me run my family without you on my back.  I want them taken care of.
+L245050 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I know.  That's why I want you to be fair with them.
+L245049 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ The Rosatos are running crazy; taking hostages, spitting in my face, because they're backed by the Jew in Miami.
+L245048 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Frankie, you're a good old man, and you've been loyal to my Father for years...so I hope you can explain what you mean.
+L245047 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ And while I feed my family in New York, you put the knife in my back in Miami.
+L245046 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Your family still carries the name Corleone, and you will run it like a Corleone!
+L245045 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Michael, you're sitting up here in the Sierra Mountains with champagne cocktails making judgment on the way I run my family.
+L245044 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ They feel cheated.
+L245043 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Clemenza promised them nothing, he hated the sonsuvbitches.
+L245042 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Clemenza promised Rosato three territories in the Bronx after he died, and then you took over and welched.
+L245041 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Says who?
+L245040 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ You were unfair with them.
+L245039 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Okay, now it's my family in Brooklyn; and I wanna keep up Clemenza's loyalty to you.  But how can I run my family with you challenging my every move?  You're too far from the street, Mike, the only way to reason with the Rosato Brothers is to whack 'em and whack 'em fast.
+L245038 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ We were all heartbroken at the news; but that wasn't cause to start a war.
+L245037 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Sure, Pete Clemenza died of a heart attack, but the Rosato Brothers gave it to him.
+L245033 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ After dinner.
+L245032 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ When do we talk?
+L245031 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I know.
+L245015 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ All right, then let me say you'll pay me because it's in your interests to pay me.
+L245014 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ We're all part of the same hypocrisy, Senator.  But never think it applies to my family.
+L245013 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ I'm going to squeeze you, Corleone, because I don't like you; I don't like the kind of man you are.  I despise your masquerade, and the dishonest way you pose yourself and your fucking family.
+L245012 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Senator Geary, I speak to you as a businessman who has made a large investment in your state.  I have made that state my home; plan to raise my children here.  The license fee from the Gambling Commission costs one thousand dollars; why would I ever consider paying more?
+L245010 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ Let's forget the bullshit, I don't want to stay here any longer than I have to.  You can have the license for two hundred and fifty thousand in cash, plus a monthly fee equal to five percent of the gross...
+L245009 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Turnbull is a good man.
+L245008 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ The Corleone family controls two major hotels in Vegas; one in Reno. The licenses were grandfathered in, so you had no difficulties with the Gaming Commission.  But I have the idea from sources...  ...that you're planning to move in on the Tropicana.  In another week or so you'll move Klingman out, which leaves you with only one technicality.  The license, which is now in Klingman's name.
+L245006 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ Some water.
+L245005 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ I trust these men with my life. They are my right arms; I cannot insult them by sending them away.
+L245004 +++$+++ u5556 +++$+++ m369 +++$+++ SENATOR GEARY +++$+++ I thought we would meet alone.
+L245003 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ My lawyer, Tom Hagen.  He arranged this all through your man Turnbull.
+L245845 +++$+++ u5550 +++$+++ m369 +++$+++ ROCCO +++$+++ No, she's here.
+L245844 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ On the phone?
+L245217 +++$+++ u5550 +++$+++ m369 +++$+++ ROCCO +++$+++ No sign of them yet; but they're still on the Estate.
+L245216 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ And?
+L245215 +++$+++ u5550 +++$+++ m369 +++$+++ ROCCO +++$+++ Your family all seem to be okay in the other houses; your Mother's still sleeping.
+L245213 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ It's important.
+L245212 +++$+++ u5550 +++$+++ m369 +++$+++ ROCCO +++$+++ We'll try.
+L245211 +++$+++ u5545 +++$+++ m369 +++$+++ MICHAEL +++$+++ Keep them alive.
+L245210 +++$+++ u5550 +++$+++ m369 +++$+++ ROCCO +++$+++ They're still on the property. Maybe you better stay inside.
+L245495 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ That's a lucky C note for our new deal.
+L245494 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ What's this?
+L245347 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ Maybe, yes... maybe no.
+L245346 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ He supports me.
+L245345 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ What about Michael Corleone?
+L245344 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ I'm talking about Italians!
+L245343 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ We got friends in the commission.
+L245342 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ You know if there's a way I'll go to the commission and the commission will side with me.  That puts me and the other New York families against you.
+L245341 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ We got no choice.
+L245340 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ You want a war?
+L245339 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ Then Carmine Fucillo and Tony Blue DeRosa will need to be fitted for slabs.
+L245338 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ What if I say shove it?
+L245337 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ The same assurance we got from you.
+L245336 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ What assurances do I have that there will be no more kidnapping, no more hits?
+L245335 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ My lawyer went over this beforehand.
+L245334 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Pari Persu; what the fuck is Pari persu...?
+L245333 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ We will release the hostages, number one.  Number two, we're here for you to count on when you need us.  We're independent, but we're here if you need us.  In general, we'll cooperate with you and your businesses, and you in turn will cooperate with us.  Pari persu.
+L245332 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ I'm a little hungry, maybe I'll order something.  Joe.  Get me some bracciole or something. And pay cash.  And in return for these concessions, what do you do for me?
+L245331 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ We want Brooklyn one hundred percent.  No more taxes to you.  We want to be only loosely connected with your family -- sort of a under-family all of our own.  Then we can act on all internal matters without talking.  Also we want you to inform Michael Corleone that we can deal directly with him.
+L245330 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Don't I look like I'm listening?
+L245329 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ You wasn't listening, you didn't want to talk.
+L245328 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ We could have talked first, saved a lot of running around.
+L245327 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ You weren't straight with us, Frankie, what else could we do?
+L245326 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Forget it; I'm suddenly without an appetite.  You're making big trouble, Carmine.
+L245325 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ Sure, on me.  I got Diner's Club.
+L245324 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Are we going to eat or what?
+L245323 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ We worked it all out beforehand.
+L245322 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ He don't want to talk?
+L245321 +++$+++ u5551 +++$+++ m369 +++$+++ ROSATO +++$+++ Sitting right behind you.
+L245320 +++$+++ u5548 +++$+++ m369 +++$+++ PENTANGELI +++$+++ Rosato, where's your brother?
+L245685 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ I won't keep you another minute...
+L245684 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ I accept your generosity...
+L245683 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ In fact, reduced, bu five dollars!
+L245682 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ What was that?
+L245681 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ Your good heart in helping the poor widow has shamed me, and I want to show that I, too, have some Christian charity.  Her rent will remain what it was.
+L245680 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ What a terrible misunderstanding. Of course, Signora Colombo can stay in the flat.  Who were those miserable tenants to complain about noise from a poor animal...when they pay such low rent.
+L245679 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ Yes.
+L245678 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ Excuse me, I hope I am not a disturbance, Don Corleone.
+L245653 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ Like hell!  And who the hell are you to give me orders.  Watch your manners or you'll be on your Sicilian ass in the street there.
+L245652 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ Here is the six month's increase in advance.  You needn't speak to her about it, she's a proud woman.  See me again in another six months. But of course, you'll let her keep her dog.
+L245651 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ Eh...  Five dollars more.
+L245650 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ How much more a month?
+L245649 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ I've already rented it; I cannot disappoint the new tenants.  They're paying a higher rent.
+L245648 +++$+++ u5559 +++$+++ m369 +++$+++ VITO +++$+++ I told her I would speak to you, that you are a reasonable man who acted out of some misunderstanding. She has gotten rid of the animal that caused all the trouble, so why shouldn't she stay.  As one Italian to another, I ask you the favor.
+L245647 +++$+++ u5549 +++$+++ m369 +++$+++ ROBERTO +++$+++ I have already rented the apartment to another family.
+L246406 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Damn straight.  I'm sick of playing games.
+L246405 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Is that all this conversation means to you?  Am I going to put out or not?
+L246404 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ So you don't want to fuck.  That's what you're telling me?
+L246403 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Sure you're free, for now at least. But how long before you're just alone?  Pathetic and alone.
+L246402 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I like my life.  I'm a free man.
+L246401 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ What are you then?  What will you be ten years from now?  Still cutting lawns?  Still banging horny divorcees in your trailer?
+L246400 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I'm not a kid.
+L246399 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ The look on your face!  You're not marriage material.  You're not even boyfriend material.  You're a kid. A big, fun, slightly irresponsible kid.
+L246398 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ You mean us?
+L246397 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ You know, I just can't do that anymore.  I still have time to get things right.  Get married again --
+L246396 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ If you enjoy it, you should do it.
+L246395 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Sure.  I loved it.
+L246394 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ You liked it too.
+L246393 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ No, I'm actually kind of glad it happened.  It made me wonder what the hell I was doing with my life. Letting you pull me into bed whenever the spirit moved you.
+L246392 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I didn't mean to...
+L246391 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ It still hurt.  A lot.
+L246390 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Hey, no strings, right?  That's what you always said.  Just good pals who have the hots for each other.
+L246389 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ You picked up that girl right in front of me.
+L246387 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ All the old men I know think about nothing but sex.
+L246386 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ He's an artist.  Anyway, he's too old to think about sex.
+L246385 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ It never crossed your mind?
+L246384 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ It's different.  He's a man.  And by the way you have no business calling him a homo.
+L246383 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Do you realize you're more interested in this old goober than you ever were in me?
+L246382 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ This old guy -- he's the kind of person I expected to meet when I moved out here.  Someone who's done things with his life.
+L246380 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Yeah, and I'm never going to smoke another cigarette.
+L246379 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I wasn't going to try anything.
+L246378 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ It means it's too cold to go swimming.  And I don't mean the water.
+L246377 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ What's that mean?
+L246375 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ If he were that famous, he probably wouldn't give me the time of day. This way, he's like <u>my</u> famous person.  Yeah, my own personal famous person.  Who treats me like I'm somebody worth talking to.
+L246374 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Not so famous any of us have ever heard of him.
+L246373 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I've gotten to know someone who's famous.
+L246372 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ What's to be jealous of?
+L246371 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ You know what?  I think you guys are all jealous.
+L246363 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Weird.
+L246362 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ So what did you think?
+L246345 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Funny is funny and scary is scary. You don't mix them.
+L246344 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Maybe it's supposed to be funny.
+L246343 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ These old movies are such a hoot. They thought they were being scary, but they're just funny.
+L246338 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Go wash glasses if you don't like it.
+L246337 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ This looks corny.
+L246333 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ We're watching the movie, Harry. You got that!  We are watching my fucking movie.
+L246332 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Not anymore you don't.  Doll.
+L246331 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Fuck you.
+L246330 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ All right, then.  He's interested in you for your conversation.  We know what a great talker you are.
+L246329 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Yeah, well keep your filthy thoughts to yourself.
+L246328 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ Just thinking out loud.
+L246327 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ What makes you say that?
+L246320 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Why is everybody giving me crap tonight?
+L246319 +++$+++ u5561 +++$+++ m370 +++$+++ BETTY +++$+++ I say let loverboy watch his movie.  And be grateful Boone's not cutting Shirley Temple's lawn.
+L246318 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Thanks, doll.
+L246996 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ You are right.  Yes.  We must put him back.
+L246995 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ But how're you going to explain this?  How did you get him out of the pool?
+L246994 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ Do you want to be questioned about you and Mr. Jimmy?  Please, Clayton.  It will be better if I find the body alone.
+L246993 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ We have his note.
+L246992 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ The police will not know that. They will want to investigate.
+L246991 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ But I didn't do this!
+L246990 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ You must leave.  You were not here this morning.
+L246988 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ He says here good-bye.  I find it in his room.  He is sorry, he says. He has had a wonderful life.
+L246987 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ He wanted me to kill him, but I didn't.  He did it himself.
+L246986 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ Oh, Mr. Jimmy.
+L246985 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I didn't do it.  This wasn't me.
+L246978 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I put him to bed.  He's not there?
+L246977 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ What have you done with him?
+L246975 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ It is my job.  I did it when he was happy and it was easy.  It is only fair I do it now when he is ill.  Enough talk.  I must wake up the master.
+L246974 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Take care of Mr. Whale like he was your flesh and blood.
+L246973 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ What do I do?
+L246972 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Thanks.  Why do you do it?
+L246971 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ I blame my daughter for keeping me out so late.  I only hope you did not get him excited.  It could give him a new stroke.
+L246970 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ Maybe.  But I still need to talk. Do I have time for a cup of coffee before I go?
+L246969 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ There is nothing you can say that will surprise me.
+L246968 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ I need to talk to you about Mr. Whale.
+L246967 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ I have brought you your clothes. All I ask is that you get dressed and go.  We are having a guest for breakfast.
+L246966 +++$+++ u5562 +++$+++ m370 +++$+++ CLAY +++$+++ It's not what you think.
+L246500 +++$+++ u5568 +++$+++ m370 +++$+++ HANNA +++$+++ Yes.  I trust you.

@@ -1,0 +1,200 @@
+L406598 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ And where is the army?
+L406597 +++$+++ u2226 +++$+++ m144 +++$+++ BELLIARD +++$+++ They are at the gates of Paris, sire.
+L406596 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Well, Belliard, what's this?  What are you doing here?  Where is the enemy?
+L406706 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I wanted to kiss her, but she didn't want to kiss me... She slipped away, the moment I wanted to take her in my arms.
+L406705 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ No, sire... I was asleep.
+L406704 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ She was sitting there... and it was as if I had last seen her only the night before... She hadn't changed -- she was still the same -- still completely devoted to me... and she told me we were going to see each other again and, never again, leave each other... She has promised me. Did you see her?
+L406703 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ Yes, sire?
+L406702 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I have just had the most vivid... dream... about Josephine.
+L406701 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ Bertrand, sire.
+L406700 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Who is there?
+L406641 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I suppose I might blame her for opening her house to the men most responsible to my downfall, but how can I?  She was on her own again, she had to look after her own affairs, and how can one blame her for having her head turned by the attention of Kings?
+L406640 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ I have never heard an unkind word about her spoken.
+L406639 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Ah, my poor Josephine.  She was the most alluring, most glamorous creature I have ever known -- a woman in every sense of the word, and she had the kindest heart in the world.  She may have been a liar and a spendthrift, but she had something that was irresistible -- she was a women to her very fingertips... How impossible it is to believe that she is dead.
+L406638 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ That is incredible.
+L406637 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ She should have had Larrey or Corvisart.  They might have saved her... But why didn't anyone even write to me?  Can you believe that no one even bothered to write to me? Would you have believed that I should read such news in a newspaper?  How incredible!
+L406636 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ I don't know, sire -- she had the Tsar's personal physician.
+L406635 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ But did she have the best doctors? Wasn't there any chance at all to save her?
+L406634 +++$+++ u2227 +++$+++ m144 +++$+++ BERTRAND +++$+++ It is a terrible shock.
+L406633 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Josephine dead -- how unbelievable! How impossible it is to believe it. She was always physically so strong -- she was never ill a day in her life.
+L406173 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Let me see it.
+L406172 +++$+++ u2228 +++$+++ m144 +++$+++ BOURRIENNE +++$+++ This dispatch has just arrived from Aboukir, marked highest priority, for General Bonaparte's eyes only.
+L406171 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Come in.
+L406170 +++$+++ u2228 +++$+++ m144 +++$+++ BOURRIENNE +++$+++ Excuse me, General Bonaparte, but I believe this is an extremely urgent matter, requiring your immediate attention.
+L406169 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Come back in an hour.
+L406168 +++$+++ u2228 +++$+++ m144 +++$+++ BOURRIENNE +++$+++ General Bonaparte?
+L406107 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh, shit, that's not right.
+L406106 +++$+++ u2228 +++$+++ m144 +++$+++ BOURRIENNE +++$+++ To Joseph Bonaparte -- Dear Joseph, I have been informed by my wife of the cold and spiteful treatment she has been receiving at the hands of my family, since my departure.  I am also informed that you have refused to pay over to her any of the money I left with you expressly for this purpose.  Must you, too, take this opportunity during my absence to indulge the petty jealousies of the Bonaparte family?
+L406105 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Read it back.
+L406079 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ You may go, Captain Charles.
+L406078 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Thank you, sir.  I will do that.
+L406077 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ You will return to Paris tomorrow and you will carry my compliments and thanks to General Le Clerc for assigning such an excellent officer to carry out a responsibility which has meant so much to myself and to Madame Bonaparte.
+L406076 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Thank you, sir.
+L406075 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Then, you have my thanks, Captain Charles, for safely escorting Madame Bonaparte to Milan, and you may consider your assignment completed.
+L406074 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ No, sir, none at all.
+L406073 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Did any difficulties of any kind arise during the trip?
+L406072 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Yes, sir.
+L406071 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Was the trip normal in every respect?
+L406070 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Yes, sir.
+L406069 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Was it he who assigned you to command the escort which accompanied Madame Bonaparte's coach?
+L406068 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Yes, sir, I am.
+L406067 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Captain Charles, I believe you are one of General Le Clerc's aides-de- camp.
+L406066 +++$+++ u2230 +++$+++ m144 +++$+++ CHARLES +++$+++ Yes, sir, I had the honor of meeting them on the trip from Paris.
+L406065 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I believe you are acquainted with my brother, Joseph Bonaparte, and my aide, Major Junot.
+L405954 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I see...
+L405953 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ Just a minute, General.  Listen, don't let them fool you with all their grand la-de-da.  They've all made their money from the war -- mostly from crooked war contracts. They say Citizen Barras has put away millions.
+L405952 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ I thought not.  I noticed you by yourself, all night.
+L405951 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Ah-hh, no.
+L405950 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ You don't know many of Citizen Barras' friends, do you?
+L405949 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Yes, as a matter of fact, it is.
+L405948 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ That's a nice city.  This is your first time here, isn't it?
+L405947 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ No, they're living in Nice now.
+L405946 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ I haven't been back for ten years. Is your family still there?
+L405945 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I haven't been there for three years.
+L405944 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ Have you been back recently?
+L405943 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Ajaccio.
+L405942 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ Bastia -- and you?
+L405941 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh -- where do you come from?
+L405940 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ I thought so, I noticed your name when you were announced.  I'm Corsican too -- my name is Arena.
+L405939 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Yes, I am.
+L405938 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ Yes, sir.  I hope you will excuse me for asking, General Bonaparte, but are you Corsican?
+L405937 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ A glass of champagne, please.
+L405936 +++$+++ u2231 +++$+++ m144 +++$+++ CORSICAN +++$+++ Yes, sir?
+L406587 +++$+++ u2247 +++$+++ m144 +++$+++ PICART +++$+++ My God -- don't you recognize Mouton -- our regimental dog?  I would rather eat Cossack.
+L406586 +++$+++ u2232 +++$+++ m144 +++$+++ DIDIER +++$+++ When you eat him, may I have some?
+L406585 +++$+++ u2247 +++$+++ m144 +++$+++ PICART +++$+++ His paws are frozen and he cannot walk.
+L406584 +++$+++ u2232 +++$+++ m144 +++$+++ DIDIER +++$+++ Why are you carrying the dog?
+L406583 +++$+++ u2247 +++$+++ m144 +++$+++ PICART +++$+++ Ah, Didier -- you are alive.
+L406582 +++$+++ u2232 +++$+++ m144 +++$+++ DIDIER +++$+++ Hello there, Picart.
+L406536 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My God -- this could be very bad for us... very bad, indeed.
+L406535 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ From what we can tell, there are hundreds of agents, all over the city.  The combustibles seem to have been carefully placed beforehand, and all the fire-engines have been removed from the city.
+L406534 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ But to start a fire like this in five hours -- how is it possible? It would take a carefully organized plan, tons of combustibles and hundreds of people.
+L406533 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ We have already captured a dozen incendiaries, convicts, released just two days ago.  They said they were acting under orders of the secret police.
+L406532 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Impossible, I don't believe it.
+L406531 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ Our troops have no part in this.  It has been started by the Russians!
+L406530 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I told Mortier that he would answer with his life for any looting.
+L406529 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ It is the work of incendiaries.
+L406528 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ How did it spread so quickly?
+L406527 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ At first, it hardly seemed more than a routine fire.
+L406526 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Why didn't you wake me then?
+L406525 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ The first reports came in at about ten.
+L406524 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ When did it start?
+L406523 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My God, what a fire!
+L406522 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ Four o'clock.
+L406521 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My God...!  What time is it?
+L406428 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ May I suggest that we can prepare and sign the agreement, between ourselves, subject to the approval of the two Emperors.  Believe me, my dear friend, your Archduchess, Marie-Louis, may very well hold, in her hands, the future of our two countries.
+L406427 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ But, my dear Duroc, how can I act without guidance from Vienna?  I haven't the slightest idea of how the Emperor Francis might feel about this.
+L406426 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ No one can say how the Emperor's thoughts work, Ambassador, and unless we move quickly, he might change his mind again.
+L406425 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ But this is not a matter which can be settled tonight, surely?
+L406424 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ Earlier this afternoon, the Emperor refused the hand of the Grand Duchess Anna, of Russia, and, as I'm sure you can appreciate, he is quite able to change his mind again.  For the Emperor, to choose a wife, is only a matter of minutes.
+L406423 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ What is that?
+L406422 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ The Emperor has decided to marry your Archduchess, Marie-Louise.
+L406421 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ Oh?
+L406420 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ I beg your indulgence, Ambassador, but it is.
+L406419 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ Yes, I have, and I hope you will forgive me, Duroc, but unless your visit is extremely urgent, I shall have to ask you to excuse me until tomorrow.
+L406418 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ Indeed you have, Ambassador.  Have you sent for a doctor?
+L406417 +++$+++ u2249 +++$+++ m144 +++$+++ SCHWARZENBURG +++$+++ Ah, good evening, my dear Duroc. I'm afraid I've been out hunting and I have had a rather bad fall.
+L406416 +++$+++ u2233 +++$+++ m144 +++$+++ DUROC +++$+++ Good heavens, Ambassador -- what has happened?
+L406023 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ You realize, of course, that thousands of swords have been collected.  How do you expect me to find yours?
+L406022 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ My father's sword means more to me than any other possession I have.
+L406021 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Well, then, you have a lot of initiative, my young friend.
+L406020 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ No, sir.
+L406019 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Does your mother know you have come?
+L406018 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ He said no one had the authority to rescind the order except you.
+L406017 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ And he sent you to me?
+L406016 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ I told the Lieutenant my late father was General Alexander de Beauharnais, and asked if there was any consideration that might be given to his memory.
+L406015 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ A sword is a weapon whatever else you might wish to use it for.
+L406014 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ This morning, a Lieutenant and three soldiers came to our house and asked if we had weapons.  I explained we had only my late father's sword, which, in fact, was not a weapon but only a keepsake of memory.
+L406013 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ That is correct.
+L406012 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ I believe you issued an order that all citizens of Paris must hand over any weapons that they have in their possession.
+L406011 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I have met her.  What is your business with me?
+L406010 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ Yes, sir.  Are you acquainted with her?
+L406009 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I am, Citizen.  Is your mother Madame Josephine de Beauharnais?
+L406008 +++$+++ u2234 +++$+++ m144 +++$+++ EUGENE +++$+++ Good morning, sir.  Are you General Bonaparte?
+L406007 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Good morning, Citizen de Beauharnais.
+L406359 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Ah, well, that is the first rule of warfare.  You must wear long-sleeved and long-legged underwear.  You can never conjure up brilliancies with a cold bottom.
+L406358 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ No -- not as a rule.
+L406357 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Francis, may I ask whether you wear warm winter underwear?
+L406356 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ Thank you, Napoleon.
+L406354 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I'll have the fire built up.
+L406353 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ Thank you.
+L406352 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Would you like some brandy?
+L406351 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ I'm afraid I am, just a bit.
+L406350 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My dear Francis, you do seem extremely uncomfortable.
+L406349 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ But he asked me to say...  on his behalf... that your achievements have increased his...  admiration for you, and that he believes... your success is predestined by heaven...  and that his army...
+L406348 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I see.
+L406347 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ I'm afraid he has been rather upset by the outcome of the battle.
+L406346 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh...?
+L406345 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ I very much doubt that he will.
+L406344 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Will Alexander be joining us soon?
+L406343 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ Yes -- an excellent idea.
+L406342 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Shall we move closer to the fire?
+L406341 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ You have made such excellent use of it; I should think you will hate to leave it.
+L406340 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I'm sorry that I am unable to offer you better hospitality, but this is the only place I have inhabited for the past month.
+L406339 +++$+++ u2235 +++$+++ m144 +++$+++ FRANCIS +++$+++ I fear our meeting is long overdue... Napoleon.
+L406338 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Ah, my dear Francis, what a genuine pleasure it is to meet you at last.
+L405901 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh, yes... of course.
+L405900 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Please, sir, come into bed or I shall die of a chill.
+L405899 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ That's a very nice name.  Where are you from?
+L405898 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Lisette La Croix.
+L405897 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Only Lisette?
+L405896 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Lisette.
+L405895 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ What's your name?
+L405894 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh, I'm sorry about that.
+L405893 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Br-rrr, these sheets are like ice.
+L405892 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Do you have three francs, sir?
+L405891 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Uh-hh... yes, of course -- if you would like to go... there... but... I have very little money.
+L405890 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Would you like to take me there, so that we can get warm, sir?
+L405889 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Well, it must be a good deal warmer than it is here on the street.
+L405888 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Is it a nice warm room, sir?
+L405887 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ No... I have a... room... at the Hotel de Perrin.
+L405886 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Are you staying with a friend, sir?
+L405885 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ No, I'm only here on leave.  My regiment is at Valence.
+L405884 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ One must take life as it comes -- do you live in Lyon, sir?
+L405883 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Oh, I see... That must be a great burden.
+L405882 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Well, one must do something to live, you know -- and I have an elderly mother who depends on me.
+L405881 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Then what brings you out on such a night?
+L405880 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Yes, I am, sir.
+L405879 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ You must be chilled to the bone, standing out of doors like this.
+L405878 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Yes, it must be.
+L405877 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Yes, it is.  It must be one of the worst nights we have had this winter.
+L405876 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ The weather is terrible, isn't it, sir?
+L405875 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Good evening, Mademoiselle.
+L405874 +++$+++ u2237 +++$+++ m144 +++$+++ GIRL +++$+++ Good evening, sir.
+L406251 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Only as a last resort.  What are the Councils doing now?
+L406250 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ Will you use the troops?
+L406199 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My dear Joseph, the only thing that is clear is that my wife is a slut -- and while a man may want a slut for his mistress, he does not want her for his wife.
+L406198 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ She will probably appear with a dozen excuses and you will forgive her anyway.
+L406197 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I have no idea.  Her maid said she left two days ago, to meet me -- I can imagine where she is.  But when she finally does come home, she will find her things in the street and my door locked.
+L406196 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ When is she supposed to return?
+L406195 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Well, you shall see.
+L406194 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ Of course not, but such violence of feeling makes me wonder.
+L406193 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Are you trying to insult me?
+L406192 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ Are you sure that you are not still in love with her?
+L406191 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My mind is made up.  She will not set foot in my house again.  I think if I saw her again, I might be tempted to strangle her.
+L406190 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ But you can do the same thing in six months.  The next few weeks may be the most important ones in your life.
+L406189 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ It is time to clarify the situation. Everything is over between us.
+L406188 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ You must not act impetuously.
+L406187 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ The comedy of my marriage is sufficiently well known already.
+L406186 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ You can't be serious.  It would not be good to become another husband out of a Moliere farce.
+L406185 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I know of no better time.
+L406184 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ You know I am only too happy to be of help to you, but surely this isn't the ideal moment to involve yourself in such matters.
+L406183 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ The important thing is to find the right lawyer.  One who will not protract the thing indefinitely, in the courts.
+L406092 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ And you, Junot?
+L406091 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ Yes, of course, I would.  You know I am not one of your wife's greatest admirers, but I certainly know nothing about this.
+L406090 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ You would tell me, Joseph, wouldn't you?
+L406089 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ No -- Captain Charles commanded the cavalry escort, and rode outside the carriage.  In the evenings, he always ate at another table.  They hardly ever spoke to each other.
+L406088 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Not even the slightest hint of something?
+L406087 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ No... nothing at all.
+L406084 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Junot?
+L406083 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ No...
+L406082 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Naturally, one does not take much stock in such a piece of filth but, on the other hand, it is not the sort of thing one can simply ignore. What do you think, Joseph?
+L406081 +++$+++ u2238 +++$+++ m144 +++$+++ JOSEPH +++$+++ To Citizen General Bonaparte from one who does not wish to see him dishonored by his wife.  You should know, Citizen General, that your wife has taken a lover, one Captain Hippolyte Charles... undated and unsigned.
+L406080 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I would like both of you to read this.  Please read it aloud.
+L406470 +++$+++ u2239 +++$+++ m144 +++$+++ JOSEPHINE +++$+++ Ah, well, my dear Madame de Montesquiou, peace of mind can eventually be a substitute for happiness.
+L406469 +++$+++ u2243 +++$+++ m144 +++$+++ MONTESQUIOU +++$+++ And, you seem in excellent health, Your Highness.
+L406468 +++$+++ u2239 +++$+++ m144 +++$+++ JOSEPHINE +++$+++ Ah, that is good.
+L406467 +++$+++ u2243 +++$+++ m144 +++$+++ MONTESQUIOU +++$+++ I rarely see him, Your Highness, but I believe he is in excellent health, and he is very happy with the child.
+L406466 +++$+++ u2239 +++$+++ m144 +++$+++ JOSEPHINE +++$+++ Oh... I see.  I understand.  How is... the Emperor?
+L406465 +++$+++ u2243 +++$+++ m144 +++$+++ MONTESQUIOU +++$+++ I am delighted to be of service to you again, Your Highness.  And I can tell you, my instructions came directly from the Emperor, with a caution to be discreet.
+L406464 +++$+++ u2239 +++$+++ m144 +++$+++ JOSEPHINE +++$+++ Ah, my dear Madame de Montesquiou, you have no idea what happiness it brings me to see this child, at last.  I was told the very idea of such a visit would too much distress the Empress.

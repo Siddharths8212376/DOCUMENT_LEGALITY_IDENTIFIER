@@ -1,0 +1,200 @@
+L500569 +++$+++ u7578 +++$+++ m512 +++$+++ EDITOR +++$+++ Well?
+L500568 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Cover it?
+L500567 +++$+++ u7578 +++$+++ m512 +++$+++ EDITOR +++$+++ Of course you don't know anything about it. If you knew anything about it, I wouldn't have to send you over there to cover it.
+L500566 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I don't know anything about it.
+L500565 +++$+++ u7578 +++$+++ m512 +++$+++ EDITOR +++$+++ Out in the woods. Three bodies. Decomposed. Mutilated. Beyond recognition.
+L500662 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Tell you what. If you do remember seeing any of these guys, maybe you could give me a phone, on this number, any time you like.
+L500661 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Right.
+L500660 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ I see.
+L500659 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What? Uh, no, no, it's a fake. I picked it up in Thailand. The second hand doesn't sweep, you see.
+L500653 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yes.
+L500652 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Just one thing.
+L500651 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Oh, no problems. Don't worry.
+L500650 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Sorry to waste your time.
+L500649 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ That's all?
+L500648 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ That's it, then.
+L500647 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ No, not any more. I just wondered if it would surprise you.
+L500646 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Parked outside?
+L500645 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ What?
+L500644 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Well, is it?
+L500643 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yes, I suppose so.
+L500642 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ And if I told you their car was parked outside, would that surprise you?
+L500641 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I don't know them.
+L500640 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Take another look at these two.
+L500639 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I've never seen any of these men before.
+L500638 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Well, then?
+L500637 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No. Why should it?
+L500636 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ That's because he is. Does that upset you?
+L500635 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ It looks like he's writing everything down.
+L500634 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ What does it look like?
+L500633 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Are you recording it?
+L500632 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ This is just an informal discussion.
+L500631 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Is this being recorded?
+L500360 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Nothing. We thought you were someone else.
+L500359 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ What?
+L500003 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ So tell me, Cameron, what on earth -- just tell me, because I want to know -- what on earth could make you think that we would want to share a flat like this with someone like you?
+L500002 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ Well, yes.
+L500001 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Spacious, quiet, bright, well appointed, all that sort of stuff, all that crap.
+L500000 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ Yes.
+L499999 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yes. It is, isn't it? We alllike it. And the room's nice too, don't you think?
+L499998 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ Oh, yes, it's great.
+L499997 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ And you like it?
+L499996 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ Yes.
+L499995 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Good. Well, you've seen the flat?
+L499994 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ Yes, thanks.
+L499993 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Well, Cameron, are you comfortable?
+L499992 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What?
+L499991 +++$+++ u7575 +++$+++ m512 +++$+++ CAMERON +++$+++ That's right.
+L500711 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Let him go. Let him take it all.
+L500710 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Stop him, Alex. You've got to stop him.
+L500605 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No.
+L500604 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Don't you ever stop?
+L500603 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Don't worry about it. I'd do exactly the same, but I don't think I'm his type.
+L500602 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ You mustn't take it so badly.
+L500601 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ The perfect couple, I should say.
+L500600 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ It's about me and David.
+L500596 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ That's what I thought he said.
+L500595 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ It makes us feel a whole lot better.
+L500590 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Oh, shut up, Alex.
+L500589 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Of course, but I think you'll find the print medium provides a more lucid and detailed --
+L500585 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ We were just sorting things out.
+L500584 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I don't know. I thought maybe I was --
+L500583 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yes, of course. Why wouldn't I be?
+L500582 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Are you all right?
+L500532 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ As smart as you are, you'll need a little help.
+L500531 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What?
+L500530 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Alex.
+L500529 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Everything. Except maybe that it was his idea and not mine in the first place. OK? That's important to me. I need to die misunderstood.
+L500528 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Everything.
+L500527 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ And if it sounds like I'm being killed, you'll phone the police, you'll tell them everything?
+L500526 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I'll wait there.
+L500525 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You'll wait in the hall?
+L500490 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No, I'm not frightened. A little terrified maybe. Did you see what happened to the last two who tried that? They went up alive and they came down dead -- the difference, I mean, alive dead dead alive, that sort of thing. It wasn't difficult to spot. He killed them both: he cut them up.
+L500489 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ You're frightened.
+L500488 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I refuse.
+L500487 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ It's the only way.
+L500486 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No, definitely not. And that's that. I refuse to discuss it further.
+L500475 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Well, I'm not expecting anyone either.
+L500474 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Aren't you going to answer it?
+L500473 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Oh.
+L500472 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No.
+L500471 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Expecting anyone?
+L500470 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Forget it -- he'll come down.
+L500469 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Now you thought of that, not me.
+L500468 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Where he can't get it?
+L500467 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ We could put it somewhere.
+L500466 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ And the money?
+L500465 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ He isn't safe up there. If you really cared about him, you'd use your influence to get him down, then he'd be safe.
+L500464 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Forget it.
+L500463 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ He won't do anything for me, but for you --
+L500462 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Oh, good.
+L500461 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Exactly. Now I've been thinking --
+L500460 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ David?
+L500459 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Later. But first -- him.
+L500458 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Your painful groin?
+L500457 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ We have to talk.
+L500456 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ What are you doing here?
+L500455 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Boy, am I glad to see you.
+L500451 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Looking after it -- he's probably fucking well eating it.
+L500450 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No, but he's looking after the money, so what's the problem?
+L500449 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yeah, he's got to go to work, hasn't he? You think he'll come down for that?
+L500448 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ He'll come down. Leave him alone.
+L500447 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ He can't stay up there.
+L500446 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Leave him alone.
+L500440 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Because that's no good. Remember, we did what we did, we took the money. It was a material calculation. But what's the use if it's underground, or in some funny bank in some funny place? If you can't spend it, if you can't have it, what use is it? None. It's nothing, all for nothing, if you do that. I didn't get into this for nothing, so that I could have nothing --
+L500439 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I don't see the point in that.
+L500436 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Don't you?
+L500435 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You know we're right.
+L500434 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Be like a weight off your shoulders.
+L500433 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Once it's spent you won't have to worry about it.
+L500432 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ He's right. You'd feel much better about it.
+L500431 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You know, you should spend some of that money instead of worrying about it. That's my advice.
+L500420 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I don't want it to taste different. I don't know why I bother. Is that enough for you? Hey!
+L500419 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ It tastes different.
+L500418 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I hope it tastes better than the other stuff.
+L500417 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No, no, it's different.
+L500416 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Is this the same stuff you made last week?
+L500390 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yeah, you're making us all nervous.
+L500389 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Will you calm down.
+L500385 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Then let's spend some money.
+L500384 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No.
+L500383 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Are you all right?
+L500382 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Don't know. No one said anything. ALEX Rendered speechless with desire. I recall that feeling, from the days when I had such a thing.
+L500381 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Who was it?
+L500380 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Hello. Hello.
+L500378 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You were magnificent.
+L500377 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Well, you certainly had a good look around.
+L500358 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yes, it is. It's him. Cameron, Cameron, come on over.Yo!
+L500357 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ That's not him.
+L500356 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What's he doing here?
+L500355 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No, I don't.
+L500354 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Cameron. You remember Cameron.
+L500353 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Who?
+L500352 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Look over there. It's Cameron.
+L500351 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ It's not for me. It's for love and happiness forever.
+L500350 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ David, I promise we will. Keep him happy.
+L500344 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ For ever and ever.
+L500343 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Love and happiness for ever.
+L500328 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I want my money back. Excuse me.
+L500327 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Sshh.
+L500324 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I don't know why we couldn't stuff it in a mattress or put it under the floor like any normal human being. We could have hid it in the fridge.
+L500323 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Stop nagging.
+L500322 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Yeah, we don't want another stiff on our hands. Don't fall through the ceiling. OK? Is he listening to me?
+L500321 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Be careful.
+L500306 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ David?
+L500305 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ OK.
+L500304 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Whoever draws the short straw does it all. That way, you either do it or you don't. All or nothing.
+L500296 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ And now you tell me.
+L500295 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I don't want to. It's different.
+L500294 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ But you're a doctor. You kill people every day.
+L500293 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I don't thinkI can.
+L500292 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I thought we all were.
+L500291 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Who's going to do it?
+L500226 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Is that all?
+L500225 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Unfeasible.
+L500224 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What?
+L500223 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No, Alex. It's, it's --
+L500211 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Old newspaper proverb says dead human being is living story. Be rational, please, and failing that be quiet.
+L500210 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Thats not a story, Alex. It's a corpse.
+L500209 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ It's not every day I find a story in my own flat.
+L500208 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No.The guy's dead.What more do you need?
+L500207 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Why not? What's wrong, Juliet? Aren't you curious? Don't you wonder what he died from?
+L500206 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No.
+L500205 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Don't look?
+L500204 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Don't.
+L500203 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I'm just looking.
+L500202 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ What are you doing?
+L500201 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What? What's wrong?
+L500200 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Alex.
+L500199 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I wonder how he killed himself. I presume that that's what happened. What do you think?
+L500198 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Did what?
+L500197 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I wonder how he did it?
+L500193 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ All right. No problem.
+L500192 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yes.
+L500191 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Now?
+L500190 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yes.
+L500189 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You want me to kick it open?
+L500188 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Open it.
+L500187 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ So?
+L500186 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Alex, the key is in the keyhole on the other side.
+L500185 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Hugo. Hugo. Sorry about this, but can you open the door? It's us, Hugo, your flatmates and companions. Your new-found friends. He's not in. He's left and we'll probably never see him again.
+L500184 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ A blue one, OK. And it's still there.
+L500183 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I will ask you once more, what sort of car --
+L500182 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Alex, how shouldI know? I'm just a girl.
+L500181 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ What sort of car?
+L500180 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ So what's wrong with that?
+L500179 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ He's got a car?
+L500178 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ His car's still there.
+L500177 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Hugo.
+L500176 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ David?
+L500175 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Maybe he didn't like us.
+L500174 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ So I gathered.
+L500173 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ David hasn't seen him either.
+L500167 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ No. Any idea which channel he's on?
+L500166 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Have you seen Hugo?
+L500158 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No, Alex, we don't really love you.
+L500157 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ You see, they don't really know me.
+L500156 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ You're right.
+L500155 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ I think you're lying.
+L500154 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yeah.
+L500153 +++$+++ u7574 +++$+++ m512 +++$+++ ALEX +++$+++ Know and love?

@@ -1,0 +1,200 @@
+L240207 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ That's "Peck!"
+L240206 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Mr. Mayor, it's a pretty simple choice. You can believe Mr. Pecker here ...
+L240197 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Probably a mixture of gases, no doubt stolen from the Army ...
+L240196 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ The man is a psychopath, Your Honor.
+L240157 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ See!  They are using drugs.
+L240156 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You turned off the power!  Look, there was another man here ... You have to find him and bring him back.  A short determined-looking guy with the eyes of a happy zombie.
+L240132 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Forget it, Venkman.  You had your chance to cooperate but you thought it was more fun to insult me.  Now it's my turn, smart-ass.
+L240131 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ At ease, Officers.  I'm Peter Venkman.  I think there's been some kind of misunderstanding here and I want to cooperate in every way I can.
+L239995 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Hey!  Make yourself useful!  Go save a tree!
+L239994 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Have it your way, Mr. Venkman.
+L239993 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Go ahead!  Get a court order.  Then I'm gonna sue your ass off for wrongful prosecution.
+L239992 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Well, because I'm curious.  I want to know more about what you do here.  Frankly, there have been a lot of wild stories in the media and we want to assess any possible environmental impact from your operation. For instance, the storage of noxious, possibly hazardous waste materials in your basement.  Now either you show me what's down there or I come back with a court order.
+L239991 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Why do you want to see it?
+L239990 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ May I please see the storage facility?
+L239989 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ The magic word is "please."
+L239988 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And what is the magic word, Mr. Venkman?
+L239987 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Because you didn't say the magic word.
+L239986 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And why not, Mr. Venkman?
+L239985 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ No, you may not.
+L239984 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And may I see this storage facility?
+L239983 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Yes, it would.
+L239982 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And would this storage facility be located on these premises?
+L239981 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ In a storage facility.
+L239980 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And where do you put these ghosts once you catch them?
+L239979 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I'm not at liberty to say.
+L239978 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ And how many ghosts have you caught, Mr. Venkman?
+L239977 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You could say that.
+L239976 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ I see.  And now you catch ghosts?
+L239975 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I have Ph.D's in psychology and parapsychology.
+L239974 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Exactly what are you a doctor of, Mr. Venkman?
+L239973 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Yes, I'm Doctor Venkman.
+L239972 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ Are you Peter Venkman?
+L239971 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Great!  How's it going?
+L239970 +++$+++ u1146 +++$+++ m75 +++$+++ PECK +++$+++ I'm Walter Peck.  I represent the Environmental Protection Agency, Third District.
+L239969 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Can I help you?
+L239565 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Then my theory was correct.
+L239564 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ I'll tell you the effect!  It pisses me off!
+L239563 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I'm studying the effect of negative reinforcement on ESP ability.
+L239562 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ Yeah, but I didn't know you were going to give me electric shocks.  What are you trying to prove?
+L239561 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You volunteered, didn't you?  Aren't we paying you for this?
+L239560 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ Hey!  I'm getting a little tired of this.
+L239559 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Sorry.  This isn't your day.
+L239558 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ Two wavy lines?
+L239557 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Well, just 75 more to go.  What's this one?
+L239556 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ Yes.  I don't like this.
+L239555 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Nervous?
+L239549 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Close -- but definitely wrong.
+L239548 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ Circle?
+L239543 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Good guess -- but no.
+L239542 +++$+++ u1148 +++$+++ m75 +++$+++ SOPHOMORE +++$+++ A square?
+L239541 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ All right.  What is it?
+L239902 +++$+++ u1151 +++$+++ m75 +++$+++ STREET PUNK +++$+++ Wow!
+L239901 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ On Earth -- no.  But on Krypton we could slice him up like Oscar Mayer Bologna.
+L239900 +++$+++ u1151 +++$+++ m75 +++$+++ STREET PUNK +++$+++ Wait!  Wait!  Let me ask you something.  If you like shot Superman with those guns, would he feel it or what?
+L239899 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I couldn't do that.  You might hurt someone.
+L239898 +++$+++ u1151 +++$+++ m75 +++$+++ STREET PUNK +++$+++ Yeah, yeah.  I just want to see 'em.
+L239897 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ They're not guns.  They're particle throwers.
+L239896 +++$+++ u1151 +++$+++ m75 +++$+++ STREET PUNK +++$+++ Hey, Mister!  Can I see those guns?
+L239828 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ When you were in the bathroom, did you notice anything that was yellow and unusually smelly?
+L239827 +++$+++ u1154 +++$+++ m75 +++$+++ WOMAN +++$+++ You're a regular Sherlock Holmes.  Now what do you want?
+L239826 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ The wet towels, residual moisture on your lower limbs and hair, the redness in your cheeks indicating ...
+L239825 +++$+++ u1154 +++$+++ m75 +++$+++ WOMAN +++$+++ What on earth gave you that idea?
+L239824 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Were you recently in the bathroom?
+L239823 +++$+++ u1154 +++$+++ m75 +++$+++ WOMAN +++$+++ Yes?
+L240302 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ But it's my favorite state.
+L240301 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Life is just a state of mind.
+L240300 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ No!  You said crossing the beams would be BAD.  It'll kill her!  And us!
+L240299 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ No!  Them!  Shoot them!  Cross the beams.
+L240298 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ On the count of three!  One ... Two ...
+L240289 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Full-stream with strogon pulse.
+L240288 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ What now?
+L240184 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Get a grip on yourself, Egon.  I talked to Dana Barrett and she referred to Gozer as the Destructor.
+L240183 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ You talked to Gozer?
+L240182 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Gozer.
+L240181 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Who?
+L240180 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ She said he was "the Destructor."
+L240179 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Yes.  After the First World War Shandor decided that society was too sick to survive.  And he wasn't alone.  He had close to a thousand followers when he died.  They conducted rituals, bizarre rituals, intended to bring about the end of the world.
+L240178 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Let me guess -- Gozer Worshippers.
+L240177 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Of course!  Ivo Shandor,  I saw his name in Tobin's SPIRIT GUIDE.  He started a secret society in 1920.
+L240153 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Oh, shit!
+L240152 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Where's the Keymaster?
+L240134 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ If you turn that thing off we won't be responsible for the consequences.
+L240133 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ He wants to shut down the storage grid.
+L240113 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ All right, Peter.  Good night.
+L240112 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I'll spend the night here and get back first thing in the morning.
+L240111 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ All right.  I'll try.
+L240110 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You have to keep him there.  Do whatever you have to, but don't let him leave,  He could be very dangerous.
+L240109 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I agree.
+L240108 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Yeah, yeah.  I was just thinking.  It probably wouldn't be a good idea for them to get together at this point.
+L240107 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Some.  I just met the Keymaster.  He's here with me now.  Venkman?  Are you there?
+L240106 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I don't think so.  It's more of that Gozer thing.  She says she's the Gatekeeper.  Does that make any sense to you?
+L240105 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Does she want to be?
+L240104 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I'm with Dana Barrett and she's floating three feet off the bed.
+L240103 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ What is it?
+L240102 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ It's Peter, Egon.  I've got a problem.
+L239858 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ It's hard to explain, but try to imagine all life as you know it stopping instantaneously and finding yourself confined forever in another dimension.
+L239857 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ What do you mean "bad?"
+L239856 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Trust me.  It will be bad.
+L239855 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Why not?
+L239854 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Don't cross the beams.
+L239853 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ What?
+L239852 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Wait!  Wait!  There's something I forgot to tell you.
+L239819 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Yeah, I can smell it.
+L239818 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Something was definitely here.
+L239780 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Didn't see anything,  Didn't get anything. Nice girl - no ghost.  I'm starting to worry.  You said your graph was pointing to something big.  You told me things were going to start popping.
+L239779 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Did you see anything?
+L239718 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ She's telling the truth -- or at least she thinks she is.
+L239717 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Generally, you don't see that kind of behavior in a major appliance.  What do you think, Egon?
+L239656 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Will you guys relax?  We are on the threshold of establishing the indispensable defense science of the next decade - Professional Paranormal Investigations and Eliminations.  The franchise rights alone will make us wealthy beyond your wildest dreams.
+L239655 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Just for your information, Ray, the interest payments alone for the first five years come to over $75,000.
+L239629 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Wow!
+L239628 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I'm always serious.
+L239627 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Spengler, are you serious about actually catching a ghost?
+L239589 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Egon, somehow this reminds me of the time you tried to drill a hole in your head.  Do you remember that?
+L239588 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Oh, this is big, Peter.  This is very big. There's definitely something here.
+L239587 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ What have you got, Egon?
+L239586 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Oh!  You're here.
+L240272 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ That appears to be the case.
+L240271 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ You mean if I stand here and concentrate on the image of Roberto Clemente, Gozer will appear as Roberto Clemente and wipe us out?
+L240170 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ And look at this, Peter  Cold-riveted girders with selenium cores.
+L240169 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Look at the structure of the roof cap.  It looks exactly like the kind of telemetry tracker NASA uses to identify dead pulsars in other galaxies.
+L240151 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ The storage facility blew.  This one ...  ... shut off the protection grid.
+L240150 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ What happened??!!!?
+L240000 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I'm worried, Ray.  It's getting crowded in there.  And all my recent data points to something big on the bottom.
+L239999 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I need two new purge valves.  How's the grid around the storage facility holding up?
+L239998 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I've got to sleep.
+L239997 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Neutronize.  System shut.
+L239996 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Set entry grid.
+L239869 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Easy ... Easy ... I'm going to throw in my trap now.
+L239868 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ It's working!
+L239832 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ God, it's ugly!
+L239831 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Ray!  Where are you?  Are you all right?
+L239817 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ We'd better adjust our streams.
+L239816 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Sorry, Buddy!
+L239811 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ I blame myself.
+L239810 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I just realized something.  We've never had a completely successful test with any of the equipment.
+L239722 +++$+++ u1149 +++$+++ m75 +++$+++ SPENGLER +++$+++ Or even a race memory, stored in the collective unconscious.  And I wouldn't rule out clairvoyance or telepathic contact either.
+L239721 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ You know, Peter, this could be a past life experience intruding on the present.
+L240287 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Great!  The marshmallows are about to get their revenge.
+L240286 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ The Stay-Puft Marshmallow Man!  He was on all the packages we used to buy when I was a kid.  We used to roast Stay-Puft marshmallows at Camp Waconda!
+L240285 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ AND YOU CAME UP WITH THAT?
+L240280 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Look!
+L240279 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ What?  What popped in there?
+L240278 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I couldn't help it!  It just popped in there!
+L240262 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Forget the trapping!  Just blast him!
+L240261 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Agile bastard, isn't he?
+L240255 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Well, that ought to do it.
+L240254 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ As a duly-constituted representative of the City of New York, and on behalf of the County and State of New York, the United States of America, the Planet Earth and all its inhabitants, I hereby order you to cease and desist any and all supernatural activity and return at once to your place of origin or next parallel dimension.
+L240252 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I don't think it's Shandor.
+L240251 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ It doesn't seem to have slowed him down any.
+L240176 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ He's listed on the blueprints as I. Shandor.
+L240175 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Who was the architect?
+L240174 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ No!  Nobody ever built them like this!  The architect was either an authentic whacko or a certified genius.  The whole building is like a huge antenna for pulling in and concentrating psychokinetic energy.
+L240173 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I guess they don't build them like they used to, huh?
+L240006 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ It's not good, Pete.
+L240005 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Egon, how's the grid around the storage facility holding up?
+L239956 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ I can't take much more of this.  The pace is killing me.
+L239955 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Boy, that was a rough one.
+L239845 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I don't know.  I'm just guessing.
+L239844 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ How do you know?
+L239843 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Don't move.  It won't hurt you.
+L239842 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ It's here, Ray.  It's looking at me.
+L239841 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Well, hurry up.  The needle's going wild.
+L239840 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Sit tight.  I'm on my way.
+L239839 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Third floor.  Get down here,
+L239838 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Where are you, Pete?
+L239837 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Ray -- Something's here.
+L239822 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ All right.  Let's cool the negative vibes. These things can sense them.
+L239821 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ So far all we got is a shit smell on the twelfth floor and we almost fried a Puerto Rican bellboy.
+L239820 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ I'm getting high readings near the air vents.  It must be using the duct system to get around.  See, I told you we'd get something.
+L239814 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Sure.  Each of us is wearing an unlicensed nuclear accelerator on our back.  No problem.
+L239813 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ No sense worrying about it now.
+L239812 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ So do I.
+L239782 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Do you know when that might be?  We're on the brink of a very serious cash-flow problem.
+L239781 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ They will.
+L239778 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ It wasn't a date.  It was an investigation.
+L239777 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ How was your date?
+L239730 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Good idea.  Were any other words spoken that you remember?
+L239729 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Why don't I check out the building?  It may have a history of psychic turbulence.
+L239697 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Fourteen hundred.
+L239696 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Do you think it's wide enough?  How much?
+L239695 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Everybody can relax.  I found the car.  How do you like it?
+L239663 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ This might do ... I don't know ... it just seems kind of "pricey" for a fixer-upper, don't you think?  We're trying to keep our costs down.  You know how it is when you're starting a new company.
+L239662 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Wow!  Does this pole still work?
+L239658 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Maybe.  But no one ever advertised before.
+L239657 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ But most people are afraid to even report these things.
+L239654 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ But at nineteen percent interest!  You didn't even bargain with the guy.
+L239653 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You're not going to lose the house. Everybody has three mortgages these days.
+L239652 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ My parents left me that house, I was born there.
+L239651 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You'll never regret this, Ray.
+L239649 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ To go into business for ourselves.
+L239648 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ For what purpose?
+L239647 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Let me tell you, Ray, everything in life happens for a reason.  Call it fate, call it luck, Karma, whatever.  I think we were destined to get kicked out of there.
+L239646 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ Do you know what a patent clerk makes?  I liked the University.  They gave us money, they gave us the facilities and we didn't have to produce anything!  I've worked in the private sector.  They expect results. You've never been out of college.  You don't know what it's like out there.
+L239645 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ You're always so worried about your reputation.  We don't need the University. Einstein did his best stuff while he was working as a patent clerk.'They can't stop progress.
+L239644 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ This is like a major disgrace.  Forget M.I.T. or Stanford now ... they wouldn't touch us with a three-meter cattle prod.
+L239642 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Ray, I apologize.  I guess my confidence in the Regents was misplaced.  They did this to Galileo, too.
+L239641 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ You said you floored 'em at the Regents' meeting.
+L239633 +++$+++ u1152 +++$+++ m75 +++$+++ VENKMAN +++$+++ Yeah, but I introduced you guys.  You never would've met if not for me.  That's got to be worth something.
+L239632 +++$+++ u1150 +++$+++ m75 +++$+++ STANTZ +++$+++ If anyone deserves it, it's Spengler and me. We're doing all the hard research and designing the equipment.

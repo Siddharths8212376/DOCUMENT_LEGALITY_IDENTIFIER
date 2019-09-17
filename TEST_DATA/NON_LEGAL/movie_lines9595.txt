@@ -1,0 +1,200 @@
+L80917 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Do you know Raphael?
+L81201 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I like this attic very much.
+L81200 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Fine. They felt that since you had such close ties with the President, you would be a splendid choice.  ... Can I help you? Are you looking for something?
+L81199 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I would like to be on that show.
+L81198 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Of course. They would like you to appear on the show tonight. The Vice President was scheduled, but he had to cancel, and they asked if you would be interested.
+L81197 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I have seen that show on television.
+L81196 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Morton Hull, the producer of 'This Evening' just called.
+L81195 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh, yes.
+L81194 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Oh, Mr. Gardiner, I've been looking all over.
+L81169 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81168 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Would you care to take it, sir?
+L81167 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you.
+L81166 +++$+++ u4009 +++$+++ m266 +++$+++ MRS. AUBREY +++$+++ Mr. Gardiner, I have a telephone call for you. Sidney Courtney, the financial editor of the Washington Post.
+L81628 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I've been looking for you, too, Eve.
+L81627 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, Chauncey, darling... Where have you been? We thought we'd lost you - we've been looking all over!
+L81625 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Eve.
+L81624 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey! Chauncey!
+L81577 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ That's very interesting, Eve.
+L81576 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Dearest, you uncoil my wants; desire flows within me, and when you watch me my passion dissolves it. You set me free. I reveal myself to myself and I am drenched and purged.
+L81567 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... But I've never done...  ... You mean...? When... When... When I do it? ... When I touch myself...?
+L81566 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It's very good, Eve.
+L81565 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Is that all you want...?  ... To watch me...?
+L81564 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I like to watch.
+L81563 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ To watch...? To watch me...?
+L81562 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I like to watch.
+L81561 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I just don't excite you at all... I don't know what you want... I don't know what you like...
+L81557 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you.
+L81556 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Come in, Chauncey - please come in...
+L81555 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. Ben is very wise.
+L81554 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I feel so close to you, so safe with you, Chauncey...  ... And Benjamin understands that, dearest... He understands and accepts my feelings for you...
+L81542 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ It must be the punch, and it is stuffy in here -- I feel it a little myself. You're an angel, my dear - thank God there are still men like you around to give aid and comfort.
+L81541 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ He was very ill, I stayed with him for a while.
+L81540 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Upstairs? Chauncey, you're always involved in some sort of discussion...
+L81539 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I was with a man. We went upstairs.
+L81538 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey, where have you been? I was afraid you got bored and left, or that you were with some mysterious woman.
+L81387 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Dennis.
+L81386 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey, this is Mr. Dennis Watson of the State Department.
+L81385 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81381 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Eve.
+L81380 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I've never seen anyone handle the media as well as you, Chauncey. You're so cool and detached - almost as if you were born to it.
+L81359 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... I guess I may as well be honest about my feelings, Chauncey, as I know you are I am in love with you... I love you and I want you... And I know that you know it and I'm grateful that you've decided to wait until... Until...
+L81358 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. That could be true.
+L81357 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I know you are, Chauncey...  ... You conquer a woman from within herself, you infuse in her the need and desire and the longing for your love.
+L81356 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. I'm very glad that you didn't open.
+L81355 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... I'm grateful to you, Chauncey... I would have opened to you with a touch, and you know that...  ... But you're so strong - I can trust myself with you. I'm glad, Chauncey - I'm glad that you showed so much restraint...
+L81354 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. I know that.
+L81353 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... You know, Chauncey... I want us to be...  I want us... You and I to become... close... I want us to become very close, you know...?
+L81352 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Eve. I like you to be here.
+L81351 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I know...  ... So are you, Chauncey ...  ... Do you mind my being here, like this?
+L81350 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I like the President. He is a very nice man.
+L81349 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Well, it seems you've been described as one of the architects of the President's speech. And your own comments from the 'This Evening' show are quoted side by side with the President's.
+L81348 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Eve. I don't read the papers.
+L81347 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey! Have you seen the papers?
+L81328 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Good night, Eve.
+L81327 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Good night, Chauncey.
+L81326 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... I have very few friends, Chauncey... And Benjamin's friends are all quite a bit older...
+L81325 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see.
+L81324 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh. Well, we can fix up one of Ben's for you tomorrow night. Sophie insists an Black Tie.
+L81323 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, thank you.
+L81322 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... You don't happen to have a tuxedo in your suitcase, do you?
+L81219 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I know you do - you and your television...  ... Good luck, Chauncey.
+L81218 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ That's good. I like to watch, too.
+L81217 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ He's tired, Chauncey - but he's going to watch you tonight. We'll both be watching.
+L81216 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ How is Ben feeling?
+L81215 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ And Benjamin sends along his best wishes.
+L81214 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Eve.
+L81213 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey, I just wanted to wish you well. I know you'll be smashing.
+L81212 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Eve.
+L81211 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey...
+L81171 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. You'll be all right.
+L81170 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I'll be all right, Chauncey you go ahead with Mrs. Aubrey...
+L81162 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ So am I, Eve.
+L81161 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... I'm...  ... I'm very grateful that you're here, Chauncey...  ... With us ...
+L81156 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Yes, so do we.
+L81155 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh, I like that very much.
+L81154 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Our greenhouse.
+L81153 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ What is that?
+L81152 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Of course.
+L81151 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh, no. She brought me my meals.
+L81150 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, his maid!... Stupid me, I thought perhaps she was someone that you may have been romantically involved with.
+L81149 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I liked Louise very much. She was his maid.
+L81148 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I'm sorry...  ... And what about Louise? YOU mentioned that she had gone, were you close to her also?
+L81147 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I was.
+L81146 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Forgive me, Chauncey - I didn't mean to pry. You must have been very close to him.
+L81145 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... Mentor...?
+L81144 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, I see... Your mentor, perhaps?
+L81143 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ He was a very wealthy man, he looked after me since I was young.
+L81142 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Was he a relative? Or an intimate friend?
+L81141 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81140 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Chauncey... Last night you mentioned an old man, that died.
+L81139 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Yes, he is. I'm sorry I didn't get to see him.
+L81138 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Fine. He's very nice.
+L81137 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Good. I'm glad to hear that.  ... How did you like meeting the President?
+L81136 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It's feeling much better now.
+L81135 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Your leg must be getting better.
+L81134 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Eve.
+L81133 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey!
+L80998 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Good night, Eve.
+L80997 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Good night, Chauncey.
+L80996 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ That's good.
+L80995 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Why... No, I don't think so...
+L80994 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Are you going to leave and close the house when he dies?
+L80993 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ He does...?
+L80992 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I like Ben very much... He reminds me of the Old Man...
+L80991 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Yes... I know, Chauncey.
+L80990 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Ben is very ill, Eve - I've seen that before.
+L80989 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... And Ben is just mad about you - you've lifted his spirits so - it's just... Well, it's just a real pleasure having you with us.
+L80988 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Eve - I like this house very much.
+L80987 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey, I wanted to tell you how dreadful I feel about the accident today, but that I'm delighted that you are staying with us.
+L80961 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I am a very good gardener.
+L80960 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, I know exactly what you mean. I sometimes enjoy puttering around myself, such a pleasant way to forget one's troubles.
+L80950 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I like it here.
+L80949 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I hope that staying here won't be an inconvenience for you.
+L80942 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. The Old Man died and Louise left.
+L80941 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Would you like us to notify anyone for you?
+L80940 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. It won't do that.
+L80939 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Won't your injury prevent you from attending to business, Mr. Gardiner?
+L80836 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I admire that in a person. As for myself, I find there is so much to assimilate that it can become quite muddling at times...
+L80835 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L80834 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I can see that it must be very important for you to stay informed of all the latest events.
+L80833 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I like to watch. This is fine.
+L80832 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... I'll feel so relieved after Dr. Allenby examines your leg. After that, David can run you on home, or to your office or wherever you'd prefer...  ... Is there anything special you would like to watch?
+L80831 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh... Well, I'm very sorry...
+L80830 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I lost my remote control.
+L80829 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Did you lose something?
+L80828 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh. Well, they're just a wonderful couple, we've been friends for years. We visit their island quite often.
+L80827 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Eve. I'm not related to Basil and Perdita.
+L80826 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh... Mr. Gardiner... Mr. Chauncey Gardiner... You're not related to Basil and Perdita Gardiner are you?
+L80825 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I'm a gardener.
+L80824 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Pardon me, was that Mr. Chance?
+L80823 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ My name is Chance.
+L80822 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ May I ask your name?
+L80821 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Eve.
+L80820 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, by the way - I'm Eve Rand.
+L80819 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh? Certainly...
+L80818 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I would like to watch television.
+L80817 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Thank you.
+L80816 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Would you care for a drink?
+L80814 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Fine, it will save a lot of unnecessary fuss and it will be so much more pleasant for you...  David, we'll just go on home. Jeffrey, would you call and let them know?
+L80813 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I agree.
+L80812 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Yes. My husband has been very ill. His doctor and nurses are staying with us. Those hospitals can be so impersonal - why, it might be hours before you are treated...
+L80811 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Your family doctor?
+L80810 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I see.  ... Say, would you mind seeing our family doctor?
+L80809 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ It's feeling better, but it's still very sore.
+L80808 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Why, yes, he is... Is your leg feeling any better?
+L80807 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. He's a very careful driver.
+L80806 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ These can be such trying situations everyone seems to make such a to-do over a simple little accident. Of course, they can be very frightening, and I must apologize for David, he's never had an accident before.
+L80805 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I am.
+L80804 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I hope you're comfortable.
+L80793 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Why, there certainly is. You must see a doctor, I insist on it. Please, let us take you.
+L80792 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ There's no need for a hospital.
+L80791 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Won't you let us do something for you? Your leg should be examined, we could take you to a hospital.
+L81185 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I have nothing more to say.
+L81184 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ I see. Then one more quick question, Mr. Gardiner; since we at the Post would like to, uh - update our profile on you - what exactly is your business?
+L81183 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, that is correct. I think you should ask Mr. Rand that.
+L81182 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Of course. But since he is ill I'm taking the liberty of asking you.
+L81181 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I think you should ask Mr. Rand that.
+L81180 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Good, sir. And so, it seems, did the President - but we would like to have some facts; such as, uh... What exactly is the relationship between yourself and that of the First American Financial Corporation?
+L81179 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ The President is a nice person. I enjoyed it very much.
+L81178 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Then, I'll be brief. I covered the President's speech at the Financial Institute today, and since the Post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between Mr. Rand, the President and yourself.
+L81177 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I'm not busy.
+L81176 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ I'm sorry to disturb you, Mr. Gardiner, I know you must be very busy.
+L81175 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Sid.
+L81174 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Hello, Mr. Gardiner. This is Sid Courtney, Washington Post.
+L81230 +++$+++ u4002 +++$+++ m266 +++$+++ HULL +++$+++ I'm glad you like it, Mr. Gardiner.
+L81229 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It's a very good show.
+L81228 +++$+++ u4002 +++$+++ m266 +++$+++ HULL +++$+++ Do you realize, Mr. Gardiner, that more people will be watching you tonight than all those who have seen theater plays in the last forty years?
+L81227 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see.
+L81226 +++$+++ u4002 +++$+++ m266 +++$+++ HULL +++$+++ Of course, Mr. Gardiner, the fact that you occupy such a position in the world of finance makes you ideally suited to provide our millions of viewers with an explanation of this nation's economic crisis.
+L81225 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Morton.
+L81224 +++$+++ u4002 +++$+++ m266 +++$+++ HULL +++$+++ Mr. Gardiner, I'm Morton Hull, the producer of 'This Evening.'
+L81525 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ Your foot! Give me your foot!!
+L81524 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see.
+L81523 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ I don't want Robert.
+L81522 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Do you need a doctor? I could call Robert...
+L81521 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ Really? Really!!!
+L81520 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I do, it's very good.
+L81519 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ ... Are you sure you like it?
+L81518 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It's very tiny, but it's good.
+L81517 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ Do you like it?
+L81516 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, very well, thank you.
+L81515 +++$+++ u3996 +++$+++ m266 +++$+++ DENNIS' VOICE +++$+++ Can you see well?
+L81453 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you.
+L81452 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ We must speak again, Mr. Gardiner, many times!
+L81451 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. That would be good.
+L81448 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ And yours, sir - Chauncey Gardiner!  How poetic! Chauncey, a name of uncertain meaning! And Gardiner, a bit of the French, a suggestion of a stroll through the flowers! A beautiful name, my friend!
+L81447 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I like that name very much.
+L81446 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Ho! Ho! A dash of American humor! Vladimar Skrapinov!
+L81445 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, it is.  Would you tell me your name again, please?
+L81444 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Yes, it is very good!
+L81443 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh, good.
+L81442 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ So you know your Krylov in Russian, do you? Mr. Gardiner, I must confess I had suspected as much all along - I know an educated man when I meet one!
+L81441 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ So you know Krylov!
+L81440 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Do you think so? Do you think so?
+L81439 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Yes. Tell me, Mr. Gardiner - do you by any chance enjoy Krylov's fables? I ask this because there is something... there is something Krylovian about you.
+L81438 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I certainly do.
+L81437 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Bravo! Bravo! Our chairs are indeed almost touching! And we want to remain seated on them, correct? We don't want them snatched from under us, am I right? Because if one goes, the other goes, and then - boom! Boom! And we are both down before our time, you see? And neither of us wants that, do you agree?
+L81436 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ We are not far...  ... our chairs almost touch.
+L81435 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ And I have noticed in you a certain reticence regarding political issues - so why not a coming together? An interchange of opinion? We may find, my friend, that we are not so far from each other, not so far!
+L81434 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I understand.

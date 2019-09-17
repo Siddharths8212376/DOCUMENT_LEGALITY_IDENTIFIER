@@ -1,0 +1,200 @@
+L473087 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Sure I do.  You heard him, you heard the guy -- that's what he said, what Edvard said.
+L473086 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Then quit.  You don't work for Interpol, Sam.
+L473085 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's my job.
+L473084 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Continue when it would be so much easier to give it up.
+L473083 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Do what?
+L473082 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Tell me, Sam: why do you do this?
+L473081 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ If Tony says this is it, then it's it.
+L473080 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You sure your friend got the right place?
+L473079 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Thorough man.
+L473078 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ The address of the Russian production company.  Just in case we need to find them.
+L473077 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What's this?
+L473076 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Yes.
+L473075 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ The Irish representative?
+L473069 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I know of him.
+L473068 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You know him?
+L472988 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Good.  Now take the forceps, and remember, Vincent, what we're doing here is routine.  I've done stuff like this at least twenty times in the field.  There are no vital organs where you're working, no major muscles or arteries -- you can't kill me.  Just make sure you've got the bullet before you try to pull it out.
+L472987 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Clearly.
+L472986 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You see the bullet?
+L472985 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Alright, it's done.
+L472962 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Yes I do.
+L472961 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You don't have to do this.
+L472960 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ It isn't about money for me, not anymore.
+L472959 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ This doesn't involve you, don't you understand?  I can't even guarantee you any money out of all this.
+L472958 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I'm going with you.
+L472957 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ We?  There is no we in my world now, Vincent, just me.
+L472956 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ It looks to me like we're all that's left of our group.
+L472955 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ My job, Vincent, a job you don't need to know about.  I can't go to the local cops -- they'd never be able to get close enough at this point.  It's me or nobody, and I've been on this job too goddamned long not to finish.
+L472954 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ And what job is that?
+L472953 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ If I was a cop, a real cop, I'd have busted you a long time ago.  This isn't about you, it's about the job I have to do.
+L472952 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You're with Interpol -- you're a cop.
+L472951 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Not exactly.
+L472950 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Fix it yourself?  Why are we even doing this?  There's no need to run, Christ...  You're a cop.
+L472949 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ No hospitals.  I'll fix this myself if I have to.
+L472948 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ No...I thought I'd take you to the hospital.
+L472947 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You know one around here?  Somebody you trust?
+L472946 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You see it your way, I'll see it mine. You need a doctor.
+L472945 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I didn't save your life back there. Risked it, maybe -- but I didn't save shit.
+L472944 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ That makes twice now you've saved my life.
+L472936 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ But you can't.
+L472935 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You're a cop...you're a fucking cop...I should kill you.
+L472889 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's Paris.  The route's too indirect for anything else.  A guy like Gregor, he doesn't waste time on this road unless he has to be on it in the first place. Otherwise, he'd be out of the country by now.  He's going to Paris.  Now I just hope we can find him before he gets there.
+L472888 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Not necessarily.  He could go off road at any number of places.  He might not even be in the country anymore.
+L472887 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ He's going back.
+L472881 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You might be a hired gun, Vincent, but I got a feeling you cost more than two bits.
+L472880 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I never really thought I was part of the world you move in, Sam, to tell you the truth.  I'm a hood, a thief.  Big time in a small time king of way.  To the local police I'm a prize, to the local hoods I'm a legend.  But to a guy like you I'm just another two bit hired gun.
+L472879 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ We live in a singular world, my friend.
+L472878 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I won't lie -- there have been times when I had to do it, times when the only way to get out alive was to see that the other man didn't.
+L472877 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You don't.  You just learn to live with it.
+L472876 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I haven't.  Not like that.  How do you get used to it?
+L472875 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I've seen a lot of people die before.
+L472874 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ A lot of people died.
+L472873 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It was at that.
+L472871 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I have a feeling I'm about to start buying my own.
+L472870 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Of course...whenever you feel like it just help yourself.
+L472869 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I borrowed that, too...
+L472868 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Please, help yourself.  Smoke as many you'd like.
+L472867 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I hope you don't mind I took your pack. It was on the table.
+L472866 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You were smoking?
+L472865 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I came up here to sneak a smoke.
+L472864 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You weren't around when I woke up, I thought maybe something had happened.  This has been one very fucked up job, Sam, and I'm not taking any more chances on anybody...  Including you...
+L472863 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What's going on?
+L472830 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Gregor's cell phone...
+L472829 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ The question still remains: what do we do now?
+L472723 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Because that's what I would have done...
+L472722 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ But how did you know I would have the presence of mind to pull my weapon when I did?
+L472721 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I saw you look off when Francois nodded his head.  I figured he wasn't pointing out a particularly rare shrub, and the rest was easy.
+L472720 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ That there was a gun pointed at me.
+L472719 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Know what?
+L472718 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ How did you know?
+L472717 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Well I ain't a cop.
+L472716 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I needed to see if you were a cop.  I'm a popular man with the police, Sam, and whenever they try to catch me they always do it with an inside guy -- some man on some job who seems more trustworthy than all the others put together.  And that's the guy you have to watch out for.  I hate cops...
+L472715 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You know, what you pulled back there, that was bullshit.
+L472703 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You need to know a lot of shit, Vincent.
+L472702 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I needed to know.
+L472697 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ See what?
+L472696 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I just wanted to see something.
+L472695 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What's going on?
+L472687 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ They'd have to keep something like this under lock and key in New York, and it would still get fucked up.
+L472686 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Lovely, isn't it?
+L472685 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Whatever it is it must be goddamned priceless.
+L472684 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ They certainly are.  Whatever it is we're going to steal, it must be quite something.
+L472683 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ That's right: there's not hardly enough work these days, nothing that pays the big money, anyhow.  Then along comes this job, paying so much goddamned money I couldn't afford not to take it.  Somebody's paying through the nose for this.
+L472682 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You were once some kind of special forces.  Airborne Ranger, maybe a Navy SEAL.  After that you rode shotgun for the CIA in some place like El Salvador or Afghanistan, a real mercenary.  Only now -- now you're like the rest of us, it's a very competitive market since the end of the cold war.  There's a lot of hired guns out here, and not nearly enough work to go around.
+L472681 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Who am I?
+L472680 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I wanted to see who you were.
+L472679 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I've wondered that myself.  None of this answers my question, though...  Why bring me?
+L472678 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I wonder if she truly left the IRA.
+L472677 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Deirdre?  Smart, yeah, and seriously goddamned dangerous.
+L472676 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ So is the woman.
+L472675 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Watch that one, he's an ex-spook for sure, maybe Stasi, maybe KGB.  He's smart, Gregor is.
+L472674 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Let's just say I thought the conversational possibilities were limited.  Of course, I might have brought Gregor, but he didn't seem like the right candidate -- for this.
+L472673 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Exactly.  Why not bring them?
+L472672 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Like Larry or Swede.
+L472671 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ So, Vincent: why bring me along for the ride?  Job like this calls for a warm body, somebody who can stand around and look threatening.  A tough guy.
+L472670 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ There is that.
+L472669 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It has it's moments.  Course, you get cancer and die, that's the down side.
+L472668 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Christ, I smoke a pack-and-a-half a day, and I tell myself I could be worse.  It's just so damned pleasurable.
+L472667 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I do.
+L472666 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ A cigarette?  As in one?  One cigarette a week, who smokes like that?
+L472665 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I have, I don't know, maybe a cigarette a week.
+L472664 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Help yourself.  Since when do you smoke?
+L472662 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ One's a lot more painful than the other.
+L472661 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ What's the difference?
+L472660 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Not at all.  Similar, but not the same.
+L472659 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Same thing, isn't it?
+L472658 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Jujitsu.
+L472657 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ That was a nice move you did on our young friend.  Judo?
+L472656 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I asked if we could give him anything else.
+L472655 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What'd you say to him?
+L472651 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I don't.  But the language he's speaking is universal.
+L472650 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I didn't know that you spoke French.
+L472649 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ And I suppose he's saying that we oughta give them something for using it, huh?
+L472648 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Something like that...
+L472647 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ As in, they own it?
+L472646 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ He says this is their block.
+L472644 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ That's what I thought.
+L472643 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Pretty much what you'd expect.
+L472640 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I can do that.
+L472639 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ To see a man about a thing.
+L472638 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Where to?
+L472605 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Things.  This is my country, you know.
+L472604 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Coordinate what?
+L472603 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I'm Vincent.  And I coordinate.
+L472573 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Let's just say he knows who I am.
+L472572 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ He trusts you to lock up?
+L472571 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ No thanks.
+L472570 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Cigarette?
+L472569 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I know cops -- and you're no cop.
+L472568 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Perhaps the police?
+L472567 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Who else would you be?
+L472566 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ What makes you think we're here to meet you?
+L472565 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Sorry I'm late...
+L473067 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Seamus Reilly.
+L473066 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Last I heard there was a film rep for the Irish players staying at this address, name of Seamus Reilly.
+L473065 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Gonna be tough.
+L473064 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's the Irish tape we want.
+L473063 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Cause the Russian production company would be easier to find.
+L473062 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Why's that?
+L473059 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I'm sure.
+L473058 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ You sure?
+L473057 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Gaelic.
+L473050 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ It's an international thing.  Several different peoples involved, criminals from all over the world, experts brought together to do a job.  But maybe the most interesting thing about it is that preeminent in the plot we find the Russian Mob and the IRA in bed together. An unlikely group of partners.
+L473049 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What's the story?
+L473135 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ You slept with the fucker!!
+L473134 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You put everything on the line because you...
+L473133 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ You should have kill him when you had the chance.  But no...
+L473132 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You slept with her!
+L473130 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ How is it these fellahs managed to get the drop on us?
+L473129 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You slept with her!
+L473128 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ Why didn't you kill him?
+L473127 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Why didn't you kill her?
+L473074 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ It's a matter of respect.  Why don't you wait outside, this won't take long.
+L473073 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ I gotta try and overcharge him, he has to moan about the price, we settle somewhere in the middle.
+L473072 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Tony and I have to talk some business, first.
+L473071 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I get the picture.
+L473070 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Seamus Reilly, boy's a serious Irish Auteur -- a real firebrand.  Thinks his more moderate filmmaking brethren have turned to making movies for peace-loving pussies, if you see what I'm saying.
+L473061 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ The Russian would be easier.
+L473060 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Can you get it?
+L473056 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ All depends on whether you want the Russian or the Gaelic language version.
+L473055 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You said you might know where we can get a copy of this tape?
+L473054 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ What I've heard so far, it's all a lot of talk.  I wasn't so sure what to make of it at first, cause, like I said, the Irish and the Russians are an unlikely mix.
+L473052 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ I might know where you could get a copy.
+L473051 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Do you have the tape?
+L473048 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Matter of face there's this flick I've been hearing about.  I haven't seen it, but from what I hear it's pretty cool.
+L473047 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I was wondering if you had any movies that were particularly new.
+L473045 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Why don't we step into my office...
+L473044 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ A friend.  I was telling him about how you always have the latest tapes.
+L473043 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ Doing well.  This is?
+L473042 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I'm alright.  And you?
+L473041 +++$+++ u7322 +++$+++ m494 +++$+++ TONY +++$+++ My man, how you doing?
+L476127 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Don't lie to me!!!!
+L476126 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I don't know what you're -
+L476125 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Shut up!  Not another word out of you!  You're going down, the Feds know all about it!  You didn't know some of it was marked, did you! Where's the rest?
+L476124 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Dwayne listen to me -
+L476123 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I should kill you right here! I never thought you'd do this to me but I guess there's a lot I didn't know about you!
+L475831 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I can't get enough of it.
+L475830 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Whatsamatter with you?  Aren't you concerned about all of this?
+L475485 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I want to get some hounds down here.
+L475484 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Damn.
+L475473 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ None of them had any --
+L475472 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I'd like to know what they were doing in my town!  Did you get ID off any of them?
+L475464 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Looks like some kind of drug deal or something, they're not from around here --  one of them's still alive.
+L475463 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What the hell happened here?
+L475314 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Hey Dwayne why don't you introduce him to your funeral parlor cousin?
+L475313 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Sort of!
+L476165 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Rock solid.
+L476164 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ And you're solid on that?
+L476163 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Uh huh.
+L476162 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ That'll bring me down, too. Eventually.  You gotta know that.
+L476158 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I can't.  I can't go on.  I can't keep lying...killing.  That's not me.  That's not US.
+L476157 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Just one more.  This one knocks off all the rest.
+L476156 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ It's not about the money anymore. Can't you see that?  It's about
+L476155 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ You're the one who's nuts! There's no one left to touch us, Booth.  We're home free!  We just plant a little of the money on Dwayne, and it's all ours.
+L476153 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yes it is.  I'm calling it in.  Right now.
+L476152 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ It's NOT too late!
+L476151 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ It's too late...
+L476148 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Dwayne had the opportunity, just like us.  He was at the scene.  He grabbed the cash.  Of course.  This is perfect!
+L476147 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ What are you talking about?
+L476145 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ I know, I know.  Dwayne's dead, but we can deal with it.  We'll pin it on him.  The DEA was driving Jesse's car. No car phone.  No radio.  They couldn't have called me in.
+L476144 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Dwayne's dead.

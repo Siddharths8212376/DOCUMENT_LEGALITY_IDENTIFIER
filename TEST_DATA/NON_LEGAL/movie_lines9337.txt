@@ -1,0 +1,200 @@
+L455167 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ On my knife.
+L455166 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ How?
+L455165 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I cut myself.
+L455164 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ You're hand is bleeding.
+L455163 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't know.
+L455162 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ Well who did?
+L455161 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No.
+L455160 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ You didn't just smash up the bathroom?
+L455159 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No.
+L455158 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ Did you do it?
+L455157 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yeah.
+L455154 +++$+++ u2522 +++$+++ m163 +++$+++ MANAGER +++$+++ Just have you for one second, please.
+L455153 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Why?
+L454815 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I thought I was just gonna be connected to talk to a girl - that's fine, ok, I'm sorry, it's, um.....818....
+L454814 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ It's a call back service -- a girl will call you back.
+L454813 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No I just....I don't want to, I just want to be connected to talk to a girl.
+L454812 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ That's fine. Can I have a telephone number, area code first on where we can call you back?
+L454811 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I just don't want anyone to know it's me.
+L454810 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ You want her to call you Jack?
+L454809 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Can you say that my name is Jack?
+L454808 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ No one will know your name.
+L454807 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ 337-09-9876. But I don't want anyone to know my name.
+L454806 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ It's ok, take your time.
+L454805 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ 337.....I'm sorry....
+L454804 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ Of course, it's just for us to verify your credit card information. It's completely confidential and it appears on your credit card billing statement as D&D Mattress Man.
+L454803 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ -- and this is confidential?
+L454802 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ It's just for verification through the credit card company.
+L454801 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ What's that for?
+L454800 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ And your Social Security number.
+L454799 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Barry Egan.
+L454798 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ And your name?
+L454797 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ .....1274 Moorpark. Sherman Oaks, California. #4. 91403.
+L454796 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ And your billing address and the name as it appears on the card?
+L454795 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ...3407 2627 3444 8095 expiration 05/04.
+L454794 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ Of course. Would you like to talk to a girl? I can connect you with a beautiful girl if I can just get your credit card number followed by the expiration date?
+L454793 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ It's....confidential, the call, my information is private.
+L454792 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ What do you mean?
+L454791 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ......and this is confidential?
+L454790 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ -- it's $2.99 per minute for the first half hour and $1.99 per minute after that.
+L454789 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Can I ask how much is this?
+L454788 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ Can I have your credit card number, followed by the expiration date?
+L454787 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes it is.
+L454786 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ Hi, is this your first time calling?
+L454785 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hello, how are you?
+L454784 +++$+++ u2524 +++$+++ m163 +++$+++ OPERATOR GIRL +++$+++ Hi, this is Janice The Operator, who's this?
+L455486 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Thank you.
+L455485 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ That's that.
+L455484 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Can we agree that that is that?
+L455483 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes I did.
+L455482 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ You came all the way from Los Angeles to tell me that?
+L455481 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I'm a nice and reasonable man. I didn't do anything wrong. Please don't make me hurt you. And I'm telling you: that if you ever hurt me or if you hurt someone that I love.....I will hurt you many, many, many times over.....because it's not right to take people's trust.
+L455471 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ You just told me to fuck off. That wasn't good. You're dead.
+L455470 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ YOU FUCK OFF. YOU FUCK OFF AND DIE I WILL HURT YOU FOR HURTING HER. YOU HURT HER.
+L455469 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ I'll say whatever I want --
+L455468 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ NO. NO. DON'T YOU SAY THAT.
+L455467 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ You better watch your mouth, cunt, you're gonna get hurt.
+L455466 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ You are bad. You are a bad person. you are a bad person and you have no right to take people's confidence in your service --
+L455465 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ Now are you threatening me, dick?
+L455464 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ CALM DOWN SHUT THE FUCK UP AND CALM DOWN SHUT SHUT SHUT UP SHUT UP --
+L455463 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ YOU GO FUCK YOURSELF. YOU GO FUCK YOURSELF. YOU GO FUCK YOURSELF. MY LOVE WAS HURT, SHE GOT HURT. I AM IN LOVE WITH HER AND YOU HURT YOU AND YOU ARE GONNA FUCKING GET HURT. YOU DON'T TOUCH HER, I LOVE HER.
+L455462 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I haven't even told you what's happened. Your girl that you have that works there for you threatened me and two men just chased me -- extorted money -- DEAN Go fuck yourself that shit doesn't have anything to do with me - this is a legitimate bossiness.
+L455461 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ I said calm down and shut the fuck up. What's your problem?
+L455460 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ What?
+L455459 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ Why don't you shut the fuck up?
+L455458 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hello, my name is Barry Egan and I called your service --
+L455457 +++$+++ u2515 +++$+++ m163 +++$+++ DEAN +++$+++ Who is this?
+L454646 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ....I have seven.
+L454645 +++$+++ u2513 +++$+++ m163 +++$+++ CUSTOMER +++$+++ How many sisters do you have?
+L454641 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ .....Well yes I do....  But one more thing I wanted to tell you guys about the new plungers is that we're making the handles now in a non-breakable material called.....
+L454640 +++$+++ u2513 +++$+++ m163 +++$+++ CUSTOMER +++$+++ I didn't know you had a sister?
+L454639 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Sorry about that.
+L454613 +++$+++ u2513 +++$+++ m163 +++$+++ CUSTOMER +++$+++ I think you have a call?
+L454612 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes.....we do ask for....30 to 60 days....
+L454610 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ We back our plungers 100% and we do ask for a 30 to 60 day display on the floor.....
+L454609 +++$+++ u2513 +++$+++ m163 +++$+++ CUSTOMER +++$+++ You do guaranteed sale? etc.
+L454781 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't know if there's anything wrong with me because I don't know how other people are.....Sometimes I cry a lot.....for no reason.
+L454780 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ You want a number for a psychiatrist, I can get you one, that's not a problem. but what exactly is wrong?
+L454779 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't have anyone to talk to things about and I understand it's confidential with a doctor - I'm embarrassed about that and I don't want my sisters to know?
+L454778 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ Like a psychiatrist?
+L454777 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I know that. Maybe you know other doctors?
+L454776 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't like the way I am sometimes.  Can you help me? WALTER Barry, I'm a dentist, what kind of help do you think I can give you?
+L454775 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ Yeah.
+L454774 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I wanted to ask you because you're a doctor, right?
+L454773 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ It's alright.
+L454772 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ And I'm sorry that I did that.
+L454771 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ Mhm.
+L454770 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Well I'm sorry. Before...
+L454769 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ What's up?
+L454758 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ Maybe you said that because you're hungry.....
+L454757 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ That was weird. I meant good.
+L454756 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ Yeah.
+L454752 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Business is very food, thanks. ELIZABETH What's very food?
+L454751 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ How's business?
+L454750 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hi Walter.
+L454749 +++$+++ u2528 +++$+++ m163 +++$+++ WALTER +++$+++ How you doin' Barry?
+L455456 +++$+++ u2520 +++$+++ m163 +++$+++ LATISHA +++$+++ Ok. You're connected.
+L455455 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Fine, thank you.
+L455454 +++$+++ u2520 +++$+++ m163 +++$+++ LATISHA +++$+++ Ok, sir....I'm gonna put you through to my supervisor.
+L455445 +++$+++ u2520 +++$+++ m163 +++$+++ LATISHA +++$+++ Can you hang on a second?
+L455444 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ That's not true. That's not true at all. You said that your name was Georgia and you said our conversation was confidential and I trusted you and you kept calling and asking me for money, c'mon now I want to talk to your owner, your supervisor, whoever runs this, you understand. Please connect me now.
+L455443 +++$+++ u2520 +++$+++ m163 +++$+++ LATISHA +++$+++ ...no....I don't....I don't remember you. Who's this?
+L455442 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ My name is Barry Egan and I spoke to you....you called me, you remember?
+L455441 +++$+++ u2520 +++$+++ m163 +++$+++ LATISHA +++$+++ This is Janice the operator, who's this?
+L455323 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No, no, no, no, nO, NO, NO!
+L455322 +++$+++ u2525 +++$+++ m163 +++$+++ OPERATOR VOICE +++$+++ It takes time to process --
+L455321 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ How am I supposed to know what to do if you don't say it -- if it's not in your rules and regulations in your fine print how am I supposed to know how to be with this --
+L455320 +++$+++ u2525 +++$+++ m163 +++$+++ OPERATOR VOICE +++$+++ I'm sorry.
+L455319 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I had this whole thing in my head, I was gonna be able to get this to you today -- I have to leave today --
+L455318 +++$+++ u2525 +++$+++ m163 +++$+++ OPERATOR VOICE +++$+++ It takes that much time to process the order and make sure it's valid --
+L455317 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No, no, no, no, no. What do you mean? It doesn't state anywhere about six to eight weeks.
+L455491 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Well I had to go to Utah...but now I'm here and I'll be right back.
+L455490 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Where you been?
+L455328 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Let's just figure that out later --  Ok. I gotta go. I'm just gonna go now and I'll call you from there, you're in charge 'till I get back. And don't tell my sisters anything? He exits.
+L455327 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Yeah.
+L455326 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ....now: this pudding?
+L455313 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ That's funny.
+L455312 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Yeah.
+L455311 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ You know you can get places in the world with pudding. That's funny.
+L455297 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Ok.
+L455296 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Alright: And I have to go and buy some more pudding for this trip to Hawaii and as I just said that out loud I'm realizing it sounds a little strange but it's not. So can you come and help me out?
+L455295 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Ok.
+L455294 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yeah but you can't tell my sisters that.
+L455293 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Wow, you're goin' to Hawaii, that's great -- you're goin -- ?
+L455292 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I'm going to go to Hawaii but you can't tell my sisters that.
+L455291 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Where you goin?
+L455290 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Ok. Well. I'm gonna go out of town. I'm going to go out of town just for two days...
+L455285 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ....I made a call.....  ....and, uh....
+L455284 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ What happened?
+L455283 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I think I got in trouble. A little bit of trouble....
+L455282 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ What's up?
+L454997 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I have to talk to you in a second about that, Lance, ok?
+L454996 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ You talkin' to me about Ramada Inn?
+L454995 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I'll tell you...the guy...with...just talk to me later about it, ok?
+L454994 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Which guy in Toledo are you talking about?
+L454936 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ...I'll tell you later.
+L454935 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ WHICH?
+L454934 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ It's not a piano. LANCE! LANCE! MAKE SURE THAT YOU CALL THAT GUY IN TOLEDO.
+L454914 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Let's just leave it there for now.
+L454913 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ So what should I do with the pudding?
+L454912 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No thanks.
+L454911 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ You should go on a trip.
+L454910 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No.........but airline miles are just like a currency these days.
+L454909 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ You're goin' on a trip?
+L454908 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ That's part of a very interesting airline promotion giveaway that's really tremendous. I'm going to start a collection of pudding and coupons that can be redeemed for frequent flyer miles through Healthy Choice and American Airlines --
+L454907 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ What's with all this pudding, what is this?
+L454906 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hi, Lance.
+L454905 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Good morning, Barry....
+L454608 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ...it just....I don't know....I don't know.
+L454607 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Why is it here? Barry....Barry?
+L454605 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ That's not a piano.....I have a piano at home.....where'd you get it?
+L454604 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't know. I think it's a piano....a small piano.
+L454603 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ What is this?
+L454602 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ ....yes.....
+L454601 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Yeah.....you got here early huh?
+L454600 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Um....I bought one. I thought maybe it would be nice to get dressed for work, can I show you something?
+L454599 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Why you wearin' a suit?
+L454598 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes I'm fine.
+L454597 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ You ok?
+L454596 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hey...Lance....can I.....
+L454595 +++$+++ u2519 +++$+++ m163 +++$+++ LANCE +++$+++ Hey, good morning, Barry.
+L455277 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ You know, please, I just wanna say that I didn't say I would help her out; I was very clear about it....I don't think that this is fair.....wait, wait, wait, ouch, ouch.....
+L455276 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ Ok. This is what you get when you're a pervert -- you said you'd help someone out and you didn't so we're just getting some money for her and that's that.
+L455272 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Alright, alright.
+L455271 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ HEY. You made a fucking sex call and now you're gonna pay. It's not a big thing -- just give us some money and then it's over -- we'll just walk down to the ATM and get your money out --
+L455266 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ No.
+L455265 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ You have another house somewhere or something?
+L455264 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes.
+L455263 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ Is this where you live?
+L455262 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes.
+L455261 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ You have an ATM?
+L455260 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Nothing....I mean, really...change, nothing....that's the cash I have....
+L455259 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ What do you have in the house?
+L455258 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ It's three hundred and twenty dollars, just take it.
+L455257 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Just take it, take the money in my pockets, take it, it's fine --
+L455256 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ How much money do you have in your pockets?
+L455255 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Whoa...whoa...wait, wait -- don't please....
+L455254 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ It's just you need to give me the money...do you have it right now?
+L455253 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Please don't do this.
+L455252 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ No, no, no, no c'mon man, don't make it a thing --
+L455251 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Wait a minute --
+L455250 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ You made a phone call and you said you'd help a girl out and then you didn't....I'm here to get the money.
+L455249 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ You gotta give me some money.
+L455248 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ What?
+L455247 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ I need to talk to you for a second.
+L455246 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Hi.
+L455245 +++$+++ u2514 +++$+++ m163 +++$+++ DAVID +++$+++ Hey.
+L455307 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I'm sorry, I know. I know that it's....
+L455306 +++$+++ u2512 +++$+++ m163 +++$+++ CHECK OUT GIRL +++$+++ This is a bunch of bullshit.
+L455305 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Each pudding cup has to be scanned individually so that...it's for a giveaway...a product giveaway by this company...
+L455304 +++$+++ u2512 +++$+++ m163 +++$+++ CHECK OUT GIRL +++$+++ Well....what do you want, then?
+L455303 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes. Sorry.
+L455302 +++$+++ u2512 +++$+++ m163 +++$+++ CHECK OUT GIRL +++$+++ Are you serious with this?
+L455301 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I'm sorry.
+L455300 +++$+++ u2512 +++$+++ m163 +++$+++ CHECK OUT GIRL +++$+++ What is this, man?
+L455299 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ They need to be scanned individually. They each have a bar code, so I need it scanned individually so that each and every cup appears on the receipt...
+L454730 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ Yes, yes, right.
+L454729 +++$+++ u2518 +++$+++ m163 +++$+++ KATHLEEN +++$+++ Yes you do. We were calling you Gay Boy and you got so mad....
+L454728 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I don't really remember that.
+L454679 +++$+++ u2511 +++$+++ m163 +++$+++ BARRY +++$+++ I won't.
+L454678 +++$+++ u2518 +++$+++ m163 +++$+++ KATHLEEN +++$+++ Don't puss out.

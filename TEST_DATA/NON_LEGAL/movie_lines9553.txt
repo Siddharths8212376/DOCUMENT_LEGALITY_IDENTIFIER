@@ -1,0 +1,200 @@
+L47465 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Goodbye, Mr. Baxter.
+L47464 +++$+++ u3733 +++$+++ m246 +++$+++ MATUSCHKA +++$+++ Come on, Fran.
+L47463 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You fool -- you damn fool.
+L47458 +++$+++ u3733 +++$+++ m246 +++$+++ MATUSCHKA +++$+++ Why did you take sleeping pills?
+L47457 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Because I took some sleeping pills. But I'm all right now -- so let's go.
+L47456 +++$+++ u3733 +++$+++ m246 +++$+++ MATUSCHKA +++$+++ What for?
+L47436 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ This is my brother-in-law, Karl Matuschka.
+L47435 +++$+++ u3733 +++$+++ m246 +++$+++ MATUSCHKA +++$+++ What's with you, Fran -- did you forget where you live?
+L46888 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ Always happy to do something for our girls in uniform.
+L46887 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Well -- thank you.
+L46885 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ What for? You haven't done anything -- it's him -- what a salesman -- always the last booth in the Chinese restaurant -- and the same pitch about divorcing his wife -- and in the end you wind up with egg foo yong on your face.
+L46884 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Will you excuse me?
+L46883 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ And before me there was Miss Rossi in Auditing -- and after me there was Miss Koch in Disability -- and just before you there was Miss What's-Her-Name, on the twenty- fifth floor --
+L46882 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't know what you're talking about.
+L46881 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ So you don't have to play innocent with me. He used to tell his wife that I was the branch manager from Seattle -- four years ago when we were having a little ring-a-ding- ding.
+L46880 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes, I know.
+L46879 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I beg your pardon? MISS OLSEN I'm Miss Olsen -- Mr. Sheldrake's secretary.
+L46878 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ Hi. How's the branch manager from Kansas City?
+L47587 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'd spell it out for you -- only I can't spell.
+L47586 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ What are you talking about?
+L47585 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't know. I guess that's the way it crumbles -- cookie-wise.
+L47584 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ That little punk -- after all I did for him! He said I couldn't bring anybody to his apartment -- especially not Miss Kubelik. What's he got against you, anyway?
+L47583 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ The nerve.
+L47582 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Just walked out on me -- quit -- threw that big fat job right in my face.
+L47581 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ He wouldn't.
+L47580 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ He wouldn't give me the key to the apartment.
+L47579 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Baxter?
+L47578 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I didn't plan it this way, Fran -- actually, it's all Baxter's fault.
+L47577 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Ring out the old year, ring in the new. Ring-a-ding-ding.
+L47576 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I know it's a drag -- but you can't find a hotel room in town -- not on New Year's Eve.
+L47575 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Atlantic City?
+L47574 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I rented a car -- it's going to be here at one o'clock -- we're driving to Atlantic City.
+L47573 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ All set for what?
+L47572 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Sorry it took me so long on the phone. But we're all set.
+L47331 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ There you go again -- you know I didn't mean it that way, Fran. Just get well -- do what the nurse tells you -- I mean Baxter -- and I'll see you as soon as I can. Bye, Fran. 
+L47330 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Of course I'm not here -- because the whole thing never happened -- I never took those pills -- I never loved you -- we never even met -- isn't that the way you want it?
+L47329 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Are you there, Fran?
+L47328 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Fran, why did you do it? It's so childish -- and it never solves anything -- I ought to be very angry with you, scaring me like that -- but let's forget the whole thing -- pretend it never happened -- what do you say, Fran?  Fran --
+L47327 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Hello, Jeff.  Yes, I'm all right.
+L46971 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ It won't always be like this.  I love you, Fran.
+L46970 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sure. Monday and Thursday -- and Monday again -- and Thursday again --
+L46969 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Don't forget to kill the lights. See you Monday.
+L46968 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You run along -- I want to fix my face.
+L46967 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Coming?
+L46966 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You'll miss your train, Jeff.
+L46965 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Stop that, Fran.
+L46964 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ A hundred dollars? I wouldn't call that cheap. And you must be paying somebody something for the use of the apartment --
+L46963 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Don't ever talk like that, Fran! Don't make yourself out to be cheap.
+L46962 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Okay.  I just thought as long as it was paid for --
+L46959 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I have a present for you. I didn't quite know what to get you -- anyway it's a little awkward for me, shopping --  -- so here's a hundred dollars -- go out and buy yourself something.
+L46958 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yeah, we better.
+L46957 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Oh. Our friend from the Chinese restaurant. Thanks, Fran. We better keep it here.
+L46955 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Merry Christmas.
+L46954 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ It's Christmas Eve, Fran -- let's not fight.
+L46953 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How could I be so stupid? You'd think I would have learned by now -- when you're in love with a married man, you shouldn't wear mascara.
+L46952 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Okay, okay, Fran. I deserve that. But just ask yourself -- why does a man run around with a lot of girls? Because he's unhappy at home -- because he's lonely, that's why -- all that was before you, Fran -- I've stopped running.
+L46951 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ And just think -- right now there's some lucky girl in the building who's going to come after me --
+L46950 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Now, Fran --
+L46949 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I was never very good at history. Let me see -- there was Miss Olsen, and then there was Miss Rossi -- no, she came before -- it was Miss Koch who came after Miss Olsen --
+L46948 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Is that what's been bothering you -- Miss Olsen? That's ancient history.
+L46947 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Funny thing happened to me at the office party today -- I ran into your secretary -- Miss Olsen. You know -- ring-a-ding-ding? I laughed so much I like to died.
+L46946 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Well, that's more like it. At least you're speaking to me.
+L46945 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yeah -- that's me. The Happy Idiot -- a million laughs.
+L46944 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Come on, Fran -- don't be like that. You just going to sit there and keep bawling?  You won't talk to me, you won't tell me what's wrong --  Look, I know you think I'm stalling you. But when you've been married to a woman for twelve years, you don't just sit down at the breakfast table and say "Pass the sugar -- and I want a divorce." It's not that easy.  Anyway, this is the wrong time. The kids are home from school -- my in- laws are visiting for the holidays -- I can't bring it up now.  This isn't like you, Fran -- you were always such a good sport -- such fun to be with --
+L46799 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I promise.
+L46798 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Where are we going, Jeff? Not back to that leaky boat --
+L46797 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I love you -- remember?
+L46796 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I have that date -- remember?
+L46792 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Fran --
+L46791 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You know I do.
+L46790 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I'm sure. If you'll just tell me that you still love me --
+L46789 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are you sure that's what you want?
+L46788 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Of course not. You had nothing to do with it.
+L46787 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Let's get something straight, Jeff -- I never asked you to leave your wife.
+L46786 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ What do you think?
+L46785 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Handle what?
+L46784 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I saw my lawyer this morning -- I wanted his advice  -- about the best way to handle it --
+L46783 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Okay. I'm sorry.
+L46782 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ If you'll just listen to me for a minute --
+L46781 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I wasn't trying.
+L46780 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You're not being funny.
+L46779 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Just trust me, baby -- we'll work it out somehow --
+L46778 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ That's enough, Fran.
+L46777 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ They got it an a long playing record now - Music to String Her Along By. My wife doesn't understand me -- We haven't gotten along for years -- You're the best thing that ever happened to me --
+L46776 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You didn't really believe me, did you?
+L46775 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ We didn't talk about it -- you did.
+L46774 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I mean -- about my getting a divorce.
+L46773 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ We talked about a lot of things.
+L46772 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Remember what we talked about?
+L46771 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Do I. That leaky little boat you rented -- and me in a black negligee and a life preserver --
+L46770 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Fran -- remember that last weekend we had?
+L46766 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Not very -- but I'm going to be there anyway.
+L46765 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Important?
+L46764 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No. I have a date at eight-thirty.
+L46763 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Not here, Fran. Can't we go some place else?
+L46762 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You're not giving me a chance, Fran. I asked you to meet me because -- I have something to tell you. FRAN Go ahead -- tell me.
+L46761 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sorry, Mr. Sheldrake -- I'm full up. You'll have to take the next elevator.
+L46760 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I want you back, Fran.
+L46759 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why do you keep calling me, Jeff? What do you want from me?
+L46758 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ How do you think I felt -- riding home on that seven-fourteen train?
+L46757 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ For a while there, you try kidding yourself that you're going with an unmarried man. Then one day he keeps looking at his watch, and asks you if there's any lipstick showing, then rushes off to catch the seven-fourteen to White Plains. So you fix yourself a cup of instant coffee -- and you sit there by yourself -- and you think -- and it all begins to look so ugly --
+L46756 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I never said goodbye, Fran.
+L46755 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Look, Jeff -- we had two wonderful months this summer -- and that was it. Happens all the time -- the wife and kids go away to the country, and the boss has a fling with the secretary or the manicurist -- or the elevator girl. Comes September, the picnic is over -- goodbye. The kids go back to school, the boss goes back to the wife, and the girl --  They don't make these shrimp like they used to.
+L46754 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I don't believe you.
+L46753 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Let's not start on that again, Jeff -- please. I'm just beginning to get over it.
+L46752 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You don't know what it's like -- standing next to you in that elevator, day after day -- Good morning, Miss Kubelik -- Good night, Mr. Sheldrake -- I'm still crazy about you, Fran.
+L46751 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ -- same sauce -- sweet and sour.
+L46750 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ It's been hell.
+L46749 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Like old times. Same booth, same song --
+L46748 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I missed you, Fran.
+L46747 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Six weeks. But who's counting?
+L46746 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ How long has it been -- a month?
+L46743 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes, I know. You want a lock to carry in your wallet?
+L46742 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You know I liked it better long.
+L46741 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That's right.
+L46740 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ It's on the way.  I see you went ahead and cut your hair.
+L46739 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No, Jeff. I can't stay very long.  Can I have a frozen daiquiri?
+L46738 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Let me take that.
+L46737 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Still afraid somebody may see us together?
+L47288 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ That's fine. But what are we going to do about grandma and Uncle Herman and Aunt Sophie and my two nieces --
+L47287 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Why don't we send her to a movie -- like Ben-Hur?
+L47286 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ She's home -- stuffing a turkey.
+L47285 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ What's your mother doing this afternoon?
+L47284 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ Go where?
+L47283 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ A little mixup in signals. Let's go.
+L47282 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ What gives?
+L47281 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Stay with it, Buddy-boy!  Come on, Sylvia.
+L46588 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Bob WHO? -- all right, so we'll watch it at the apartment. Big deal.  Baxter? It's okay for Thursday.
+L46587 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ Thursday? That's The Untouchables -- with Bob Stack.
+L46586 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Okay, okay. Look, Sylvia -- instead of Friday - could we make it Thursday night?
+L46585 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ Yes? Oh, hello -- sure I got home all right -- you owe me forty-five cents.
+L46444 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Certainly not.  I'm a happily married man.
+L46443 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ You mean you bring other girls up here?
+L46442 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Why do all you dames have to live in the Bronx?
+L46441 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ Like hell you will.  You'll buy me a cab.
+L46440 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ All right -- I'll take you to the subway.
+L46439 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ A hundred and seventy-ninth street -- the Bronx.
+L46438 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Where does she live?
+L46437 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ I told you -- with my mother.
+L46436 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Where do you live?
+L46435 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Don't you ever stop talking?
+L46434 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ You got to watch those things. Wives are getting smarter all the time.  Take Mr. Bernheim -- in the Claims Department -- came home one night with lipstick on his shirt -- told his wife he had a shrimp cocktail for lunch -- so she took it out to the lab and had it analyzed -- so now she has the house in Great Neck and the children and the new Jaguar --
+L46432 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Sssssh.
+L46431 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ Some setup you got here.  A real, honest-to-goodness love nest.
+L46424 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ What's the difference?  Some schnook that works in the office.
+L46423 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ What guy?  Whose apartment is this, anyway?
+L46422 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Sylvia -- sweetie -- it's not that -- but I promised the guy I'd be out of here by eight o'clock, positively.
+L46421 +++$+++ u3739 +++$+++ m246 +++$+++ SYLVIA +++$+++ First you can't wait to get me up here, and now -- rush, rush, rush! Makes a person feel cheap.
+L46420 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Please, Sylvia!  It's a quarter to nine!
+L47312 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ Yes, Mr. Sheldrake.
+L47311 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ I'd appreciate it if you'd be out of here as soon as you can.
+L47310 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ You let me go four years ago, Jeff. Only you were cruel enough to make me sit out there and watch the new models pass by.
+L47309 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ You bet it won't. I'll arrange for you to get a month's severance pay --  That's right, Miss Olsen. I'm letting you go.
+L47308 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ It won't happen again.
+L47307 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ But I thought you could hold your tongue.
+L47306 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ I'm sorry, Jeff. You know I could never hold my liquor --
+L47305 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ Me? SHELDRAKE Thank you for giving that little pep talk to Miss Kubelik at the office party.
+L47304 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Lovely. You were a big help.
+L47303 +++$+++ u3734 +++$+++ m246 +++$+++ MISS OLSEN +++$+++ Did you have a nice Christmas?
+L47113 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Oh -- oh!
+L47112 +++$+++ u3740 +++$+++ m246 +++$+++ TOMMY +++$+++ Propagate -- you know, multiply -- baby flies?
+L47111 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ See if they'll what?
+L47110 +++$+++ u3740 +++$+++ m246 +++$+++ TOMMY +++$+++ Maybe we should send up two flies -- and see if they'll propagate in orbit.
+L47109 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ It's a thought.
+L47108 +++$+++ u3740 +++$+++ m246 +++$+++ TOMMY +++$+++ Hey, Dad -- why don't we put a fly in the nose cone and see if we can bring it back alive?
+L48089 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I will -- I assure you that -- You got a fifty on that H-34 -- leave the ammo in boxes -- I'll get my men to bring the first drum with 'em --
+L48088 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ I don't know what you're talking about -- Get fucked --
+L48087 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We can use some fifty caliber and a 16 too --
+L48086 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Two whole drums --
+L48084 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Men of all races -- nationalities --
+L48083 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Get out --
+L48082 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ You make some of your closest friends in the army -- war has a way of bringing men together.
+L48081 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ You can keep your fucking fuel --
+L48080 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ One for all -- all for one --
+L48079 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ No -- absolutely not --
+L48078 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Esprit de corps --
+L48077 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ How far do you think you can push -- what kind of people do you think --
+L48076 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We have a lot of pride in our unit --
+L48075 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ You're out of your skull --
+L48074 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ That's what there is to talk about -- my man -- I take a good care of my men --
+L48073 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ What !
+L48072 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ My men --
+L48071 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ What's there to talk about -- this whole thing disgusts me.
+L48070 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Sit down -- we'll talk about it.
+L48069 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Wait -- wait -- don't get up tight -- what I meant was we'd need a whole drum for that --
+L48068 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We need all our fuel anyway.
+L48067 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Now just a second -- I'm doing you a favor, buddy -- what're you trying to pull?
+L48066 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I said I like all of them.
+L48065 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Good -- like I said, take your pick.
+L48064 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I like all of them --
+L48063 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Take your pick -- they all like you -- I can tell --
+L48062 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I'm not that fond of blondes -- maybe I like brunettes --
+L48061 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Look -- you know who that is, Captain -- you know what she's saying -- you'll never see stuff that good outside of a magazine for the rest of your life.
+L48055 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We need all our fuel.
+L48054 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ We could use some fuel -- just a half drum -- just enough to get us out a here.
+L48053 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Well --
+L48052 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Look -- the girls could get killed -- we're not supposed to be this close combat, I mean real combat.
+L48051 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Dreadful.
+L48050 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Well I mean like they also took our fuel -- We've been here two days.
+L48049 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah.

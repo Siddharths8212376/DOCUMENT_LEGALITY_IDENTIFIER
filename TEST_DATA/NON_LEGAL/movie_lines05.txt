@@ -1,0 +1,200 @@
+L3314 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Right.
+L3313 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You better get packed.
+L3311 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm glad I met you.
+L3310 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No matter what happens...I'm glad I met you.
+L3309 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ A good Immigration lawyer could stall the process.  Eddie recommended one.
+L3308 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ If you were my boyfriend, I'd suggest you find another girlfriend that isn't going to jail ten-thousand miles away.
+L3307 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If I was your boyfriend, I might be.
+L3306 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Ludwig?  He's gay - are you jealous?
+L3305 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Is he your boyfriend?
+L3302 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm sorry.
+L3301 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I still can't believe Eddie's gone.
+L3300 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Are you alright?
+L3181 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm sorry.  I didn't mean to...I'm glad. Actually I'm glad it's over.  All this time.  Hiding.  Never being able to look anyone in the eyes. Always afraid that someone would find out who I was.  Never trusting anyone...
+L3180 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ They're not gonna send you right back.
+L3179 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ You don't know.  I'm sorry.  I was desperate.  That's not me.  I shot a cop.  Can you imagine what they'll do to me when I got to prison?
+L3178 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I know.
+L3177 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm not a whore.  I'm not a whore.
+L3170 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm just trying to find out who you are.
+L3169 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ What are you asking me?
+L3168 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ So you were never a prostitute?
+L3167 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I came here.  I had no money.  I knew no one.  I couldn't get a job because you have to have a green card to get work. They approached me - I could've made a lot of money.  I considered it, but... it's not who I am.  They pay me below the table at Ludwig's.
+L3166 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No.
+L3165 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What about back home?
+L3164 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No.
+L3163 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Did you ever turn tricks before?
+L3162 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Yes, I considered it.
+L3161 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You considered becoming a prostitute?
+L3160 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah.  This way.
+L3159 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ So...the station is empty?
+L3158 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ The men are out of quarters - practicing putting out fires.
+L3097 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Somewhere else?
+L3096 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I can't take you to my place.
+L3095 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Do you live alone?  I've been in these clothes since...the killings.  Could we stop at your place? I could take a shower...before I go into custody?
+L3094 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Divorced.
+L3093 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Are you married?
+L3092 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ They won't until this is over.
+L3091 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I will if they don't send me back.
+L3090 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ If you cooperate with the DA - maybe they'll help you with your situation.
+L3089 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Now I become custody of police department?
+L3061 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Yes, but he was a cop.
+L3060 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Alright.  That's a justifiable homicide.
+L3059 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ ...my little sister and I shared a flat - I came home one night and a man was raping her.  His gun was on the chair... He came at me and I shot him.
+L3065 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ You're a cop - you'll never believe me.
+L3064 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Look, we can help you but right now we have to deal with what's happening here. Tell us the truth...is that the truth?
+L3063 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I'm from a small town in Slovakia.  Like the South here.  The Police is right, a civilian is wrong.  So I fled.
+L3062 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ A cop?
+L3056 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ No, no, don't talk to Immigration!
+L3055 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Are you here illegally?  Don't worry about that.  We'll talk to Immigration. They won't deport you.
+L3051 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Arrest you for what?  Why would we arrest you?
+L3050 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ If I tell you, will you arrest me?
+L3049 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Whether you tell us or not, we'll find out.  Better if it comes from you.
+L3048 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Go on.
+L3047 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ Tamina was a friend of mine.  My shower was broken, she let me use theirs.
+L3046 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ C'mon, start at the beginning.  You know these people?
+L3045 +++$+++ u27 +++$+++ m2 +++$+++ DAPHNE +++$+++ I told your partner, I can't help.  I didn't see anything.
+L3214 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Yeah, sure.  Beep me when you're ready for the press conference.
+L3213 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm ready to be briefed.  Excuse us.
+L3212 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh yeah...?  Alright.
+L3211 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Look, after Jordy briefs me, you can do the press conference.  How about that? The case is all yours.
+L3210 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Well, I'm the Deputy Chief Fire Marshall and every now and then I'd like to be included in decisions.
+L3209 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ It was my decision, not his.
+L3208 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh.
+L3506 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ There's nothing to talk about.  Get a good lawyer.  You're suspended until your trial.
+L3505 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But Chief?  Over this??
+L3504 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ How are you going to fight this?  Maybe if Oleg hadn't gotten away and you'd been on the front page, as a hero, this thing would be easier to fight.  You'd have the good to weight against the bad! It's unfortunate that I have to make decisions based upon your press coverage but there's nothing I can do!  Gimme your shield.
+L3503 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ End my career?
+L3502 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Well this is gonna end your career and probably mine.
+L3501 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Chief - I know I screwed up - but this guy was no innocent civilian.
+L3500 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Forgot?  You handcuffed a civilian to a tree?!
+L3499 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ What was I supposed to do?  The guy tried to mug me.  I was gonna send a cop back - I just forgot.
+L3498 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ The public doesn't have any idea what we do and now you're going to define our image!  This is going to be our Rodney King!
+L3294 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Okay.  But not water sports.
+L3293 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Chief - mind if I take her?
+L3203 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Oh really.  That's nice.  You took a homicide witness to take a shower after your partner was shot?  Are you out of your fucking mind??  Are you having that much trouble gettin' dates?!
+L3202 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ No!  Nothing happened.
+L3201 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ A shower!?  Did you take one, too?
+L3200 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I let her take a shower.
+L3199 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ What do you mean, 'cleaned up?'
+L3198 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Ladder 20 was on the Rock for training. We stopped there... so she could get cleaned up.
+L3197 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ I came to see how the investigation was going.  I called and you're not here.  I wait up at the station and you don't even show up!!!  I beep you - you don't return my call.  Where the hell have you been?!
+L3196 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hey, Chief, what are you doing here?
+L2800 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ 'Cause we got more important things to do, like finding out who did it.
+L2799 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Then why didn't you talk to the reporter?
+L2798 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Who do you think, Chief?!
+L2797 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Who did cause and origin?
+L3292 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah.
+L3291 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Alright.  Swing by her apartment.  Let her pick up her clothes and take her straight to Hoover Street.  You got that?
+L3290 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah.  He finished awhile ago.
+L3289 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Did the D.A. videotape her deposition?
+L2805 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ You do that, wiseguy.  Now let's solve this thing before Eddie Flemming does.
+L2804 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ I said, yeah, you're right, Chief.  As soon as we get somethin' we'll let you alert the media.
+L2803 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ What was that, Korfin?
+L2802 +++$+++ u35 +++$+++ m2 +++$+++ KORFIN +++$+++ Yeah, right.
+L2801 +++$+++ u28 +++$+++ m2 +++$+++ DUFFY +++$+++ Don't you guys understand?  It's all about image.  The better we look the more money I get to pay you guys overtime.
+L3028 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I know.  Relax.  Take it easy.  Don't worry, we'll get those fuckers.
+L3027 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ He got my gun!  Motherfucker was filming the whole time!
+L3023 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ No.  I'm okay.
+L3022 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Are you hit?
+L3017 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Stay with her.
+L3016 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ The other side of the street.  The guy with the videocamera.  Don't look - put her in the car.  Stay this side.
+L2938 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ C'mere.  You wanna go to homicide school?  Here - make yourself useful.
+L2937 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Yeah.
+L2936 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Only one guys checked in?
+L2925 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ It's okay.
+L2924 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Sorry...PD only.
+L2923 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Still unknown but we're running prints. Kid over there caught the case.
+L2922 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Any I.D.?
+L2921 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Takin' a bath.
+L2920 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Where is she?
+L2752 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ A timer.
+L2751 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ What's he looking for?
+L2633 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ You ready?
+L2632 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Tomorrow.  At lunch.
+L2631 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ When?
+L2630 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'm gonna propose.
+L2603 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What's the kid gonna say - sorry? Meanwhile I'm not here anymore. Like last week - we were at the morgue and this guy was all chopped up - spleen here - liver there - his heart in a pan. Six hours ago this guy was walkin' his dog or buyin' a quart of milk.  Who knows?  But some kid's robbed him for $3 or some shit and shot him and now you can't tell if he's a piece of beef or a human being and I'm thinkin' that's me. Sooner or later.  That's me.
+L2602 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ It was freaky, I'll tell you.  Stupid kid.
+L2601 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Maybe you could just put in a shot of Martell?
+L2600 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Vodka tonic.
+L2599 +++$+++ u36 +++$+++ m2 +++$+++ LEON +++$+++ Coffee for me, I gotta slow down.
+L2990 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ She washes hair up at Ludwig's - a salon on 63rd and Madison.
+L2989 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ He had a videocamera?  Where is she? Quickly!
+L2988 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Tall, short-haired, scary eyes.  Second guy with him was...shorter, with a wrestler's build.  And he wouldn't turn his videocamera off me.
+L2987 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Describe him.
+L2986 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ He said he was her cousin.  I told him where she works.  They were just here.
+L2981 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Daphne.  Another guy came in asking me about her, too.
+L2980 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What are you saying?
+L2979 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Boy, she's so popular all the sudden.
+L2978 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Did you tell him you did?
+L2977 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ No.
+L2976 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Do you have any Czech girls working for you?
+L2975 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Yeah.  He wanted a girl from Czechoslovakia, but I sent him Honey 'cause once they get there, you know, it doesn't really matter - Honey was killed...?  Poor girl...
+L2973 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Oh my G-d.  Honey!  Honey's dead?
+L2972 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ We don't have her I.D. yet, but one of your girls was killed last night at the King Edward Hotel.
+L2971 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ What's wrong?
+L2967 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Homicide, Miss Hearn.  It's Detective Eddie Flemming.  Open up.
+L2966 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ I have nothin' to say.  If you wanna contact my attorney...
+L2965 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Police.  We'd like to ask you a few questions.
+L2964 +++$+++ u44 +++$+++ m2 +++$+++ ROSE +++$+++ Who's there?
+L3230 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You know, I don't know.  I like you. You remind me of a puppy I used to have. He pissed on the rug all the time, but I still kept him.
+L3229 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Why'd you help me back there with the Chief?  Why'd you stand up for me like that?
+L3228 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ How you go out on a limb for somebody is by giving her a number of an Immigration lawyer.  Here, here's a number of an Immigration lawyer.  That's how you help her. But you can't get involved in her like that.  You're gonna jeopardize your career, your life and you're gonna jeopardize my case.  And lemme give you another piece of advice.  Maybe you don't watch TV but I'll let you in on a little secret - the whole fuckin' world watches television.  And when you get out there, they know your face.  And the little fame, the little fuckin' itty bitty fame that I get in this city makes it a lot easier for my job.  And I get more done because of it.
+L3227 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But, I mean, didn't you ever go out on a limb for somebody?  I mean, you shoulda heard her there.  Tellin' her whole story...I believed her.
+L3226 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, it's not up to you to decide whether she's innocent or not.  Don't you understand, that's why you're a professional.
+L3225 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I told you, you know, I thought I was doing the right thing, you know, I think she's innocent.
+L3224 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ No, I don't think you were a fool, I just think you were stupid about it.  I mean, to say the least, you outta know better.  You don't know her well enough. She's got the potential to fucking hang you even if she suggests that you made a pass at her, it's fuckin' over.  You can deny it all you want, but it will not make one fucking bit of difference. You're dead.
+L3223 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah, just her in the shower.  Nothing happened.  Look, I'm sure you probably think I'm a fool and I fucked up, but...
+L3222 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Just a shower?
+L3221 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I took her there for a shower and that's it.
+L3220 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Well, you shoulda because nobody's gonna believe you didn't...including me.
+L3219 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look, Eddie, I'm tellin' you - I didn't touch her.
+L3082 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Women like that have a way of turning professionals into amateurs.
+L3081 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Hey.  I'm a professional.
+L3080 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Okay, tell you what, I'll give you a head start.  You take her to the station house.  Don't let her out of your sight. She's the only warm body we got left.
+L3079 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You know what I'm saying here.
+L3078 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You're her Savior?  Is she the kid you're gonna save from the burning building?
+L3077 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ C'mon.  You intimidate her 'cause you're a celebrity.  She sees me differently.
+L3076 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ So am I.
+L3075 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm serious here.
+L3074 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ My point exactly.
+L3073 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I don't have a girlfriend.
+L3072 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What would your girlfriend think of that?
+L3071 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Yeah.
+L3070 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You wanna talk to her alone?
+L3069 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Look - let me talk to her.  Any leads I get, they're all yours.  Just let me have a first crack at her.
+L3068 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Raw deal.
+L3067 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ She's fucked.  Even if that story is true.
+L3058 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Something back home?
+L3057 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Why not?
+L3054 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Is that all there is?
+L3053 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ She just saw two of her friends killed! They probably threatened her.
+L3052 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ What are you hiding?  Why are you afraid
+L2999 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Then I guess we're doin' this the right way, aren't we?  If we pull up to a burning building I'll gladly let you go first.
+L2998 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I wanted to run up to a building on fire, kick in the door, rush into the smoke and save a kid.
+L2997 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Hey!  I always wanted to be a cop when I was a kid.  I dreamed of running up to a door, kicking it in, pulling my gun and yelling 'Freeze!' at the bad guy! What'd you dream about?
+L2996 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Of course.
+L2995 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ So am I.  Alright, I'll go inside and you cover the back.
+L2994 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm on duty.
+L2993 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You thirsty?
+L2992 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'm on my way with Eddie.  Ludwig's. 63rd and Madison.  The suspects might be there already.
+L2991 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Leon - meet us at 63rd and Madison. Hair salon.  Ludwig's.
+L2963 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Better than one.
+L2962 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Two heads.
+L2958 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll call it... tails.
+L2957 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Tell you what - I'll flip you a coin. If you win you can come with me.  If you don't win, you don't come.
+L2956 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ This is ridiculous.  I'm not gonna be in your way - we can talk the case over.
+L2955 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ I'll let you know what happens.
+L2953 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ But what if it does?  You might need my help.
+L2952 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ This has nothing to do with your fire.
+L2951 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ Mind if I ride along with you?
+L2950 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You got any better ideas?
+L2949 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ You goin' to the escort service?
+L2906 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ Stay here.
+L2905 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ My folks are.
+L2904 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ You're Polish?
+L2903 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ My parents are from Poland.  I can help with the Eastern European angle.
+L2902 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ This isn't homicide school.
+L2901 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I can watch you, Eddie.  Maybe I'll learn something.
+L2900 +++$+++ u29 +++$+++ m2 +++$+++ EDDIE +++$+++ There wasn't a fire.  There'll be nothing for you to do.
+L2899 +++$+++ u34 +++$+++ m2 +++$+++ JORDY +++$+++ I'll come with you.

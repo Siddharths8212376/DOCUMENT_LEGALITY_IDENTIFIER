@@ -1,0 +1,200 @@
+L239135 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'll get Ray and Egon to check out the bathtub.  You better stay here.
+L239134 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I don't know what to do anymore.
+L239133 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Who could blame him?  Were you wearing this nightgown?
+L239132 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I must be losing my mind.  At the museum today I could have sworn that terrible painting of Vigo looked right at me.
+L239131 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ You know, if anyone else told me that, I'd have serious doubts.  But coming from you, I can't honestly say I'm surprised.
+L239130 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Peter, the bathtub tried to eat Oscar.
+L239129 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ No, I just got in -- a couple hours ago. Come on in.  Are we having a pajama party?
+L239128 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I'm sorry.  Were you on your way out?
+L239097 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'd like to stay, but I really don't have time to hang around here.  I'll call you.  Later, Johnny!
+L239096 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Good-bye, Peter.
+L239095 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I may be wrong, but I think you've got a little crush on this guy.
+L239090 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Yeah, it's not the kind of thing you'd want to hang in the rec room.  You know what it needs?  A fluffy little white kitten in the corner.
+L239089 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ He was also a lunatic and a genocidal madman. I hate this painting.  I've felt very uncomfortable since they brought it up from storage.
+L239081 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ As a matter of fact, I stopped by to tell you that I haven't forgotten your problem and that we're still on the case.
+L239080 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I'm sure you didn't come here just to talk about art.
+L239078 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I didn't paint it.  I'm just cleaning it. It's an original Ver Meer.  It's worth about ten million dollars.
+L239077 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ You're really good, you know.
+L239076 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Oh, hello, Peter.
+L239075 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ So this is what you do, huh?
+L238974 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Thanks.
+L238973 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Good luck.
+L238972 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'm El Gato.  I always land on my feet.
+L238971 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ You mean you cough up hairballs all over the rug?
+L238970 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Don't worry about me.  I'm like a cat.
+L238969 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Please don't say that.  You won't go to prison.
+L238968 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ You are personally responsible.  If I can get conjugal rights, will you visit me at Sing Sing?
+L238967 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I wish I could stay.  I feel personally responsible for you being here.
+L238903 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Okay, let's take a look.
+L238902 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ That's where the buggy stopped.
+L238901 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ We definitely had a moment or two.
+L238900 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Brings back a lot of sweet memories, doesn't it?  There's our old cash machine.  And the dry cleaners we used to go to.  And the old video store.  We really had some good times, didn't we?
+L238894 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'll supervise.
+L238893 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I'll do it.
+L238892 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Unusual?  I don't know.  I haven't had a lot of experience with babies.
+L238891 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Peter, this is serious.  I need to know if you think there's anything unusual about him.
+L238890 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Oscar!  You poor kid!
+L238889 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ His name is Oscar.
+L238888 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ There's no doubt about it.  He's got his father's looks.  The kid is ugly -- extremely ugly.  And smelly.  You stink!  It's just horrible.  You are the stinkiest baby I ever smelled.  What's his name?
+L238887 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ What do you think?
+L238881 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I may have a few personal problems but one thing I am is a total professional.
+L238880 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Well, when you started introducing me as "the old ball and chain," that's when I left.
+L238879 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Men are very sensitive, you know.  We need to feel loved and desired, too.
+L238878 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ You never asked me, and every time I brought it up you'd get drowsy and fall asleep.
+L238877 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ He ditched you.  You should've married me, you know.
+L238876 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ He didn't "ditch" me.  We had some problems, he got a good offer from an orchestra in England and he took it.
+L238875 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ So what happened to Mr. Right?  I hear he ditched you and the kid and moved to Europe.
+L238874 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I can see that you're still very bitter about us, but in the interest of science, I'm going to give it my best shot.  Let's go to work, boys.
+L238873 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ I have.  That's why I didn't call you first.
+L238872 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ You know, Dana, I'm very very hurt that you didn't call me first.  I'm still into all this stuff, you know.  Haven't you ever seen my show?
+L238871 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Hello, Peter.
+L239299 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Maybe we should discuss this somewhere else.
+L239298 +++$+++ u1132 +++$+++ m74 +++$+++ STANTZ +++$+++ Sorry!
+L238913 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Peter, do you think maybe I have some genetic problem or something that makes me vulnerable to these supernatural things.
+L238912 +++$+++ u1132 +++$+++ m74 +++$+++ STANTZ +++$+++ I think we hit the honeypot, boys.  There's something brewing under the street.
+L238905 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ A little to the left.  Right there!  That's where it stopped.
+L238904 +++$+++ u1132 +++$+++ m74 +++$+++ STANTZ +++$+++ Is this the spot?
+L238868 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Hi, Egon.
+L238867 +++$+++ u1132 +++$+++ m74 +++$+++ STANTZ +++$+++ No problem.  Always glad to help -- and hug.
+L238866 +++$+++ u1120 +++$+++ m74 +++$+++ DANA +++$+++ Hi, Ray.  It's good to see you.  Thanks for coming.
+L238784 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ No, you can't, and I think that's the whole problem with aliens; you just can't trust them. You may get some nice ones occasionally like Starman or E.T., but most of them turn out to be some kind of lizard.  Anyway, we're just about out of time.  Next week on 'World of the Psychic,' hairless pets.  Until then, this is Peter Venkman saying ...  ... Good night.
+L238783 +++$+++ u1121 +++$+++ m74 +++$+++ ELAINE +++$+++ It may have been a room on the spacecraft made up to look like a room in the Holiday Inn.  I can't be sure, Peter.
+L238782 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Your alien had a room in the Holiday Inn?
+L238781 +++$+++ u1121 +++$+++ m74 +++$+++ ELAINE +++$+++ I received this information from an alien.  I was at the Paramus Holiday Inn, I was having a drink in the bar when he approached me and started talking.  Then he must have used some sort of ray or a mind control device because he made me follow him to his room and that's where he told me about the end of the world.
+L238780 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Valentine's Day.  That's got to be a bummer. Where did you get that date, Elaine?
+L238779 +++$+++ u1121 +++$+++ m74 +++$+++ ELAINE +++$+++ According to my sources, the world will end on February 14, in the year 2016.
+L239435 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Oh, you think so?  Well, I've got news for you.  You've got Dracula's brother-in-law in there and he's got my girlfriend and her kid.  Around about midnight tonight, when you're partying uptown, this guy's going to come to life and start doing amateur head transplants.  And that's just round one.
+L239434 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ Look, I've had it with you.  Get your stuff together, get back in that clown car and get out of here.  This is a city matter and everything's under control.
+L239345 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Now you're talking.
+L239344 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ Before you go running to the newspapers with this, would you consider telling this slime thing to some people downtown?
+L239343 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Yeah, I think the Times might be interested, don't you?  The Post might have a lot of fun with it, too.
+L239342 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ That's quite a story.
+L238799 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ Look, you stay away from the mayor.  Next fall, barring a disaster, he's going to be elected governor of this state and the last thing we need is for him to be associated with two-bit frauds and publicity hounds like you and your friends.  You read me?
+L238798 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ No, that's what I want to talk to the mayor about.  We did a little job for the city a while back and we ended up getting sued, screwed and tattooed by deskworms like you.
+L238797 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ I know who you are, Doctor Venkman.  Busting any ghosts lately?
+L238796 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'm an old friend of the mayor's.  I just want to say hello to him.
+L238795 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ I'm Jack Hardemeyer.  I'm the mayor's assistant. What can I do for you?
+L238794 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Yeah, you can get your hand off my chest.
+L238793 +++$+++ u1123 +++$+++ m74 +++$+++ HARDEMEYER +++$+++ Can I help you?
+L239454 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ You're very brave, Louis.  Good luck.
+L239453 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Oh, yeah, sure -- no.  But there's really not much to do here and they might need some back-up at the museum.
+L239452 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ I'm not sure this is such a good idea?  Do they know you're doing this?
+L239327 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ You're right.  We should stay.
+L239326 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ I don't think we should leave her alone.
+L239325 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Should we go?
+L239280 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Tonight?
+L239279 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ Motherhood is a very natural instinct for me.  I'd like to have a baby myself. Wouldn't you?
+L239278 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Okay.
+L239277 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ You're really good with children, Louis.  I can tell.  Why don't you come here and sit with me?
+L239276 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ So they bartered room and board in exchange for housekeeping services, which was a good deal for all of them because then they didn't have to withhold tax and social security, which I'm not saying is right but it's just a story, so I guess it's all right.  I can finish this later if you're tired.
+L239275 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ It's really not a bad place.  It just needs a woman's touch.
+L239274 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ So these dwarfs had a limited partnership in a small mining operation and then one day a beautiful princess came to live with them.
+L239273 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ I can't believe a person could actually live like this.
+L239240 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Oh, sure, that sounds great.
+L239239 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ I'd like to, but I told Dr. Venkman I'd babysit.  Do you want to babysit with me?
+L239238 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Janine, do you feel like maybe getting something to eat on the way home?
+L239237 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ Well, good night, Louis.
+L239236 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ That's very practical.  I hate going out on New Year's Eve, too.
+L239235 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ No, I celebrate at the beginning of my corporate tax year which is March first. That way I beat the crowds.
+L239234 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ Have you made any plans yet?  You know tomorrow is New Year's Eve.
+L239233 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Oh, no, it's just if one of the guys calls in sick or gets hurt.
+L239232 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ Why would you want to be a Ghostbuster if you're already an accountant?
+L239231 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ I was trying to get that smelly green thing. The guys asked me to help out.  I'm like the fifth Ghostbuster.
+L239230 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ What are you doing up here?
+L239229 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Oh migod!  I'm sorry.  I didn't mean to do that.  It was an accident.
+L239048 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Ghostbusters.
+L239047 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ Who are you going to call?
+L239046 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Don't worry.  We're not moving.  He is.
+L239045 +++$+++ u1124 +++$+++ m74 +++$+++ JANINE +++$+++ It's that darn ghost again!  I don't know what to do anymore.  He just won't leave us alone.  I guess we'll just have to move.
+L239044 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ What is it, honey?
+L239486 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Oh, Johnny.  Did you back the wrong horse.
+L239485 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ You pitiful, miserable creatures!  You dare to challenge the power of darkness?  Don't you realize what you are dealing with?  He's Vigo!  You are like the buzzing of flies to him.
+L239194 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Not.  Don't leave town and report any change in your address to the proper authorities. We'll be back.
+L239193 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ So you see, everything is in order, is it not?
+L239184 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'm going to rule out the glue-sniffing theory.  If she says it looked at her, it looked at her.  Hey, you!  Vigie!  Look at me.  I'm talking to you.  Hey!  Look at me when I'm talking to you.
+L239183 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ It must be the chemical fumes in the studio. People start imagining things --
+L239182 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ This is the one that looked at Dana.
+L239178 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ The Upper West Side.
+L239177 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ You know, I never got to ask you.  Where you from, Johnny?
+L239175 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ We got a major creep alert and we're just going down the list.  Your name was first.
+L239174 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Then why have you come?
+L239173 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I know.
+L239172 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Dr. Venkman?  Dana is not here.
+L239094 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ My pleasure.
+L239093 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I'll let you get back to it.  Nice meeting you.
+L239092 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Well, I'd make an exception in this case if I were you.
+L239091 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ We don't go around altering valuable paintings, Dr. Venkman.
+L239088 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ 
+L239087 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Too bad for the Moldavians.
+L239086 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ It's a painting I'm restoring for the new Byzantine exhibition.  It's a self-portrait of Prince Vigo, the Carpathian.  He ruled most of Carpathia and Moldavia in the 17th Century.
+L239085 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ How are you?  What's that you're working on, Johnny?
+L239084 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Pleasure to meet you.  I've seen you on television.
+L239336 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ So be it.  On this the day of darkness, she will be ours, wife to you and mother to me.
+L239335 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Lord Vigo, the mother, Dana, is fine and strong.  I was wondering -- well, would it be possible -- if I bring the baby, could I have the woman?
+L239334 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ The season of evil begins with the birth of the new year.  Bring me the child that I might live again.
+L239333 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ I await the word of Vigo.
+L239332 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ I command you.
+L239331 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ -- the sorrow --
+L239330 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ -- the sorrow of Moldavia --
+L239329 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Yes, the scourge --
+L239328 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ I, Vigo, the scourge of Carpathia --
+L238917 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ On a mountain of skulls in a castle of pain, I sat on a throne of blood.  What was will be, what is will be no more.  Now is the season of evil.  Find me a child that I might live again.
+L238916 +++$+++ u1125 +++$+++ m74 +++$+++ JANOSZ +++$+++ Command me, lord.
+L238915 +++$+++ u1134 +++$+++ m74 +++$+++ VIGO +++$+++ I, Vigo, the scourge of Carpathia, the sorrow of Moldavia, command you.
+L239029 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ You've got to stop them.  Please!
+L239028 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ These boys aren't playing around.
+L239027 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Maybe they just want to appeal.
+L239026 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ They're the Scoleri Brothers.  I tried them for murder.  They were electrocuted up at Ossining in '48.  Now they want to kill me.
+L239025 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Who are they?
+L239024 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ You've got to do something!
+L239005 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Sorry, your Honor, but when somebody sets me up like that I can't resist.
+L239004 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ Keep that up, mister, and I'll find you in contempt.
+L239018 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Did I forget something?
+L239017 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ That's it?  That's all you have to say?
+L239015 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Your honor, ladies and gentlemen of the --  audience.  I don't think it's fair to call my clients frauds.  Okay, the blackout was a big problem for everybody.  I was stuck in an elevator for about three hours and I had to go to the bathroom the whole time, but I don't blame them because once I turned into a dog and they helped me.  Thank you.
+L239014 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ Get on with it, counselor!
+L239013 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Can I have some of your water?
+L239012 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ Yes.
+L239011 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Your honor, may I approach the bench?
+L238999 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Do I?
+L238998 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ Sustained.  Mr. Tully, do you have anything to ask this witness that may have some bearing on this case?
+L238995 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Okay, let me rephrase that question.  Didn't you once coach a basketball team for underprivileged children?
+L238994 +++$+++ u1126 +++$+++ m74 +++$+++ JUDGE +++$+++ The witness is leading him.  Sustained.
+L239410 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ I let them handle all the little stuff.  I just come in on the big ones.
+L239409 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ I thought you were like the fifth Ghostbuster.
+L239408 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Hey!  Wait!  Okay, I'll meet you there.
+L239407 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ Hi, it's really great to meet you guys.  I know this sounds weird but once I had a dream that my grandfather was standing at the foot of my bed, but I knew it was impossible because he died and he started to tell me that --
+L239406 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ This is my cousin Sherman.  Sherm, say hello to the Ghostbusters.  I promised him a ride in the car if he got you out.
+L239390 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ Then you should go to the police.  I don't believe in any of that stuff.
+L239389 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ I'm telling you, we're all going to be in big trouble if we don't do something fast. That ghost guy came and took my friend's baby and we got to get it back.  It's just a scared little baby, Sherm.
+L239388 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ Yeah, I had to give her free dermabrasion for a year.  Forget it, Louis.  I could get in a lot of trouble.
+L239387 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ I fixed you up with Diane Troxler and she put out, didn't she?
+L239386 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ You were the one who got me in.
+L239385 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ I got you out of those bad tax shelters.
+L239384 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ Like what?
+L239383 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Sherman, I've done lots of favors for you.
+L239382 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ I'm a dermatologist.  I can't write orders on the psych ward.
+L239381 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Why can't you just have them released? You're a doctor.
+L239380 +++$+++ u1130 +++$+++ m74 +++$+++ SHERMAN +++$+++ I can't do it, Louis.  It isn't ethical.  I could lose my license.
+L239379 +++$+++ u1127 +++$+++ m74 +++$+++ LOUIS +++$+++ Come on, Sherm.  You're my cousin.  Do this for me.  I'm begging you.
+L238778 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Well, for your sake, I hope you're right.  But I think my other guest may disagree with you. Elaine, you had another date in mind?
+L238777 +++$+++ u1128 +++$+++ m74 +++$+++ MILTON +++$+++ This is not just some money-making scheme!  I didn't just make up the date.  I have a strong psychic belief that the world will end on New Year's Eve.
+L238776 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ This year?  That's cutting it a little close, isn't it?  I mean, just from a sales point of view, the book just came out, right?  So you're not even looking at the paperback release for maybe a year.  And it's going to be at least another year after that if the thing has movie-of-the-week or mini-series potential. You would have been better off predicting 1992 or even '94 just to be safe.
+L238775 +++$+++ u1128 +++$+++ m74 +++$+++ MILTON +++$+++ I predict that the world will end at the stroke of midnight on New Year's Eve.
+L238774 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Okay, so can you tell us when it's going to happen or do we have to buy the book?
+L238773 +++$+++ u1128 +++$+++ m74 +++$+++ MILTON +++$+++ Well, I think it's important for people to know that the world is in danger.
+L238772 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Hi, welcome back to the 'World of the Psychic,' I'm Peter Venkman and I'm chatting with my guest, author, lecturer and of course, psychic, Milton Anglund.  Milt, your new book is called The End of the World.  Isn't that kind of like writing about gum disease.  Yes, it could happen, but do you think anybody wants to read a book about it?
+L239009 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ No, I guess I'm just saying that shit happens and somebody has to deal with it.
+L239008 +++$+++ u1129 +++$+++ m74 +++$+++ PROSECUTOR +++$+++ So what are you saying?  That the world of the supernatural is your special province?
+L239007 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ I had my fingers crossed when they swore me in, but I'm going to tell you the truth. There are things in this world that go way beyond human understanding, things that can't be explained and that most people don't want to know about anyway.  That's where we come in.
+L239006 +++$+++ u1129 +++$+++ m74 +++$+++ PROSECUTOR +++$+++ I'll ask you again, Dr. Venkman.  Why were you digging the hole?  And please remember that you're under oath.
+L239003 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Seventy-seventh and First Avenue has so many holes already we didn't think anyone would notice.
+L239002 +++$+++ u1129 +++$+++ m74 +++$+++ PROSECUTOR +++$+++ So, Dr. Venkman, please explain to the court why it is you and your co-defendants took it upon yourselves to dig a big hole in the middle of the street.
+L238997 +++$+++ u1129 +++$+++ m74 +++$+++ PROSECUTOR +++$+++ Objection.  Irrelevant and immaterial.
+L238996 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Yes, I did.  We were city champs.
+L239527 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Ostrov?  I've been there.  Good party town.
+L239526 +++$+++ u1131 +++$+++ m74 +++$+++ SPENGLER +++$+++ They came from Ostrov in Eastern Poland.
+L239525 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ From where -- Neptune?
+L239524 +++$+++ u1131 +++$+++ m74 +++$+++ SPENGLER +++$+++ It's probably the first thing my grandparents saw when they came to this country.
+L239523 +++$+++ u1133 +++$+++ m74 +++$+++ VENKMAN +++$+++ Pretty impressive, huh?
+L239476 +++$+++ u1131 +++$+++ m74 +++$+++ SPENGLER +++$+++ I'm worried.  The vibrations could shake her to pieces.  We should have padded her feet.

@@ -1,0 +1,200 @@
+L127091 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You eventually have to talk to him.
+L127090 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ The seat behind him is open. Come on, I can eavesdrop too.
+L127089 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You stare at him non-stop, like every lunch. Like this. Like most people stare at car accidents.
+L127088 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ I don't watch him eat everyday.
+L127087 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Don't you want to talk to him? You watch him eat everyday.
+L127086 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ Why?
+L127085 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Mark Shale.
+L127084 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ Who?
+L127083 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Go sit next to him.
+L127419 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ You're sweet. I really wish someone had thrown a party like that when I was your age. My life might have been very different.
+L127418 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ No.
+L127417 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Unfortunately I qualify. Think I'm too old?
+L127416 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You Miss Dunlop?
+L127415 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Not at all. In fact, I thought about going.
+L127414 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Don't you think it's sick?
+L127413 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Of course. NO ONE EVER SHUTS UP IN THE LIBARY. Kids were whispering about it all day.
+L127412 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You heard about that?
+L127411 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Everyone's getting ready for the party.
+L127410 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ This place is empty.
+L127409 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Follow me.
+L127408 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Twenty eight years ago.
+L127407 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ They're all on microfiche. What year are you looking for?
+L127406 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Hi Miss Dunlop. Where do you keep the old town papers?
+L127405 +++$+++ u4440 +++$+++ m294 +++$+++ MISS DUNLOP +++$+++ Hi Jody. What can I DO for you?
+L127648 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Pretend we're just another couple.
+L127647 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ What are you doing?
+L127644 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Quick! In the house. He won't look for us in there.
+L127643 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Oh GOD IT'S HIM!
+L127635 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I love you.
+L127634 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Thanks for coming back for me.
+L127621 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Deputy Webber's at the party. It's only three blocks away.
+L127620 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Go to the police station!
+L127617 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ He's dead! We've got to get the fuck out of here!
+L127616 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ My dad's down there!
+L127518 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Then go to the party. Run with the herd Kenny. Just don't spew out all that 'be an individual, assert yourself' crap anymore.
+L127517 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I'm scared. Three kids are dead. I want to go to this party.
+L127516 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ What?
+L127515 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Jody. Wait.
+L127514 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ This party is sick.
+L127513 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Please don't go. Please. Stay, We'll just talk. Then go to the party.
+L127512 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Jody, you're only doing this to get back at your dad. It doesn't have that much to do with me.
+L127511 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ And when I finally agree to spread my legs, you accuse me of treating you like meat.
+L127510 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Sharon's far from a slut.
+L127509 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You flaunt some slut in my face.
+L127508 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ That's not why we broke up.
+L127507 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You break up with me because I won't fuck you.
+L127506 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Yeah.
+L127505 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'm making you feel like meat?
+L127504 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Just making me feel like a piece of meat.
+L127503 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ What's wrong? Am I doing something wrong?
+L127501 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Let's just start a party right here, right fucking now.
+L127500 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Are you coming to the party?
+L127499 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I don't know. I kind of am.
+L127498 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ So I should feel happy that he got away with it?
+L127497 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ But if he'd been sent to jail, there would be no Jody.
+L127496 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I can't believe I listened to one word of his shit.
+L127495 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I think this is a big part of growing up. It's losing your spiritual virginity. It's when you finally discover that your parents aren't anything they told you they were. They're even bigger hypocrites than your friends.
+L127494 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ My dad acts like he's Johnny Fucking Perfect and he's really Johnny Fucking Rapist.
+L127493 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ All our parents are weirdoes. I think my dad is into hookers. I know he lit cats on fire when he was a kid.
+L127363 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Yes!
+L127362 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'll think about it.
+L127361 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ They're not picking me up until six.
+L127360 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I have to go home after school. I have something really important I have to ask my mom.
+L127359 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I feel like I NEED YOU DAD'S permission just to kiss you. Jody, it's time to assert yourself To be a big girl. An individual. I'm going to this party tonight. Jimmy's my ride. Come over to my house after school. We'll go together.
+L127358 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I do not.
+L127357 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Yes you are. You always do. It's why we broke up. You always hide behind him.
+L127356 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'm not using him as an excuse.
+L127355 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ If you don't want to go with me just say so. Say 'Kenny, I DON'T WANT TO MAKE LOVE TO YOU' but don't use your dad as an excuse. I'm so sick of it.
+L127354 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ No I'm really grounded. When I got in late the other night, my father was waiting up for me.
+L127353 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Everyone's grounded. There's a killer on the loose.
+L127352 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'm so flattered but I can't. I'm grounded.
+L127351 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ You know I want to go with you.
+L127350 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Did Sharon say no?
+L127349 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Nobody wants to be the fourth. Please go with me.
+L127348 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Three of our classmates are dead. That's not really the occasion for a party.
+L127347 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Why?
+L127346 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Yeah. I think it's really sick.
+L127345 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I was worried about you. Did you hear about the bash?
+L127344 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I did.
+L127343 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I heard you got attacked.
+L127342 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'm fine.
+L127341 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Are you O.K.?
+L127023 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Jody, we've been going out for over a year. I love you but I'm all out of patience.
+L127022 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ What?
+L127021 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ You know, maybe we ought to start seeing other people.
+L127019 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Fuck your curfew. Most sixth graders can stay out later than you.
+L127018 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I got to get home.
+L127017 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ So? You're already late. A few more minutes won't matter.
+L127016 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I was supposed to be home fifteen minutes ago.
+L127015 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Why?
+L127014 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Cut it out.
+L127461 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ NO!
+L127460 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Not a day has gone by where your father has not torn himself to shreds for what happened. We both have...
+L127459 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ THAT'S why he called Mr. Sisler first. He was one of them.
+L127456 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Who was the fourth?
+L127455 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Yes.
+L127454 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ The principal?
+L127453 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Mr. Sisler was one of them.
+L127452 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You're not telling me something.
+L127451 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Two men left town right after it happened.
+L127450 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ The men. Do any of them still live around here?
+L127449 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Who?
+L127448 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Who were they?
+L127447 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ I've regretted it ever since. Never run with the herd just because they're the herd.
+L127446 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ The word is Mob.
+L127445 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ I don't know. We just did. I guess I was kind of scared going against the gain. Against the whole town.
+L127444 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ How could you?
+L127443 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ EVERYONE JUST KIND OF LOOKED THE OTHER WAY.
+L127442 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ And the police did nothing?
+L127441 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ They were proving to her they weren't. They were very drunk. Things were different back then. You think kids are sexually bottled up today....
+L127440 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ People thought these guys had a right to rape her because she called them 'queers'?
+L127439 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ They were children of our leading citizens, stars of the football team. And she was  a loner. An angry girl that no one really liked. She'd called them 'queers'.
+L127438 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Why not?
+L127437 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ No, I believed her. She was in pretty bad shape. Inside and out. But the boys were never formally charged.
+L127436 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ You didn't believe her?
+L127435 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ She was raped. At least that's what she claimed.
+L127434 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Attacked how?
+L127433 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Years ago, something horrible happened in this town. When I was still in high school. A girl named Elizabeth Sherman was attacked by four drunken seniors.
+L127432 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I'm not leaving. I want to know why you and dad are so freaked out. Three of my classmates are dead.
+L127431 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ What?
+L127430 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Wait.
+L127427 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Don't make me order you.
+L127426 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Whoever tried to kill me was made up to look exactly like this picture of Lisa Sherman, clothes and all. I think that concerns me.
+L127425 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ She's nobody you should be concerned with.
+L127424 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Who is she?
+L127423 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ I want you to come home with me right now, Jody.
+L127387 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ The library. I'll be fine.
+L127386 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Where are you going?
+L127385 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Not that I know of.
+L127384 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ No. I think she lived her a long time ago. Like twenty-eight years ago. When dad was eighteen.
+L127383 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ I've never heard of her. Maybe something else was on his mind.
+L127382 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ No but he got really weird. Like I've never seen him act. REALLY angry and super uptight.
+L127381 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Did he say anything else about her?
+L127380 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ That's what he said.
+L127379 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ What?
+L127378 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I overheard daddy mentioning her to someone. I he thinks she's the killer.
+L127377 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ I don't know. Where did you hear that name.
+L127376 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Yeah. Who is she?
+L127375 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Lisa Sherman?
+L127374 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Have you ever heard of someone named Lisa Sherman?
+L127373 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ You can ask me anything.
+L127372 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ I need to ask you something.
+L127371 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Yes?
+L127370 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Mom?
+L127369 +++$+++ u4438 +++$+++ m294 +++$+++ MARGE +++$+++ Hi princess.
+L127368 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Hi mom.
+L127245 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ His mother's an only child.
+L127244 +++$+++ u4436 +++$+++ m294 +++$+++ KILLER +++$+++ His mother's side.
+L127243 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ On what side of the family?
+L127242 +++$+++ u4436 +++$+++ m294 +++$+++ KILLER +++$+++ Yes. He asked me to come over and talk to you.
+L127241 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Kenny's aunt?
+L127240 +++$+++ u4436 +++$+++ m294 +++$+++ KILLER +++$+++ I'm Kenny's Aunt Lisa.
+L127239 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Yeah.
+L127238 +++$+++ u4436 +++$+++ m294 +++$+++ KILLER +++$+++ Are you Jody?
+L127237 +++$+++ u4434 +++$+++ m294 +++$+++ JODY +++$+++ Yes?
+L127591 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I'm worried about someone.
+L127590 +++$+++ u4446 +++$+++ m294 +++$+++ SHARON +++$+++ What?
+L127589 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ I got to go.
+L127588 +++$+++ u4446 +++$+++ m294 +++$+++ SHARON +++$+++ What are you doing?
+L127587 +++$+++ u4446 +++$+++ m294 +++$+++ SHARON +++$+++ I guess so. Luckily we won't have that problem.
+L127586 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ There's going to be very few virgins left in school on Monday. It could be really dangerous for them if the killer isn't caught.
+L127585 +++$+++ u4446 +++$+++ m294 +++$+++ SHARON +++$+++ What?
+L127584 +++$+++ u4435 +++$+++ m294 +++$+++ KENNY +++$+++ Just thinking about something.
+L127583 +++$+++ u4446 +++$+++ m294 +++$+++ SHARON +++$+++ You ok?
+L127577 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ You're the one who's hand is shaking.
+L127576 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ Now don't be nervous.
+L127575 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ So are you.
+L127574 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ You're so beautiful.
+L127276 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ No, you keep one.
+L127275 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ You can have both if you want.
+L127273 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ They're tasty.
+L127272 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ Yeah I was talking about Twinkies the other day and I realized I hadn't had one in years. Then I remembered seeing you with one.
+L127271 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ Did you want one?
+L127270 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ You got a great mom. I'm lucky to get a zucchini stick.
+L127265 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ Hi Sandy.
+L127264 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ Hi Mark, Cindy, Ben.
+L127116 +++$+++ u4445 +++$+++ m294 +++$+++ SANDY +++$+++ And she didn't?
+L127115 +++$+++ u4439 +++$+++ m294 +++$+++ MARK +++$+++ Dylan's been telling people that Annette gave him a blow job.
+L127579 +++$+++ u4441 +++$+++ m294 +++$+++ NERD 1 +++$+++ Told you to hide it.
+L127578 +++$+++ u4442 +++$+++ m294 +++$+++ NERD 2 +++$+++ Hey! That was a 3k machine.
+L127533 +++$+++ u4442 +++$+++ m294 +++$+++ NERD 2 +++$+++ I'm not leaving it here.
+L127532 +++$+++ u4441 +++$+++ m294 +++$+++ NERD 1 +++$+++ You can't bring it.
+L127531 +++$+++ u4442 +++$+++ m294 +++$+++ NERD 2 +++$+++ No.
+L127530 +++$+++ u4441 +++$+++ m294 +++$+++ NERD 1 +++$+++ Hide your laptop here.
+L127529 +++$+++ u4442 +++$+++ m294 +++$+++ NERD 2 +++$+++ Ok.
+L127528 +++$+++ u4441 +++$+++ m294 +++$+++ NERD 1 +++$+++ There's Jan and Heather. Let's grab them quick before someone else does.
+L127012 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ ROD!
+L127011 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ Stacy?
+L127002 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ Yes. Unfair to me.
+L127001 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ Unfair?!
+L127000 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ You're being unfair.
+L126999 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ Rod!
+L126997 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ I'm sorry, but you're not going to die a virgin Rod.
+L126996 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ Well I'm trying to be real here and you're mocking me.
+L126995 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ I know. I'm kidding you. Chill out.
+L126994 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ That wasn't me ...
+L126993 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ If sheep don't count.
+L126992 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ On our way home, a drunken driver could hit us head on and send us flying through the windshield. Terminate us instantly. We'd never experience what it means to make love.
+L126991 +++$+++ u4447 +++$+++ m294 +++$+++ STACY +++$+++ Yeah. I'm extremely worried about that. It's right up there with global warming.
+L126990 +++$+++ u4444 +++$+++ m294 +++$+++ ROD +++$+++ Aren't you worried you could die a virgin?

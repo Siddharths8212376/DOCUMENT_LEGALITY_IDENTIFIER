@@ -1,0 +1,200 @@
+L312383 +++$+++ u6062 +++$+++ m402 +++$+++ TELLER +++$+++ Well, then . . it's usually customary to bring the money with you.
+L312382 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Sure, sure I am.
+L312381 +++$+++ u6062 +++$+++ m402 +++$+++ TELLER +++$+++ Well, aren't you going to make a deposit?
+L312380 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ What?
+L312379 +++$+++ u6062 +++$+++ m402 +++$+++ TELLER +++$+++ You forgot something.
+L312378 +++$+++ u6063 +++$+++ m402 +++$+++ UNCLE BILLY +++$+++ Huh?
+L312377 +++$+++ u6062 +++$+++ m402 +++$+++ TELLER +++$+++ I guess you forgot something.
+L320859 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ I'm supposed to.
+L320858 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Sure you do -- you win either way.
+L320798 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ But of course.
+L320797 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ I can't wait to get there.
+L320794 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Soon, dark eyes, soon.
+L320793 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ When do we get to the lighthouse?
+L320792 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ So's mine.
+L320791 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ My hair's getting wet!
+L320784 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ I want to go faster!
+L320783 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ How fast is enough?
+L320782 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ Wheee!  Faster!
+L320754 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ With butter, if they got any....
+L320753 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ Great!  Find one for me.
+L320745 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ What the hell.  For you....
+L320744 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ For me...?
+L320742 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Well, I don't know....
+L320741 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ Come on, you guys.
+L320728 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ You going to the lighthouse?
+L320727 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ You can?
+L320204 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ What?
+L320203 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ With the right wind, 15-20 knots.
+L320202 +++$+++ u6076 +++$+++ m403 +++$+++ JACKIE +++$+++ How fast does this go?
+L321122 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ Swim for it!
+L321121 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Get on the rocks!
+L321101 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ Back down!
+L321100 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Easy, easy -- you'll swamp us!
+L321086 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ Stop paddling!
+L321085 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Don't!
+L321067 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ I think we're changing course a little.
+L321066 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Bring her to port a little.  That's it -- steady.
+L321027 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Sean!  Listen!  Listen to me, Sean.
+L321026 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ It's okay, it's okay....
+L320967 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ I can't help it  it sticks in my mind.
+L320966 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ What'd you do?  Memorize the tide tables?
+L320965 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ Low tide at Cable Junction is 7:46 p.m.
+L320929 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ No problem, no problem.
+L320928 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Someone pop your balloon?
+L320927 +++$+++ u6071 +++$+++ m403 +++$+++ DOUG +++$+++ Oh, shit.
+L320880 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I was counting on hours.
+L320879 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Putz -- that won't be for hours.
+L320876 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ It's not going to be easy.
+L320875 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ We better go back in.
+L320874 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Your dad must be really pissed.
+L320863 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Yee-hah!
+L320862 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Turkeys!  Eat wind!
+L320732 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Okay, okay, don't say I didn't remind you.
+L320731 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Shut up.
+L320730 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ I could give you a dozen good reasons.
+L320729 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Why not?
+L320711 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Then why are we futzing around the dock?  We can make a few bucks working at the beach.
+L320710 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Yeah.
+L320709 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ If you're beached, why are we doing this?  For practice?
+L320354 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ They're moving pretty fast.
+L320353 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Maybe by now they are.
+L320199 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I hope that's the cousin.
+L320198 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Who's that?  Quick -- I'm in love.
+L320099 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Good.  It's terrible.
+L320098 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ No.
+L320097 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Is she responsible for the punch?
+L320096 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Yeah, it's her job.
+L321090 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ We're hung up on something.
+L321089 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ What is it?
+L320348 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ Too hot in the lighthouse?
+L320347 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Why'd they decide to move?
+L320334 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ No big thing, we'll see who's out there, maybe picnic.
+L320333 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ The lighthouse?
+L320201 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Lucky.  Lucky, lucky, lucky.
+L320200 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ Over here.  I want you to meet somebody.
+L320194 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Mostly old garbage.  Today we found a '48 Hudson.
+L320193 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ Shells and lobsters and stuff?
+L320192 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Same as always -- glub-glub, bubble-bubble, stroke-stroke. There sure is some weird shit on the bottom of the ocean.
+L320095 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ What the hell.  Did your mom put all this together?
+L320094 +++$+++ u6069 +++$+++ m403 +++$+++ BROOKE +++$+++ That's awful.
+L320093 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ They're okay, if they got little white canes and tin cups.
+L321088 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ The Shark.
+L321087 +++$+++ u6078 +++$+++ m403 +++$+++ LUCY +++$+++ But the island!
+L321083 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Shit.  Shit, shit, shit!
+L321082 +++$+++ u6078 +++$+++ m403 +++$+++ LUCY +++$+++ But we had it!  We were headed right for it!
+L321030 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ We're throwing a rope and you better catch it, hear?
+L321029 +++$+++ u6078 +++$+++ m403 +++$+++ LUCY +++$+++ Listen to Andy, Sean.
+L321028 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Goddamn it, Sean, you listen to me or I will kick your ass, do you hear me?
+L320332 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Oh, out a ways.  Maybe the lighthouse.
+L320331 +++$+++ u6078 +++$+++ m403 +++$+++ LUCY +++$+++ Where're we going?
+L321078 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ What the hell, we're steering for it.
+L321077 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ I don't know.
+L321033 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Sean!  Catch it!
+L321032 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Throw it.
+L320995 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ There's a shark....
+L320994 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ As soon as you get us on the island, you got to call in.  My dad's the mayor....
+L320855 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ You're betting what you already got.
+L320854 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Loser sails home alone.
+L320789 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ Like hell!  We're on the starboard tack!
+L320788 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Coming up!  Give way!
+L320210 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ We'll take your supercargo.
+L320209 +++$+++ u6066 +++$+++ m403 +++$+++ ANDY +++$+++ We're carrying weight.
+L321103 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ Can you get us a line?
+L321102 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ We're hung up here.  Snagged.
+L321021 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ The rope!  The rope!
+L321020 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Sean!   Catch the rope!
+L320987 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ Over here!
+L320986 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Hey!
+L320983 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ Anyone got another set of sails?
+L320982 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ How're we going to do that floating on this garbage...?
+L320787 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ You bet.  Hang on....
+L320786 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ You coming up on him?
+L320749 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Want to swim home?
+L320748 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ Want to talk about it?
+L320747 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Let's just go sailing, okay?
+L320746 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ I thought you said she was going with us?
+L320208 +++$+++ u6067 +++$+++ m403 +++$+++ BOB +++$+++ Gangway, Turkies!
+L320207 +++$+++ u6077 +++$+++ m403 +++$+++ LARRY +++$+++ Coming up!
+L320904 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I need a hand here....
+L320903 +++$+++ u6089 +++$+++ m403 +++$+++ TINA +++$+++ It's still there!
+L320902 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What is it?  What's there?
+L320901 +++$+++ u6089 +++$+++ m403 +++$+++ TINA +++$+++ No!  It's still there!
+L320900 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ It's okay, it's okay.  What's the matter?  Tina?  Honey?  Hey ---
+L320899 +++$+++ u6089 +++$+++ m403 +++$+++ TINA +++$+++ N-o-o-o-o-o-o....
+L320898 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Tina!
+L320277 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Oh, yeah.  Sure.
+L320276 +++$+++ u6089 +++$+++ m403 +++$+++ TINA +++$+++ Chief Brody -- can we go?  Please?
+L320922 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Got it.
+L320921 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ See where Cable Junction is?  Look to the left.  The lighthouse.  That's it.
+L320920 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Never mind that shit.  Just point.
+L320919 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ About 10 degrees off your star- board bow, take a heading leeward of Sand Island, and lay her north by northeast....
+L320913 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Hey -- you can't do that.
+L320912 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I'm going out there.
+L320830 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Goddamnit, Hendricks, untie the rope there.
+L320829 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ You're too close.  Back off.
+L320826 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Please.  It's my job.
+L320825 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Untie that rope.
+L320824 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ But I signed for the boat.  You' re not authorized any more.
+L320823 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Mike's out there.
+L320820 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You can't stop me.
+L320819 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ I can't let you take her out.
+L320815 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ About an hour, maybe two.  Let's see -- I came on about eight....
+L320814 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ How long ago?
+L320469 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Right.
+L320468 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Oh yeah -- I'm expecting a long distance call, very important. Give them my home phone.
+L320467 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Shit -- I'm late for dinner... Close up, okay?
+L320466 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Nine-thirty, ten maybe.
+L320465 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ The drugstore's closed?  What the hell time is it?
+L320464 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Of course not,  They're closed. Phil Fogarty's place.  He'll do it for me.
+L320463 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Not the drugstore!
+L320462 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ I know just where to go.
+L320461 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You got it.
+L320460 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ If there is, develop it!
+L320459 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Well, what the hell -- might be something worth seeing.  Take it somewhere and see if there's film in it....
+L320458 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That one -- from the wreck.  You brought it up, did you look inside it?
+L320457 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ What camera?
+L320456 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What about that camera?
+L320455 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Oh.
+L320454 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ The woman passenger on the boat that blew up.
+L320453 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Positive I.D.?
+L320452 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You didn't miss much.  Christ, what a mess.
+L320451 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ I missed you at the funeral home. Santos said you were here.
+L320450 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ In here.
+L320449 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Chief?
+L320402 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Could you just keep that crowd back, please?
+L320401 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ We got a helluva tide this month.
+L320244 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ If you had a $100,000 boat there'd be an investigation.
+L320243 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ If I had a $100,000 boat, I sure as hell wouldn't leave it anchored alone in the channel.
+L320242 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Rich people.  Home port is Newport, Rhode Island.
+L320241 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Abandoned?  It's a little early in the season for that.
+L320240 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Diver's camera.  Tom Andrews brought it up from under that abandoned cruiser.
+L320239 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I just made it up.  It means, "Get me out of there."  What the hell's that?
+L320238 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ I never heard of a 908.
+L320237 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Hendricks.  I want to go over your reports and your Form 908.
+L320236 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Chief....
+L320174 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Then check it out.  I'll be in the office.
+L320173 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Happy to do it.
+L320172 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ On your own time?
+L320164 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Till noon.  This is on my own time.  Hi, Shorty.
+L320163 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Aren't you off-duty?
+L320162 +++$+++ u6075 +++$+++ m403 +++$+++ HENDRICKS +++$+++ Good morning!
+L321064 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Stay here.  Don't go anywhere. Just stay here.
+L321063 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Dad, I'm sorry....
+L321058 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What?
+L321057 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Sean's still out there.
+L321056 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Jesus, don't freeze on me.  What about the others?
+L321055 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ At least you're safe.  What about the others?
+L321054 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I passed out, but I'm okay.
+L321051 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ It's okay.  What happened?
+L321050 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Pop.  I'm sorry.
+L321049 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Mike?  Is that you?
+L320499 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ No backtalk!  I spoke to Upton, at the beach, and he's got a job for you there.  You can work until school starts.
+L320498 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Hey, come on....
+L320497 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Sailing?  Forget it.  You're beached. Grounded.  No more boats.
+L320496 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I kind of had plans....
+L320495 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I got something for you to do tomorrow.
+L320491 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You want to come here a minute?
+L320490 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Yeah?
+L320489 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Michael.
+L320475 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Not till next year.

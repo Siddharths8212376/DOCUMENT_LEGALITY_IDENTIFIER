@@ -1,0 +1,200 @@
+L226002 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ What happened that night?
+L226001 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ I'm trying.  I'm really trying.
+L226000 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ I don't know.  I don't see you for months on end, and when I do, you put this wall between us.  How do I break through?
+L225999 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ I'm here with you.  Can't that be enough for now?
+L225998 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ And, what about us?
+L225997 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ ... To prove something to myself... to prove I'm stronger than I think I am.
+L225996 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Why did you come back here?
+L225995 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ The quiet can fool you.  It fooled me.  You can never be sure of what's out there.
+L225994 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ What do you mean?
+L225993 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ It's deceiving.
+L225992 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ You know, I'm not sure I could live anywhere else.  The nights are always so peaceful and quiet.
+L225954 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Why don't we drive over to the cove and watch the sunset.  It'll mellow you out.
+L225953 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ This is too painful to look at.
+L225887 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ No.  I can look around by myself. I'll take the upstairs.
+L225886 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Let's spread out and check all the rooms.  Outside, too.  You stay with me.
+L225885 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Are you all right, Shelly?
+L225884 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Shelly!  Where are you?!
+L225872 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ I'm serious.  Doesn't this look a little strange to you?
+L225871 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Goldilocks and the Three Bears?
+L225870 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Somebody was in here.
+L225869 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ No.  I got here just before you did.
+L225868 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Did you stay here last night?
+L225867 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Look what I found.  Remember these?
+L225845 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Nothing.
+L225844 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ What?
+L225843 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ This door was open just a minute ago, wasn't it?
+L225840 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Okay.  There's a whole weekend ahead of us.  There's time.
+L225839 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Just slow down.  Let me get to know you again.  Let me get to know this place again.
+L225838 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ You're irresistible.  I lose control.
+L225837 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ I don't know.
+L225836 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Is that so bad?
+L225835 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ You haven't changed a bit.  Always so sure of yourself.  Even when we were kids, when you wanted something, nothing could stop you.
+L225834 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Hello.  How are you?
+L225833 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ You can say... "Hello, how are you?"... for starters.
+L225832 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ I'm sorry.  I just wanted to surprise you.  What can I say?
+L225831 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ You know what I've been through. Don't ever scare me like that.
+L225830 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Why?
+L225829 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Derek... stop.
+L226042 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ You're wrong.
+L226041 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ You don't to say it.  I can tell.
+L226040 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ I never said you were "nothing".
+L226039 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Being a jerk is better than being nothing.
+L226038 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ I do like you.  But not when you act like a jerk.
+L226037 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I just want you to like me.
+L226036 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ You don't "have to."
+L226035 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I have to.
+L226034 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Why do you do these stupid things?!
+L226033 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Damn you, Shelly!
+L226032 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ You've just learned a valuable lesson.  A beautiful girl like you should never go out in the dark alone.
+L226018 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Don't say any more.
+L226017 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Vera... you and I have had a chance to really get to know one another today.  I like you... very much.  I was thinking that maybe.
+L225952 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ A few minor repairs and it'll be as good as new.
+L225951 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ We're really sorry, but it wasn't our fault.
+L225949 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ It was nothing.
+L225948 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ We had a slight misunderstanding with that motorcycle gang...  ... but Shelly made them see the error of their ways.
+L225942 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Look at it this way... things can only get better... Right?
+L225941 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ This has been on helluva beginning to a quiet weekend in the country.
+L225940 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Stop the car!  Now!!
+L225939 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Bullseye!
+L225938 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ You're the boss.
+L225937 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ No time to explain.  Just listen. When I yell "stop," you jam on the brakes as hard as you can.  Okay?
+L225936 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ What're you doing?
+L225935 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Just keep your eyes on the road.
+L225934 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ This is no time to celebrate!
+L225933 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Maybe.
+L225932 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Got any good ideas?
+L225928 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Keep looking.
+L225927 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I don't see anything.
+L225925 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Stop worrying.  I don't think they'll bother to come after us.
+L225924 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Just a dirty window.  Next time, I'll know how to handle a situation like that.  Let's just hope that "next time" isn't too soon.
+L225923 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ See anything?
+L225920 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Gulp!
+L225919 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Yes.
+L225918 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Are they following us?
+L225914 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ May be please have the wallet.
+L225913 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Please... be cool.
+L225906 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Excuse me, but I believe that's mine...
+L225905 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Everything's gonna be fine.
+L225904 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Is... is everything all right?
+L225804 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Not us!  He's really creepy.
+L225803 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Come on, Shelly.  Who else is gonna give him a lift?
+L225802 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ That scarecrow?  Can't you tell how weird his is just by looking at him.
+L225789 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Uh... I guess I'm just not hungry.
+L225788 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Why don't you help us?
+L225787 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Faster!  Eat faster!
+L225777 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ Destroy the evidence, Pronto!
+L225776 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ What are we gonna do?
+L225773 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Stick around and you'll see.
+L225772 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ In that little thing?
+L225771 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ My whole world.
+L225770 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ What d'ya got in there?
+L225755 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I'm sorry.
+L225754 +++$+++ u5411 +++$+++ m359 +++$+++ VERA +++$+++ You're Shelly?
+L225753 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Hi.
+L226327 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ No way...  ...I wanna rock!
+L226326 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ That's it.  Pull over.  I'm drivin'.
+L226318 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ Alright, alright.
+L226317 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ Will you hurry up!  I gotta get this fuckmobile back before Horace finds out I took it.
+L226315 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ What?  Who pulled it out?!
+L226314 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ Go out and plug the cord back in.
+L226313 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ What?
+L226311 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ My friggin' stepfather and asshole- in-residence.
+L226310 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ Who's Horace?
+L226309 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ If this thing is burned out, friggin' Horace will ground my butt.
+L226308 +++$+++ u5415 +++$+++ m360 +++$+++ JILL +++$+++ Great.  Just great.
+L226307 +++$+++ u5412 +++$+++ m360 +++$+++ CORT +++$+++ I thought that was the end of the song.
+L226165 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ Stay cool?  You ain't Dirty Harry. Now stop it.
+L226164 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Don't worry about it.  Just stay cool.
+L226161 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ That's it.  We're driving this baby back to town... in reverse.
+L226160 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Oh, jeez.
+L226158 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Just drive.  He'll get out of our way.
+L226157 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ That's a freakin' fact.  Least of all us.
+L226156 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ That's right.  Just drive toward him.  He'll move.  Nobody wants to die.
+L226155 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ We're gonna scare him?!
+L226154 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Yeah... We're gonna scare him.
+L226150 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ Why?  Because I've seen enough horror movies to know masked weirdos are never friendly.
+L226149 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Why?
+L226148 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ Darren, we better turn around.
+L226145 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ I admit nothing without talking to my lawyer.
+L226144 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ You admit the sign did say "Camp Forest Green," with an arrow pointing this way.
+L226143 +++$+++ u5418 +++$+++ m360 +++$+++ LIZBETH +++$+++ Well, who told me to take this cow path?
+L226142 +++$+++ u5413 +++$+++ m360 +++$+++ DARREN +++$+++ Will you slow down?  It's hard enough to read this thing.
+L226431 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ Sheriff, you better take this.
+L226430 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ You just sit tight, Jason.  Once the authorities from Carpenter get here, you'll...
+L226370 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ Happy Friday the 13th.
+L226369 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Whaddya mean?
+L226368 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ He sure chose the right day to pull this shit.
+L226367 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Better get out the Hefty Bags... Looks like our boy desperately wants us to believe his story.
+L226366 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ I wish it was.
+L226365 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Is that all you found?
+L226244 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Better call an ambulance first.
+L226243 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ Maybe we better call that psychiatric clinic.
+L226242 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ I'm getting real tired of this maniac.
+L226231 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ But that's no what worries me the most...It's how far he'll go to try and prove it.
+L226230 +++$+++ u5414 +++$+++ m360 +++$+++ DEPUTY +++$+++ He really believes Jason's still alive, doesn't he?
+L226229 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ It's kinda frightening to think that a kid like that can go so far over the edge.  Jason really screwed up the poor sonofabitch's mind.
+L226239 +++$+++ u5416 +++$+++ m360 +++$+++ KATIE +++$+++ I could swear I heard...
+L226238 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ Ahh, nothing.
+L226235 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ Yeah, but the game's not over until it's over.
+L226234 +++$+++ u5416 +++$+++ m360 +++$+++ KATIE +++$+++ Of course not.  If he hasn't already accidentally pelleted himself, I'm sure he's lost.
+L226233 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ You don't know for sure.  What about Roy?  Nobody's seen him.
+L226232 +++$+++ u5416 +++$+++ m360 +++$+++ KATIE +++$+++ Come on, you guys!  The game's over!!
+L226204 +++$+++ u5416 +++$+++ m360 +++$+++ KATIE +++$+++ See any paint?...  ...Sorry, guys, I did in Mr. Commando.  Survival is the name of the game, and that flag is mine.
+L226203 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ Now wait a second!  I thought Burt shot you.
+L226202 +++$+++ u5416 +++$+++ m360 +++$+++ KATIE +++$+++ ....with a woman's touch.
+L226206 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ It's a damn company executive game, and she's a damn company exec.
+L226205 +++$+++ u5417 +++$+++ m360 +++$+++ LARRY +++$+++ Never should've let her play.
+L226201 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ This is a man's game.  Requiring a man's cunning and intelligence...
+L226200 +++$+++ u5417 +++$+++ m360 +++$+++ LARRY +++$+++ You become a whole other person when you're out here, Stan.  And I don't like it.
+L226199 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ Yeah, that's fat too.
+L226198 +++$+++ u5417 +++$+++ m360 +++$+++ LARRY +++$+++ My ass.
+L226197 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ That's your problem, Larry. That's why your sales are always below quota.  Your instinct to eat is stronger than your instinct to win.
+L226196 +++$+++ u5417 +++$+++ m360 +++$+++ LARRY +++$+++ This is taking forever.  I'm starving.
+L226195 +++$+++ u5424 +++$+++ m360 +++$+++ STAN +++$+++ Once we nail Roy, that's it. Victory is ours.
+L226440 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Yes, Megan.  Tommy Jarvis is a killer.  A very deranged boy who wants you to believe that...
+L226439 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ No.  No, it's not...
+L226436 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ And make sure my daughter stays put...  ...She's grounded.
+L226435 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Daddy, what is going on?
+L226434 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Rick.  Keep and eye on our wacko kid.  I'll be back as soon as I can.
+L226427 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ We have!  Trying to track you down.  The phone there is disconnected.
+L226426 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Can't you at least call the camp and make sure everything's all right?
+L226423 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ All he's asking is for you to check it out.
+L226422 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ ...And I said, shut up!
+L226349 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ He is.  Only Tommy wants to prove the legend is true...  ...You stay put.  And I'm not kidding.
+L226348 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ I thought Jason was only a legend?
+L226347 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Not what...who.  Seems your boyfriend wants people to believe Jason has returned.
+L226346 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ What it is?
+L226337 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ You watch that smart-mouthing, young lady.
+L226336 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ How do you know?  Did you take his temperature?
+L226335 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ When you stop acting like one... Tommy Jarvis is a very sick boy. And you...
+L226334 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ When are you going to stop treating me like one!
+L226189 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Megan, take your friends back to the camp.  I'll let you know if I hear anything about your counselors.
+L226188 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ But, Dad, we...
+L226182 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Megan, get away from him.  He's dangerous.
+L226181 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Jason who?
+L226173 +++$+++ u5422 +++$+++ m360 +++$+++ SHERIFF +++$+++ Megan, my deputies have more important things to do than look for camp counselors with car trouble.
+L226172 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Come on, Dad.  You could have Rick drive down Cunningham Road and look for them.
+L226524 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Yes.  And I said, hand me those padlocks.
+L226523 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Did you hear me?!
+L226522 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Whew...Okay, hand me those padlocks.
+L226504 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ I hope so.
+L226503 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ They did show up.  Isn't that great?
+L226492 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Crystal Lake...where the nightmare began.
+L226491 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Lake Forest Green?
+L226490 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ It probably wouldn't have any effect on him.  The only sure way to stop Jason is to return him to his original resting place, where he drowned in 1957.
+L226489 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Are you sure this is gonna work? I mean, why didn't we bring that gun and just blast him away?
+L226478 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ I thank you for getting me out. But I gotta finish what I started.
+L226477 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Wait a minute. I just...
+L226476 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Sorry, Megan.  Not this time.
+L226464 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Come and get it.
+L226463 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Okay, give it back.
+L226462 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ 'Cause it stinks.
+L226461 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ Why?
+L226460 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ No.
+L226459 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ There...Ya happy?
+L226456 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ What's it to ya?
+L226455 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ So what are ya drawin'?
+L226405 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ It's just beginning.
+L226404 +++$+++ u5419 +++$+++ m360 +++$+++ MEGAN +++$+++ It's all over.
+L226387 +++$+++ u5425 +++$+++ m360 +++$+++ TOMMY +++$+++ Okay.  There's one.

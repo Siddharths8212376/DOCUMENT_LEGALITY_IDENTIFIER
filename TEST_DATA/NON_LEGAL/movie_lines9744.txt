@@ -1,0 +1,200 @@
+L160966 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I don't know.
+L160965 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Linda... Honey, what's wrong?
+L160890 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ That's wonderful. I think you should... fresh air.
+L160889 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yeah... All the guys, we're all going huntin'. Like we did. You know? Like we always used to.
+L160888 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I see you're going hunting.
+L160887 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What?
+L160886 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ You're going hunting?
+L160885 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Oh. Nothing... Sitting.
+L160884 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ What are you doing?
+L160883 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Right here.
+L160882 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Nick?
+L160755 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Nick. It's okay... It's okay.  I have to go now.
+L160754 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I'll kill 'em. Anybody bothers you, I'll kill 'em!
+L160753 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ No-o-o!
+L160750 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Oh, it's great. Fine.
+L160749 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Does this... I mean, how does this job work out?
+L160747 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Naw, it's... This guy wants his money.
+L160746 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Maybe... I don't know, if you want to talk --
+L160745 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Naw, it's... I mean...
+L160744 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Nick?... I just want to say how sorry I am about Sal and about Merle. How... I know you loved them and I know it's not the same. I mean now.
+L160740 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Oh, no. It just kind of goes thump. Would you like a Coke? You don't drink Coke. Or maybe you do. What about champagne? Let's have champagne! I don't think we have champagne. Let's have this. See? Sparkling. I'll get you an opener. Oh, that's right. No opener. Let's just have beer. Do you want some cheese? Or maybe eggs? Maybe we should have coffee.
+L160739 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Did you get hurt? You didn't get hurt?
+L160738 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Is that what it is? I couldn't figure out.
+L160737 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Frost.
+L160736 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Great. Fine... Once or twice it did fall off the blocks. I don't know what that's from.
+L160735 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ How's the trailer?
+L160732 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I made you a sweater.  Here... You have to take that off.
+L160731 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ It was just the complications. I mean, you take a little thing over there and then you get complications. I mean all the guys had it.
+L160730 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ But --
+L160729 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ That was nothing. That wasn't anything.
+L160728 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Fine. I just go along, you know. Down at the market. Back here. I mean it just seems there's a million things to do!... Are you sure you're all right? I mean, what about the wound?
+L160727 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Fine. I'm fine. How are you?
+L160726 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ How are you?
+L160725 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Oh, Nick! Oh I missed you so!
+L160724 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ No.
+L160723 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I thought... Oh, Nick, I thought you were hurt, some accident. Maybe you fell or maybe some car...  I thought someone stole you away!
+L160398 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Give her Miller's. Miller's High Life.
+L160397 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I don't know.
+L160396 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What kind of beer would you like?
+L160395 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Sure.
+L160394 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Sit with Linda, man, will ya?... Give her a beer.  Would you like a beer?
+L160389 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I don't know! I don't know either!
+L160388 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I don't know what we've been waiting for!
+L160384 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Would you?
+L160383 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Okay.
+L160382 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Will you marry me?
+L160381 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ What?
+L160380 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Linda, Linda...!
+L160379 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I would want to pay you, Nick... and I was thinking --
+L160378 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Linda... Hey, Linda...
+L160377 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I'd want to pay you... and I was thinking --
+L160376 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Sure. Are you kidding? Sure.
+L160375 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ I was just wondering... Nick... You're going hunting... If I could use this place to stay, because...
+L160374 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Oh... You know...
+L160373 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Linda, what's the matter?
+L160372 +++$+++ u4805 +++$+++ m320 +++$+++ LINDA +++$+++ Hi.  Nick, your shoes are soaking.
+L160371 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Linda...
+L160685 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Nick.
+L160684 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ How extremely clever. That is really most extraordinaire... Allow me please to introduce myself. I am Armand... And you are?
+L160683 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ And then you...
+L160682 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ We... Three bullets.
+L160681 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ Playing?
+L160680 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Playing.
+L160679 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ Ah yes. Of course... So few survive.  La creme de la creme... How did you obtain release?
+L160678 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Up north.
+L160677 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ Mais certainment... A great deal of money. Naturally I do not do it myself. I myself do not possess the nerve.  But I am always... how do you say... looking out for those who do... It is a thing quite rare. Champagne perhaps? Tch, tch. Don't say no. When a man says no to champagne, he says no to life and that no man must ever do.  Where did you play?
+L160676 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I... No. You do this for money?
+L160675 +++$+++ u4806 +++$+++ m320 +++$+++ MAN +++$+++ You seem... disturbed.
+L160633 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Sure. Sure, Sal. We're going home.
+L160632 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ Where are we going, Merle? Are we going home?
+L160631 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Sal!  Sal... Goddamn it, Sal, don't you know anything?
+L160624 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Right here.
+L160623 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ Where are we going, Merle? Are we going home?
+L160622 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Right here.
+L160621 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ Merle?
+L160558 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ Merle, I wanna go home!
+L160557 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Listen to me, Sal. If you don't do it they'll put you in the pit. If they put you in the pit, Sal, you're gonna die... Sal, do you understand?
+L160556 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ This is horrible!
+L160555 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You have to think about this, Sal. Listen to me, Sal! You have to think about this.
+L160554 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ I want to go home, Merle.
+L160553 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Sal... listen to me, Sal! You have to do it.
+L160552 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ No. No, no.
+L160551 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You can do it, Sal.
+L160426 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Who the hell knows!
+L160425 +++$+++ u4809 +++$+++ m320 +++$+++ SAL +++$+++ Who the hell is he?
+L161086 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Merle... Hey, Merle, listen...  Why?
+L161085 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I like it, Nick.
+L161084 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Fine. She's fine... Merle, what the hell are you doing?
+L161083 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ How's Linda?
+L161082 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Sit down.
+L161081 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I did. I... This is stolen. I came back.
+L161080 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Nick!... I thought you went home.
+L161079 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Merle...! Jesus! Hey, how are you?
+L160598 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ YOU'RE CRAZY!!!... NO WAY!... NOW YOU'RE CRAZY!!! YOU'RE COMPLETELY CRAZY!!!
+L160597 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ When you get the AK, open up. You got me? Open up.
+L160596 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ No. No way!
+L160595 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I'll pick the moment, Nick. The game goes on until I move. When I start shooting, go for the nearest guard and get his gun.
+L160594 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ No way. No fucking way!
+L160593 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Three bullets -- minimum.
+L160592 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ How many bullets?
+L160591 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Nick... NICK!!! It's the only chance we've got!
+L160590 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ With more bullets?... Against each other?... Are you crazy!!! Are you fucking nuts!!!
+L160589 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ More bullets in the gun... The trouble is that still leaves one of us with his hands tied up, so that means we gotta play each other.
+L160588 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ More bullets in the gun?
+L160587 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ We gotta play with more bullets, Nick. It's the only way.
+L160586 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ We what?
+L160585 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ We gotta play with more bullets.
+L160584 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ LISTEN, NICK! GET IT THROUGH YOUR HEAD OR YOU AND ME ARE BOTH DEAD TOO!
+L160583 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Merle...
+L160582 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Forget Sal... Listen to me -- forget Sal! I've been working on Sal since dawn, Nick. Sal's in a dream and he won't come out. LISTEN!!! From here on you gotta go for you. You hear me? For you!
+L160581 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Forget Sal?
+L160580 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I mean forget Sal... Sal can't take it, Nick.
+L160579 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What do you mean?
+L160578 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Forget Sal.
+L160577 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Okay, okay!  Okay. Okay, you're right... What about Sal?
+L160576 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Get off your ass, Nick. Get off your fucking ass and stand up!!!
+L160575 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ You're right... Okay, you're right.
+L160574 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Nick, you're wasting your time... Listen to me! You're wasting your time! This is no fucking time for hoping or praying or wishing or any other shit! This is it. Here we are... And we gotta get out!
+L160573 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What do you think?
+L160572 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I suppose you wish you were somewhere else?
+L160571 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I'm doing that too.
+L160570 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I thought you might be praying.
+L160569 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What else?
+L160568 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ What are you, hoping?
+L160567 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ They bombed last night, right? Didn't they bomb? If they bombed last night, they could bomb tonight. They could be up there right now!
+L160566 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Listen, asshole, it's up to us!
+L160565 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ What are you, God?
+L160564 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I'm telling you, Nick, no one's going to come.
+L160540 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Yeah... I mean so he knows... He doesn't even know.
+L160539 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Hunt with Vince?
+L160538 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Tomorrow I go with Vince.
+L160537 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Huh?
+L160536 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Hey, Nick?
+L160495 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ It's ahead, Vince.
+L160494 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ It's ahead, by the tree.
+L160457 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ You got it.
+L160456 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Promise! You gotta promise!
+L160455 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Merle --
+L160454 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I love this fuckin' place... That sounds crazy. I know that sounds crazy, but I love this fuckin' place... If anything happens, Nick, don't leave me there. I mean it. Don't leave me... You gotta promise, Nick. You gotta promise me that.
+L160453 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Yeah.
+L160452 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ From Nam?
+L160451 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You think we'll ever come back?
+L160429 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Well, where's he from?
+L160428 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Hell no!
+L160427 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Is he from here?
+L160419 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Oh.
+L160418 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Pow.
+L160417 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Pow?
+L160416 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Pow.
+L160415 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ What'd he say?
+L160411 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Fucking A. See that ribbon in the left. That's Quan Son. That fucking guy was at Quan Son!
+L160410 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ From Nam?
+L160409 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Nick, he just came back.
+L160352 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Yeah.  When it comes to hunting, that's true.
+L160351 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ You're a fucking nut. You know that, Merle? You're a fucking maniac!
+L160350 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Who's a yo-yo...? Who do you think's a yo-yo! They're all yo yo's. I mean they're all great guys, for Christ's sake, but... The point is, Nick, without you I'd hunt alone. Seriously. I would. That's what I'd do.
+L160349 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yo-yo! Who's a yo-yo?
+L160348 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I'll tell you something, Nick. I wouldn't hunt with anyone but you. I won't hunt with a yo-yo.
+L160347 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I don't know... I guess I think about the deer... Being out, maybe. I don't know. I think about it all. Hell, I like the trees, you know? I like the ways the trees are, all the different ways the trees are too.
+L160346 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ What do you think about?
+L160345 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yeah... I guess.
+L160344 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You have to think about the shot. It's the shot. The shot's it.
+L160343 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I don't think about the shot that much.
+L160342 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Fucking A.
+L160341 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ The shot?
+L160340 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ So do I.  I want to be ready... You have to be ready... It has to be there, in your mind.
+L160339 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yeah.
+L160338 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You think about it?
+L160337 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yeah.
+L160336 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You do?
+L160335 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ So do I.
+L160334 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I just wait. For this... It's what I wait for... I wait all year.
+L160333 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Huh?
+L160332 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ I just wait. You know?
+L160331 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Yeah.
+L160330 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ That way it sets.
+L160329 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ I know.
+L160328 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You should have put that on last night.
+L160291 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Right.
+L160290 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Won't we? Right? Am I right?
+L160278 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ There's Vince!
+L160277 +++$+++ u4808 +++$+++ m320 +++$+++ NICK +++$+++ Humper's ready. Old humper's hotter'n damn hell!
+L160527 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ You know what I think? There's times I think you're a goddamn faggot!... I fixed you up a million times, Merle!  I fixed him up a million times! I don't know how many times I fixed him up... and nothin' ever happens... Zilch! Zero!... The trouble with you, Merle, no one knows what you're talking about! "This is this"? What does that mean, "this is this"? I mean is that some faggot bullshit, or is that some faggot bullshit!!! And if it isn't, what the hell is it???
+L160526 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ This is this, Vince. This isn't something else. This is this!
+L160525 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ You're one fuckin' bastard, Merle. You know that? You're one fucking bastard!
+L160522 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You gotta learn, Vince! You come out here... You got no jacket, you got no pants, you got no knife and you got no boots. You think everyone's gonna take care of you! That's what you always think, but this time you're wrong. This time you're on your own!
+L160521 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ Some fuckin' friend... You're some fuckin' friend, Merle!
+L160520 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ That's it. No. No way.
+L160519 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ What do you mean, no???
+L160518 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ No.
+L160517 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ No!!!?
+L160516 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ No.
+L160515 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ Then lemme have 'em.
+L160514 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Sure I got boots. I got boots right here.
+L160491 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ Here! This is it!
+L160490 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ Watch it, shithead!
+L160489 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ Here, here! This is it!
+L160437 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ How much? How much do you wanna bet?
+L160436 +++$+++ u4812 +++$+++ m320 +++$+++ VINCE +++$+++ I'll betcha! That's bullshit and I'll betcha! You're fulla shit!
+L160435 +++$+++ u4807 +++$+++ m320 +++$+++ MERLE +++$+++ You wanna bet?

@@ -1,0 +1,200 @@
+L474705 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ But you never can tell. Why don't you get that new rifle out of the wagon?
+L474704 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Yeah, it does.
+L474703 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Maybe I should. But I was never much on killin'. Anyway, he moved too quick and I just got him through the shoulder.  Looks pretty peaceful up ahead.
+L474702 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Maybe you shoulda killed him.
+L474701 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I caught up with Lednov in Nogales. He didn't like the idea of comin' back across the border but he came. I turned him over to the sheriff and -- that's the story.
+L474700 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Oh... that's the time you went away.
+L474699 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ That's what I told you then. Only he didn't. Lednov killed him.
+L474698 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Sure I do. Went off down to Mexico or something...
+L474697 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ You remember Jeff Rawson? -- We used to go fishing and hunting with him when you were so high.
+L474696 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Sure I remember. You went to Mexico lookin' for cattle.
+L474695 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I guess I have. You were pretty little when they locked him up. I don't suppose you even remember that time I was gone two months.
+L474694 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Okeh, I was wrong. But you can't expect a fellow who never saw Lednov and never heard his name until a while ago to do too much worryin'. You've been sorta close mouthed about him.
+L474692 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ I won't again.
+L474691 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ It's all right with me if she teaches you, but I don't want you forgettin' your job.
+L474675 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Sure. You'll find it under the wagon seat. Like I said before, a twenty- two's more your size.
+L474674 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Can I have my gun back?
+L474673 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ That's right, Steve.
+L474672 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ A man can't help gettin' excited once in a while.
+L474670 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Good thing you didn't.
+L474669 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ They were quite a ways off and the wind was blowin'. I didn't have them to aim.
+L474668 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ How'd you happen to miss?
+L474667 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ There was only three of them at first. I guess I lost my head.
+L474552 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Swimming.
+L474551 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Where'd they go?
+L474496 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Morgan blood. The beat in Nevada. Clay and me have a place on the Toulomne River. We're going to raise horses like these.
+L474495 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I've got eleven horses.
+L474474 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Things get tough next winter, you'll have somethin' to wear.
+L474473 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ They sure must have been travelin'. This keeps up we can start a store.
+L474470 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Lednov.
+L474469 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ He doesn't like me. What you eatin'?
+L474468 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Why?
+L474467 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Yeah -- and Lednov's only lookin' for one man. Me.
+L474466 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Sure a lot of guys lookin' for Lednov.
+L474464 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Unless the sheriff gets too close and he holes up.
+L474463 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ And meet him there.
+L474462 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ That's Lednov!  We come along here.
+L474456 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ All right. I'll tell you.
+L474455 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Do you have to be so close-mouthed? I'm your brother. And I'm ridin' with you. Remember?
+L474454 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Maybe at the ranch. Maybe sooner than that.
+L474453 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ At the ranch maybe?
+L474452 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Yes.
+L474451 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ You must be plenty worried about Lednov sneakin' up on us.  Think he will?
+L474449 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ This is an awful nice gun.  Certainly come in handy when there's men around who shoot people that aren't lookin'.
+L474448 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ The other fellow wasn't even lookin'.
+L474447 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ In a fight?
+L474446 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ You sure worry that bone. He killed a fellow.
+L474445 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ What was he in jail for?
+L474444 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ The thing to do is stick to rabbits.
+L474443 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ But it's leaded up and anyway a 22's no good for real huntin'. You shoot a man with a 22 and where are you?
+L474440 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Nice.
+L474439 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ No call to. That jail looked pretty solid to me.  How's she feel?
+L474438 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ You never said this Lednov's name before, that I can remember.
+L474437 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I don't want to run short.
+L474436 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Like why you're buyin' a whole slew of 30 30 shells all of a sudden.
+L474435 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Like what?
+L474434 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ You might tell a fellow things, 'specially if the fellow's your brother, seems to me.
+L474430 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ A man I used to know.
+L474429 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Who's Lednov?
+L474402 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ I don't see no sense to makin' people leave town if they don't want to leave.
+L474401 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ That's right.
+L474395 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ A little hot.
+L474394 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ How does she draw?
+L474801 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ What's there to be fair about?
+L474800 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ You're not bein' quite fair.
+L474798 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ Nobody asked you to.
+L474797 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I can't take her with me.
+L474796 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ All right, you didn't know.
+L474795 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I'm sorry about this, Mr. Wyatt. I didn't know you had a daughter.
+L474794 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ What's there to be fair about?
+L474793 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ You're not bein' quite fair.
+L474791 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ Nobody asked you to.
+L474790 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I can't take her with me.
+L474789 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ All right, you didn't know.
+L474788 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ I'm sorry about this, Mr. Wyatt. I didn't know who she was.
+L474761 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ The whole state's lookin' for 'em.  And they're lookin' for me.
+L474760 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ Yeah, how did you know?
+L474759 +++$+++ u2621 +++$+++ m171 +++$+++ CLAY +++$+++ Three men on matched roans?
+L474758 +++$+++ u2633 +++$+++ m171 +++$+++ WYATT +++$+++ You can light the lamp.  I'm sure glad it's you. We were afraid those killers might come back.
+L474654 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ That's a good girl.
+L474653 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ I'm sorry. Let's go.
+L474652 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Don't act so -- crazy.
+L474651 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ Don't ask me because I won't tell you! I won't tell anybody! Go away!
+L474650 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Runnin' off and worryin' people. Makin' it tougher on Clay than it is already.
+L474649 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ What's botherin' you, anyway?
+L474648 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ I said I didn't care.
+L474647 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ Suppose that Lednov was to have found you, instead of me. Why you wouldn't have had a chance.
+L474646 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ I don't care.
+L474645 +++$+++ u2632 +++$+++ m171 +++$+++ STEVE +++$+++ You can't stay here. There's snakes and it's cold and you'll just get sicker.
+L474886 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ If she says anything to them I'll kill her.
+L474885 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ There, there. Don't you upset yourself --
+L474884 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ She mustn't -- don't you let her --
+L474883 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ That's right -- you go back to sleep. Tomorrow when you feel better things will look a whole lot different. Don't you worry about anything -- Mary's going to talk things over with your folks --
+L474882 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ Go away -- please.
+L474881 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Darling -- now I've got you all upset.
+L474880 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ Stop it -- stop it.
+L474879 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Not if I know Mary. When she rides into Sonora, you'll be with her. And mighty glad to be there after this. I don't see how you stood it as long as you did.
+L474878 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ I'm not going anywhere. I'm staying here where I belong.
+L474877 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Drink this and stop being silly. Why would anyone want to live in this place. You might as well be dead and buried. Nothing to do but look at mountains. In a week you'd be talking to yourself.  Maybe that's what got you started in the first place.
+L474876 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ But I want to stay.
+L474875 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Don't talk -- eat -- we want to get you well quick as we can so we can all get out of here.
+L474874 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ It isn't that --
+L474873 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ If you're worried about Mary and me talkin' too much, don't. No matter how many questions your old man asks. We know how to keep our mouths shut.
+L474872 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ Of course I do -- but it'd be better for you -- and the house is kind of small --
+L474871 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ He won't take us.  Don't you want us around?
+L474870 +++$+++ u2623 +++$+++ m171 +++$+++ ELAINE +++$+++ Helen -- why don't you and Mary go on with Clay?
+L475043 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Well cheer, why don't you? No more responsibilities, Mary. Marcia -- Elaine -- me -- all taken care of. Down there feeding horses and raising kids, you won't have a thing to worry about.
+L475042 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ I figure we'll get along just fine.
+L475037 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Plenty more.  And somewhere up there's the lode, the rock rotten with it.
+L475036 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ You're sure there's more where this came from?
+L475014 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Then why stay in the hills.
+L475013 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Up here in the hills, a man gets a hankering to smell powder.
+L475012 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ I like it.
+L475011 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ That sure smells good.
+L475009 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ You wouldn't have a smoke on you, would you?
+L475008 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Go on. Take your bath. I'll beat it.
+L475007 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ The way you act, it must be something pretty secret.
+L475006 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Just a thing I was workin' on.
+L475005 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ What is it?
+L475004 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ No. But it's mine and I didn't want anyone foolin' with it.
+L475003 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ That something I shouldn't see?
+L475002 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Me snoopin'? I came down here to take a bath.
+L475001 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ You got no business snoopin' around --
+L475092 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ They went on like I told you.
+L475091 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ When I ask questions, I like to hear answers.
+L475086 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Go ahead.
+L475085 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ Suppose I take a look.
+L475084 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Yeah.
+L475083 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ And you're all alone.
+L475082 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Some people who went by this way lost it.  Two men and some women. They packed their stuff on horses and went on.
+L475081 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ I suppose that's your wagon in the river.
+L475080 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ There aren't any women here.
+L475079 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ Even women?
+L475078 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Yes, people make me restless.
+L475077 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ What's the matter -- restless?
+L475076 +++$+++ u2624 +++$+++ m171 +++$+++ FOWLER +++$+++ Well, say it.
+L475075 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ I saw your fire and dropped by to say hello.
+L474392 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ I don't like to see you go.
+L474391 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Goodbye and thanks.
+L474390 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ I knew something would happen when they started puttin' up fences and passin' laws.
+L474389 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ We tried to point that out. But there were some pretty nosey citizens who wouldn't listen to reason. They said Aspen had outgrown us. It's all right to play poker in your own home but not in a saloon.
+L474388 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ They shouldn't have done that.
+L474387 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Aspen doesn't want us Mr. Graham. They threw us out.
+L474381 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Thank you, Mr. Graham.
+L474380 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ There you are. Now take it easy and you'll be all right.
+L474370 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ Depends on how good you drive.
+L474369 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Not exactly. They decided gambling and dancing were bad for people.  Can I make it?
+L474368 +++$+++ u2626 +++$+++ m171 +++$+++ GRAHAM +++$+++ What do you know about that. Did you sell your place?
+L474367 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Until you came along we were going to Sonora.
+L475057 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ I don't care what he thinks.
+L475056 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Mary, Honey. I talked too much, like always -- he thinks you told Elaine the things I told her.
+L475048 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ That's it then.
+L475047 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ I'm sure of this. But not of you.  You won't open any joint. I've been watching you change. You're mad now and you think you can change back. But you can't. You'll end up making beds in a boarding house.
+L475046 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Sounds fine. Only that isn't how it's going to be.
+L475045 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ -- Gaslights and a dance floor and a big bar. Cash registers with bells and a couple of boys with armbands just to keep 'em ringing. What do you think of that?
+L475040 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Maybe you are. I'm not.
+L475039 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Give it back to him. We're leavin'.
+L474992 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Go ahead.  Get in training for the pioneer life. I'm finding the nearest body of water and climbing into it.
+L474991 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ We might as well start a fire.
+L474862 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Please. Maybe he'll take a good look at you and stop thinking so much about his horses.
+L474861 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ What's the use.
+L474860 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Go on. Have another try at him.
+L474858 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ You'd think he'd do it for Elaine's sake, at least...
+L474857 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Maybe I better start working on him.
+L474856 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ How many ways can a man say no.
+L474855 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ You're not giving up?
+L474854 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ What are you waiting for? Do something.
+L474853 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ He certainly could. About a month.
+L474852 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Clay could save us an awful lot of time.
+L474851 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ No we don't. But that's where we're going. From Minden we take a stage to Reno, then another one over to Auburn and another one to Placerville. Then it's a day's trip to Sonora.
+L474850 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ We don't want to go there.
+L474849 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Until Pa gets around to driving us to Minden.
+L474848 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ How long do you think we'll have to stay here?
+L474845 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ There's still tomorrow morning.
+L474844 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ And we're running out of that.
+L474843 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ I tried my best, but these things take time.
+L474812 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Quit worryin' about Elaine.
+L474811 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ That's not what's worryin' me. Why didn't she tell us? Maybe we could have done somethin' -- gone somewhere else -- puttin' a poor sick kid through this --
+L474810 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ It isn't like this was the first place we were ever thrown out of.
+L474579 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Why didn't you say you wanted to get married back in Aspen. I told the man in Sonora there were four of us. If only three show up, he might call the whole deal off. We've got to stick together. Like we've always done.
+L474578 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ With a milk pail in one hand and a marriage license in the other.
+L474516 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Now where's she goin'? --
+L474515 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ You think that's all we busted -- You should see...
+L474511 +++$+++ u2629 +++$+++ m171 +++$+++ MARY +++$+++ Maybe in Sonora.
+L474510 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Maybe you're going about this all wrong. Why not try telling him we'll do the cookin' and mendin' and washin' for him. That usually works.  Yeah, but suppose he took us up on it. Where would we be?
+L475110 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ I don't know -- I don't know.
+L475109 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ How far up the trail?
+L475108 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Up the trail.
+L475107 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ Where is he?
+L475106 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Clay Phillips.
+L475105 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Stop it --
+L475104 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ You said somebody was comin' back -- who's comin' back?
+L475103 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ Who brought you here?
+L475102 +++$+++ u2627 +++$+++ m171 +++$+++ HELEN +++$+++ Everybody knows --
+L475101 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ How do you know who we are?
+L475072 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ Yeah, we sure have.
+L475071 +++$+++ u2630 +++$+++ m171 +++$+++ MCCALL +++$+++ We got company. Female company.
+L474750 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ I said I had a guy to see and I'm going to see him.
+L474749 +++$+++ u2630 +++$+++ m171 +++$+++ MCCALL +++$+++ One night more won't matter. Your friend'll be there. Anyway I don't think so much of the idea of prowling around his ranch. He knows you're out so he ain't going to sit still for it.
+L474748 +++$+++ u2628 +++$+++ m171 +++$+++ LEDNOV +++$+++ I said let's go.
+L474747 +++$+++ u2630 +++$+++ m171 +++$+++ MCCALL +++$+++ He can wait. Let's stay here until morning.

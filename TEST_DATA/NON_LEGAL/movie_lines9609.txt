@@ -1,0 +1,200 @@
+L89139 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ I see. And what would you have us do with this "half-breed"?
+L89138 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Why should I respect something which has outlived its purpose?
+L89137 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ Deacon Frost. You refuse to speak our language, you insult the House of Erebus by using the humans' gutter-tongue, have you no respect for tradition?
+L89136 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ The Day Walker represents a unique opportunity. We'd be fools to waste it by killing him.
+L89135 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ You're wrong, Dragonetti.
+L89134 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ Blade. Once again, our interests have fallen victim to his ridiculous crusade. He must be destroyed.
+L89621 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Get away from him!
+L89620 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ I was wrong about you, Blade. You were never one of us. You're a traitor to your race.
+L89554 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ You're wasting your breath, woman. He can't hear you now. It's the Thirst, you see? It already has him in its grip.
+L89553 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Blade --
+L89520 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Why? Because we live at another species' expense? Your people farm cattle and veal, don't they? Fattening them up with steroids? It's called evolution, Doctor. Survival of the fittest.
+L89519 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You're a monster.
+L89517 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Only as a last resort. Preserved blood is inferior. There's no flavor left to it, no life.  Fortunately, I've found a way around that particular obstacle.
+L89516 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ But you use blood banks --
+L89515 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ What makes you think we want to be cured? Blood is only part of the equation. The hunt, the killing, that's what the Thirst is really about.
+L89514 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ There's no need for any of this. Your condition can be treated. Whistler and I were working on a cure when --
+L89513 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Who better to usher in the Blood Tide?
+L89512 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You.
+L89511 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ LaMagra isn't a physical being. He's a spirit, requiring a flesh and blood host in order to manifest himself.
+L89510 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ That's right. The answers were there all along, of course, scribbled down in the forgotten languages of my kind. Waiting for someone with the patience to decipher them. My elders were foolish enough to dismiss them as wives tales. But I knew better.  Imagine my surprise when Blade turned out to be the key which would set that force free.
+L89509 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ LaMagra --
+L89508 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ The Blood Tide. Our long-prophesied holy war against the humans. There's a force, you see -- a spirit that exists in our blood. I've discovered a way to invoke it.
+L89507 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What happens then?
+L89506 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ A few thousand scattered about the globe. In the past, we've had to restrict our numbers for fear of discovery. That won't be necessary after tonight.
+L89505 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ How many of you are there?
+L89462 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ I don't know, but the back-up generator should've kicked in.
+L89461 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What happened to the power?
+L89460 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Then we're back to square one, aren't we? Sooner or later, the Thirst always wins.
+L89459 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ On me, yes. On Blade, I'm not so sure --  The problem is, Blade didn't contract the vampire virus from a bite like I did. He was born with it. The irony is, I could probably cure every vampire but him.
+L89457 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ With a retrovirus. It's injected into the bone marrow cells, it causes the host's DNA to mutate. They've been using them to treat Sickle-cell anemia.
+L89456 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ How?
+L89455 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Basically you'd have to re-write the victim's DNA, alter it so that the DNA will produce proteins capable of generating hemoglobin.
+L89453 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Then vampirism is a genetic defect, just like Hemolytic anemia?
+L89452 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Their own blood can't sustain hemoglobin.
+L89451 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ All right, let's start with the basics -- why do vampires need to drink blood?
+L89370 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I'll take my chances.
+L89369 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ I wouldn't go in there if I were you. It's best to leave him alone when he's like this.
+L89368 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Frost's bodycount keeps rising, and I'm not getting any younger, am I?
+L89367 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ And now you're using Blade to exact your revenge?
+L89366 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ I didn't. He was cruel enough to let me live.  Even gave me a souvenir to remember him by.
+L89365 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ How did you escape?
+L89364 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Eventually. He toyed with them first. He made me choose, do you understand? Which order they would die in --
+L89363 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ He killed them?
+L89362 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ I had a family once -- a wife, three daughters. Then a drifter named Deacon Frost came calling one evening --
+L89361 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Habit, mostly, just like this.
+L89360 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Why do you hunt them?
+L89358 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Which is why you're here. We could use someone with your experience.
+L89357 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ No offense, Whistler, but you're not exactly working with state of the art equipment here. You might have missed something.
+L89356 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ The Thirst overcomes him, just like the others. It's not something he can control.  The problem is, time's running out. His body's starting to reject the serum. And so far, all my efforts to find a cure have ended in failure --
+L89355 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What happens if he doesn't take the serum?
+L89354 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Blade's unique, you know. A one in a billion anomaly. He can withstand sunlight, garlic, even silver. But he still has the Thirst.
+L89347 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ We weren't sure we could trust you.
+L89346 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Why didn't you tell me the truth about him?
+L89335 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Go on, I'll be fine!
+L89334 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Whistler!
+L89332 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ You think I'd let him run loose without a chaperone? Blade ferrets their rat-holes out, I map them. Then we blow them all to kingdom come.
+L89331 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You've been listening in the whole time?
+L89330 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ We keep in radio contact.
+L89186 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ There is one other thing. I'd buy yourself a gun if I were you. If you start becoming sensitive to the daylight, if you start becoming thirsty regardless of much you've had to drink -- then I suggest you take that gun and use it on yourself. Better that, than the alternative.
+L89185 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ So that's it? You guys just patch me up and send me on my way?
+L89184 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Consider it a parting gift. Vampire mace -- silver nitrate, essence of garlic.
+L89171 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Some of the old wives' tales are true -- they're severely allergic to silver, various types of wood. Feed them garlic and they'll go into anaphylactic shock --
+L89170 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ So what do you use, then? A stake?
+L89156 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ My name is Abraham Whistler.  This is Blade. As for our little homunculus here --
+L89155 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Who are you people?
+L89131 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ You've been bitten by a vampire. We've got to try and burn out the venom, just like a rattlesnake bite --
+L89130 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What -- ?
+L92345 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Nick!!
+L92344 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ Bullshit! Talk!
+L92343 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Please! Please...? I haven't done anything.
+L92341 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --my God, Nick???
+L92340 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ --Jamie Kurth, Jonathan Edmunds--
+L92333 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I'm not a witch, you're all crazy!
+L92332 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ You killed Domini, didn't you, witch??
+L92307 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Closer.
+L92306 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ No.
+L92305 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Closer. Lift the lid and look-- it hurts.
+L92304 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ Not that I can see.
+L92303 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ My eye, is there something in my eye?
+L92302 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ What, are you alright?
+L92301 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ --Anna--
+L92300 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Don't know--just that she was afraid--
+L92299 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ What happened to her, where did she go?
+L92298 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ A coward too. That's why she had to go.
+L92297 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ What do you mean?
+L92296 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --bad boys, mean boys, <u>cowardly</u> boys--just like Domini.
+L92295 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ Try, please, Anna--
+L92294 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I don't...I don't understand them myself.
+L92293 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ I need you to talk to me, talk to me about the dreams--about James, the other boys.
+L91862 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Join the club.
+L91861 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ 'Give you a hand. I think my sleep for the night just ended.
+L91744 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Because it means the tree is older than the house.
+L91743 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ Why don't you just cut it down and count the goddamn rings--who <u>cares</u>?
+L91698 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Hey, folklore--
+L91697 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ --or incredibly fucking naive.
+L91594 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --which she may have--
+L91593 +++$+++ u4093 +++$+++ m273 +++$+++ HEATHER +++$+++ --and if she ever did--
+L91851 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I just wanna go <u>home</u>.
+L91850 +++$+++ u4092 +++$+++ m273 +++$+++ DOMINI +++$+++ --stop it! Stop talking about it! I'm gonna freak!
+L91685 +++$+++ u4092 +++$+++ m273 +++$+++ DOMINI +++$+++ Sometimes. Where are we going?
+L91684 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Her father's Sheriff of Taos County.
+L91674 +++$+++ u4092 +++$+++ m273 +++$+++ DOMINI +++$+++ To stand up--I'm exhausted. Been on the road since yesterday.
+L91673 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Inside the grave?
+L91672 +++$+++ u4092 +++$+++ m273 +++$+++ DOMINI +++$+++ Trying to find the energy.
+L91671 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ What're you doing there?
+L91670 +++$+++ u4092 +++$+++ m273 +++$+++ DOMINI +++$+++ Yes.
+L91669 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Domini?
+L91969 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --he's not my husband!
+L91968 +++$+++ u4094 +++$+++ m273 +++$+++ INTERN +++$+++ Let's talk to your husband--
+L91967 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --I'm not staying here!
+L91966 +++$+++ u4094 +++$+++ m273 +++$+++ INTERN +++$+++ Mrs. Leavitt--
+L91965 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ No!
+L91964 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I guess--
+L91963 +++$+++ u4094 +++$+++ m273 +++$+++ INTERN +++$+++ Look, this is not my field of expertise. You seem stabilized, but why take any chances? Let's keep you overnight and have the Staff obstetrician do a follow-up tomorrow.
+L91962 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Something was wrong.
+L91961 +++$+++ u4094 +++$+++ m273 +++$+++ INTERN +++$+++ --doubtful, Mrs. Leavitt. The main thing to remember is, whatever the reason, it was for the best-- it meant something was wrong.
+L91960 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I was out hiking, camping the past two days--that's what did it--<u>I</u> killed it--
+L91959 +++$+++ u4094 +++$+++ m273 +++$+++ INTERN +++$+++ Any number of reasons--pick one, it's as good as the other.
+L91958 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Why?
+L92349 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --Nick!!
+L92348 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Hang you like the witch you are, unless--
+L92339 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I haven't killed any--
+L92338 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ --the witch kills children--
+L91939 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ There's some stuff that's hard to part with. Editing's stuff's up there--
+L91938 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Looks like business is booming.
+L91918 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ That's its name. A pastoral glade gamboling with crackheads and homeless and averaging at least one homicide a week.
+L91917 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ That's a joke?
+L91916 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Druid Hill Park.
+L91906 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ We're ticketed to fly back from Baltimore, anyway.
+L91905 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ You can be goddamn sure, though, I'm going to be looking at every second of 'em when I get back to Baltimore--I get proof who stole my shit and I call the cops!
+L91904 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Oh, sorry, right.
+L91903 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ --nothing left to play 'em on, honey.
+L91879 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Not the only things missing, Nick.
+L91878 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ This is funny?? This is tens of thousands of fucking dollars!  You pricks! I'll see you in fucking court!!
+L91746 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ So whoever built this--
+L91745 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Yeah, so?
+L91736 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ No. What's it doing here in the middle of the foundation?
+L91735 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Oak?
+L91723 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Buried deep under 200 years worth of soil, ash, and compost layers.
+L91722 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Where they found the backpacks and all the film a year later.
+L91689 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ The Witch's voice.
+L91688 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ "The Voiiiiices made him do it."
+L91643 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Then there she blows.
+L91642 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I dunno, probably right up there, based on her resume.
+L91641 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ --how old?
+L91638 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ No idea, just talked to her on the 'Net--she's very good.
+L91637 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ What's she look like?
+L91634 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Who?
+L91633 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ She e-mailed me yesterday this is where we should meet her.
+L91632 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Why are we here?
+L91627 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Think again.
+L91626 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Guess they thought it was safe to put some up again.
+L91625 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ 'Thought those all got stolen.
+L91584 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ --a six week bun in the oven--
+L91583 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --it's called "morning sickness," asshole--
+L91582 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ --but she was nicer then--sweeter-- she hadn't vomited twice already like today--
+L91581 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --Christ almighty--
+L91580 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ The bitched-out babe in back here is one Anna Tassio--we met one dark and stormy night in a Blair Witch chat room, we all did--
+L91576 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Only thing I'm feeling is homicidal.
+L91575 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Just trying to set the mood for the mission--get the "feeling."
+L91574 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Christ.
+L91573 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Down or off--you're giving me a migraine.
+L91572 +++$+++ u4091 +++$+++ m273 +++$+++ COTTER +++$+++ Shit? This is from "Josh's Blair Witch Mix," man!
+L92353 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --fuck your bullshit pieties! You were the next to die, asshole!
+L92352 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Oh, Jesus, no--
+L92337 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --what're you saying?? I didn't have anything to do with--
+L92336 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ --like you hurt the baby--
+L92331 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ I see for proof positive you're the goddamn witch--
+L92330 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Why?
+L92329 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Are you marked like this??
+L92328 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --no, what's wrong with you?
+L92327 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ The clothes--take 'em off-- I want to see every square inch--
+L92326 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Whatever you want.
+L92325 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ I want to see something!
+L92168 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --no, you're not. You love me too much. You don't want to see them kill me.
+L92167 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Then I'm going--
+L92166 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I can't.
+L92165 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ I don't know what it is, but there is something <u>happening</u> here, and it's starting to scare the living shit out me, and look, I'm just <u>not</u> going to argue the point anymore--you want to stay here, stay, but I've got to get the fuck out of here, and I'm begging you to come <u>with</u> me.
+L92012 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Here.
+L92011 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Little boys. Looking up my skirt as I danced. Giggling.
+L92010 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ What'd you dream?
+L92009 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I get dreams. I don't like 'em.
+L92008 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Just...try and go back to sleep.
+L92007 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ No.
+L92006 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Just now?
+L92005 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ What?
+L92004 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ Was that you laughing?
+L92003 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I guess, yeah.
+L92002 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ --you should get back into bed.
+L92001 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Nothing. I dunno--
+L91978 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Sleep.
+L91977 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ What can I get you?
+L91972 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ --Cotter's--
+L91971 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ We'll stay overnight, get a hotel--
+L91953 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ Get your goddamn--
+L91952 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ --now c'mon!
+L91948 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ --bullshit!
+L91947 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ I'm not going anywhere, 'til--
+L91946 +++$+++ u4096 +++$+++ m273 +++$+++ NICK +++$+++ We're leaving--case dismissed for lack of evidence. Maybe on the ride home we can figure how the fuck we're going to graduate with no thesis.
+L91945 +++$+++ u4090 +++$+++ m273 +++$+++ ANNA +++$+++ For once could you just sit down, shut up, and give something a <u>chance</u>?

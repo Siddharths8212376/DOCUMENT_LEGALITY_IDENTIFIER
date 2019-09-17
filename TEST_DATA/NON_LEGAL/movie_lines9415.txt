@@ -1,0 +1,200 @@
+L538692 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Aye, sir; thrusters...
+L538691 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Mr. Chekov, take us forward, thrusters only, one half impulse power...
+L538690 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Shields up. Battle stations.
+L538689 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Shields. Battle stations.
+L538686 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Then all we've got is a neutron radiation surge - and by the time we're close enough to record it, we're ashes...
+L538685 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ But if she's cloaked...
+L538684 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ She's here - somewhere.
+L538624 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ She's only a cog in the wheel - no way she knows that.
+L538623 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Where IS the conference?
+L538604 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Who else?
+L538603 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ From Starfleet?
+L538570 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ First rule of assassination: always kill the assassins.
+L538569 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Get close enough to a man and you can kill him on "Stun" without setting off the alarm - of course you can't get rid of the body...
+L538090 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Torpedo bay! DID we fire those torpedoes?
+L538089 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Captain, if they fire at us with our shields down --
+L538069 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Uhura, monitor!
+L538068 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Torpedo room--?
+L538065 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I know what you mean...
+L538064 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Just the size of my head -
+L537994 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Full diplomatic courtesy, Mr. Chekov...
+L537993 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Captain, you're not going to show them the bridge??
+L537864 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Captain Sulu... on assignment... anyone seen Spock?
+L537863 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Where is Mr. Sulu?
+L538584 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ She programmed the torpedo hits?
+L538583 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ You must have cursed yourself, for having programmed our data banks, Lieutenant. Only they revealed something wrong aboard Enterprise.
+L538499 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Quite right, Mr. Chekov. What is now required is a feat of linguistic legerdemain - and a degree of intrepidity. Before the Captain and Doctor McCoy freeze to death.
+L538498 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Mr. Spock, Rura Penthe's deep in Klingon territory. If we're discovered...
+L538476 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ ALL uniforms?
+L538475 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Now we expand our search to include uniforms.
+L538474 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Now we go to Starfleet?
+L538473 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ This is the first evidence that corroborates our theory.
+L538472 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ They must have walked through it when it was floating and tracked it back here.
+L538471 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Klingon blood.
+L538369 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ You tell them, Lieutenant.
+L538368 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ What ARE we searching for, Mr. Spock?
+L538367 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ You're forgetting something.  the data banks say WE fired. If we did, the killers are here; if we didn't, whoever altered the data banks is here. Either way, what we're searching for is here...
+L538083 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Shields up, Captain --?
+L538082 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ They're preparing to fire.
+L538298 +++$+++ u3010 +++$+++ m197 +++$+++ COMMUNICATIONS OFFICER +++$+++ Is that wise, sir? I mean, given their situation -  Aye, sir.
+L538297 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Send to commander Enterprise: "We stand ready to assist you. Captain Sulu, USS Excelsior." Attach our co-ordinates.
+L537857 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Are you kidding?  Send to Starfleet Command...
+L537856 +++$+++ u3010 +++$+++ m197 +++$+++ COMMUNICATIONS OFFICER +++$+++ Do we report this, sir?
+L537855 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ An INCIDENT?
+L537852 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Onscreen.
+L537851 +++$+++ u3010 +++$+++ m197 +++$+++ COMMUNICATIONS OFFICER +++$+++ Captain, I'm getting a message from Klingon High Command.
+L537845 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Mr. Valtane, any more data?
+L537844 +++$+++ u3010 +++$+++ m197 +++$+++ COMMUNICATIONS OFFICER +++$+++ Aye, sir.
+L538037 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We must do this again soon.
+L538036 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ Thank you, Captain Kirk. The evening has been most... edifying.
+L537990 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ This cannot be easy for you, Captain...  I would feel awkward if I had to give you a tour of OUR vessel...
+L537989 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Starfleet's been charting and cataloging planetary atmospheres. All vessels are equipped with chemical analytic sensors...
+L537988 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ Your research laboratory is most impressive...
+L537978 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ Commander, face to face at last.. you have my thanks..
+L537977 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Chancellor, may I present Commander Spock, whom I believe you know, Dr. Leonard McCoy, chief medical officer, Montgomery Scott, chief engineer...
+L537967 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ I shall look forward to it.
+L537966 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We'll make arrangements to have you beamed aboard at 1930 hours.
+L537965 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ We'd be delighted to accept your gracious invitation.
+L537964 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Uh, would you and your party care to dine this evening aboard Enterprise with my officers as guests of the United Federation of Planets?
+L537963 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ Thank you, Captain.
+L537962 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Chancellor. We've been ordered to escort you through Federation space to your meeting place on Earth.
+L537961 +++$+++ u3011 +++$+++ m197 +++$+++ GORKON +++$+++ This is KRONOS One. I am Chancellor Gorkon.
+L538542 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Not me, idiot - HIM!
+L538541 +++$+++ u3015 +++$+++ m197 +++$+++ MARTIA'S VOICE +++$+++ Kill him! He's the one!!
+L538540 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ What took you so long?
+L538539 +++$+++ u3015 +++$+++ m197 +++$+++ MARTIA'S VOICE +++$+++ I like it here...
+L538538 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Isn't it about time you became something else?
+L538534 +++$+++ u3015 +++$+++ m197 +++$+++ MARTIA'S VOICE +++$+++ They'll be here...
+L538533 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Your friends are late...
+L538531 +++$+++ u3015 +++$+++ m197 +++$+++ MARTIA'S VOICE +++$+++ Good enough for one - two would look suspicious... killed while attempting escape... now that's convincing for both.
+L538530 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ An accident wasn't good enough...
+L538520 +++$+++ u3015 +++$+++ m197 +++$+++ MARTIA'S VOICE +++$+++ Give a girl a chance, Captain.
+L538519 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I've heard of chameloids - "Shapeshifters" - I thought you were mythical.
+L538466 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Candidate for what?
+L538465 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ I can't make it alone. You're the likeliest candidate to come to this god-forsaken place in months.
+L538464 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Possibly.
+L538463 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ Getting outside the shield is easy. After that it's up to you to get us off the surface before we freeze. Can you?
+L538462 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Where do we come in?
+L538461 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ I know how to get outside the shield.
+L538460 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ It IS possible.
+L538459 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Except us.
+L538458 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ Listen. No one has ever escaped from Rura Penthe.
+L538434 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ There's gotta be a way out of this place...
+L538433 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ When whoever it is makes their move, you won't be here to ask if he's the one.
+L538430 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Anything else you want to tell me?
+L538429 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ That's not his knee.  Not everybody keeps their genitals in the same place, Captain.
+L538405 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ Don't you know? Everyone on Rura Penthe is here for life.
+L538404 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ How much time's left of your sentence?
+L538399 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ Of course not. Anyway, somebody up there wants you out of the way.
+L538398 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We didn't kill Gorkon.
+L538397 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ We don't get many presidential assassins.
+L538394 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ There's a reward for your death.
+L538393 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ How did you know...?
+L538387 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ Krandog aranty.
+L538386 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Fraid not. It wouldn't fit him, anyway.
+L538385 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ And your coat.
+L538384 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ He's got it.
+L538383 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ He wants your obedience to the Brotherhood of Aliens.
+L538612 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ WHO ELSE...?
+L538611 +++$+++ u3019 +++$+++ m197 +++$+++ SCOTTY +++$+++ This is incredible -
+L538095 +++$+++ u3019 +++$+++ m197 +++$+++ SCOTTY +++$+++ Aye, sir.
+L538094 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Stand DOWN, Mr. Scott. All stop. That's an order.
+L538093 +++$+++ u3019 +++$+++ m197 +++$+++ SCOTTY +++$+++ Captain, if --
+L538092 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Stand down your weapons.
+L537975 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Energize...
+L537974 +++$+++ u3019 +++$+++ m197 +++$+++ SCOTTY +++$+++ Maybe if their particles just got a wee bit mixed...
+L538642 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ You hear that?
+L538641 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Just the prototype.
+L538600 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Starfleet will be around long enough for me to convene a Court Martial on this ship, Lieutenant. Win, lose or draw it will be on your record.
+L538599 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ I won't allow Starfleet to be dismantled over some Klingon promises.
+L538598 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Who is "US?"
+L538085 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Uhura, signal our surrender.
+L538084 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Captain, our shields -- !
+L538063 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Mr. Chekov, anything unusual?
+L538062 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Sir?
+L538061 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Saavik, you know anything about a neutron energy surge?
+L537969 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Captain.
+L537968 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I hope you're happy.
+L537958 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Right standard rudder, Z plus five degrees...
+L537957 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Uhura, hailing frequencies. Right standard rudder, bring us alongside...
+L537942 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Only don't try putting words in my mouth.
+L537941 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ I always wanted to try that.
+L537940 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ You piloted well out of spacedock, Lieutenant -
+L537939 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ I gather you are not enthusiastic about the assignment... I don't think many on board are.
+L537937 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Right -
+L537936 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ We're almost at the rendezvous - I thought you'd want to know...
+L537935 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Come on, Saavik, you COULD knock -
+L537934 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Sorry -
+L537930 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Aye, sir.
+L537929 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I'm still in the chair, Lieutenant.
+L537928 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Kronos, sir?
+L537927 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Plot a course for Kronos, Lieutenant.
+L537926 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Aye, sir.
+L537919 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Captain, may I remind you that regulations specify thrusters only while in space dock?
+L537918 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Thank you. Lieutenant, one quarter impulse power...
+L537917 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Aft thrusters -
+L537901 +++$+++ u3013 +++$+++ m197 +++$+++ LT. SAAVIK +++$+++ Saavik, sir. We were told you'd need a helmsman -  ... so I volunteered.
+L537900 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ As you were. Lieutenant...?
+L538647 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Don't mention it, Captain Kirk.
+L538646 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Thank you, Captain Sulu.
+L538645 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ According to my information, today.
+L538644 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ When does this conference start?
+L538643 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ I'm getting underway now. But you should know, I'm in alpha Quadrant. The chances of my reaching the conference in time are slim.
+L538640 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I'm telling you. Hang on.  How many of those things are there? Come on, Lieutenant, you're charged with murder...
+L538639 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Surely not.
+L538638 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I'm afraid we may need more than that. There's a Bird of Prey on the lookout for us. And she can fire while she's cloaked.
+L538637 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ The Conference is at Camp Khitomer, near the Romulan border. I'm sending the exact coordinates on a coded frequency.
+L538636 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Bless you, Sulu.  Where's the peace conference? They're going to attempt another assassination.
+L538635 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ I'm sorry, Captain - your message is breaking up.
+L538634 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ You understand that by even talking to us, you're violating regulations, Captain.
+L538633 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ Standing by, Captain Kirk.
+L538632 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Sulu!
+L538631 +++$+++ u3021 +++$+++ m197 +++$+++ SULU +++$+++ This is Captain Sulu, USS Excelsior.
+L538779 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ ... is to trust him.
+L538778 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ The only way to find out if a man's trustworthy...
+L538769 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Gorkon thought the undiscovered country might mean something else - another kin of life. People can be very frightened of change. I know I was.
+L538768 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I always assumed Hamlet meant death.
+L538767 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ But we haven't run out of history just yet.  Your father quoted Hamlet: he called the future - "the undiscovered country"...
+L538704 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Probably trying to figure out why we're reversing, wondering if we detect her.
+L538703 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ What's she waiting for?
+L538688 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Make ourselves a target?
+L538687 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Captain, perhaps we're going about this the wrong way; our job is to get to the conference; HER job will be to stop us.
+L538679 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Not yet... Section 4236...
+L538678 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Close enough to beam down?
+L538667 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Spock, you want to know something?
+L538666 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ But I am not human. I am only -
+L538665 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Not for the actions of another. No one is responsible for any actions but his own. Human beings -
+L538664 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I SHOULD have been -
+L538663 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Someone said the difference between comic and cosmic is the letter "S." You haven't outlived your usefulness - to me. And you are not responsible just because she is also Vulcan -
+L538662 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Can we two have grown so old and inflexible that we have outlived our usefulness?  Would that constitute a joke?
+L538661 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Gorkon had to die before I understood how prejudiced I was...
+L538660 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I was PREJUDUCED by those achievements.
+L538659 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ You couldn't have known she was listening the night I dictated that entry into my log. You were proud of her achievements as a Vulcan.
+L538658 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I too was blind. I knew about HER - and I did nothing. I trusted too much.
+L538657 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I was blind. I couldn't see past the death of my son. I couldn't trust.
+L538656 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ The night is young. Anyway, it was logical.  You know, you're a great one for logic. I'm a great one for  rushing in where angels fear to tread. We're both extremists. Reality is probably somewhere in between us.
+L538655 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ You were right: it was arrogant presumption that got us into this situation. You might have died.
+L538654 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Are you dining on worms?
+L538629 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ The Commander is an old friend of yours.
+L538628 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Why would they give them to us?
+L538627 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I've been dead before. Uhura, raise Excelsior. She ought to have the co-ordinates.
+L538620 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Azetbur has agreed to meet the Federation at a undisclosed location to continue her father's work... the conspirators obviously intend to try again...
+L538619 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ What peace conference?
+L538618 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ The peace conference.
+L538565 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ So, that's it..
+L538564 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ The Klingons have a new weapon: a Bird of Prey that can fire while cloaked. She torpedoed Gorkon's ship.
+L538553 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ He was just about to explain the whole damn -
+L538552 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Captain...
+L538102 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Perhaps you're right.
+L538101 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I'M going. You are going to be responsible for getting me out of this. Meantime we're not going to be the instigators of a full-scale war on the eve of universal peace.
+L538100 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I am responsible for involving you in this. I will go.
+L538079 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ According to the data bank, we HAVE - twice...
+L538078 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We HAVEN'T fired -
+L538067 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ We've fired on the Chancellor's ship -
+L538066 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ What the -
+L538060 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ From Enterprise?
+L538059 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Curiously it appears to emanate from us.
+L538058 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Where?
+L538057 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ We are reading an enormous amount of neutron radiation.
+L538056 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Spock, I'm really tired...
+L538055 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ I am uncertain.

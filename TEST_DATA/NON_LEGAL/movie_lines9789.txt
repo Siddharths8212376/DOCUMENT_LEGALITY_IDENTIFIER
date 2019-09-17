@@ -1,0 +1,200 @@
+L189936 +++$+++ u5082 +++$+++ m336 +++$+++ MANDY +++$+++ There's something else, too.
+L189935 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ It sure could, yeah.  Thanks a lot.
+L189934 +++$+++ u5082 +++$+++ m336 +++$+++ MANDY +++$+++ When Donna told us about you, and what you told her about the chromium, we figured that might have something to do with this, too.
+L189929 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Yeah.  Who are you?
+L189928 +++$+++ u5082 +++$+++ m336 +++$+++ MANDY +++$+++ Excuse me, are you Erin Brockovich?
+L189526 +++$+++ u5084 +++$+++ m336 +++$+++ MRS. MORALES +++$+++ I know.  But it's good for me.  Now I can help my daughter take care of my grandkids. And it's good for you, too.  Now you have money, you can find a good babysitter, huh? Not the old lady next door.
+L189525 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Wow, that's soon --
+L189524 +++$+++ u5084 +++$+++ m336 +++$+++ MRS. MORALES +++$+++ Next week.
+L189523 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ You're moving away?  When?
+L189522 +++$+++ u5084 +++$+++ m336 +++$+++ MRS. MORALES +++$+++ My daughter, she's bought a big house with a room for me.  I'm going to move in with her.
+L189521 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ What?
+L189520 +++$+++ u5084 +++$+++ m336 +++$+++ MRS. MORALES +++$+++ Ai, bueno.  Because I didn't want to tell you before, with your worries --
+L189519 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ It'll be fine, yeah.
+L189518 +++$+++ u5084 +++$+++ m336 +++$+++ MRS. MORALES +++$+++ Outside with the sprinkler.  So it's good?
+L189517 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Hi, sweetie.  Were you a good girl?  Where are Matt and Katie?
+L189731 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Don't go telling anyone.  It'll ruin my reputation.
+L189730 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ I gotta say, Erin -- first time I saw you, I did not peg you as the kind to go off and conduct her own epidemiological study.
+L189729 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Well, if you're talking about contamination, you're getting out of my area of expertise. Let me give you the name of a toxicologist friend of mine over at USC.
+L189728 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Uh-huh.  Spent the last few days knocking on doors.  And you know what?  They're not.  I mean, they got problems, but none of this cancer stuff.  And their pets are fine.  So I don't know -- I just can't shake the feeling that it wasn't no multivitamin they put in the water.
+L189727 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ You did?
+L189726 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ ... and when I realized our area's just as bad as Hinkley, I thought maybe my neighbors are all sick too.  So I went and asked.
+L189674 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Well, from what this stuff says, I'd say they both have some form of cancer.
+L189673 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Their parents, I'm pretty sure.
+L189672 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ They've both got some immune system problem. Can't say what from, whether it's viral or genetic or what, but something's wrong.  And these guys -- Donna and Peter --
+L189671 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Right, I guess those are the kids --
+L189670 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Well, look, there isn't a ton of information here, but from what there is, I'd say that these two people here -- what are their names?  Shanna and Ashley?
+L189669 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Of course!  Oh, gosh, of course --
+L189668 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ No one put me up to anything.  I was just hoping I could ask you a couple questions.
+L189667 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Oh.  Oh.
+L189665 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ He did, didn't he?  <u>Baxter</u>!
+L189664 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Who's Baxter?
+L189663 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Is this a joke?  Did Baxter put you up to this?
+L189662 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Hi, I'm Erin Brockovich.  I was just over in the library there, asking a mess of questions about -- I guess they call it epidemiology? -- and the fella there told me to find you, cause you know all about it.
+L189661 +++$+++ u5085 +++$+++ m336 +++$+++ PAULSEN +++$+++ Yes?
+L189660 +++$+++ u5076 +++$+++ m336 +++$+++ ERIN +++$+++ Dr. Paulsen?
+L191966 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ And code the signal to my private chamber.
+L191965 +++$+++ u5090 +++$+++ m337 +++$+++ ADMIRAL +++$+++ Yes, My Lord.
+L191964 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Move this ship out of the asteroid field and into a position where we can send a clear transmission.
+L191963 +++$+++ u5090 +++$+++ m337 +++$+++ ADMIRAL +++$+++ Yes, he commands you make contact with him ....
+L191962 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ The Emperor?
+L191961 +++$+++ u5090 +++$+++ m337 +++$+++ ADMIRAL +++$+++ It was .... the Emperor ....
+L192205 +++$+++ u5091 +++$+++ m337 +++$+++ ADMIRAL PIETT +++$+++ Yes, My Lord.  We'll find them.
+L192204 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Alert all commands.  Calculate every possible destination along their last known trajectory and disburse the fleet to search for them.  Don't fail me again, Admiral, I've had quite enough!
+L192203 +++$+++ u5091 +++$+++ m337 +++$+++ ADMIRAL PIETT +++$+++ Lord Vader, our ships have completed their scan of the area and found nothing.  The Millennium Falcon definitely went into lightspeed. It's probably on the other side of the galaxy by now.
+L191932 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Yes, Admiral .... soon.
+L191931 +++$+++ u5091 +++$+++ m337 +++$+++ ADMIRAL PIETT +++$+++ Soon, Lord Vader.
+L191930 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Asteroids don't concern me, Admiral. I want that ship, not excuses.  How long until you can have Skywalker and the others in the Millennium Falcon before me?
+L191929 +++$+++ u5091 +++$+++ m337 +++$+++ ADMIRAL PIETT +++$+++ Our pursuit ships have sighted the Millennium Falcon, My Lord.  It has entered an asteroid field.
+L191928 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Come in, Admiral.
+L191927 +++$+++ u5091 +++$+++ m337 +++$+++ ADMIRAL PIETT +++$+++ My lord.
+L192357 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ No ... there is another.
+L192356 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ The boy is our last hope.
+L192355 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ Told you, I did.  Reckless is he ... Now things are going to worse.
+L192353 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ Strong is Vader.  Clouded is your fate.  Mind what you have learned ... Notice everything, everything!  It can save you.
+L192352 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ Luke, use The Force only for knowledge and for defense, not as a weapon.  Don't give in to hate or anger or fear ... they lead the way to the dark side ... Luke nods and climbs back into his ship.
+L192345 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You are the last Jedi, Luke.  You are our only hope.  Be patient.
+L192344 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ Stopped they must be.  Do you hear?  On this all depends.
+L192086 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ We've come this far ... He is our only hope.
+L192085 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ Will he finish what he begins?
+L192083 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ He's too old.  Yes.  Too old to start the training.
+L192082 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ He'll learn.
+L192079 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ This one I have watched a long time.  All his life has he looked away ... to the horizon, to the sky, to the future.  Never his mind on where he was, on what he was doing.  Adventure, excitement ...  A Jedi craves not these things!
+L192078 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ He can do it.
+L192073 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ We've discussed this before.
+L192072 +++$+++ u5105 +++$+++ m337 +++$+++ YODA +++$+++ Much anger in him, like in his father.
+L192071 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ He will learn patience.
+L192343 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ Only a fully trained Jedi Knight, with The Force as his ally, will conquer Vader and his Emperor. If you end your training now, if you choose the quick and easy path ... as Vader did ... you will become an agent of evil ... and the galaxy will be plunged deeper into the abyss of hate, despair and pain that you feel your friends suffering now.
+L192342 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ You won't.
+L192341 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ Luke, I will not lose you to the Emperor, as I lost Vader.
+L192340 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ And that is why I must go.
+L192339 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ Will you?  You underestimate The Emperor.  It is you he wants ... that is why your friends suffer.
+L192336 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ But you cannot control it.  This is a dangerous time for you, Luke. You are now most susceptible to the temptations of the dark side.
+L192335 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I feel The Force.
+L192334 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You're not ready yet.  You still have much to learn.
+L192333 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I can help them!
+L192332 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You don't know that.  Even I cannot see their fate.
+L192331 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ But Han and Leia will surely die.
+L192330 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ ... Luke, you must not go.
+L191662 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ Luke ... you are the only hope.
+L191661 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Ben ... Ben ...
+L191660 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You must go to the Dagobah System ... There you will learn from one who taught me:  Yoda, the Jedi Master.
+L191659 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I'm cold ... so cold ...
+L191658 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You must survive, Luke.
+L191657 +++$+++ u5092 +++$+++ m337 +++$+++ BEN +++$+++ You must.  Luke, look at me!
+L191656 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I can't ...
+L192541 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ We're not out of this yet.
+L192540 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Howls.
+L192531 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ Okay, okay.
+L192530 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Turns on Lando, the newcomer, with an ominous growl.
+L192527 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks an argument and shakes his head.
+L192526 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ Three patrol ships are heading our way.
+L192440 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ What's wrong with him?
+L192439 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks a blue streak.
+L192315 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ Everyone's invited, of course.
+L192314 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks at the mention of food. Licks his lips.
+L192258 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ Right.
+L192257 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Growls a reserved greeting.
+L192256 +++$+++ u5098 +++$+++ m337 +++$+++ LANDO +++$+++ How you doing, Chewbacca?  Still wasting your time with this clown, eh?
+L192415 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ I'm sure I'll see you again, too. Keep well.  You'd better chain him until it's over.
+L192414 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks a doleful farewell.
+L192376 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ No, I'm alright.  I'm alright.
+L192375 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks his concern.
+L192324 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Not now, Chewie.  Lando, aren't you afraid the Empire might discover this little operation and shut you down?
+L192323 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks at Han.
+L192306 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Why don't we just turn him over to Lando to fix?
+L192305 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Howls and shrugs his shoulders.
+L192243 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ That was a long time ago.  I'm sure he's forgotten all about it, and so should you.
+L192242 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks and growls at his boss.
+L192241 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Well, it's been awhile.
+L192549 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks his agreement.
+L192548 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ Okay, Chewie, it's now or never.
+L192525 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ Chewie, head for the bottom of the city.
+L192524 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks his consternation.
+L192482 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Howls.
+L192481 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ ... the power?
+L192476 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks his Òright on!Ó
+L192475 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ I don't care.  It would've been worth it .... for Han.
+L192472 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks his agreement.
+L192471 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ We should have stayed and finished them off.
+L192300 +++$+++ u5099 +++$+++ m337 +++$+++ LEIA +++$+++ What happened?
+L192299 +++$+++ u5093 +++$+++ m337 +++$+++ CHEWIE +++$+++ Barks at his master.
+L192068 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ How could you know my father? You don't even know who I am.  Can't we get on with this already?
+L192067 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Oh, your father ... a powerful Jedi was he, powerful Jedi.
+L192066 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Because of my father, I guess.
+L192065 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Not far, not far.  Be patient. Soon you will see him.  Why wish you become a Jedi?
+L192064 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Will it take long to get there? How far away is he?
+L192063 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ It's the Jedi's time to eat, too.
+L192062 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Look, it smells good.  I'm sure it's delicious   But I don't know why we can't see Yoda now.
+L192061 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Patience.  It's time to eat.
+L192060 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ ... I told you, I'm not hungry.
+L192019 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Of course, yes.  But now eat we must.  Good food, I have good food.  Come, come.
+L192018 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ You know the Jedi Master?
+L192017 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Oh, a Jedi Master.  Different altogether.  Yoda you seek, Yoda.
+L192016 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I'm not looking for a friend. I'm looking for a Jedi Master.
+L192015 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ No, no!  I'll stay and help you find your friend.
+L192014 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Okay, Artoo, let him have it. Now get out of here, little fellow, we've got things to do.
+L192013 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Mine, mine.
+L192010 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Mudhole?  Slimy?  My home this is.
+L192009 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I don't want your help.  I want my lamp back.  I'll need it in this slimy mudhole.
+L192008 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Mine!  Mine!  Or I'll help you not.
+L192007 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Give me that!
+L192006 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Can't get your ship out?  Have you tried?  Have you tried?
+L192005 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Listen, friend, we didn't mean to land here, and if I could get my fighter out of this puddle I would, but I can't.  So ...
+L192001 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ A great warrior?  Not many on those.  Wars don't make one great.
+L192000 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I'm looking for a great warrior.
+L191999 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Help you I can ... yes ... yes.
+L191998 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ Yeah ...
+L191997 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Looking?  Looking?  You've found someone I'd say.  Heh?  Yes!
+L191996 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ I'm looking for someone.
+L191995 +++$+++ u5094 +++$+++ m337 +++$+++ CREATURE +++$+++ Away put your weapon.  I mean you no harm.
+L191994 +++$+++ u5100 +++$+++ m337 +++$+++ LUKE +++$+++ ... Like we're being watched.
+L191655 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Then I'll see you in Hell.
+L191654 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ The night storms will start before you can reach the first marker.
+L191653 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ You bet it is ... and Luke's out in it.
+L191652 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ The temperature is dropping too fast.
+L191651 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ We'll have to go out on Tauntauns.
+L191650 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ We haven't got them adapted to this cold yet ...
+L191649 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Not likely!  Where are the speeders?
+L191648 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ Commander Skywalker hasn't come through the south entrance, sir. Maybe he slipped by without checking in.
+L191642 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Probably isn't good enough, Sergeant. Check on it!
+L191641 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ I haven't seen him.  He probably came in through the south entrance.
+L191640 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Sergeant, is Commander Skywalker back yet?
+L191639 +++$+++ u5095 +++$+++ m337 +++$+++ DECK SERGEANT +++$+++ Yes sir!
+L192100 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ He will join us or die, My Master.
+L192099 +++$+++ u5096 +++$+++ m337 +++$+++ EMPEROR +++$+++ Yes ... yes.  That would be a great asset.
+L192098 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ But, if he could be turned, he would be a powerful ally.
+L192097 +++$+++ u5096 +++$+++ m337 +++$+++ EMPEROR +++$+++ You are weak!  I have seen it. The Force is strong with him. He must be destroyed.
+L192096 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ He's not a Jedi, he's just a boy. Obi-wan could not have taught him so much that ...
+L192095 +++$+++ u5096 +++$+++ m337 +++$+++ EMPEROR +++$+++ The son of Skywalker.  You must destroy him ... or he will be our undoing.
+L192094 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ Our destruction?  Who?
+L192093 +++$+++ u5096 +++$+++ m337 +++$+++ EMPEROR +++$+++ Our situation is most precarious. We have a new enemy who could bring about our destruction.
+L192092 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ I have felt it.
+L192091 +++$+++ u5096 +++$+++ m337 +++$+++ EMPEROR +++$+++ There is a grave disturbance in The Force.
+L192090 +++$+++ u5104 +++$+++ m337 +++$+++ VADER +++$+++ What is thy bidding, My Master?
+L191711 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Fine.  But they'll have to take care of themselves.
+L191710 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ Wait.  I'll send a patrol with you.
+L191709 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Whatever it is, it isn't friendly. I'm going to have a look.  Come on, Chewie.
+L191603 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ I understand.  A death mark is not an easy thing to live with ... Until our paths cross again, may the force be with you.
+L191602 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Thank you, General.  But there's a price on my head.  If I don't pay off Jabba the Hutt, I'm a walking dead man.
+L191601 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ You're an extraordinary fighter. I hate to lose you.
+L191600 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ That's right.
+L191598 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ The Empire won't look for you out here.  I'd say you're all set ... which means it's time for me to get going.
+L191597 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ With all the meteor activity in this system, it's going to be difficult to spot approaching ships.
+L191596 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ He's checking out a meteorite that hit near him. He'll be in soon.
+L191595 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ Good, and Commander Skywalker?
+L191594 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ There isn't a hint of life in the area.  But all the perimeter markers are set, so you'll know if anyone comes calling.
+L191593 +++$+++ u5102 +++$+++ m337 +++$+++ RIEEKAN +++$+++ Captain Solo.  What's the situation?
+L192157 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Good.  Soon as we're clear, we'll kick this baby into hyperdrive.
+L192156 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ I can see the edge of the asteroid field, sir.
+L192126 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ Not collapsing, honey.  It's closing!  This is no cave ...
+L192125 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ We're doomed.  Goodbye, Mistress Leia.  Goodbye, Captain ...
+L192106 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ I'm going to see what it is.
+L192105 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ It sounds like it's trying to get in.
+L191988 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ I must admit there are times I don't understand human behavior.
+L191987 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ You, too, golden rod.
+L191969 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ Sir, I'm almost afraid to ask, but does shutting down all but emergency power systems include me?
+L191968 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ What are you so grouchy about?
+L191907 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ We're in trouble!
+L191906 +++$+++ u5103 +++$+++ m337 +++$+++ THREEPIO +++$+++ If I may say so, Sir, I noticed earlier that the entire main para- light system seems to be damaged.
+L191905 +++$+++ u5097 +++$+++ m337 +++$+++ HAN +++$+++ I think we're in trouble.

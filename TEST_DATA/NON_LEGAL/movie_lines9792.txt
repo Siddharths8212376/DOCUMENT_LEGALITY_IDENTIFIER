@@ -1,0 +1,200 @@
+L193446 +++$+++ u5107 +++$+++ m338 +++$+++ COLONEL +++$+++ Excuse me.  I didn't mean to disturb....  What am I saying?
+L193444 +++$+++ u5106 +++$+++ m338 +++$+++ AIDE +++$+++ They suggested oranges.
+L193443 +++$+++ u5107 +++$+++ m338 +++$+++ COLONEL +++$+++ Good God.
+L193442 +++$+++ u5106 +++$+++ m338 +++$+++ AIDE +++$+++ The Zoo tells me that chimpanzees, like all apes, are vegetarian, sir.
+L193441 +++$+++ u5107 +++$+++ m338 +++$+++ COLONEL +++$+++ Me, too.  Can't have a lot of monkeys making messes in the Guardhouse.  Have we fed them?  Like raw steak or something?
+L193440 +++$+++ u5106 +++$+++ m338 +++$+++ AIDE +++$+++ Yes, sir.  We're in luck.  The sick bay's almost empty except for a mauled fox cub, a deer with pneumonia, and a depressed gorilla. The Apes will be hidden from the public.  They'll be quarantined. If they want medical attention, it's available on the spot.  And the experts can start giving them the once-over first thing in the morning. General Brody's very pleased.
+L193439 +++$+++ u5107 +++$+++ m338 +++$+++ COLONEL +++$+++ Did you call the Zoo?
+L193524 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ That primitive apes can talk.
+L193523 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ Believe what?
+L193522 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Nobody's going to believe it.
+L193521 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ My name is Lewis -- Lewis Dixon .
+L193520 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ My name is Cornelius.  And this is Zira -- my wife.
+L193519 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Do you have a name?
+L193518 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ We know that.
+L193517 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ So am I.  And I mean you no harm.
+L193498 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ A display of primitive apparatus --
+L193497 +++$+++ u5110 +++$+++ m338 +++$+++ MILO +++$+++ And we can watch ...
+L193496 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ To a lot of psychiatric small talk --
+L193491 +++$+++ u5110 +++$+++ m338 +++$+++ MILO +++$+++ I did not call her mad.  I merely asked her if she was.  And I repeat the question.  Are you mad?
+L193490 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ Dr. Milo, please don't call my wife mad.
+L193489 +++$+++ u5110 +++$+++ m338 +++$+++ MILO +++$+++ Zira, are you mad?
+L193463 +++$+++ u5110 +++$+++ m338 +++$+++ MILO +++$+++ And Earth will be destroyed -- just as we saw it.  Only, since fleeing it, we have passed through a....backward disturbance in time -- did you notice the Date Meter clicking down after the shock wave hit our ship? -- and we have returned to Earth almost two thousand years before its destruction.  That is another reason for keeping silence.  Our human captors would not be edified to know that, one day, their world will crack like an egg and fry to a cinder, because of an Ape war of aggression.
+L193462 +++$+++ u5108 +++$+++ m338 +++$+++ CORNELIUS +++$+++ But we saw Earth destroyed.
+L193461 +++$+++ u5110 +++$+++ m338 +++$+++ MILO +++$+++ In some fashion -- and I lack the intellect to know precisely how -- we have traveled from Earth's future into Earth's past.
+L193507 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Keep him in cold storage till the reports in.  Then send him to Taxidermy.  He's a museum piece.
+L193506 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ With particular emphasis on the cranial and oral areas.
+L193505 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ We shall want a full autopsy ...
+L193479 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Yes, but don't take any chances.
+L193478 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ They look pretty docile.
+L193477 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Go easy, Stevie.
+L193472 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Security.  Join the Marines and see the Zoo ...
+L193471 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ What are they doing here?
+L193470 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ I don't believe it.
+L193469 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ No -- clothes.  Stevie, they changed into them.
+L193468 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ With food?
+L193467 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ There was a sort of carpetbag in the ship.
+L193466 +++$+++ u5111 +++$+++ m338 +++$+++ STEVIE +++$+++ What, Lewis?
+L193529 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ I like you.
+L193528 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Please
+L193527 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ May I say something personal?
+L193526 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ I mean that in our 'primitive' civilization, apes just don't talk. I mean I think it's important that, when our 'primitive' security precautions are lifted, the first time you say something in public you should talk to what we 'primitively' call the Right People.
+L193525 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ Primitive?
+L193516 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ I'm a psychiatrist.
+L193515 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ Humans?
+L193514 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ I should.  I've been doing it half my life to Humans.
+L193513 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ I mean he's of your race. He's an Ape.  Look.  You don't have to be afraid.  We've put him in chains and under sedation. Do you understand that?
+L193512 +++$+++ u5112 +++$+++ m338 +++$+++ ZIRA +++$+++ He's a gorilla.
+L193511 +++$+++ u5109 +++$+++ m338 +++$+++ LEWIS +++$+++ But he isn't us.  He's your own kind.
+L194034 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ C'mon, Snake - it's L.A. Everything's phony, you know that.
+L194033 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ You were injected with glucose. There is no Plutoxin 7 virus. You were never going to die - at least not from anything we gave you.
+L193646 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Plissken, slow down the sub. You're overloading the power plant.
+L193645 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ His reactor's starting to overheat.
+L193614 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Some areas have power - they're on line to San Onofre.
+L193613 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ Heavy Third World connections. They get weapons, drugs, fuel, choppers - everything is pumped into the island from the south.
+L193612 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ L.A. is in a constant state of warfare. Gangs fighting for the right to rule.
+L193601 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ It's a strain of the Plutoxin 7 virus. Genetically engineered. 100% pure death. Complete nervous system shutdown. You crash and bleed out like a stuck pig. Not a pretty sight.
+L193600 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ The cigarette girl in New Vegas was an undercover cop. She injected you with incentive toxin. Right now it's swimming in your bloodstream. It'll start to take effect in 9 hours.
+L193574 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ Utopia became depressed after her mother's suicide, began to withdraw into her virtual reality simulator. She'd punch up her own little world in cyberspace and stay in it for days at a time.  Somebody else was in there with her.
+L193573 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Somehow during the tour, she came into possession of a prototype transmitting device. We don't know how.
+L193559 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ Zero emotional developments. Total lack of compassion. A highly developed psychopathic instinct to survive.
+L193558 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Perfect for the mission. Nobody else can pull it off - not an army, not a man.
+L193557 +++$+++ u5113 +++$+++ m339 +++$+++ BRAZEN +++$+++ ComStat did a psychosearch on him. Used a database of 5 million sociopathic personalities. He hit the bottom of the curve.
+L193850 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ Yes...
+L193849 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Nobody leaves Cuervo Jones. Not unless you give your life. You fight till you're dead. Then I forgive you.  Understand?  Understand?
+L193848 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ I tried...
+L193847 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ You're my woman, you understand? You don't let anybody take you away from me without a fight.
+L193846 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ Cuervo...?
+L193795 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Go on now. Do as I say.
+L193794 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ Ooww!
+L193793 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ Are we going to eat soon? I'm starved.
+L193792 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Now go get dressed. We have things to do.
+L193791 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ He doesn't look like his picture.  I bet he's fake.
+L193790 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ You never heard of Snake Plissken?
+L193789 +++$+++ u5124 +++$+++ m339 +++$+++ UTOPIA +++$+++ Who's that?
+L193992 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Cuervo, look out behind you!
+L193991 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ You're stalling, Eddie.  Talk, you little gringo!
+L193990 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ He's... near.
+L193989 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Where's Plissken?
+L193988 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ It's so good to see you again.
+L193987 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ What?
+L193986 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Oh Cuervo...
+L193985 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Where?
+L193984 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I thought he was, but he came back.
+L193983 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ You told me he was dead.
+L193982 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ You're about to get hit, Cuervo. It's Plissken.
+L193842 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Sure, Cuervo, but look here. I've done it all, man. I killed Plissken, I got your girl back, I got it all. Just for you, Cuervo. Just for you.
+L193841 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Give it.
+L193840 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ You said I could be Vice-President, Cuervo. Your right-hand man.
+L193839 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Give it to me.
+L193838 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ He jumped. Down there.  He's dead, Cuervo. I did it. I killed Plissken.
+L193837 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ Where is he?
+L193778 +++$+++ u5114 +++$+++ m339 +++$+++ CUERVO JONES +++$+++ We'll see.
+L193777 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Come on, Cuervo. I delivered him, didn't I? All I'm asking for is what you promised.
+L193962 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ My name is Hershe Hernandez, do you understand, cowboy?
+L193961 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Where'd you get these rigs, Carjack?
+L193954 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ You always were a loser, Plissken. Makin' things up as you go along. That's why I cut out on you in Cleveland. You're just a bum like the rest of us.
+L193953 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Shit.
+L193943 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ I'd like to get out but I don't have enough money.
+L193942 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Why should we leave? I love L.A. Where we gonna go? What's the payoff?
+L193926 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Cuervo Jones has more firepower than two armies. No one gets near him.
+L193925 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Wait a minute. All right. Hold on.
+L193919 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ We have a little arrangement. Anything happens to me, you're dead.
+L193918 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ I wouldn't be doin' that, Snake.
+L194014 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ My name is no longer Carjack. Will you please get that through your fucking head?
+L194013 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ No. The right skid's broken. If I try to set it down she'll crash. I have to stay in a hoverwhile you jump off.  Hey, Carjack. We gotta hide the girl. Give her your dress.
+L194012 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Can you land?
+L194011 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I think we've burned off enough fuel. We may be lighter enough to hover. Just barely.
+L193995 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Somebody get off!
+L193994 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ She's overloaded! We're too heavy.
+L193969 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ If I'm late, Carjack, don't start without me.
+L193968 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ See you in hell, Snake.
+L193952 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I don't know yet.
+L193951 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ No, that sucks.  How are we getting out?
+L193950 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ You want to stay here, while Cuervo Jones rules the world?
+L193949 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ I don't know, sounds thin to me.
+L193937 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ We get the girl and the prototype. And we get out.
+L193936 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ So what's the deal, gorgeous?
+L193924 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Say goodnight, Carjack.
+L193923 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Dream on, blue eye.
+L193922 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Get me to Cuervo Jones. Get me to the Kingdom. I got one hour.
+L193921 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ I see your point. What's the favor?
+L193920 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I'm already dead.
+L193916 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I got a new deal for you.
+L193915 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ All right, so I made another deal.
+L193914 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Don't lie to me.
+L193913 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ I was called away on urgent business, Snake.
+L193908 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ Not anymore.
+L193907 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Wait a minute. I know that voice.  You're Carjack Malone.
+L193906 +++$+++ u5115 +++$+++ m339 +++$+++ HERSHE +++$+++ What's in it for me?
+L193905 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I need a favor.
+L194041 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ The name's Plissken.
+L194040 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ You're gonna have to learn to respect the law, Snake. The United States is a no- smoking nation. No smoking, no drinking, do drugs, no women unless you're married, no guns, no foul language. It's a brand new day for you, Snake.
+L194039 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Got a smoke?
+L194005 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Yeah, I got it.
+L194004 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Plissken - this is Malloy. Do you have the prototype?
+L193651 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ It's history. I gotta go.
+L193650 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Where's the submarine? It's disappeared off our screens.
+L193649 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I'm here.
+L193648 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Plissken...?
+L193641 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Hands on switches and counting. 5...4...3...2...1. Launch.
+L193640 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ 75% power.
+L193639 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Nuclear turbine to 75% power.
+L193638 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Locked.
+L193637 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Lock fuel rods.
+L193636 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ She's in the green.
+L193631 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Good.
+L193630 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ No.
+L193629 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Not you?
+L193628 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ A medical team will be standing by.
+L193627 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ By the way - who gives me the anti-toxin?
+L193626 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Let's just say it's what's best for the country.
+L193625 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ So you want me to take her out?  Is that an order from the President?
+L193624 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Cahuenga Pass. Make your way up through the mountains toward the Hollywood Bowl. You should be able to pick up Utopia's tracer there.  Once you go inside, you're on your own.  You know what you have to do with the girl, don't you?  We have to spare this nation her trial - for treason.
+L193623 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where do I put ashore?
+L193621 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ All you need to know is get it back here by 5 a.m.
+L193620 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ So what does this thing do?
+L193619 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Third World wants to live like we do - and they plan on taking what they want. The Cubans and Brazilians are ready to invade Miami. If the Africans and Colombians make a run at the border, we got a full scale attack on the United States.
+L193618 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ There's a war about to be declared, or didn't you know?
+L193617 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Defense against what?
+L193616 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Only a handful of people are aware of its existence. Let's just say it's the ultimate defensive weapon.
+L193615 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I'll need to know more about this thing.
+L193607 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Call me Snake.
+L193606 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ I guess we have a deal. Nice to be working with you, Plissken.
+L193605 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Get this crap out of me.
+L193599 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ You don't understand. It's already in you.
+L193598 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Maybe. But you're not putting any shit in me this time.
+L193597 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Having second thoughts?
+L193596 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Wait a minute, what are you talkin' about?
+L193585 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Tell the President to adopt. I think I'll like L.A.
+L193584 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ That's the deal.
+L193583 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ So what's the deal, huh? Go into L.A., find the President's daughter, secure the box, and bring 'em both out - and I'm free?
+L193582 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ That's right, big shot. Unless you do what we want you're not coming back.
+L193581 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ And I don't need to know. So fuck you, I'm goin' to Hollywood.
+L193580 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Top secret. Only on a need to know.
+L193579 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ What's the little black box do?
+L193578 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Shut up, Plissken.
+L193562 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ You assholes didn't bring me here to give me this for 20 years of dedicated service. What'ya want?
+L193561 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ How you doin' Plissken?  You like the watch?
+L194036 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ You're free, Plissken. But if you even so much as break wind on a country road I'll crush you like a bug.
+L194035 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Relax, war hero. We took you for a ride, and you came through. Not bad for a dirtbag like you.
+L193897 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Well, yeah. All you have to do is push the button.
+L193896 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ Does he know how to activate it?
+L193895 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ The prototype appears to be armed, Mr. President.  Shall I begin evacuation?
+L193858 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ So where's Plissken?
+L193857 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ Getting ready to invade.
+L193589 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ I give you my word. Put the prototype into my hands, and you're a free man.
+L193588 +++$+++ u5116 +++$+++ m339 +++$+++ MALLOY +++$+++ It's the President, for Christ's sake!
+L193975 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Yeah. The place kept changing owners. Finally went bankrupt. That thing in Paris killed 'em.
+L193974 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Is that what I think it is?
+L193966 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ If he lets you get close enough.
+L193965 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ So maybe we can pull off a Texas switch on Cuervo.
+L193964 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Yeah, kinda.
+L193963 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I got an idea, Snake.  This looks like the prototype, right?
+L193960 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Don't like it, don't come.
+L193959 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I don't know about this thing.
+L193948 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Bluebacks. I'm not bullshittin'. I swear to God.
+L193947 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Aw, come on, Snake.
+L193941 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ We'll see.
+L193940 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Me too?
+L193935 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I used to represent the guy who invented it. I swear to God, Snake. No bullshit.

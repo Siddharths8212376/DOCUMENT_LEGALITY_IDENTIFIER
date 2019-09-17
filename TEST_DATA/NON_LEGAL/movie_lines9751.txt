@@ -1,0 +1,200 @@
+L165114 +++$+++ u4849 +++$+++ m323 +++$+++ TAKAGI +++$+++ I've spent half my life on airplanes,			* I can recognize someone who just got off one.  I'm Joe Takagi, Mr. McClane.  I have ...something to do with this company.
+L165113 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Yeah.  How'd you know?
+L165112 +++$+++ u4849 +++$+++ m323 +++$+++ TAKAGI +++$+++ Holly Gennero?
+L165111 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Excuse me, I'm looking for --
+L165697 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I'm serious.  Hey, this is my wife... Holly Gennero.
+L165696 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Bullshit.
+L165695 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Al.  Man, you were my rock.  I couldn't have made it without you.
+L165630 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Stand by, Powell.  I gotta check something out.
+L165629 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Roy?
+L165628 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I hope so.  But that's up to the guy upstairs.  Upstairs...  ...Hans, you bastard...what were you doing?
+L165627 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I got it.  But you can tell her yourself.  Just watch your ass and you'll make it.
+L165626 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Look...I'm getting a bad feeling up here...I'd like you to do something for me.  Look up my wife...don't ask how, you'll know by then...and tell her...tell her...I've been a jerk. When things panned out for her, I should've been behind her all the way ...We had something great going until I screwed it up...She was the best thing that ever happened to a bum like me.  She's heard me say I love you a thousand times, but she never got to hear this...honey...I'm sorry.  You get all that?
+L165603 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Ask the FBI.  They've got the terrorist playbook and they're running it, step by step.
+L165602 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Powell?  What's going on?
+L165595 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Then this won't matter.  LAPD's not calling the shots anymore.
+L165594 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I still feel like shit.
+L165593 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Hey, you couldn't know.
+L165592 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I...I'm sorry.  I didn't mean to make a joke of it.
+L165591 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Eleven years ago.  Oh, it was dark... he was big for his age...damn ray gun he had looked real enough...yeah, I had all the right excuses...but afterwards... I really couldn't draw my gun again.
+L165590 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I...I shot a kid.
+L165589 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ They way you drive, I can see why.
+L165586 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ You don't want to know.
+L165585 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Yeah?  What's the odds?
+L165584 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ They boys'll be glad.  We got a pool going on you.
+L165583 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Yeah.  But all things being equal, I'd rather be in Philadelphia.  By the way, chalk up two more terrorists.
+L165582 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Roy?  You still with us?
+L165518 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ In my youth, partner.  In my youth.
+L165517 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ The way you drove that car, I figured you for the streets.
+L165516 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Don't tell me, partner.  I'm just a desk jockey who was on the way home when you rang.
+L165515 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Speaking of cows, did you ever hear so much bullshit in your life? Two hours?  That doesn't even make any sense --
+L165514 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I'm here, cowboy.
+L165513 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Al?  Al, you there?
+L165467 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ It's a date.  You buy the ice cream.
+L165466 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Two.  And I'd sure like to see them swinging on the jungle gym with Al junior.
+L165465 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Not yet, the wife in working on our first.  You got any kids back on the ranch?
+L165464 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ You sound like a man with a couple of kids.
+L165463 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ 'Sugar, enriched flour, partially hydrogenated vegetable oil, polysorbate 60 and yellow dye #5.'
+L165462 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Yeah, just trying to handle some year old twinkies.  Yucck.  What do they put in these things?
+L165441 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Thanks...partner.
+L165440 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Hey, I love you.  So do a lot of the guys.  So hang in there, man.  Hang in there.
+L165428 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Two?  Are you sure?
+L165427 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ No, but it's gonna need one hell of a paint job and a shitload of screen doors.  One spotters say you got two with that blast.
+L165426 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ The plastique I found.  Is the building on fire?
+L165425 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Safe and sound, thanks to you. What the fuck was that?
+L165389 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I said we'll talk later, Roy.  If you're what I think you are you should know when to listen, when to shut up... and when to pray.
+L165388 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ Al, what's wrong?  Did something --  -- Oh, God.  You're coming in!  That's it, isn't it?  Christ, Powell, I told you what you're dealing with here --
+L165387 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I'm here, Roy, but I'm, uh, kind of busy.  Let's talk later, okay?
+L165346 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ They're all yours, Al.  Good luck.
+L165345 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Got it...'Roy'.  Now listen.  If you think of anything else you think we need to know, don't be shy, okay? In the meantime I want you to find a safe place and hole-up and let us do our job.  Understand?
+L165344 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ 'Roy'.
+L165343 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Uh, what do I call you?
+L165342 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I'm ahead of you...partner.
+L165341 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I hear you...  Partner.  And LA's finest are on it, so light 'em if you got 'em.
+L165340 +++$+++ u4846 +++$+++ m323 +++$+++ MCCLANE +++$+++ I've seen enough phoney ID's in my time to recognize that the ones they've got cost a fortune.  Add all that up and I don't know what the fuck it means, but these are bad ass preps and they're here to stay.
+L165339 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ How do you know?
+L165498 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ This is Deputy Chief Robinson.  Who is this?
+L165497 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ This is --
+L165494 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Anytime you want to go home, Sergeant...consider yourself dismissed.
+L165493 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ He's alone, tired, hunted, and hasn't seen diddly-squat from us and you think he gives a flying fuck about what you're going to do to him? Robinson, wake up and smell the shit you're shoveling!
+L165492 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Maybe.  And maybe they'd at least be talking to us!  Now tell your 'partner' to stay out of it, or so help me if he lives through this I'll put him behind bars myself!
+L165491 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Christ, can't you read between the lines!  He did everything he could to save him...if he gave himself up they'd both be dead!
+L165490 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Goddamn, didn't you hear him!  He practically pulled the Goddamned trigger himself -- he gave that man to them --
+L165431 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Give me that.  Now, listen to me, mister, I don't know what you think you're doing, but demolishing a building doesn't fall under the definition of 'help'! There's hundreds of people out here and you covered half of them in pieces of glass --
+L165430 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Yessir.
+L165429 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Is that him?
+L165380 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Who the hell knows?  Maybe he was a stockbroker who looked at the Dow Jones and opted for early retirement!
+L165379 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ What about the body that fell out of the window -- ?
+L165378 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ -- all we know?  We don't know shit, Powell.  If there's hostages why hasn't anyone asked for ransom?  If there's terrorists, where's their goddamn list of demands?  All we know is that someone shot up your car, and it could be the same flake you've been talking to on the radio!
+L165377 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ Going in...are you out of your mind? There's 30 hostages in there -- for all we know --
+L165376 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ What's it look like?  We're going in.
+L165375 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ What's going on?
+L165358 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ -- recognizing phony ID's?  Christ, Powell, he could be a fucking bartender for all we know!
+L165357 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ A hunch.  Things he said.  Like, knowing how to recognize a phony ID --
+L165356 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ How do you know?
+L165355 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I don't think so, Sir.  In fact... I think he's a cop.  Maybe not LAPD, but definitely a badge.
+L165354 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ He claims?  Powell, has it occured to you he could be one of the terrorists, pulling your chain? Or some kind of nut case who --
+L165353 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ We don't exactly know, Sir.  He won't give us him name.  He appears to be the man who called in the report...he's killed one of the terrorists for sure and claims he capped two others.
+L165352 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Then who the hell have you been talking too?
+L165351 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ The terrorists?  Don't know, Sir. We haven't heard a peep from them.
+L165350 +++$+++ u4848 +++$+++ m323 +++$+++ ROBINSON +++$+++ Dwayne Robinson.  Well, what have you learned?  What do they want?
+L165349 +++$+++ u4847 +++$+++ m323 +++$+++ POWELL +++$+++ I am, Sir...Sergeant Al Powell.
+L167125 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ Fuck you, sir - if I'm right, I don't need you.  What I want is - if I make an honest mistake I want help.
+L167124 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ If you're right I'm gonna back you a hundred percent, you know that.
+L167123 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ Listen.
+L167122 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ Don't let 'em off the ground.
+L167121 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ What if we gotta kill a whole lot of people?
+L167120 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ They jet's comin' out.  But don't let 'em off the ground.
+L167119 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ So whatsa deal?
+L167118 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ Gene, Jesus, what a bull he is!
+L167117 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ I never make bets or guesses, that way I'm never wrong and I never have to pay out.
+L167116 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ Whattaya think: we gonna kill any civilians tonight, Gene?
+L167115 +++$+++ u4859 +++$+++ m324 +++$+++ MORETTI +++$+++ No.  I never smile any more.
+L167114 +++$+++ u4851 +++$+++ m324 +++$+++ COMMISSIONER +++$+++ Gene -- you smilin'?
+L167488 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ You men shoot, aim for the white meat!
+L167487 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ You'll be okay.
+L167483 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Come on, nobody's gonna get hurt. If they were gonna shoot, they'd shoot now.
+L167482 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ Aw, hey...
+L167476 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Okay.
+L167475 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ God damn it, Sheila isn't gonna believe it.  They just call in and say gas up a stretchout and get it down to  and I say, 'shit, another load of Elks for the massage parlors.'
+L167474 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Yes, I would.
+L167473 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ I was lookin' at it.  I saw you, man!  Jesus!  You oughta see yourself!  You wouldn't believe it.
+L167472 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Come on, what's under this?
+L167471 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ Jesus, you're the man!
+L167470 +++$+++ u4852 +++$+++ m324 +++$+++ DRIVER +++$+++ Yeah.
+L167469 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ These seats come out?
+L167375 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ Listen, it's late already when I realize it's not just a couple of ordinary faggots, it's just you and Sal.  I couldn't get a baby sitter.
+L167374 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ They're not after you, they're after me.
+L167373 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ Jesus - what - I'm afraid - I'm gonna get shot or whatever.  You oughta see it on TV, the guns, the cops, they got cannon, machine guns, they're loaded with gear.
+L167372 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Heidi - why didn't you come down here?
+L167371 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ I know you can't stand me to say I'm fat.  Like I can't stand you being a bank robber.  I guess that's what love is -- huh, Sonny?
+L167370 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Don't call yourself fat.
+L167369 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ ...because you hurt me, God how you hurt me.  Can you imagine, marrying another man?  Did I do something to make you do that?  Did I ever turn you down, or anything?  The only thing I couldn't do, you're gonna laugh, is go on top - I got this fear of high places!  And I let myself get fat.
+L167368 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ See?  You're screaming with the language and all!  A person can't communicate with you.  You become a stranger in your own home...
+L167367 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Heidi, for Christ sake, shut up! Will you shut your fucking mouth and listen?!
+L167366 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ I blame myself, Sonny.  I notice you been tense, like something is happening; the night before last you're yellin' at the kids like a madman, believe me.  And then you wanted me to go on this ride with the kids, this caterpillar about from here to there - fulla one- year-old kids.  It's ridiculous. I'm not about to go on this ride, so you yell right there, 'You pig, get on the fuckin' ride!' Well, everything fell outta - me - my heart, my liver fell to the floor - you name it!  Yellin' at me in front of all those people.  Because you never talked and I never been scared of you, never.  I think: he's gonna shoot me and dump my body in the river.
+L167365 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Heidi, I'm dying.
+L167364 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ They don't know, I sent them to the neighbors.  Sonny, Jesus, it's not like you.  I can't believe, because you never hurt anybody since the day I knew you.
+L167363 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ What about the kids?
+L167362 +++$+++ u4853 +++$+++ m324 +++$+++ HEIDI +++$+++ Hey, Sonny!  I'm watchin' it on TV!
+L166663 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ It's okay... it's okay...
+L166662 +++$+++ u4854 +++$+++ m324 +++$+++ JACKIE +++$+++ Sonny, there's somebody under that desk over there... I'm sorry...
+L166661 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Take the subway.  We need the car.  Hey, gimme the keys - the keys!
+L166660 +++$+++ u4854 +++$+++ m324 +++$+++ JACKIE +++$+++ Well, how'll I get home?
+L166659 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Hey, don't take the car!
+L166649 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ It's too late - just get away from me - don't talk to me now - go over to your place...
+L166648 +++$+++ u4854 +++$+++ m324 +++$+++ JACKIE +++$+++ Maybe we can take something smaller... like a Spanish grocery.
+L166647 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Jackie - what are you talking about?
+L166646 +++$+++ u4854 +++$+++ m324 +++$+++ JACKIE +++$+++ Sonny, I'm gettin' real bad vibes.
+L166819 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ I love you.
+L166818 +++$+++ u4858 +++$+++ m324 +++$+++ MAN +++$+++ I'll kiss the baby for you.
+L166813 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ Oh, yeah, I will...
+L166812 +++$+++ u4858 +++$+++ m324 +++$+++ MAN +++$+++ Well, stay away from them.  Don't get close.
+L166811 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ Yeah.  A lot of guns.
+L166810 +++$+++ u4858 +++$+++ m324 +++$+++ MAN +++$+++ The robbers in the bank.  They got guns?
+L166809 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ What guns?
+L166806 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ Honey, send out for Kentucky fried chicken.  The baby, just open a bottle of prunes, and one of the beef.  The bottles are in the fridge.
+L166805 +++$+++ u4858 +++$+++ m324 +++$+++ MAN +++$+++ It looks like a whole roast.
+L166804 +++$+++ u4855 +++$+++ m324 +++$+++ JENNY +++$+++ He says he doesn't know.  Why don't you cook whatever's there?
+L166803 +++$+++ u4858 +++$+++ m324 +++$+++ MAN +++$+++ Jenny?
+L167051 +++$+++ u4856 +++$+++ m324 +++$+++ JESUS FREAK +++$+++ Sonny?  Don't send me away!  I can help you save your soul ...
+L167050 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Yeah, well...maybe you better talk to one of these others, okay?
+L167049 +++$+++ u4856 +++$+++ m324 +++$+++ JESUS FREAK +++$+++ That's why I can talk to you, as an equal, Sonny.  You got to merge your whole soul with God.  And then you are Him and one with the Holy Ghost.
+L167048 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ No.  Look, we're kind of....
+L167047 +++$+++ u4856 +++$+++ m324 +++$+++ JESUS FREAK +++$+++ You know, Sonny, I used to dope a lot, and I was into dipping?  And I did a couple bank jobs, and the Lord Jesus in his everlasting mercy saved me, you know how?
+L167046 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Yeah, well I don't blame him.
+L167045 +++$+++ u4856 +++$+++ m324 +++$+++ JESUS FREAK +++$+++ Jesus Christ is coming back and he's really pissed.
+L167360 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ You said a mouthful... sweetheart!
+L167359 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Yeah... I'll write a song.  Ha, ha. I don't know.  Life is funny!
+L167358 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah... see ya in my dreams, huh?
+L167357 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Right.  See you sometime.
+L167356 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Thank you much... and huh, bon voyage.
+L167355 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ I don't know what to say to ya!  I guess I just wanted to say I'll see ya... or whatever.
+L167354 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ It's my only chance!
+L167353 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Well, then...
+L167352 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah... yeah.
+L167351 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Do you still want the operation?
+L167350 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Well... I don't know if I have or not.
+L167349 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ That's good then.  You've found something.
+L167348 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah... huh, thank you.  I'm going to go back, Sonny, to the hospital. They're really nice people.  They're really trying to help me.
+L167347 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ All right!  He didn't do it.  All right?  Now... would you get the fuck off the phone?  I'll bet that really changed them, huh?  Anyway, Leon... did I do it for you?
+L167346 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah... yeah!
+L167345 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Are they on the phone still?
+L167344 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ They won't talk to you.
+L167343 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ All right, enough!  Who the fuck is on the phone... anyway?  Is that you Moretti?  You on the phone?  Will somebody talk to me?
+L167342 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah... I knew it.  But, what choice do I have?  I'm in the hospital; they drag me out of the hospital... bring me down here...
+L167341 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Who's on the phone, now?  What do you mean... throw it on you?  You knew it, right?
+L167340 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Look... don't throw that on me.
+L167339 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Look... who's on the phone?
+L167338 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ No!  They're standing all around me. Seven thousand fucken cops... all around me.
+L167337 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ You don't have a choice?
+L167336 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ I don't have a choice.
+L167335 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ That's great.  Just terrific.  You talk to me with them on the phone, right?  That is really smart.  And, you don't tell me?
+L167334 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Yeah.
+L167333 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Where are they now?  Just tell me... are they on the phone now?
+L167332 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Sonny, would you please just tell them... please...
+L167331 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ All right.  Then what do you want me to say?
+L167330 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ I can't survive in prison, Sonny...
+L167329 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Shit...
+L167328 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ I gotta listen to it if they think...
+L167327 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Oh... they're fucken crazy.  That's a snow job.  Don't listen to that shit!
+L167326 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Well... they told me that I was an accomplice...
+L167325 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ How did they think that?  What are they... crazy?  What do you mean. That's bullshit, Leon.  They're giving you a fucken story.
+L167324 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ These guys that got me down here, you know, huh... they think that I'm part of this whole thing.  They think I'm part of the plot to rob the bank!
+L167323 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ What?
+L167322 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Would you do something for me? Please?
+L167321 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ He ain't going out.  And if I go out he's just gonna kill the people. There's a lot of lives that I'm responsible for... that's all.  So, I can't do anything.  I got myself into this mess and I'll get myself out of it... the best way I know how!  One of the ways is not giving up.  I'm telling ya!
+L167320 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Sal... Sal... Naturale, oh boy!
+L167319 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ I know I am.  I know!
+L167318 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Oh... wow!  Sonny, you're really into one mess now.
+L167317 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Sal?  Yeah... Sal is with me.
+L167316 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ So!  Sal is with you?
+L167315 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Sal wanted to go to Wyoming.  I told him it wasn't a country.  We gotta get outta the country!  To hell with a guy who doesn't know where Wyoming is.  Okay.  Can you imagine what kind of a shape I'm in?
+L167314 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ I like that... yeah!
+L167313 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Denmark?  Sweden?
+L167312 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ I don't know... you could have picked a better place.
+L167311 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ What am I supposed to do?
+L167310 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ God, Algeria!  Do you know there's a bunch of... they walk around there... God!  People walk around with masks and things on their heads.  They're a bunch of crazy people there.
+L167309 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ I know that.  I'm warped... I'm warped!
+L167308 +++$+++ u4857 +++$+++ m324 +++$+++ LEON +++$+++ Howard Johnson's... you're warped. You know that?  You're really warped!
+L167307 +++$+++ u4866 +++$+++ m324 +++$+++ SONNY +++$+++ Huh ... I don't know.  They got Howard Johnson's there.  I don't know why the fuck I'm going there for.

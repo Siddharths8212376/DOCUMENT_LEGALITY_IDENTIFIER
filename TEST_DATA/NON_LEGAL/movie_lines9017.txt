@@ -1,0 +1,200 @@
+L122421 +++$+++ u681 +++$+++ m43 +++$+++ GOODCHUCK +++$+++ Get up.
+L122418 +++$+++ u674 +++$+++ m43 +++$+++ BADCHUCK +++$+++ With what?  There's nothing to fix it with.  This rope comes undone, you're going to drown.
+L122417 +++$+++ u681 +++$+++ m43 +++$+++ GOODCHUCK +++$+++ Stay calm, identify the problem. Problem, rope fraying.  Solution, fix rope.
+L122416 +++$+++ u674 +++$+++ m43 +++$+++ BADCHUCK +++$+++ Shit!  Shit!  Shit!
+L122415 +++$+++ u674 +++$+++ m43 +++$+++ BADCHUCK +++$+++ Catch another fish tomorrow.
+L122414 +++$+++ u681 +++$+++ m43 +++$+++ GOODCHUCK +++$+++ Save some for tomorrow.
+L122791 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Sure.
+L122790 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Keep painting.  Promise me.
+L122783 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Just sit here, I'll get us some lunch.
+L122782 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ No.  that was the last one.
+L122781 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Do you...have any more packages to deliver?
+L122780 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ To tell you the truth -- you did.
+L122779 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ You are.  Yes you are.  What gave you the idea to paint on that cave?
+L122778 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Well, not really, I --
+L122777 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ I can't believe this.  I -- I -- They are... You're a gifted artist.  You're into something very powerful.  Primal. Truly.
+L122775 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ He was a sorry sonofabitch, and I'm sorry I ever married him.
+L122774 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Our apologies that it never made it to the recipient.
+L122773 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Well, I do a little drawing --
+L122772 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Oh?  You've tried?
+L122771 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ They're harder to do than they look.
+L122770 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Yeah.  A long time ago.
+L122769 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Possible.  So you did those wings?
+L122768 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Hmmm.  Feels like it might have gotten wet.
+L122765 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Okay.  Sure.
+L122764 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Want to come in?  Get dry for a minute.
+L122763 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ As much as anybody.
+L122762 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ You know what happened to this?
+L122761 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ No.
+L122760 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ Well, I have to say, I'm impressed.  You never gave up.
+L122759 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ There was an unavoidable delay.
+L122758 +++$+++ u675 +++$+++ m43 +++$+++ BETTINA +++$+++ You came on a bicycle?  No wonder it's so late.
+L122816 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ So do I.
+L122815 +++$+++ u680 +++$+++ m43 +++$+++ ERICA +++$+++ I've got lots of time.
+L122814 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Yeah, a long one.
+L122813 +++$+++ u680 +++$+++ m43 +++$+++ ERICA +++$+++ Must be a story there.
+L122812 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I had it on the island with me.
+L122811 +++$+++ u680 +++$+++ m43 +++$+++ ERICA +++$+++ You?  Personally?
+L122810 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Had a package to deliver.
+L122809 +++$+++ u680 +++$+++ m43 +++$+++ ERICA +++$+++ What brings you out to the sticks?
+L122806 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I didn't steal it, and he wasn't crippled.
+L122805 +++$+++ u680 +++$+++ m43 +++$+++ ERICA +++$+++ Did you really steal a crippled kid's bicycle to make your deliveries, or is that just some bullshit story?
+L122674 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I'm so glad you're alive.
+L122673 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You too.
+L122672 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I love you, Chuck.
+L122671 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I had to come.  To be sure you were okay.
+L122670 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ It means a lot...that you came.
+L122669 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I've got to get back to Memphis. Hannah's babysitter has finals.
+L122668 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I don't know.  I really don't know.
+L122667 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ What will you do?
+L122666 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Great.  Really.
+L122665 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ You okay?
+L122664 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ That's what I told the fish I caught. But I ate them anyway.
+L122663 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ This is so unfair.
+L122661 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I didn't know what really being alone was.  No one back here does.
+L122660 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ You hated being alone.  Couldn't stand it.  Busy every minute.  Always plugged into something.
+L122659 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Not when you have no choice.
+L122658 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ So simple to say, so hard to do.
+L122657 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Cliches, mainly.  Don't take anyone for granted.  Don't sweat the small stuff. Live each day like it's your last.
+L122656 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Come on.  Try.
+L122655 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Don't overwhelm me with the details.  You know how I hate that.
+L122654 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ The tide came in, the tide went out.  I survived.  That's the headline.  I survived.
+L122653 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Yeah?
+L122652 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ The plane went down.  My friends died.  I washed up on an island.  Then I found these barrels, built the raft, and here I am.
+L122651 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Maybe now's when you tell me about it.
+L122650 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ That about sums it up.
+L122649 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Your calendar, your cell phone, your whoo pig sooey hat, some pictures of that ketch you wanted.
+L122648 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ What was inside?
+L122647 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Yeah, coffin, headstone, the whole thing.
+L122646 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ There was a coffin?
+L122642 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ My epitaph.
+L122641 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ What's that, written on the sail?
+L122640 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Yeah, well...couldn't be helped.
+L122639 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ All that time I waited to go on a cruise, and you went without me.
+L122636 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ That's my sea anchor.  My second one. Made it out of part of the sail.  It keeps you from capsizing in a storm.  In theory.  And this, this I used to collect water. About half a cup a day.
+L122635 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ What's that?
+L122625 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ No, this is Jack.  Jango was hit by a UPS truck.  Can you believe it?
+L122624 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Is that Jango?
+L122623 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Her name's Hannah.
+L122621 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You have any children?
+L122620 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I didn't want to.  It just happened.  One day Gary was there.  He took care of everything.  He took care of me.  I was a mess.
+L122619 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I would have done the same thing.
+L122618 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ If I'd known you were alive --
+L122617 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I know.
+L122616 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I would never --
+L122615 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I thought you might have.
+L122614 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I got married.
+L122612 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ A few things came up.  Or went down.
+L122611 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Right back, you said you'd be right back.
+L122608 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Hey...hey...it's okay!
+L122607 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I'm sorry... I'm sorry...
+L122302 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Go on.  We'll be fine.  I'll feed Jango to the frogs.
+L122301 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ A week, max.  Okay?  Okay?
+L122300 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Chuck, you're breaking my heart.
+L122298 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Malaysia.  They're holding the sweep.
+L122297 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Get back?  From where?
+L122296 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Don't even start.
+L122295 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Look, we'll do our trip as soon as I get back.
+L122294 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ What, you were going to come over the next day all calm and say, Kelly that really made me mad?  Don't tell me you're mad.  Be mad.  Be who you are right now.
+L122293 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I guess I hadn't thought through how I felt.
+L122292 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Why didn't you come over, get mad at me, tell me what a stupid bitch I was.
+L122291 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I burned the Christmas tree.
+L122290 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ No, it was great.  Maybe a little overkill --
+L122289 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I'm sorry about the presents.  I got a little carried away.
+L122288 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Yes there is.
+L122287 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ There isn't any us.
+L122286 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ It's our dog.  It belongs to us.
+L122285 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ That's your dog.
+L122214 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I can't take him to work.
+L122213 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ No.
+L122212 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Could you watch Jango?
+L122211 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ "We're" not over-reacting.
+L122210 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ We're a little emotional here.  It's Christmas, maybe we're over-reacting.
+L122209 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ This isn't working out.
+L122207 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ You want to.
+L122206 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I have to.
+L122205 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ You can't go now.
+L122204 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Look, I love the puppy.  I love you.  But I have to go.
+L122203 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You did?
+L122202 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ A ring.  I wanted a ring.
+L122201 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I have to go.  I'm on call for overflow down at the Hub.
+L122197 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ For when I travel?
+L122196 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You know, for when you travel.
+L122194 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ And for you --
+L122193 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ A puppy's got a little more personality than a fish.
+L122192 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I can't even keep fish alive.
+L122191 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ He's your cute thing.
+L122190 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ He is a cute thing.
+L122189 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ I figure, if we could take care of a puppy, we could, you know, take care of --
+L122188 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Hey, look at you.
+L122185 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Let me guess, Russia came up?
+L122184 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Ah, the staff meeting could have gone better.
+L122183 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ You don't seem too happy about it.
+L122182 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Four four.  A record.
+L122180 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Not if you work for FedEx.
+L122179 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Merry Christmas eve.
+L122154 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Yeah, tell me.  Tell me all of it.
+L122153 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ What do you want me to say?  That I thought I'd done a great job but it all turned to shit?  That I might as well have gone sailing for all the good I did?
+L122152 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Chuck.
+L122150 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Chuck, forget the Xerox.  So Russia didn't turn out well?
+L122149 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Got to follow the paper path here.
+L122148 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I thought I did.
+L122147 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Don't overwhelm me with details, you know how I hate that.  Did you get it fixed?
+L122146 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Cold.
+L122145 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ How was Russia?
+L122144 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Let's take a look.
+L122143 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ My last chapter's in there, and the damn machine's jammed.
+L122142 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You smell like formaldehyde.
+L122141 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Your eyes are puffy.  Did you take Valium again?
+L122139 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Hey, be nice to it, it'll be nice to you.
+L122138 +++$+++ u682 +++$+++ m43 +++$+++ KELLY +++$+++ Sonofabitch!
+L122282 +++$+++ u683 +++$+++ m43 +++$+++ LESLIE +++$+++ There's a sweep leaving Memphis in an hour, goes through Sydney.
+L122281 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Anything else?
+L122280 +++$+++ u683 +++$+++ m43 +++$+++ LESLIE +++$+++ The regular flight is scheduled for oh three hundred tomorrow.
+L122279 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ When's the next Jumbo?
+L122263 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Terrific.  Yours?
+L122262 +++$+++ u683 +++$+++ m43 +++$+++ LESLIE +++$+++ And how was your Christmas?
+L122261 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I need the latest PDRs on St. Petersburg.
+L122580 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Well, when that IV runs out, you're through with us.  Just the dentist tomorrow.
+L122579 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Doc, I'm not on the island.  I'm not on the raft.  I'm alive.  I'm so glad to be back, I can't tell you.  I just want out of here.
+L122577 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Not to mention on me.
+L122576 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ You are aware of the potential disruptiveness on your loved ones when you return to your old life?
+L122575 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Yes, yes he did.
+L122574 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Doctor Hegel tells me he discussed the Vietnam POW syndrome with you.
+L122573 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I most definitely say I am.
+L122572 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ If you say you are.
+L122571 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ But all that's behind me.  I'm fine now.
+L122570 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Your body chemistry and your exposure to the elements would normally lead to irritability, depression, anxiety, periods of self-reproach.  It's almost like schizophrenia.  Different sides of your personality might come to life, speak out, act out.
+L122569 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I am one lucky guy.
+L122568 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ And fish are very low in fat, which is energy inefficient.  So you're going to burn up your own cells no matter how much you eat.  Luckily you ate the eyes and pancreas, which contain some Vitamin C, so you didn't get scurvy.
+L122567 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Which I didn't have.
+L122566 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Protein digestion is very costly in water usage.
+L122565 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ All I ate was fish.  That's solid protein.
+L122564 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Dehydration.  Vitamin deficiency. Protein deficiency.  Any or all of the above.
+L122563 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Sorry...sorry... Why do my joints still ache?
+L122560 +++$+++ u678 +++$+++ m43 +++$+++ DOCTOR +++$+++ Under the circumstances your overall health is good.  Those salt water boils you picked up on the raft are ulcerated, but they're healing nicely.
+L122559 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ My favorite doctor.  What's the verdict?
+L122801 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Yeah.
+L122800 +++$+++ u679 +++$+++ m43 +++$+++ DRIVER +++$+++ You're Chuck Noland.
+L122799 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Sure.
+L122798 +++$+++ u679 +++$+++ m43 +++$+++ DRIVER +++$+++ Hey, once a driver, always a driver.  You want a lift?  I've just got one more pickup.
+L122797 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I used to drive one of those.  A long time ago.
+L122796 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ No.
+L122795 +++$+++ u679 +++$+++ m43 +++$+++ DRIVER +++$+++ You're not out of Pascagoula, are you?
+L122793 +++$+++ u679 +++$+++ m43 +++$+++ DRIVER +++$+++ You bet I do.  High tide comes right up to this road.
+L122792 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Need some help?
+L122248 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Just don't count 'em before they hatch.
+L122247 +++$+++ u685 +++$+++ m43 +++$+++ ROGER +++$+++ Come on down to the plant.  It's state of the art.  We're doing for chickens what FedEx did for the delivery business.
+L122246 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Really?
+L122244 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ True enough.  No sacred chickens nowhere, so far as I know.
+L122243 +++$+++ u685 +++$+++ m43 +++$+++ ROGER +++$+++ Sixty three pounds consumed per capita, up from twenty seven in 1960.  Going to pass beef.  Chicken's global.  No religious taboos.  You don't see your Hindus and your Muslims boycotting poultry.
+L122242 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ But chickens?
+L122228 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ So did I.
+L122227 +++$+++ u685 +++$+++ m43 +++$+++ ROGER +++$+++ Thought you were going to bring her.
+L122224 +++$+++ u685 +++$+++ m43 +++$+++ ROGER +++$+++ Let's eat.
+L122223 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Bless us O Lord, and these thy gifts, which we are about to receive, from thou bounty, through Christ the Lord.  Amen.
+L122753 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ The tide saved me, Mom.  I lived by it. I'm just wondering where it will take me next.
+L122752 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ What a journey you've had.  It seems more than a person should have to bear.
+L122749 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ This is my home.  I'm part of the wallpaper.
+L122748 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I've got all this back pay coming.  Why don't you let me get you a place in town?
+L122745 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I wanted to come here.

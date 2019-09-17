@@ -1,0 +1,200 @@
+L534920 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ We are under attack! Stand by for evasive -- stand by for --
+L534919 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Captain, what's happening?!
+L534907 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ I know, but -- let's do it by the book. Stand by on this channel.  Go.
+L534906 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ I'm sure Starfleet would approve, sir.
+L534905 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Well, all the same, I'm going to advise Starfleet and get instructions.
+L534904 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ None that I can detect, sir.
+L534903 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Saavik... Does Dr. Marcus think there could be -- any chance of -- ah -- radioactive contamination?
+L534902 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Request permission to beam aboard immediately.
+L534901 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Ah, Saavik, that's, ah, extroadinary. What would you, ah, like to do next?
+L534896 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Yes, Saavik, go ahead...
+L534895 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Captain, this is Saavik. Come in, please...
+L534847 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Do you have an explanation?
+L534846 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ We concur, Saavik. And Saavik... be advised we are reading a severe and unnatural age curve on the planet. I'm getting nervous...
+L534845 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Captain, this is Saavik. We have strong life sign readings bearing zero-one-five relative, and we are proceeding to investigate.
+L534776 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ I'll try to remember that, Captain.
+L534775 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Very well. Exercise caution, Lieutenant. This landing is Captain's discretion and I'm the one who's out on a limb.
+L534774 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Affirmative, Captain. Our readings are well below danger level.
+L534773 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Grissom to landing party. We have you approaching radioactive indications. Do you concur?
+L534687 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ "... If the Captain decides that the mission is vital and reasonably free of danger." I know the book, Saavik.
+L534686 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Captain... the logical alternative is obvious... beaming down to the surface is permitted...
+L534678 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ You said there wouldn't be any.
+L534677 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ If equipment is functioning properly, indications are -- an animal life form.
+L535294 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Bones, help Spock! Everyone else, find a station!
+L535293 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Just him, sir!
+L535292 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ How many more?
+L535169 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ They've knocked out the damn automation center.  I've got no control over anything!
+L535168 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What's wrong?
+L535167 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Oh, God, sir, I dinna think so...
+L535166 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ I'm all right -- stand by to return fire! Mr. Scott, transfer power to the phaser banks --
+L535154 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Precautionary, Mr. Chekov. Shields up...
+L535153 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Aye, those two hits should stop a horse, let alone a bird.
+L535152 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Good shooting, Scotty.
+L535146 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Aye, sir!
+L535145 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott: two photon torpedoes at the ready. Sight on the center of the mass.
+L535143 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Aye, sir!
+L535142 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott, all power to the weapons systems --
+L535074 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Scan for vessels in pursuit!
+L535073 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Aye, sir, she's got her second wind now.
+L535032 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ The <u>doors</u>, Mr. Scott!
+L535031 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Sir...?
+L535030 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Steady... Steady... All right, Mr. Scott.
+L535013 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Gentlemen... may the wind be at our backs. Stations please!
+L535012 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ I'd be grateful, Admiral, if you'd give the word.
+L535011 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott?
+L535008 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Thank you, Mr. Scott. I'll try not to take that personally.  My friends... I can't ask you to go any further. Dr. McCoy and I have to do this. The rest of you do not.
+L535007 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ As promised, she's all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her.
+L534708 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Come, come, Scotty. Young minds. Fresh ideas.  Be tolerant.
+L534707 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ I'm sorry, sir, but as far as I'm concerned, there's nothin' needed for space travel that this old girl doesn't already have.
+L534706 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott...
+L534631 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Your reputation is secure, Scotty.  Mr. Sulu, take the con. I'll be in my quarters.
+L534630 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Certainly, sir. How else can I keep my reputation as a miracle worker?
+L534629 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott. Have you always multiplied your repair estimates by a factor of four?
+L534628 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ Eight weeks, sir.  But you don't have eight weeks so I'll do it for ya in two.
+L534627 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Your timing is excellent, Mr. Scott. You've fixed the barn door after the horse has come home. How much refit time till we can take her out again?
+L534626 +++$+++ u2925 +++$+++ m192 +++$+++ SCOTTY +++$+++ I'm almost done, sir. You'll be fully automated by the time we dock.
+L535332 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Much is at stake...
+L535331 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ My God...
+L535321 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ . He will remain always as he is.
+L535320 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ And if they don't.? What will Happen to Spock?
+L535319 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Or less. What you describe is called Fal Tor Pan - the refusion. It is very dangerous. The elders may not choose to attempt it.
+L535318 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ But we have Spock alive! That's more than we bargained for!
+L535317 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ The Katra ritual is meant to deposit Spock's consciousness in the Hall of Ancient Thought - not in his body.
+L535316 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What? What are you saying?
+L535315 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Yes, Admiral. But that may not be possible.
+L535307 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Goodbye, David.
+L535306 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ The Genesis planet is gone.
+L535268 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Only one thing, Sir... Get him off this planet... His aging is part of what's going on around us...
+L535267 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Is there <U>anything</U> we can do?!
+L535264 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ He gave his life to save us. That is all I know.
+L535263 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What happened...?
+L535192 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ He is not himself -- but he lives. He is subject to rapid aging -- like this unstable planet.
+L535191 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ This Vulcan -- is he alive?
+L535190 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Yes, he is. And someone else. Vulcan scientist of your acquaintance.
+L535189 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Saavik... Is... David with you?
+L535188 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Admiral, this is Lieutenant Saavik.
+L535362 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You saved the ship, Spock. You saved us all. Don't you remember?!
+L535361 +++$+++ u2926 +++$+++ m192 +++$+++ SPOCK +++$+++ The ship... Out of danger...?
+L535360 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Yes, yes, Spock...
+L535358 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Because... the needs of the one outweighed the needs of the many.
+L535357 +++$+++ u2926 +++$+++ m192 +++$+++ SPOCK +++$+++ Why would you do this...?
+L535356 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You would have done the same for me.
+L535355 +++$+++ u2926 +++$+++ m192 +++$+++ SPOCK +++$+++ My father says you have been my friend... You came back for me.
+L535354 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Yes. And I know you.
+L535353 +++$+++ u2926 +++$+++ m192 +++$+++ SPOCK +++$+++ I know you... Do I not?
+L535329 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ It's been a while, sir. Here we go... Retrothrusters!
+L535328 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Sulu, you're on manual.
+L535323 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Saavik. Send to Ambassador Sarek. Tell him we're coming in.
+L535322 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ The planet Vulcan. In hailing distance, sir.
+L535309 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Best speed to Vulcan. Mr. Chekov, take the prisoners below.
+L535308 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ We are clear and free to navigate.
+L535305 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Go, Sulu!
+L535304 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ If I read this right, sir, we have full power.
+L535246 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Come on!
+L535245 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Close... There --
+L535244 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What about surface life signs...?
+L535243 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Sir, planet core readings unstable... Changing rapidly...
+L535214 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ With some on the planet...
+L535213 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ About a dozen officers and men.
+L535212 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Sulu, what is the crew complement of a Bird of Prey?
+L535151 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Fire, Mr. Scott!
+L535150 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Klingon Bird of Prey, sir! She's arming torpedoes...!
+L535139 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Red alert, Mr. Scott.
+L535138 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ ... A cloaking device?
+L535137 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Yes. Enough energy to hide a ship, wouldn't you say?
+L535136 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ I think it's an energy form, sir...
+L535135 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ That distortion is closing rapidly... Opinion, Sulu?
+L535131 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Yes, sir. It's getting larger as we close in.
+L535130 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ See! That shimmering area.
+L535091 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What about Grissom, Mr. Chekov?
+L535090 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ We are secured from Warp Speed... Now entering Genesis Sector of Mutara Quadrant.
+L535072 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Can we hold speed, Mr. Scott?
+L535071 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Estimating Genesis 2.9 hours, present speed.
+L535050 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott: as good as your word.
+L535049 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Excelsior, the great experiment, is adrift in space.
+L535045 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Aye, sir, Warp Speed...
+L535044 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Warp Speed, Mr. Sulu...
+L535035 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ FULL IMPULSE POWER!
+L535034 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ ... We have cleared Spacedoors.
+L534873 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ I'll need it, Sulu.
+L534872 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ Count on our help, sir.
+L534871 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ The word is no.  I am therefore going anyway.
+L534870 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ The word, sir?
+L534786 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ She's to be decommissioned.
+L534785 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ ... Admiral, what's going to happen to Enterprise?
+L534621 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Very well.  Mr. Chekov, I need pre-approach scan... Take the science station, please.
+L534620 +++$+++ u2928 +++$+++ m192 +++$+++ SULU +++$+++ On course, Admiral. Estimating Spacedock in two point one hours.
+L535006 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ Oh, I'll have "Mr. Adventure" eating out of my hand. And I'll see you at the rendezvous.  All my hopes.
+L535005 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Will you be able to handle that...?
+L534995 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ Yes, Admiral. Step into my parlor.
+L534994 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Good evening, Commander. Everything ready?
+L534993 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ Gentlemen. Good evening.
+L534790 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ That's the good news. He's home in bed, full of tranquilizers, and he promised me he'd <U>stay</U> there... They say it's exhaustion...  We'll see.
+L534789 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ How is Doctor McCoy, sir?
+L534703 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ My friends, the great experiment: Excelsior, ready for trial runs...
+L534702 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ Would you look at that?
+L534694 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ Approach control... this is Enterprise. Ready for docking maneuver.
+L534693 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Standby automatic approach system ... Advise approach control.
+L534625 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Hmm.. Very odd.  Scotty. Progress report?
+L534624 +++$+++ u2930 +++$+++ m192 +++$+++ UHURA +++$+++ No, sir, no response.
+L534623 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Uhura, any response from Starfleet on our Project Genesis inquiries?
+L534869 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Any time.
+L534868 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You're right.  Thanks for the drink.
+L534867 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Of course... Now take my suggestion, enjoy your leave -- and let all this tension blow away.
+L534866 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Yes... I hear you.  I just had to try.
+L534864 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Then let me speak to the Council! Harry, <U>please</U>! I can <U>make</U> them understand!!
+L534863 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Out of the question! The Council has ordered that no one but the science team goes to Genesis!
+L534862 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Then I'll find a ship -- I'll hire a ship.
+L534861 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ No, Jim! Enterprise would never stand the pounding.
+L534860 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ As surely as if it were my own!  Harry, give me back the Enterprise! With Scotty's help...
+L534859 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Yours...?!
+L534858 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Harry, you don't have to believe! I'm not even sure I believe. But if there's even a chance that Spock has an eternal soul -- then that is my responsibility.
+L534857 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Now wait a minute! This business about Spock  and McCoy... Honestly, I have never understood Vulcan mysticism -- I'm sorry! But part of me doesn't want you to make a fool of yourself... Understand?
+L534856 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Don't quote rules, Harry! We're talking about loyalty. And sacrifice. One man who died for us, another who has deep emotional damage --
+L534855 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Jim... You are my best officer and if I had a best friend, you'd be that too. But I am Commander, Starfleet, so I don't break rules!
+L534747 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Jim, in your absence, Genesis has become a galactic controversy... Until the Federation Council makes policy, you are all under orders not to discuss with anyone your knowledge of Genesis... Consider it a quarantined planet. And a forbidden subject.
+L534746 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ May I ask why...?
+L534745 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ That's out of the question. No one is going to Genesis!
+L534744 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Why -- a natural desire to help finish the work we began!
+L534743 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Genesis?! Whatever for?
+L534742 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ But, we had requested -- we were hoping to take her back to Genesis...
+L534741 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Jim, the Enterprise is twenty years old. We think her day is over...
+L534740 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Admiral, I don't understand. The Enterprise --
+L534734 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Ah, too bad... Well... You have all done remarkable service under the most -- difficult of conditions. You'll be receiving Starfleet's highest commendations, and more importantly, extended shore leaves.
+L534733 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Indisposed, sir.
+L534732 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Where's Doctor McCoy?
+L534728 +++$+++ u2922 +++$+++ m192 +++$+++ MORROW +++$+++ Welcome home, Jim.
+L534727 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Welcome aboard, Admiral.
+L535289 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Don't be a fool -- give me your hand!
+L535288 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ 
+L535287 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Give me your hand and we both live.
+L535285 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Perfect! That's the way it shall be!... <U>Give me Genesis</U>!
+L535284 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ If we don't help each other, we'll all die here!
+L535283 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Yes. Exhilarating, isn't it!
+L535282 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You fool -- look around you! This planet is destroying itself!
+L535281 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Give me what I want -- and I'll consider it...
+L535280 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Beam the Vulcan up -- And we talk.
+L535279 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Genesis, I want it.
+L535278 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Because you wish it.  
+L535277 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ But, why?
+L535276 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ No.
+L535275 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You should take the Vulcan, too.
+L535274 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Maltz. Prisoners are at beam coordinates. Standby...
+L535219 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ No tricks. I'm looking forward to meeting you. Kirk out.
+L535218 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ No tricks, Kirk. You have one minute.
+L535217 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Commander, Klingon vessel. Stand by to board this ship on my next signal.
+L535208 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ All right, damn you! All right!  Give me a minute to inform my crew.
+L535207 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ There are two more prisoners, Admiral. Do you want them killed too?  Surrender your vessel!
+L535203 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ 
+L535202 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Wait! Give me a chance --
+L535201 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Admiral, your young friend is mistaken. I meant what I said. And now, to show my intentions are sincere... I am going to kill one of the prisoners.
+L535200 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ David?... David!
+L535187 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Who I am is not important. That I have them is.  I will let you speak to them.
+L535186 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Who is this?! How dare you --
+L535185 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Do not lecture me about treaty violations. The Federation, in creating an ultimate weapon, has become a gang of Intergalactic criminals. It is not I who will surrender, it is you.  On the planet below, I have three prisoners from the team who developed your doomsday weapon. If you do not surrender immediately, I will execute them, one at a time, as enemies of galactic peace.
+L535164 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Torpedoes coming in -- !
+L535163 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ 
+L535117 +++$+++ u2919 +++$+++ m192 +++$+++ KRUGE +++$+++ Report status!
+L535116 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ I say again: Grissom, this is Enterprise. Admiral Kirk calling Captain Esteban or Lieutenant Saavik. Come in!
+L535352 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ If I hadn't tried, the cost would have been my soul.
+L535351 +++$+++ u2924 +++$+++ m192 +++$+++ SAREK +++$+++ But at what cost? Your ship... Your son.

@@ -1,0 +1,200 @@
+L81528 +++$+++ u4010 +++$+++ m266 +++$+++ NOVOGROD +++$+++ The rank-and-file in the FBI feel he is FBI, but others feel he is a CIA man who knows how to destroy FBI files.
+L81116 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Mr. Gardiner...
+L81115 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ You take care too, Bobby.
+L81114 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Take care of yourself, Ben.
+L81113 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ You're right, Mr. President I don't like feeling sorry for myself.
+L81112 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Now, Ben, I won't have any of that. Why don't you listen to your good friend Chauncey this is a time to think of life!
+L81111 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Nonsense, Mr. President - I thank you for coming to spend time with a dying man.
+L81110 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I'm sorry, too. Well, Nancy wanted me to send along her best to the two of you - and, Ben, I want to thank you for your time and thoughts.
+L81109 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ No, she flew up to Boston for another charity event. She'll be sorry to have missed you.
+L81095 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I'm afraid so.
+L81094 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ It's that serious, huh?
+L81093 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... There is no longer any margin for inflation, it has gone as far as it can, you've reached your limits on taxation, dependence on foreign energy has reached a crisis, and, from where I see it, Mr. President, the Free Enterprise System has reached the breaking point. We are on the brink of another crash from which recovery might not be possible.
+L81088 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ That's too big a risk, I can't take the chance.
+L81087 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I sympathize with your position, Mr. President, I know how difficult it is to be straightforward, the reaction to such a speech could be chaos.
+L81086 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Well, Ben... I...
+L81085 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Overall - pretty good. But, Mr. President, I think it's very dangerous to resort to temporary measures at this stage of the game.
+L81084 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... Well?
+L81083 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Yes, I did.
+L81082 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I just wondered if you had gone over my speech, Ben.
+L81074 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Mr. Gardiner, my pleasure.
+L81073 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Mr. President, I'd like you to meet my dear friend, Mr. Chauncey Gardiner.
+L81070 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Well, I'm delighted to be here, my friend. I've missed you.  Here, sit down, get off your feet.
+L81069 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I'm not convinced of that, Mr. President, but your visit has raised my spirits...
+L81068 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ It's so good to see you too, Ben, you look terrific!
+L81067 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... Mr. President, how good to see you.
+L81066 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Ben!
+L83038 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ ... and I want to show off his skills by performing a one-puppet extravaganza in Reno.
+L83037 +++$+++ u4018 +++$+++ m267 +++$+++ AGENT +++$+++ Oh yeah, he's good.
+L83036 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ I'm being controlled by the world's greatest puppeteer, Craig Schwartz...
+L83035 +++$+++ u4018 +++$+++ m267 +++$+++ AGENT +++$+++ Okay.
+L83034 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ I'll get right to the point, Larry. I'm a puppet now...
+L83029 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ This is my fiancee Maxine.
+L83028 +++$+++ u4018 +++$+++ m267 +++$+++ AGENT +++$+++ John! Great to see you! Sorry about the cunt at reception.
+L82628 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ Yeah, okay.
+L82627 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ I'm pretty sure it was you. Hey, could I get your autograph now? It's for .... oh, what the hell, it's for me! I'm your biggest fan!
+L82626 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ I don't know.
+L82625 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ Who am I thinking of?
+L82624 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ I never played a jewel thief.
+L82623 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ The one where you're that jewel thief.
+L82622 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ Thank you.
+L82619 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ Malkovich!
+L82618 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ Malkovich.
+L82615 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ John Makel...
+L82614 +++$+++ u4030 +++$+++ m267 +++$+++ MALKOVICH +++$+++ Yeah.
+L82613 +++$+++ u4019 +++$+++ m267 +++$+++ CABBIE +++$+++ Say, aren't you that actor guy?
+L82769 +++$+++ u4023 +++$+++ m267 +++$+++ ERROLL +++$+++ Oh, I will, and I have many, many friends and associates, my friend. All, by the way, in Overeaters Anonymous. All of them fat and alone like me, all of them dream of being someone else, all of them with John Malkovich as their second choice!
+L82768 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Tell your friends.
+L82767 +++$+++ u4023 +++$+++ m267 +++$+++ ERROLL +++$+++ Oh, thank you! Thank you! Thousand times, thank you!
+L82758 +++$+++ u4023 +++$+++ m267 +++$+++ ERROLL +++$+++ Oh, this is just the medical breakthrough I've been waiting for. Are their any side effects? Please say no! Please say no!
+L82757 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Exactly that. We can put you inside someone else's body for fifteen minutes.
+L82756 +++$+++ u4023 +++$+++ m267 +++$+++ ERROLL +++$+++ When you say, I can be somebody else, what do you mean exactly?
+L82755 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Please, have a seat.
+L82754 +++$+++ u4023 +++$+++ m267 +++$+++ ERROLL +++$+++ Hello, I'm here about the ad.
+L83240 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Sure. We could really use a farmer. We'd be grateful for the help.  Also, I think, you know, if you wouldn't mind too terribly, a little puppet show every once in a while, would do a lot to lift our spirits. You know, if you wouldn't mind too terribly.
+L83239 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'd like to be a farmer. I want to help things grow, to encourage life. Do you and your friends need a farmer?
+L83238 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I know.
+L83237 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm through with puppets, Lotte. I just want you to know that.
+L83236 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ People make mistakes.
+L83235 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You'll have me, after all I've done to you?
+L83234 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I don't know. There's a small community of us. We have a place they don't know about. We're happy. We'll keep trying to figure out a way. Come stay with us. Join the struggle.
+L83233 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I suppose. But they got here first, the lousy bastards. So now it's all over, I guess.
+L83232 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You saw it once. Now you see it again. That's life, isn't it? And you were up here to try the same thing, weren't you?
+L83231 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ And yourself too in the process. God, you're so beautiful. Why couldn't I see that before?
+L83230 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Yeah. I was going to kill him from the inside.
+L83229 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You came up here looking for the portal?
+L83228 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ It's okay, Craig. It all worked out, in an odd sort of way.
+L83227 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm sorry for everything.
+L83226 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ A better friend.
+L83225 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Oh, right. As long as you're happy. I'm sure he's a better lover than I ever was.
+L83224 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ The monkey.
+L83223 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ The iguana?
+L83222 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ It's Elijah.
+L83221 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ He's a lucky man.  Do I know him?
+L83220 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm in love. For the first time. It's funny, but when it happens to you, there's no question.
+L83219 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm so glad you're safe. You look really wonderful.
+L83218 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ My God!
+L82953 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I love you so much.
+L82952 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You're not a monster, Craig. Just a confused man.
+L82951 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm sorry. Oh God, I'm sorry. I'm some kind of monster. I'm the guy you read about in the paper and go, "he's some kind of monster."
+L82950 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I need a shower.
+L82949 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Perhaps you're right. I can't let you go though. Too much has happened. You're my ace in the hole.
+L82948 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Maybe this is what you've always been, Craig, you just never faced it before.
+L82947 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ That's true. Oh, God, Lotte, what have I become? My wife in a cage with a monkey. A gun in my hand. Betrayal in my heart.
+L82946 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You didn't do anything about it out of respect for the fact that she wouldn't let you near her with a ten foot pole, which is, by the way, about nine feet, nine inches off the mark anyway.
+L82945 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah but I didn't do anything about it. Out of respect for our marriage.
+L82944 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You fell in love with her first.
+L82943 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Things change. Anyway, you gave up your claim to that love the first time you stuck your dick in Maxine.
+L82942 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Once this was a relationship based on love. Now you have me in a cage with a monkey and a gun to my head.
+L82875 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm a puppeteer.
+L82874 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ What's that?
+L82873 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Ah, but you're forgetting one thing, Lambchop.
+L82872 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ It'll never happen, fuckface.
+L82871 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ It was lovely being you being Malkovich, my dear. I'd never seen the passionate side of sweet Maxine before, or her actual tits for that matter. If only, I've been thinking to myself, if only I could actually feel what Malkovich feels, rather than just see what he sees... And then, dare I say it, if only I could control his arms, his legs, his pelvis, and make them do my bidding.
+L82859 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ What the hell, darling. Close early today, live dangerously.
+L82858 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Tell her, what the hell, close early today, live dangerously.
+L82854 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You bastard.
+L82853 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Tell her you need to see her.
+L82852 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Shut up!
+L82851 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Suck my dick!
+L82850 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah, well welcome to the nineties.
+L82849 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm your Goddamn wife. Once you vowed to cherish me forever. Now you hold a gun to my head?
+L82831 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I feel that somehow my parents never prepared me to make this particular decision. Not that I blame them. How could they know? Today's world is so complicated.  No. I have to go away now. I'm sorry, Lotte. I'm so sorry.
+L82830 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Sometimes we're forced to make hard decisions.  I'd like for us to stay together, Craig. You know, platonically, if that's possible. I truly value our friendship.
+L82829 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Life is confusing, isn't it?
+L82828 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm sorry. That was nasty.
+L82827 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Well, you have the Maxine action figure to play with.
+L82826 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Don't forget me.
+L82825 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Me and John.
+L82824 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ We?
+L82823 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ We love her, Craig. I'm sorry.
+L82822 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ And he was with her.
+L82821 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Yes.
+L82820 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You were him last night, weren't you?
+L82802 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ We wish.
+L82801 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Fuck Maxine.
+L82800 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ What about Maxine?
+L82798 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Us, of course.
+L82797 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ What's that?
+L82796 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm giving them up. I've changed. I've found a new focus.
+L82795 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You've always loved the animals.
+L82794 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You've always hated the animals.
+L82793 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ No they're not.
+L82792 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm getting rid of the animals. I've lost interest. Besides, they're standing between you and me.
+L82791 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ What?
+L82790 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm getting rid of the fucking animals.
+L82789 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You should feed your animals. They're looking peaked.
+L82788 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Nothing. Don't go, Craig. I've been thinking. Let's try to work this out. We've got so much history.
+L82787 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm moving. Remember? What's with the hooded cloak?
+L82786 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ What are you doing?
+L82744 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ After dinner I'll show you my puppets.
+L82743 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Did you know that Eskimos have not one, but fifty words for snow. It's because they have so much of it.
+L82742 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ It'll be okay. I'll fix my lasagna. We’ll smoke a joint.  Tensions will melt away.
+L82741 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I don't know. There's some tension between us. I'd hate to expose you to that.
+L82740 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ You're right. You know I was thinking that we should have Maxine over for dinner. Since you two are partners and all. It might be a nice gesture.
+L82739 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You see, men can feel unfulfilled, too. I'm glad you're realizing that. You shouldn't be so quick to assume that switching bodies would be the answer to all your problems.
+L82738 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Oh, you know, not a lot. Just hanging around his apartment. I think he must be a lonely man.
+L82737 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ So how was it? What was he doing?
+L82723 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Don't crowd me, Craig.
+L82722 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Why?
+L82721 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I have to go back tonight. At eight Exactly.
+L82720 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ How was it?
+L82701 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ This is absurd. Besides Feldman's an allergist. If you're going to do something, do it right.
+L82700 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Everything felt right for the first time. I need to go back to make sure, then if the feeling is still there. I'm going to speak to Dr. Feldman about sexual reassignment surgery.
+L82699 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ What, are you nuts? That's Oprah talking.
+L82698 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I've been going over and over my experience last night. It was amazing.  I've decided I'm a transsexual. Isn't that the craziest thing?
+L82697 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Why aren't you at work?
+L82691 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Fuck pets. Is this your partner? I had to come back and do the Malkovich ride again. Fuck everything else. Is this her?
+L82690 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Lotte! Why aren't you at the pet shop?
+L82673 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Tomorrow. We're late for Lester.
+L82672 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I was, wasn't I?  I was John fucking Malkovich!  Take me back, Craig.
+L82671 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ You weren't you. You were John Malkovich.
+L82670 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I have to go back, Craig. Being inside did something to me. All of a sudden everything made sense. I knew who I was.
+L82669 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ We'll talk about it in the car.
+L82668 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I have to go back now.
+L82667 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Okay. Maybe tomorrow.
+L82666 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I have to go back.
+L82662 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I'm scared.
+L82661 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'll meet you on the turnpike.
+L82660 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah. We'll do it right now. On the way to Lester's house.
+L82659 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Now?
+L82658 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Well, you know we're going to be very busy tomorrow. I'll tell you what. Let's do it tonight. Right now.
+L82657 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I want to be John Malkovich. Tomorrow morning. Plus I'd like to meet this partner of yours.
+L82656 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ What?
+L82655 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I want to try.
+L82654 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Brain. soul, I'm telling you, Lotte. I was right inside him looking out. We're going to be rich.
+L82653 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Don't be ridiculous. There is no such thing as a portal into someone else's brain.
+L82584 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ 'kay.
+L82583 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ All right. I'll be in my workshop for a little while. I'll be in in a little while. I need to unwind a little.  I'll be in soon. A little while.
+L82582 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ No thanks. I'm going to turn in.
+L82581 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah. You want a beer?
+L82580 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I dressed the wound. Then I've just been feeding everyone, putting everyone to bed.
+L82579 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Right.
+L82578 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ The iguana.
+L82577 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ The ferret?
+L82576 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Tom-Tom's puncture wound is infected.
+L82575 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm sorry. How was your evening?
+L82574 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ I was worried.
+L82573 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Nah. I'm not hungry. I'm sorry I didn't call. It was just, you know, hard to get away.
+L82572 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Did you eat?
+L82571 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Sorry, I'm so late. Lester just wouldn't let me go. We’re supposed to have dinner with him on Friday. I can get us out of it if you want. He's really amazing, this insane old lech. It's actually sort of amusing when you get past just how disgusting it is.
+L82570 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Hi.
+L82569 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Hi.
+L82507 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Just an idea I had.
+L82506 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ She's very beautiful.
+L82505 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah, just an idea I had.
+L82479 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Hmmm.
+L82478 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Some sort of childhood trauma, she thinks. Possible feelings of inadequacy as a chimp. Interesting, huh?
+L82477 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Hmmm.
+L82476 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ They'll understand. Besides I've got a morning appointment tomorrow with Elijah's shrink. We're getting to the bottom of this acid stomach.
+L82475 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ We have to make it an early night.
+L82474 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Seven-ish
+L82473 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Adorable. What time are they supposed to be here?
+L82472 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Isn't that cute? I just taught her that.
+L82392 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I... puppeteer.
+L82391 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Why, Craig. why?
+L82390 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ I'm a puppeteer.
+L82389 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Why'd you do it, Craig?
+L82388 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ May 11th.
+L82387 +++$+++ u4029 +++$+++ m267 +++$+++ LOTTE +++$+++ Is the trial date set?
+L82383 +++$+++ u4020 +++$+++ m267 +++$+++ CRAIG +++$+++ Yeah. Okay.

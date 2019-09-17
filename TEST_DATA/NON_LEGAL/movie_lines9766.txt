@@ -1,0 +1,200 @@
+L175765 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ You look beat.
+L175764 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Oh, hi.
+L175763 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ Oh, it's you again.
+L175749 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ This is my thirteenth pair.
+L175748 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ How long's he been here?
+L175747 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ Booties for my father.  He gets cold in this hospital.
+L175746 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ What are you making?
+L175745 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ Oh.  My condolences.
+L175744 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ The marriage already ended.
+L175743 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ Oh.  Congratulations.
+L175742 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ I got married last night.
+L175741 +++$+++ u4945 +++$+++ m329 +++$+++ KATHY +++$+++ Hello.  You're sleeping in a tuxedo.
+L175740 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Hello.
+L175948 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ LOOK AT HIS SKULL!
+L175947 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ What's uncanny?
+L175946 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ <u>It's uncanny</u>.
+L175939 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Exactly.  Hey, how 'bout this -- what if I don't have any lines?  I'll do the part mute!
+L175938 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ You don't wanna be noticed?
+L175937 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Look... would it be possible to make the "Ghoul's Wife" a little less prominent, so people won't really notice me in the movie?
+L175934 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ The <u>Ghoul's Wife</u>?!  God, I can't believe I'm doing this...
+L175933 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ I know what <u>that's</u> like.  Anyway, I brought a copy of the script.  You would play the "Ghoul's Wife."
+L175932 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ It's terrible.  People won't even return my calls.  It's like I don't exist.
+L175931 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ I'm really sorry...
+L175826 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ It's the same film.  But the distributor wanted a punchier title. C'mon!  It's gonna be a big event -- we're going all out!  Bela, Tor, and Cris are coming.  You'll have fun!
+L175825 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Didn't you just make one called "Bride Of The Atom"?
+L175824 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ No, don't worry, I moved on.  I was just calling to see if you want to attend the world premiere of my new film, "Bride Of The Monster."
+L175465 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Look buddy, I'm a big star.  I've got real offers from real studios.  I don't need to blow some dentist for a part.  So forget it!
+L175464 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Please!  It'll only take a minute. You can have some hors d'oeuvres, and meet my backers!  There's a really nice dentist from Oxnard...
+L175463 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Uh, look, I'm with some friends, and we're about to eat --
+L175462 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ No!  I don't want you to show the movie, I want you to be <u>in it</u>!  See, maybe I should explain: We started shooting, but then after three days we got shut down.  So we're having a backers party, to raise some more money.  Perhaps you'd like to come next door and meet some of the backers...?
+L175461 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ You want me to show it on my TV program?  Well I got nothing to do with that.  You should call up the station manager at Channel Seven --
+L175460 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ No.  I think my film is perfect for you.
+L175459 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ I don't understand.  Do you want my autograph?
+L175458 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ You don't know me, but my name is Ed Wood.  I'm a film producer.  I'm currently in production on a science-fiction piece, with Bela Lugosi and Swedish wrestler Tor Johnson.  And I saw you here, and I thought: Kismet!
+L175457 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Yes?
+L175456 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Excuse me, Miss Vampira?
+L175916 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ That was Karloff.  Paul, you gotta try harder.  I don't want this film to be haif-assed. This time, we go for the quality.
+L175915 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Well I was thinkin' like, when Bela played "Fu Manchu."
+L175914 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Too tall... too short...  And this guy doesn't work at all.
+L175913 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Great!  Bring 'em in!  Bunny, I gotta run.
+L175912 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Ed, I got the Lugosi lookalikes outside.
+L175704 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ So how long have you known Eddie?
+L175703 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Norma, this is Bela -- Bela, this is Norma.  Norma, this is Tor -- Tor, this is Norma.  Norma, this is Paul Paul, this is Norma.
+L175581 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Hey, don't blame me!  You didn't say anything about no motor when I was up on that ceiling!
+L175580 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ You know, to make the legs move --
+L175579 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ What octopus motor?
+L175578 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Hey.  This is looking good!  Paul, where's the octopus motor?
+L175565 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ YES!  JUST DO IT!
+L175564 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ You're <u>sure</u>???
+L175563 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Yes!
+L175562 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ You're sure this is gonna work?
+L175553 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Uh, I couldn't reach the guy... he was in meetings all day.  But this'll be great, I promise!
+L175552 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Ed, you said you were getting permission.
+L175417 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Nah, it'll work.  Where's Bela?
+L175416 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ We couldn't afford any more props. If it seems weird, maybe you can add a scene where they eat dinner.
+L175415 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Wow, this lab looks great.  Except why is there a stove and refrigerator?
+L175365 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Well my cousin Fred met this dame from back East.  She's from "old money," and he thinks she's loaded. And here's the kicker: She's <u>very</u> <u>interested</u> in the picture business!
+L175364 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Yeah...?
+L175363 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Uh, yoo-hoo.  Excuse me!  Sorry to interrupt, but I got some big news.
+L175163 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Here's to Ed.  For making us into something.
+L175162 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Just like I always promised.  Now you're among the immortals.  You're movie stars.
+L175104 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Well it looks good.  Let's use it!
+L175103 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ I don't know.
+L175102 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ The set doesn't look right!  It looks too... empty.  Clutter it up.  Put a skeleton in the corner.  And what's that thing over there?
+L174894 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ So don't take it too seriously. We're all doin' great work.
+L174893 +++$+++ u4950 +++$+++ m329 +++$+++ PAUL MARCO +++$+++ Lines around the block.
+L174892 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Hell, I've seen a lot worse reviews. I've seen ones where they didn't even like the costumes!  Like, that last "Francis the Mule" picture -- it got <u>terrible</u> notices.  But it was a huge hit.
+L176038 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ And you're gonna make a bundle.  This movie's gonna be famous!  But only if you SHUT UP, and let me do it my way!
+L176037 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ B-but it's our money --
+L176011 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ I'm directing.
+L176010 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ Mr. Wood?  <u>What do you think you're</u> <u>doing</u>?!
+L176006 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ NOOOOO!!!
+L176005 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ I thought this was a group effort.
+L176004 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Are you IN5ANE?  <u>I'm</u> the director! <u>I</u> make the casting decisions around here!
+L176003 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ This is our choir director.  He's gonna play the young hero.
+L175992 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ No, he would've loved it!  Bela's returned from the grave -- like Dracula.  CUE VAMPIRA!
+L175991 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ Doesn't this strike you as a bit morbid?
+L175990 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Isn't it wonderful?  Bela lives!
+L175977 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ Mr. Wood!
+L175976 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ What are you talking about?!  It's the premise of the movie.  It's even the title, for Christ's sake!
+L175960 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ I do.
+L175959 +++$+++ u4951 +++$+++ m329 +++$+++ REVEREND LEMON +++$+++ ...Do you accept the Lord Jesus Christ as your savior?
+L175716 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ No you're not!  This marriage was never consummated.  I'm getting an annulment!
+L175715 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Please, be compassionate.  I'm your husband!
+L175713 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Honey, I have a little secret to share with you.
+L175712 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ What the heck is THIS?!!
+L175710 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Don't worry, I'll teach you.
+L175709 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ Eddie, I'm just a small-town girl. I've never done this before.
+L175682 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ You shouldn't be embarrassed by the truth.  Mind if I order some hotcakes...?
+L175681 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ My goodness, you're embarrassing me.
+L175680 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ You know, you're a very attractive girl.
+L175679 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ Wow.
+L175678 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Two people do.  Orson Welles and me.
+L175677 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ Ah, c'mon!  Nobody does all that.
+L175676 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ No, I work in pictures.  I'm a director-actor-writer-producer.
+L175675 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ What are you, an angora wholesaler?
+L175674 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ It's made from specially-bred rabbits that live in the Himalayas.
+L175673 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ I suppose.  It's very expensive.
+L175672 +++$+++ u4941 +++$+++ m329 +++$+++ ED +++$+++ Don't you think angora has a tactile sensuality lacking in all other clothing?
+L175671 +++$+++ u4948 +++$+++ m329 +++$+++ NORMA +++$+++ Why... yes.
+L175669 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Look, you seem like a nice guy, Ed, but you're just not my type.  But keep in touch.  Let me know when your movie opens.
+L175668 +++$+++ u4942 +++$+++ m329 +++$+++ ED'S VOICE +++$+++ No, no!  I like girls.  So how 'bout Friday?
+L175667 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Isn't that the same thing?
+L175666 +++$+++ u4942 +++$+++ m329 +++$+++ ED'S VOICE +++$+++ ME?!  No, uh, I'm just a transvestite.
+L175665 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ You mean like a date?  I thought you were a fag.
+L175664 +++$+++ u4942 +++$+++ m329 +++$+++ ED'S VOICE +++$+++ Well, I was wondering if maybe sometime you'd like to go out, and maybe grab some dinner.
+L175663 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Oh.  Yeah.  You.
+L175662 +++$+++ u4942 +++$+++ m329 +++$+++ ED'S VOICE +++$+++ Ed Wood!  You came to my party.  I directed "Bride Of The Atom"!
+L175661 +++$+++ u4955 +++$+++ m329 +++$+++ VAMPIRA +++$+++ Who?
+L175660 +++$+++ u4942 +++$+++ m329 +++$+++ ED'S VOICE +++$+++ Vampira!  Hi, this is Ed Wood.
+L177237 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Hank was always good with the ladies. Always good-looking. Hell, he's been dead for two days, he still looks better than me.
+L177236 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Oh, Al ... This is just...
+L177235 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ I'm going to be living with my brother. He's not in such good shape as I am, but... I'm looking forward to the pillow fights.
+L177234 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ What?!
+L177233 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ I'm moving out.
+L177232 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Are things gonna be okay with you and Mom? Is there anything I can --
+L177185 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Went --
+L177184 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ It's your father. Hank. Your mother went to see him and he had a heart attack.
+L177183 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yes!
+L177182 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ You thought it was me?
+L177176 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Where is she? Is she all right?
+L177175 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Al!!
+L177174 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Our neighbors gave me a ride.
+L177173 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Al!
+L177172 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ How's your mother?
+L176889 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Well, now I will. He was a crazy mean, son-of-a-bitch.
+L176888 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ No.
+L176887 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Have I ever said a bad word to you about your father?
+L176881 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ I'm not -- I didn't -- Al, you know how I feel about you...
+L176880 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Jeanette, you're hurting me.
+L176864 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ No. Only celebrities now. Now, if you put a mailman on the cover of a magazine he'd better have killed someone or no one will buy it. This one to Dr. Rumpley.
+L176863 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Well, I don't think you can get more common than me, Al.
+L176862 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ They celebrated the common person.
+L176861 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah, so... ?
+L176860 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Norman Rockwell. He painted magazine covers. Folksy. A mailman, a boy scout, a kid visiting a doctor...
+L176859 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Who?
+L176858 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Whatever happened to Norman Rockwell?
+L176580 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Look at your face. I had a car that color.
+L176579 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Come on...
+L176578 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ What do you love her or something?
+L176559 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah. Ma...
+L176558 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ She's in the kitchen. I'd yell for her, but I'd die.  You had a busy night last night.
+L176557 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Is Mom here? I gotta talk to her.
+L176556 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ No, I intentionally picked out a lot of crap 'cause I don't like you.
+L176555 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Anything good?
+L176554 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah. I brought you some movies.
+L176259 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ At the point -- I don't -- Look you'd be on TV maybe one or two times each. I'11 try to avoid I'11 go out of my way to avoid, getting together with you. Believe me.
+L176258 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ At what point?
+L176257 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ No. Kissing and hugging, okay, but if it's actual sex they have to cut away.
+L176256 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ No! Do they show you having sex?
+L176255 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ I'11 have to pass, Al. And it's not an age thing --
+L176236 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ I guess -- I don't -- it's all in the contract. There's this million-page contract --
+L176235 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ Do they show it?
+L176234 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ What if I'm vomiting?
+L176233 +++$+++ u4956 +++$+++ m330 +++$+++ AL +++$+++ What if--you're vomiting?
+L176232 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ No. The bathroom is off limits -and when I go to sleep they go to other programming. Unless I get up. Then they go back on the air. Unless I get up to go to the bathroom, I guess, then -
+L177118 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ You know it.
+L177117 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ Ooh, the sister! She is hot.
+L177116 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ Yeah only I wish they had the sister on more.
+L176812 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ If Ray would steal this girl from Ed. That would be great.
+L176811 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ What?
+L176810 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ You know what would be great?
+L176809 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ She doesn't give a shit about him.
+L176808 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ You think she really likes him?
+L176604 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ So if it's a show and they have a guy die that's writing, but if it's real and they have a guy die that's murder.
+L176603 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ So?
+L176602 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ This is real, Bananahead!
+L176601 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ You know, for a tearjerker. The audience falls in love with this loveable old geezer in a wheelchair and then he dies, it's ... They know what they're doing.
+L176600 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ What do you mean "they're gonna have him die?"
+L176599 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ I'11 tell you something else. The old guy in the wheelchair? The stepfather? They're gonna have him die.
+L176387 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ Okay, I'm nuts.
+L176386 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ You're nuts.
+L176385 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ Her. That look. She likes the Ed guy better than she likes the brother.
+L176384 +++$+++ u4957 +++$+++ m330 +++$+++ BARRY +++$+++ What?
+L176383 +++$+++ u4973 +++$+++ m330 +++$+++ TAD +++$+++ Did you see that?
+L177284 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah. Because, you didn't talk me into anything. Everything you wanted me to do, I wanted to do.
+L177283 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ I don't think so.
+L177132 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Yeah? Well I'm not starting now.
+L177131 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ No. You screwed up my life just so you could get higher ratings. You never gave a shit about me.
+L177130 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Ed --
+L177129 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ You know, everything you asked me to do I did. I call you for advice about Shari you say -  "Leave her be, see other people for a while." You just wanted me to get involved with Jill because it made for a better show.
+L177128 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Ed --
+L177127 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah, but when they went off people weren't making fun of them. They weren't bozos! I'm Pumpkin Ass again!
+L177126 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Ed, everything goes off. "Cheers" went off. "Mash" went off --
+L176989 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Pursued, not harassed. Give it some space. Can I tell you something -- as a friend? My sister was going with a guy they hit a little rough spot they started seeing other people they got back together and last month they had their third child For what it's worth.
+L176988 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ You said a woman likes to be pursued.
+L176987 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Leave her be.
+L176986 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah, that's why I called. I mean, maybe Fed-Ex would tell me where she moved --
+L176985 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Ed, do you want my advice?
+L176984 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ What if Shari's the dream?
+L176983 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Great line.
+L176982 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ You asked me if I had a dream. I said "Sure, I have a dream. I just don't know what it is yet."
+L176981 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ Yeah.
+L176685 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Stand back -- I'm about to do my Happy Dance.
+L176684 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ That means a balloon payment and a big raise for the second month.
+L176683 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Yeah?!
+L176682 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ We're going to get you a bodyguard, don't worry. Ed, I have some news for you. We're picking up Ed TV for another month!
+L176681 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ They tore her dress! ...
+L176652 +++$+++ u4958 +++$+++ m330 +++$+++ CYNTHIA +++$+++ A woman wants to be pursued.
+L176651 +++$+++ u4960 +++$+++ m330 +++$+++ ED +++$+++ Sure.

@@ -1,0 +1,200 @@
+L544689 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Programming ready?
+L544618 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ You are, Mister Decker. I'm afraid you'll have to double as Science Officer.
+L544617 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ None available, Captain. There's no one in fact, who's fully rated on this design.
+L544616 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ We'll have to replace Commander Sonak. I'd still like a Vulcan there, if possible...
+L544599 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ No, Admiral. I don't think you are; not one damned bit. I remember when you recommended me for this command. You told me how envious you were, and if only you could find a way to get a starship command again. Well, sir, it looks like you found a way.
+L544598 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ That's why you're staying aboard. I'm sorry, Will.
+L544596 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Admiral, this is an almost totally new enterprise. You don't know her a tenth as well as I do.
+L544595 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ My experience -- five years out there dealing with unknowns like this -- my familiarity with the Enterprise, this crew...
+L544594 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ May I ask Why?
+L544593 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Yes.
+L544592 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ -- You, personally, are assuming command?
+L544591 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ You'll stay aboard as Executive Officer... a temporary grade reduction to Commander.
+L544590 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I'm replacing you as Captain of the Enterprise.
+L544589 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ You are what...?
+L544588 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I'm taking over the Center seat. I'm sorry, Will.
+L545255 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ You got the Enterprise, it's what <U>you</U> wanted. This is what I want.  But, Jim...  ... <U>I'm</U> the right choice for this mission.
+L545254 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Jim... he <U>wants</U> it.
+L545217 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++    We have twenty-one minutes. Captain,    we can still save V'ger... and ourselves.
+L545216 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ That transmitter is a vital link between V'ger and the Creator. 
+L545193 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ V'ger has begun to understand the true limits of our universe, thereby realizing the existence of other dimensions. To fulfill itself it must evolve to a higher dimension; V'ger believes this can be achieved only by joining with the Creator.
+L545192 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Mr. Spock, what would V'ger need to fulfill itself?
+L545161 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ A tractor beam...
+L545160 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Forward motion, Captain...!
+L545126 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ It seems we <U>all</U> imagine God in our own image.
+L545125 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Then V'ger believes the Creator to be a <U>machine</U> too.
+L544980 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ That probe in there -- in a different form now -- is the same thing that <U>killed</U> Ilia!
+L544979 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Exactly.  And you did have a 'relationship' with Lieutenant Ilia, Commander.
+L544975 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ We have just seen that its body duplicates our navigator in <U>precise</U> detail. Suppose that beneath its programming, the real Ilia's memory patterns are duplicated with equal precision.
+L544974 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ It's a programmed <U>mechanism</U>, Mr. Spock...
+L544973 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Captain... this probe may be a key a key to the Aliens.
+L544903 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ This served the purpose.
+L544902 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ We could have cut it off at the main computer...
+L544858 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ That would presuppose a feeling, Commander... compassion. I sensed <U>no</U> emotion, only...  ... pure logic.
+L544857 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ They may have attacked only as a warning to us, Captain. To keep away.
+L544754 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ No.
+L544753 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ If I'd seen you again, would you have been able to say it?
+L544752 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ That you left? or that you didn't say 'goodbye'?
+L544751 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ No more than I expected  Not as difficult as this. I'm sorry...
+L544750 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Was he difficult?
+L544712 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Wormhole distortion has over- loaded main power systems...!
+L544711 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Navigational deflectors inoperative...!  Directional control also inoperative, Captain...!
+L544709 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Unidentified small object has been pulled into the wormhole with us, Captain! Directly ahead...!
+L544708 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Negative control from inertial lag will continue 22 point five seconds before forward velocity slows to sub-light speed.
+L544656 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ I would never take advantage of a sexually immature species.  You can assure him that's true, can't you?
+L544655 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ I now the Captain meant no person- al insult.
+L544642 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Decker....!
+L544641 +++$+++ u7847 +++$+++ m531 +++$+++ DECKER +++$+++ Hello, Ilia.
+L544870 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Viewer, standard ahead.
+L544869 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Fifteen seconds to Cloud Boundary.
+L544861 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Opinion, Mister. Spock?
+L544860 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Thirty seconds to Cloud boundary...
+L544846 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Ten seconds....
+L544845 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Transmit, Mr. Spock! Now!
+L544844 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Impact in fifteen seconds...
+L544843 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Spock?
+L544824 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I stand corrected Mr. Decker.  Navigator, lay in a conic section flight path into the cloud center; bring us parallel to whatever we find in there...
+L544823 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Five minutes to Cloud boundary!
+L544715 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Chekov, stand by on the phasers...!
+L544714 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Twelve seconds...!
+L544713 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Time to impact...?
+L544648 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ My oath of celibacy is on record Captain. May I assume my duties?
+L544647 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ And in you, too, Lieutenant.
+L544645 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Our Exec and Science Officer...
+L544644 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ 'Commander' Decker?
+L544640 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Welcome aboard, Lieutenant.
+L544639 +++$+++ u7848 +++$+++ m531 +++$+++ ILIA +++$+++ Lieutenant Ilia reporting for duty, sir.
+L545142 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ That was the order, Mr. Sulu: Clear the bridge.
+L545141 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Clear the bridge, Captain...?
+L544936 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Thrusters at station keeping...
+L544935 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Hold station...!
+L544932 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Thrusters ahead, one third.
+L544931 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Maneuvering thrusters, Mr. Sulu; ahead one third.  Full sensor scan, Mr. Spock; they can't expect us <U>not</U> to look them over now!
+L544930 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Viewer ahead, sir.
+L544929 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Viewer ahead.
+L544890 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Hold relative position here...
+L544889 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ One hundred kilometers...
+L544888 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Adjust parallel course, Navigator. Bring us in to one hundred kilometers distance.
+L544887 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ We're already two settings below that, sir.
+L544886 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Reduce magnification. Factor 4, Mr. Sulu.
+L544872 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Aye, sir.
+L544871 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Sulu, steady as she goes.
+L544700 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Accelerating to Warp One, sir.
+L544699 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Ahead Warp One, Mr Sulu.
+L544676 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Thrusters at station-keeping, sir.
+L544675 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Hold station.
+L544674 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Maneuvering thrusters, sir.
+L544673 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Maneuvering thrusters, Mister Sulu.
+L544575 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ He's in Engineering, sir...  He doesn't know.
+L544574 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I appreciate the welcome; I wish the circumstances were less critical.  Epsilon Nine is monitoring the intruder; keep a channel open to them.  Where is Captain Decker?
+L544608 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Starfleet, boost your matter gain; we need more signal!
+L544607 +++$+++ u7850 +++$+++ m531 +++$+++ SCOTT +++$+++ We're losing the pattern...!
+L544562 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Two and a half years as Chief of Starfleet Operations may have made me a little stale, Mr. Scott -- but I wouldn't exactly consider myself 'untried.'
+L544561 +++$+++ u7850 +++$+++ m531 +++$+++ SCOTT +++$+++ The crew hasn't had near enough transition time with all the new equipment. And the engines, Admiral: they've yet to be even tested at warp power. Add to that, an untried Captain...
+L544558 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Scott, there's an alien object with unbelievable destructive power less than three days away from this planet...
+L544557 +++$+++ u7850 +++$+++ m531 +++$+++ SCOTT +++$+++ Admiral, the Enterprise has just finished eighteen months redesign- ing and refitting. She needs testing, a shakedown...
+L544556 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ See that it is.  Take me over, please.
+L544555 +++$+++ u7850 +++$+++ m531 +++$+++ SCOTT +++$+++ We're hoping it's only a temporary problem, Admiral...
+L544554 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Why aren't the Enterprise transporters in operation, Mister Scott?
+L544553 +++$+++ u7850 +++$+++ m531 +++$+++ SCOTT +++$+++ Admiral, I've been hoping to see you. Maybe you can get through to those thick heads in Starfleet that...
+L545260 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I prefer your poet Dante's phrase -- 'the divine restlessness of the human spirit.'
+L545259 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ ... and the 'foolish' emotions which drive us?
+L545258 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Yes, Captain. It needed our mortality, the fear of it, our struggle against it, our fears, our dreams...
+L545257 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Spock, we <U>were</U> its answer!
+L545238 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ That seems to be what it has planned -- to have the Creator physically present here.
+L545237 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ There's no way to know. V'ger expected it to be a machine -- some single entity.  All of us here may be reduced into patterns...
+L545224 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ ... and then to reassemble itself <U>combined</U> with the Creator. The most certain way of obtaining all the Creator's answers.
+L545223 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ V'ger plans to literally <U>meld</U> to reduce both itself and the Creator to patterns...
+L545206 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ The point is, Captain, <U>twenty-two</U>    
+L545205 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ The point... 
+L545204 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Captain, the orbital device will      not be triggered for twenty-two       minutes...                           
+L545191 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ There is no alternative.
+L545190 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Has not, Doctor -- and now, because of what we are planning... will not...
+L545187 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ No, Captain, not for us... for V'ger.
+L545186 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Not for us?
+L545158 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Precisely.
+L545157 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ The orbiting devices would be controlled from the point, then...?
+L545131 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Yes, Captain, a child: evolving into adulthood -- learning, searching -- instinctively needing.
+L545130 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Child...!?
+L545113 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ High mag, Mr. Sulu!
+L545112 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ These read as identical composition...  ... however, Captain, they measure several hundred times more powerful!
+L545078 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ 'Is this all I am? Is there not more?'
+L545077 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ What answers?
+L545076 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ No meaning... No hope...  And, Jim, no answers...! Jim, it's looking for <U>answers</U> <U>itself</U>!
+L545075 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ What should you have known?
+L545069 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ A life form of its own; a conscious, living entity.
+L545068 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Were you right? Spock? V'ger is a living machine...?
+L545059 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Captain, I do not believe there <U>is</U> a crew -- or that this is a vessel as such.
+L545058 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ If this is their ship's data banks, where is the crew? Or is their entire ship automated?
+L545057 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Exact patterns. The energy bolt that hit them wasn't simply a weapon -- it dematerialized them, stored them. But why?
+L545056 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Klingons... our Epsilon 9 station ... and Ilia!! They seem to be more than just images...
+L545054 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ New crystals: they must contain the most recent data obtained --
+L545053 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ And these 'sensor-swarms' collect that data, carry it here.
+L545052 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ It would appear that the atomic arrays of these crystals store information. A remarkably efficient system.
+L545050 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Answers to what, Spock? Our dilemma -- or your <U>personal</U> one?
+L545049 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I am seeking answers, Captain.
+L545048 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Bridge, cancel rescue teams.  Spock, what in the hell are you doing out here!
+L544988 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I am uneasy with that being our only hope of more information.
+L544987 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Spock? Concerned about his chances?
+L544978 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Ilia's memory, her feelings of loyalty, friendship, obedience... might all be there.
+L544977 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ ... they may have followed it <U>too</U> precisely.
+L544976 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ They had a pattern to follow...
+L544940 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I believe the light flares to be energy fields -- undoubtedly part of the vessel's inner mechanism. A technology so incredibly sophisticated that I cannot --
+L544939 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Have you been able to analyze <U>any</U> of this...?
+L544915 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Delay that order, Scotty...! Disengage all main drive systems!
+L544914 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ We cannot break free, Captain.  We do not have a fraction of the power necessary.
+L544911 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Get someone up here to take the Navigator's station...!  Engineering... full emergency power!
+L544910 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Captain, we have been seized by a tractor beam...!
+L544881 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Transmit image of the Alien to Starfleet; advise we are attempting further communication.
+L544880 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ That vessel is generating a forcefield measurably greater than the radiation of the Earth's sun.
+L544874 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Instruments fluctuating, Captain. Patterns unrecognizable.
+L544873 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ No vessel could generate a powerfield of this magnitude...
+L544863 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Decker... ?
+L544862 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Recommend we proceede, Captain.
+L544856 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ But they understood our messages; they broke off the attack.
+L544855 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ We are obviously confronted by a highly advanced mentality... yet they cannot understand who we are, or what we want.
+L544854 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Our... 'insignificance'?
+L544853 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ The 'puzzlement' I sensed was fleeting... minor...  ... as if carrying a sense of our insignificance, Captain.
+L544850 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Any reply from them?
+L544849 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ It appears that our message has been understood, Captain.
+L544827 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Communicated with us <U>how</U>?
+L544826 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ They have... they <U>have</U> been communicating with us. I sense ... <U>puzzlement</U>. Why have we not replied?
+L544821 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Mr. Decker, I will not provoke an attack, If that order isn't clear to you...
+L544820 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Captain, I suspect there's an object at the heart of that cloud.
+L544810 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Intruder scans emanate from the exact cloud center. Energy of a type entirely un- known to me.
+L544809 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Do <U>not</U> return scan, Mr. Spock! It may be misinterpreted as hostility!
+L544801 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I know this has been painful, Spock. For me too. Thank you.
+L544800 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I have accepted service here as a Starfleet officer... sir.
+L544799 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Let it drop, Bones.  You are my Science Officer -- I'll expect an <U>immediate</U> report on anything further you learn or <U>sense</U> from here on.
+L544798 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ ... is my only hope of accomplishing what the Masters could not.
+L544797 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ And whatever you sensed out here....
+L544796 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ I still contain fragments of my human half.
+L544793 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ That inquiry invades my personal life, Captain.
+L544792 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Also -- there was nothing in your report about <U>why</U> you're here.
+L544791 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Negative, Captain. I could sense only what seemed an almost omniscient pattern of perfect logic. I can explain nothing more; I understand nothing more.
+L544790 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ You've reported that you felt strong thought emotions. A group of minds from a space vessel? Could you make out any plan, anything to do with Earth?
+L544789 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I want him here.  Sit down!
+L544788 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Sir, I would appreciate Dr. McCoy absenting himself from this interview.
+L544787 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Sit down, please.
+L544786 +++$+++ u7853 +++$+++ m531 +++$+++ SPOCK +++$+++ Reporting as ordered, Captain.
+L544552 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ I intend to be there following that meeting. Report to me. One hour!
+L544551 +++$+++ u7852 +++$+++ m531 +++$+++ SONAK +++$+++ To you, sir?
+L544550 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Twelve! I'm on my way to a meeting with Admiral Nogura which will not last more than three minutes. Report to me on the Enterprise in one hour.
+L544549 +++$+++ u7852 +++$+++ m531 +++$+++ SONAK +++$+++ Which will require twenty more hours at minimum, Admiral...
+L544548 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Here at Starfleet...? The Enterprise is in final preparation to leave dock...
+L544547 +++$+++ u7852 +++$+++ m531 +++$+++ SONAK +++$+++ Captain Decker requested I complete final Science briefing here before...
+L544546 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Why aren't you on board?
+L544545 +++$+++ u7852 +++$+++ m531 +++$+++ SONAK +++$+++ Based, I am told, on your recommendation, Admiral. Thank you.
+L544544 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ You've received your appointment as Enterprise Science Officer?
+L545201 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Thank you, Scotty. Stand by.
+L545200 +++$+++ u7851 +++$+++ m531 +++$+++ SCOTT'S INTERCOM VOICE +++$+++ We're ready, sir.
+L545199 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Engineering... Status, Mr. Scott?
+L544732 +++$+++ u7851 +++$+++ m531 +++$+++ SCOTT'S INTERCOM VOICE +++$+++ Aye, we understand that sir! We're doing our best.
+L544731 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ That object out there is less than two days from Earth, Mister Scott. We've got to intercept while it still is out there!
+L544730 +++$+++ u7851 +++$+++ m531 +++$+++ SCOTT'S INTERCOM VOICE +++$+++ Captain, it was our anti-matter imbalance that created the wormhole in the first place. It will happen again if we don't correct it.
+L544729 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Warp Drive as soon as possible, Mr. Scott.
+L544694 +++$+++ u7849 +++$+++ m531 +++$+++ KIRK +++$+++ Engineer, we need Warp speed now!
+L544693 +++$+++ u7851 +++$+++ m531 +++$+++ SCOTT'S INTERCOM VOICE +++$+++ Captain, we need further Warp simulation on the flow sensors...
+L545182 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Tractor beam remains constant...
+L545181 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ Starfleet has been apprised of our situation, Captain.
+L545115 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ <U>Urgent</U> signal from Starfleet, Captain!  <U>All</U> Earth defense systems have gone dead.

@@ -1,0 +1,200 @@
+L545634 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Data, this isn't the time.
+L545625 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ It appears to be a magnetically sealed.
+L545624 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ I don't see a control panel, or an access port.
+L545621 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Thanks.
+L545620 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I know. I just got it.  It was very funny.
+L545619 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ The Farpoint mission? Data, that was seven years ago.
+L545618 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ During the Farpoint mission. We were on the Bridge and you told a joke. That was the punchline.
+L545617 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ What?
+L545615 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ You get what?
+L545614 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I get it. I get it.
+L545589 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I am uncertain. I have had little experience with emotions. I am unable to articulate the sensation.
+L545588 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Really? What do you feel?
+L545587 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I believe the beverage has provoked an emotional response.
+L545586 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Well?
+L545572 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ Agreed.
+L545571 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ But at the first sign of trouble, I'm going to deactivate it. Agreed?
+L545569 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ That is true. However, I believe my growth as an artificial lifeform has reached an impasse. For thirty-four years I have endeavored to become more "human"- to grow beyond my original programming. And yet I am still unable to grasp such a simple concept as humor. This emotion chip is the only answer.
+L545568 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Wait a minute. I thought you've always been afraid it would overload your neural net.
+L545567 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ It has occurred to me on several occasions. But I believe this may be the appropriate time.
+L545566 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Data, you're not thinking about using that thing are you?
+L545565 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I was attempting to get in the spirit of things. I thought it would be humorous.
+L545564 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ No, but I'd stay out of Sickbay for a while if I were you. I still don't know why you dropped her in the water.
+L545563 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ Is she still angry?
+L545934 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ All hands, brace for impact!
+L545933 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I have rerouted auxiliary power to the lateral thrusters- attempting to level our descent.
+L545903 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ Perhaps.  Yes! If we sent a low-level ionic pulse, it might reset the coil and engage the cloaking systems.
+L545902 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Could we access the defective coil and trigger their cloak?
+L545716 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I hope so, sir.
+L545715 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ We all are, Data. But we're going to get him back.
+L545714 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ I am quite...preoccupied with concern about Geordi.
+L545713 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Looks like you're stuck with emotions for a while. How do you feel?
+L545544 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ The station complement was nineteen.
+L545543 +++$+++ u2899 +++$+++ m191 +++$+++ DATA +++$+++ Sensors show five life signs aboard the station, Captain.
+L545488 +++$+++ u2900 +++$+++ m191 +++$+++ DEMORA +++$+++ There's some buckling on the starboard nacelle.  We've also got a hull breach in the Engineering section. Emergency forcefields are in place and holding.
+L545487 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ You did it, Kirk!  Damage report, Ensign.
+L545475 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ I'll go. You have the Bridge.
+L545474 +++$+++ u2900 +++$+++ m191 +++$+++ DEMORA +++$+++ Deck 15, section 21-alpha.
+L545433 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Beam them directly to Sickbay.
+L545432 +++$+++ u2900 +++$+++ m191 +++$+++ DEMORA +++$+++ We're within range, sir.
+L545407 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ On screen.
+L545406 +++$+++ u2900 +++$+++ m191 +++$+++ DEMORA +++$+++ We're within visual range of the energy distortion, Captain.
+L545402 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Signal the closest starship. We're in no condition to mount a rescue. We don't even have a full crew aboard.
+L545401 +++$+++ u2900 +++$+++ m191 +++$+++ DEMORA +++$+++ The ships are bearing at 3-1-0 mark 2-1-5. Distance: three light years.
+L545400 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Can you locate them?
+L545984 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ I can't leave. I'm already there, remember?
+L545983 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ You're right. I'll need help.  Guinan, will you come back with me? Together, we could-
+L545982 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ What makes you think things will be any different this time?
+L545981 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ I know exactly where I want to go, and when. Back to that mountaintop on Veridian III, before Soran put out the star. I have to stop him.
+L545980 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ I told you, time has no meaning here. If you leave, you can go anywhere, any time.
+L545979 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ I don't understand.
+L545978 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Yes, where would you go?
+L545977 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Can I?
+L545976 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Why would you want to leave?
+L545975 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Guinan, can I leave the Nexus?
+L545971 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Yeah. They're great, aren't they? You can go back and see them born, go forward and see your grandchildren. Time has no meaning here.
+L545970 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ These are my children...my children.
+L545967 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Wherever he wanted to be.
+L545966 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Where is he now?
+L545965 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ All of us.
+L545964 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Soran?
+L545963 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ When the Enterprise-B beamed us off the Lakul, we were partially in the Nexus. The transporters locked on to us, but somehow everyone left a part of themselves behind.
+L545962 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Left behind?
+L545961 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ I am on the Enterprise. I am also here.  Think of me as an "echo" of the person you know. A part she left behind.
+L545960 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Guinan, what are you doing here? I thought you were on the Enterprise.
+L545959 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Enjoy them, Jean-Luc.
+L545958 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ But I never had a wife, children, a home like this.
+L545957 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ For you. This is where you wanted to be.
+L545956 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ This is the Nexus?
+L545955 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ You're in the Nexus.
+L545954 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Guinan, what's going on? Where am I?
+L545737 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ But why destroy a star?  Thank you, Guinan.
+L545736 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Soran may still be obsessed with getting back. And if he is, he'll do anything to find that doorway again.
+L545735 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Your "sixth sense"- I've always wondered where it came from.  And what about Soran?
+L545734 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ It took a long time, but eventually I learned to live with it. And I began to realize that my experience in the Nexus had changed me.  I knew things about people, about events, about time.
+L545730 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ I can't remember very much - what it looked like or how long I was there. But I do remember how it felt.
+L545729 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ What happened to you?
+L545728 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ That ribbon isn't just some random energy phenomenon travelling through space. It's a doorway. It leads to another place- the Nexus. It doesn't exist in our universe and it doesn't play by the same rules either.
+L545726 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ What's the "Nexus"?
+L545725 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Soran doesn't care about power or weapons. All he cares about is getting back to the Nexus.
+L545724 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Guinan. It's important that you tell me what you know. We think Soran's developed a weapon...a terrible weapon. It might give him enough power to-
+L545723 +++$+++ u2901 +++$+++ m191 +++$+++ GUINAN +++$+++ Oh yes. I remember everyone who was on the Lakul, every face. Even the ones who didn't make it.
+L545722 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Do you remember him?
+L545429 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Risk is part of the game if you want to sit in that chair.
+L545428 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ What about the gravimetric distortions? They'll tear us apart.
+L545416 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ It won't be installed until Tuesday.  Ensign Sulu, try generating a subspace field around the ships. That might break them free.
+L545415 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ You left spacedock without a tractor beam?
+L545414 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ We don't have a tractor beam.
+L545391 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Please, I insist.
+L545390 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ No, no. Thank you.
+L545389 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Prepare to leave spacedock. Aft thrusters ahead one quarter, port and starboard at station keeping.  Captain Kirk, I'd be honored if you would give the order to get underway.
+L545388 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Oh, of course.
+L545387 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Excuse me, gentlemen, if you'll take your seats.
+L545365 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ Please, please.
+L545364 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Well, may we have a look around?
+L545362 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ It's our pleasure.
+L545361 +++$+++ u2902 +++$+++ m191 +++$+++ HARRIMAN +++$+++ I'm Captain John Harriman. I'd like to welcome you all aboard.
+L546053 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Least I could do for a captain of the Enterprise.
+L546052 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Yes.  Thank you.
+L546051 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Did we do it? Did we make a difference?
+L546050 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ I'll find a way to contact the Enterprise. You're going to be all right.
+L546042 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Of course, if Spock were here, he'd say I was being an irrational, illogical human for wanting to go on a mission like that.
+L546041 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ You could say that.
+L546040 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ I take it the odds are against us and the situation is grim?
+L546039 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ That's right.
+L546038 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ How can I argue with the captain of the Enterprise? What was the name of that planet=8A Veridian III?
+L546035 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ I hadn't planned on it.
+L546034 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Close to retirement?
+L546033 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ That's right.
+L546032 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Captain of the Enterprise, huh?
+L546030 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ She's not real either, is she? Nothing here is. Nothing here matters.
+L546029 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Antonia?
+L546024 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ This is my uncle's barn in Iowa.
+L546023 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Better?
+L546022 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ No, no, it's not. It's better.
+L546018 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ I don't need to be lectured by you. I was out saving the galaxy when your grandfather was still in diapers. And frankly, I think the galaxy owes me one  I was like you once- so worried about duty and obligations that I couldn't see anything past this uniform. And in the end, what did it get me? Nothing. Not this time.
+L546017 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ You're a Starfleet officer and you have a duty to-
+L546016 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ You said history considers me dead. Who am I to argue with history?
+L546013 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Temporal nexus, yeah, I heard you.  Something's missing.
+L546012 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Not exactly. As I said, this is some kind of-
+L546011 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ So you're telling me this is the 24th-century, and I'm dead?
+L545996 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ I'm from what you would consider the future; the 24th-century.
+L545995 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ This clock, I gave this clock to Bones.
+L545988 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Yes, yes, it is.
+L545987 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Beautiful day, isn't it?
+L545482 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ Captain, I don't know how much longer I can hold her together!
+L545481 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Kirk here.
+L545478 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ I always do.
+L545477 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Keep her together until I get back.
+L545473 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Where are the deflector relays?
+L545472 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ Captain, it may be possible to simulate a torpedo blast using a resonance burst from the main deflector dish.
+L545469 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Load torpedo bays, prepare to fire on my command.
+L545468 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ Aye.
+L545467 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ A photon torpedo?
+L545466 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ An anti-matter discharge directly ahead=8A it might disrupt the field long enough for us to break away.
+L545465 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ I thought you might.
+L545464 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ But I do have a theory...
+L545462 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ There's just no way to disrupt a gravimetric field of this magnitude!
+L545461 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ The first thing you learn as captain is how to cheat death.  Scotty?
+L545443 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Phasing? To where?
+L545442 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ Their life signs are are phasing in and out of our space-time continuum.
+L545384 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ It's like you always said- if something's important enough, you make the time.
+L545383 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Sulu. When did he find the time for a family?
+L545382 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ And what would that be, sir?
+L545381 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ You know, Scotty, it amazes me.
+L545356 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ When I retired, I swore I'd never set foot on a starship again, and I meant it.
+L545355 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ What do you mean, you're not going? We promised.
+L545354 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ I'm not going  Scotty, help me with this chute.
+L545351 +++$+++ u2908 +++$+++ m191 +++$+++ SCOTTY +++$+++ I've warned ye about that back of yours. You should have a doctor take a look at it.
+L545350 +++$+++ u2903 +++$+++ m191 +++$+++ KIRK +++$+++ Oh
+L545758 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ I told you everything. You might as well just kill me right now.
+L545757 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ We learn something new about ourselves every day.  Now. Maybe I didn't make myself clear. It is very important that you tell me exactly what Captain Picard knows.
+L545756 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ No, I didn't know that.
+L545755 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ I just stopped your heart for five seconds. It felt like an eternity, didn't it? Did you know that you can stop the human heart for up to ten minutes before the onset of brain damage?
+L545754 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Yeah, they're full of great ideas.
+L545753 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Oh, I forgot to tell you. While you were unconscious, I injected a nano-probe into your bloodstream. It's been navigating your cardiovascular system, and right now I've attached it to your left ventricle.  A little trick I picked up from the Borg.
+L545751 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ Guinan? I don't know what you're talking about.
+L545750 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ What about Guinan? What has she told you about me?
+L545749 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ No.
+L545748 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Let's try to move beyond the usual prisoner-interrogator banter, shall we? You have information and I need it.  Did the Captain explain his orders to you? Did he say why you were searching for trilithium?
+L545747 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ I was ordered to by the Captain.
+L545746 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ I don't want a science lecture. You were on that observatory looking for trilithium. Why?
+L545743 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ What do you want?
+L545742 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Normal is what everyone else is, and what you are not.
+L545741 +++$+++ u2904 +++$+++ m191 +++$+++ LA FORGE +++$+++ What's normal?
+L545740 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ A remarkable piece of equipment, but a little inelegant, wouldn't you say?  Have you ever considered a prosthesis that would make you look a little more...normal?
+L546082 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ You may still. Somehow I doubt this will be the last ship to carry the name Enterprise.
+L546081 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ I always thought I'd have a crack at this chair one day.
+L545831 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Too big. How long until the ribbon arrives?
+L545830 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ That's a pretty big margin of error.
+L545822 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ They're just trying to decide whether a twenty year-old Klingon Bird of Prey is any match for the Federation flagship.
+L545821 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Maybe they're not out there.
+L545672 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ How is that possible?
+L545671 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ A quantum implosion has occurred within the Amargosa star. All nuclearfusion is breaking down.
+L545670 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Report.
+L545584 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ No. Thank you.
+L545583 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Sir, is there anything wrong?
+L545582 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Understood. That will be all.
+L545581 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ There is something else, Captain. One of the scientists, a Doctor Soran,has insisted on speaking with you.  I told him you were busy, sir, but he said it was absolutely imperative that he speak with you right away.
+L545580 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Thank you, Number One.
+L545579 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ No, sir.
+L545578 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Is there a problem?
+L545577 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ You want me to contact Starfleet?
+L545576 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Hmm,  Inform Starfleet Command. This could indicate a new Romulan threat in this sector.
+L545575 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ We think they were looking for something- they practically tore the place apart.
+L545574 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ There's still no indication of why they attacked the station?
+L545547 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Make it so.
+L545546 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Sir?
+L545524 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Bad food, brutal discipline.  No women.
+L545523 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Imagine what it was like, Will. No engines, no computers, just the wind, the sea and the stars to guide you.
+L545521 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Aye, aye, sir.  Take the wheel, Commander.
+L545520 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Well, now that we're all aboard=8A  Number One, bring the ship before the wind.  Let's see what's out there.
+L545511 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ When we went to ancient Rome for Deanna's promotion, we threw her to the lions, remember?
+L545510 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Don't you think you're taking this a little too far, Number One?
+L545824 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Mr. Data, scan the planet for lifeforms.
+L545823 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Or perhaps they're on the surface.
+L545664 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ There's nothing selfish about pursuing your own life, your own career.
+L545663 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ My brother had shouldered that burden, allowing me to pursue my own selfish needs.
+L545662 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ You felt it was no longer your responsibility to carry on the family line.
+L545661 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Ever since I was a little boy, I remember hearing about the family line. The Picards that fought at Trafalgar, the Picards that settled the first Martian colony. When my brother married and had a son...
+L545660 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Your family history is very important to you, isn't it?

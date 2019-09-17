@@ -1,0 +1,200 @@
+L147936 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Then tell me where Jade Fox is.
+L147935 +++$+++ u4676 +++$+++ m310 +++$+++ FIGURE +++$+++ Stop talking like a monk!  Just fight!
+L147934 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Like most things, I am nothing. It's the same for this sword.  All of it is simply a state of mind.
+L147933 +++$+++ u4676 +++$+++ m310 +++$+++ FIGURE +++$+++ Do you think you are a real master?
+L147931 +++$+++ u4676 +++$+++ m310 +++$+++ FIGURE +++$+++ What's it to you?
+L147930 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Where's your master?
+L147929 +++$+++ u4676 +++$+++ m310 +++$+++ FIGURE +++$+++ I do as I please.
+L147928 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Isn't it a bit too late to be out? You've brought me the sword?
+L147888 +++$+++ u4677 +++$+++ m310 +++$+++ FIGURE IN BLACK +++$+++ Let's go!
+L147887 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Tell me, who is your master?
+L147886 +++$+++ u4677 +++$+++ m310 +++$+++ FIGURE IN BLACK +++$+++ I'm just playing around.
+L147885 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ My name is Li Mu Bai.  The Green Destiny is mine.  Jade Fox can't be your master.  Where did you learn that "Xuan Piu" move?
+L147884 +++$+++ u4677 +++$+++ m310 +++$+++ FIGURE IN BLACK +++$+++ What's it to you?
+L147883 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Who are you?  Why is the Green Destiny in your possession?
+L147963 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ Believe me, I've a lesson or two left to teach you!
+L147962 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Master... I started learning from you in secret when I was 10.  You enchanted me with the world of Giang Hu.  But once I realized I could surpass you, I became so frightened!  Everything fell apart. I had no one to guide me, no one to learn from.
+L147961 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ If I hadn't seen you fight with Li Mu Bai, I'd still be ignorant of all you've hidden from me.
+L147960 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You wouldn't have understood, even if I had tried to explain.  You know... you've gone as far as you can go.  I hid my skills so as not to hurt you.
+L147959 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ I studied the diagrams.  But you hid the details!
+L147958 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You think you've been teaching me all these years from the manual? You couldn't even decipher the symbols!
+L147957 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ Yes, you do!  You are still my disciple.
+L147956 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I owe you nothing.
+L147955 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ It's the Giang Hu fighter lifestyle... kill or be killed. Exciting, isn't it?
+L147954 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Shut up!
+L147953 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ Wherever we want.  We'll get rid of anyone in our way.  Even your father.
+L147952 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ That was just for fun.  How can I leave?  Where would I go?
+L147951 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ You're already a thief.
+L147950 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'll never live as a thief!
+L147949 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ They wouldn't have found me if you hadn't stolen the sword.  Like a little girl, you thought stealing would be fun?  You, too, are responsible for that death.  Come with me.  You don't want to waste your life as the wife of some bureaucrat.  Denied your talent... As a master and disciple we will rule.
+L147948 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Why are you still here?  You killed a policeman.  You should leave! You'll bring ruin on my whole family.
+L147947 +++$+++ u4678 +++$+++ m310 +++$+++ FOX +++$+++ You're home late... or should I say early?
+L148067 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ He is my defeated foe!
+L148066 +++$+++ u4679 +++$+++ m310 +++$+++ GANGSTER A +++$+++ Are you related to Li Mu Bai?
+L148064 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ So what if I don't?
+L148063 +++$+++ u4679 +++$+++ m310 +++$+++ GANGSTER A +++$+++ You don't seem to understand.
+L148062 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Don't bother.
+L148061 +++$+++ u4679 +++$+++ m310 +++$+++ GANGSTER A +++$+++ In that case, perhaps we could be of assistance.
+L148058 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Long.
+L148057 +++$+++ u4679 +++$+++ m310 +++$+++ GANGSTER A +++$+++ Hello.  What is your name?
+L147798 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I have a guest.
+L147797 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ This spells trouble.
+L147763 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ Autumn is coming.  I'll shut the windows for you.
+L147762 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ It will be just the same.  Enough! I'm tired.
+L147761 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ Go to bed then.  Miss has grown up, and is getting married soon.  God knows what the future will bring.
+L147760 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'm tired now.
+L147759 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ Don't invite danger into your father's house.
+L147758 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'll socialize with whomever I please.
+L147757 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ She's one of those.  Your mother would not want you consorting with her kind.
+L147756 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Do you know her?
+L147755 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ I heard you met Shu Lien today.
+L147754 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Put them down.
+L147753 +++$+++ u4680 +++$+++ m310 +++$+++ GOVERNESS +++$+++ I've made you silk pajamas.  Do you want to change into them?
+L147752 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Please sit.
+L148177 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Spare your energy.  I'll be back!
+L148176 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Take my horse and go to the compound. Give this to Mrs. Wu.  She'll help you.  Hurry!
+L148171 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ She used Purple Yin... Purple Yin poison.  It goes straight to the heart.
+L148170 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You can't die!  Tell us what poison you used!  You can't die!  Tell us the antidote!  You can't let Li Mu Bai die!
+L148140 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Don't be a sore loser.  Go ahead. Take your pick.  I'll wait.  Go ahead.
+L148139 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Without the Green Destiny, you are nothing.
+L148138 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Come and get it if you can.
+L148137 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Don't touch it!  That's Li Mu Bai's sword.
+L148132 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ What do I care?  You were never a real friend anyway.  But I wonder, how long could you last as my enemy?
+L148131 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ How dare you accuse us?  I always knew you had stolen the sword! I've done nothing but protect you and your family.  And you're repaid me with nothing but contempt.  Li Mu Bai himself spared you, and all you do is insult him.  We wanted some peace and you've ruined it all! You're no sister of mine!
+L148130 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You're working together to set me up!  I'm leaving!
+L148129 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Li Mu Bai has made arrangements. He sent him to Wudan Mountain.
+L148128 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Where is he now?
+L148127 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ He really loves you.  Come back to Peking with me.  We'll find a solution.
+L148126 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You know about Lo?
+L148125 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Go back to them first.  Then you can decide about Lo.
+L148124 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ They forced me to marry!
+L148123 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Look at the trouble you've caused. Now you know what Giang Hu life is really like.  If you think of me as your sister, let me give you some sisterly advice.  You can run from marriage, but not your parents.
+L148122 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You, sister...
+L148121 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I was just passing by and wondered how you were.
+L148120 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I'll give them to you.
+L148119 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'm just borrowing some clean clothes.  I'm not staying.
+L148118 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Here you must be in proper attire.
+L147915 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Yes, from the West.  He went undercover and and followed her here,
+L147914 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You say she killed a policeman?
+L147821 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Then as a sister, let me wish you happiness in your marriage.
+L147820 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Don't distance us.  From now on, let's be like sisters.
+L147819 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I am not an aristocrat, as you are... but I must still respect a woman's duties.
+L147818 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Too bad for Meng, but it's not your fault, or Li Mu Bai's.
+L147817 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ His name was Meng Si Zhao.  He was a brother to Li Mu Bai by oath. One day, while in battle, he was killed by the sword of Li Mu Bai's enemy.  After, Li Mu Bai and I went through a lot together.  Our feelings for each other grew stronger.  But how could we dishonor Meng's memory?  So the freedom you talk about, I too desire it.  But I have never tasted it.
+L147816 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ No, really?
+L147815 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Yes.  Did you know I was once engaged to be married?
+L147814 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ About you and Li Mu Bai?
+L147813 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Do you think so?  Let me tell you a story.
+L147812 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Am I?  I wish I were like the heroes in the books I read.  Like you and Li Mu Bai.  I guess I'm happy to be marrying.  But to be free to live my own life, to choose whom I love... That is true happiness.
+L147811 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You are fornuate to marry into such a noble family.
+L147810 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'm hardly doing a thing.  The less I think of it the better.  My parents are arranging everything. The Gous are a very powerful family. My marrying one will be good for my father's career.
+L147809 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Thank you for seeing me.  I hear your wedding day is near.  You must be overwhelmed by the preparations.
+L147808 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Please.
+L147807 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Maybe it is.  I wouldn't know.
+L147806 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You write gracefully.  Calligraphy is so similar to fencing.
+L147804 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'll write your name.  Just for fun.
+L147803 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You're doing calligraphy?
+L147802 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I'm bored.
+L147801 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ How so?
+L147800 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I've missed you.
+L147743 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You're probably right.
+L147742 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ No!  You couldn't roam around freely if you were.
+L147741 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ What do you think?
+L147740 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You're not married, are you?
+L147739 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ So I heard.  Congratulations.  It's the most important step in a woman's life, isn't it?
+L147738 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You know what I mean.  I'm getting married soon, but I haven't lived the life I want.
+L147737 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Sure.  No place to bathe for days, sleeping in flea-infested beds... They tell you all about that in those books?
+L147736 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ But you're just like the characters in the stories.
+L147735 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Writers wouldn't sell many books if they told how it really is.
+L147734 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ I've read all about people like you. Roaming wild, beating up anyone who gets in your way!
+L147733 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Fighters have rules too: friendship, trust, integrity... Without rules, we wouldn't survive for long.
+L147732 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ It must be exciting to be a fighter, to be totally free!
+L147731 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Really?
+L147730 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Yes, I am.  But I prefer the machete.  Certain moves, however, call for a sword.
+L147729 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You're a sword fighter too?
+L147728 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You're too young to understand.
+L147727 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Li Mu Bai!  The famous warrior? Why would he give his sword to Sir Te?
+L147726 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ My friend Li Mu Bai.  He's given it to Sir Te as a gift.
+L147725 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Exquisite!  You said it belongs to...
+L147724 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Beautiful but dangerous.  Once you see it tainted with blood, its beauty is hard to admire.  It's 400 years old.
+L147723 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ But I have had much practice.  As a child in the West, a platoon lived with us.  They'd let me play with their weapons.  The scabbard is so beautiful.
+L147722 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ The handle is heavy.  And the blade is no ordinary metal.  Still, the sword is the lightest of weapons. You're just not used to handling it.
+L147721 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ It's heavy for such a thin piece of metal!
+L148175 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ All right.  Hurry.  I will hold on as long as I can.
+L148174 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ The antidote exists.  She taught it to me.  The formula is simple, but it takes time to prepare.  Trust me. As you have helped me, let me help you.
+L148155 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Then you have no use for the sword.
+L148154 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Never!
+L148153 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Kneel!
+L148152 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Give it back!
+L148151 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ All right.  If you can take back the sword in three moves, I'll go with you.
+L148150 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ What I've always wanted, to teach you.
+L148149 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ What do you want?
+L148146 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Only the sword will settle this.
+L148145 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Let's end this here.
+L148144 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Not another lecture!  On guard!
+L148143 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Stop it!  You don't deserve the Green Destiny.
+L148193 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Make a wish, Lo.
+L148192 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ "A faithful heart makes wishes come true."
+L148191 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Do you remember the legend of the young man?
+L148032 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Don't ever come back.
+L148031 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Jen...
+L148030 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Go.
+L148028 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ If you don't, I'll come after you. And I won't let you off so easy.
+L148027 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ I will.
+L148026 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Keep it safe.  Return it to me when we are together again.
+L148025 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ You must decide.  You might get tired of this life.  You might begin to miss your family.  If it were our daughter, we'd look for her too.  She would miss us.  Jen... I want you to be mine forever.  I will make my mark on the world.  I will earn your parents' respect. We have a legend.  Anyone who dares to jump from the mountain, God will grant his wish.  Long ago, a young man's parents were ill, so he jumped.  He didn't die.  He wasn't even hurt.  He floated away, far away, never to return.  He knew his wish had come true.  If you believe, it will happen.  The elders say, "A faithful heart makes wishes come true."
+L148024 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Don't send me back!
+L148023 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ It is trouble for me.
+L148022 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Let them look.
+L148021 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Your father's men are still looking for you.  They're still out there, circling closer.
+L148019 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ I am a man.  And now I've found the brightest star of all.
+L148018 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ So you're still that little boy looking for shooting stars.
+L148017 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Out here, you always fight for survival.  You have to be part of a gang to stand a chance.  Slowly, your gang becomes your family.  All that Dark Cloud stuff is just to scare people and make my life easier.
+L148016 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ And so, the little boy became a fearsome bandit.  He couldn't find the stars, so he stole my comb.
+L148015 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ When I was a boy, one night, I saw a thousand shooting stars.  I thought, where did they all go? I'm an orphan.  I used to look for stars alone.  I thought if I rode to the other end of the desert, I'd find them.  I've been riding in the desert ever since.
+L148014 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Give it back.
+L148013 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ I don't take orders from anyone.
+L148012 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Give me back my comb.
+L148011 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ I'm sorry... I guessed wrong.  I though you were a Han.
+L148010 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ By the way, I'm a real Manchurian.
+L148009 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Not true.  I can use it to pick fleas from my horse.
+L148008 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ It's mine.  It means a lot to me. A barbarian like you wouldn't understand.
+L148007 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ No more hitting on the head!  All this trouble for a comb?
+L148004 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Still in a bad mood?  At least you're speaking.  What's your name?
+L148003 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You coward!
+L148002 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ You've got quite a temper.  It's better this way.
+L147998 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ My comb!
+L147997 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Well, there used to be!  What's your name?  I'm Lo.  The Hans call me Dark Cloud.  I'm not that tall or big, but I'm quick as lightning.
+L147996 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ You're tired.  You need rest.  Your horse needs water.  There's a creek up here.
+L147995 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Give it back!
+L147994 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Let's stop a moment.
+L147983 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ With all the traffic on your rooftop these days... it took me a while to get in here.  I can't wait any longer.  I was wrong to let you go.  Come back with me.  You'll be happy in the desert.  You'll be free there.
+L147982 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ You shouldn't have come.
+L147981 +++$+++ u4683 +++$+++ m310 +++$+++ LO +++$+++ Jen!
+L147980 +++$+++ u4681 +++$+++ m310 +++$+++ JEN +++$+++ Lo?
+L148187 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I've already wasted my whole life. I want to tell you with my last breath... I have always loved you. I would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you.  Because of your love... I will never be a lonely spirit.
+L148186 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Use it to meditate.  Free yourself from this world as you have been taught.  Let your soul rise to eternity with your last breath.  Do not waste it... for me.
+L148185 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ My life is departing.  I've only one breath left.
+L148184 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Save your strength.
+L148183 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Shu Lien...
+L148182 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Mu Bai, hold on.  Give me some hope...
+L148173 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ That can't be!  Everything has an antithesis!  Why not this?
+L148172 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ My blood will soon reverse its flow. It's the same poison she used to kill my master.  There is no antidote.
+L148165 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ We followed Jade Fox.
+L148164 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Jade Fox drugged her.  How did you get here?
+L148163 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ What happened?
+L148103 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Not a bad idea.  Tonight we'll get a good night's sleep at headquarters.
+L148102 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I'll look around and catch up later.
+L148101 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ What about you?
+L148100 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ We're close to your headquarters. Go home and check in.
+L148074 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ You're right, but I don't know what to do.  I want to be with you... just like this.  It gives me a sense of peace.
+L148073 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ To repress one's feelings only makes them stronger.
+L148072 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Giang Hu is a world of tigers and dragons, full of corruption... I tried sincerely to give it up but I have brought us only trouble.
+L148071 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Your hand, rough and callused from machete practice... All this time, I've never had the courage to touch it.
+L148070 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Not everything is an illusion.  My hand... wasn't that real?
+L148069 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Shu Lien... The things we touch have no permanence.  My master would say... there is nothing we can hold on to in this world.  Only by letting go can we truly possess what is real.
+L148049 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ All right.  I'll write you an introduction.  Take it to Wudan. Wait there for news from me.
+L148048 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Don't you want to see her again.
+L148038 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ She's out there, but I doubt she'll show herself.  We'll keep our eyes open.  Sooner or later, she'll come for the girl.
+L148037 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You think Jade Fox will show up?
+L147979 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Just be patient with me, Shu Lien.

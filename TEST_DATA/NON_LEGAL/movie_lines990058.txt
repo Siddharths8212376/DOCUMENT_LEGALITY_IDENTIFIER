@@ -1,0 +1,200 @@
+L332684 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ That's open to debate.
+L332683 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Cute waitresses?
+L332682 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ There's a pizza place over on Market.
+L332681 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Well, that's it. He'll be asleep in a few minutes, but his first REM-cycle probably won't kick in for another hour or so.  Is there a place we can get something to eat in this town?
+L332675 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ We're going to need at least two full REM cycles to get a clear neurological profile. Three hours minimum, six hours ideal.
+L332674 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ How long will he need to be asleep?
+L332671 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Then I'd say it's bedtime for Jason.
+L332670 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Simple. We sedate him, induce a somnolesent state, and study his REM patterns when he's unconscious.  If he has the disorder, his REMS will be highly abnormal. Ruby smiles.
+L332669 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ How do we prove it?
+L332668 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Not guilty by reason of insanity. Case closed.
+L332667 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ If we could prove that Jason suffers from this disorder... and that his homicidal behavior has been a direct result of a medical condition...
+L332666 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Insomnolesence has been known to cause psychotic episodes... delusions...
+L332665 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ So Jason doesn't sleep... how does that help us?
+L332664 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ It's a neurological disorder affecting the hypothalamus. The part of the brain that causes sleepiness is inactive. They didn't know about it back in the sixties. Even now, it's not understood very well.
+L332663 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Insomnolesence...
+L332662 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ It's rare... but there are cases where people go for years without sleep.  They diagnosed Jason with simple insomnia... but that's not what it looks like to me. He has every indication of having _insomnolesence_.
+L332661 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ That's pretty weird. Is it possible for someone to not sleep for months?
+L332660 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ The mother said the boy hadn't slept for over three _months_. A physical examination showed dilated pupils, temperature of one-oh-two, blood chemistry highly imbalanced...
+L332659 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Wait a minute. Let me see that. She hands him the file.
+L332658 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Not much here. Jason was brought in a couple more times for insomnia... that's about it.
+L332655 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ You're obviously going through a critical moral dilemma. And you're putting up barriers against anyone who tries to probe your conscience.  But it is heartening to know that you do have a conscience.
+L332654 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Oh?
+L332653 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ No. You've told me all I need to know.
+L332652 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ What do you want -- a tidy psychological profile? You want to hear that I was falsely accused of a crime I didn't commit... and that's driven me to defend others? Or maybe you want to me to get in touch with my feelings... talk about my childhood...
+L332651 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ That didn't sound very convincing.
+L332650 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ I don't "rationalize" anything. I'm his lawyer -- he's my client. That's all.
+L332649 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Don't get me wrong. I don't care. But the professional part of me is interested in how you rationalize what you do.
+L332647 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ My job is not to determine his guilt or innocence. That's up to the jury. My job is defend him.
+L332646 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ So, what are you saying... that he didn't kill all those people?
+L332645 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Well, Jason _was_ in a canoe accident in 1967 and presumed drowned. His mother died a few years later after a long bout with cancer. Some time in the early eighties, there were a string of murders out by Crystal Lake...  People started saying it was Jason... back from the dead.
+L332644 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ None of that's true?
+L332643 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ That's the problem with this case. Everyone thinks they know Jason's life story. But they don't. What you're remembering is a _movie_. Fiction.	In the movie, Jason's mother runs around, killing people after Jason drowns in Crystal Lake
+L332642 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ I thought she was a killer, too. You know... that she chopped up a bunch of teenage camp counselors... before she was decapitated.
+L332641 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ So?
+L332640 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ I don't believe it. Jason's mother died of ovarian cancer in 1969.
+L332639 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Well, I definitely feel sorry for you.  August fourteenth, 1956... Jason was brought in by his mother, who said the boy hadn't slept for two weeks. Doctor prescribed Valium...
+L332638 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ No need. I'm self-diagnosed. I have severe nympholepsy...  And I'm a bed-wetter.
+L332637 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ This sexual obsession of yours. Have you considered going into therapy yourself?
+L332636 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Nurses. That's why I went into medicine.
+L332582 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ This is Jason Voorhees. They'll be looking for an excuse to send him to the chair.  If we're going to argue insanity, we're going to need something a little more concrete.
+L332581 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Great. Battling head doctors. We'll confuse the jury enough to create a reasonable doubt. Hung jury.
+L332580 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ This is bad, Joe. The Prosecution is already putting together a team of psychiatric specialists. They'll argue exactly the opposite. They'll say he's just pretending to be catatonic and he's completely sane.
+L332579 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ One of the deputies is pretty cute. I think she likes me.
+L332578 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Oh?
+L332575 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ I always throw that in. It makes the jury feel sorry for the defendant.
+L332574 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ He wets the bed?
+L332573 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ Insomnia. Not unusual for someone in his situation.  Not to mention he's a bed-wetter.
+L332572 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Doesnit sleep?
+L332571 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ No. When you put me on the stand, I'll say your client is catatonic and exhibits classic symptoms of a schizophrenic, sociopathic personality.  And he doesn't sleep.
+L332570 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Great. Is that what you're going to say when I put you on the stand?
+L332569 +++$+++ u6181 +++$+++ m412 +++$+++ SENA +++$+++ He's fucking nuts.
+L332568 +++$+++ u6180 +++$+++ m412 +++$+++ RUBY +++$+++ Well?
+L333033 +++$+++ u6182 +++$+++ m413 +++$+++ ANNA +++$+++ Well, as long as I admire it from afar it shouldn't worry me if it's hollow.
+L333032 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ A glorified office block.  They keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.
+L333031 +++$+++ u6182 +++$+++ m413 +++$+++ ANNA +++$+++ What is it really?
+L333030 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ It's only majestic from here. When you get closer you see it for what it really is.
+L333028 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Up there.
+L333027 +++$+++ u6182 +++$+++ m413 +++$+++ ANNA +++$+++ Where do you live?
+L333001 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ You have been hearing the sordid side then.
+L333000 +++$+++ u6182 +++$+++ m413 +++$+++ ANNA +++$+++ You work in the insurance department?
+L332992 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Even the so-called New Town isn't so new.  Only the people.  People of the future living in buildings of the past.  Has anyone seen Eduard?
+L332991 +++$+++ u6182 +++$+++ m413 +++$+++ ANNA +++$+++ -- I'm hoping to live in the Old Quarter.
+L333215 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ What was the matter with it?
+L333214 +++$+++ u6183 +++$+++ m413 +++$+++ ASSISTANTS +++$+++ Fine -- terrible.
+L333125 +++$+++ u6183 +++$+++ m413 +++$+++ ASSISTANTS +++$+++ No, no, no -- quite a long time, yes.
+L333124 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Have you worked here long?
+L333123 +++$+++ u6183 +++$+++ m413 +++$+++ ASSISTANTS +++$+++ Yes -- we do.
+L333122 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ You look like brothers.
+L333118 +++$+++ u6183 +++$+++ m413 +++$+++ ASSISTANTS +++$+++ Yes -- that's us.
+L333117 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ My assistants, I presume.
+L333305 +++$+++ u6184 +++$+++ m413 +++$+++ BEARDED ANARCHIST +++$+++ Perhaps Eduard was closer than he knew to discovering it and so had to be silenced.
+L333304 +++$+++ u6195 +++$+++ m413 +++$+++ POCKMARKED ANARCHIST +++$+++ Yours is a very powerful and important firm -- it has a lot at stake.
+L333302 +++$+++ u6184 +++$+++ m413 +++$+++ BEARDED ANARCHIST +++$+++ -- Small.
+L333301 +++$+++ u6195 +++$+++ m413 +++$+++ POCKMARKED ANARCHIST +++$+++ -- Ah, but what if it <u>wasn't</u>?
+L333201 +++$+++ u6184 +++$+++ m413 +++$+++ BEARDED ANARCHIST +++$+++ The formality of a trial would be too costly for them.  They're beginning to understand that it's the ensuing news of our actions that incites support.
+L333200 +++$+++ u6195 +++$+++ m413 +++$+++ POCKMARKED ANARCHIST +++$+++ -- Merely in the interests of order.
+L333183 +++$+++ u6184 +++$+++ m413 +++$+++ BEARDED ANARCHIST +++$+++ You were his friend.  One link is all they need.
+L333182 +++$+++ u6195 +++$+++ m413 +++$+++ POCKMARKED ANARCHIST +++$+++ Preliminary investigations may already be underway.
+L333167 +++$+++ u6184 +++$+++ m413 +++$+++ BEARDED ANARCHIST +++$+++ You could say we represent the <u>un</u>official view of a well-ordered society.
+L333166 +++$+++ u6195 +++$+++ m413 +++$+++ POCKMARKED ANARCHIST +++$+++ Heralds of a new age -- does that sound immodest?
+L333440 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Not necessarily.  A <u>wife</u> would.
+L333439 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ A true friend would do it.
+L333438 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Then its authority is in doubt.
+L333437 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ It's my last and final one.
+L333436 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ What an extraordinary request!
+L333435 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ If I don't see you later -- go to my house and find my notebooks -- and destroy them.  All my manuscripts -- just burn them. Please.
+L333434 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Another one?
+L333433 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Will you do me a favor then?
+L333432 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Yes.
+L333431 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- You appreciate my writing.
+L333430 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Not a chance.  I'm the thinnest person I know.
+L333429 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ The Castle gates were blockaded in the time of the great plague -- it's an escape route.  Don't get stuck.
+L333428 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ A cenotaph -- a monument to someone whose remains ended up elsewhere. But look --
+L333427 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ An empty tomb?
+L333426 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ I was restoring some stones here in the upper section one day -- and I found this.
+L333425 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ In a manner of speaking.
+L333424 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ The cemetery is nearer the Castle than anywhere else -- wasn't it part of the Castle originally?  -- I always assumed there'd be a gate or something.  Isn't there?
+L333423 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ What made you think <u>I'd</u> be able to get you into the Castle?
+L333422 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I'm trying to find things out myself -- that's the whole point.
+L333421 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ There is <u>one</u> thing I'd like you to tell me.
+L333420 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- Oh, yes, determination runs in the family.
+L333419 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ The Kafka men are famous for it, you know.  Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --
+L333418 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ -- I'm flattered, of course, to be considered a friend -- even without knowing all the details.  -- To see such determination is reward enough for me.
+L333415 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ The <u>Castle</u> cemetery.
+L333414 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ A man must eat --  And drink.
+L333413 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ You work in the cemetery.
+L333296 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ No -- not even success.  My writing is not for making a living -- it's for living.  Not for other people, it's for me.
+L333295 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Success or nothing?
+L333294 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ That would be even worse -- it would be a compromise.
+L333293 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Why do you work in that hideous insurance office?  -- dealing with people who fall off ladders.  Now take me -- I make my living as a stone mason.  It's not my art -- but it's the <u>tools</u> of my art.  You could be -- a journalist.
+L333292 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I haven't got the energy.  I mean, I have to conserve my energy.
+L333291 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Where do you get your ideas?  Only joking -- I'm just joking.  Let's go to a brothel then, Kafka, come on.
+L333290 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Naturally? -- that's not the word I would have chosen.
+L333289 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ These strange stories you write -- they come naturally, do they?
+L333287 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ -- In what sense?
+L333286 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Gabriela was right -- it's easier for me to understand suicide. I'm a practicing suicide.
+L333044 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ The needles inscribing the judgement into the flesh of the man.  Very good.
+L333043 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Did you?
+L333042 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ I read the one about the penal colony.
+L333041 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- In magazines nobody reads.
+L333040 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ Just what you've published.
+L333039 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I don't know what you could have read.
+L333038 +++$+++ u6185 +++$+++ m413 +++$+++ BIZZLEBEK +++$+++ I've read your stories.  They're fantastic.
+L333233 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Yes.
+L333232 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ Are you looking for Gabriela Rossmann?
+L332959 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I'll commit that to memory.
+L332958 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
+L332957 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Your credibility -- yes, it's well known.
+L332956 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ But <u>I'm</u> the messenger.  An error like this damages my credibility.
+L332955 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Burgel, I thought it would be easier, as long as I was passing --
+L332954 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
+L332953 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ Who's to say he ever will?  He's a timid old man and quite careful not to tread on anyone's toes -- In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.
+L332952 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ He has it, he just hasn't noticed it yet, all right?
+L332951 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ He's usually in the storage room sorting things out.  He can't close the file on a case until he has the concluding report.
+L332950 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I've never seen him.  I don't believe there is a keeper of the files.
+L332949 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ Did you see him?
+L332948 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ No, I left it in his office.
+L332947 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ You didn't give it to <u>me</u>.
+L332946 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I gave it to him yesterday.
+L332945 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ The keeper of the files is still waiting for your final summation of the Erlanger claim.
+L333116 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ And you're late!
+L333115 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ You're detestable.
+L333114 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ It's what I'm paid to do.
+L333113 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ You're just doing your job.
+L333112 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ It's my place to offer advice, not yours -- and by advising the Chief Clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.
+L333111 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Not today, Burgel.  Send one of your memos, write up one of your communiques, but for God's sake don't bother me today.
+L333110 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ Oh, don't they?  I think you underestimate my station in this office and overrate your own.
+L333109 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Say what you like -- no one pays the least attention.
+L333108 +++$+++ u6186 +++$+++ m413 +++$+++ BURGEL +++$+++ Good morning --  Or should I say good afternoon?
+L333345 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Sorry, yes -- well -- thank you, sir.
+L333344 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ The <u>Orlac</u> claim.
+L333343 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I see -- it's just the Erlanger claim then.
+L333342 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ No, there's only one report to complete.  I'll be doing it myself and submitting it to the Castle today or tomorrow.
+L333341 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ No -- I just -- I feel a sense of obligation.  He was my friend -- if I can be of any help -- closing his affairs.
+L333340 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ Was there something else?
+L333338 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I wonder if I might look to see if there's an address for family -- I thought I'd like to write to them.
+L333337 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ I do.
+L333336 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Excuse me, sir -- I understand you have Eduard Raban's file.
+L333107 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ You might find a more athletic hobby -- put some color in your cheeks.
+L333106 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ In a small way.
+L333105 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ I understand you fancy yourself an author.
+L333101 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ -- Yes -- Raban -- but he was too much like you -- even more so perhaps.  He wasn't here as long as you, so I didn't know him as well -- but I could see the influence he was having.  I simply want you to be aware of this because you'll be happier for it.
+L333100 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- Eduard --
+L333099 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ Oh, I know you got along with that poor fellow -- what was his name?
+L333098 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Well, I --
+L333097 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ Attitude, Kafka.  It doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.
+L333096 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ No, sir.
+L333095 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ Have you never wondered -- and I mention this only in passing --  why other clerks have advanced to more responsible positions while you, who have been here longer, have not?
+L333094 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I did not realize it was obligatory.
+L333093 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ It's not healthy, Kafka -- not for you and not for your workmates.  At the annual dinner this month you again failed to make an appearance.
+L333092 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I usually take lunch by the River.
+L333091 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ You must make the time.  Where do you go off to in the lunch hour?
+L333090 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ To do my work well, I have little time for --
+L333089 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ You keep too much to yourself -- you're a lone wolf.  It makes me uneasy, and if it makes me uneasy I can't imagine the impression you make on lesser employees.
+L333088 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ ... My ... social situation?
+L333087 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ You've been with the firm for nearly nine years.  You've done your work diligently, there are no complaints on that score.  But there's more to the job than the work -- there are other people to consider -- and frankly, Kafka, we eel your social situation could bear improving.
+L333086 +++$+++ u6187 +++$+++ m413 +++$+++ CHIEF CLERK +++$+++ Sit down, Kafka.
+L333085 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ You wanted to see me, sir.
+L333516 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I do.  Always.  You understand the world better than any of us, Kafka.  And what it's becoming.  I've always held you in the highest regard.
+L333515 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- Listen to me --
+L333514 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I know better than you what people will say when they have to.  When they brought me in for questioning I informed on my friends the very first day.
+L333513 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ No -- not this time.
+L333512 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I think you've just escaped for the moment.  Just as I did.  As Eduard did.  As they let us do. But only for the moment.
+L333511 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Why should I believe a man who never believed me?  They're absolutely right, you know -- guilt should never be doubted. It's easier that way.
+L333510 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I told you, they're <u>dead</u>.  It's finished.
+L333509 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I know there is.  And you're what I have to bargain with. For now you're the last one in their way.
+L333508 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ There's a new potion -- he said it was perfected.
+L333507 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon -- with all the others.
+L333506 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ They're dead now.  We can get help.
+L333505 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ This is the result of their elixir of youth.  They were to come and check on it during the night.  I contrived to miss the appointment.
+L333504 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ I -- I found your jailer.
+L333503 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Only two steps back?  Even the man they left to guard me retreated further than that.
+L333501 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Should I tell you why I joined our late lamented nihilists? Why I became a murderer? Because murder ... is bliss.  It's easier than you might think to absorb and assimilate Evil -- once you've adopted its procedure.
+L333500 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Gabriela ...?
+L333499 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ Over?  It's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.
+L333498 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ -- I've just come from the Castle.  It's over.
+L333497 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ I knew you walked this way to work.  I wanted to find you before they did.
+L333496 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Gabriela! -- you did get away.
+L333262 +++$+++ u6190 +++$+++ m413 +++$+++ KAFKA +++$+++ Now Burgel's one of the authorities?
+L333261 +++$+++ u6188 +++$+++ m413 +++$+++ GABRIELA +++$+++ What seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.

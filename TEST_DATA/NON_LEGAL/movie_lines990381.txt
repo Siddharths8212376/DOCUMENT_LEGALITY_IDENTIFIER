@@ -1,0 +1,200 @@
+L570814 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ It's not brain surgery, Chuck.
+L570813 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ Can you handle it?
+L570812 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Alright!
+L570811 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ Mmm.  Same schedule's okay.
+L570810 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Thanks, Chuck.  I need the money.  Can I still work the hours around my classes?
+L570809 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ The pay's the same but you'll make more in tips.
+L570808 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I don't know.  I kinda had my heart set on being a cashier the rest of my life.
+L570807 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ Not really.  Do you think you can get here on time if I put you on the floor as a waitress?
+L570806 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Aren't I worth waiting for?
+L570805 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ You're late.
+L570804 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Mission control to Chuck, come in...
+L570803 +++$+++ u8091 +++$+++ m549 +++$+++ BREEN +++$+++ Come to the office, please.
+L570802 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Yes, Chuck?
+L570829 +++$+++ u8098 +++$+++ m549 +++$+++ TERMINATOR +++$+++ Wrong.
+L570828 +++$+++ u8092 +++$+++ m549 +++$+++ CLERK +++$+++ You can't to that...
+L570825 +++$+++ u8098 +++$+++ m549 +++$+++ TERMINATOR +++$+++ All.
+L570824 +++$+++ u8092 +++$+++ m549 +++$+++ CLERK +++$+++ Any one of them's ideal for home defense. Which'll it be?
+L570823 +++$+++ u8092 +++$+++ m549 +++$+++ CLERK +++$+++ You know your weapons, buddy.
+L570822 +++$+++ u8098 +++$+++ m549 +++$+++ TERMINATOR +++$+++ The Uzi 9 millimeter.
+L570821 +++$+++ u8092 +++$+++ m549 +++$+++ CLERK +++$+++ Just what you see, pal.
+L570820 +++$+++ u8098 +++$+++ m549 +++$+++ TERMINATOR +++$+++ A phased plasma pulse-laser in the forty watt range...
+L570819 +++$+++ u8092 +++$+++ m549 +++$+++ CLERK +++$+++ Anything else?
+L570925 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ We will, kiddo.
+L570924 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I'm going to a movie, kiddo. See ya'.  You and Matt have a good time.
+L570921 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ 
+L570920 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ That bum.  So what if he has a Porsche, he can't treat you like that...it's Friday night for crissakes.
+L570916 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I thought you did.
+L570915 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ Not lately.  Did you check messages?
+L570901 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ Don't wear the beige one.
+L570900 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I hate the beige one.
+L570899 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ Alright, the beige one.
+L570898 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You're a big help.
+L570897 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ Great.
+L570896 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ Great.
+L570895 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ What do you think?
+L570872 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I'll do the same for you sometime.
+L570871 +++$+++ u8093 +++$+++ m549 +++$+++ GINGER +++$+++ That guy's a jerk.  I did you a favor.
+L570870 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I had him hooked.  He was just about to ask me out. I could tell.
+L570856 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ What's it to ya?
+L570855 +++$+++ u8094 +++$+++ m549 +++$+++ MR. MILLER +++$+++ Compared to me she is.  How come you're not at the cash anymore?  They catch ya steal- ing?
+L570854 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Aha!  Is she young?
+L570853 +++$+++ u8094 +++$+++ m549 +++$+++ MR. MILLER +++$+++ That's none of your business.
+L570852 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You must have a girlfriend.
+L570851 +++$+++ u8094 +++$+++ m549 +++$+++ MR. MILLER +++$+++ What's it to ya?
+L570850 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I haven't seen you in here lately, Mr. Miller.
+L571267 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Cover...our footsteps...
+L571266 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ What are you doing?
+L571265 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ We did it, Kyle.  We got it.
+L571264 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Sarah.
+L571251 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You're not supposed to.
+L571250 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I don't think I like this.
+L571249 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You'll beg for mercy in a second.
+L571248 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ What are you doing?
+L571247 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Ticklish?
+L571246 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I bet you're ticklish.
+L571245 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Kyle...
+L571244 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I'm sorry.  I shouldn't have said...
+L571240 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Oh, Kyle.
+L571239 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ It's better that way.
+L571238 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ And so you feel nothing.
+L571237 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Pain can be controlled. You disconnect it.
+L571236 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ So much pain.
+L571234 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ No.  Never.
+L571233 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ A girl.  You know.
+L571232 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Someone?
+L571231 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ That's not what I meant. Was there someone special?
+L571230 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Good fighters.
+L571229 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Kyle, the women in your time...what were they like?
+L571228 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ No.  I'm not.
+L571227 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ It'll never be over, will it? Look at me, I'm shaking. Some legend, huh?  You must be pretty disappointed.
+L571226 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ If I do, you have to get away, disappear without a trace. Different country, different name, everything.  In case they send another one.
+L571225 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Don't say that.
+L571224 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Probably.  Sarah, if I get zeroed...
+L571223 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ He'll find us, won't he?
+L571221 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I want it to be over for me too. I feel like I slipped over some invisible line, that I'm in your world now.  Everything's the same, but I see it differently. It's like, there's you and me, and him...but nobody else can understand or help or even touch us.
+L571220 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Not possible.
+L571219 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I want it to be over for you.
+L571218 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ My whole life has been combat.
+L571217 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I want to buy you a hot dog so bad,Kyle...all the things you've never seen and done.  You're here, but wherever you go, and whatever you touch, you bring the war with you.
+L571216 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Hot dogs?
+L571215 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I was thinking, there's so much I've got to show you when we get through this. It's mind boggling, the pos- sibilities...Disneyland, the beach, movies...matinees with popcorn and foot-long hot dogs...
+L571214 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ That's good.  Now, seven more like that while I make fuses.
+L571213 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You must have had a fun child-
+L571212 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Make sure there's none on the threads, like this.  Now screw the end-cap on...very gently.
+L571211 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Nitroglycerin, basically. Bit more stable.  I learned howto make it when I was a kid.
+L571210 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ What's that?
+L571198 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Later.  I'm going out for materiel.  Keep this.
+L571197 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I'm dying for a shower.  You could use one too.  And we'd better check that bandage.
+L571195 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Yes.  And I don't want to know where you got it.
+L571194 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Is this enough?
+L571185 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I'm wrong here.  I wasn't meant to see this...
+L571184 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Kyle?
+L571177 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Fuck you!  Let go of me!
+L571176 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Let's go.  Time to move out.
+L571175 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Listen.  Understand.  I'm not a military objective, Reese.  I'm a person... You don't own me.
+L571174 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ That's not my mission.
+L571173 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Reese.  Think it through. We can prevent the war. Nobody else is gonna do it. If we go to anybody official we wind up back in jail and then that walking cuisinart has got us again.  We have to so it ourselves.
+L571172 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Tactically dangerous.  We lay low.
+L571171 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Well, we're gonna uninvent the bastard.  Eighty-six it.  We'll blow up the place...burn it down.  Something.
+L571170 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ That's the way it was told to me.
+L571169 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Whatever...they become the hotshot computer guys so they get the job to build El Computer Grande...Skynet...for the government.  Right?
+L571168 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Molecular-memory.
+L571167 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Didn't you say that they're going to develop this revolutionary new thing...
+L571166 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ What about it?
+L571165 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Look.  I found it.  Isn't that it?  Cyber Dynamics Corporation?
+L571163 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Why?
+L571162 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ That's where we're going.
+L571161 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ What's that?
+L571160 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Thanks a lot.
+L571155 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Let's get cleaned up, Kyle.
+L571154 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Bag some Z's?
+L571138 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ About where you're from.
+L571137 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ About what?
+L571136 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Okay.  Talk some more.
+L571135 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Sleep.  It'll be light soon.
+L571134 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You like it?  It's my first.
+L571133 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Good field-dressing.
+L571132 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ John gave me a message for you.  Made me memorize it. 'Sarah"...this is the message... 'Sarah, thank you.  For your courage through the dark years. I can't help you with what you must soon face, except to tell you that the future is not set... there is no such thing as Fate, but what we make for ourselves by our own will.  You must be stronger than you imagine you can be.  You must survive, or I will never exist.'  That's all.
+L571131 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Look, Reese, I didn't ask for this honor and I don't want it. Any of it.
+L571130 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ You'll learn.
+L571129 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ And anyway, what do I know about guerrilla warfare?
+L571128 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Ow!  No, it's okay.  It's better tight.
+L571127 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Come on, me? The mother of the future?  Am I tough? Organized?  I can't even balance my checkbook.  I cry when I see a cat that's been run over... and I don't even like cats.
+L571126 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I'm sure.
+L571124 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ It was an honor.  A chance to meet the legend.  Sarah Connor.  Who taught her son to fight...organize, prepare. From when he was a kid.  When you were in hiding, before the war.
+L571123 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ You volunteered?
+L571122 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I volunteered.
+L571121 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Stop!  I don't want to know. Hold still.  So...it was John that ordered you here?
+L571120 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ John never said much about him.  He dies.  Even before the war...
+L571119 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Well, at least I know what to name him.  I don't suppose you'd know who the father is? So I don't tell him to get lost when I meet him.
+L571118 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ You trust him.  He's got that strength.  You'd die in a second for John.
+L571117 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ What's he like?
+L571115 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Just talk.  Tell me about my son.  Is he tall?
+L571114 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ What?
+L571113 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ This is gonna make me puke. Talk about something.
+L571110 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Forget it?  Are you crazy? Let me see it.
+L571109 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ It's okay.  Forget it.
+L571108 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ We gotta get you to a doctor.
+L571106 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Caught one?  You mean you got shot?
+L571105 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I caught one, back there.
+L571103 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ White light.  Pain.  Like being ripped inside out... slowly.  Like being born, maybe.
+L571102 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Kyle, what's it like when you go through time?
+L571101 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Kyle.
+L571100 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Reese...you got a first name?
+L571099 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Come here.
+L571098 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Freezing.
+L571097 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ You cold?
+L571024 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Hunter Killers.  Patrol machines. Build in automated factories. Most of us were rounded up, put in camps...for orderly disposal.
+L571023 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ The what?
+L571022 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Didn't see the war.  I was born after, in the ruins.  Grew up there.  Starving.  Hiding from the H-K's.
+L571021 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Defense network computer. New. Powerful.  Hooked into everything. Trusted to run it all.  They say it got smart...a new order of intelli- gence.  Then it saw all people as a threat, not just the ones on the other side.  Decided out fate in a microsecond...extermination.
+L571020 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I don't understand...
+L571019 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ --everythingis gone.  Just gone.  There were survivors. Here.  There.  Nobody knew who started it.  It was the machines.
+L571017 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Tell me.  Just start at the beginning.
+L571016 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ There's so much...
+L571011 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Listen.  Understand.  That Terminator is out there.  It can't be reasoned with, it can't be bargained with...it doesn't feel pity of remorse or fear... and it absolutely will not stop. Ever.  Until you are dead.
+L571010 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Just let me go.
+L571007 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Right.
+L571006 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ And you're from the future too?
+L571005 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ One possible future.  Four your point of view.  I don't know the tech stuff.
+L571004 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ So, it's from the future, is that right?
+L571003 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ No.  Not yet.  Not for about forty years.
+L571002 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Hey, I'm not stupid, y'know. They can't build anything like that yet.
+L571001 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Pay attention.  The 600 series had rubber skin. We spotted them easy.  But these are new.  They look human.  Sweat, bad breath, everything.  Very hard to spot.  I had to wait 'til he moved on you before I could zero him.
+L571000 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Look, Reese, I know you want to help, but...
+L570999 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ But outside, it's living human tissue.  Flesh, skin, hair...blood.  Grown for the cyborgs.
+L570987 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ No. But you will.  It's very important that you live.
+L570986 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ This is a mistake.  I haven't done anything.
+L570982 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I'm here to help you.  Reese, Sergeant/Tech-Com, DN38416...
+L570981 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Yes.  Don't hurt me.
+L570980 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Do you understand?
+L571068 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Who is in authority here?
+L571067 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ I can help you...
+L571066 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Then why am I talking to you? Get out.
+L571065 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ I'm afraid that's not up to me.
+L571064 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ You've heard enough.  Decide. Are you going to release me?
+L571063 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Most official records were lost in the war.  The computer knew almost nothing about Connor's mother.  Her name. Where she lived, just the city. No scanner pictures.  The Terminator was just being systematic.
+L571062 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ Why were the other two women killed?
+L571060 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ Of course.
+L571059 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Surrounded by living tissue.
+L571058 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ Okay.  Okay.  But this...  cyborg...if it's metal...
+L571057 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ I didn't build the fucking thing.
+L571056 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ Why?
+L571055 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ You go naked.  Something about the field generated by a living organism.  Nothing dead will go.
+L571052 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Can't.  Nobody goes home. Nobody else comes through. It's just him and me.
+L571051 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ Then how are you supposed to get back?
+L571050 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ ...it had no choice. The defensive grid was smashed. We'd taken the mainframes... We'd won.  Taking out Connor then would make no difference.  Skynet had to wipe out his entire exist- ence.  We captured the lab complex.  Found the...what- ever it was called...the time-displacement equipment. The Terminator had already gone through.  They sent two of us to intercept, then zeroed the whole place. Sumner didn't make it.
+L571047 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ Yes.
+L571046 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ I see.  And this...computer, thinks it can win by killing the mother of its enemy, kill- ing him, in effect, before he is even conceived?  A sort of retroactive abortion?
+L571045 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ SKYNET.  A computer defense system built for SAC-NORAD by Cyber Dynamics.  A modified Series 4800.
+L571044 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ And who was the enemy?
+L571040 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ The year 2027?
+L571039 +++$+++ u8095 +++$+++ m549 +++$+++ REESE +++$+++ With the One Thirty Second under Perry, from '21 to '27--
+L571038 +++$+++ u8097 +++$+++ m549 +++$+++ SILBERMAN +++$+++ So.  You're a soldier. Fighting for whom?
+L571082 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ Okay.
+L571081 +++$+++ u8100 +++$+++ m549 +++$+++ VUKOVICH +++$+++ Go ahead.  You're safe.  There're thirty cops in this building.
+L571080 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I can't sleep.
+L571079 +++$+++ u8100 +++$+++ m549 +++$+++ VUKOVICH +++$+++ Why don't you just stretch out here and get some sleep.  It'll take your mom a good hour to get here from Redlands.
+L571034 +++$+++ u8096 +++$+++ m549 +++$+++ SARAH +++$+++ I guess so.  You're a doctor?
+L571033 +++$+++ u8100 +++$+++ m549 +++$+++ VUKOVICH +++$+++ Sarah.  Sarah, this is Dr. Silber- man.  I'd like you to tell him everything Reese said to you.  Do you feel up to it?

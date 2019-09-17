@@ -1,0 +1,200 @@
+L576801 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ But this isn't the jungle!  This is New York.  How did it get here?  A thing like that crossed two continents.  It makes no sense!
+L576800 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ It's not supernatural.  Mbwun is an animal.  Part lizard, part human, a genetic freak of some kind, like the half-goat, half-sheep they found last year in the jungles of Vietnam.
+L576799 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I don't know how to deal with this. It's hellish.  Like nothing I ever saw.  I'm not trained to deal with a monster, a supernatural creature like that.
+L576727 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ That would fit.  It's nocturnal. Quick.  Come inside.
+L576726 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ No.  A chromium alloy tipped .45 caliber bullet bounced off that thing's skull like a spit ball.  I think it was bothered by my light.
+L576725 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Wounded?
+L576724 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Gone.
+L576723 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ You're not.  Where is it?
+L576722 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ No.  I think I'm hallucinating.
+L576721 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Pendergast?  Are you all right?
+L576502 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ We need someone to take us to the secure storage area.
+L576501 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ When DNA is defective, it often uncontrollably replicates long repeating sequences of the same base pair.  Viruses can damage DNA.  So can radiation, certain chemicals.  Even cancer.  Let's let the G.S.E. sort it out.  I have to get started.  This will take several hours.
+L576500 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Genetic damage?
+L576468 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I don't know.  Mr. Pendergast.  Do me a favor.  Get me a DNA readout on that claw.
+L576467 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ What was it?
+L576466 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ All right.  This is hard for me.  I'm a scientist.  I like order and logic. Sometimes too much.  There's got to be an explanation.  There can't be an animal in there.  But I saw something.
+L576465 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ They're all heavily armed.
+L576464 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I didn't imagine it.  I know what I saw.  Are you sure there are enough men in there?
+L576463 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Dr. Green...
+L576459 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ All right.  If you're positive.
+L576458 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ That's not what I saw.
+L576457 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Behind me.  Over there.
+L576456 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Where did you see it?
+L576455 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ It's okay, I'm all right.  I remember now... It was an animal.  Something large!  I could smell it.  It was hunting me.  I saw two green eyes in the dark.
+L576454 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ You were behind me?  Running after me?
+L576453 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I heard you calling and I ran after you, but you kept disappearing and I couldn't keep up.
+L576452 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I don't know.
+L576451 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ What happened?
+L576445 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ All right.  I'm as macho as you are. Perhaps.
+L576444 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I'm not sure.  We should split up. You take that hall and I'll take this one.
+L576443 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Where would we find it?
+L576442 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Would you mind showing it to me?
+L576441 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I don't know.  He sent back a statue that's supposed to be an exact representation.  But I've never seen it.  It's in the exhibit.
+L576440 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I don't think so.  I think we were meant to think it was Mbwun.  Did Whittlesley's monster have claws?
+L576439 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ My God.  Then it was an animal.
+L576438 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Something came up in autopsy tonight.  Imbedded in Beauregard's body we found a claw.
+L576437 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I don't understand.
+L576436 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ What if Whittlesley arrived on the tepui and no monster was there?  Was he desperate enough to create one?
+L576435 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ No.  I'm all right.  I won't let this affect me anymore.  John wouldn't get help.  His ego endangered the lives of others.  His theory came first.
+L576434 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ No one knows.  The Kothoga who live on the tepui are cannibals.
+L576433 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ What happened?
+L576432 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Yes.  He developed his own theory that he called the Calisto Effect. It held that evolution wasn't always gradual or driven by natural selection.  The environment would sometimes cause sudden and grotesque changes which could result in a "monster species".  It made no sense. But he felt he had evidence that Mbwun was such a monster, living in isolation on the tepui for thousands of years.
+L576431 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ A monster?
+L576430 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ A legendary monster called Mbwun.
+L576429 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Tell me about the last expedition. What was he looking for?
+L576428 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ He was afraid of himself.  He tried suicide once.  He was ill.  Manic depressive.  He had wild emotional highs and lows.  Not a happy affliction for a scientist.  He'd been revered in our community.  By the end he was a joke.
+L576427 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ You were afraid of him, weren't you?
+L576426 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ That was two years ago.  John was still in love with me.  He wouldn't leave me alone.
+L576425 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I ran an internet search on Dr. Whittlesley.  Got a list of his scholarly articles and the engagement announcement in the Times.  I also found a record of your restraining order.
+L576424 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ How did you know that?
+L576423 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ You were going to be married.
+L576422 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Yes.  Once.  We met at Columbia.  John held the Cadwalader Chair in Statistical Paleontology when I was a grad student there.
+L576421 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ You loved him.
+L576420 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ John couldn't have anything to do with a horrible thing like that.  He was a fine man despite his problems --
+L576419 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ The people killed were mauled and their brains were eaten.  Just like Beauregard.  One part of the brain was extracted with surgical precision.  The hypothalamus and thalamus to be exact.
+L576418 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I don't understand.
+L576417 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Disappeared.  His body wasn't among the victims.
+L576416 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ And John?
+L576415 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Dr. Whittlesley was last seen in Belem, Venezuela a week after the rest of his expedition disappeared. A taxi driver drove him to the harbor where he boarded a cargo boat.  That boat washed up in my district.  Everyone on board was killed.
+L576414 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ You have time to talk?
+L576413 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ If he were alive he'd have contacted me.
+L576412 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Maybe not.
+L576411 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Somehow, when all this happened... I knew it would come back to John.  Is he really dead?
+L576410 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ No.  I came to talk about Dr. John Whittlesley.
+L576409 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ With a DNA analysis from a fossil you can use this program to tell the species and sex of the animal, whether it was nocturnal, what it ate, how it hunted, how big it was...  You aren't here for a lesson in DNA.
+L576408 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ How does it work?
+L576407 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ An invention of mine.  It's a computer program designed to describe the characteristics of a given species from a reading of its DNA.  I call it the Genetic Sequence Extrapolator.
+L576406 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Special Agent Pendergast.  FBI. Forgive me.  I guess I was snooping. What is this?
+L578852 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ It doesn't matter.  I'll make other arrangements.
+L578851 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ You want to book the flight?
+L578850 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ That's right.
+L578849 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ I thought you were in a hurry.
+L578848 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Why wouldn't I?
+L578847 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ I do have a fabulous rate on a cruise ship departing for Fiji tomorrow.  But you wouldn't want to do that.
+L578846 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ You are a travel agent, aren't you?  "Doris"?  Your job is to help people travel.
+L578845 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ It's the busy season.
+L578844 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ <i>A month.</i>
+L578843 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ I'm sorry.  I don't have anything for at least a month.
+L578842 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Today.
+L578841 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ When do you want to leave, remembering, of course, you do lose a day on the way there?
+L578840 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ One.
+L578839 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ Viti Levu.  For how many?
+L578838 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ I'm sorry, er...the biggest one.
+L578837 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ <i>Where</i> in Fiji?  What island?
+L578836 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ <i>Fiji.</i>
+L578835 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ Where exactly?
+L578834 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ I want to book a flight to Fiji.
+L578833 +++$+++ u8172 +++$+++ m555 +++$+++ AGENT +++$+++ I'm sorry to keep you.  How can I help?
+L579147 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Do it!
+L579146 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ He doesn't care.
+L579129 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ <i>Storm</i> music...Wagner...
+L579128 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ What music?
+L579127 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Cue music...
+L579115 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Sweep the harbor.
+L579114 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ Why would we--
+L579113 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We're not watching the sea.
+L579112 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ It's just a matter of time.
+L579111 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ What have we missed?
+L579110 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ I'm sure we'll get him on this next sweep.
+L579095 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ He has to be on foot.  He has the world's most recognizable face.  He can't disappear.
+L579094 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ All prop cars accounted for?
+L579093 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ We've declared a curfew.  Everyone else is at first positions.
+L579076 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ He gave it back to his father.
+L579075 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Give me a shot from Truman's ring.
+L579073 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ He was tidying up his garbage.  I was going to call you.  But half-way through, he gave up and fell asleep.
+L579072 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ What happened down there?
+L579070 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ What's on the ClockCam?
+L579069 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ What's to see?
+L579068 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Why wasn't I told?  Any unpredictable behavior has to be reported.  Is that the best shot we can get?
+L579067 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ He moved down there after Meryl packed up and left.
+L579066 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Why is he in the basement?
+L578963 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ No, hold back...
+L578962 +++$+++ u8184 +++$+++ m555 +++$+++ SIMEON +++$+++ Close up?
+L579041 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Let's take another call.  London, England, you're on "Tru Talk."
+L579040 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We've learnt about life as Truman has and, despite the complaints of a minority, it's been an overwhelmingly positive experience, for Truman and for the viewing public.
+L579034 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ The Hague for Christof...The Hague?...lost them.  Hollywood, California, you're on "Tru Talk."
+L579033 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ I've been tempted.  But I think it's important to retain objectivity.  I wouldn't want to get emotionally caught up.
+L579032 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ You've never actually met Truman, yourself.  Never thought about doing a cameo--playing a veterinarian, or a priest, something like that?
+L579030 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We accept the reality of the world with which we're presented.  As the show expanded, naturally we were forced to manufacture ways to keep Truman in Seahaven - demonstrating that every venture is accompanied by a risk.
+L579029 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Why do you feel that Truman's never come close to discovering the true nature of his world?
+L579028 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ And it's all available in the "Truman" Show" catalogue.  Operators are standing by.
+L579027 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ There's nothing on the show I don't use myself.
+L579026 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ All products carefully chosen and tested by you for quality and aesthetic value.
+L579025 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Yes, everything you see on the show is for sale - from the actors' wardrobe, food products, to the very homes they live in--
+L579024 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ No, of course not.  And since the show runs 24 hours a day with no commercial breaks the staggering profits are all generated from product placement.
+L579023 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ People forget it takes the <i>population</i> of an entire country to keep the show running.
+L579022 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ And the show now generates a yearly income equivalent to the gross national product of a small country.
+L579021 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ That's correct.
+L579020 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Who knew that a show originally meant to last one year - "Bringing Up Baby" - would turn into a "cradle to grave" concept.  He is in fact the first child in the world to be legally adopted by a corporation.
+L579019 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ In competition with five other unwanted pregnancies - the casting of a show determined by an air date - he was the one who arrived on cue.
+L579018 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Of course, his eagerness to leave his mother's womb also meant he was the one selected.
+L579017 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ He was curious from birth - premature by two weeks, as if he couldn't wait to get started.
+L579016 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Let me demonstrate some examples.
+L579015 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ We should remind viewers that Truman, especially as a child, presented a challenge for the production.
+L579010 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Istanbul, Turkey, you're on with master videographer, Christof.
+L579009 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ As with our own lives, the only people he can't cast are his family.  Otherwise he has final approval, able to elevate an extra into a lead role as was the case with his only real friend, Marlon, or alternatively relegate a star to a bit player.
+L579008 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Of course, Truman has always been very much in on casting.
+L579007 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Certainly a nomination.
+L579006 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Are we talking Emmies?
+L578998 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Let's go to some of those viewers' calls.
+L578997 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We find many viewers leave him on all night for comfort.  Haven't you ever watched your child or your lover sleep?
+L578996 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ But how do you account for the popularity of those eight hours a day when Truman sleeps?
+L578995 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Not only does he give us a glimpse of the truth, he gives us a glimpse of ourselves.
+L578994 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ I prefer to think of it as a mirror.
+L578993 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ A window onto the human condition?
+L578992 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We've become tired of watching actors give us phony emotions, bored with pyrotechnics and special effects.  While the world he inhabits is counterfeit, there's nothing fake about Truman himself.  No scripts, no cue cards.  It's not always Shakespeare but it's genuine.  That's how he can support an entire channel.
+L578991 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ It has to be the reality.
+L578990 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ But recent events have been so dramatic, it does raise the perennial question. What keeps us watching this one man twenty-four hours a day - eating, sleeping, working, sitting for hours in contemplation?
+L578989 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ As you know ratings have never been our primary goal.  I imagine we'll lose those voyeurs only interested in witnessing Truman's latest torment.  However, I'm certain that our core audience will remain loyal.
+L578988 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Let's talk ratings.  "Truman" has always enjoyed top ten status but the huge surge over the last few days--how do you hope to sustain that audience now that Truman appears to have reconciled himself?
+L578987 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Of course.
+L578986 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Amnesia.
+L578985 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ How <i>do</i> you intend to explain his twenty- two year absence?
+L578984 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ That and a fat, new contract.
+L578983 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ I understand he's hardly had a life of his own since he left the show.  How did you convince him--was it the opportunity to be close to Truman again?
+L578982 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Since Kirk started this whole crisis in Truman's life, I came to the conclusion that he was the only one who could end it.
+L578981 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ --and certainly the first time that an intruder has been rewarded with a starring role.  I really must congratulate you on writing Kirk back in.  A master stroke.
+L578980 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ --a dead one at that.
+L578979 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Of course, there hasn't been anything to compare with this - the first time an intruder has been a former cast member--
+L578975 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ We <i>have</i> had our close calls in the past.
+L578974 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ The catalyst for the recent dramatic events was of course Truman's father, Kirk, and his infiltration onto the show. Before we discuss that, it's worth reminding viewers that this isn't the first time someone from the outside world has tried to reach Truman.
+L578973 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Thank you.
+L578972 +++$+++ u8177 +++$+++ m555 +++$+++ INTERVIEWER +++$+++ Welcome.
+L579164 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ --You never had a camera in my head.
+L579163 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ Truman, I've watched you your whole life. I saw you take your first step, your first word, your first kiss.  I know you better than you know yourself.  You're not going to walk out that door--
+L579162 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ I have a map.
+L579158 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ <i>You</i> were real.  That's what made you you so good to watch.
+L579157 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Nothing was real.
+L579156 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ You're the star.
+L579155 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ <i>A show.</i>  Then who am I?
+L579154 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ A show - that gives hope and joy and inspiration to millions.
+L579153 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ The creator of what?
+L579152 +++$+++ u8173 +++$+++ m555 +++$+++ CHRISTOF +++$+++ I'm the creator.
+L579151 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Who are you?
+L578732 +++$+++ u8174 +++$+++ m555 +++$+++ DAUGHTER +++$+++ I can't believe he married Meryl on the rebound.
+L578731 +++$+++ u8181 +++$+++ m555 +++$+++ MOTHER +++$+++ Because his mother got sick - very sick.  He couldn't leave her.  He's a kind boy, maybe too kind.
+L578730 +++$+++ u8174 +++$+++ m555 +++$+++ DAUGHTER +++$+++ But why didn't he just follow her to Fiji?
+L578676 +++$+++ u8181 +++$+++ m555 +++$+++ MOTHER +++$+++ Shhh!
+L578675 +++$+++ u8174 +++$+++ m555 +++$+++ DAUGHTER +++$+++ The memory of who?
+L578674 +++$+++ u8181 +++$+++ m555 +++$+++ MOTHER +++$+++ They removed all physical trace of her but they couldn't erase the memory.
+L578673 +++$+++ u8174 +++$+++ m555 +++$+++ DAUGHTER +++$+++ What's he doing?
+L578638 +++$+++ u8176 +++$+++ m555 +++$+++ GUARD 2 +++$+++ Guess I always thought they'd adopt.
+L578637 +++$+++ u8175 +++$+++ m555 +++$+++ GUARD 1 +++$+++ Sure she would.
+L578636 +++$+++ u8176 +++$+++ m555 +++$+++ GUARD 2 +++$+++ You think she'd go through with it?
+L578635 +++$+++ u8175 +++$+++ m555 +++$+++ GUARD 1 +++$+++ Why not?
+L578634 +++$+++ u8176 +++$+++ m555 +++$+++ GUARD 2 +++$+++ It's not gonna be his, you idiot.
+L578633 +++$+++ u8175 +++$+++ m555 +++$+++ GUARD 1 +++$+++ How can they have a child?
+L578701 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ I...I can't.
+L578700 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ It's beautiful!  What are you waiting for?
+L578699 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ I think I've studied enough.
+L578698 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ Well, what do you want to do?
+L578697 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ If we don't go now, it won't happen.
+L578696 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Right now?  We've got finals tomorrow.
+L578695 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ Now.
+L578694 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Actually, I'm free Sunday.
+L578693 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ Saturday?
+L578692 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ No.
+L578691 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ No?  Really?  Good, I mean, I thought possibly a pizza.  How about Friday?
+L578690 +++$+++ u8178 +++$+++ m555 +++$+++ LAUREN +++$+++ No...I, er.
+L578689 +++$+++ u8186 +++$+++ m555 +++$+++ TRUMAN +++$+++ You have a boyfriend?  Of course you do.

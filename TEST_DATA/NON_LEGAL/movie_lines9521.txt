@@ -1,0 +1,200 @@
+L27557 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Get her on-line.  Now!
+L27556 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Drains right into the Central Reservoir.
+L27555 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ And?
+L27554 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ I found it...
+L27552 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Quick!  Run a trace on the culvert leading off the auto-shop maintenance pit.
+L27551 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Comin' up the Central Reservoir.
+L27550 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Where is she?
+L27533 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ What?  What's wrong?  What is it?
+L27532 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Are you alright?
+L27467 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ We're not gonna make it, are we?
+L27466 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Give or take.
+L27405 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Too many.
+L27404 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ How many of them are there?
+L27401 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ We're what!?
+L27400 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Cassie, thank Christ!  We're under attack.
+L27399 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ What's happening?
+L27398 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Seal everything now!
+L27058 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ It's on the board.
+L27057 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ A three-second burn to port, on my mark.
+L27056 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ What do you need?
+L27052 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Okay, give me the numbers.
+L27051 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Can you patch me a temporary loop on DCMGS?
+L27011 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Yeah.  Turns out they dropped straight out of hyperspace.
+L27010 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ We figured on it being a magnetic anomaly, but we ran a back-trace just to make sure.
+L27009 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ A pair of incomings.  They popped-up on the medium-range about thirteen twenty-four local time.
+L26987 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Better tell the boss.
+L26986 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ That's the second time I ran it, and it still reads the same.
+L27007 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ No, but I got something that might interest you.
+L27006 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ I lose 'em all, that's why I'm still out here on this rock.  Anything else you wanna ruin my day with?
+L27005 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ You win some, you loose some.
+L27004 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Fucking great.  I invested some money in them.
+L27003 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Yesterday.  We got the Network feed from Gateway; it was the top story on 'Sixty Seconds'.  Biggest market crash since twenty-four.
+L27002 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Shit.  When?
+L27001 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ MarsCo went belly-up on the Dow Jones.
+L27589 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ But...
+L27588 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ If I can get to the chopper, I'll meet you at the rendezvous.  Don't wait for me.
+L27507 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ We've dumped the whole data-base from one of the cleaning remotes into the helmet. It'll project the route through the sewer system onto the inside of the glass as you go.
+L27506 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Deal.
+L27505 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ About thirty minutes.  Those are slimmed-down tanks, so no stopping to admire the scenery.
+L27504 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ How much air-time have I got?
+L27484 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Alright, let's keep calm.  We've got to have an option of some sort... there's got to be a way out of this.
+L27483 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Oh, man...
+L27460 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Do it.
+L27459 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Not yet.
+L27458 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Has anybody talked to them?
+L27457 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Auto-shop's sealed, but those boys are cut-off.
+L27454 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What's our weapons situation?
+L27453 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Unconfirmed reports of eighteen or so far, but the numbers are all over the place.
+L27446 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Nooooo!
+L27445 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ It's too late!
+L27239 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Force the door.
+L27238 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ The door's sealed from inside.  Doc Revna's in there, and it sounds like Ackland's going nuts.
+L27237 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What's going on?
+L27060 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Match it!
+L27059 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Picking up velocity.
+L27046 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Can we move it to a different orbit in time?
+L27045 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Seven minutes ago, the third course change in an hour.  Those incomings are going to skim past the communications platform just a little too close for comfort.
+L27044 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ When?
+L27022 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ We ran a trajectory simulation.  If they carry on along that path, it's possible they'll make intra-orbital insertion.
+L27021 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Where're they headed?
+L27013 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Sounds like a couple of escape shuttles.
+L27012 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ Curious thing is, the mass detector says they're too small to carry a deep-space drive.
+L27595 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Couple more seconds!
+L27594 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Move it baby, or they're gonna be chewin' on my cojones!
+L27349 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ No, he's stopped; he's totally still. Just take it nice and easy, babe. Nice and easy...
+L27348 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Is it still moving?
+L27347 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ It's alright, it's cool...
+L27346 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Oh, man.  That's no glitch!
+L27345 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ I dunno.  Might be a glitch.
+L27344 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ How?
+L27343 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Wait.  Lost it.
+L27342 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Yeah, I...
+L27341 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Can't see a thing.  Are you sure?
+L27340 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Just behind us, over to the right.
+L27339 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ What?  Where?
+L27338 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ I'm picking up another signal.
+L27337 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ What's wrong?
+L27336 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Hold it, hold it...
+L27330 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ It's moving slow.  About... eleven metres. On the left.
+L27329 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Still got him?
+L27327 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Yeah, I got it.
+L27326 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Careful of that edging there...
+L27325 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Anything you say, Mammacitta.
+L27324 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ But I'm going first...
+L27323 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ I'll come with you.
+L27322 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ What?
+L27321 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Alright, okay.  Look...
+L27319 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Hey, fair enough.  If you won't come, I'll handle it myself.
+L27318 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ What the hell are you doing?
+L27317 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Fuck the bonus.  I hate heights.  You wouldn't get me up there even if it wasn't night.
+L27316 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ C'mon De Vries.  Think of the bonus.
+L27315 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Forget it, man.
+L27314 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ I've seen this mother, De Vries.  We can bag it, no problem.
+L27313 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ What?  Are you nuts?  Just the two of us?
+L27301 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Just got a reading...
+L27300 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ What?
+L27299 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Whoa, wait a minute...
+L27298 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ That's a fact.
+L27297 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Goldsmith's gonna be plenty pissed at losing one of her babies.
+L27296 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ There's no way a rhino'd survive that drop.
+L27295 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ That's impossible, man.  This fence is high-tensile.  The breaking tolerance'd stand up to the strain of a rhino, easy. I know, I put it up.
+L27294 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ One of 'em must have escaped.
+L27293 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Take a look at this.
+L27292 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ What?
+L27291 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Hey, Guttierez?
+L27279 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ I dunno.
+L27278 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Something spooking the rhinos?
+L27277 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Next time you have a thought like that? Keep it to yourself.
+L27276 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Yeah?
+L27275 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ De Vries?
+L27274 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ That's what I mean.  This is the quietest I've ever heard it.  It's unnatural.
+L27273 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Listen to what?
+L27271 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Hey!  I was in shape before we started doing this.
+L27270 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ Ah, quit griping.  Keeps you in shape doesn't it?
+L27269 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ One more sweep... one more sweep.  I'm getting tired of one more fuckin' sweep. We're been lookin' for this thing for three days now, and found zip.
+L27268 +++$+++ u3589 +++$+++ m237 +++$+++ DE VRIES +++$+++ C'mon, man.  One more sweep.
+L27260 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ One final point.  Killing this sonuvabitch ought to be a reward in itself.  However, just to add a little incentive... I'm authorizing a hefty bonus in the next pay-packet for whoever does.
+L27259 +++$+++ u3590 +++$+++ m237 +++$+++ DILLER +++$+++ Okay.
+L27258 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Nobody wander off on their own until it's found.  Keep in pairs. Diller, once the first team's done their sweep I want you to go down with Annie to Three-Pump while she replaces it.
+L27250 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Where does that lead to?
+L27249 +++$+++ u3590 +++$+++ m237 +++$+++ DILLER +++$+++ Secondary fluidic shunt for the sewage system.  I found the grating ripped right off.  The little fucker was strong.
+L27236 +++$+++ u3590 +++$+++ m237 +++$+++ DILLER +++$+++ York just turned up outside.  We're trying to get him into Infirmary.
+L27235 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What happened?
+L27042 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Thanks.
+L27041 +++$+++ u3590 +++$+++ m237 +++$+++ DILLER +++$+++ Miss Noguchi!  You're wanted in admin.
+L27513 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ How tight are these shafts?
+L27512 +++$+++ u3591 +++$+++ m237 +++$+++ DRISCOLL +++$+++ We had to.  They were just too cumbersome for some of the conduits you're gonna have to negotiate.  Besides, all the crap floating around reduces visibility to the extent where I doubt having helmet lights would have make that much difference, anyway.  Maintenance lights down there oughta be enough to do the trick.
+L27509 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Sounds great.
+L27508 +++$+++ u3591 +++$+++ m237 +++$+++ DRISCOLL +++$+++ Yeah, I stripped down a motion tracker and hardwired it through to the helmet pick-ups, too.  That's also on the display.
+L27493 +++$+++ u3591 +++$+++ m237 +++$+++ DRISCOLL +++$+++ Uh-huh.
+L27492 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Is this the suit?
+L27490 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Which mean physically going outside.
+L27489 +++$+++ u3591 +++$+++ m237 +++$+++ DRISCOLL +++$+++ Nah.  It's got programmable facilities, but it was never rigged for remote operation.  Someone'd have to go up to the cab to get it up and running.
+L27488 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ That sounds promising.  Can we operate the crane from here?
+L27456 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Auto-shop?
+L27455 +++$+++ u3591 +++$+++ m237 +++$+++ DRISCOLL +++$+++ Shit!  Our armory's a big blue box from the back shelf of stores.  We got about two clips left for an autoloader, and that's it.
+L27214 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ And, nothing.  They checked out just fine.
+L27213 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ And...?
+L27164 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Appreciate that.
+L27163 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ Give me twenty minutes and I'll do it myself.
+L27162 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ She was running a little sluggish on the way back.  Think the turbines might be playing up.
+L27161 +++$+++ u3592 +++$+++ m237 +++$+++ GUTTIEREZ +++$+++ What's the problem?
+L27160 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Hey, Jan.  See if you can get someone to check out the chopper.
+L27575 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Blow those suckers, Driscoll!
+L27574 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Okay, I'm out of here!
+L27571 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Right.  Auto-shop, you all set?
+L27570 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Okay, we're in business.
+L27524 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Right.  When you've done that, don't waste any time getting out of there.  Once that crane starts moving...well, it's bound to provoke some kind of response.
+L27523 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Sorry.  Two green enabling buttons...
+L27522 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Okay, I pull the access panel off of the console.  Insert the disk, and press the green enabling button...
+L27521 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Let's just run through it one more time so I know you've got it straight.
+L27520 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Thanks.
+L27516 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Forget it.  I wouldn't ask somebody to do something I wouldn't do myself.  Where's the disk?
+L27515 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ There's still time to back-out.
+L27511 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What?  Why?
+L27510 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ It's not all good news.  We had to take off the helmet lights.  You'll be going in blind.
+L27470 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Well... try the headset.
+L27469 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Communications to auto-shop go through an F.O. link off the main trunk. That's down with the other feeds.
+L27464 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Looks like it.
+L27463 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ They knocked out the external feeds.
+L27452 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ How many... how many people are missing?
+L27451 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Everything on this module is locked and sealed.  We've lost 'B', 'C', and 'E' wings, but 'E' was the only one we didn't manage to totally evacuate.
+L27252 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ You've checked that end?
+L27251 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Central Pumping.  All the waste gets  treated, broken-down, and flushed out into the swamp.  If it wanted a quick exit then it really lucked- out.
+L27248 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What is that?
+L27247 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ It left a melted trail on the deck all the way down to here...
+L27055 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Punch me in a solution for their delta-vee.
+L27054 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Compensate!
+L27053 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ They've changed their heading again.
+L27048 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Get off an all-bands emergency distress, and put it on a repeater.
+L27047 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Already working on it.
+L27025 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Just give them the facts.  They can leap to their own conclusions.
+L27024 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Fort Powell.  What do we tell 'em?
+L27016 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Done it already.  Nothing matches.
+L27015 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Have you got an updated Lloyds' Almanac to cross-reff them through?
+L27014 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ That's what we thought.
+L27616 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ No!
+L27615 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ You have to...
+L27614 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ I... I can't!
+L27613 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ I can... feel it moving around inside me. You've got to kill me.
+L27612 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What can I do?
+L27611 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ They...they snapped my legs to fit... fit me in here.  I don't...remember what happened next.
+L27435 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Don't wait for me!
+L27434 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Hurry it up.
+L27423 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Detour.  Other way's blocked...
+L27422 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ That's the wrong way!
+L27393 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ I'm out of ammo.  Get inside, get inside!
+L27392 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What?
+L27267 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ What do I think?  I think if those Marines from Powell don't shift their butts getting here, we're gonna get caught up to our necks in the middle of something we shouldn't.
+L27266 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ So, what do you think?
+L27256 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Alright.  Pull some trackers and headsets out of stores, and I'll sign a release for the weapons.  Cassie, organise a team roster and put it on the board.
+L27255 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Cornering it shouldn't be a problem.  Each part of this station is basically a self-sufficient deep-space transport module running off external couplers.  If we disconnect them and seal off every section, we've got a ceiling of about thirty-six hours on internal power.  That should give us ample time to find it.
+L27207 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Ackland?  I don't know him well enough to say.  If we were back on Earth we could run him though an Aldhoven test and find out for sure. There's not much we can do out here.
+L27206 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Do you believe him?
+L27178 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Again?  How long before we start noticing the difference?
+L27177 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Think I spoke too soon...
+L27173 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What do you mean?
+L27172 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Ah, don't worry about I.C.C.  They're the least of your problems right now.
+L27171 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ When we get the link back, and I send this in, I.C.C.'ll throw a fit.
+L27170 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Agreed.

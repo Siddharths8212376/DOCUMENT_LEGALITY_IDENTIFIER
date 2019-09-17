@@ -1,0 +1,200 @@
+L110455 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ M'lady... what kindness of you to visit a stranger.
+L110393 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ No. But can you love me for the sake of all you loved and lost? Or simply love me... because I love you?
+L110392 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ I cannot love you for the sake of revenge.
+L110391 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ You understand. Consider, before you laugh and say no. You will never own a throne, though you deserve one. But just as the sun will rise tomorrow, some man will rule England. And what if his veins ran not with the blood of Longshanks, but with that of a true king?
+L110390 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ I have taken vows. More than one. I've vowed faithfulness to my husband, and sworn to give him a son. And I cannot keep both promises.
+L110389 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ You have... you have a husband.
+L110386 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ Because of the way you're looking at me now. The same way... as when we met.
+L110385 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Why did you?
+L110380 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ It does me good to see you.
+L110379 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ A meeting in a barn. It had to be a trap. And only you would know I would be aware of it.
+L110274 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ She was my wife. We married in secret because I would not share her with an English lord. They killed her to get to me. And she was pregnant.
+L110273 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ I understand you have suffered. I know... about your woman.
+L110272 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ SLAVES ARE MADE IN SUCH WAYS!
+L110271 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ Peace is made is such ways.
+L110270 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ A Lordship. And gold. That I should become Judas.
+L110269 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ Let us talk plainly. You invade England. But you cannot complete the conquest, so far from your shelter and supply. The King proposes that you withdraw your attack. In return he grants you title, estates, and this chest with a thousand pounds of gold, which I am to pay to you personally.
+L110260 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ That is not possible.
+L110259 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ York was the staging point for every invasion of my country. And that royal cousin hanged a hundred Scots, even women and children, from the city walls.
+L110258 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ Did God make you the sacker of peaceful cities? The executioner of the king's nephew, my husband's own cousin?
+L110257 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ I have been given nothing. God makes men what they are.
+L110256 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ I understand that you have recently been given the rank of knight.
+L110255 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ But now that I am here, will you speak with a woman?
+L110254 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ It's battle I want, not talk.
+L110253 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ I come as the king's servant, and with his authority.
+L110252 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Wife of Edward, the king's son?
+L110251 +++$+++ u638 +++$+++ m40 +++$+++ PRINCESS +++$+++ I am the Princess of Wales.
+L110309 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ And I will consult with mine.
+L110308 +++$+++ u639 +++$+++ m40 +++$+++ ROBERT +++$+++ I must... consult with my father.
+L110307 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Then tell me what a king is! Is he a man who believes only what others believe? Is he one who calculates the numbers for and against him but never weighs the strength in your own heart? There is strength in you. I see it. I know it.
+L110306 +++$+++ u639 +++$+++ m40 +++$+++ ROBERT +++$+++ I am trying.
+L110305 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ War finds me willing. I know it won't bring back all I have lost. But it can bring what none of us have ever had -- a country of our own. For that we need a king. We need you.
+L110220 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Nobles? What does that mean -- to be noble? Your title gives you claim to the throne of our country. But men don't follow titles, they follow courage! Your arm speaks louder than your tongue. Our people know you. Noble and common, they respect you. If you would lead them toward freedom, they would follow you. And so would I.
+L110219 +++$+++ u639 +++$+++ m40 +++$+++ ROBERT +++$+++ I'm no coward! I want what you want! But we need the nobles.
+L110218 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ We all end up dead. It's only a question of how. And why.
+L110217 +++$+++ u639 +++$+++ m40 +++$+++ ROBERT +++$+++ No. But from top to bottom this country has no sense of itself. Its nobles share allegiance with England and its clans war with each other. If you make enemies on both sides of the border, you'll end up dead.
+L110216 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ And the common man who bleeds on the battlefield, does he risk less?
+L110215 +++$+++ u639 +++$+++ m40 +++$+++ ROBERT +++$+++ Wait! ...I respect what you said. But remember, these men have lands, castles. Much to risk.
+L110400 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Aye. But it won't let me dream.
+L110399 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ Come, it'll help you sleep.
+L110156 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Bring out our spearmen and set them in the field.
+L110155 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ Fine speech. Now what do we do?
+L110107 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ No English lord would trust an Irishman!
+L110106 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ I thought I was dead when ya pulled that dagger!
+L110099 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ Exactly.
+L110098 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ Who would do such a thing?
+L110097 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ The dogs have a scent. My scent. Someone must have given it to them.
+L110096 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ What's the crazy man saying, Lord?
+L110095 +++$+++ u641 +++$+++ m40 +++$+++ WALLACE +++$+++ They've tricked us.
+L110094 +++$+++ u640 +++$+++ m40 +++$+++ STEPHEN +++$+++ We can't stop!
+L117640 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ When I asked Evan about his drawing, well, he didn't remember doing it.
+L117639 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What?
+L117638 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Of course. There is one more thing, Mrs. Treborn. And I feel bad for mentioning it...
+L117637 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Thank you for showing it to me first. I'll... I'll take care of it. Can I have the picture?
+L117635 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Yesterday I had all the children draw pictures of what they wanted to be when they grew up. Most of them made drawings of what their parents did, but this...
+L117634 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What is it?
+L117633 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ I was going to show this to the principal, but I wanted to talk to you first.
+L117630 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I'm sorry, but can it wait til tonight? I'm already late for work --
+L117629 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Mrs. Treborn! I need to speak with you!
+L118342 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ The hemorrhaging... the neural damage is irreparable. I'm frankly surprised he still has use of his motor functions.
+L118341 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ No dances, just tell me.
+L118162 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ So what did you find.
+L118161 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Actually, these tests weren't available twenty years ago.
+L117772 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Nine, ten. And you're awake! Open your eyes, dammit!
+L117771 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Evan wake up, oh please wake up!
+L117707 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ How soon?...
+L117706 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It's worth a shot. I can arrange a controlled meeting. A careful dose of sedatives for Jason, some security, you and I monitoring. Evan comes in for a quick visit and with any luck, no more missing father complex.
+L117705 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Well, he has been pushing me to meet his father, but I've been putting it off.
+L117704 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ You'd be surprised how often they are.
+L117703 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Come on, I doubt the answer's that simple.
+L117702 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Plenty. Who knows? Maybe he's got severe coping problems about not having a father. Did you say the last blackout occurred when he was with his friend's dad.
+L117701 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ But he's seven. What kind of stress can he have?
+L117700 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ If I had to guess, I'd say the blackouts are stress related.
+L117699 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ But you must have something to go on?
+L117698 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Unfortunately, we've got nothing to work with. It's harder playing detective now.
+L117697 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ And the bad news?
+L117696 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Well, the good news is that the results are negative. I've found no evidence in the way of lesions, hemorrhaging, tumors...
+L117668 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It could be extremely useful to jog his memory. See if he remembers anything new the next day. And I'll have the test results back in a few days.
+L117667 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Why? What for?
+L117666 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ A journal. Just have him write down everything he does.
+L117665 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Anything.
+L117664 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Look, Andrea, I'm sure he'll test negative for brain disorders. But there's something else you can try to monitor his memory.
+L117663 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Just tell me that Evan doesn't have Jason's illness...
+L117653 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hold it, hold it, Andrea. Let's not jump to conclusions. I'll run some preliminary tests, see what we can rule out.
+L117652 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Not according to his teacher. It just got me thinking about Jason and what if Evan's inherited his father's condition?
+L117651 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ And you say he doesn't remember any of it?
+L118302 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Don't worry. I'm gonna get you out of here.
+L118301 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Just. Like. Jason.
+L118300 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You told me that on Parents' Weekend. Remember? Wait, that wasn't me. Or you.
+L118299 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ How. Did you. Know that?
+L118298 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Come on, Mom. Just 'cause Dad was my age when he started going crazy doesn't mean that I'm nuts.
+L118297 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You're. Acting. Like your father.
+L118292 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I just need the entry about the blockbuster. Wait, shit, no arms. I never even got the chance to write it.
+L118291 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Fix?
+L118290 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ There must be a way to fix this.
+L118167 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ He's saying it's like forty years worth of new memories have been jammed in my brain since last year. Overload city. 'Sat about the gist of it, doc?
+L118166 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What does that mean for Evan?
+L118158 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Cute, Evan.
+L118157 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Okay, doc. What's the damage? How much time have I got?
+L118105 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Fine. You'll get them, Evan. But I think it's far more important to focus on your case right now.
+L118104 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Damn it, Mom. I told you I need them all!
+L118103 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I found these. The others are still in storage.
+L118101 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ How's Kayleigh doing? She all right?
+L118100 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I don't know. These things take time.
+L118099 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ How long will I be in here?
+L118098 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ ...I spoke to your new lawyer about the appeal. He's sure he can get you off on self-defense, so if you're patient.
+L117926 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What? What could he do?
+L117925 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ And then, just before it got so bad that he had to be committed, he said that he could...
+L117924 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Sure...
+L117923 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I couldn't tell if they were real memories or just phantoms. You know, he might only have thought he actually remembered them...
+L117922 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ When he was around your age... almost exactly your age. He said he figured out a trick to remember the past.
+L117921 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No, it's just weird with him being such a brain and all, I just wondered if he was ever able to remember stuff he'd forgotten.
+L117920 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Why do you ask?
+L117919 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Ma? Did he ever say that he figured out a way to recall a lost memory years after he blacked it out for the first time?
+L117918 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Please. He got straight A's without ever touching a book. That was the one area where his memory never failed him.
+L117917 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Did Da -- Jason --- get good grades?
+L117916 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I can't help it. I'm just so proud of you. You've got the highest grades in all of your classes.
+L117915 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Please, mom. People will talk.
+L117750 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Don't try to use your blackouts to get out of this one!
+L117749 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I... I blacked out.
+L117748 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Something must've happened! What set him off?
+L117747 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I don't know... I don't remember.
+L117711 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Okay.
+L117710 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Now your father may seem sleepy to you, but that's just because of his medicine, okay?
+L117676 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I... I don't remember.
+L117675 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Honey. What were you doing with that?
+L117674 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What happened?
+L117671 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Great. I'll see you soon.
+L117670 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ These'll bring you luck, Crockett.
+L117660 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ My father has a bad memory, too?
+L117659 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ That's why I wanted you to come here, Evan. Dr. Redfield already has a background in memory loss.
+L117656 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You'll be fine. Dr. Redfield just wants to give you some tests. You'll like him.
+L117655 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I don't like this place, Mom. It's creepy. Please can we go? I promise I won't make any more bad pictures!
+L117625 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Good. Because I've been waiting to see your art projects all week and I'd feel terrible if all you thought about was your father not being there.
+L117624 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No.
+L117623 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I get the point, kiddo. But I'm not so bad, am I?
+L117622 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ All the dads are gonna be there.
+L117620 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ But Lenny said that his dad's coming... and Tommy and Kayleigh's dad...
+L117619 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ We've been over this a hundred times. It's too dangerous for him.
+L117618 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Can't he come out for one day?
+L117617 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You know the answer to that.
+L117616 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Um... can dad come this time?
+L117615 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Darn it!
+L117614 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Thanks. Don't worry Evan, you'll have plenty of time.
+L117613 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Righty-tighty, lefty-lucy.
+L117612 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We're putting up pictures for Parent's Night.
+L117611 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ When did you ever care about getting to school on time?
+L117610 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We're gonna be late again.
+L118133 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So you believe me?
+L118132 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Signs of the Lord. They just appeared out of nowhere. I thought you were loco!
+L118131 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What did you see? What did it look like?
+L118125 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Marks, scars, I dunno. Anything could happen I guess.
+L118124 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Weirder than this?
+L118123 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Just tell me if anything weird happens.
+L118120 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ You need to see the prison shrink, man.
+L118119 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So when I'm out, I need you to watch my face and hands closely.
+L118117 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I ain't bullshitting. Jesus speaks to me in my dreams.
+L118116 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Shit. I knew you were crazy.
+L118115 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Because I think he sent me to your cell on purpose. For you to help me.
+L118114 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Straight up.
+L118113 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You're religious Carlos, you believe that bit about "the Lord works in mysterious ways?"
+L118097 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Jesus himself couldn't make me take on the Brotherhood. When they come, just put your mind in another place, man. Be somewhere else.
+L118096 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Can you protect me?
+L118095 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Best not bitch up. Wind up someone's luggage that way.
+L118339 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Photos?
+L118338 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ You remind me of your father. He always screamed for a photo album even though he never had one.
+L118337 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ But I... I need those books.
+L118336 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Think Evan. You've invented a disease that doesn't exist. Alternate universes with colleges, prisons, paraplegia...
+L118334 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ My journals! Where are they?
+L118333 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Books?
+L118332 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Where are my goddamn books?
+L118331 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hey, Evan. What's the big rush? We don't meet for another hour.
+L118164 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Lemme guess. Would that be where the memories are stored?
+L118163 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ This is where we're finding most of the hemorrhaging. The outer lining of the cerebral cortex.
+L118160 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Are you sure? Not even with my father?
+L118159 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It's a little complicated. I haven't seen results exactly like these before.
+L117765 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It's coming... argh! I can't!
+L117764 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ The car doesn't vanish Evan. The movie in your head has broken, that's all. But now I've re-spliced it and I want you to tell me about the car.
+L117763 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I can't... the car vanishes and all of a sudden I'm on the ground in the woods.
+L117762 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Go on. Nothing can hurt you. Remember, this is only a movie. You're completely safe.
+L117760 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I see a car.
+L117759 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Okay. Then go a little forward in time. What do you see now?
+L117758 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No, protecting her.
+L117757 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Are you hurting her?
+L117756 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm standing next to Kayleigh, my hands are over her ears.
+L117755 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Where are you now?
+L117754 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yes.
+L117753 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Now I want you to go back to the time you were in the woods with Lenny. Think of it like a movie. You can pause, rewind, or slow down any details you wish. Understand?
+L117709 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Not in this wing, actually. No.
+L117708 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Dad lives here?
+L117658 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You know my father?
+L117657 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hello, Evan. It's very nice to meet you.  He's as handsome as his father.
+L118241 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Sorry, dude. Just figured it'd be okay with you bein' sick and all.
+L118240 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Get out. Both of you.
+L118023 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Fuck off, frat boy.
+L118022 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Huh?
+L118021 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Whasamatter? Lost your Rolex?
+L117933 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Shucks, I dunno. But maybe there's a reason why you've repressed the one day when some old lecher had you in your tighty whities, dammit!
+L117932 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What?
+L117931 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Are you stupid or what?
+L117930 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Shhh! I need quiet for this.

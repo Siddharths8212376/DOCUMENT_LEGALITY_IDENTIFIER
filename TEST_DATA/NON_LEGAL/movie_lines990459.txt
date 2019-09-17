@@ -1,0 +1,200 @@
+L625462 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Swell...I'll log us both on, and you can get your Tron thing running...
+L625461 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ Okay ... Flynn, I'm gonna put you at my terminal, down in the laser lab. We'll be up in Alan's office.
+L625433 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Not much chance of that now. The MCP can just slip it into another system as soon as it locates it...
+L625432 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ Don't even say that. You've got to find that file before he does..
+L625429 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Boy, I bet I know who's workin' late tonight.
+L625428 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ I'm afraid it's a little late for that. Dillinger's shut off Group 7 access. He must know what you're up to.
+L625413 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Touche, honey. Yeah, I've been doing a little hacking here. Which I've got every reason, as you well know...
+L625412 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ You can see why all his friends are fourteen years old.
+L625409 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Whew. You never were much for small talk.  She still leave her clothes all over the floor?
+L625408 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ Have you been sneaking into the ICOM system?
+L625407 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ So...how's the world of serious science?
+L625405 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Good luck. You can't even think in here.
+L625404 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ We have to talk.
+L625403 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Hey! Good to see you guys! Nothing classes up the place like a cleancut young couple.
+L625694 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I don't have time, Sark. And neither do you. End of line.
+L625693 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ We'll get them, sir... These things take time.
+L625692 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Yes, and now you've got two renegade programs running all the hell over the system in a stolen simulation.
+L625691 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Now, sir... We did take care of that User you sent us --
+L625690 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I hope you've enjoyed being a command program, Sark. I wonder how you'll like working in a pocket calculator... maybe one of those watches that plays "Happy Birthday" to its User once a year.
+L625490 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ End of line.
+L625489 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Yes...acknowledge, Master Control...
+L625488 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Then pull yourself together. Get this clown trained. I want him in the Games until he dies playing.
+L625487 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Wait...I need that...
+L625486 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ You rather take your chances with me? Want me to slow down your power cycles for you?
+L625485 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ But-what if I can't...?
+L625484 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Now get this straight, pal -- no one User wrote me. I'm worth a couple million of their man-years! I'm bigger than all those little wimps put together!  Humans they can't even keen their social order in one piece
+L625483 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Well, I -- it's just -- I don't know, a User, I mean... Users wrote us. A User even wrote you...
+L625482 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ That's right. He pushed me...in the other world. Somebody pushes me, I push back. So I brought him down here ... What's the matter, Sark? You look nervous.
+L625481 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ A User?
+L625480 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ He's not any kind of program, Sark. He's a User.
+L625479 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ You've got it. I've been hopin' you'd send me somebody with a little moxie ... what kind of program is he?
+L625478 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I've got a little challenge for you, Sark -- a new recruit. He's a tough case, but I want him treated in the usual manner. Train him for the games... let him hope for a while... and blow him away.
+L625477 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Yes, MCP.
+L625279 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Strategic Air Command.
+L625278 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Sure, I'd love to go up against some of these guys ... be a nice break from these accounting creampuffs you keep sending me. Which branch of the service?
+L625277 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ We might be capturing some military programs soon... that interest you?
+L625276 +++$+++ u8616 +++$+++ m584 +++$+++ SARK +++$+++ Thank. you, Master Control.
+L625577 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ I have to find out what Alan wants... that comes first.
+L625576 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Do you know what he's talking about?
+L625569 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ We have to.
+L625568 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ You think we can make it there?
+L625549 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Do it!
+L625548 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ What do you think?
+L625496 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ They'd better be...I don't want to bust outta this dump an' find nothin' but a lot of cold circuits waitin' for me.
+L625495 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ The Users...you really think they're still there?
+L625494 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Another free program off line.  What's his User s'posed to do -- ?
+L625493 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ New guy...
+L625827 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Where's Flynn?
+L625826 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ It's something Users do.
+L625825 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Nice...
+L625744 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ I can't. There's no junction due for at least 7 or 8 nanoseconds!
+L625743 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ We have to get off this beam!
+L625742 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Power surge... the transmission beam's too strong!
+L625741 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ What is it?
+L625705 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Then I owe you some thanks...
+L625704 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ This is Flynn... the one who busted me out.
+L625687 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ As long as it gets us out of here
+L625686 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Yes...it can take us across the Sea of Simulation... all the way out of the Game Grid...to the MCP.
+L625635 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ I had to...in the games...
+L625634 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ You've grown, big program.
+L625631 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ It's a flat. But wait a micro...
+L625630 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Why is everything...like this?
+L625629 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ My quarters.
+L625628 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Don't know yet... I have to get in touch with Alan. He was going to tell me how to
+L625627 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ How?
+L625626 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ That's all going to change, Yori...
+L625625 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ I can't believe how bad it's gotten around here since the MCP started taking over... all the good functions have shut down... everybody looks so dead... I'm afraid to even go out during down-time...
+L625621 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Oh, Tron... I knew you'd escape... they've never built circuit that could hold you...
+L625620 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Yori... hey...
+L627100 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Will you shutup.  I should never have told you about him.
+L627099 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ Just an hour?  You should tell this stud to take more time.
+L627098 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Can you cover me for an hour?
+L627095 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Simon?  Ohmygod.
+L627094 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ Helen!  It's your mystery man.
+L626923 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ Then you better do something to				* jumpstart that man's motor.  You know... wake up the sleeping giant of his passion.
+L626922 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Harry only has two moods: busy...				* and asleep.
+L626921 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ Girlfriend, you got a man.  You				* just have to take control .  . .  set up the right mood.						*
+L626920 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ You bitch.
+L626915 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yeah.  You know Harry.
+L626914 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ I'm shocked.
+L626913 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Are you kidding?  Harry had to go out of town.
+L626912 +++$+++ u8619 +++$+++ m585 +++$+++ ALLISON +++$+++ So I guess you didn't get away					* for the weekend after all?					*
+L626911 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I mean, it's not like he's saving the world or anything.  He's a sales rep for Chrissakes. Whenever I can't get to sleep I ask him to tell me about his day. Six seconds and I'm out.  But he acts like he's curing cancer or something.
+L627404 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ I have a book report.
+L627403 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Where are you off to young lady?
+L627402 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ I'm done.
+L627227 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Out.
+L627226 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Where are you going?
+L627225 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Dinner's in the warmer.  Tell your father I may be late.
+L627028 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ It is true!  He doesn't know anything about me.  He still thinks I'm like ten years old or something.  As long as I just smile and say yes to whatever he says, like his good little fantasy daughter, he thinks everything's fine.  But it's not fine.  Nothing's fine.
+L627027 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ That's not true, honey--
+L627026 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Mom, wake up!  Dad barely knows we exist.
+L627025 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ No you're not.  You're going to stay here until your father gets home and have cake!
+L627024 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Out.  If Dad doesn't care enough about us to be here on his birthday, then why should I care? I'm going to a movie.
+L627023 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Where are you going?
+L627639 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Dad.  You just think you know everything, don't you?
+L627638 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I seem to remember something about a history project that's due tomorrow.
+L627401 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Unbelievable!  Trent told me he wrote it.  He's history.
+L627400 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Honey that song came out in 1968, when I was exactly your age.
+L627399 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Dad, how come you know the words?
+L627392 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Why?  So I can wind up like you? What's the point?
+L627391 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You're going to stay in school. Do you understand?
+L627390 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Yeah, right.
+L627389 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ There are going to be some changes Dana.  You're going to start following some rules.  And I'm going to be there to see that you do.
+L627125 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Fine.
+L627124 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ How was school today?
+L626947 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ I'm not a pumpkin!  Okay?!!  Do I look even remotely like a pumpkin?! I'm not a muffin, or a cupcake or a honeybear either! And you don't understand anything Dad...
+L626946 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You'd tell me if there was something wrong, wouldn't you, pumpkin?
+L626945 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Okay, Dad.
+L626944 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You know you can always talk to me.  Right?  Whatever is going on in your life, your mom and I'll understand.
+L626943 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Yeah, Dad.
+L626942 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Dana, are you listening to me?
+L626941 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I'm not sure what to believe anymore, young lady.  You never used to lie to me.  But lately you don't seem to know the difference between right and wrong.
+L626940 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ Great!  You're going to believe that fat dweeb Mr. Hardy over your own daughter.
+L626939 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You seem fine now.
+L626938 +++$+++ u8620 +++$+++ m585 +++$+++ DANA +++$+++ He lies!  I was there!  I was in the nurse's office, cause I had a headache.
+L626937 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Dana, Mr. Hardy called.  Why weren't you in class today?
+L627247 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ Roger, One.  Rolling.
+L627246 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Immediate roll.  Acquire subject at K Street and Key Bridge.					* Vehicle is red-and-white						* convertible.  You have six minutes.
+L626965 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Okay.  Let's step up the surveillance on her.  Put on two more guys.
+L626964 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ And the second you left there, we started getting calls to the					* ghost numbers.  They were checking out the Renquist front.
+L626933 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ She lives in Rome, but she does stuff here the Smithsonian and has a lot of diplomatic connections, so she has offices				* here.										*
+L626932 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You're kidding.
+L626931 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ Uh huh.  Right here in river city.
+L626930 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Alright, I want a complete workup on her.  Do we know where she is?
+L626929 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ And this is a little above market-				* rate for the horizontal bop, even				* for a total biscuit like her.
+L627084 +++$+++ u8629 +++$+++ m585 +++$+++ TRILBY +++$+++ This is impressive, gentlemen. Of course, it would have been even more impressive if you actually knew where he was.
+L627083 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ Probably because it sounds scary.				*
+L627082 +++$+++ u8629 +++$+++ m585 +++$+++ TRILBY +++$+++ Why?
+L627081 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ They call him "The Sand Spider".				*
+L626901 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ Sorry, sir.  Uh... here's what we got.
+L626900 +++$+++ u8629 +++$+++ m585 +++$+++ TRILBY +++$+++ So what makes you think that the slack I cut him in any way translates to you?!
+L626899 +++$+++ u8621 +++$+++ m585 +++$+++ FAISIL +++$+++ Yes.
+L626898 +++$+++ u8629 +++$+++ m585 +++$+++ TRILBY +++$+++ Faisil.  You're new on Harry's team, aren't you?
+L627618 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Sorry.
+L627617 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ He's got it.
+L627613 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ If I break it they can take it out of my pay.
+L627612 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ I'd like to remind you that it has been ten years since you were actually in one of these.
+L627597 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ It's show time.  Don't look at					* the flash.  Do not look at the flash.
+L627596 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Any minute now.
+L627586 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Here they come.
+L627585 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ ... well get the Highway Patrol to go through the streets and tell everybody on their damn loudspeakers.  Just the basics... get away from windows, don't look at it... yeah--
+L627582 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Get 'em.  I'll brief them on the way in.
+L627581 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ I can get 3 Marine Corps Harriers here in about 12 minutes. They're on maneuvers out of Boca Chica.
+L627580 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ ... the Coast Guard has to clear them back to a twenty mile radius.  Anybody that can't make the minimum safe distance we need an airlift on, immediately--
+L627579 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ --you tell the son of bitch this is  Bright Boy Alert.  Repeat, a Bright Boy Alert.  And I need a patch of the White House ASAP. That's right--
+L627578 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ You're welcome.
+L627577 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Let's go.  I'll brief you in the air.
+L627576 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ I thought this look like your work.
+L627417 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Why not?  You think I can afford a suite like that on my salary? Is Jean-Claude done yet?						*
+L627416 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ You've reached a new low with this one.  I can't believe you're crazy enough to use the room at the Marquis.
+L627386 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ In her Walkman.  It's the one thing I knew she'd be taking.
+L627385 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ We're dead, right?  So... where'd you put the transmitter?
+L627353 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I'm giving her an assignment.  I am offerring you a choice.  If you work for us we will drop the charges and you can go back to your normal life.  If not, you will go to federal prison, and your husband and daughter will be left humiliated and alone.  Your like will be destroyed.
+L627352 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Oh shit.  Harry... what're you doing?
+L627351 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ There is only one solution to your problem, Mrs. Tasker.  You must work for us.
+L627350 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Now what?
+L627344 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Wait!  Calm down, Mrs. Tasker. There is only one more question.
+L627343 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ She could be telling the truth.
+L627336 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You didn't have sexual relations with him?
+L627335 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ She's lying.
+L627256 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ You know about that?
+L627255 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ What about that time you trashed a six-week operation because you were busy getting a blow-job?
+L627254 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Whatya talking?  I'm clean as a preacher's sheets, babe.  Clean as a --
+L627253 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You tell on me, I tell on you.
+L627252 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Goddamnit, Harry.  This is our butts.  So your life is in the toilet.  So your wife is banging a used car salesman.  Sure it's humiliating.  But be a man here--
+L627242 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ The purse is still at the house.
+L627241 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ She's still at my house.						*
+L627234 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ GIVE ME THE GODDAMN PAGE!!
+L627233 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Aw, it's gotta be a typo--
+L627232 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ It skips from page nine to eleven.  Where's page ten?
+L627231 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ What are you talking about?
+L627230 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Give me the page.
+L627160 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ He could be working her to get to you.
+L627159 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Yeah, but for who?							*
+L627158 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Guy's a spook!
+L627123 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Sure, Harry.  I'm on it.
+L627122 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Yeah, and we do it twenty times a day.  Don't give me that crap. Just put on the taps.  Now.
+L627120 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Helen's phone.  Her office line and the line at my house.
+L627119 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ What're you talking about?  We have that.
+L627118 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Put a tap on her phone.
+L627117 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Is this national security stuff boring you?
+L627111 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Relax.  Helen still loves you. She just wants this guy to bang her.  It's nothing serious. You'll get used to it after a --
+L627110 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I still don't believe it.
+L627109 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Same thing happened to me with wife two.  I had no idea until I came home and the house was empty.  I mean empty.  She even took the ice-cube trays from the fridge.  What kind of person would think of that?
+L627108 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ It can't be.
+L627107 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Nobody believes it can happen to them.
+L627106 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ It can't be.  Not Helen.
+L627105 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Congratulations.  Welcome to the club.
+L627104 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ She's having an affair.
+L627103 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Something to do with Helen, is what I'm getting.
+L627102 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ He-- Helen.  Helen-- it's Helen. It's Helen, Gib.
+L627091 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ I'll just hang then, shall I?
+L627090 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Just hang a minute.
+L627089 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ You want me to just hang-- ?
+L627088 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Look, uh... I've got to talk to Helen about this thing with Dana. I'm just going to run in and see if she can get away for lunch.
+L627078 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Hardcore, highly fanatical, ultra-				* fundamentalist.  Linked to					* numerous car-bombings, that cafe				* bomb in Rome, and the 727 out of Lisbon last year.  Major player.				*
+L627077 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Abu Kaleem Malik.
+L627075 +++$+++ u8622 +++$+++ m585 +++$+++ GIB +++$+++ Can we go to the office now, Mr. Superspy?
+L627074 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Son of a bitch!

@@ -1,0 +1,200 @@
+L539695 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I have the password right here.
+L539694 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ Alphanumeric lock. We need a password to get in...
+L539692 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ There should be an access hatch nearby...
+L539691 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ I'm picking up faint life signs twenty meters below.
+L539689 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Probably from the nuclear warhead. Cochrane was planning to use it to ignite the warp drive.
+L539688 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ I'm having trouble scanning underground. There's a lot of radiation leaking from something.
+L539687 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ How serious is the damage?
+L539686 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ This must be it.
+L539654 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Let's go.
+L539653 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ I have the silo, sir. Bearing three one zero... distance, three hundred meters.
+L539560 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Understood. Keep me informed.
+L539559 +++$+++ u2995 +++$+++ m196 +++$+++ GEORDI +++$+++ Captain, I'm starting to worry about the hull integrity. We've been running the support field at full power for three hours straight. I don't know how much longer it's going to hold up.
+L540057 +++$+++ u2996 +++$+++ m196 +++$+++ GEORDI'S VOICE +++$+++ Initiate pre-ignition sequence.
+L540056 +++$+++ u2998 +++$+++ m196 +++$+++ PICARD'S VOICE +++$+++ Ready.
+L540055 +++$+++ u2996 +++$+++ m196 +++$+++ GEORDI'S VOICE +++$+++ Main bus...
+L540054 +++$+++ u2998 +++$+++ m196 +++$+++ PICARD'S VOICE +++$+++ Active.
+L540053 +++$+++ u2996 +++$+++ m196 +++$+++ GEORDI'S VOICE +++$+++ ATR setting...
+L539991 +++$+++ u2998 +++$+++ m196 +++$+++ PICARD'S VOICE +++$+++ Well, with any luck... the Vulcans will land outside Resurrection tomorrow morning... and Earth will never be the same again.
+L539990 +++$+++ u2996 +++$+++ m196 +++$+++ GEORDI'S VOICE +++$+++ I've enhanced the plasma injectors -- don't worry, they'll see it.
+L539989 +++$+++ u2998 +++$+++ m196 +++$+++ PICARD'S VOICE +++$+++ What about our warp signature? It has to be strong enough for them to detect.
+L539988 +++$+++ u2996 +++$+++ m196 +++$+++ GEORDI'S VOICE +++$+++ It'll be tight, but we should make it.
+L539987 +++$+++ u2998 +++$+++ m196 +++$+++ PICARD'S VOICE +++$+++ Are we on schedule? The Vulcan ship will be here in less than two hours.
+L540112 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'm afraid you've caught me. I am a space-man.
+L540111 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ And you know all this... because <U>you're</U> a space-man too...
+L540110 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ From another planet.  Oh, I almost forgot... they have green blood and pointed ears.
+L540107 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Wrong answer, Mister Picard. Try again.
+L540106 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ There is no invasion...
+L540102 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ These people you're calling "Vulcans"... who are they? Where do they come from? How many troops? What kind of weapons?
+L540101 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Invasion.
+L540100 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ The invasion plans.
+L540099 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ What do you want?
+L539817 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Not yet.
+L539816 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Something wrong with that?
+L539815 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ You seem to have an answer for everything.
+L539814 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I think he was running a test on an old rocket engine... and one of the fuel cells burst.
+L539813 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this morning...
+L539812 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Yes.
+L539811 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Lucky for him you came by when you did. He might be dead now.
+L539810 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'm an old friend of Cochrane's... I wanted to see how he was doing.
+L539809 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ And what were you doing out at the missile silo?
+L539808 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Huh.
+L539807 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ It wasn't a trick. I used to be an electrical engineer.
+L539806 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ That was a pretty clever trick you did with the hospital's batteries. How'd you do it?
+L539805 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ There's a few of us left.
+L539804 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Beautiful city. Used to be, anyway. I didn't think anyone still lived there.
+L539803 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ California. San Francisco.
+L539802 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Where are you from most recently?
+L539801 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Not really. I was born and raised right here. Never had much use for travel.
+L539800 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Oh... here and there. You know how it is.
+L539799 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Where in the States?
+L539797 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ You don't sound French.
+L539796 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Yes.
+L539795 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Great name. French?
+L539794 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Jean-Luc Picard.
+L539793 +++$+++ u3002 +++$+++ m196 +++$+++ SCRIMM +++$+++ Lieutenant, actually. Lieutenant Jonathan Scrimm. I'm the head of the Resurrection Protective Force.  And you are?
+L539792 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Oh...  yes... ultraviolet protection. Thank you. Mister...?
+L540217 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ You've been interfering with my life ever since I met you.  Don't stop now.
+L540216 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ This may be hard for you to understand... but I'm duty-bound not to interfere with you, or anyone else here... any more than is absolutely necessary.
+L540215 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Why?
+L540214 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ That's impossible.
+L540213 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ I don't care if you're from France or Venus... just take me with you.
+L540212 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ No... I'm from France.
+L540211 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ It's the future, isn't it? Just like you told Scrimm.  I knew you weren't from around here.
+L540210 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ No. It's a lot further than that.
+L540209 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Where? And don't tell me San Francisco...
+L540208 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I have to...
+L540207 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ You're leaving, aren't you?
+L539955 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I am not a thief...
+L539954 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ And all I'm asking for is the truth. That would take five minutes.  For all I know, you caused the explosions at the silo... and now you're trying to steal Zephram's ship.
+L539953 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Why are you being so difficult? All I'm asking for is to look at one of the photographs. It'll take five minutes.
+L539950 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Or...?
+L539949 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ We have to launch his ship by tomorrow afternoon.
+L539948 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ All right. Truth. I believe that one. Why is it so urgent you couldn't wait until morning?
+L539947 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ A key piece of the ship has been destroyed... and our only hope to reconstruct it is if one of your photographs shows us what it looked like.
+L539946 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Lie. That's one. Keep going.
+L539945 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Some.
+L539944 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Friends from Cornell...
+L539943 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Myself... and a few other friends of Zephram's.
+L539942 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ We?
+L539941 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ We're trying to repair Doctor Cochrane's ship. It's been damaged and --
+L539940 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Okay, let's hear it. I'm sure you have a great explanation for why those rocket photos are so important you broke into my house.
+L539939 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Don't flatter yourself. I take pictures of a lot of junk.
+L539938 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'd say you already have.
+L539917 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Too bad.  Besides, it'll give you all night to think up a new set of lies.
+L539916 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ It can't wait until tomorrow...
+L539915 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ I'm sure it is. But it'll have to wait until tomorrow.
+L539914 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Ruby... I need to talk to you about those photographs. It's very important.
+L539909 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ How did you know about that?
+L539908 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ No... not like you and Doctor Crusher used to be.
+L539907 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Were the two of you... involved?
+L539903 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Are you always sucha good judge of character?
+L539902 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ You're not someone who lies very easily... so it's obvious when you do... at least to me.
+L539901 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ What makes you say that?
+L539900 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ You're lying.
+L539899 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ What?
+L539898 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ 'Fraid not.
+L539897 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'm an old friend... I met him when he was doing his undergraduate work at Cornell back in --
+L539896 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Trade. Okay. The photographs... for a straight answer.  Who are you? And how do you know Zephram?
+L539895 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ No... but sometimes I feel that way.  What I meant was, I'd be willing to trade for the photographs.
+L539894 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ You'd have to try real hard. No one's used currency in over ten years. What are you, from another planet?
+L539893 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I can try.
+L539892 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ "Money." So you can get dome money...
+L539889 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Did you take any other pictures of the rocket?
+L539888 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Bed sheets.  I used my last set of bed sheets to make those prints. Not the best material, but I haven't seen a clean piece of paper in five years.
+L539887 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Yes... I wanted to ask you about some photographs I saw out at the silo. There were three of them... printed on some kind of fabric.
+L539886 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Did you need something?
+L539884 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'm very sorry.
+L539883 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Yes... and I only had enough silver halide for one shot. So you're lucky you didn't screw it up.
+L539882 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Cochrane?
+L539881 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Thank God this plate was already fixed.
+L539880 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Ah... yes... but, I didn't realize that --
+L539879 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ What are you, an idiot? Didn't you see the red light was on?
+L539780 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Yes, he is.
+L539779 +++$+++ u3001 +++$+++ m196 +++$+++ RUBY +++$+++ Take care of him. He's a very special man.
+L539626 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Western hemisphere... North American continent...
+L539625 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Track their weapons fire.
+L539610 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ We have to follow them back... repair whatever damage they've done to that time-line.
+L539609 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Captain...?
+L539600 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Population... thirty-five billion...  All Borg.
+L539599 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Life signs?
+L539562 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ On screen.
+L539561 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Incoming transmission from the Borg.
+L539548 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Aye, sir.
+L539547 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Signal the Endeavor to fall back. We'll cover them.
+L540234 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Onscreen.
+L540233 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Incoming transmission from Starfleet Command. Admiral Hayes.
+L539642 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Aye, sir.
+L539641 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Worf, have Doctor Crusher, Mister La Forge and a security team meet me in Transporter Room Three. Civilian clothes.
+L539635 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Fire!
+L539634 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Target locked!
+L539624 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Go to manual.
+L539623 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Phasers are off-line... we have two quantum torpedoes left. But the computer targeting system has been destroyed.
+L539622 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Intercept course, full impulse.  Weapons status?
+L539621 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Captain, I've found the Borg Sphere. It's on the far side of the planet...firing at the surface.
+L539613 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Steady as she goes.
+L539612 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Hull integrity down to thirty percent...
+L539608 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Data, set a course for that vortex.
+L539607 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Captain, there are five Borg ships closing in on our position.
+L539584 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Aye, sir.
+L539583 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Time travel... they're attempting time travel...  Full power, Mister Data. Worf, quantum torpedoes at my command!
+L539552 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Fire.
+L539551 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Port battery, ready sir!
+L540231 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ No, sir.
+L540230 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Unless you'd like to stay.
+L540229 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Yes, sir. But Captain... are we... all going back?
+L540228 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Then make it so. Have you determined how to recreate the temporal vortex?
+L540227 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Yes, sir.
+L540226 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Return to our own time?
+L539648 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ I'll keep in contact. You have the Bridge.
+L539647 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Good luck, sir.
+L539646 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Normally, I would agree. But in this case, the mission requires a certain knowledge of 21st century history. You're many things, Number One, but you're not much of an historian.
+L539645 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ And if they succeed, humans won't make First Contact with the Vulcans tomorrow.  As First Officer I should be the one beaming down...
+L539644 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test... from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his ship.
+L539643 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Captain?
+L539640 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Can't tell. Long-range bio- sensors are off-line.
+L539639 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Life signs?
+L539638 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Looks like they damaged the silo...
+L539618 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ On screen.
+L539617 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ We're still in Earth orbit.
+L539616 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Report.
+L539604 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ They did it... they assimilated Earth.
+L539603 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ They must've done it in the past... they went back and changed history...
+L539590 +++$+++ u2997 +++$+++ m196 +++$+++ PICARD +++$+++ Worf... torpedo... now!
+L539589 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ We're caught in some kind of energy wake from the vortex...
+L540158 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Nothing.
+L540157 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Emergency override!
+L540156 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ We've lost Bridge control!
+L540155 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Report!
+L540052 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Understood!
+L540051 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Worf! I'm going to need at least five minutes!
+L540049 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ I'll keep that in mind.
+L540048 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ And Commander, whatever you do... do <U>not</U> vomit in your exo-suit. It would be... unpleasant.
+L540047 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Right.
+L540046 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Try not to look at the stars... keep your eyes on the ship.
+L540045 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Just a little queasy...
+L540044 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Are you alright?
+L540039 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ The Borg will undoubtedly attack. Set phasers to rotating modulation.
+L540038 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ I guess I'd better get it right the first time.
+L540037 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ You will have to realign the targeting array of the quantum torpedo... and reprogram the warhead for the localized detonation.  There's only one torpedo left...
+L539974 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Destroy the deflector dish.
+L539973 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Agreed. Options?
+L539972 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ We have to stop them from sending that message.
+L539968 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ They're converting the deflector dish into an antennae...
+L539967 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ They're connecting the conduits to subspace communications...
+L539966 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Computer -- thermal enhancement.
+L539965 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ They're re-routing the deflector power conduits...
+L539960 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ They appear to be modifying the deflector dish.
+L539959 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ What are they doing?
+L539877 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ We have to cover both possibilities.  We'll take care of the Bridge. Worf, take your men and seal off Main Engineering. Turn it into a fortress -- nothing gets in.
+L539876 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ To control the Enterprise, they'll have to gain access to one of two locations. Main Engineering... or the Bridge.
+L539871 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ We'll have to assume they've been assimilated into the Collective.
+L539870 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ We saw at least thirty...and there are twenty-two Enterprise crewmembers reported missing... including Commander Data.
+L539733 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ It appears that someone has taken over the Environmental Control Room.
+L539732 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ What the hell is happening, Worf?
+L539730 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ What?
+L539729 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ A ship-wide decompression has been initiated!
+L539723 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Assign another team if you need to. I want to re-establish communication with the Captain as soon as possible.
+L539722 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ I have assigned two damage control teams to locate the source of our communication problems. So far, they've had no success.
+L539569 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Incoming message from the Starship Intrepid. Admiral Hayes.
+L539568 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Casualties are light, Captain. Minor buckling on the port nacelle. Nothing serious.

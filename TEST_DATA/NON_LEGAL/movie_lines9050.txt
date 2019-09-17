@@ -1,0 +1,200 @@
+L196332 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Son of a bitch!
+L196331 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I told you... She won't let you leave...
+L196272 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Just get your gear back onto the Lewis and Clark, doctor, or you'll find yourself looking for a ride home.
+L196271 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You can't leave. She won't let you.
+L196265 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Watch me.
+L196264 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You... You can't do that!
+L196263 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We will take the Lewis and Clark to a safe distance and then launch tac missiles at the Event Horizon until I am satisfied that she has been destroyed.  Fuck this ship.
+L196262 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ What about my ship?
+L196258 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ It's done.
+L196257 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Don't... don't do this...
+L196256 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Maybe you're right. But it's still my command, and I have leeway to abort when I feel there is an unacceptable threat to my crew. And I think there is.  Starck, download all the files from the Event Horizon's computers. Coop, Smith, finish moving the CO2 scrubbers back onto the Clark.
+L196255 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You're insane. You've lost your mind.
+L196254 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ "...to rescue the crew and salvage the ship." The crew is dead, Dr. Weir. This ship killed them. And now it's killing us.
+L196253 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You can't, your orders are specific...
+L196252 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We're leaving.
+L196217 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ That's exactly what we don't have, Doctor.
+L196216 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I DON'T KNOW!  I don't know. There's a lot of things going on here that I don't understand. Truth takes time.
+L196215 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ The "Other Place," what is that...?
+L196214 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I don't know...
+L196213 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Where has it been for the past seven years?
+L196212 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I don't know...
+L196211 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ To what? Where did this ship go? Where did you send it?
+L196210 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes...
+L196209 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ You said this ship creates a gateway...
+L196208 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ What do you want me to say?
+L196207 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ That's bullshit and you know it! You built this fucking ship and all I've heard from you is bullshit!
+L196206 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Thermal changes in the hull could have caused the metal to expand and contract very suddenly, causing reverberations --
+L196205 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I want to know what caused that noise. I want to know why one of my crew tried to throw himself out of the airlock.
+L196198 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Justin just tried to kill himself. The man is clearly insane.
+L196197 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Is that your "expert opinion?" The only answer we've had out of you is "I don't know."
+L196074 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Do it.
+L196073 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I think I can stabilize the fields around the singularity, that should prevent another power drain.
+L196072 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We're a long way from home and we're in a bad place. Let's not make it worse. If anyone has any constructive suggestions, now is the time.
+L196031 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Check the Core for radiation. Carbon dioxide may be the least of our worries.
+L196030 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We don't get the power back, our air's gonna go bad.
+L196025 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ The Core...!
+L196024 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We barely have enough power for life support as it is, if we can't stop the drain, we're not gonna make it.
+L196019 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I don't know.
+L196018 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What the hell is that? Dr. Weir?
+L196009 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Intense gravitational fields effect the passage of time, it's possible...  Black holes make sense on paper, it's all math, you see, but as to what really happened...  The Event Horizon has passed beyond our plane of reality, and like Lazarus, returned from the dead.
+L196008 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Explanation?
+L196005 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Exactly. The ship's internal clock is off by seven years.
+L196004 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ It's 2041...
+L196003 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ The Event Horizon's computer think's it's 2034.
+L196002 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What about it?
+L196001 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ The date.
+L196000 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ You have something, Dr. Weir?
+L195979 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Your black hole damn near ripped my ship apart. It may have killed one of my men.  No one goes near that thing.
+L195978 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ There's no danger. The black hole is contained behind three magnetic fields, it's under control.
+L195977 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I want this room sealed. The Second Containment is off limits.
+L195976 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ If it worked, yes.
+L195975 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ If it worked.
+L195974 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ "Insane?" The finest astronauts fought to be posted to this ship. It would take the Lewis and Clark a thousand years to reach our closest star. The Event Horizon could be there in a day...
+L195973 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ It's insane.
+L195969 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ How much time do you need? We have seventeen hours and forty-two minutes. Now: what is in the Core?
+L195968 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It's complicated...
+L195967 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What could cause them?  What's in the Core?
+L195966 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It's possible that a burst of gravity waves escaped from the Core, distorting space-time. They could be what hit the Lewis and Clark.
+L195965 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Hold on, what's this "gravitational distortion?"
+L195953 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ One of my men is down. I want to know what happened to him.
+L195952 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes.
+L195910 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Dr. Weir's right. Get on board the Event Horizon. I'll meet you at the airlock.
+L195909 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It beats dying, Mister Smith.
+L195799 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ They're empty, Dr. Weir. Moving forward.
+L195798 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ No one?
+L195797 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Negative.
+L195796 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Any survivors?
+L195790 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Captain Miller, the foredecks are just ahead.
+L195789 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Easy, Peters, we're okay, we're okay. Let's finish the sweep.
+L195781 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ In an emergency, the charges detonate in series, destroying the central section and separating the personnel areas from the rest of the ship. That way, if the gravity drive malfunctions, the crew could use the foredecks as a lifeboat.
+L195780 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I can see that, what're they for?
+L195775 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Peters and I will search the forward decks. Justin, take Engineering. No hot-dogging, not on this one, alright?
+L195774 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You're in the central corridor. It connects the personnel areas to Engineering.
+L195760 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ -- once we've secured the ship, that's the way it is!  I need you to guide us from the comm station. This is where I need you. Help us to do our job.
+L195759 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ That is not acceptable --
+L195758 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Once the ship is secured, we'll bring you on board --
+L195757 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Captain, I didn't come out here to sit on your bridge, I need to be on that ship...
+L195756 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Dr. Weir, I need you on the bridge.
+L195742 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Be careful. It's not a load bearing structure...
+L195741 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Smith, use the arm and lock us onto that antennae cluster.
+L195740 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ That's the engineering containment. And there's the main airlock. We can dock there.
+L195689 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ NSA encryption specialists have deciphered some of the message...
+L195688 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What does it say?
+L195677 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ That's what we're here to find out.
+L195676 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Where has it been for the last seven years?
+L195675 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It was the ship's maiden voyage, to test the drive. The Event Horizon moved to safe distance using ion thrusters. They received the go-ahead to activate the gravity drive.  And the ship vanished from all our scopes. No radar contact, no enhanced optical, no radio contact of any kind. They disappeared without a trace.  Until now.
+L195601 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Until then, do what you're told and stay out of my way.
+L195600 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I've been authorized to brief you and the crew once we reach Neptune space.
+L195599 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Doctor Weir, my crew is not going on your mission because we want to. We were pulled off a well deserved leave, to be sent out to the middle of nowhere, and no one's even told us why.
+L195598 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Captain Miller, I appreciate this opportunity...
+L195590 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ The clock is running, Dr. Weir. If you'll follow the rest of the crew, they'll show you to the gravity tanks.
+L195589 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Captain Miller, I just want to say...
+L196315 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Smith? Smith! Fuck!
+L196314 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Where is it, where is it...
+L196313 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Get out of there now!
+L196312 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ No, no, we just got her back together...
+L196311 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Get off the Clark now and wait for me at the airlock.
+L196310 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ One of the explosives is missing from the corridor. I think Weir may have put it on the Clark.
+L196309 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Come again, Skipper?
+L196308 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Smith, get out of there...
+L196307 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ I just saw Weir, I think he was messing around on the Clark.
+L196306 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What is it, Smith?
+L196305 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Skipper...
+L196286 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Alright. Prep the Clark for launch. I'll find her.
+L196285 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ She was right behind me, I turn around, she's gone. She could be anywhere.
+L196284 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Now what?
+L196283 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Captain, we got a problem.
+L196282 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Thank you.
+L196071 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Get outside, go back to work. I'll join you shortly.
+L196070 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Sir.
+L196064 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ That's enough!
+L196063 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ ...you break all the laws of physics, you think there won't be a price? You already killed the first crew...
+L195939 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Understood.
+L195938 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We don't have time, Smith. In twenty hours we run out of air.
+L195937 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ I've found a six inch fracture in the outer hull. We should be able to repair it and re-pressurize, it's gonna take some time.
+L195936 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I'm here, Smith, how's the Clark?
+L195935 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Captain Miller, you copy?
+L195912 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ You heard me, Smith. Peters, are you with me?
+L195911 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ But...
+L195903 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ They're gone.
+L195902 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ No one's dying on my watch, Smith! What about the reserve tanks?
+L195901 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ We're losing pressure at 280 liters a second and our oxygen tanks are cracked. In three minutes, our atmosphere will be gone. We are fucking dead.
+L195900 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ We don't have time to fart.
+L195899 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Do we have enough time for a weld?
+L195897 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ We have a situation here...
+L195896 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Smith, where the hell have you been?!
+L195895 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Captain Miller...
+L195744 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Starck, give me a read.
+L195743 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ It is now.  We're locked in.
+L195735 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Love to.
+L195734 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Put it through TACS. Smith, you up for a flyby?
+L195726 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Starck...
+L195725 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Proximity warning! 900, 800 meters, 700... we're right on top of it, we're gonna hit!
+L195722 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Where is it?
+L195721 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ 1500 meters. We're getting too close...
+L195717 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I noticed. Starck, anybody home?
+L195716 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ We've got some weather.
+L195712 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Dr. Weir...!
+L195711 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Yes, sir.
+L195710 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I guess we're about to find out. Keep us slow and steady.
+L195709 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Something like that, yeah.
+L195708 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What are you trying to say? "If God had intended Man to fly, he would have given us wings?"
+L195707 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ That's not it. That ship was built to go faster than light... That's just wrong, it goes against everything we know...
+L195706 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We're all on edge, Smith. We're a long way out...
+L195703 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Bring us in tight. Starck, get on the horn, see if anyone's listening...
+L195702 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ We have a lock on the Event Horizon's navigation beacon. It's in the upper ionosphere, we're in for some chop.
+L195701 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ One-four degrees...
+L195700 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ ...Make your approach vector negative fourteen degrees...
+L195699 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Heading three-three-four...
+L195683 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What is that?
+L195682 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Jesus...
+L195579 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Locked and cocked.
+L195578 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I don't like it either, but you know the rules: we get the call, we go. Is the course locked in?
+L196395 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ He's dead...
+L196394 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Weir.
+L196388 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Miller, he's back, he was in the tank...
+L196387 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ ...repeat, we're armed...
+L196386 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We're armed. This fucker's ready to blow...
+L196375 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ No. I'll be right back.
+L196374 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I'll do it --
+L196369 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We blow the Corridor. Use the foredecks as a lifeboat, separate it from the rest of the ship. We stay put...
+L196368 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Blow it up?
+L196367 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ BLOW THE FUCKER UP.
+L196361 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ We've got to shut it down, we've got to...
+L196360 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Weir activated the drive. He's sending us to the Other Place.
+L196354 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Whatever was on that bridge wasn't Weir.
+L196353 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Weir can't be alive.
+L196177 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Five seconds.
+L196176 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Tuck yourself into a crouched position, shut your eyes as tight as you can!
+L196134 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ You better hurry. He's engaged the override, we can't open the inner door.
+L196133 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I'm on my way, Starck.
+L196125 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Stay here! Don't stop working!
+L196124 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ He's awake, he's in the airlock, he's not wearing a suit.
+L196123 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What?
+L196122 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Justin's in the airlock.
+L196121 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What's going on in there, Starck?
+L196120 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Miller, come in...
+L196096 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ I'm going outside to work on the Clark. And Starck... don't tell anyone what you just told me. We've got enough to worry about.
+L196095 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Nine hours and twenty-two minutes.
+L196094 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What I want is to survive the next ten hours.
+L196093 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I thought you wanted an answer. And that's the only one I have.
+L196092 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ If you knew it was impossible, then why'd you waste my time?
+L196091 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I know that.
+L196090 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Starck, do you know how crazy that sounds? It's impossible.
+L196089 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ It's not bullshit, it's the only conclusion the data supports...
+L196088 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We're hanging on by our fingernails and you're giving me bullshit stories...
+L196087 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I didn't say that, I said the bio- readings correspond to what happened to you, the ship is reacting to us...
+L196086 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ To what? What are you saying? This ship is alive?
+L196085 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ You've got to listen...
+L196083 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ There was a another surge in the bio- readings right before you... you saw what you saw. We picked up a similar readings right before the Clarke was damaged. What if there were a connection between the two? The gravity waves, the hallucination, all part of an defensive reaction, like an immune system...
+L196082 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Go ahead.
+L196081 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I've got a theory.
+L196080 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ "...bio-readings of indeterminate origin," don't you have anything useful to tell me?
+L196079 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ ...I ran the bio-scan with the DNA/RNA filter. The results were bio-readings of indeterminate origin...
+L196078 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What is it, Starck?
+L196077 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Miller...
+L196052 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Dr. Weir, you were right there, you must have heard something, seen something...
+L196051 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Who?
+L196050 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ No. It was someone else.
+L196049 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Maybe one of the original crew?

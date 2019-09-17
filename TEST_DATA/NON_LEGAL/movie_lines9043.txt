@@ -1,0 +1,200 @@
+L187581 +++$+++ u842 +++$+++ m54 +++$+++ GIRL +++$+++ What d'you expect me to do?
+L187580 +++$+++ u850 +++$+++ m54 +++$+++ LEIF +++$+++ You will wait?
+L187579 +++$+++ u842 +++$+++ m54 +++$+++ GIRL +++$+++ Yeah... well...
+L187578 +++$+++ u850 +++$+++ m54 +++$+++ LEIF +++$+++ Bye... sorry...
+L187577 +++$+++ u842 +++$+++ m54 +++$+++ GIRL +++$+++ Bye, Leif.
+L188075 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Well, where is he then?
+L188074 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ He hasn't.
+L188073 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Vanish into thin air?
+L188072 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Do what?
+L188071 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ How did he do that?
+L187798 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Nothing... I just immerse you in water...
+L187797 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ What do we have to do?
+L187796 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ It can't do you any HARM...
+L187735 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ The Dragon...
+L187734 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ What's all the panic about?
+L187674 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ I hope the Dragon of the North Sea gets YOU AND your lord.
+L187673 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Quite... MY lord... said: "The Prayer of Faith shall have the sick."
+L187672 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ Your lord.
+L187671 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ You know, my son, our lord said...
+L187592 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ No, it is NOT.
+L187591 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ Same thing, isn't it?
+L187590 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Thorbjorn Vifilsson's wife became a Buddhist, not a Christian.
+L187589 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ There was Thorbjorn Vifilsson's wife. You converted HER.
+L187588 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ Listen. I've been in this dump for sixteen years and I haven't made a single convert...
+L187587 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ You're wasting your time.
+L187586 +++$+++ u845 +++$+++ m54 +++$+++ HARALD +++$+++ I thought I might do a bit of business on the way.
+L187585 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ You coming? You don't even believe in Asgaard.
+L188403 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Mum! Dad!
+L188402 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ Oh! Who cares? We're HOME!
+L188055 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Oh, yes! I hadn't noticed that!
+L188054 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ That's it! AND you keep wanting to go to the lavatory.
+L188053 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ And a sort of slightly sick feeling?
+L188026 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ That's it!
+L188025 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Is it sort of... like a sinking feeling in your stomach?
+L187690 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ Bastard.
+L187689 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ He used to puke in his sleep.
+L187688 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ Look! I don't feel BAD about it. I just feel ILL.
+L187687 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Olaf Tryggvason used to throw up on every single voyage... the whole time... non-stop... puke... puke... puke.
+L187686 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ I know. I know.
+L187685 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ I mean many of the greatest sailors were.
+L187684 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ How can you help feeling bad when you're sea-sick?
+L187683 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ You don't need to feel bad about being sea-sick, you know.
+L187682 +++$+++ u847 +++$+++ m54 +++$+++ IVAR +++$+++ No, I'm not.
+L187681 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Are you all right?
+L187784 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Hang on...
+L187783 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ For your own sake... For the others... I...
+L187782 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I've got you, Keitel Blacksmith. If you go... I go too...
+L187781 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ I'm not worth risking your life for.
+L187780 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ What are you talking about?
+L187779 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Let me go, Sven.
+L187778 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Got you!
+L187777 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Aaagh!
+L188164 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ What have you got there?
+L188163 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Get away, Snorri.
+L188162 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ What are you doing, Keitel Blacksmith?
+L188161 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ What?
+L188157 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ Oh...
+L188156 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ It's me. I'm just going to water the dragon... 
+L188155 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ Who's that?
+L188096 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ I... I...
+L188095 +++$+++ u853 +++$+++ m54 +++$+++ SNORRI +++$+++ Well! Come on!
+L188372 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ It's not my business any more!
+L188371 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ By YOU -- Keitel Blacksmith! Don't you know, Erik, that is why he went with you? Ragnarok was good for his business...
+L188370 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Made by YOU, Loki!
+L188256 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Like you got rid of Snorri!
+L188255 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ I should have got rid of you long ago!
+L188254 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You fool!
+L188253 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ We came to stop you waking the Gods, Erik! But I didn't want anyone to get hurt!
+L188252 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You've lost your mind.
+L188251 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ No! It's YOU, Loki! I should never have listened to you!
+L188250 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Keep your mouth shut, Keitel!
+L188249 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ She knows it was our fault!
+L188248 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Shut up!
+L188200 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Help!
+L188199 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Help!
+L188198 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ You'll drown us bo...
+L188197 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Help!
+L188196 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Urrgh! Argh! Let go, you idiot!
+L188194 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ I'm drowning! Help!
+L188193 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Relax!
+L188192 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ I can't swim! I can't swim!
+L188149 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You'll be able to throw it further than I could.
+L188148 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ YOU do it!
+L188147 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Sh! Hurry!
+L188144 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ How can we stops him now?
+L188143 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Are you going to let Erik wake the Gods?
+L188120 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Well... I... I thought...
+L188119 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Wasn't it, Keitel?
+L187549 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You can't let Erik do THAT.
+L187548 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Together we stand!
+L187547 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Honour and protect all blacksmiths.
+L187546 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ The Blacksmith's Code says I must...
+L187545 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ That's right.
+L187544 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ My brother blacksmiths!
+L187543 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ It's not just YOUR livelihood that's at stake but your son's, and the livelihood of ALL blacksmiths.
+L187542 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ The bottom falls out of the sword business!
+L187541 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ The Age of Ragnarok ends...
+L187540 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ They chase Fenrir the Wolf from the sky...
+L187539 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ But, Keitel, if Erik ever finds the Horn Resounding... if he ever crosses Bi-Frost, the Rainbow Bridge... if he ever wakens the gods..
+L187538 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Can't make enough axe-heads!
+L187537 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Can't make enough swords!
+L187536 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ If this IS the Age of Ragnarok, Keitel Blacksmith, it is GOOD to us.
+L187535 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Yes yes... of course.... the "Blacksmith's Code"...
+L187534 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Oh, I couldn't do that! The Blacksmith's Code says...
+L187533 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You just can't make enough swords and spears and knives and daggers to satisfy the demand. You could charge Halfdan twenty and he'd pay it.
+L187532 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ You could charge him what you like.
+L187531 +++$+++ u848 +++$+++ m54 +++$+++ KEITEL +++$+++ Yes, it is good. But I told him ten.
+L187530 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Ooh, that's a good one! You could charge Halfdan fifteen for that one.
+L188367 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ I hate you! I hate you!
+L188366 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Dad!
+L188365 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ And his "you'll never be a Berserk if you lose your temper"...
+L188364 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Easy, Dad!
+L188363 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ He drove me mad!
+L188274 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Helpless...
+L188273 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ There is nothing we can do...
+L188104 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ GIVE US A CHANCE, Dad!
+L188103 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Well, go on! Go berserk!
+L188091 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I'm just building up to it, Dad.
+L188090 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ There! THAT'S a true Berserk.
+L187895 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Sh!
+L187894 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Well, of course he is!
+L187758 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ DEATH TO DRAGONS!
+L187757 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ HOLD it! HOLD it in!
+L187748 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Stop it!
+L187747 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ KILL! KILL!
+L187743 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ It's no good going berserk against a dragon!
+L187742 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I must KILL! Kill!
+L187741 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ Not now, Sven...
+L187740 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ We're being attacked! KILL! Kill! Kill!
+L187573 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I KNOW! I'VE HEARD IT ALL 1 THOUSAND TIMES!
+L187572 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ You must only let the red rage take hold of you in the thick of battle.
+L187571 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I must only let the red rage...
+L187570 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ But it's a responsibility being a Berserk.
+L187569 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ But it's a responsibility...
+L187568 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ So did my father and his father before him.
+L187567 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ So did your father...
+L187566 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ I went berserk in every battle I ever fought for King Harald...
+L187565 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ You went berserk...
+L187564 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ I was a Berserk for King Harald Fairhair...
+L187563 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ I know, Dad.
+L187562 +++$+++ u855 +++$+++ m54 +++$+++ SVEN'S DAD +++$+++ It's a tradition.
+L188112 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Tell him I'm coming!
+L188111 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ No... he's not... not... there...
+L188110 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ You'll see my grandfather in Valhalla!
+L188109 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ I'm not frightened... of anything...
+L188108 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Thorfinn! You can't die!
+L187793 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Erik's right! We'll all meet in Valhalla.
+L187792 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Shut up.
+L187519 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Me too.
+L187518 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Well... I'm game.
+L187513 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ Neither am I.
+L187512 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Well I'M certainly not, either.
+L187481 +++$+++ u854 +++$+++ m54 +++$+++ SVEN +++$+++ You liar!
+L187480 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ He's not in Valhalla! He died of old age!
+L187561 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ I never do...
+L187560 +++$+++ u857 +++$+++ m54 +++$+++ THORFINN'S MUM +++$+++ And if you have to kill somebody, KILL them! Don't stop to think about it.
+L187557 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Yes, Mother. Goodbye, Dad.
+L187556 +++$+++ u857 +++$+++ m54 +++$+++ THORFINN'S MUM +++$+++ And keep your sword greased.
+L187555 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ No, Mother.
+L187554 +++$+++ u857 +++$+++ m54 +++$+++ THORFINN'S MUM +++$+++ And don't forget: never let your enemy get behind you.
+L187553 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Yes, Mum.
+L187552 +++$+++ u857 +++$+++ m54 +++$+++ THORFINN'S MUM +++$+++ And something to sharpen them with?
+L187551 +++$+++ u856 +++$+++ m54 +++$+++ THORFINN +++$+++ Yes, Mother.
+L187550 +++$+++ u857 +++$+++ m54 +++$+++ THORFINN'S MUM +++$+++ And you've got BOTH axes?
+L194856 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ No one.
+L194855 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ Who was the girl you walked off with?
+L194854 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ I told you that later.
+L194853 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ Yeah, you told me that later.
+L194852 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ This is the night you met Clementine, Joel. I remember watching you walk down the beach with her and I thought, oh shit.
+L194851 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ I remember.
+L194850 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ I did. You said, things were fine.
+L194849 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ I remember you turned around. Your face was dark and your hair was backlit -- I could see a halo of frizz -- you asked me if things were okay between Naomi and me.
+L194847 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ Just a little overworked, maybe.
+L194846 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ I'm sorry Naomi couldn't make it. You okay? You seem quiet.
+L194826 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ Say hi to Naomi.
+L194825 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ Yeah.
+L194824 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ I hope you feel better, sweetie.
+L194823 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ Thanks, guys.
+L194403 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ Sweetie, we called the company.
+L194402 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ They can't erase memories. It's a joke. It's a nasty Clementine hoax.
+L194401 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ You weren't supposed to see that.
+L194398 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ I don't know. I'm so... I can't believe she'd be so goddamn immature!
+L194397 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ Maybe you need to look at this as a sign to move on. Just make a clean break.
+L194394 +++$+++ u861 +++$+++ m55 +++$+++ JOEL +++$+++ She's punishing me for being honest. I should just go to her house.
+L194393 +++$+++ u858 +++$+++ m55 +++$+++ CARRIE +++$+++ I don't know, honey. It's horrible.
+L194884 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ Hi, Joel. So no jokes about my name?
+L194883 +++$+++ u871 +++$+++ m55 +++$+++ VOICE-OVER +++$+++ No, it was lovely.
+L194873 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ You did? You liked me?
+L194872 +++$+++ u871 +++$+++ m55 +++$+++ VOICE-OVER +++$+++ And I just liked you so much.
+L194871 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ But, I don't know, maybe we're the normal ones, y'know? I mean, what kind of people do well at this stuff?
+L194870 +++$+++ u871 +++$+++ m55 +++$+++ VOICE-OVER +++$+++ But I thought, I don't know, I thought it was cool that you were sensitive enough to know what I was feeling and that you were attracted to it.
+L194425 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ Anyhoo, sweetie, I done a bad thing. I kinda sorta wrecked your car...
+L194424 +++$+++ u871 +++$+++ m55 +++$+++ VOICE-OVER +++$+++ Shit. The last time I saw you.
+L194079 +++$+++ u862 +++$+++ m55 +++$+++ MARY +++$+++ Here we are.
+L194078 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ Okay, I guess.
+L194077 +++$+++ u862 +++$+++ m55 +++$+++ MARY +++$+++ How are you today?
+L194076 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ Hi.
+L194075 +++$+++ u862 +++$+++ m55 +++$+++ MARY +++$+++ Ms. Kruczynski?
+L194053 +++$+++ u862 +++$+++ m55 +++$+++ MARY +++$+++ Yes, please have a seat. He'll be right with you.
+L194052 +++$+++ u859 +++$+++ m55 +++$+++ CLEMENTINE +++$+++ Yeah, hi, I have a one o'clock with Dr. Mierzwiak. Clementine Kruczynski.

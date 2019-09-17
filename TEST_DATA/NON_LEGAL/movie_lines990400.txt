@@ -1,0 +1,200 @@
+L585005 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Sneak out the other way, and go back to your theatre. I'd better not see you again.
+L584966 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Wait here.
+L584965 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Let's not get into any more trouble.
+L584964 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ What's the matter?
+L584963 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Let's go away.
+L584962 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Yes.
+L584961 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ That's Harry's place, isn't it?
+L584956 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ It's all right.
+L584955 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I'm so sorry.
+L584954 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Holly.
+L584953 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ We're both in it, Harry.
+L584952 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ A moment ago you said you didn't want to see the Porter.
+L584951 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I thought you wanted...
+L584950 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ What's the hurry? Can't we talk quietly for a couple of minutes?
+L584949 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ If we have to see the Porter we'd better go.
+L584948 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Well, I didn't learn that from him.
+L584947 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ It's just what he used to say.
+L584946 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Seemed like a good idea.
+L584941 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Anna.
+L584940 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ ...and buried him.
+L584930 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Oh, it's very difficult. You know Harry...we didn't do...
+L584929 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Tell me more.
+L584928 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Oh, that was many years ago.
+L584927 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Where is she?
+L584926 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ ...to steal my girl.
+L584925 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Oh, we didn't make much sense. Drank too much. Once he tried...
+L584924 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ When...what did you do?
+L584922 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Tell you what?
+L584921 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Tell me about him.
+L584916 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Oh, let me see. No, no that's not the cue. It means she has to sit down.
+L584915 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ H-E-Z-T...
+L584914 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ "Ein hurigan" - I guess.
+L584913 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ What's that?
+L584912 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Gestern bein heurigen...
+L584911 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Well you read this.
+L584910 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Do I...
+L584909 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Comedy. I don't play tragedy.
+L584908 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I can try. Is it comedy, or tragedy?
+L584907 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ In German?
+L584906 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Can I hear you?
+L584905 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Just another part I've got to learn.
+L584904 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Might as well I suppose. Are you busy?
+L584903 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Need we go through it all again?
+L584902 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ The Porter is going to talk to us tonight.
+L584836 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Silly looking bunch.
+L584835 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Sssh. Don't. Don't, please.
+L584834 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Who are you looking for now?
+L584818 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Yes. He moved his head, but the rest is good, isn't it?
+L584817 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Harry?
+L584811 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Whiskey.
+L584810 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Drink?
+L584713 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Dr. Winkel.
+L584712 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Oh, what was the name of that doctor? Harry's doctor?
+L584693 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ The Russians would claim me. I come from Czechoslovakia.
+L584692 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Why?
+L584691 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ They're forged.
+L584690 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Anything really wrong with your papers?
+L584632 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ The police. They're searching my room. Sie mussen doch wissen.
+L584631 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ What's she talking about?
+L584622 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Why don't you leave this town - go home?
+L584621 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Well, if I do find out something, can I look you up again?
+L584620 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ You shouldn't get mixed up in this.
+L584605 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I was told there were only two men there.
+L584604 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I don't know. They didn't answer.
+L584553 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I know. I wondered about it a hundred times, if it really was an accident.
+L584552 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ ...at all.
+L584549 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Mmmm.
+L584548 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ He was Harry's driver?
+L584547 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Yes. They said it wasn't the driver's fault. Harry often said what a careful driver he was.
+L584546 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Were you at the inquest?
+L584545 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Yes.
+L584544 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ His own doctor?
+L584543 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ The doctor Harry used to go to. He was passing just after it happened.
+L584542 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Dr. Winkel? Who is he?
+L584541 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Dr. Winkel told me that.
+L584540 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ He said he remembered me too. Seems to show he wasn't in much pain.
+L584539 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ That was the man that brought me some money when Harry died. He said Harry had been anxious at the last moment.
+L584538 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Don't understand what Harry saw in a fellow like that.
+L584537 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Oh, yes, yes.
+L584536 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ He has a little dog.
+L584535 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ No.
+L584534 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I was talking to another friend of Harry's. A Baron Kurtz - do you know him?
+L584533 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Oh, American, thank you. I like them.
+L584530 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I don't know. How can you know a thing like that afterwards. I don't know anything any more.
+L584529 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ You were in love with him, weren't you?
+L584528 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I'm so sorry, I didn't notice much.
+L584527 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Well, I saw you at the funeral.
+L584517 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ No, he never told me about his friends. Would you like some tea?
+L584516 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ But I could follow it fine. Perhaps Harry told you about me. My name's Holly Martins.
+L584515 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ No, no...oh...excuse me.
+L584514 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Do you understand German?
+L584513 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ You were awfully good.
+L584510 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Thank you. I enjoyed the play very much.
+L584509 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Sit down.
+L584508 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Thank you.
+L584853 +++$+++ u8220 +++$+++ m558 +++$+++ POPESCU +++$+++ Entschuldigen sie. It was a terrible thing.
+L584852 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Nichts danke. Kein.
+L584848 +++$+++ u8220 +++$+++ m558 +++$+++ POPESCU +++$+++ Keep the packet.
+L584847 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Thank you.
+L584846 +++$+++ u8220 +++$+++ m558 +++$+++ POPESCU +++$+++ Cigarette, Miss Schmidt?
+L584843 +++$+++ u8220 +++$+++ m558 +++$+++ POPESCU +++$+++ I helped Harry fix her papers, Mr. Martins...
+L584842 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Of course.
+L584841 +++$+++ u8220 +++$+++ m558 +++$+++ POPESCU +++$+++ Good evening, Miss Schmidt. You remember me?
+L585293 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Poor Harry, I wish he was dead, he would be safe from all of you then.
+L585292 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Vienna is a closed city, Miss Schmidt, he can't get away.
+L585291 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ If you help me, I am prepared to help you. ANNA Martins always said you were a fool...
+L585290 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I don't know.
+L585289 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Miss Schmidt, we know he is somewhere across the canal in the Russian sector... You may as well help us. In a few minutes Colonel Brodsky will be questioning you about your papers. Tell me where Lime is.
+L585288 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I'm sorry - I don't seem able to understand anything you say. He's alive now this minute - he's doing something.
+L585287 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ That's what we want to find out.
+L585286 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Where's Harry?
+L585285 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ I said another man was buried in his place.
+L585284 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ What did you say? I'm sorry...
+L585283 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Joseph Harbin's body was found in the coffin.
+L585282 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ It's true then?
+L585281 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ I want the truth, Miss Schmidt. We know he is alive.
+L585280 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Two weeks ago.
+L585279 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Now then, Miss Schmidt, I'm not interested in your forged papers - that's purely a Russian case. When did you last see Lime?
+L584799 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ What can I tell you but that you have got everything upside down.
+L584798 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ You can help us.
+L584794 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ It wasn't important.
+L584793 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ In one of his letters he asked you to telephone - a good friend of his called Joseph. He gave you the number of the Casanova Club. That is where a lot of friends of Lime used to go.
+L584791 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ It's stupid to lie to me, Miss Schmidt. I'm in a position to help you.
+L584790 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ No.
+L584789 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ He works in a military hospital.
+L584788 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ No.
+L584787 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Joseph Harbin...
+L584786 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I have never seen him.
+L584785 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Do you know this man?
+L584784 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ We loved each other, do you mean that?
+L584783 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ You know as much as I do, Miss Schmidt - you were intimate with Lime, weren't you?
+L584780 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ And my passport?
+L584779 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Right. Sit down Miss Schmidt, we will send your letters and things back to you.
+L584671 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ There's nothing in them.
+L584670 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ They'll be returned to you, Miss Schmidt, as soon as they've been examined.
+L584669 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ You won't learn anything from them. They are only love letters. There are not many of them.
+L584668 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ That's the reason.
+L584667 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ They're Harry's.
+L584666 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Must you take those letters? CALLOWAY Yes, I'm afraid so.
+L584645 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Yes.
+L584644 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ ...parents.
+L585416 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Good-bye.
+L585415 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ Well, I'll be saying good night. Good night, Miss.
+L585414 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Thank you, you have been so kind. Anna moves down to stand CL of Paine.
+L585408 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I don't...
+L585407 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ Here we are. You'll be all right here, Miss.
+L584689 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ Well, I've got it when you want it, miss.
+L584688 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ I don't want it.
+L584687 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ There you are, miss, your receipt for the letters.
+L584660 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ That's all right, miss, don't worry. We're used to it - like doctors.
+L584659 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ They are - private - letters.
+L584658 +++$+++ u8219 +++$+++ m558 +++$+++ PAINE +++$+++ They'll be returned, miss.
+L584657 +++$+++ u8211 +++$+++ m558 +++$+++ ANNA +++$+++ Must you take those?
+L584403 +++$+++ u8212 +++$+++ m558 +++$+++ BARON +++$+++ I'll carry a copy of one of your books. Harry gave it to me.
+L584402 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ How will I know you?
+L584401 +++$+++ u8212 +++$+++ m558 +++$+++ BARON +++$+++ Just around the corner.
+L584400 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Where?
+L584399 +++$+++ u8212 +++$+++ m558 +++$+++ BARON +++$+++ Austrians aren't allowed in your hotel. Couldn't we meet at the Mozart cafe?
+L584398 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I would very much like to meet you, Baron. Come around.
+L584397 +++$+++ u8212 +++$+++ m558 +++$+++ BARON +++$+++ I was a friend of Harry Lime.
+L584396 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Yes.
+L585141 +++$+++ u8222 +++$+++ m558 +++$+++ RUSSIAN +++$+++ Can I have that woman's passport?
+L585140 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ ...Austrian Police Headquarters.
+L584778 +++$+++ u8222 +++$+++ m558 +++$+++ RUSSIAN +++$+++ Thank you.
+L584777 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Yes, of course.
+L584776 +++$+++ u8222 +++$+++ m558 +++$+++ RUSSIAN +++$+++ Please keep this passport to yourself, until I make some inquiries, will you, Major?
+L584775 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ No, not yet.
+L584774 +++$+++ u8222 +++$+++ m558 +++$+++ RUSSIAN +++$+++ We are interested in this case. Have you arrested the girl?
+L584773 +++$+++ u8222 +++$+++ m558 +++$+++ RUSSIAN +++$+++ This is forgery. It is very clever.
+L584772 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ What is it?
+L585561 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I haven't got a sensible name, Calloway.
+L585560 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Be sensible, Martins.
+L585559 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ One can't just leave - please.
+L585558 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Well, there's not much time.
+L585557 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Wait a minute - let me out.
+L585556 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ I'll do what I can, if she'll let me.
+L585555 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Calloway, can't you do something about Anna?
+L585553 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Two thirty.
+L585552 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ What time is it?
+L585493 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I'll be your dumb decoy duck.
+L585492 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Win what?
+L585491 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I said you win.
+L585490 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ I never knew there were snake charmers in Texas...
+L585489 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ All right, Calloway. You win.
+L585488 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Paine lent me one of your books; "Oklahoma Kid," I think it was. Read a bit of it... Think it's pretty good. What made you take up this sort of thing? Been doing it for long?
+L585483 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Why don't you come in, too - you're a writer... Might interest you.
+L585482 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Of course.
+L585481 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Do you mind if I drop off somewhere on the way? I've got an appointment, won't take five minutes...
+L585479 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ You all did.
+L585478 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Didn't I?
+L585474 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ She's right. It's none of my business.
+L585473 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ A girl of spirit.
+L585469 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Oh, there you are. Come in here, there isn't much time.
+L585468 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Calloway!
+L585389 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ Calloway, you expect too much. I know he deserves to hang, you proved your stuff. But twenty years is a long time - don't ask me to tie the rope.
+L585388 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ We'll never get him in the Russian zone.
+L585387 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ It wouldn't work.
+L585229 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ Yes, yes, yes, and then he vanished out there, I suppose with a puff of smoke and like a clap of...
+L585228 +++$+++ u8218 +++$+++ m558 +++$+++ MARTINS +++$+++ I tell you I heard him running ahead of me.
+L585227 +++$+++ u8213 +++$+++ m558 +++$+++ CALLOWAY +++$+++ How about the doorway?

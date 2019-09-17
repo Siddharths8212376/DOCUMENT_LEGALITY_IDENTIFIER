@@ -1,0 +1,200 @@
+L287741 +++$+++ u5890 +++$+++ m389 +++$+++ SEYMORE +++$+++ What if it goes south?
+L287729 +++$+++ u5890 +++$+++ m389 +++$+++ SEYMORE +++$+++ An hour, tops.  Might be sooner.
+L287728 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ Give me an ETA.
+L287727 +++$+++ u5890 +++$+++ m389 +++$+++ SEYMORE +++$+++ L.A. County Sheriffs are inbound from a bank robbery in Pico Rivera.
+L288364 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ You'd better be kidding.
+L288363 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I gave the other one to the Sheriffs and they're giving it to the <u>real</u> FBI.  This one's a fake.
+L288360 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ If you shoot me, he'll kill your daughter.  Do you want to lose both of them?
+L288359 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'll kill you!  You won't get the other disk!
+L288356 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ First my girls.  I get my girls, you get the other disk.
+L288355 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ All right.  Now the second one.
+L288353 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Close.
+L288352 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ Where is it?
+L288351 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ You get the other one when I have my girls.  Not <u>talk</u> to them; <u>have</u> them.
+L288346 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ You said they would be here!
+L288345 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ They're close.  Let me make a call.  You can see they're okay.
+L288344 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ You said they would be here, goddamnit! Where are they?
+L288343 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ Take it easy.  Just take it easy.  We're here to do business.
+L288323 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ You got ten minutes.  If you're one minute late, we won't be here to find.
+L288322 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Yeah.
+L288321 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ Fuck the mall.  You know that motel on the road west of town?
+L288320 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I think you got no choice.
+L288319 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ Fuck that!  You think I'm crazy?!
+L288318 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ My wife and my daughter and the money. I'll bring the disks to the mall by the freeway, you bring my family.  We'll trade.
+L288317 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ What do you want?
+L288316 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I also have a couple of million in cash. Call Sonny Benza.  Ask if I can keep it.
+L288315 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ I have your fucking family.  Don't forget that.
+L288314 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Mr. Jones is dead.  So are two of his men.  The other three are in jail.  I have the disks.  I have Walter Smith. And you know what, you motherfucker?  I have you.
+L288313 +++$+++ u5877 +++$+++ m389 +++$+++ HOWELL +++$+++ How did you get this number?
+L287699 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ That's okay.  I love you anyway.
+L287698 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'm scared shitless.
+L287696 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ I'm in no rush.  Maybe later we can talk.
+L287695 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I don't know how long I'll be stuck here.
+L287694 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ You sure?
+L287693 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Why don't you guys grab some dinner at the Thai place?  I'll meet you there as soon as I can.
+L287691 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ But they're not here yet.  Tell me about <u>you</u>.
+L287690 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ The Sheriffs will take over when they get here.
+L287689 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ Don't worry about it.  How are you doing?
+L287688 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I should've called.  This thing broke right after we spoke, then everything happened so fast --
+L287537 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ We'll see you in a couple of hours.
+L287536 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Can we talk some more when you get here?
+L287529 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I still see that boy's eyes.
+L287528 +++$+++ u5878 +++$+++ m389 +++$+++ JANE +++$+++ You're hiding, Jeffrey.  You're hiding from the job and you're hiding from me.
+L287527 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I need to work out some stuff.
+L288280 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ I know.
+L288279 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ He can't reach us in here.  We're safe.
+L287834 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Better than you getting killed!  Don't touch that gun!  Daddy says --
+L287833 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ Shh, they'll hear you!
+L287832 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ You leave that gun alone!
+L287830 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Go!  If you get out, maybe you can help the police!
+L287829 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ I'm not gonna leave you!
+L287828 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ You go, Thomas.  You get out, and I'll stay with Daddy.
+L287827 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ We can't carry him.
+L287826 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ No!  I'm not going to leave Daddy with them!
+L287825 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ We can use the crawlspace to get downstairs.  Then we can run for it.
+L287824 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Mine, too.
+L287823 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ That big asshole nailed my windows.
+L287822 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ No one's coming.
+L287821 +++$+++ u5894 +++$+++ m389 +++$+++ THOMAS +++$+++ Be quiet!  Listen!
+L287820 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Ow!  Shit!
+L288260 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Stop it.
+L288259 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Now we can do whatever we want.
+L288258 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Kevin's gone, your daddy's gone, everybody's gone.
+L288257 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ You'd better get out of here!  Kevin's coming back!
+L288255 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ I don't know what you're talking about.
+L288254 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Kevin left without you.
+L287993 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ How about dog shit?
+L287992 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Make the pizza.  I want scrambled eggs and hot dogs on mine.
+L287991 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ We're hungry.  You're going to cook.
+L287990 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ What?
+L287989 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ We can't make the microwave work.
+L287988 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ What do you want?
+L287635 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ What I want is to help my father.
+L287634 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Mommy won't know.  You can do anything you want right now.  Mommy won't know.
+L287633 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ I don't drink beer.
+L287632 +++$+++ u5886 +++$+++ m389 +++$+++ MARS +++$+++ Want one?
+L288193 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Yes.
+L288192 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Dennis and Mars are in the den.  I'll get your brother, then come back for you. We'll go down the stairs and out the front door, you understand?
+L288191 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ How can we get out?
+L288190 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ All three of us will go, but we have to move fast.  Mars and Dennis don't know I'm doing this.
+L288189 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ I can't go without Thomas.
+L288188 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Do you want to go or not?  I'm offering you a way out of here.
+L288187 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ What happened?
+L288186 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Keep your voice down.  I'm taking you and your brother out of here.
+L288185 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ What do you want?
+L287807 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ If my father dies they'll charge you with his murder.  Can't you make Dennis see that?
+L287806 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ He's just knocked out.  I've been knocked out.
+L287805 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Kevin, my father needs a doctor.
+L287804 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Whatever.
+L287803 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Thanks for the shirt.
+L287802 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Either I'm going to tie you or Mars will tie you.  Which do you want?
+L287801 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ I don't see why you can't just lock me in.  It's not like I can go anywhere.
+L287800 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ You gotta pee?
+L287630 +++$+++ u5881 +++$+++ m389 +++$+++ KEVIN +++$+++ Mars?  What are you doing?
+L287629 +++$+++ u5879 +++$+++ m389 +++$+++ JENNIFER +++$+++ Please get away from me.
+L288138 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Get in the car.  <u>Now</u>.
+L288137 +++$+++ u5880 +++$+++ m389 +++$+++ JORGENSON +++$+++ What's going on?
+L287556 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Keep your head down.
+L287555 +++$+++ u5880 +++$+++ m389 +++$+++ JORGENSON +++$+++ What are we going to do about Mike?
+L287554 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ We have to cordon off the streets, then evacuate these houses.
+L287550 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Holster your guns!
+L287549 +++$+++ u5880 +++$+++ m389 +++$+++ JORGENSON +++$+++ He said something about a girl --
+L287548 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Are civilians inside?
+L288156 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Another minute.  Please --
+L288155 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ That's enough.
+L288151 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I need to talk to him.  Alone.
+L288150 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ Chief Talley is the one who got you out.
+L288149 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'm Jeff Talley, the Bristo chief of police.  So far as we know, your children are okay.
+L288041 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ He.  Can't.  Answer.
+L288040 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Just one question.  Please.
+L288039 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ I'm not going to wake him.  I don't even know that I can.
+L288034 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ What are you doing?!  Stop that!
+L288033 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Smith!  Wake up!
+L288032 +++$+++ u5882 +++$+++ m389 +++$+++ KLAUS +++$+++ Ain't gonna happen.  We've got unequal pupilation.  He could have an intracranial hematoma or a fracture or both.
+L288031 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'm the chief of police here.  I have to talk to him.
+L287916 +++$+++ u5883 +++$+++ m389 +++$+++ LOUISE +++$+++ His cell number belongs to the Smiths.  I think it's real, Chief.  I think this boy is inside that house.
+L287915 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ It's a crank, Louise.  C'mon, don't waste my time with that!
+L287914 +++$+++ u5883 +++$+++ m389 +++$+++ LOUISE +++$+++ We have a boy on the line.  He says he's Thomas Smith and he's calling from the house.
+L287913 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Is something wrong with Jane?
+L287580 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Get everyone out here.  Then call the Sheriffs.  Tell them we have a possible hostage situation.
+L287579 +++$+++ u5883 +++$+++ m389 +++$+++ LOUISE +++$+++ What's that, Chief?  Say again.
+L287578 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ That's not enough.
+L287544 +++$+++ u5883 +++$+++ m389 +++$+++ LOUISE +++$+++ York Estates.  Four-five-five Castle Way. Anders and Jorgenson are on the way.
+L287543 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Where are they?
+L287542 +++$+++ u5883 +++$+++ m389 +++$+++ LOUISE +++$+++ Three white males shot Junior.  Mike followed them to York Estates --
+L287541 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ What are you talking about, shot?  What happened?
+L287912 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Stand by.
+L287911 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Other people can hear us.  Just call. <u>Please</u>.
+L287910 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ What's wrong with the radio?
+L287909 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Could you call me back on your phone? Right away.
+L287908 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Did you find Jane and Mandy?
+L287899 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ They might be at the house.  Keep trying and let me know.  I'm going to be here a little while longer.
+L287898 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ She didn't answer.
+L287897 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ You have her cell number?
+L287896 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ I couldn't find Jane.  She wasn't at the restaurant.
+L287895 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Go.
+L287894 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Chief, base.
+L287775 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Tell her I'm almost home.
+L287774 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ I know the one.
+L287773 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Call Jane for me.  She's at the little Thai place.
+L287772 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Go, Chief.
+L287771 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Louise?
+L287612 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Get a phone number for the Smiths.
+L287611 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Go, Chief.
+L287610 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Louise?
+L287577 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ We only have eight officers on duty, Chief.
+L287576 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Jesus Christ, Louise, we can't leave a crime scene like that.  Put a unit out there.
+L287575 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ I pulled Mickey and Dreyer off the minimart.
+L287570 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Then we don't know if she's part of this or not.  Mickey, you up?
+L287569 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ He didn't say.
+L287568 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Did he say if she was shooting at him?
+L287567 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Chief?  Mike said a young girl answered the door.
+L287562 +++$+++ u5884 +++$+++ m389 +++$+++ LOUISE'S VOICE +++$+++ Junior Kim was DOA at the hospital.
+L287561 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ One at a time!  Clear the air!  Louise?  Talk to me.  What do we have?
+L288236 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Goddamned small town bullshit.
+L288235 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Let it go, Captain.
+L288084 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ -- then when you get him, you damn near assault the man in the ambulance!  <u>What</u> <u>is going on</u>?
+L288083 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Don't question me, Captain!  This is <u>my</u> crime scene!
+L288082 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ I'm not stupid!  You can't get out of here fast enough, then you take back command; you agree to wait on Smith, then you risk everything in a stupid stunt to get him out --
+L288081 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'm looking for you.  I need your tactical unit.
+L288080 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ I want to know what in hell you're doing.
+L287985 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ And now I'm taking it back.  We're getting Smith out of the house.
+L287984 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Excuse me?  <u>You</u> requested our help.  You turned over command --
+L287940 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ You've been here all day, Chief.  Take a break.  See your family.  If I need you, I'll call.
+L287939 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ You want me to stick around, I could --
+L287938 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Then I think we should wait.  Do you agree?
+L287937 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ No.  He said that his father's unconscious; he didn't say he was dying.
+L287936 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Did the boy say that any of them are in immediate danger?
+L287935 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ They have security cameras.  Rooney would see you coming.
+L287934 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ If we have a man dying in there, we'll have to go in.
+L287933 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ He says that his father's hurt.
+L287893 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ That's why you get the big bucks, Captain.
+L287892 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Looks like you're bailing out at the right time.
+L287891 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ If you go in, you can't use tear gas or flashbangs.  The whole place would go up.
+L287890 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Jesus.  He must've siphoned it from the cars.
+L287889 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ He says he has gasoline set to burn the place.
+L287870 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Order your men to stand down.
+L287869 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Then get your men off the wall!  You breach that house, we're gonna have a bloodbath!  I <u>know</u> this guy, Captain -- I can talk to him.
+L287844 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Maddox!  You got that?
+L287843 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I've done it once or twice.  I blocked their phones to incoming calls, so you'll have to cut in a hard line to talk to him.
+L287842 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Sounds like you know the job.
+L287841 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Don't crowd the house.  The alpha's a kid named Rooney.  He's amped up and volatile.
+L287840 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Do it.
+L287836 +++$+++ u5887 +++$+++ m389 +++$+++ MARTIN +++$+++ Laura Martin.  This is Will Maddox, the primary negotiator --
+L287835 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ I'm Talley.  Who's in charge?
+L288243 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ Yes, sir.
+L288242 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Mickey?  Call the state Homicide Bureau. Don't touch anything, just sit back and wait.
+L288239 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Go, Mickey.
+L288238 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ Chief, it's Mikkelson.
+L288237 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ It's mine.  Talley.
+L287616 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Contact the landlord.  I want to know employment, friends, family, anything we can find out about this guy.
+L287615 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ The truck is registered to Dennis James Rooney, white male, twenty-two.  He has an Agua Dulce address.
+L287614 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Go, Mickey.
+L287613 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ Chief, Mikkelson.
+L287574 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Run a DMV on the plate for the owner's name.
+L287573 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ It's right in front of us.
+L287572 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Mike found a red pickup abandoned on Flanders.  You see it?
+L287571 +++$+++ u5888 +++$+++ m389 +++$+++ MIKKELSON'S VOICE +++$+++ We're out two minutes, me and Dreyer.
+L288294 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ Help me, goddamnit, we can get the disks later!
+L288293 +++$+++ u5889 +++$+++ m389 +++$+++ MR. JONES +++$+++ Where's the office?
+L288292 +++$+++ u5891 +++$+++ m389 +++$+++ TALLEY +++$+++ The kids are in here!

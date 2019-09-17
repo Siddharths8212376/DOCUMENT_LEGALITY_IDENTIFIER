@@ -1,0 +1,200 @@
+L348579 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ Look, I am truly sorry about this. I'd like to help you...
+L348576 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ I did, Claude. I mentioned you. I mentioned you both. But the fact is, pardons don't come cheap. The kid can hit. What can you do?
+L348575 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yeah, but what about me and Ray? I didn't see our names on that pardon. You said you were gonna put in a good word for us.
+L348574 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ Kid's getting out. I got him a pardon.
+L348573 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yo, Blocker, what's going on here?
+L348507 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ There are ways around that. Right sergeant?
+L348506 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Maybe you didn't notice, but this is a prison.
+L348505 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ Crawford's are always looking for new talent.
+L348504 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You can try, but you won't get too far. Why you interested?
+L348503 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ Can't Get Right? That's the kid's name? Can I talk to him?
+L348502 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You probably mean Can't Get Right. That's him over there.
+L348501 +++$+++ u1809 +++$+++ m120 +++$+++ BLOCKER +++$+++ We played down in Jackson yesterday. Heard a rumor you've got a boy up here who can hit the ball a ton.
+L348500 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ We get the games on the radio sometimes.
+L347859 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I look good tonight. And I feel lucky, too.
+L347858 +++$+++ u1810 +++$+++ m120 +++$+++ BOUNCER +++$+++ Sharp.
+L347857 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Well, alright then. What do you think about this new tie?
+L347856 +++$+++ u1810 +++$+++ m120 +++$+++ BOUNCER +++$+++ Yeah...
+L347855 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ But this is where the action is and I have to be where the action is. Look, when your old lady wanted those alligator shoes, didn't I come through for you? Ain't she stepping in style now?
+L347854 +++$+++ u1810 +++$+++ m120 +++$+++ BOUNCER +++$+++ Do yourself a favor and find another place where they let you in the front door.
+L347853 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Then what's the problem?
+L347852 +++$+++ u1810 +++$+++ m120 +++$+++ BOUNCER +++$+++ No, but...
+L347851 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Is Spanky here?
+L347850 +++$+++ u1810 +++$+++ m120 +++$+++ BOUNCER +++$+++ Oh, no, Ray. Not tonight. Spanky's not happy with you.
+L348624 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Nice girl like you don't belong in a place like this. But if you talk to Sylvia, tell her old Claude said congratulations.
+L348623 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ Want me to come back some other time?
+L348622 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I'm too old for you. Besides, I'm not much in the mood.
+L348621 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ You know, go to the tonk or whatever.
+L348620 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Take care of me?
+L348619 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ I know she's sorry she won't be seeing you anymore. Anyway, she wanted me to take care of you.
+L348618 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ But I'm not on the outside. I'm in here.
+L348617 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ She always said that if you were on the outside...
+L348616 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ Real nice guy, too. Trumpet player. They moved down to New Orleans.
+L348615 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Married?
+L348614 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ She got married last month.
+L348613 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Why not?
+L348612 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ Oh, she's fine. She's just not coming today.
+L348611 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ She's alright, isn't she?
+L348610 +++$+++ u1833 +++$+++ m120 +++$+++ YVETTE +++$+++ My name's Yvette. Sylvia sent me. You look just like she said.
+L348609 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yeah.
+L348760 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ I'm not your boss. Not anymore.
+L348759 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Sure, boss.
+L348758 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ Claude, mind helping me to the bathroom?
+L348730 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ He's right, Gibson. Put down the gun and we'll work this out.
+L348729 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Cool it, Ray. You're gonna get us in a lot of trouble.
+L348710 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ Goodnight, Claude.
+L348709 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Goodnight, Mr. Wilkins. Mr. Pike.
+L348677 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ I'll be right back.
+L348676 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yes, sir.
+L348675 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ You know I trust you, Claude.
+L348663 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You have to forgive me if I don't laugh.
+L348662 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ Half the men in this prison swear they're innocent. Don't you think that's kinda funny?
+L348661 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ It's a hell of a lot longer when you're innocent.
+L348660 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ Forty years. That's a long time for any crime, even murder.
+L348659 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Over forty years now. Me and Ray Gibson out there.
+L348658 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ You been on the farm for quite a spell, haven't you?
+L348657 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ That's alright, boss. Takes a lot more than a colorful brochure to hurt my feelings.
+L348656 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ I apologize, Claude. That was rude of me.
+L348654 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ You know, I'm fixing on retiring at the end of the summer, gonna try to enjoy what few years I have left. What do you think of this place? It's one of those new retirement communities down on the Gulf.
+L348653 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yes, boss.
+L348652 +++$+++ u1831 +++$+++ m120 +++$+++ WILKINS +++$+++ Damn dentures slipping again. Everything falls apart when you grow old, eh, Claude? Time sure marches on.
+L348629 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ We'll see what those slippers feel like after, say, 24 hours. And if you step down off them bottles -- if one toe so much as touches the dirt -- one of these boys is gonna shoot you dead. Let's see. We need a special man for this job.
+L348628 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ As a pair of fur-lined bedroom slippers, boss.
+L348627 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ Comfortable?
+L348351 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Here!
+L348350 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ Craddock!... Williams... Henshaw!... Banks!
+L348240 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ I don't need the Baptists on my back, but I suppose I could issue a temporary marriage license for a nominal fee.
+L348239 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You think you could make an exception just this once, boss? She came all the way down from New York.
+L348238 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ I don't see no wedding ring, Banks. Conjugal visits are for married prisoners only.
+L348137 +++$+++ u1814 +++$+++ m120 +++$+++ DILLARD +++$+++ He don't sound like he's from 'round here.
+L348136 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I got it... boss.
+L348291 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ Sure, Claude, whatever you say.
+L348290 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Ray Gibson?  No, no. He's the reason I'm in here, Daisy. For all I know, he's got a record a mile long. I got a better shot of getting out of here on my own. You tell Maynard to think about me, concentrate on me. Understand?
+L348289 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ Listen, Claude, Maynard wanted to know if he should file the appeal on behalf of your friend, too.
+L348288 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ A job, huh? Well, that's nice, real nice. You won't have to work long. I'll be back soon enough. After I start work at First Federal Bank of Manhattan, I'll be keeping you in style. Everything will get back to normal again. That's a promise.
+L348287 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ He seemed like a pretty good lawyer to me. His offices take up an entire floor of that big, new building on 125th Street, and he was using all these words I never heard before. He even offered me a job.
+L348286 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yeah, that side of the family has all the looks and none of the brains. I hope he don't mess things up.
+L348285 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ Of course I did. He said he'd file an appeal right away. You didn't tell me he was so good looking.
+L348284 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Did you go see my cousin Maynard like I asked you in my letter?
+L347899 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ But I'm having a good time...
+L347898 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Come on, honey, let's get out of here.
+L347874 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Sure it is. I just don't see any reason to rush into things. Damn, look at this shirt. I'll be right back.
+L347873 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ That's what respectable folks do. Get a job, get married, start having babies. That's what you want, isn't it?
+L347872 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Engagement ring!
+L347871 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ I was hoping you were gonna say an engagement ring, Claude.
+L347870 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Season tickets to the Yankees. Right there on the first base line.  What's wrong, baby?
+L347869 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Know what I'm going to buy with my first pay check?
+L347868 +++$+++ u1813 +++$+++ m120 +++$+++ DAISY +++$+++ Claude. Here's to your new job down at the bank. I always knew you'd make something of yourself.
+L347867 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ For the kind of money they charge here, you'd think they could hire somebody to actually wash the dishes.
+L348038 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ Why would you want to go home? It's so early.
+L348037 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Ten dollars. But I need it to get home.
+L348036 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ You're cute. You have any money, Claude?
+L348035 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Claude. That's my name. Claude. That's never happened before.
+L348034 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ He looks like he can take care of himself.
+L348033 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I really shouldn't. I gotta keep an eye on my friend.
+L348032 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ Well, Mr. "C", how about buying a girl a drink?  Two bourbons.
+L348031 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I know it begins with a "C"...
+L348030 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ Can't you remember your own name?
+L348029 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ I'm Sylvia. What's your name?
+L348028 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ That's because I've never been here before.
+L348027 +++$+++ u1830 +++$+++ m120 +++$+++ SYLVIA +++$+++ I've never seen you in here before.
+L348846 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I'm sorry, he's on medication...
+L348845 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I know you're not talking to me...
+L348844 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Damn, I shoulda let Spanky Johnson drown you in the river when I had the chance.
+L348843 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Well, if you must know, they could be closer.
+L348842 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Next thing, you're gonna be complaining about the seats.
+L348841 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Yeah? You and what army?
+L348840 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ If you don't eat that ice cream right now, I'm gonna strangle you until you are completely dead.
+L348839 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ They're touching.
+L348838 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ So?
+L348837 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ No, this ain't gonna work either. It's half chocolate, half vanilla.
+L348836 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Hell of a day, Ray. Yankees are on fire.
+L348835 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Hell of a day for a ballgame, huh, Claude?
+L348831 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Gimme that damn thing.
+L348830 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You didn't get ketchup?
+L348829 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Just put some mustard on it and eat it.
+L348828 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I saw that hot dog guy in the bathroom urinating. He didn't wash his hands.
+L348827 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Why the hell not?
+L348826 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I can't eat this.
+L348801 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Never thought I'd hear Ray Gibson say that. Hell with you then. You'd only slow me down anyway.
+L348800 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ It's too late for plans.
+L348799 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You don't want to hear it, you don't want to hear it. There's no shame in that.
+L348798 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Don't tell me, I don't want to hear it. It's probably all fucked up, anyway.
+L348797 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Shh! Is that so hard to believe?
+L348796 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Are you trying to tell me after all this time you finally have a plan for busting out of here?
+L348781 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You're the one who said that boneyard's the only way we're getting out of here. We're gonna join all the rest of 'em soon enough. Jangle Leg, Biscuit, Goldmouth, Poker Face, Cookie, Radio -- yes sir, pick a plot and start digging...
+L348780 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ 'Course I was right. About what?
+L348779 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Over to the morgue and up the hill to the cemetery. Never thought I'd admit it, Claude, but you were right.
+L348777 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Remember what that place looked like on a sunny spring day? More beautiful than any church I was ever in.
+L348776 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ They oughta tear that shit down and ship them Yankees cross the river to Jersey.
+L348775 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ What do you expect? It's almost as old as we are.
+L348774 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Well, Ruth shoulda built it a little better. Damn thing's falling to pieces. Gonna hurt somebody.
+L348773 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Sure would like to see the house that Ruth built one more time.
+L348772 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Tell me about it. Scared me at first. Then, before I could figure out what to do with it, it was gone. Imagine my disappointment.
+L348771 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ An erection, huh? Haven't had one of those in a while.
+L348770 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Nurse Humphries was checking my prostate this morning. I got an erection.
+L348755 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ He knows nobody wants to hear the truth.
+L348754 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Why don't he just tell 'em the truth?
+L348749 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Don't call me soft, I hate it when you call me that.
+L348748 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I said you're soft.
+L348747 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ What'd you say?
+L348746 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ That's because you're soft. Gimme the gun.
+L348745 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I can't do it.
+L348744 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ No, believe me, I'm gonna kill him!
+L348743 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ No, I'm gonna kill him --
+L348734 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ He's got my daddy's watch, Claude. I always knew whoever took that watch killed Winston Hancock. And that was you, Mr. Pike.
+L348733 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Don't shoot, sir. I can deal with this.  Ray, buddy, you don't want to shoot this white man. See, you do that, they'll kill you for sure. And it's not that I like you or anything, but I've kinda gotten used to having you around.
+L348701 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I know. Simultaneously, they shake and zip. Claude bends down and picks up a bowl of gumbo, placing it on a tray next to an identical one.
+L348700 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ We'd be in the hole by now. Hey, man, you're peeing on my shoe.
+L348699 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I don't like it, I don't like it one bit. We shoulda taken that car when we had the opportunity. We'd be half way to New York by now.
+L348698 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Some faces you just don't forget. Warren Pike's is one of 'em.
+L348697 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You sure it was him?
+L348693 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Hey, there's Wilkins!
+L348692 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Don't make me take them away from you.
+L348691 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I ain't spending a month in the hole so you can take a joy ride.
+L348690 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Claude, man, I'm serious. Give me those keys.
+L348689 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Forget about that. You run if you want to, but you're not taking this car.
+L348688 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ This boat's gonna sail without you, too. I don't care if I last one day out here. At least it's one day of freedom. Now gimme those keys.
+L348687 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ And what will we do when we get there? I'm sixty-five years old, Ray. So are you. What are we gonna do out here? Get married, have kids, settle down? That boat sailed without us, man.
+L348686 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Back to New York for starters.
+L348685 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Go where, Ray?
+L348684 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Come on, man, I'm starting to cramp up here.  We have the chance right here, right now, I say we go!
+L348683 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You ain't getting out of that trunk.
+L348682 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Then you're lucky I came along. Doesn't take a visionary to spot a golden opportunity like this. Now help me out of this trunk.
+L348681 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I ain't escaping! We're picking up the new super just like I told you.
+L348680 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You didn't think I was gonna let you escape alone, did you?
+L348679 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ What the hell are you doing in that trunk?!
+L348678 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Damn, it was getting hot in there.
+L348674 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Greenville. We're picking up the new Superintendent at the bus station.
+L348673 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You haven't driven in 40 years, you ain't even got a license. Man's taking his life in his hands, putting you behind the wheel! Where you taking him?
+L348672 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Wilkins' driver's got the flu, so he asked me to fill in for him.
+L348671 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Don't touch that car.
+L348670 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ What the hell are you doing?
+L348669 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Goodnight, Ray.
+L348668 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You can't fool me, Claude. I know you got something brewing.
+L348667 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I'm not working on a plan.
+L348666 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Hey, I'm a lonely old man. I like to talk, too. So why don't we start by talking about what kind of a plan you're working on?
+L348665 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ He's just a lonely old man. He likes to talk.
+L348664 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You and Wilkins sure are getting chummy. You two planning on going steady, or something?
+L348645 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Bullets weren't the problem. That pie was too hot. Burned my tongue.
+L348644 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ You sure looked funny running for those pies, bullets flying all around you.
+L348643 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ What?!
+L348642 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ We're not talking, you're talking, and doing too damn much of it, if you ask me.
+L348641 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I know, but since we're talking, I thought I'd mention it.
+L348640 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ That was five years ago.
+L348639 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I was sorry to hear about your mama passing.
+L348638 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ I didn't do if for you, anyway. I just ain't no boot-licking trusty, that's all.
+L348637 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I hope you don't think I owe you anything. Because I don't owe you a damn thing.
+L348636 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ After all these years of blissful silence, I almost forgot how annoying the sound of your voice can be.
+L348635 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ I'd have knocked you off those bottles, put a bullet in your ass and be half way to New York right now.
+L348634 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Excuse me? Are you talking to me?
+L348633 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ You're a sucker. I'd have taken that deal.
+L348603 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Then I have nothing left to say to you.
+L348602 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ That's the way it is.
+L348601 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Well, if that's the way it is...
+L348600 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ The only thing I regret is the day I met you.
+L348599 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Better watch yourself Claude, before you say something you regret.
+L348598 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Here's a news flash, Ray. We never were friends. We've just been stuck together for 12 years. It's been nothing but bad luck since the moment I ran into you. Every time I look at you I get sick to my stomach thinking about what my life could have been if I'd never bumped into Ray Gibson.
+L348597 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ Take that back or we ain't friends no more, Claude Banks.
+L348596 +++$+++ u1811 +++$+++ m120 +++$+++ CLAUDE +++$+++ Maybe you're fooling yourself, Ray. Maybe you're just a chip off the old block.
+L348595 +++$+++ u1827 +++$+++ m120 +++$+++ RAY +++$+++ My daddy died in prison. He gave up hope and hung himself. What you're talking about is the same damn thing. That ain't how I'm going.

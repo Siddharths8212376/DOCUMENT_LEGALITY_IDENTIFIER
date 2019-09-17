@@ -1,0 +1,200 @@
+L541909 +++$+++ u7817 +++$+++ m529 +++$+++ BIGGS +++$+++ That's no battle, kid... They're just sitting there!
+L541905 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You look great!  The uniform and everything!
+L541904 +++$+++ u7817 +++$+++ m529 +++$+++ BIGGS +++$+++ Of course, where you been kid?
+L542494 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ Forget it, son.
+L542493 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Yes, sir, but I can get him...
+L542492 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ Blue Five, break off your cover attack.  It's too late.  Make your own run on the exhaust port.  Do you copy, Luke?
+L542491 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ What's that?
+L542490 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I'm right behind you, Blue Leader.
+L542464 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I've got it blocked.  I'm all right.
+L542463 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ Blue Five, does that glare bother you?
+L542452 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Yes, sir.
+L542451 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ Six hours, huh?  Well, that's your ship there.  You're blue five.  You stay glued to me.  I don't want any independent operations out there. Personally I think it's foolish for them to be sending fresh kids out on a job like this.  This is no joy ride we're going on.
+L542450 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Yes, sir.  I was considered one of the best bush pilots on Sullust. I've also had six hours on the T-2.
+L542449 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ Have you been checked out?
+L542448 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Yes, sir.
+L542447 +++$+++ u7818 +++$+++ m529 +++$+++ BLUE LEADER +++$+++ You're Starkiller?
+L542233 +++$+++ u7820 +++$+++ m529 +++$+++ CONTROLLER +++$+++ Send out a boarding party.  Full assault gear.
+L542232 +++$+++ u7819 +++$+++ m529 +++$+++ COMMANDER +++$+++ We don't get many visitors.  Let's take a look at it.
+L542230 +++$+++ u7819 +++$+++ m529 +++$+++ COMMANDER +++$+++ Send one squad up.
+L542229 +++$+++ u7820 +++$+++ m529 +++$+++ CONTROLLER +++$+++ As close as we can make out, it appears to be a Corellian gypsy vessel... It's not under power.
+L542228 +++$+++ u7819 +++$+++ m529 +++$+++ COMMANDER +++$+++ I'll make a report later.
+L542227 +++$+++ u7820 +++$+++ m529 +++$+++ CONTROLLER +++$+++ Should we alert the Sith Lords?
+L542226 +++$+++ u7819 +++$+++ m529 +++$+++ COMMANDER +++$+++ Alert squad five, but hold them until we know what it is.
+L542225 +++$+++ u7820 +++$+++ m529 +++$+++ CONTROLLER +++$+++ No reply on any circuits... It's drifting on a point twenty-seven skew.  It's not close enough to identify.
+L542421 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ I have little time for your mercenary concerns, but I am grateful for the service you have given to our cause.  What is your price?
+L542420 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ What about us?  Are we to wait forever?  Is our reward to be blown to bits on this forsaken system, while your fleet mounts some suicidal attack on that Death Star? Part of my reward is that I be around to spend it.
+L542413 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I'd like to get paid before that eventually.  I don't plan to stick around for the fireworks.
+L542412 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ We must hurry to the base.  We have little time before the Death Star arrives.
+L542411 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ Did it occur to you they might find us?
+L542410 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I don't see how we're going to find anything out here.  This terrain is hopeless.
+L542401 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I'd better go see how he's doing.
+L542400 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ The fourth moon of Yavin.  I've given the coordinates to Chewbacca.
+L542399 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Where are you taking us now anyway?
+L542398 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ We captured the plans in a raid on the Imperial shipyards, but we fell under attack before I could get the data to safety, so I hid it in this Artoo unit and sent him off.
+L542397 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ The plans and specifications to a battle station with enough fire power to destroy an entire system... Our only hope in destroying it is to find its weakness, which we will determine from the data I stored in Artoo.
+L542396 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ What's that little 'droid' carrying that's so blasted important?
+L542395 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ When Artoo has been safely delivered to my forces, you get your reward. You have my guarantee.
+L542394 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Then I think we're due the reward you offered... and it had better be substantial after what we've been through.
+L542393 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ All the data banks in Artoo are still secure.
+L542389 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Chewbacca, it's time we showed them this isn't the regulation F8-88 Cargo Trawler.
+L542388 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ There are only three or four left.
+L542386 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Was this trip really necessary?
+L542385 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ Here come six more... grid two!
+L542363 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ It could be worse...
+L542362 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Yes, your highness. I'll let you open it then.  It won't be too long before they figure out what happened to us.  This has turned into a brilliant escape!
+L542361 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ Put that thing away or you're going to get us all killed.
+L542511 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Thanks, old buddy.  I'll be with you in a second.
+L542510 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I noticed you were having some problems, Blue Five... I thought I'd help.
+L542429 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I know, but the chances for survival here just aren't great enough in my book.  I've got what I came for. Now I've got to get back to my ship.
+L542428 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You're a good pilot... I've learned a lot from you... I wish you...
+L542408 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Well, if it's not, we'll be facing that Death Star all by our lonesome.
+L542407 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ They must be shielded somehow.  I'm sure the base is there.
+L542406 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I don't pick up any life form concentration down there.  She'd better be right.
+L542349 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Come back here... Where are you going?
+L542348 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Get to the ship!
+L542328 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Move out of the way!
+L542327 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ It's only light that doesn't affect it.  Solid things, like rocks, can hurt it!  Fire above him!
+L542323 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Get Chewbacca.  Try to get around it. I'll draw it away.
+L542322 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Watch it!  Move back.
+L542320 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ No, he smells something... but we haven't time to worry about it now.
+L542319 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Is he afraid of the water?
+L542314 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Not if this tunnel deadends.
+L542313 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I think she's going to be all right.
+L542308 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ See Threepio, come in, See Threepio. I wonder where they are??  See Threepio...
+L542307 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Let's try this way!  Holy Maker.
+L542306 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Something has happened to them. Let's try this way...
+L542282 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I think I did.
+L542281 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Why didn't you say so before.
+L542280 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ This isn't going to work.
+L542268 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Good!  I prefer a straight fight to all this sneaking around.
+L542267 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Between his howling and your blasting everything in sight, the entire city is going to know we're here.
+L542209 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I don't know... I've never fought anyone.
+L542208 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ You're good with 'remotes,' but how are you against something living?
+L542207 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Well, I practice a lot...
+L542196 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Don't you believe it.
+L542195 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Maybe the fact that no one would go there voluntarily could help us. They probably don't think anyone would dare try.
+L542194 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ No, it's impossible... No one, and I mean no one would venture anywhere near the Alderaan system... I'm a free booter, not revolutionary.  You're aboard the wrong ship, son!
+L542188 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ All right, all right! You've got a ship!  But where do we go from here?  They probably took her to find the hidden bases... I don't see how we can find the rebels before she breaks.  The Empire has already beat us out.
+L542187 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Maybe you should just drop us off. I'm sure we can find someone willing to take the risk.
+L542179 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Why?
+L542178 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You can't!  We've come this far.  We must find them...
+L542167 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ What are you saying?
+L542166 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I found it... It's just not there.
+L542160 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Sorcery!  I believe in myself... I determine my destiny, not some mystical energy field.
+L542159 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You don't believe in the Force?
+L542158 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ I'd keep that thing close just in case, if I were you... I've been around from one end of the galaxy to the other and believe me this Force of Others stuff may make for good religion, but there is no substitute for a good weapon at your side.
+L542151 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ It's automatic.
+L542150 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Who's the pilot?
+L542097 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ We have a little business to take care of first, but it shouldn't take long. We'll be back shortly.
+L542096 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ You got yourself a ship.  We can leave as soon as you're ready.
+L542092 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ That's pretty steep.  We'd like to talk it over first.
+L542091 +++$+++ u7821 +++$+++ m529 +++$+++ HAN +++$+++ Organa Major is a rebel system. There will be quite a few starfleet patrols between here and there... It could be a little tricky if you want to avoid them... ten thousand.
+L542292 +++$+++ u7822 +++$+++ m529 +++$+++ INTERCOM VOICE +++$+++ Who is this?  What's your operating...
+L542291 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ The... ah door's jammed.  Give us a few minutes to get it fixed.
+L542290 +++$+++ u7822 +++$+++ m529 +++$+++ INTERCOM VOICE +++$+++ With four casualties?!
+L542289 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ No need, everything's under control.
+L542288 +++$+++ u7822 +++$+++ m529 +++$+++ INTERCOM VOICE +++$+++ We'll send a squad up.
+L542287 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ A Wookiee broke loose up here, but we've subdued him... There is a lot of damage, and three, no four, casualties...
+L542148 +++$+++ u7827 +++$+++ m529 +++$+++ VADER +++$+++ It would be much easier if you were to tell us where the outposts are... Otherwise we'll be forced to destroy every suspicious system... What a waste...
+L542147 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ No!...
+L542146 +++$+++ u7827 +++$+++ m529 +++$+++ VADER +++$+++ It's too late... We already tested it on Organa Major.  It appears your data never got through.
+L542145 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ They'll find its weakness.
+L542144 +++$+++ u7827 +++$+++ m529 +++$+++ VADER +++$+++ The 'Death Star' has become operational.  There is no force in the universe that can stop us now.
+L541922 +++$+++ u7827 +++$+++ m529 +++$+++ VADER +++$+++ It appears your ship had an accident. I will see to it that your death is duely reported.  There will be no one to save you this time.
+L541921 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ You'll get no information from me. You have no authority... the council can't hold me!
+L541920 +++$+++ u7827 +++$+++ m529 +++$+++ VADER +++$+++ Enough!  I already know about the data you've intercepted, but its' too late.  Whatever information you've gathered will be destroyed... You will come to know such suffering as only the Master of the Bogan Force can provide...
+L542426 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ If you're as good a pilot as you are a swordsman... We're the ones who have been rewarded.
+L542425 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I... I don't know.  I guess I never thought about it... I just want to help.  I want to be in on the attack. I want my own ship.
+L542424 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ And you?
+L542405 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ He'll be well cared for.
+L542404 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Are there medical facilities on Yavin?
+L542333 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ There'll be time for that later. Now let's get out of here.
+L542332 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I am Luke Starkiller at your service.
+L542317 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You're safe.  We've come to get you out of here... Just relax.
+L542316 +++$+++ u7823 +++$+++ m529 +++$+++ LEIA +++$+++ What is it?  What's going on?  Where are we?
+L541955 +++$+++ u7825 +++$+++ m529 +++$+++ OWEN +++$+++ Your father's dead.  Don't ever forget who's taking care of you, giving you food, giving you shelter, and giving you the allowance in the first place. If you plan to work at the academy the way you work around here, you won't last very long.  I don't want another word.  Finish your dinner, then finish cleaning those 'droids.'
+L541954 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You used my savings!  You stole my savings.  If my father were here...
+L541953 +++$+++ u7825 +++$+++ m529 +++$+++ OWEN +++$+++ I said we'd see.  And as it is, I was forced to borrow your academy savings to buy the new 'droids.'  When you've saved it up again, I'll let you go.
+L541952 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ But you promised!  I've saved enough money and now you have the extra help ... you promised!
+L541951 +++$+++ u7825 +++$+++ m529 +++$+++ OWEN +++$+++ You'll check the condensing unit first... and you're not going to bed until those 'droids' are completely cleaned up...
+L541950 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I will, but I'll have enough time to transmit my application first.
+L541949 +++$+++ u7825 +++$+++ m529 +++$+++ OWEN +++$+++ First thing tomorrow morning you're going to check those condensing units on the south ridge.
+L542438 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I'd consider it an honor.
+L542437 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Thank you, sir.  Your kindness is greatly appreciated, but if it's at all possible, Artoo and I would like to remain in your service.
+L542369 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Threepio!  Shut down all garbage mashers on your level... Do you copy?? Threepio, shut down all garbage...
+L542368 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Are you there, sir?  We're going...
+L542367 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Holy Maker, Threepio.  I forgot...
+L542352 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ See Threepio!  Do you copy?
+L542351 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Wait a minute, slow down!... That's better.  They're where?  They what? They are?  Oh, no! We're going to be mashed into conduit before this is over...
+L542346 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Good.  We're right above you.  Stand by.
+L542345 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ For the moment.  We're in the main hangar.  Artoo is trying to plug into the system now.
+L542344 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Are you safe?
+L542343 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ I'm afraid we're not plugged in at the moment, sir.  We've had some problems.
+L542342 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You're back.  What happened?  Never mind.  What's going on?
+L542341 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ I read you sir.
+L542340 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ See Threepio... do you copy?
+L542272 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Send feed-back into the control sensors in that Detention block.
+L542271 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Level five, Detention block A-23, cell 2187.  She's still alive...
+L542153 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ I know, sir, but it's the principle of the thing.
+L542152 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Let him have it.  You're winning anyway.  It doesn't make any difference.
+L542113 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Well, ask him.  Tell him we need five thousand.
+L542112 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Sir, I have a couple of extra circuits.  Perhaps they might bring something.
+L542111 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ I think we're going to need them. Blast it!
+L542005 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ No, you're not.  What kind of talk is that...
+L542004 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ I can't make it.  You go on, master Luke.  It doesn't make sense for you to risk yourself on my account.  I'm done for.
+L542003 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Can you stand?  We've got to get out of here before those Tuskens come back.
+L542002 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ What happened?  I'm sorry, sir, I must have taken a bad step...
+L541988 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Well, I don't know what to do now. We'll just have to head inland and see if we can't find a settlement.
+L541987 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ If you don't mind my saying so, sir, I don't see how anyone could live in this forsaken place.
+L541986 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ According to my father's tapes, this is the spot where General Kenobi lives, but the instruments just don't match up with the landscape... There is no doubt about it, we're lost...
+L541969 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Several, I think.  There is not much to tell.  I'm not much more than an interpreter, and not very good at telling stories, not at making them interesting anyway...
+L541968 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Tell me where you've been.  I am going to become a startrooper and fight in the wars.  My father was a Jedi!  Were you in many battles?
+L541967 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ That's how we came to be in your service, if you take my meaning...
+L541966 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ You've been in the Counter Wars?... Against the Empire?
+L541965 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Indeed, sir, sometimes I'm amazed we're in as good shape as we are, what with the rebellion and all...
+L541964 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ There's a lot of carbon scoring here. It looks like you boys have seen a lot of action...
+L541963 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ Thank you, sir.  I'm See Threepio, Human Cyborg relations, and this is my counterpart, Artoo Detoo.
+L541962 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ That's all right.  There is nothing anyone can do about it.  You can call me Luke.
+L541961 +++$+++ u7826 +++$+++ m529 +++$+++ THREEPIO +++$+++ I'm sorry, sir, I'm only a 'droid,' and not very knowledgeable of such things... not on this system anyway. As a matter of fact, I'm not even sure which system we're on.
+L541960 +++$+++ u7824 +++$+++ m529 +++$+++ LUKE +++$+++ Not unless you could get me into the military academy at Anchorhead.
+L544518 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You heard the Lieutenant ! On the bounce, troopers !
+L544517 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Saddle up, Roughnecks !
+L544456 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Yes, sir !
+L544455 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Mr. Barcalow, save power, don't waste it on workers... Ace, tell Aardvark we're on our way...
+L544408 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Down there on the flats, eh ? Listen up, Roughnecks ! Our primary objective is to assist our friends from the Fleet...
+L544407 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Got it. Fleet tactical wants to know where they can deploy the skimmers.
+L544406 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We'll take this high ground. Lookouts there and therte and up there. If the bugs come upstairs in this neighbor-hood, we'll be the first to know.
+L544405 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ We're the old men, Ace.
+L544404 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ We got reinforced. Most of'em just got outa boot...
+L544323 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Not enough, I guess.
+L544322 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Jeez, we musta killed a million already...!
+L544205 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What about it, Diz ?
+L544204 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ No way. Big K taught me I ain't executive material.
+L544167 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Yeah, well, I hear he's a real nutbuster.
+L544166 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ He was our teacher... He was great.
+L544165 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Dizzy says you two knew this Rasczak character in Buenos Aires...
+L544113 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ I didn't see him !
+L544112 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Lieutenant's bought the farm. Where's the Sarge...?
+L544085 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Death to all bugs !
+L544084 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Mobile Infantery rules !
+L544082 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ YAAAAAAAA !
+L544081 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ No, this hurts.
+L544051 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What do I want with a scar ?
+L544050 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ I say we all go to the laser parlor and get cut together.
+L543907 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You made squad leader on your own, and, hey, you still got me to kick around.
+L543906 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ I joined up for her. I wouldn't even be here if it wasn't for her. I'm a fool.
+L543905 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Whad'ya talkin  about ?
+L543904 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It's what I deserve.
+L543903 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Funny how they always want to be your friends after they kick your guts out.
+L543842 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Bye ! Write me ! I'm gonna kill you guys !
+L543841 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Our love will grow, dear, year by year...
+L543824 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Well, maybe you better look again.
+L543823 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Oh, yeah ? I don't see anyone else here with the chops to lead.
+L543822 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Wanting it doesn't make you the best one for the job.
+L543812 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ It isn't about rich... It's about who's best...!
+L543811 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ You rich kids... are all the same !
+L543810 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ Something... I've got...you don't.
+L543809 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ What makes you think... you'll make... squad leader, Rico ?
+L543801 +++$+++ u7828 +++$+++ m530 +++$+++ ACE +++$+++ Hey, don't laugh. Everyone oughta have a friend like me !
+L543800 +++$+++ u7837 +++$+++ m530 +++$+++ JOHNNY +++$+++ What an honor...

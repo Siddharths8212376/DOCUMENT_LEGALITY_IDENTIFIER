@@ -1,0 +1,200 @@
+L589572 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ Mitch? Why are they doing this?  The birds.
+L589128 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ Did you put the cover on that cage, Mom?
+L589127 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yeah, but she'll be hitting all that traffic going back to San Francisco.
+L589124 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ That road can be a bad one at night, Melanie. 
+L589123 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ We've got an extra room upstairs and everything.
+L589119 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ What's the matter with them?
+L589118 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Take it into the living room, would you, hon?
+L589117 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ Oh. Where d'you want the coffee?
+L589116 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ She said something about having to get home to take a call from her mother back East.
+L589115 +++$+++ u3163 +++$+++ m208 +++$+++ CATHY +++$+++ Why didn't Annie stay for dinner?
+L588690 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ It's Alice.
+L588689 +++$+++ u3166 +++$+++ m208 +++$+++ HARRY'S VOICE +++$+++ No, it's Lois!
+L588688 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ It's Alice, ain't it?
+L588687 +++$+++ u3166 +++$+++ m208 +++$+++ HARRY'S VOICE +++$+++ Lois!
+L588686 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ The little Brenner girl.
+L588685 +++$+++ u3166 +++$+++ m208 +++$+++ HARRY'S VOICE +++$+++ What?
+L588701 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ It's nothing.
+L588700 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ How much for the phone calls?
+L588699 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Can I have the boat in about twenty minutes?
+L588698 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Yep.  Could save yourself a lot of trouble. Her name's Alice for sure.
+L588697 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Thank you.
+L588696 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Near the top of the hill, you'll see the school and right behind it, the church. You head for the school. Now just past the school, you'll see a little house with a red mail box. That's where Annie Hayworth lives, she's the school teacher. You ask her about the little Brenner girl.
+L588695 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Yes?
+L588694 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ That case, I tell you what you do. You go straight through town 'til you see a little hotel on your left there. Not the motel, that's the other end of town. This is the hotel. Now you take a right turn there, you got that?
+L588693 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I need her exact name, you see.
+L588692 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Well, I ain't positive, if that's what you mean.
+L588691 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Are you sure?
+L588684 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Alice, I think.  Harry, what's the little Brenner girl's name?
+L588683 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Yes.
+L588682 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ The little Brenner girl?
+L588681 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ The little girl's name.
+L588680 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Yep?
+L588679 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I wonder if you could tell me...
+L588678 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Okay.
+L588677 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Daniels.
+L588676 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ What name?
+L588675 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Thank you.
+L588674 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ D'you want me to order one for you?
+L588673 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Of course.
+L588672 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Down at the dock by the Tides Restaurant. Ever handled an outboard boat?
+L588671 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Where would I get a boat?
+L588670 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Mmmmmm.  'Course, you could get yourself a boat, cut right across the bay with it. The Brenners got a little dock there you could tie up at. If that's what you wanted to do.
+L588669 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ It's a surprise, you see.
+L588668 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Mmmm.
+L588667 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I didn't want to come right down the road, where they could see me.
+L588666 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Mmmm.
+L588665 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ You see, I wanted to surprise them.
+L588664 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Nope. That's the road. Straight through town, stay on your left, right around the bay to the front door.
+L588663 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ The front door.  Isn't there a back road I can take?
+L588662 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Follow the road straight through town 'til it curves off on the left. That'll take you right around the bay to their front door.
+L588661 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I see. How do I get down there?
+L588660 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Yep. Mitch and the little girl.
+L588659 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ The two kids?
+L588658 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Nope, just Lydia and the two kids.
+L588657 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ The Brenners? Mr. and Mrs. Brenner?
+L588656 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ That's where the Brenners live.
+L588655 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ And the white house?
+L588654 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Yes?
+L588653 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ See them two big trees across there?
+L588652 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Yes?
+L588651 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ See where I'm pointing?
+L588650 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Where?
+L588649 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Right across the bay there.
+L588648 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Yes, but where?
+L588647 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Right here. Bodega Bay.
+L588646 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Where does he live?
+L588645 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Yep.
+L588644 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Do you know him?
+L588643 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Yep.
+L588642 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I'm looking for a man named Mitchell Brenner.
+L588641 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Try my best.
+L588640 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ I wonder if you could help me.
+L588639 +++$+++ u3164 +++$+++ m208 +++$+++ CLERK +++$+++ Morning.
+L588638 +++$+++ u3171 +++$+++ m208 +++$+++ MELANIE +++$+++ Good morning.
+L589494 +++$+++ u3173 +++$+++ m208 +++$+++ MRS. BUNDY +++$+++ Birds are not bad!
+L589493 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ What good'll that do? Smoke's as bad as birds.
+L589393 +++$+++ u3173 +++$+++ m208 +++$+++ MRS. BUNDY +++$+++ Because there are 8,650 species of birds in the world today, Mr. Carter. It's estimated that five billion, seven hundred and fifty million birds live in the United States alone. The five continents of the world...
+L589392 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ Why not, Mrs. Bundy?
+L589341 +++$+++ u3173 +++$+++ m208 +++$+++ MRS. BUNDY +++$+++ The crow is a permanent resident throughout its range. In fact, during our Christmas Count, we recorded...
+L589340 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ I didn't even know there were many crows in Bodega Bay this time of year.
+L589327 +++$+++ u3173 +++$+++ m208 +++$+++ MRS. BUNDY +++$+++ Impossible.
+L589326 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ Mrs. Bundy, you don't seem to understand. This young lady says there was an attack on the school.
+L589320 +++$+++ u3173 +++$+++ m208 +++$+++ MRS. BUNDY +++$+++ I hardly think either species would have the intelligence to launch a massed attack. Their brain pans aren't large enough for such...
+L589319 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ I don't see what difference it makes, Mrs. Bundy, crows or blackbirds. If they attacked the school, that's pretty serious.
+L589500 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ They're back!
+L589499 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ Gulls!
+L589488 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ We'll make our own fog.
+L589487 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ We don't have any fog this time of year, Mitch.
+L588755 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ Well, you're the lawyer. 
+L588754 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't think Miss Daniels is going to sue anybody.
+L588753 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ I had a man trip and fall in the parking lot once, sued me before I could bat an eyelash.
+L588752 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Stop worrying, Deke. She was in a boat.
+L588751 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ You cut yourself outside, Miss?
+L588750 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't think it's that serious. You want to sit up here?
+L588749 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ Shall I call the doctor?
+L588748 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Young woman cut herself.
+L588747 +++$+++ u3165 +++$+++ m208 +++$+++ DEKE +++$+++ What happened?
+L588746 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Deke, have you got a first aid kit back there?
+L589400 +++$+++ u3167 +++$+++ m208 +++$+++ HELEN +++$+++ Where are the Bloody Marys, Deke?
+L589399 +++$+++ u3176 +++$+++ m208 +++$+++ SHOLES +++$+++ No. Here's fine. 
+L589398 +++$+++ u3167 +++$+++ m208 +++$+++ HELEN +++$+++ Here's your pie, Sebastian. You want it at the table?
+L589376 +++$+++ u3176 +++$+++ m208 +++$+++ SHOLES +++$+++ No. ...came down on one of my boats. They could have been after the fish, just as you said.
+L589375 +++$+++ u3167 +++$+++ m208 +++$+++ HELEN +++$+++ One apple pie! You want more coffee?
+L589374 +++$+++ u3176 +++$+++ m208 +++$+++ SHOLES +++$+++ Let me have some apple pie, Helen.  Who said anything about war? All I said was that some gulls...
+L589373 +++$+++ u3167 +++$+++ m208 +++$+++ HELEN +++$+++ Are you finished here, Sebastian?
+L589635 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ You don't have to.
+L589634 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I started to say... inside...
+L589633 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ What do we have to know, Mother? We're all together, we all love each other, we all need each other. What else is there? Mother, I want us to stay alive!
+L589632 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I'm frightened, terribly frightened. I... I don't know what's out there, Mitch.
+L589631 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ We'll worry about that when we get there.
+L589630 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ If they are?
+L589629 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ They won't be.
+L589628 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ If...  If... when we get to San Francisco...  If they're already there?
+L589627 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ We have to try it.  We can't stay here.  Melanie needs help.  Mother, the house won't take another attack.
+L589626 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ We'd never make it. They're probably all over the road.
+L589625 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I want to try for San Francisco. There are buildings there. Steel and concrete!
+L589624 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Where can we go, Mitch? There's no place to go.
+L589623 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ We won't be here.
+L589622 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ But they'll be back.
+L589621 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ They're gone. The same pattern.
+L589618 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I mean. I want to...
+L589617 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ You're doing fine.
+L589616 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I'm not very good at this, Mitch.
+L589612 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I know you can.  But I'd like to.
+L589611 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I can handle it.
+L589604 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Get a rope!
+L589603 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Oh, my God, look at her!
+L589602 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Mother, get a rope!
+L589577 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Shhh. Shhh.
+L589576 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Mitch...
+L589557 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I'm sorry, Mitch.
+L589556 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Mother! I'm trying my best!  I'm... trying... my...
+L589553 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ You don't know, you don't know! When will you know? When we're all dead? Like Annie?
+L589552 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't know. We'll break up the furni...
+L589551 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ What happens when we run out of wood?
+L589550 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't know yet.  I think we'll be safe here.  Let's bring that wood in.
+L589549 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Where will we go?
+L589548 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't know when.  We'll see what...
+L589547 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ When?
+L589546 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Not now.  Not while they're massing out there.
+L589545 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Maybe we ought to leave.
+L589544 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ That's a chance we have to take.
+L589543 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ If there are... larger birds, Mitch... they'll get into the house.
+L589542 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't know.
+L589541 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ When do you think they'll come?
+L589540 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I got them all, Mother.
+L589539 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Did you you get the windows in the attic, Mitch?
+L589157 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ That's right. We had a party here this afternoon for Cathy. Her birthday.
+L589156 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Tell him about the party.
+L589097 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I think he got a little scratch, Mother.
+L589096 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Well... well, is everyone all right?
+L588928 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I know exactly what I want, Mother.
+L588927 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Well...  So long as you know what you want, Mitch.
+L588926 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I think I can handle Melanie Daniels by myself.
+L588925 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Yes?
+L588924 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Mother?
+L588923 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ It's none of my business, of course, but when you bring a girl like that to...
+L588922 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I know, Mother.
+L588921 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Perhaps I'm old-fashioned.  I know it was supposed to be very warm there, Mitch, but... well... actually... well, the newspaper said she was naked.
+L588920 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yes, Mother.
+L588919 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ She is the one who jumped into that fountain in Rome last summer, isn't she?
+L588918 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I know, Mother.
+L588917 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ You'd think he could manage to keep her name out of print. She's always mentioned in the columns, Mitch.
+L588916 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I suppose so. Her father owns a big newspaper in San Francisco.
+L588915 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Forgive me. I suppose I'm just naturally curious about a girl like that.  She's very rich, isn't she?
+L588914 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Mother, where did you go to law school?
+L588913 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ But she did buy the lovebirds and then brought them all the way...
+L588912 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ No. I only led her into believing I believed she was... Mother, it's really very complicated.
+L588911 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ She was selling birds.
+L588910 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yes.
+L588909 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ In a bird shop.
+L588908 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I told you. We met yesterday.
+L588907 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ How long have you known her?
+L588906 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yes.
+L588905 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ And certainly pretty.
+L588904 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yes, very.
+L588903 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ She's a charming girl, isn't she, Mitch?
+L588866 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Never mind the law. Cathy, you can start serving the soup.
+L588865 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I'm simply quoting the law.
+L588864 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Whose side are you on?
+L588863 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Caviat emptor, Mother. Let the buyer beware.
+L588862 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ He sold the feed to me, didn't he?
+L588861 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I don't know what good that'll do.  Chickens won't eat.
+L588860 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ There's nothing wrong with those chickens, Mitch. I'm going to call Fred Brinkmeyer right now.
+L588827 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I'll pick you up, Miss Daniels. Where are you staying?
+L588826 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Seven o'clock, same as usual.
+L588821 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ ...get away without thanking you in some small way. After all, you haven't even met Cathy and you are staying for the weekend...
+L588820 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Lovebirds, I see.
+L588819 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Yes, lovebirds. We couldn't let you...
+L588818 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ You did say birds?
+L588815 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Miss Daniels is staying for the weekend. In fact, I've already invited her to dinner tonight.
+L588814 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Across at Brinkmeyer's.
+L588813 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ For Cathy. For her birthday. By the way, where is she?
+L588812 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ Oh. I see.
+L588811 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ A delivery, Mother. Miss Daniels brought some birds from San Francisco.
+L588810 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ How do you do, Miss Daniels?  Acknowledge a what?
+L588809 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ Melanie Daniels. Melanie, my mother.
+L588808 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ A what?
+L588807 +++$+++ u3172 +++$+++ m208 +++$+++ MITCH +++$+++ I had to acknowledge a delivery.  Mother, I'd like you to meet...
+L588806 +++$+++ u3168 +++$+++ m208 +++$+++ LYDIA +++$+++ I thought I saw your car. What are you doing in town?

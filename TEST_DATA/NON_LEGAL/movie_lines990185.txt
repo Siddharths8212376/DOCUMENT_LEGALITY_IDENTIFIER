@@ -1,0 +1,200 @@
+L433837 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Who is it?
+L433836 +++$+++ u6977 +++$+++ m467 +++$+++ CHINO +++$+++ I want to speak with you, please.
+L433788 +++$+++ u6977 +++$+++ m467 +++$+++ CHINO +++$+++ Uh-- sorry.  Wrong number.
+L433787 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Yes, it is.
+L433786 +++$+++ u6977 +++$+++ m467 +++$+++ CHINO +++$+++ Oh, is this Adele?
+L433903 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Thank you.
+L433902 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ You're good.
+L433850 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Who are you?
+L433849 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Ask him his name.
+L433833 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Any idea where I could find Buddy?  Or Glenn?
+L433832 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ That wasn't Jack's fault.  No, that was on account of Buddy, for some reason, decided to call his sister and confess to a job <u>before</u> they'd done it instead of after.  She called the FBI and they both went down, ended up at Lompoc.  I think Buddy felt kinda bad about that.
+L433831 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Till they got busted.
+L433830 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Jack came out of a bank he just robbed in Pasadena, couldn't get his stolen car to start.  Battery was dead.  He looks over, sees Buddy sitting in a burgundy Bonneville, goes up, offers him a thousand dollars for a jump. Turns out, Buddy was casing the same bank and saw the whole thing.  Buddy says, I'll take the thousand, but we're leaving in my car, not that piece of shit you come in.  They musta robbed fifty banks together.
+L433829 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Buddy'll take care of him.  Keep him out've trouble.  He's Jack's conscience. Always has been.  He tell you how they met?
+L433828 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Adele, sooner or later, he's gonna get caught.  I'd like to get him before he does something else, makes it worse on himself.
+L433827 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Really.  Hm.
+L433826 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I'll say one thing for Jack, he was never ugly or mean, or drank too much. He was very considerate, lights on or off, if you know what I mean.
+L433825 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He said he was a card player.  I could live with that.  I never knew he robbed banks till he got busted with that car that caught fire -- if you can imagine something like that happening, comes out of the bank and the car's on fire. I did go see him in jail to tell him I was filing for divorce.  He said, "Okay."  Jack's so easy going.  He was fun, but never what you'd call a real husband.
+L433824 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Did you know that when you married him?
+L433823 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Huh.  Problem is, Jack's idea of a normal life is robbing banks.  It's all he's ever done.
+L433822 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ He said he wished the two of you could start over, live a normal life.
+L433821 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He did?  I don't remember.  Did he say about me?  In the trunk?
+L433820 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ He called the day he escaped.
+L433819 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He'd call every once in a while.
+L433818 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ But you spoke to him on the phone.
+L433817 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I don't know.  He was different after he was sentenced, looking at thirty years.  Said it depressed him every time the younger cons called him an old timer.
+L433816 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ Why not?
+L433815 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He didn't want me to.
+L433814 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ You didn't visit him in prison.
+L433813 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He gets that way when he's nervous sometimes.
+L433812 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ You mean, did he try to jump me?  No, but he was kind of talkative.
+L433811 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ He didn't hurt you or anything, did he?
+L433808 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ No, thanks.
+L433807 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I'm getting ready to go out.  You can come in if you want, sit down for a minute.  Would you like a Diet Coke?
+L433806 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I know a Glenn.
+L433805 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ But you know what I'm talking about, don't you?  About Glenn, don't you, and the second car?
+L433804 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ They didn't <i>tell</i> me anything, they asked questions.
+L433803 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ The FBI didn't tell you I was with them?
+L433802 +++$+++ u6983 +++$+++ m467 +++$+++ KAREN +++$+++ From Glades to the turnpike.  Then I left with Glenn.
+L433801 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ You were <i>both</i> in the trunk?  Together?
+L433859 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Why you want to do that, to a frien'?
+L433858 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Go away, or I'll call the police.
+L433857 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Listen, I'm the one help Jack escape from prison.  He tole me, I can't find him to see you.  So why don't you open this fucking door.  Okay?  So we can speak.
+L433856 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I don't know where he is.
+L433855 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Tell me where is Jack Foley, I don't bother you no more.
+L433854 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Wait in the hall!  I have to get dressed!
+L433848 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Listen to me.  I'm a good friend of Jack Foley.
+L433847 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ I'm not dressed.
+L433845 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Yes, around here.  I was a mayishan in Cuba before I come here.  Manuel the Mayishan was my name.
+L433844 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ You say you perform in the Miami area?
+L433843 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ His assistant.
+L433842 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ You were his what, his box?
+L433841 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Yeah, I was Emil's box-jumper for almost four years.
+L433840 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ You did work for Emil, right?
+L433839 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Oh.  Uh-huh.
+L433838 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ I talk to the guy you work for, Emil. He tole me your number and where you live.  See, I'm looking for an assistant and would like to speak to you.
+L433835 +++$+++ u6974 +++$+++ m467 +++$+++ ADELE +++$+++ Yes.
+L433834 +++$+++ u6978 +++$+++ m467 +++$+++ CHINO'S VOICE +++$+++ Adele?  You in there?
+L434534 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Listen, Buddy, the shit that's about to go down, you'll be on the phone with your sister for a month.  Let me do this part alone.
+L434533 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Jack --
+L434532 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ No, you dump the van, meet me at the airport. I'll take one of Ripley's cars.
+L434531 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ I'll go with you.
+L434530 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I'm going back inside.
+L434529 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ All you gotta do is get in.
+L434528 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ We made it, didn't we?
+L434527 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ At least.
+L434526 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ And then they'll kill 'em.
+L434525 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ From the looks of those boys, the Ripper too.
+L434524 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ They're gonna rape the maid, aren't they.
+L434523 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ What?
+L434522 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Shit.
+L434521 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Come <i>on</i>.
+L434508 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ They sure do.
+L434507 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They look like plain old rocks.
+L434490 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Yeah, hi.  Nice house.
+L434489 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You remember Buddy, don't you, Richard?
+L434488 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They found the safe.
+L434453 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Stay with the maid.  I'm gonna have a look around.
+L434452 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ I don't ski.
+L434451 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You ever wear one of these?
+L434431 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ I'm not leaving you alone with these assholes.
+L434430 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ There's still time, take me up on my offer.
+L434409 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ And who watches your back?
+L434408 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Getting me out of Glades for starters.
+L434407 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Half for doing what?
+L434406 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I'll make you a deal.  Get out of here. Right now.  I'll do the job with the Snoop, meet you wherever you want and give you half.
+L434405 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ But you still think you can get the diamonds fore they do?
+L434404 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I get that feeling, yeah.
+L434403 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You know they gonna set us up.
+L434402 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Whatta you wanna do?
+L434401 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ They want to go tonight, before Glenn gets in any trouble, opens his big mouth.
+L434344 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I don't know.
+L434343 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ So what's that mean?  That you're disappointed by what you found or you're sorry you robbed all those banks?
+L434342 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Yeah, I did.
+L434341 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You find out?
+L434340 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ It wasn't about getting laid.  I just wanted to know what might've happened if things were different.
+L434339 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Did you give her a jump?  If you did I might begin to understand where your head's at.
+L434338 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You know how I felt about her.
+L434337 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ So how's that work, a wanted felon socializing with a U.S. Marshal?
+L434336 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Yes, she did.
+L434335 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ And she saw you?
+L434334 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I saw Karen Sisco.
+L434333 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ It took you, what, seven hours to buy a pair of shoes?
+L434227 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Yeah, and I better call my sister.
+L434226 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Listen, I gotta get some better shoes, few other things before tomorrow.  Why don't you drop me off at the Ren Cen, we'll hook up later?
+L434202 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ They put a gun on you, you still have a choice, don't you?
+L434201 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They put a gun on you, you'll go back.
+L434200 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You might not have a choice.
+L434199 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Yeah, it's called Glades Correctional Institution and I'm sure as shit not going back there or any place like it.
+L434198 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ My sister believes in fate, but not hell.  That's why she stopped praying for the lost souls since you don't hear that much about purgatory anymore. But every day she asks her boss to pray I don't fuck up.  Whatta you think, you think there's a hell, Jack?
+L434197 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Let fate decide?  What're you, the fuckin' Dali Lama now?
+L434196 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ I mean, they don't know for sure he's dead.  Look, there's always a chance we'll walk out've there with nothing.  I say let fate decide.
+L434195 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ What about that D.B. Cooper guy?
+L434194 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Tell me something, Buddy.  You know anyone who's actually done one last big score and gone to live the good life?  Cause it occurred to me that everyone <u>talks</u> about doing it, but I don't know anyone who's actually gone and <u>done</u> it.  Do you?
+L434193 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Let Glenn deal with the Snoop, while we're off livin' the good life.
+L434192 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Who says anybody's gonna be with us? I say we go to the fights tomorrow, find out what the Snoop's big plan is, then go in ahead of those guys -- <u>alone</u>.
+L434191 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Yeah?  You think he'll let us in, we got Snoopy and the muscle-bound asshole with us?
+L434190 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Time comes, we knock on the door.  See if he wants to talk about old times. Go in the easy way.
+L434189 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ No doubt the man's got some big-ass security system.
+L434188 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Jesus, look at that wall.  Place almost looks like a prison.
+L434187 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Now that's a really big house.
+L434115 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Let's drive by where we're meeting and have a look.  Maybe take a look at Ripley's place while we're at it.
+L434114 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Forget about my sister.  If Karen Sisco's tailing Glenn, we're fucked. Tomorrow night at the fights we all get picked up.
+L434113 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You didn't tell your sister about Ripley, did you?  'Cause I don't wanna go through that again.
+L434112 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Forty-five minutes.
+L434111 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ How long were you with the girl?
+L434110 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Two hours.
+L434109 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ How long you talk to her?
+L434108 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Just hung up.
+L434107 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You tell your sister about it?
+L434106 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They don't stay the night, Jack, 'less you pay for it.
+L434105 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I think she's after Glenn.  The girl still with you?
+L434104 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ She came up here on her vacation, 'cause she likes shitty weather.
+L434103 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Doesn't say what she's doing up here, but I don't think it has anything to do with us.
+L434102 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Outside of that.
+L434045 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ What's he do now, tell fortunes?
+L434044 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Is that Snoopy?  In the purple doo rag?
+L434032 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Or two.
+L434031 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I think Glenn opened his big mouth and now we got us another partner.
+L434030 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Whatta you think?
+L434017 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Love is funny.
+L434016 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ "Fight over tuna casserole may have spurred slaying."  Seems this woman's live-in boyfriend, seventy years old, complained about her tuna noodle casserole and she shot him in the face with a twelve-gauge.  Police found noodles in the woman's hair and think the guy dumped the casserole dish on her before she shot him.  They'd been together ten years.
+L433938 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ She just sat there, looking right at me.
+L433937 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They know where I live, I guess they know what I drive, so maybe we should pick up another car on the way.
+L433909 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ He isn't fighting no more.  Glenn told me the Snoop's been managing some guys up there now, works out at the Kronk.
+L433908 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Snoopy.  Christ, I thought he'd be brain dead by now.
+L433907 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Remember Snoopy Miller, his old pal from Lompoc?
+L433906 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Well, first off, if you were Glenn, you wouldn't be thinking.
+L433905 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ I been thinkin', if I was Glenn, I was up there to take down the Ripper, where would I go?
+L433904 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ First thing we do, we get to Detroit, we find Glenn, then we find a window to throw him out of.
+L433800 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Now you're talkin'.
+L433799 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Let's go to Detroit.
+L433798 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Sure looks that way.
+L433797 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I guess Adele's in good hands.
+L433794 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Uh-huh...
+L433793 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ There.  You see the guy sitting on the porch?  The old ladies and one guy? You know they'll have a couple more in a car somewhere.
+L433792 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ In here with my suntan lotion and beach towel.  That's her place.
+L433791 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You at least bring the gun?
+L433790 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I'm a tourist.
+L433789 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Nice disguise.
+L433772 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Shit.
+L433771 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ And you know they're gonna have some people watching the hotel.
+L433770 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Her phone's probably tapped.
+L433769 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ So call her up.  Tell her don't talk to any Cubans.
+L433768 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ We were talking one time, drinking rum.  I may've mentioned Adele, how she worked for a magician.  Chino got interested.  He's like, Yeah?  How does he saw the woman in half?  He wanted to meet her.  Or get a look at her if she ever came to visit.
+L433767 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Jack?
+L433766 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ He knows where she lives?
+L433765 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ He's gotta know by now that I gave him up back at Glades.  He does, he's gonna try to find me.  Maybe go see Adele, see what she knows.
+L433764 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ He's running for his life, he doesn't give a shit about you.
+L433763 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Chino's gonna wanna talk to me.
+L433758 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You better come see this.
+L433757 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ What?!
+L433689 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ We'll leave first thing in the morning.
+L433688 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Longer we hang around down here, Jack, better chance there is either Glenn's gonna fuck up the whole score, or we gonna get busted, or both.
+L433687 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Am I going to Detroit by myself?
+L433686 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Think this old guy is her boyfriend? It's the only picture she carries.
+L433684 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You'll have to ask Glenn.  And most likely, he's on his way to Detroit, where we should be.
+L433683 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Yeah, but what happened after she drove off with Glenn?
+L433682 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Just that she got away.
+L433681 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Say anything in there about Karen Sisco?
+L433680 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Paper says there's ten grand each on you, Chino and Lulu.
+L433678 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Maybe this'll make you feel better.
+L433677 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I wasn't feeling my best that day. I'd just drawn thirty to life.
+L433676 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ They pass this picture around you can go anywhere you want, nobody'll know you.
+L433619 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Sounds great.
+L433618 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ There's a store around the corner, I'll be right back.
+L433617 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I know exactly what you mean.  It's just a feeling.  You know, I could go for some wine tonight.
+L433616 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ There's something about a nice hot bath, transforms a person.  It's not just about opening up your pores, know what I mean?  There's just something about the heat and the wet that's calming you know?  Settles me in a way that I really can't articulate.
+L433615 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ Oh, man.
+L433614 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ There's some lilac oil, you want some, a vanilla candle under the sink.
+L433613 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I've been dreaming about a hot bath for the last six months.  Soak the prison off me.
+L433611 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You're right.
+L433610 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ You're just jealous it was me in the trunk with her and not you.
+L433609 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ Cause she had her hand on her gun the whole time, waiting to make her move.
+L433608 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I'm just saying she wasn't scared.
+L433538 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You're too late, Jack.
+L433537 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I want to talk to her again, that's all.  See what would happen under, you know, normal circumstances.
+L433536 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ You want to take her to my place and get cleaned up?  You come out of the bathroom with your after-shave on and she goes, "Oh, I had you all wrong"?
+L433518 +++$+++ u6975 +++$+++ m467 +++$+++ BUDDY +++$+++ He ain't the problem, Jack.
+L433517 +++$+++ u6980 +++$+++ m467 +++$+++ FOLEY +++$+++ I don't know why, but every time he opens his mouth I want to punch him out.

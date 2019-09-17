@@ -1,0 +1,200 @@
+L632848 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No, I don't want to take you for a ride.  What I want is for . . . Hey, you don't happen to have a hundred and fifty dollars I could--
+L632847 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ Eighteen.  Well, I'm gonna be eighteen in two years, but that don't mean you can't take me for a ride if you want.
+L632846 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ How old are you?
+L632845 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ That's what I thought until you came riding in.  I saw your car over at the gas station.  It's cool.  Want to take me for a ride?  Desert's kind of lonely this time of day.
+L632844 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Get it through your head, little girl; I'm not going for you.  If this Toby likes you, then if I were you I'd marry him.  You're not going to get much better in this town.
+L632843 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ He's not my boyfriend.  I mean, I let him take me out and stuff, but I ain't spoken for.  Not yet that is.
+L632842 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I wasn't going to fight for you.  I was just going to beat the shit out of your boyfriend.
+L632841 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ But you was going to fight for me.
+L632840 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I hate to bust your bubble, but I wasn't defending you.
+L632839 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ For defending my honor this afternoon.
+L632838 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ For what?
+L632837 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ Hey, Mister.  Mister.  I just. . . I just wanted to thank you.
+L632611 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You're too quick for me.
+L632610 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ You ain't from Oz.  Oz is in that one movie.
+L632609 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Oz.
+L632608 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ You're not from around here, are you?  Where you from?
+L632607 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I've had time to get over it.
+L632606 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ Gee, that's sad.  Don't that make you sad?
+L632605 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ She's dead.
+L632604 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ You like Patsy Cline?  I just love her.  How come, I wonder, she don't put out no more new records.
+L632603 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ How about I pick one out for you?
+L632602 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ That country shit all sounds the same to me.
+L632601 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ Got any requests?
+L632600 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Accident, and yeah, I got to be more careful.
+L632599 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ What happened to your hand?
+L632598 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ I wanna play a song on the juke. You got a quarter?
+L632597 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What?
+L632596 +++$+++ u8676 +++$+++ m588 +++$+++ JENNY +++$+++ Hey, Mister.  You gotta quarter?
+L632965 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ I'm gonna beat you so bad you gonna be eatin' nothing but soup the rest of your days.  Rain dogs is gonna be prettier than you when I'm done. I'm gonna mess you up so bad you gonna make your own momma sick.  I'm gonna . . .
+L632964 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Nooo!
+L632963 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ This means something to you?  Jenny means something to me.
+L632962 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'm leaving.  You never have to see me again.  Just please, give me the ticket!
+L632961 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Mexico?  You're going to Mexico?
+L632960 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Give it to me!
+L632959 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Now, what's this?
+L632954 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ My honor, that's what I'm fighting over.  Now get up off the ground, or do I have to whoop you where you lie?
+L632953 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You stupid punk!  You don't even know what you're fighting over!
+L632952 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ I'm doing what any man would do if he'd been offended.  I'm beating you up.
+L632951 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What the hell are you doing?  Are you crazy?
+L632950 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Get up, Mister!  Don't ever let it be said Toby Tyler beat the living shit out of someone without giving them a fair chance.
+L632857 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, I know.  You're TNT.  Just like dynamite.  When you go off somebody gets hurt.  All right.  Let's do this.
+L632856 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Oh, that tears it, Mister.  I'm gonna bust you up but good.  I'm gonna bust you into a million pieces and then . . . and then bust those pieces up, and then . . . and then spread them all around.  That's what I'm gonna do.  You don't know what you're dealing with, Mister.  I'm crazy.  I'm psycho crazy.
+L632852 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I wasn't sneaking around with your girl.  Would you please tell him?
+L632851 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ That's right, Mister.  You better be afraid.  I told you it wasn't over, but you didn't listen.  Now I find you sneakin' around with my girl behind my back.
+L632850 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Oh, shit!
+L632849 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Mister!
+L632635 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Stand up, Mister, or I'll beat you where you sit.
+L632634 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I wasn't hitting on your girl!
+L632633 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Stand up.
+L632632 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Christ, I don't believe this.
+L632631 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Not before I settle with you.
+L632630 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Fine.  I was making time with your girl.  Now I'm all scared, and I'll never make that mistake again.  Now go away.
+L632629 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ 'Cause I'm just like dynamite.  And when I go off somebody gets hurt.
+L632628 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ They're not very imaginative?
+L632627 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ You know who I am?  Toby N. Tyler. My friends call me TNT. You know why?
+L632626 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You're fucked.
+L632625 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What?  You want to fight?  Over her?
+L632624 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ Mister, I'm calling you out.
+L632623 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I don't care what you believe as long as you leave me alone.
+L632622 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ You expect me to believe that?
+L632621 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Look, pal, I wasn't making a play for your girl.
+L632618 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Make time?  Is everybody in this town slap happy?
+L632617 +++$+++ u8680 +++$+++ m588 +++$+++ TOBY +++$+++ That's not the way it looked to me. Looked to me like you was trying to make time with her.
+L632616 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I wasn't doing anything.
+L632525 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Hello?  Hello!?  Operator, I got disconnected.  Hello . . .
+L632524 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ Fucking kid.  And look at you; breaking fucking pencils.  You're a Neanderthal.
+L632523 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ And John, don't make me come look for you.
+L632522 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yes, Mr. Vesci.
+L632521 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ Do you understand me you little fuck?
+L632520 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ A hundred and . . . Now you listen to me you deadbeat, little punk:  I don't care if you got hit by a truck and run over by a steamroller.  You owe me thirteen-thousand dollars and I want it.  I don't care how you get it, or where from, but I want it on my desk tomorrow, or I'll show you what real bad luck is.
+L632519 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ A hundred-forty-five really.
+L632518 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ Let me get this straight:  You owe me thirteen-thousand dollars, you call me - collect - then ask me to wire you one-hundred-fifty dollars just so you can get your car fixed.
+L632517 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I had to beat it before the cops showed up.  I don't have a cent to my name.  I can't even get my car out of the garage.  I tell you, Mr. Vesci, if it weren't for bad luck I wouldn't have any at all.  So, I was wondering if you could wire me a hundred fifty-dollars so I could get my car.  I'll pay it back with the rest of the money.
+L632516 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ You're the gambler.  You tell me.
+L632515 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ With a shotgun.  It kills him, and it shreads the money.  I mean, what are the odds?
+L632514 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ The old lady?
+L632513 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No.  He gets shot by the old lady.
+L632512 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ Let me guess.  This robber; he gets your money.
+L632511 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You don't know the how, Mr. Vesci. And that's not the half of it.  I've got your money, and I go into this little grocery store to get something to eat and it gets robbed.
+L632510 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ That's a shame, John.  A real shame.
+L632509 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I know, Mr. Vesci.  I know.  I was on my way to you, it's just . . . what a day I've had.  You're not going to believe what's happened to me. I had the money, I swear I had it. I was on my way to you when my car breaks down in the middle of nowhere.
+L632508 +++$+++ u8678 +++$+++ m588 +++$+++ MR. VESCI +++$+++ John, what a surprise.  I expected to be seeing you, not talking to you over the phone.
+L633207 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ And you're taking?
+L633206 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Nobody's going to hang.  We're all gonna walk away with a little something.  I ain't a greedy man. And, hell, you did all the work. One-hundred-thousand dollars.  Split that three ways and it comes out to about thirty-three thousand.  Give or take.
+L633199 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ You ain't passing these test, son. If I can't trust you I'm gonna have to arrest you . . .
+L633198 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Thirty-thousand dollars.
+L633197 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ What'd you think, boy?  That you were the first man to drift through this town she came on to?  Not by a long shot.  You're just the most gullible.  How much did you get?
+L633196 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Sure you do.  Everybody in town knows about the money Jake kept hid in the house.  It's a wonder the Mrs. here just now got round to killing him.  Not for lack of trying.
+L633195 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ That's what this is all about?  A shakedown?  You picked the wrong people.  We don't have any money.
+L633189 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Killing Jake McKenna's got to amount to something.  He wasn't much of a man, but that don't give you the right to murder him.  And don't tell me you didn't, 'cause I know you did.  I was there.  Like I said; I been watching you.
+L633188 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I didn't do anything.
+L633187 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Shut up!  The both of you.  Ain't neither one of you too smart. Especially you, boy.  Don't you think I had my eye on you since first you rolled into town?  You smell like trouble.  Stink of it like a ripe cesspool.
+L633186 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You bitch!  You were in on it froom the start!
+L633178 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ And as soon as I see that you're on your way.
+L633177 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ There's nothing in the trunk, Sheriff.
+L633176 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ I think you might just want to do as I say.
+L633175 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What for?
+L633174 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Now step around to the back of the car and open the trunk for me.
+L633173 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Sure, Sheriff.
+L633172 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Just step from the car.  Nice and slow.
+L633171 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I don't understand what the--
+L633170 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Why don't you step out of the car, son?
+L633163 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Nope.  No problems up the road.
+L633162 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Is there a problem up the road, Sheriff?
+L633161 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Just cool down, son.  I ain't accusing you of anything.  Serves Toby right to get his ass whooped. If you hadn't done it, somebody else would've.
+L633160 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Sheriff, he didn't give me any choice.  If I hadn't defended myself- -
+L633159 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Suppose you've had all you can of Sierra.  What with that ruckus you had with Toby.  Oh yes, I heard all about that.
+L633158 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Not taking a drive, Sheriff. Heading out of town.
+L633157 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Nice night for a drive.  Morning really.  I guess that's about the only way to keep cool; riding around with the top down on a fancy convertible in the first hours of the day.
+L632889 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Maybe not for you, Sheriff, but I think I've had my fill of your little town.
+L632888 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Stay as long as you like, son.  No rush.
+L632887 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Wish I could help, Sheriff.  But if you'll excuse me I'm going over to Harlin's to pick up my car.  Then I'm getting the hell out of this place.
+L632886 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ That's too bad.  I was hoping you were there.  Maybe you could help us catch the guy who got away.  Or maybe you could explain about all that money that got tore up when Jamilla shot that biker.
+L632885 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Wouldn't know anything about it.
+L632884 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ There was a young man over at Jamilla's today when it got hit. Way she tells it he got whacked around by one of the robbers.
+L632883 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Not as bad as it looks.
+L632882 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Just curious.  That's a nasty cut you've got.
+L632881 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No, sir.  And I'm not going to be around long if that's what you're worried about.
+L632880 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Saw you at the truck stop this morning.  You're not from around here.
+L632879 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Like I said; you really can't blame the boy.  Some people don't know how to avoid trouble.  Know what I mean?
+L632878 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I guess.
+L632877 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Yep.  Tore him up good and spat out little, refined pieces of him. Nothing like the embarrassment of having your father refined in front of your classmates to put the anger in a young man.
+L632876 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Jesus!
+L632875 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ His father worked in a strip mine north of here.  Toby's school class went up to the mine one day.  School takes field trips up there every year.  Big day for the kids when they can see ore tore up out of the ground.  Anyway, on this particular day Toby's dad up and falls into the machinery.
+L632874 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What happened?
+L632873 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ He is at that.  No so much a fault of his own.  Poor boy had quite a trauma as a child.
+L632872 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah.  What are you going to do? That Toby's a hot head.
+L632871 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Kids.
+L632471 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No police!
+L632470 +++$+++ u8681 +++$+++ m588 +++$+++ WOMAN +++$+++ Senor, you need a doctor.
+L632469 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No police!  Wait until I'm gone.
+L632468 +++$+++ u8681 +++$+++ m588 +++$+++ WOMAN +++$+++ But, Senor--
+L632467 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No police.
+L632466 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No!
+L632465 +++$+++ u8681 +++$+++ m588 +++$+++ WOMAN +++$+++ I call the policia.
+L632436 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Soda.  You know.
+L632435 +++$+++ u8681 +++$+++ m588 +++$+++ WOMAN +++$+++ Hablar slowly, por favor.  My ingles no es bien.
+L632434 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Soda.  You got any soda?
+L632433 +++$+++ u8681 +++$+++ m588 +++$+++ WOMAN +++$+++ Eh?
+L632432 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Got any cold soda?
+L634094 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ You know I won't be seeing you.
+L634093 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You <u>are</u> crazy, you know. Be seeing you, old man.
+L634092 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Things ain't always the way they seem. You got to ask yourself: is it worth it? Day comes Earthmaker is going to look in your fucking heart! Then you better know what it is you're doing. <u>Are you a human being</u> -- or just one of them hungry ghosts out there floatin' around?
+L634091 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Time's up. Any last words of wisdom?
+L634087 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You got a lotta philosophy in you, old timer but you don't fool me for one second with all this blind man crap. One minute you lost your eyes in Vietnam, next it's the joint. Now it's a woman? I'm hep to you.
+L634086 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Well, don't say I didn't warn you when things go your way.
+L634085 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ No and I don't plan on sticking around either.
+L634084 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Nothing makes the Great Spirit laugh harder than a man's plans. We all got plans. I planned on seeing all my life. I know you didn't plan on straying into town.
+L634083 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Not this twig, friend.  I got plans.
+L634082 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ More or less.
+L634081 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ So, we're all just floating along like twigs in a stream, so enjoy the ride.  Is that it?
+L634080 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Afraid of it?  Boy, I live in the dark. All cause of a woman who made me this way. People are afraid of what they can't see. I can't see nuthin', so it's all the same to me.  Kiss from a beautiful woman, kissy kissy kiss, a lick from a dog, slurp, slurp, the kiss of death . It's all the same to me.
+L634079 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You afraid of the dark?
+L634078 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Night is when you want to sleep, but the dry heat keeps you tossin' and turnin'. It's when you wish the sun was bakin' high in the sky so you could see what it is you're afraid of.
+L634077 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Difference between you and me, old man, is I see the glass half full, you see it half empty.
+L634076 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Ain't over yet.  Night is part of day; separate, but equal.  Night is when you let your guard down; when you see things in the shadows and hear things in the dark.
+L633906 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Your lies are old, but you tell 'em well.
+L633905 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I'm a little short Pops. I'll catch you next time.
+L633904 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ ...But ain't you got a little something for the infirm?
+L633903 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I got things to do.
+L633902 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Well, people gotta get by somehow. That's the curse. The mines done it. All that uranium, plutonium, fuffonium, fuckononium, assononium, all that "om"! Everybody's got a mother. You don't rip up your mother. You don't rip up the Earth and take everything out. It's like the Cracker Jack box says, "the more you eat, the more you want...."...
+L633901 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Musta been some bad ass nuclear tests here in the 50's. This town's all inbreeding.
+L633900 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ So now you're going to tell me where I lost my eyes. You don't think I know where I lost my eyes? I was there when I lost them. I lost them in the war. The war in the joint. There's always wars in the joint. Cause I was a code talker in the joint and in the war too. Mmmm, nothing like the smell of a naked lady. Be careful, boy.
+L633899 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I thought you said you lost your eyes in the war?
+L633898 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ All them miners last century. Hungry ghosts, killed off all the Indians. Up at the mine. Earth ran red with blood, think I'm fooling around here. White sky was on fire. Grown men cried like babies. I saw a flash, then darkness descended upon me. They put me in the joint. Took my eyes. I cursed them. White people can't seem to stay away from Indians . You gotta watch where ya put your fingers. Pussy pussy pussy, Indian pussy.
+L633897 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Who's cursed?
+L633896 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Cocksucker motherfucker! Cops. I hear you. Always sneaking around. Thinks I can't see him. Well he's right. Motherfucker. But that ain't mean I don't know what's going on around here. They're all cursed. Yes sir.
+L633894 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ ...And everything is nothing too.
+L633893 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ What?
+L633892 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Seems like I do but only cause end of the day we're all eyes in the same head. And everything is everything.
+L633891 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You sure got a lot of philosophy, old man.
+L633890 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ What do you want for free?
+L633889 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I think I've heard that before.
+L633888 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Or maybe you just think you do. Just another small town. One guy chasing you. You go big town. Just gonna have four guys after you instead. Kiss kissy kiss. It gets down to one thing -- are you a human being or are you one of those hungry ghosts out there never satisfied with nothing? Cause you gotta remember you can run just as far as you can, but wherever you go, that's where you gonna be.
+L633887 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Maybe I do.
+L633885 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ That a fact?
+L633884 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Just 'cause I ain't got eyes doesn't mean I can't see.
+L633883 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You sure seen a lot for a blind man.
+L633380 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ See.  Ain't nothing I can do but keep him here beside me.  That's where he belongs anyways.  Me and Jesse, that's my dog, not anymore, but me and Jesse we been pals since the war when I lost my eyes.  He was just a pup then... a companion that's loyal, that'll keep coming back to you no matter how much you kick him...I miss him.  I'll see ya later, unless I come across something worse.
+L633379 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Hell no!
+L633378 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ He's only just dead.  What was I supposed to do with him?  I can't take him away anywhere.  And nobody wants to take him for me.  Do you?
+L633377 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ What the hell are you keeping a dead dog around for?
+L633376 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ I hope you wasn't pettin' him none, was you?
+L633375 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Oh, Jesus.
+L633374 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ That's 'cause he's dead.
+L633373 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I think you'd better give your pooch a sip. He looks sick.
+L633369 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Christ!
+L633368 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Don't forget to open it for me.  I can't be opening my own bottle.
+L633366 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ All right, old man.  Christ.
+L633365 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Change?  You want my change?  I fought the war and lost my eyes just so I could give you my change?
+L633364 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Yeah, sure.  You got change?
+L633363 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Don't be sorry.  Just run over there and get me my pop before I die of thirst.
+L633362 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I said I was sorry.
+L633361 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Lost my eyes in Vyee-et-nam.  Lost them fighting the commies.  Fought the war and lost my eyes fightin' the commies just so you can come around here and make fun of me.
+L633360 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Christ no!
+L633359 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ I ain't got no eyes.  You want to see?
+L633358 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I don't know.  I thought you were keeping the sun out of your eyes.
+L633357 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ What'd you think I was doing out here with these glasses on?  Sunnin' myself?
+L633356 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ I'm sorry, I didn't--
+L633355 +++$+++ u8682 +++$+++ m589 +++$+++ BLIND MAN +++$+++ Hell no, I can't do that myself.  I'm blind.  Can't you see that?

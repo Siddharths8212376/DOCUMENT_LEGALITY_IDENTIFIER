@@ -1,0 +1,200 @@
+L543108 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ The machine gave me two. Should I put one back?
+L543107 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Hurry up.
+L543106 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ On the radio they say it's good.
+L543105 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You shouldn't drink so much of that stuff. It's bad for you.
+L543097 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ But I have never seen this before. I am not complete.
+L543096 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Put that back.
+L543083 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes. Sing some more.
+L543082 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ You liked my singing?
+L543081 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ That was beautiful.
+L543080 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I am not a good singer.
+L543078 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Don't be afraid... I'd really like to hear it.
+L543077 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I do not want to.
+L543076 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I'd like to hear it. Can you sing something?
+L543075 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes.
+L543074 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Do you have music up there?
+L543073 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Not all... but it feels like a kiss.
+L543072 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I've noticed... Do you understand what they're saying?
+L543071 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I like this music.
+L543070 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I don't know.
+L543069 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Why?
+L543068 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Nobody knows.
+L543065 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I am your friend.
+L543064 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes.
+L543063 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Are you my friend?
+L543062 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ What are you doing?
+L543061 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ He will.
+L543060 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ It's bad.
+L543059 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What is hell?
+L543058 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Sounds like your captain's going to get hell when he gets back home.
+L543057 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I understand.
+L543056 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ The police shouldn't have started shooting. But you can hardly blame them. You surprised them. They didn't know you were up there. When they saw you, they thought you were here to hurt us.
+L543055 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ He was a good friend... The captain took the ship away fast and I was not in the ship.
+L543054 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ A friend is a person that is good to you... someone you like to be with... someone you like to laugh with...
+L543053 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I don't understand 'friend.'
+L543052 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Oh, that's terrible. I'm sorry. Was he a good friend?
+L543051 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ The captain wanted to land to see close and to get some things from Earth to take home. The police came and shot at us. One of the people from my ship was killed.
+L543050 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ The captain...
+L543049 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ We told our home, and the people who tell us what to do on my planet said to come and look but not to talk, not to land, not to shoot. Just to look from up there. We came and... the driver of my ship...
+L543048 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes.
+L543047 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes?
+L543046 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You did? That's funny. So did we.
+L543045 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ We were doing a map of the stars and all the other things up there when we saw a small ship. My... eh... we kidnapped it. On it there was a map that said how to come to Earth. This was very important. Before then, we thought we were the only people in all the stars.
+L543044 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Stars... When a sun is far away, we call it a 'star.'
+L543043 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No. My ship was doing a map of all the suns and...
+L543042 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You thought we were a different planet?!
+L543041 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ It was a mistake.
+L543040 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Why did your ship land on this planet... on Earth?
+L543015 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I was afraid.
+L543014 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ What happened?
+L543011 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ It's a kiss...  Goodbye...
+L543010 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?
+L543009 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Goodbye.
+L543005 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Please stay.
+L543004 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes?
+L543003 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Jennyhaydn.
+L543002 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Goodbye.
+L543001 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes. I have a long ride ahead of me...  Goodbye.
+L543000 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Go?
+L542999 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Well... I'm going to go now.
+L542998 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes.
+L542997 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Don't be afraid. Do what I told you and you'll be okay.
+L542995 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No.
+L542994 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Can I have the gun?
+L542993 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Don't worry. They're not going to hurt you. Come on.  Only show this to the driver. Nobody else. And don't lose it.
+L542991 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Tomorrow morning. Start hitch-hiking right away and...
+L542990 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ When do I get to Lathrop Wells?
+L542989 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Not every car, but... a car will stop... Maybe not the first car... maybe number eight, number fifteen...
+L542988 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ The car will stop?
+L542987 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Your thumb tells the driver that you want a ride.
+L542986 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You keep this. Now this is hitch- hike...  You stand on the side of the road, the highway... you understand? And you face the cars going in the direction you want to go. When you see a car or a truck coming, you stick out your thumb like this...
+L542985 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ 'Lathrop Wells, please. I do not speak English.'
+L542982 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Then don't be smart.
+L542981 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes.
+L542980 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You want this ticket?
+L542979 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ 'Las Vegas, please. I do not speak English.' What is hitchhike?
+L542978 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Right. In Omaha the driver will put you on the bus for Salt Lake City and the new driver will take...  ...this part. When you get to Salt Lake City, ask the driver, 'Las Vegas, please'...
+L542977 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I do not speak English.
+L542976 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Will you please do it my way? You'll get into trouble if you don't. If anybody talks to you, tell them... I do not speak English.
+L542975 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ But I speak English.
+L542974 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ The driver will...
+L542973 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ 'Salt Lake City, please. I do not speak English.'
+L542972 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Say it.
+L542971 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ That's easy. I'll explain that in a minute. This is your ticket. When you get on the bus here, the driver will take this part. You will ride to Omaha. When you get to Omaha, ask the driver. 'Salt Lake City, please. I do not speak English.'
+L542970 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What is hitchhike?
+L542969 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I know that. But the buses don't go there.
+L542968 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ But I must go here.
+L542967 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I can't... Forget the baby. Okay? The closest I was able to get you was Lathrop Wells. You'll have to hitchhike the rest of the way.
+L542966 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Why?
+L542965 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I'd love to have a baby. But I can't...
+L542964 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Why?
+L542963 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No... The closest...
+L542962 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Do you have a baby?
+L542961 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Eh... yes...
+L542960 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ A baby is a new person?
+L542959 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes.
+L542958 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Is that a baby?
+L542957 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ The closest I was able to get you was Lathrop Wells...
+L542930 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ When we get here.
+L542929 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Do you understand what I'm saying to you? You can keep the car.  That should be enough for gas from here to there. Please let me go.
+L542928 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I feel like I'm going crazy here. You're Scott. But he's dead. I don't know what's real anymore. I can't be here with you.
+L542927 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No.
+L542926 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Then let me go. You don't need me.
+L542925 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No.
+L542924 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You'll keep the car. I'll take a bus...  Am I going up there with you... in your ship... up there?
+L542923 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No.
+L542922 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I won't tell anybody if that's what you're worried about. I promise. You'll keep...
+L542921 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I need you.
+L542920 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ That's not much time. I'll just slow you down. I have to sleep. I'm very tired. And I have to wash and eat. You don't...
+L542919 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Three nights... two days.
+L542918 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ How many days and nights do you have to go...  ...here?
+L542917 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes. Day... night.
+L542916 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Sun... day. No sun... night. You understand?
+L542915 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Yes.
+L542914 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Sun...
+L542913 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ How will I do this one?...
+L542912 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I do not understand.
+L542911 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ When do you have to be here?
+L542910 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ My...  ...car will take me...  ...up there... home.
+L542909 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Why are you going here? What is here?
+L542908 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You better.
+L542907 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I will see it next time.
+L542906 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You didn't even see it.
+L542905 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ It was yellow.
+L542904 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ That was a red light!! I told you you have to stop at a red light!!
+L542878 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Music.
+L542877 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?
+L542876 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Horses.
+L542875 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Horses.
+L542867 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Shit!
+L542866 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ What's the matter?
+L542863 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ This stuff could kill...  Be my guest.
+L542862 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I want to try it.
+L542861 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You want to try it?
+L542860 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I...
+L542859 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ A drink.
+L542858 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What is...  ...Coke?
+L542852 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Candy.
+L542851 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?
+L542850 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes.
+L542849 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Money.
+L542834 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No.
+L542833 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Satisfied? Now get out. Out.
+L542826 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Okay.
+L542825 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ You. Mouth closed.
+L542824 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ In your pocket, please...
+L542822 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Oh God! You're going to get us both killed. Okay... in your pocket...
+L542821 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No.
+L542820 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Attendant. He'll give us gas. Put the gun down. Under the seat. Under the seat...
+L542819 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Who?
+L542816 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Stop!! Enough!! Jesus! You're worse than a parrot!!
+L542815 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Shit... shit... what shit?
+L542814 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No, no... don't say that. Bad word.
+L542813 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Shit?
+L542812 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Shit.
+L542811 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No. I don't know what you are, but you're not Scott.
+L542810 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I am husband?
+L542809 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ My... husband.
+L542808 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Who?
+L542807 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I know.
+L542806 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No gas.
+L542805 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Closed.
+L542804 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Gas.
+L542803 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Up there... I... eh... can't explain...  But that's the only place you could be from.
+L542802 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Space?
+L542801 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Are you from up there? Space?
+L542800 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ From?
+L542799 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ That's a big help. Where are you from?
+L542798 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ I am...
+L542797 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Who are you?
+L542796 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Jennyhaydn.
+L542795 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ I am Jenny Haydn.
+L542794 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Who is he? Who is she? Who are you? Who am I?  Who are you?
+L542793 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Not what. Who. What is for things.  What? What? What? What? For people you use who. Who is he?  Who is she?  Who are you?  Who am I?
+L542792 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?
+L542791 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You'll see.
+L542790 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Closed?
+L542789 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ It's closed... closed. We need one that's open.
+L542788 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Go.
+L542786 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes. Very good.
+L542785 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Gas good?
+L542784 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No gas... car dead.  We need gas. I don't want to get shot for running out of gas.
+L542777 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ This car runs on gas.
+L542776 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ No gas.
+L542775 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ No gas.
+L542773 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ You're full of tricks, aren't you?
+L542772 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Minneapolis... good.
+L542770 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ What are you doing?
+L542769 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Minneapolis... Minneapolis...
+L542768 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Minneapolis.
+L542767 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?!
+L542766 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Yes.
+L542765 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Smile... good?
+L542764 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Smile.
+L542763 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?
+L542762 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ We're going to have to stop for gas soon.
+L542761 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Mi-chi-gan driver li-see-ens... Jennyhaydn... Money?
+L542759 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ Money.
+L542758 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ Money.
+L542741 +++$+++ u3043 +++$+++ m199 +++$+++ JENNY +++$+++ X...
+L542740 +++$+++ u3050 +++$+++ m199 +++$+++ STAR MAN +++$+++ What?

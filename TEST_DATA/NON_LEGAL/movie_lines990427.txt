@@ -1,0 +1,200 @@
+L603140 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, didn't you?
+L603139 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ On it!  I'm in it ... They think I did it!
+L603138 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He's got more sense than you have. Thank Heaven you're not on this case.
+L603137 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You're a fine watch dog.
+L603136 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He'll be here.  Give him time to get his trousers on.  Where's Asta?  Asta!  Asta!
+L603135 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I wish that doctor'd come.  How do you feel?
+L603104 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yeah.
+L603103 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Want a drink?
+L603102 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'll be all right. Don't let's fuss till the doctor comes.
+L603098 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'll get some towels. 
+L603097 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Sure -- I don't even feel it.
+L603096 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Well, quick -- get into bed.  Are you all right?
+L603095 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ There's one coming.
+L603094 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Someone get a doctor.
+L603093 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ It's all right.  It just grazed me.
+L603069 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ All right... shoot!  I mean... what's on your mind?
+L603068 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You idiot!  Asta! Stop that!  Get down!  Now, stay there.
+L603064 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's great.  I was afraid I'd have to go to sleep.
+L603063 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick!  Nick!  There's someone to she you,
+L603057 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You'll have to keep them anyway. The man at the Aquarium said that he wouldn't take them back.
+L603056 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to give me?  I hope I don't like it.
+L603055 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Breakfast.
+L603054 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ But it's Christmas now.
+L603053 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ At breakfast.
+L603052 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I think I would like that drink.  I'll give you your Christmas present now if you'll give me mine.
+L603051 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Darling, my guess is that Wynant killed Julia and Dorothy knows it. And the police'll catch him without my help.
+L603050 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ She thinks you can. It wouldn't hurt you to find out if you could, would it?
+L603049 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ There's nothing I can do to help her.
+L603048 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ That poor girl is in a tough spot.
+L603047 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Tomorrow I'll buy you a whole lot of detective stories.
+L603046 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'd like to see you work.
+L603045 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ They were kidding you.
+L603044 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Everybody says you were a grand detective.
+L603043 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Maybe it would if I took it.
+L603042 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ No thanks.
+L603041 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Maybe a drink would help you.
+L603040 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ No.
+L603039 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Can't you get to sleep?
+L603038 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Don't you think you'd like to go back to detecting once in a while, just for the fun of it?
+L603037 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That's jolly.
+L603036 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Good. I want to talk to you.
+L603035 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Yes.
+L603034 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Nick!  Nick!  Are you asleep?
+L603007 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Too bad you didn't bring your whip.
+L603006 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ She didn't tell me a thing.
+L602973 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Nothing, 'til I find out if it's the gun Julia Wolf was killed with.  Keep her in here, and don't let those reporters see her. They might believe her.
+L602972 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What are you going to do with it?
+L602971 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ She brought it in.  Trying to make me believe she did it.
+L602970 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Where did you get that?
+L602931 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Rye.
+L602930 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ What are you drinking?
+L602929 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Isn't that my drink?
+L602928 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I wonder if they've --  I don't want to hear anything about it.
+L602927 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Sounds like a good case.  Girl mysteriously murdered.  No one knows who did it.  They haven't found any clues yet -- no gun -- no fingerprints --
+L602926 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Room service, please -
+L602925 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I haven't the time.  I'm much too busy seeing that you don't lose any of the money I married you for.
+L602924 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I'd better order some food.  That sounds like an interesting case.  Wouldn't you like to take it?
+L602918 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ We need ice.
+L602917 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on -- relax --  Give them a drink.
+L602689 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Santa Claus.
+L602688 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who's that?
+L602687 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Take it easy.
+L602686 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I can't lie here.  I've got to get up and trim that darned Christmas tree.
+L602685 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ That last Martini.
+L602684 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ What hit me?
+L602683 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Six Martinis.  You're not going to have anything on me.
+L602682 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Six Martinis.
+L602681 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ How many drinks have you had?
+L602680 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Much better, thanks.
+L602679 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ By the way, how is your father's side?
+L602678 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I was hoping I wouldn't have to tell you.  Dorothy is really my daughter.  You see, it was Spring in Venice, and I was so young.  I didn't know what I was doing.  We were all like that on my father's side.
+L602677 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Who is she?
+L602676 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Only you, darling...  lanky brunettes with wicked jaws.
+L602675 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You got types?
+L602674 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ If you like 'em like that.
+L602673 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Pretty girl.
+L602661 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ As long as there isn't a fire hydrant.  What I've gone through --
+L602660 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ He's well-trained.  He'll behave himself.
+L602659 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ You might have mentioned me first.
+L602655 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Oh, this is Andy --
+L602654 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ I thought so.  He even tried to drag me into the gentlemen's --
+L602653 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I had him out this morning.
+L602652 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ He's dragged me into every gin mill on the block.
+L602651 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Hello, baby.
+L602650 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ So it's you he was after!
+L603628 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You shouldn't let that keep you from telling truth, Mimi.  Mrs. Jorgensen -  Were you ever divorced from Chris Jorgensen?
+L603627 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ That's what Mr. Wynant said to me. If she re-married, all the money was to go to the children.
+L603579 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ No... no.
+L603578 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ I'm sorry.  Tanner, don't you want some wine?
+L603392 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Police!
+L603391 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You can save that and tell it to the police.  They'll be here in a minute.
+L603390 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Mr. Charles - she did - that's why he got sore at her and killed her. Listen, Mr. Charles --  I did do a little chiseling.  I come to bring it back and fix up the books.  I didn't want him to find out and come after me -
+L603389 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Trying to put it off on her?
+L603388 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Honest, Mr, Charles.  I never touched that safe.  Them bonds that were missing... Julia took them.
+L603387 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Somewhere's where they might go out and leave the safe open?
+L603386 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ That time you sent me up last ... I learned book-keeping at Sing Sing.  I figured it might be an in for me somewhere's.
+L603385 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Well, that's a hot one.  You a bookkeeper!  When were you ever a bookkeeper?
+L603384 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Yes, sir.  Julia Wolf got me a job as bookkeeper.
+L603383 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ You worked here?
+L603382 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ I had a key. I worked here... till they closed the shop.
+L603381 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ How did you get in here?
+L603380 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ No, Mr. Charles.
+L603379 +++$+++ u8400 +++$+++ m569 +++$+++ NICK +++$+++ Come on out, now.  He won't hurt you.  Back to your old tricks, eh, Tanner?
+L602895 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ I wouldn't know.  That time he caught me was a accident.  I led with my right.
+L602894 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Was he a good detective?
+L602890 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ He's a good guy.  He sent me up the river once.  Hey, Nick!
+L602889 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.
+L602888 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ You his wife?
+L602887 +++$+++ u8401 +++$+++ m569 +++$+++ NORA +++$+++ Yes.  Nick!
+L602886 +++$+++ u8403 +++$+++ m569 +++$+++ PEPPLER +++$+++ Nick Charles here?
+L602556 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Oh, yes -- yes -- that's right -- 
+L602555 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ You're forgetting the check for your suitcase.  It's at the Grand Central.
+L602554 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Maybe she has.
+L602553 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Maybe Miss Wolf has them.
+L602552 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I know I left them there.
+L602551 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Bonds, sir?
+L602550 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I'm going to give her a wedding present.  Thought I'd better do it now, before I forget it.  I can drop them on my way to...  That's funny....  Where are those bonds?
+L602549 +++$+++ u8404 +++$+++ m569 +++$+++ TANNER +++$+++ Well, congratulations.
+L602474 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ You did.
+L602473 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Who fired you?
+L602472 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I'm fired.
+L602471 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Home?
+L602470 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ Home!
+L602469 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Where are you going?
+L602447 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ I don't care what you wanted to tell me.  You're through!  Get your things and get out!
+L602446 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I just wanted to tell you...
+L602445 +++$+++ u8406 +++$+++ m569 +++$+++ WYNANT +++$+++ Two weeks work gone for nothing.
+L602444 +++$+++ u8405 +++$+++ m569 +++$+++ TOM +++$+++ I'm sorry...  but...
+L610257 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Nobody's going to hurt you.
+L610256 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Please, I beg of you.  The American army is there.  I am Iraqi.  They will kill me.
+L610255 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Turn the car around.
+L610254 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ This road, it leads straight to Kuwait.
+L610253 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What's in the other direction?
+L610252 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Baghdad.
+L610251 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Where were you going?
+L610250 +++$+++ u8407 +++$+++ m570 +++$+++ DRIVER +++$+++ Y-yes.
+L610249 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You speak English?  DO YOU SPEAK ENGLISH!?
+L610201 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's like I said; you don't really know lieutenant John Epps very well, do you?
+L610200 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Looks like at the end of the day we finally find out who's better than who, don't we, Epps?  Like I said; I expected more from you.
+L610198 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ If I give it to you, will you let us go?
+L610197 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Give it to me!
+L610184 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ If I don't answer, he'll know something's up.
+L610183 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ So you can give us away?
+L610182 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I have to answer him.
+L610181 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Just keep quiet.
+L610177 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You don't know John Epps very well, do you?
+L610176 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ They'll kill you.  You won't make it ten feet before they cut you down.
+L610169 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ That's just what things came to. Sometimes you can't help that.  It doesn't change me respecting you.  And now you let me down.  I expected more from you, you know?  I really did.  I expected you to--
+L610168 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ That why you tried to put a bullet in my head in the middle of the desert.
+L610167 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You disappoint me, Epps.  Always figured you to be a man; a real bright guy.  I had respect for you.
+L610164 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Tell me something, Wes.  Are you crazy, greedy, or just stupid?  Jaeger says you're crazy.
+L610163 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Thanks for taking care of this for me.
+L610160 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Look, I know you guys are telling the truth.  It's just the Shi'ites don't know that.  I guess you could tell them...but then you don't speak the language do you?
+L610159 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wes--
+L610158 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Sure, and I guess it was just convenient there was one less person to split the gold with.
+L610157 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Wes, we thought you were dead, and we thought we were next.  Hanging around to get killed wouldn't have done anyone any good.
+L610152 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We thought--
+L610151 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ In the flack jacket.  Still like getting hit in the back with a baseball bat. Took the air right out of me, but I was just unconscious for awhile.  'Course, you didn't stick around to find that out. You left me for dead.
+L610009 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Nothing about him, unless he's got a problem about me dealing with you.
+L610008 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ What about Jaeger?
+L610007 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Then I suppose it'd be insurrection, and I suppose I'd have to kill you.  I suppose.
+L610006 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Suppose I don't go for that?
+L610005 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm the one's got the big stick.
+L610004 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ And let me guess who is.
+L610003 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Without that navicam looks to me like you forfeit the right to be in charge.
+L610002 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Lot of good you were when I was sinking in the sand.
+L610001 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ No navicom.  A lot of good you are now, Epps.
+L609978 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ What if I do?
+L609977 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We been down this road.  I told you how it is.  Unless you feel like there's something you want to do about it...
+L609976 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ In the service you do, but we're not particularly in the service right now. Way I see it, what we're doing, that doesn't particularly give you the right to toss orders around.
+L609975 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I out rank you, that's why.
+L609974 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You've got an awful lot of orders in you. Always giving orders.
+L609961 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Get out of my way.
+L609960 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ No.
+L609959 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Then step aside.
+L609958 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ It's murder, and I won't be any part of it.
+L609957 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ It's a combat action.
+L609956 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I've got no stomach for murder.
+L609955 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I'm not going to leave him be just so he can stab us in the backs the minute we turn around.  I have been through too much to lose it all now just because the two of you don't have the stomach to do what has to be done.
+L609953 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He tried to kill us.  If not just now, then in the helicopter.  That's all the authority I need.
+L609952 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ We are not at war!  You and I and Jaeger are AWOL.  We have no authority--
+L609951 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We're at war.
+L609950 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ I'm not going to let you kill him.
+L609949 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He's an enemy soldier.
+L609948 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You're out of your mind.
+L609944 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ You don't know he isn't.
+L609943 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You don't know that.
+L609942 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ That's what he says.  He could be a spy, or something.
+L609941 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ You said he was a deserter.
+L609940 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ We can't just leave him.  He'll run back to his outfit, report our position...
+L609938 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Doesn't matter.  Whatever he wanted he didn't get it.  We've got no need staying around here.  It's light enough.  Let's pack up and head out.
+L609937 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I don't care what he says, he wanted our gold.  Would have slit our throats if he had the chance.
+L609932 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ He...he could have been watching us.
+L609931 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ How's he going to want the gold?  He couldn't even know we had it.
+L609930 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Says he wanted food.  Liar.  He wanted the gold.
+L609929 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Why'd he come in our camp.
+L609928 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ Says they were deserters, they were afraid to fight, don't believe in Saddam anyway.  They flew the gunship up here to hide out.  When they saw us they figured we were going to kill them, so they shot first.
+L609924 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I told you; don't push me around.
+L609923 +++$+++ u8408 +++$+++ m570 +++$+++ EPPS +++$+++ Stop it!
+L609919 +++$+++ u8410 +++$+++ m570 +++$+++ WES +++$+++ I told you.  He tried to steal our gold. He tried to kill us.

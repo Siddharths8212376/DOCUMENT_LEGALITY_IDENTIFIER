@@ -1,0 +1,200 @@
+L313101 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ So you're gonna call Karen tomorrow?
+L313099 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ Yes, Max, I understand.
+L313098 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Then say "Yes, Max. I understand."
+L313097 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ I understand.
+L313096 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I mean it. I don't care how many times your mother calls or how much she cries.
+L313095 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ I understand.
+L313094 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I don't know. Maybe it's a language problem.  Anita, you ever cause this much heartache over something that could easily be avoided, I'll never write you again. You understand?
+L313093 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ Sure, 'cause I didn't ask her if I could go.
+L313092 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ But then you told her you were home.
+L313091 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ I know. That's why I went.
+L313090 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ But you didn't ask permission. You broke a trust. If you had asked, Karen probably would have let you. I'm sure she would.
+L313089 +++$+++ u1590 +++$+++ m105 +++$+++ ANITA +++$+++ I went. I did. I took my mother and little brother.
+L313088 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Tomorrow I'll talk to your probation officer. Karen's a good kid, but she's mad at you, because you lied to her. This business about your grandmother's funeral
+L312938 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ But the only way to help you was to do that, so I did it.  Okay, how 'bout this? After we're through fuckin' with these Koreans, I take you to Roscoe's Chicken and Waffles. My treat.
+L312937 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Course you didn't.
+L312936 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Answer the question, nigga. Do you think I wanted to spend the thousand dollars on your ass? Yes or no?
+L312935 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ You think I wanted to spend ten thousand dollars on your ass?
+L312934 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ I wanna help you, but I don't wanna be locked in the trunk of no car.
+L312933 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Well, if you owe me, git your ass in the trunk.
+L312932 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Look, man, I know I owe you --
+L312931 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Well, my ass has got a problem spending ten thousand dollars of my own goddam money to get ungrateful, peanuthead niggas outta jail, but I do it --
+L312930 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ I ain't doin' you no way. I just ain't climbin' in that trunk. I got a problem with small places.
+L312929 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ I can't believe you do me this way.
+L312928 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Well, I'm sorry, man, but I ain't gittin' in that trunk.
+L312927 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ You can't ride with me. The surprise effect is ninety percent of it.
+L312926 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Uh-uh. I ain't riding in that trunk no minutes. Why don't I just ride with you?
+L312925 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ We're only goin' to Koreatown. You'll be in there -- ten minutes.
+L312924 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ I ain't gittin' in that trunk.
+L312923 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ What the fuck I tell you. You don't hafta shoot nobody. Just hold the gun. They'll get the idea.
+L312922 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Fuck that shit, man. I ain't shootin' anybody.
+L312920 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Go ahead.
+L312919 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Let me finish. Can I finish?
+L312918 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Man, I ain't ready to be goin' out nowhere --
+L312917 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ I'm gonna sell the other two tonight. This group of Koreans in Koreatown have started a Neighborhood Watch kinda thing. And they want a few weapons so the neighborhood niggas know they mean business. So I'm gonna sell 'em my two machine guns tonight. Only problem, I ain't never dealt with these Koreans before. Now I ain't worried. Asians are by and large real dependable. They don't want no trouble. You might argue about price, but you ain't gotta worry about them shootin' you in the back. But I got me kind of a rule. Never do business with nobody you ain't never done business with before without backup. That's why I need you, backup.
+L312916 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Uh-huh.
+L312915 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Well, it ain't so much a problem a a situation. Remember I sold those three M-60 machine guns outta the five I got?
+L312914 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ What's the problem?
+L312913 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Why the fuck you at home? Cause I spent ten thousand dollars gittin' your ass home.  Look, I gotta problem. I need help, and you can help me.
+L312912 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Aaaaawww man, I wasn't plannin' on goin' no place. It's twelve o'clock, man. I'm home, I'm high --
+L312911 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ A bit.
+L312910 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ That requires me goin' out tonight?
+L312909 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ I need a favor.
+L312908 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ What?
+L312907 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Look, I hate to be the kinda nigga, does a nigga a favor -- then BAM -- hits a nigga up for a favor in return. But I'm afraid I gotta be that kinda nigga.
+L312906 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ What'd ya mean?
+L312905 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Naw, man. I gotta be someplace. I was kinda hopin you could come with me.
+L312904 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Hey, c'mon in, man. I was just -- you know -- smokin' a fatty, watchin' TV.
+L312902 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ That's why they call it "fuckin' with ya." Now you wanna hear how we retaliate?
+L312901 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ That's not what they're tellin' me.
+L312900 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Three years. That crime's old, man. They ain't got room in prison for all the motherfuckers out there killin' people. How they gonna find room for you?
+L312899 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ Three years.
+L312898 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ How old is that machine gun shit?
+L312897 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ If that's what they want to do, they're doin' it.
+L312896 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Naw, man. They just tryin' to put a fright in your ass.
+L312895 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ I'm still scared as a motherfucker, Ordell. They talkin' like they serious 'bout me doin' that machine gun time.
+L312894 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ You see, it works like this. You get your ass in trouble, I get your ass out. That's my job. And I don't mind tellin ya, nigga, it's steady work.
+L312892 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ You.
+L312891 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Who?
+L312890 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ You were there for me.
+L312889 +++$+++ u1598 +++$+++ m105 +++$+++ ORDELL +++$+++ Who was there for your ass?
+L312888 +++$+++ u1591 +++$+++ m105 +++$+++ BEAUMONT +++$+++ What the fuck can I say? I'm serious, man. What the fuck can I say? Thank you... thank you... thank you.
+L314212 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I told Jackie, and Jackie said you wanted him.
+L314211 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ And you didn't tell the Police?
+L314210 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I found out.
+L314209 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ How'd you know where he was?
+L314208 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I went to give him his refund, so he wouldn't have to come here.
+L314207 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Why were you with him?
+L314206 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ In his inside coat pocket.
+L314205 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Does he have the marked bills on him?
+L314075 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ Sure.
+L314074 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Can I have a word with you?
+L313640 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ What time do you have to be there?
+L313639 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ The envelope contains currency... all the same denomination, one-hundred- dollar bills. Now, I'm counting it.
+L313638 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ Every step of this goes in my report.  I am now taking a manila envelope from the subject's flight bag.
+L313637 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ We are. Don't worry about it.
+L313345 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She ain't said it, but she's not stupid, she knows it's you who wants her.
+L313344 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ She knows it's my case?
+L313343 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She hasn't one into specifics yet, she's been waiting for you.
+L313342 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ What's she willing to give us?
+L313341 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She wants to go back to work.
+L313340 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ What's she want?
+L313339 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She almost sounds scared.
+L313338 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ She sound scared?
+L313337 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She wants to make a deal.
+L313336 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ What's going on?
+L313329 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ Hey, Jackie.
+L313328 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Great, you're here.
+L312994 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ Ever heard of a fella named Beaumont Livingston?
+L312993 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Can she afford a good one is the question. Otherwise she'll be in Sybill Brand three weeks easy before the Public Defender gets around to her.
+L312992 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ You got a good lawyer?
+L312983 +++$+++ u1597 +++$+++ m105 +++$+++ NICOLET +++$+++ That looks like fifty thousand dollars from here.
+L312982 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ I'd say there's about, oh, fifty thousand dollars here. What would you say Ray?
+L313645 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ But you're not going to stop her?
+L313644 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ She leaves, somebody'll be on her.
+L313643 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ He wouldn't say. You gonna follow her?
+L313642 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ What's her name?
+L313641 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Four thirty. I'm meeting a woman.
+L313632 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Bet you're happy to be working again.
+L313631 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Fine.
+L313630 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ How was your flight?
+L313367 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Can you do it or not?
+L313366 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ You don't want much, do you?
+L313357 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ 'Course I do -- I deliver money for him.
+L313356 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ But now you're telling us now you do.
+L313353 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Help you get Ordell Robbie.
+L313352 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Help us do what?
+L313332 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Thanks.
+L313331 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Take your time.
+L313330 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Let me have a word outside with Agent Nicolet for a moment?
+L313022 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I'm tellin' you, I don't know nothin' about that fuckin' shit.
+L313021 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Oh, I wouldn't be so sure. What with all the cash, I think I could go with Conspiracy to Traffic.
+L313011 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ That's my diet shit.
+L313010 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ What's this?
+L313008 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Beauty products.
+L313007 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ What's in it?
+L313006 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ My pocketbook.
+L313005 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ While you're at it, let me see what else is in there. You mind?
+L313004 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Help yourself.
+L313001 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Oh, you're both? In 1985 you were flying for TWA and got busted for carrying drugs. You were carrying them for a pilot husband of yours. He did time and you got off. But that ended your career with the big airlines. Cut to thirteen years later. You're forty-four years of age. You're flying for the shittiest little shuttle-fucking piece of shit Mexican airline that there is. Where you make a whopping twelve-thousand dollars a year. That ain't a hulluva lot to show for a twenty year career. And to top it off, you're going to jail. Now true, the judge, even with your prior, will probably only give you a year or two. But this doesn't seem like the time of life you got years to throw away.  Now, we don't like trying losers like they're criminals. But in the absence of a criminal, we will try you. Now, wasn't this money given to you by an American living in Mexico by the name of Cedric Walker?
+L313000 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I'm not a loser.
+L312990 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Arrest me.
+L312989 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Hey, this is my office. There's no smoking.
+L312987 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I'm not saying another word.
+L312986 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ You should know if you bring in anything over ten thousand you have to declare it. You forgot or what? You could get a two hundred and fifty thousand dollar fine, plus two years in prison. Now you want to talk to us about it, or you want to talk to Customs?
+L312985 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ If I were to tell you "no it isn't..."
+L312984 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ This is your money?
+L312979 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Suspicion of what?
+L312978 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ You have the right to say "no." And I have the right to make you wait here with Ray while I go get a warrant. And if I don't want to go through all that trouble, I could just take you in on suspicion.
+L312977 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Would I mind? Do I have a choice?
+L312976 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ This is Special Agent Ray Nicolet with Alcohol, Tobacco, and Firearms. Would you mind if we looked in that bag?
+L312975 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I doubt it.  Who's your friend?
+L312973 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ The usual things. I'm a flight attendant with Cabo Air.
+L312972 +++$+++ u1592 +++$+++ m105 +++$+++ DARGUS +++$+++ Hi, I'm Detective Mark Dargus. L.A.P.D. can I ask what you have in that bag?
+L314256 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Are you scared of me?
+L314255 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I'm just tired in general.
+L314254 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I thought you were tired of your business?
+L314253 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Thank you for saying that, but no. My business.
+L314252 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Sure I can't twist your arm?
+L314251 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Thanks, but you have a good time.
+L314250 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Wanna go?
+L314248 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Start off in Madrid. Ever been there?
+L314247 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Madrid or Barcelona?
+L314246 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Spain.
+L314245 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Where're you going?
+L314244 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ You'll get over that.
+L314243 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I'd feel a whole lot better if you took some more money.
+L314242 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Do you blame yourself for helping me?
+L314241 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I'm fifty-five-years old. I can't blame anybody for anything I do.
+L314240 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ We're partners.
+L314239 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I know.
+L314238 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I never lied to you.
+L314237 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I didn't say you did.
+L314236 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I didn't use you, Max.
+L314235 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Not after they're dead.
+L314234 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ They've confiscated all his other stuff. But this one's sorta left over. The registration's in the glove box, the keys were under the seat... What's a matter, haven't you ever borrowed someone's car?
+L314233 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ That's Ordell's.
+L314232 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I told him I might.
+L314231 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Did you tell him you were leaving?
+L314230 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ He's on to a new thing. He's after a guy who owns a gun shop he says is "woefully and wantonly" selling assault rifles to minors. He says he's gonna take him down if it's the last thing he does.
+L314229 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ What's he doing?
+L314228 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I saw Ray the other day. Boy is he pissed he missed all the excitement.
+L314225 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I'm sure.
+L314224 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ You worked for it -- if you're sure that's all you want.
+L314223 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ I hesitated taking that much.
+L314222 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Only this isn't a bail bond, Max.
+L314221 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Yeah, your fee. I had to figure that out, since there wasn't no note.
+L314220 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Less ten percent.
+L314219 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I got your package. It was fun getting a half-a-million dollars in the mail.
+L314137 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Well, we don't let that happen, now do we?
+L314136 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ What if he hears something he's not supposed to?
+L314135 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ He's already there.
+L314134 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ We get Ordell to come to my office. Nicolet -- is he already there, or does he come busting in while we're chatting?
+L314133 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Ordell called and wants to meet me and I'm scared.
+L314132 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ What do you tell Nicolet?
+L314131 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ I've chickened out. I'm afraid of him. He'll like that.
+L314130 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Why?
+L314129 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Tell him I want to give him his money.
+L314128 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Tell him you want to see him?
+L314127 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Uh-huh.
+L314126 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Set him up.
+L314125 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Get Ordell to come to your office.
+L314124 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ So how do we give Ordell to Nicolet?
+L314123 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ It never was, so I'm not gonna start worrying about it now. Look, Ray more or less believes my story, and he more or less doesn't care. All he really gives a shit about is getting Ordell.
+L314122 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ It's not that simple.
+L314121 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ That's why A.T.F.'s gotta make the case. I'm their witness. They wouldn't have a case without me. If it's his word against mine, who are they gonna believe?
+L314120 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Everybody wants him, he's a homicide suspect. It doesn't matter who brings him in, he's gonna name you as an accessory.
+L314119 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Ray wants him.
+L314118 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ On the phone I told him I have the ten thousand he put up for your bond. I could bring the money and the papers for him to sign. Walk out and call the Sheriff's department.
+L314117 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ He's liable to shoot you.
+L314116 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ People talk to Winston. He's street, same as them, they trust him. They get busted, they know somebody who can bond them out. I thought I might drop in on him. He'll no doubt be surprised to see me.
+L314115 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ How does Winston find him if A.T.F. and all the local Police can't?
+L314114 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ All Winston had to do was ask around. Ordell's living in Long Beach with a woman junkie.
+L314113 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ How'd you find out?
+L313851 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Well, a suit. There's one I had my eye on.
+L313850 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ In a dress.
+L313849 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ That's why you don't make a move till I come out of the fitting room.
+L313848 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ You're gonna have surveillance all over you.
+L313847 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Yeah, but I'm not in jail and I tried.
+L313846 +++$+++ u1595 +++$+++ m105 +++$+++ MAX +++$+++ Then you're out and you get nothing.
+L313845 +++$+++ u1593 +++$+++ m105 +++$+++ JACKIE +++$+++ Not really. If he finds it, I say Mr. Walker put the money in, and I didn't know nothing about it. Like the coke.

@@ -1,0 +1,200 @@
+L137429 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Up ahead.
+L137428 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Can you see light?
+L137426 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ No, not really.  Throw down a rope.
+L137425 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Gabe!  Are you alright?
+L137421 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ If we don't get out of here soon we can ask him in person.
+L137420 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ What was God thinking when he built this place?
+L137416 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Breathtaking.
+L137415 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Nice view, huh?
+L137408 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Cute.
+L137407 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Want me to lead?
+L137406 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ A simple yes or no would have done.
+L137405 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I've gone this far, and right now I think I'm in better shape than you.
+L137404 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ We have to get through to the other side.  You up for it?
+L137372 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Sure, just give it back when you're done.
+L137371 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ If you're not using your arm, can I borrow it?
+L137370 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Yeah?
+L137369 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Gabe...your arm?
+L137368 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I don't know.  Here, lay down and get some rest.  We're going to need it.
+L137367 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Why can't things stay the way they are...everything has to change.  What we had was perfect.
+L137366 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ No, actually it was more like mutual attacking.
+L137365 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Only kidding...<u>actually</u> I attacked you.
+L137364 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Can you think of something more romantic than attacked?
+L137363 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ You attacked me.
+L137362 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ It was great.
+L137361 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Of course I do.
+L137360 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Remember the first time we came up here?
+L137359 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Call me sentimental.
+L137358 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You still wear the cable necklace I gave you.
+L137357 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Making things real rough for Hal.
+L137356 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Neither can I.  What do you think they're doing now?
+L137355 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I can't believe you just said that.
+L137354 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I'm glad you find humor in this.  Do you know what people would do for that?
+L137353 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Man, it costs a fortune to heat this place.
+L137336 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Don't worry about me, just go.
+L137335 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ What about you?
+L137334 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Take off and meet me at Eagle Cave.
+L137331 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You know me, I'm a night person.
+L137330 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ They've got to find shelter soon, and so do we.  How are you holding up?
+L137323 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Excuse me?
+L137322 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Let's be creative.
+L137315 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Yeah, let's go.
+L137314 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ For the same reason you did, to help.
+L137313 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ That's no good. It'll be dark soon, there's no other shelter for ten miles. If they show, they'll take you too.  Why'd you have to come up here?!
+L137312 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I can't.  The radio's at the bottom of the shaft.  But Frank'll be looking for me soon. When he gets here I'll contact everybody from the chopper.
+L137311 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Before it crashed, they dumped three cases filled with millions. They're using Hal for a bird dog. Once they find the money, Hal's dead.  So get on your radio, contact Frank, have him pick you up, then contact the state police, the park police and anything else wearing a badge and tell them to get up here!  Do it Jessie.
+L137309 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Where's Hal, what's going on?
+L137308 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ You got to go back now!
+L137307 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Frank dropped me in the west valley and I hiked.  You look frozen.  What's happening?!
+L137306 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ How'd you get up here?
+L137305 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Looking for Hal.  Oh my God, I heard someone kick the door open...you came back.
+L137304 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ What are you doing here!?
+L137303 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Gabe!?
+L137182 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I only came back for you.
+L137181 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Can't do it?  I don't believe this.  Don't you feel anything?
+L137180 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Can't do it.
+L137179 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I know you don't want to be responsible for anybody's life anymore, but walk away and you are responsible.  Please Gabe, he went up the west ridge.  If you go up the south face, you can catch him, no problem--
+L137178 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You mean the nerve.
+L137177 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I haven't climbed in months--you lose the feel.
+L137176 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ What if he can't?
+L137175 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ He can handle it.
+L137174 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ That's not the issue here, those people are.  He can't do it alone.
+L137173 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ He doesn't want my help.
+L137172 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ If he gets up there and the weather gets as bad as it can, they'll never make it down.  He needs someone who has emergency medical training and knows every handhold on these peaks.
+L137171 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Hal knows what he's doing.
+L137170 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Thank God you didn't leave.  We just got a Mayday.  Seven climbers stranded off Comb Bluff. The weather's pouring in fast and Hal's gone up alone.
+L137087 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Jess--you look good.
+L137086 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You know where everything is...  I'm late for my shift.
+L137085 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ If it's alright, I'm gonna pick up the rest of my gear.
+L137084 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ And I can't leave.
+L137083 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Like I said, I can't turn it off.
+L137082 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You come back after being gone almost a year, and you expect me to just leave...  This was <u>our</u> home, now it's <u>my</u> home.  I can't leave.  You can stay with me, and believe me, I want you to, but to just take off for the wrong reasons, I can't do it.  And you shouldn't either.
+L137081 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ It doesn't matter, anywhere but here.
+L137080 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Where?
+L137079 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I can't.  Not here.  If you want, I'd like you to come with me...somewhere else.
+L137078 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Gabe, did you come back to stay?  You didn't.
+L137077 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ No, I think I will, it's safer. I have patience.
+L137076 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Course maybe you don't have to wait until I faint.
+L137075 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ From one professional to another, of course.
+L137074 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Listen to you...  The old "mouth-to-mouth" resuscitation routine, huh?
+L137073 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Flare up of old emotions...
+L137072 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ A flare up...
+L137071 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Maybe lead to a flare up...
+L137070 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Which could maybe what?
+L137069 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ --mouth-to-mouth, which could maybe...
+L137068 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Resuscitation?
+L137067 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Okay, but if you do I'll have to perform resuscitation--
+L137066 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I'm not going to faint, but if I want to faint, I'll faint, okay?
+L137065 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Y'know, yelling at this altitude can lead to hyperventilation and fainting--
+L137064 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Did I miss something?
+L137063 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Why are you yelling?
+L137062 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Excuse me?
+L137061 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Why are you yelling?
+L137060 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You're saying, I don't understand?  I'm the <u>only</u> one who does understand.  I'm the one you lived with for two years, I'm the one you made promises to, I'm the one who spent too many nights looking up at these rocks and wondering if you were ever going to make it down in once piece or ever at all.  Believe me, there's been times I didn't know what I wanted to do more, love you or hate you.  But the one thing in our relationship that I did know and still do know is that I <u>understand you</u>.
+L137059 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ You couldn't.
+L137058 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I don't understand?
+L137057 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I don't expect you to understand.
+L137056 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Then turn it off, Gabe, because it doesn't get any better.
+L137055 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I can't blame anything on Hal. It was me.  I play it back in my mind everyday.
+L137054 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I was there, you were the only one who didn't panic.  So do everyone a favor, don't hog all the guilt.  You held on as long as you could.  Yes, everything did go wrong, starting with Hal. I mean, what was he doing up on the Tower with a girl who could barely climb?
+L137053 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Did I?  I don't know.  Maybe I shouldn't have gone out on that line.  Maybe I panicked.
+L137052 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Why can't you believe that you did everything you could?
+L137051 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I don't think you do.
+L137050 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ I know...
+L137049 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ A lot of things fell apart up there.
+L137048 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Had to leave?  Believe me, we all wanted to leave...but you know what?  We stayed.
+L137047 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ After the funeral I just had to leave.
+L137046 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Maybe I can help. Let's see... if one night I got up and packed up all my things and drove away without leaving so much as a note, and stayed away for months, I think what I'd want to do is come up with a well thought-out reason.
+L137045 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Working...I'm trying to figure out where to start.
+L137044 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Where've you been?
+L137043 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ When you call me Gabriel, I know I've got trouble.
+L137042 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Hello, Gabriel.
+L136969 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ On my way.  Alright Sarah, are you ready for the best ride in the park?
+L136968 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ The winds are picking up.
+L136944 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Don't believe it...  You know the trouble with you is you have no brain filter. Everything you think just pours right out.
+L136943 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ And when I came down, my morals were corrupted forever.
+L136942 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Oh, please.
+L136941 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Yeah, we were caught in a storm. I went up there an innocent climber...
+L136940 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Enough.
+L136939 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ We spent a night there one night...
+L136938 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You can stop right there.
+L136937 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ The ledge, I know it well, or should I say <u>we</u> know it well.
+L136936 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ He knows it well.
+L136932 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Don't say that.  You'll embarrass Frank.
+L136931 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Oh, my God!  I can't recognize the face, but the butt does look vaguely familiar. 
+L136930 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Just hangin' out.
+L136929 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Gabe?  Gabe, where are you?
+L136927 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Wait, I think I have them sighted.  What's the word, Frank?
+L136926 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ That's a virtue isn't it?
+L136925 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Patience my love, patience.
+L136924 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Do you see them yet?
+L137440 +++$+++ u4549 +++$+++ m300 +++$+++ KYNETTE +++$+++ Now you get burned.
+L137439 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Never could save a thing.
+L137438 +++$+++ u4549 +++$+++ m300 +++$+++ KYNETTE +++$+++ What the fuck you mean you burned it?
+L137437 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ I burned it.
+L137436 +++$+++ u4549 +++$+++ m300 +++$+++ KYNETTE +++$+++ Your mouth's writing a check your ass can't cash, but if ya wanna buy some life, bring me the money.
+L137435 +++$+++ u4546 +++$+++ m300 +++$+++ GABE +++$+++ Good memory.  You must be great with numbers.
+L137434 +++$+++ u4549 +++$+++ m300 +++$+++ KYNETTE +++$+++ Look here, the mountain man. You're Walker, right?
+L137629 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ What are you talking about?
+L137628 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ No, the goddamn game's not over! It's never over when you're playing against a team that doesn't care if they win or lose-- how do you negotiate with someone like that?!
+L137627 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Qualen, go fuck yourself.  The game's over--you lost.
+L137626 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Tucker, you know where the money is-- I want it.
+L137533 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ When he finds the money, you're as dead as me.
+L137532 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Travers, you're not running things.
+L137524 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ I'm touched.  Kristel, check the chopper, let's go.
+L137523 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ He never hurt anybody.
+L137410 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ There is.
+L137409 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ You said there was a way across.
+L137400 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Kill a few people, they call you a murderer.  When you kill millions, you're called a conqueror.  Go figure.  Move on Tucker, time is short.
+L137399 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Murdering, motherfucker...
+L137391 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Sue me.
+L137390 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ You son of a bitch!  You said you wouldn't kill him!
+L137383 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ We're not animals, but don't force us to be.  Walk over.
+L137382 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ For Christ's sake, they're kids.
+L137377 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ How far?
+L137376 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ It's up there, on the Tower.
+L137352 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ No, he's close, and he's using our money to keep you alive. Nobody's worth that much on the open market.  Except you, the loyal one.  Didn't I tell you to warm the place up?
+L137351 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ No, he's gone.
+L137350 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Souvenirs?  No, wrong answer. Looks like your friend plans on hanging around, that possible?
+L137293 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ The only faster way up is the East Face and it's smooth as glass.  Maybe a dozen guys in the world could do it in good weather, only a psycho would try it in a storm.
+L137292 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Mr. Travers is not the athletic type, he needs something more direct.
+L137278 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Jessie, I reached the top of the Tower.  So far, no sign of anyone.  Looks like a phoney call. Over.
+L137277 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Talk.  No tricks, no codes, no messages.  You haven't found us. It was a fake call.
+L137264 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ The best he can since you gave him nothing.
+L137263 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ What's he doing?
+L137260 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Ryan, get a rope, I want the man on a leash, too.
+L137259 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ He'll freeze.
+L137251 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Right, all the bullets we can eat.
+L137250 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ The faster you find the bags, the bigger you boys' finder's fee will be.
+L137228 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ What the hell's going on?
+L137227 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Where's the helicopter?
+L137412 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ There.  You blind?
+L137411 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Then where the fuck is!
+L137379 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Half a day.
+L137378 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ He asked you, how far?!  I think you've been taking the scenic route.  How far from here?
+L137291 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ It looks like a winding route.
+L137290 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ On top of the peak.
+L137282 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ The down drafts would wipe her out.  It's the only chopper.  If it goes, you got no ride out.
+L137281 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Have her come up.
+L137239 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Tucker and Walker, we've lost three bags.
+L137238 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Tucker and Walker.
+L137237 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ What's your names?
+L137236 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Anyone else following?
+L137235 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Yeah...
+L137670 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Then it's a deal.
+L137669 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Right.
+L137655 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Climb, Gabe, climb!
+L137654 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Oh, my God!
+L137280 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ <u>Negative</u>.  The winds are too high.  I'm going to ride out the storm here.  I'll take shelter in the Douglas Exhibition Shaft. Over and out.
+L137279 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ You gotta be kidding me!  Do you want me to fly up after you? Over.
+L137169 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Bob and Rick are in Denver.  I gotta get up there as fast as possible.  Frank, get me a load of flares.
+L137168 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Where's the rest of the team?
+L137167 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ You're looking at him.
+L137166 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Who's going with you?
+L137165 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ You and Frank get the tents, thermal clothing, and medical supplies together.
+L137161 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Acknowledge.  Winds are too strong to get a chopper up there, Are you near any natural shelter? Over.
+L137160 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Got to be Comb Bluff.
+L136993 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Hold on, baby, he'll get you.
+L136992 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Go after her.
+L136958 +++$+++ u4548 +++$+++ m300 +++$+++ JESSIE +++$+++ Copy.  Hal, tell Gabe he only makes advances <u>to me</u> or else he'll be walking down four thousand feet, and sleeping outside.
+L136957 +++$+++ u4547 +++$+++ m300 +++$+++ HAL +++$+++ Rescue One -- please be advised Ranger Walker is making advances toward my girlfriend that are liable to get his ass kicked right into space, over.

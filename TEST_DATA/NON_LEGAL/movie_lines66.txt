@@ -1,0 +1,200 @@
+L64554 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ That's a very handsome sword you have there.
+L64552 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ Your cousins go out with him.
+L64551 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ My mare is saddled and ready; who's the captain's second?
+L64550 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ The meeting is arranged.  Captain Best is waiting for you now.
+L64549 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Have you taken my message to him?
+L64540 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ In faith, I believe you are not; for a lad I never saw more game in my life.  Give me a kiss, my dear boy. You're after my own soul.  As long as Jack Grogan lives, you shall never want a friend or a second.
+L64539 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ He'll give the better mark.  I am not afraid of him.
+L64538 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ Well, if it must be, it must.  For a young fellow, you are the most bloodthirsty I ever saw.  No officer, bearing His Majesty's commission, can receive a glass of wine on his nose, without resenting it -- fight you must, and Best is a huge, strong fellow.
+L64537 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Mark this, come what will of it, I swear I will fight the man who pretends to the hand of Dorothy Dugan.  I'll follow him if it's into the church, and meet him there. I'll have his blood, or he shall have mine.  Will you take my message to him, and arrange the meeting?
+L64536 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ And this is the return you make for his kindness!  Didn't he harbor you in his house when your father died, and hasn't he given you and your mother, rent-free, your fine house of Jamesville yonder?
+L64535 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ And so I am.
+L64534 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ A pretty day's work of it you have made, Master Roderick.  Knowing your uncle to be distressed for money, and try and break off a match which will bring fifteen hundred a-year into the family?  Best has promised to pay off the four thousand pounds which is bothering your uncle so. He takes a girl without a penny -- a girl that has been flinging herself at the head of every man in these parts these ten years past, and missing them all, and a boy who ought to be attached to your uncle as to your father.
+L64510 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ Faith, I think you are a lad that's likely to keep your word.
+L64509 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Dorothy might love me or not, as she likes, but Best will have to fight me before he marries her!
+L64506 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ The man that marries Dorothy Dugan must first kill me -- do you mind that?
+L64505 +++$+++ u457 +++$+++ m28 +++$+++ CAPTAIN GROGAN +++$+++ This is a pretty way to recommend yourself to the family.
+L64661 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ Tut, tut!  I can play at fencing as well as you, Mr. Roderick James. Ah!  You change color, do you?  Your secret is known, is it?  You come like a viper into the bosom of innocent families; you represent yourself as the heir to my friends the O'Higgins of Castle O'Higgins; I introduce you to the nobility and gentry of this methropolis; I take you to my tradesmen, who give you credit.  I accept your note for near two hundred pounds, and what do I find?  A fraud.
+L64660 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Repeat the words again, and I run you through the body.
+L64659 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ You're an impostor, young man, a schemer, a deceiver!
+L64658 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Sirrah!  Sirrah, I am as good a gentleman as any in Ireland!
+L64657 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ Whom have I been harboring in my house?  Who are you, sirrah?
+L64639 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ I have heard of them.
+L64638 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Ah -- I see.  No, I'm afraid mine are the O'Higgins of Watertown.
+L64637 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ Oh, I am thinking of the O'Higgins of Redmondstown.  General O'Higgins was a close friend of my wife's dear father, Colonel Granby Somerset.
+L64636 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Which O'Higgins do you know?  For I have never heard your name mentioned in my family.
+L64635 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ Mr. O'Higgins, we are in your debt, and rest assured, sir, you have friends in this house whenever you are in Dublin.  Mister O'Higgins, I wonder if I know your good father?
+L64634 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I am only sorry that I was unable to prevent the villain from carrying off all her ladyship's money and pearls.
+L64633 +++$+++ u458 +++$+++ m28 +++$+++ CAPTAIN O'REILLY +++$+++ Mr. O'Higgins, I cannot say how grateful I am for your timely assistance to my wife.
+L64803 +++$+++ u471 +++$+++ m28 +++$+++ PRINCE +++$+++ I have said all there is to be said. I am at your disposal for whatever purposes you wish.  Good night.
+L64802 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Your Grace, if I am so tame as to take this, then I must give up an honorable and lucrative occupation.
+L64801 +++$+++ u471 +++$+++ m28 +++$+++ PRINCE +++$+++ Chevalier, if you will have your money now, you must fight for it. If you will be patient, maybe I will pay you something another time.
+L64800 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Your Grace owes me seventy thousand frederics, which I have honorably won.
+L64799 +++$+++ u471 +++$+++ m28 +++$+++ PRINCE +++$+++ I don't know.
+L64798 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ I deny your Grace's accusations, and beg you to say how you have been cheated?
+L64797 +++$+++ u471 +++$+++ m28 +++$+++ PRINCE +++$+++ Chevalier, though I cannot say how, I believe you have cheated me.
+L64843 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ The gentleman has nothing contraband.
+L64842 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ I have no luggage.
+L64839 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ As you please.
+L64838 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ All Europe shall hear of this!
+L64837 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ Your honor must lower his voice.
+L64836 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Ten thousand?  But the scoundrel owes me seventy thousand.
+L64835 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ I have orders to gag your honor if you cry out, and to give you this purse containing ten thousand frederics if you do not.
+L64834 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ It is shameful -- infamous!  I insist upon being put down at the Austrian ambassador's house.
+L64833 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ You are going to drive to the frontier.
+L64832 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Good gracious!  What is this?
+L64831 +++$+++ u472 +++$+++ m28 +++$+++ PRUSSIAN OFFICER +++$+++ I will let down the steps for your honor.
+L64830 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Where is my rascal, Lazlo?
+L64912 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Perfectly certain, because I shall make him tremble.
+L64911 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Certain?
+L64910 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I risk nothing, for I am certain to kill him.
+L64909 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ To risk one's life against such people is an imposition.
+L64908 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ It is distasteful to kill a scoundrel -- that should be work for a hangman.
+L64874 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Sir, we have but eighty thousand florins in bank, or two hundred thousand at three months; if your highness' bags do not contain more than eight thousand, we will meet you.
+L64873 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ When the Duke of Courland brought fourteen lackeys each with bags of florins, and challenged our bank to play against the sealed bags, what did we ask?
+L64845 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Then ordering fresh horses, the Chevalier set off on his journey for that capital.  I need not tell you that I was the Chevalier.
+L64844 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Gentlemen, I wish you a good day. Will you please go to the house from whence we set out this morning, and tell my man there to send my baggage on to Three Kings at Dresden?
+L64819 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ But how, sir?
+L64818 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Make your mind easy, you shall not be left behind, I warrant you.  Do take a last look at your barracks, make your mind easy, say a farewell to your friends in Berlin.  The dear souls, how they will weep when they hear you are out of the country, and, out of it, you shall go.
+L64817 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ But, if they send you away, then what is to become of me?
+L64816 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ I have faced that problem before.
+L64815 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I believe they will deport you.
+L64814 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Have no fear.  It will come out well for me.
+L64813 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ But they will prevent a meeting at whatever the cost.
+L64792 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ We will practice in the mornings, my boy, and I'll put you up to a thing or two worth knowing.
+L64791 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I can play as soldiers do, but have no great skill.
+L64790 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ The cards are now my only livelihood.  Sometimes I am in luck, and then I lay out my money in these trinkets you see.  It's property, look you, and the only way I have found of keeping a little about me. When the luck goes against me, why, my dear, my diamonds go to the pawnbrokers and I wear paste.  Do you understand the cards?
+L64788 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ I'd give five years of my life to see the old country again, the greenfields, and the river, and the old round tower, and the burying place.
+L64787 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ And I think he was as much affected as I was at thus finding one of his kindred; for he, too, was an exile from home, and a friendly voice, a look, brought the old country back to his memory again, and the old days of his boyhood.
+L64781 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Only the agency of servants.
+L64780 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Who else can give me information about you?
+L64779 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ No one, sir.  Before that I served in the army but had to leave due to weakness of the loins.
+L64778 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ For whom else have you worked?
+L64777 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Herr Seebach was a very kind employer.
+L64776 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ You come highly recommended by Herr Seebach.
+L64775 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes, sir.
+L64774 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ Your name is Lazlo Zilagyi?
+L64773 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes, sir.  Here is my letter.
+L64772 +++$+++ u459 +++$+++ m28 +++$+++ CHEVALIER +++$+++ You are the young man who M. de Seebach recommended?
+L64901 +++$+++ u460 +++$+++ m28 +++$+++ COUNT +++$+++ Take to your legs, low Irish dog.
+L64900 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ That is a trifle strong.
+L64899 +++$+++ u460 +++$+++ m28 +++$+++ COUNT +++$+++ Very well; but a man who yields takes to his legs.
+L64898 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ On the instant.  Everyone must yield to such a nobleman as you.
+L64897 +++$+++ u460 +++$+++ m28 +++$+++ COUNT +++$+++ Then you yield to me.
+L64896 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Very well!  Now that I know it, I will no longer love her.
+L64895 +++$+++ u460 +++$+++ m28 +++$+++ COUNT +++$+++ Perfectly so; and what is more, I will tell you that I love her, and that I am not of a humor to put up with rivals.
+L64894 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Certainly, monseigneur, does not Your Excellency consider her worthy of love?
+L64893 +++$+++ u460 +++$+++ m28 +++$+++ COUNT +++$+++ I entered here, monsieur, at a bad moment for you; it seems that you love this lady.
+L65194 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Old fool!
+L65193 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Lady Cosgrove, you are an old fool.
+L65164 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Roderick, you know well enough that I have never loved but you!  Was I ever so wretched that a kind word from you did not make me happy? Ever so angry, but the least offer of good-will on your part did not bring me to your side?  Did I not give a sufficient proof of my affection for you in bestowing one of the finest fortunes of England upon you?  Have I repined or rebuked you for the way you have wasted it? No, I loved you too much and too fondly; I have always loved you. From the first moment I saw you, I saw your bad qualities, and trembled at your violence; but I could not help loving you.  I married you, though I knew I was sealing my own fate in doing so, and in spite of reason and duty.  What sacrifice do you want from me?  I am ready to make any, so you will but love me, or, if not, that at least, you will gently us me.
+L65163 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ My Lady Cosgrove's relationship with me was a singular one.  Her life was passed in a series of crack-brained sort of alternation between love and hatred for me.  We would quarrel for a fortnight, then we should be friends for a month together sometimes.  One day, I was joking her, and asking her whether she would take the water again, whether she had found another lover, and so forth.  She suddenly burst out into tears, and, after a while, said to me:
+L64992 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ We then spent an hour in the most eloquent silence except that, from time to time, her ladyship cried out:  "Oh, my God.  Is it true -- I am not dreaming?"
+L64991 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ As soon as I saw you loved me, I was pleased, and I gave you every opportunity to fall more in love with me, being certain that, for my part, I would never love you.  But after our first kiss, I found that I had no power over myself.  I did not know that one kiss could matter so much.
+L64990 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Let me give a thousand kisses to that heavenly mouth which has told me that I am happy.
+L64989 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Without you, my dearest, I might have died without ever knowing love. Inexpressible love!  God of nature! Bitterness than which nothing is sweeter, sweetness than which nothing is more bitter.  Divine monster which can only be defined by paradoxes.
+L64986 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ O, my dearest love.  Enough!  I beg you.  Stop believing in your experience.  You have never known love.  My very soul is leaving me! Catch it on your lips, and give me yours!
+L64985 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Shall I tell you something -- I believed what was called love came after the union -- and I was surprised when my husband, making me a woman, made me know it only by pain, unaccompanied by any pleasure. I saw that my imaginings had stood me in better stead.  And so we became only friends, seldom sleeping together and arousing no curiosity in each other, yet on good terms for a while, as whenever he wanted me, I was at his service, but since the offering was not seasoned with love, he found it tasteless, and seldom demanded it.
+L64984 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Sir William Cosgrove is a man who is dying, and yet I envy him more than any man in Christendom.  He enjoys a privilege of which I am deprived. He may take you in his arms whenever he pleases, and no veil keeps his senses, his eyes, his soul from enjoying your beauty.
+L64983 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ My husband has convinced me of the contrary.
+L64982 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Let us give each other complete happiness, and let us be sure that as many times as we satisfy our desires, they will each time be born anew.
+L64981 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Our abstinence makes our love immortal.  If I loved you a quarter of an hour ago, now I should love you even more.  But I should love you less if you exhausted my joy by satisfying all my desires.
+L64980 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I know better than you do.  Love wants a more substantial fare, and if it is stubbornly withheld, it withers away.
+L64979 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Always, my dear one, never any further.  Love is a child to be pacified with trifles.  A full diet can only kill it.
+L64978 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Will we always leave it at this?
+L64977 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I ask only a payment on account today -- after that, you will find me undemanding, obedient and discreet.
+L64976 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Poor man.  And, for that reason, you want to begin where people end?
+L64975 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes -- but I am afraid of being deceived.
+L64974 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ You will do as you please.  It seems to me that such a matter can hardly be discussed until after people know each other.  Do you not agree?
+L64973 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Then I will respectfully take leave of her.
+L64972 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ And if she does not choose to show you some kindness?
+L64971 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ With a woman who is completely charming, be she a princess or a woman of the lowest condition, and who, regardless of her rank, will show me some kindness, tonight.
+L64970 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Be so good as to tell me with whom you think you are?
+L64969 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ But you deceive me nonetheless if I believe you, for it will not be in your power to love me when you love me no longer.
+L64968 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Deceiving someone without knowing it is something new for me.  If I do not know it, I am innocent.
+L64967 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ The amusing thing is that you deceive me without knowing, if it is true that you love me.
+L64966 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ To love you until death.  To subscribe to all your commands.
+L64965 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ To make me wretched in two weeks.
+L64964 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ It is my only object.
+L64963 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ You want my heart?
+L64962 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ By loving you, with no hope of possessing you.
+L64961 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ How so?
+L64960 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I believe you, and I see I must hasten to leave, for otherwise I shall become the unhappiest of men.
+L64959 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ A man may need to do that, and find it amusing; but a girl is bound by other laws.
+L64958 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I agree; but God put us on earth to take that risk.
+L64957 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ It is only too possible.  Love requires a mutual harmony which is difficult, and it is even more difficult to make it last.
+L64956 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ That is true, but it seems to me impossible that you should be unhappy in love.
+L64955 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ But if, when I love, I am unhappy, I will know that my empty heart was my good fortune.
+L64954 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ It is nonetheless a misfortune, and you will know it when you love.
+L64953 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Your word "empty" makes me laugh. Is it fortunate, or unfortunate?  If it is fortunate, I congratulate myself.  If it is unfortunate, I do not care, for I am not aware of it.
+L64952 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Then you have never loved?  Your heart is empty.
+L64951 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Many worthy of attention; but valuing is something more.  I could value only someone whom I loved.
+L64950 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ What!  You have not met a man worthy of your attention?
+L64949 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ That man has, perhaps, not yet been born.
+L64948 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Have you not a man whom you value?
+L64947 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Not one.
+L64946 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ How can I believe that there is not a man who has inspired desires in you?
+L64945 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Not even that.
+L64944 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ But, for a time... a passing fancy?
+L64943 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ Never.
+L64942 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Have you had one?
+L64941 +++$+++ u461 +++$+++ m28 +++$+++ COUNTESS +++$+++ No.
+L64494 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Indeed, Miss Dorothy, I intend to have his blood as sure as my name's Roderick.
+L64493 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Monster!  Your father was a tailor, and you are always thinking of the shop.  But I'll have my revenge, I will!  Roddy, will you see me insulted?
+L64472 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Jump twenty feet!  You wouldn't dare to do any such thing on Daisy. There's the captain's horse, Black George, I've heard say that Captain Bes --
+L64471 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Well, then, I'll tell you what I'd do.  I'd jump Daisy into the river, and swim you both across, where no enemy could follow us.
+L64470 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ What, with me on the pillion?  Would you kill poor me?
+L64469 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I'd draw my sword, and cut my way through them.
+L64468 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Suppose, now, Roderick, you, who are such a hero, was passing over the bridge and the enemy on the other side.
+L64467 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ But Captain Best is already known as a valiant soldier, and is famous as a man of fashion in London.  It is mighty well of you to fight farmers' boys, but to fight an Englishman is a very different matter.
+L64466 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ If ever I meet him again, you shall see which is the best man of the two.  I'll fight him with sword or with pistol, captain as he is.
+L64465 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Oh!  I can dance with you any day, and to dance with your own cousin at a ball as if you could find no other partner.  Besides, Roderick, Captain Best's a man, and you are only a boy, and you haven't a guinea in the world.
+L64464 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ But you refused me, Dorothy.
+L64463 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ I don't care a fig for Captain Best; he dances prettily to be sure, and is a pleasant rattle of a man.  He looks well in his regimentals, too; and if he chose to ask me to dance, how could I refuse him?
+L64462 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Were you obliged to dance five times with Captain Best, and then stroll out with him into the garden?
+L64461 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ I had not been in the room five minutes before I was engaged for every single set.
+L64460 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I hate Miss Clancy, you know I do! And I only danced with her because -- because -- the person with whom I intended to dance chose to be engaged the whole night.
+L64452 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ With pleasure at finding the ribbon.
+L64451 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Why are you shaking?
+L64450 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Then you must get it.
+L64449 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I feel the ribbon.
+L64446 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Do you see the gate at the end of the field?  The first to touch it will be the winner.
+L64445 +++$+++ u462 +++$+++ m28 +++$+++ DOROTHY +++$+++ Agreed.
+L64444 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I accept, but I insist on a wager. The loser must do whatever the winner pleases.
+L65079 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ All right, five hundred guineas.
+L65078 +++$+++ u464 +++$+++ m28 +++$+++ HENRI +++$+++ Last month, the Duke of Suffolk spent no more.
+L65075 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ It is entirely up to you.  I want the best.
+L65074 +++$+++ u464 +++$+++ m28 +++$+++ HENRI +++$+++ All the same, you must name an amount.
+L65073 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes, for I wish to entertain splendidly.
+L65072 +++$+++ u464 +++$+++ m28 +++$+++ HENRI +++$+++ As much as possible?
+L65071 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ As much as possible.
+L65070 +++$+++ u464 +++$+++ m28 +++$+++ HENRI +++$+++ I am at your service, Mr. Cosgrove. How much do you wish to spend?
+L65103 +++$+++ u465 +++$+++ m28 +++$+++ LORD WEST +++$+++ Well, Mr. Cosgrove, I'll answer you point by point.  The King is exceedingly averse to make peers, as you know.  Your claim, as you call them, have been laid before him, and His Majesty's gracious reply was, that you were the most impudent man in his dominions, and merited a halter, rather than a coronet.  As for withdrawing your support from us, you are perfectly welcome to carry yourself whithersoever you please.  And, now, as I have a great deal of occupation, perhaps you will do me the favor to retire, or tell me if there is anything else in the world in which I can oblige you.
+L65102 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes!
+L65101 +++$+++ u465 +++$+++ m28 +++$+++ LORD WEST +++$+++ Have you done, Mr. Cosgrove?
+L65048 +++$+++ u465 +++$+++ m28 +++$+++ LORD WEST +++$+++ Well, sir, this nobleman is one of the gentlemen of His Majesty's closet, and one with whom our revered monarch is on terms of considerable intimacy.  I should say you would be wise to fix upon this nobleman your chief reliance for the advancement of your claim to the Viscounty which you propose to get.
+L65047 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ By name only.
+L65046 +++$+++ u465 +++$+++ m28 +++$+++ LORD WEST +++$+++ Do you happen to know Gustavus Adolphus, the thirteenth Earl of Crabs?
+L65045 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ And, to be sure, I did know someone who knew precisely how these things were done, and this was the distinguished solicitor and former Government Minister, Lord West, whose acquaintance I made, as I had so many others, at the gaming table.
+L64825 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ What is to be done?
+L64824 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ Then this must be done tomorrow.
+L64821 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ When is he to go?
+L64820 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ The King has determined to send the Chevalier out of the country.
+L64810 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ The Prince left him only that choice.
+L64809 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ A meeting with the Prince of Turbingen is impossible.
+L64806 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ Hmm-mmmm.
+L64805 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ In so far as I can tell these things -- no.  I believe the Chevalier won the money fairly.
+L64804 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ Was he cheated?
+L64771 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Yes, Minister, I am interested in any work in which I can be of service to Captain Galgenstein.
+L64770 +++$+++ u467 +++$+++ m28 +++$+++ MINISTER GALGENSTEIN +++$+++ Does this assignment interest you?
+L64629 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ You must be very cautious with regard to the company you should meet in Dublin, where rogues and adventurers of all countries abound. I hope you will do me the honor of accepting lodgings in my own house, where Captain O'Reilly will welcome with delight, my gallant young preserver.
+L64628 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ How different was her lively rattle to the vulgar wenches at Kilwangan assemblies.  In every sentence, she mentioned a lord or a person of quality.  To the lady's question about my birth and parentage, I replied that I was a young gentleman of large fortune, that I was going to Dublin for my studies, and that my mother allowed me five hundred per annum.
+L64627 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ That's very kind of you, Mr. O'Higgins.
+L64626 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ As you have been robbed of your purse, may I have permission to lend your ladyship a couple of pieces to pay any expenses which you might incur before reaching your home?
+L64625 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ O'Higgins... Mohawk O'Higgins.
+L64624 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ But I shouldn't like to put you to such trouble, Mister...?
+L64623 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ I am riding to Dublin myself, and if your ladyship will allow me the honor of riding with you, I shall do my best to protect you from further mishap.
+L64622 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ That fool didn't know what was the meaning of a hundred-pound bill, which was in the pocket-book that the fellow took from me.
+L64618 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ Everything -- my purse, containing upwards of a hundred guineas, my jewels, my snuff-boxes, watches. And all because this blundering coward fell to his knees...
+L64617 +++$+++ u473 +++$+++ m28 +++$+++ RODERICK +++$+++ Be off to your work, you pack of rascals, or you will have a good taste of my thong.  Have you lost much?
+L64614 +++$+++ u468 +++$+++ m28 +++$+++ MRS. O'REILLY +++$+++ Oh, I am grateful to you, sir.  I am the wife of Captain O'Reilly hastening to join him at Dublin.  My chair was stopped by a highwayman; this great oaf of a servant-man fell down on his knees, armed as he was, and though there were thirty people in the next field, working, when the ruffian attacked, not one of them would help but, on the contrary, wished him "good luck."

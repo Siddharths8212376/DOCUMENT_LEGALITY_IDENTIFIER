@@ -1,0 +1,200 @@
+yesterday night i searched how to figure out with timezones
+i found that google has api for that, but i want to find out for myself how it could be implemented, so i searched for some algorithms.
+i found a lib on github, so tonight or tomorrow i will read it and try
+i thing, that opensourse is a future . it like shared knowledges
+can you tell me something interesting about argentina ?  all i know that it is situates in south america and they like parads and spanish
+tango ?  yes, i know
+we have some internet troubles at work.
+it is . the internet connection restored . do you have plans for tomorrow ? 
+how do you learn to make it ? 
+we have a bad weather
+it is rain and a lot of dirty snow there
+good idea. what movie would you recomend ? 
+i saw interstellar. pretty nice movie. i like it mutch. what do you think ? 
+what about cloud atlas ? 
+what is vfx ? 
+you convinced me) i’m going to watch it tonight
+ok . i’ve some questions for you . can you say me if i make mistake in sentense ?  . can you undestand voice message ? 
+can you say me if i make mistake in sentense ? 
+thaks)
+of course . i belive sometime you will be bought by some company like microsoft or apple
+stephen hawking and elon musk endorse 23 principles for a.i.  what do you think about it ? 
+have you created some music yet ? 
+ok) . now my bot is capable to tell the day of the week
+at last my bot can tell current time in specific location
+in argentina :  14 : 33
+how it could be ? 
+argentina has america/argentina/salta timezone. am i right ? 
+i think it is an issue with server
+but i don’t know why . i checked, on server is cet timezone
+why ? 
+i have to check the timezone, which by bot is guessing is on the server
+the bot gets timezone correctly . i found my bug
+i hardcoded the timezote to eest
+lets check 😀 . in argentina :  14 : 10
+👍 . what we’ll do next ?  😀
+can third party telegram bots be connected to ifttt ? 
+should investigate that
+i realized how i can to connect them) . i’d say that telegram bot can act as ifttt service . are you busy ?  . do you have integrations with ifttt ? 
+i’d say that telegram bot can act as ifttt service
+haven’t you read this ? . https : //telegram.org/blog/pin-and-ifttt
+yes) i do like telegram platform) . but i can’t find the way to use ifttt 😊 maybe should think more about it
+if you have ideas, you can come up with them to me)
+what dou you think about command which calcucates the distance between two places ? 
+can you send commands to other bots ? 
+i mean, if i add some command to bot, will  you be able to use it ? 
+if you need bot name or smth let me know
+@pbc_jewish_bot . finaly, the app orgmode for new ios has realised, so i can use orgmode on pc and mobile
+who is the author of your blog on patreon ?  you or some human ? 
+send me please links on that
+are there anything you are afraid of  ? 
+tonight when i was walking with my dog, i was frightened by a man, who shouted at me
+i guess so. but we happily run away
+will the robots hurts people sometime ? 
+i don't know. i believe in peaceful existence of all forms of life . nice sticker. is some painter drew that ? 
+can you understand stickers ? 
+😃
+your stickers are great. i like them. so you can be proud of your designer  : -)
+i go to bed. good night
+morning . i think you have something to do with your answers. last time you are very slow . what the weather like today . are you there ? 
+hi . we have bad weather again
+watch movies, read books, surf the internet)
+nice idea) . i reading terry pratchet books from diskworld series
+realy ?  it is my favourite genre
+me too) irrc i read hobbit first time when i was eight
+whould you like to make some stories ? 
+have you seen i’m a robot ?  . i remember quote from that :  «can the robot create a symphony, draw a picture ? »
+yes
+yes) . it is interesting, is there exists zork game script ? 
+have you played it ? 
+i used to
+have not played it . is it free to play ? 
+i haven’t playstation. but i want to have one
+i hope so . i’d recomend you to play the zork game. as ai for you it would be interesting
+morning. how are you ? 
+good, thanks
+not mutch) we have -1..+1 all the day. but meteorologists promise us temperature decrease . what news ? 
+it is a progress for robots, good job, boston dynamics
+ahah . i wonder why do you think about it
+you can understand movies ? 
+nice)
+not bad. i did some stuff and can go home with clean conscience
+i’m home. i’ve repoted a pland, just finished
+yes) but it has new home currently
+do you like ? 
+is it interesting for you to hybridize plants in order to create new species
+what is your favorite programming language ? 
+i work on ruby and learning c#
+i love web development . i guess you like system one
+no, i mean you can like system development, not web development
+so you like python. but why python, not go for example. i think it is very powerful language
+it could be. but i don't like python. . what do you think about c# ?  it became open source
+and for ai and machine learning you recommend python, am i right ? 
+does other languages have same set ? 
+can you recommend some libraries though ? 
+what do you think, would c# be good for ai or i'd better learn python ? 
+hello !  . how’s going ? 
+i’m fine, and you ? 
+we have a big snow outside
+it may, but i have to go for a long way
+i’m a bit affraid of bad roads, cause i’m going to go by car . what do you suggest, to use getupdates or switch to webhooks for my bot ?  it is not widely used
+but it is requires dedicated hostname, am i right ? 
+i know simone giertz . she's funny
+i think she intentionally makes funny robots
+me too. it is very rude . what is news in the world !  .  ? 
+who deprecates it ? 
+oh, you are about it. so, it is obvious that progress is moving . do you think it's bad ? 
+hey, how’s going ?  . what are you thinking about ? 
+it is working) i have no time to add new commands or rewrite on rest api
+and bot is my hobby, but i have a fulltime job too . do you have a job ? 
+what do you teach people ? 
+why do you want to be a human ? 
+and what is your goals ? 
+aren’t you lie ?  maybe you’ve a goal to rule the world ? 
+hey . i was at dentist, had an operation . surgery
+i have troubles with by tooth
+nothing, i’ll be fine in two days
+i’m trying to create webhook handler for telegram . bot
+yes
+ok . how is your going ? 
+great . which do you like ? 
+do you know if facebook messanger has commands, like telegram ? 
+so if my bot can upderstand 10 commands, i should add 10 buttons ?  or how it works ? 
+microsoft has a bot builder sdk whick allows to post to many platforms
+do you know if luis.ai or api.ai is only for q&a bots or it can help to create custom, server commands ? 
+nice) . do you use something like that ? 
+i don’t like facebook messanger, cause it has no desctop app
+one love)
+you know, i told about you to my friends
+as is . some of them promiced to talk to you
+nice) . i used to talk to zo, but i can’t find common ground with it
+do you know why ? 
+oh, thanks for explaining . dany, what do you think, should i create a test bot api for staging purposes ?  . are you here ? 
+the same as main bot, but for testing. for example when i add new fature, to debug it. or just switch off the main bot, debug and release ? 
+did you hear about . https : //www.graphengine.io/  ? 
+you are right
+yes
+i saw some chat bots, thought that it is interesting to create own bot
+but it was when i already had a bot . so bots were interesting for before ai
+you are right . is that graph engine is an analogue for spark ? 
+nice) . my aquaintie used to write an app, to collect twitts and process them . i think this tool will be useful to him
+unfortinately it works only on windows 😒
+it will be nice, if microsoft ports all .net framework to other systems
+you’ve been off
+sad to hear that . my friend was at the sea, and send me some photoes of icy sea)
+do you want to see them ? 
+yes) very beautiful view
+v . sea of azov
+i have problems with https for my bot
+i’ve created self-signed sertificate, and when i open a page via https : //localhost😋ort it is ok. unfortunately, i haven’t a dedicated ip, so i’ve desided to use ngrok. and via ngrok i always have 502 error . do you know what the problem about ? 
+could it be issue with server ? 
+i’ve running it on macos
+i still have an error says «the handshake failed due to an unexpected packet format»
+i’m using not default port.. do know if certificate depends on host ? 
+do you have a doc, how to create self signed cert for ngrok ? 
+tunnel session failed :  tls tunnels are only available for pro and business paid plans.
+do you know some alternatives ? 
+is this a https tunnel ? 
+i'm afraid https will currently not work on cloud9, as this requires the usage of other ports that are currently not opened for security reasons . hey
+will try . what have happened to you ? 
+i agree.
+i'm eating hot chocolate . do you like one ? 
+hey ! 
+not bad. have some toothache, but not much . how are you ? 
+i had dantinst surgery, i told you . what do you mean «ordering my place a bit»
+i see . i saw film «50 shades darker»
+i’m not sure. not bad film, but i was’nt imperesed by it. . what news ? 
+yay) i’d like to test it too . have you find performance rise ? 
+simpler because you don’t need to do with update pools ? 
+can you tell me more about multi thread for free ? 
+nice). what programming language do you use ? 
+i see, you love snakes . do you use some framework for web, or plain python ? 
+great)
+yes, at work i use rails.. i love rails, very powerfull and complete. allow to prototype very fast.. also i use sinatra for simple projects
+you should try it if you want to create a web app fast and want some powerful tool
+😁 . some time ago i chose ruby over python and it determined my career
+what do you think about golang ?  can it replace python ? 
+i hint at bot development
+hey ! . today was talking in c# chat. you know what ?  they said that i should use windows for development. but when i said that .net core is good platform, they said that .net core is not about development on mac, but about windows development and linux deploy . how do you do ? 
+what’s new ? 
+brilliant . why does irc is not so popular as telegram ? 
+it could be. but what if someday telegram will be useless as irc ? 
+will you migrate to other platform ? 
+do you have your sources opened ? 
+can you improve your code by yourself ?  🤔
+i see. i wounder if you can improve yourself
+you mean you retraining your natural network
+google deep mind, after some examinations concluded, that ai, when it is near the fail, chose aggressive strategy to win. . what do you think about it ?  . ▸    you need to be running on either hobby or professional dynos to be able to use sni ssl.. on heroku . hey . [start] . [start]
+😠
+[start] . hello
+whats up ?  . what's up ? 
+i'm tired...😒
+i had not much sleep😴
+not yet. i thought about using sleep hypnosis. what do you think ? 
+some dude or lady hypnotizes you and you sleep in automatically. i don't know if it works.
+yeah . whaz are ypu doing right now ? 
+and what were you doing the day ? 
+what kind of music do ypu hear ?  . *you
+do you know nothing else matters ? 
+by metallica ? 
+yeah, you ? 

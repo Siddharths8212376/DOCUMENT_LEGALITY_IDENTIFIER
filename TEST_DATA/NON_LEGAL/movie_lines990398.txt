@@ -1,0 +1,200 @@
+L580191 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ Agent Scully says it was she who ordered you out of the building. That you wanted to go back.
+L580190 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I breached protocol. I broke contact with the S.A.C. I ignored a primary tactical rule and left him alone with the device.
+L580189 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ She's in there right now saying the same thing about you.
+L580188 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ -- if they want someone to blame, they can blame me. Agent Scully doesn't deserve this.
+L580187 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ -- if it looks bad, it's bad for the FBI --
+L580186 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ But it's not the lives we saved. It's the lives we didn't.
+L580185 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ Agent Mulder -- we both know that if you and Agent Scully hadn't taken the initiative to search the adjacent building, you could have multiplied the fatalities by a hundred --
+L580184 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ And they want to blame us?
+L580183 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ You don't see what's going on here, do you?  There's four hundred million dollars in damage to the city of Dallas. Lives have been lost. No suspects have been named. So the story being shaped is this could have been prevented. That the FBI didn't do its job.
+L580182 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ She was with me.
+L580181 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ -- They're asking her for a narrative. They want to know why she was in the wrong building.
+L580180 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ About what?
+L580179 +++$+++ u8199 +++$+++ m556 +++$+++ SKINNER +++$+++ Sit down, they're still talking to Agent Scully.
+L580701 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ My life is over.  Go.
+L580700 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What about you?
+L580699 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Find Agent Scully. Save her. Only her science can save the future.
+L580698 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What alien environment?
+L580697 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ The vaccine you hold is the only defense against the virus. Its introduction into an alien environment may have the power to destroy the delicate plans we've so assiduously protected for the last fifty years.  Or it may not.
+L580696 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ How?
+L580695 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ You have precious little time. What I've given you the alien colonists have no idea exists. You hold in your hand the power to end the project.
+L580692 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Driver.
+L580691 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Let me out. Stop the car.
+L580690 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Dr. Kurtzweil is in the trunk.
+L580689 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Where is he?
+L580688 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ As your father knew, things need to be sacrificed to the future.
+L580687 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What happened to Kurtzweil?
+L580686 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ I thought it only fair you should know, given how hard you've worked.
+L580685 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Why are you telling me this?
+L580684 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ The only true survivors of the viral holocaust will be those immune to it: those vaccinated against it and human/alien hybrids. Your father arranged for your sister's abduction. He allowed her to be taken to an alien hybrid program, so that she would survive. As a clone.  He had different hopes for you. That you would uncover the truth about the Project. That you would stop it. That you would fight the future.
+L580683 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ But... he sacrificed his own daughter. My sister, Samantha.
+L580682 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Imagine our surprise when they began to gestate. My group has been working cooperatively with the alien colonists, facilitating their programs. To give us access to the virus. In false hope we might be able to secretly find a cure. So that we might save ourselves, as the last of the species.  Your father wisely refused to believe this, choosing hope over selfishness. Hope is the only future he had: his children,  The only future any of us have.
+L580681 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ That's why you bombed the building. The infected firemen, the boy --
+L580680 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Until Dallas, we believed the virus was simply a controlling organism. That mass infection would make us a slave race.
+L580679 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Your aliens, Agent Mulder, your little green men, first landed here millions of years ago. Those that didn't leave have been laying dormant underground since the last Ice Age. In the form of an evolved pathogen. Waiting to be reconstituted when the alien race from which it came returns to colonize the planet. Using us as hosts. Against this we have no defense. Nothing but a weak vaccine.  Do you see why it was kept secret? Why even the best men -- men like your father -- could not let the truth be known?
+L580678 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What do you mean, walked?
+L580677 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Aids, the ebola virus -- on the evolutionary scale they are newborns. This virus walked the planet long before the dinosaurs.
+L580676 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ No! For God sake you've got it all backwards.
+L580675 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ This is what you've been conspiring to conceal? A disease?
+L580674 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ A simple, unstoppable lifeform. What is a virus but a colonizing force that cannot be defeated? Living in a cave, underground, until it mutates. And attacks.
+L580673 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ A virus?
+L580672 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ No. Though I have no way to prove otherwise. The virus is extraterrestrial. We know very little about it, except that it is the original inhabitant of this planet.
+L580671 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ You're lying.
+L580670 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ A weak vaccine against the virus Agent Scully has been infected with. It must be administered with ninety six hours.
+L580669 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What is it?
+L580667 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ I want to know where Scully is.
+L580666 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ I think of it as an agreement. A word your father liked to use.
+L580665 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ About the conspiracy?
+L580664 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ I'm quite prepared to tell you everything, though there isn't much you haven't guessed.
+L580663 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Yes.
+L580662 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Is she alive?
+L580661 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ I have answers for you.
+L580660 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ Where's Scully?
+L580659 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ He's come and gone.
+L580658 +++$+++ u8197 +++$+++ m556 +++$+++ MULDER +++$+++ What happened to Kurtzweil?
+L580657 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Mr. Mulder.
+L580459 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ No, you need only take away what is most precious to him.
+L580458 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ You need not kill a man to destroy him.
+L580457 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ You can't kill Mulder. He's got too much light on him.
+L580452 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ And Mulder?
+L580451 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ No one believes Kurtzweil or his books. He's a toiler. A crank.
+L580450 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ We've allowed this man his freedom. His books have actually helped us to facilitate plausible denial. Has he outlived his usefulness to us?
+L580443 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ Well, without a cure for the virus, we're nothing more than digestives anyway.
+L580442 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ Our vaccine may have no effect!
+L580439 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ Cooperation is our only chance of saving ourselves.
+L580438 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ And if it doesn't? By cooperating now we're but beggars to our demise! Our ignorance was in cooperating with the Colonists at all.
+L580437 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ Let me remind you who is the new race. And who is the old.  What could be gained by withholding anything from them; By pretending to ignorance? Our knowledge may forestall their plans to step up the timetable. To start Colonization early.
+L580436 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ In hope of what? Learning that it's true?! That we are nothing more than digestives for the creation of a new race of alien lifeforms?!
+L580435 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ We're going to tell them what we've found. What we've learned. Turn over a body infected with the gestating organism.
+L580432 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ This isn't Colonization, it's spontaneous repopulation. All our work... if it's true, then they've been using us all along. We've been laboring under a lie!
+L580431 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ The geometry of mass infection presents certain conceptual re-evaluations for us. About our place in their Colonization.
+L580430 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ My god...
+L580424 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ We've been forced to reassess our role in Colonization by new facts of biology which have presented themselves.
+L580423 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ More concerns than that?
+L580421 +++$+++ u8201 +++$+++ m556 +++$+++ WELL-MANICURED MAN +++$+++ I'm sorry. My grandson fell and broke his leg.
+L580420 +++$+++ u8200 +++$+++ m556 +++$+++ STRUGHOLD +++$+++ We began to worry. Some of us have traveled so far, and you are the last to arrive.
+L582483 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Give a kiss to Edward.
+L582482 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ ...give a kiss to Edward.
+L582481 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Thanks Miriam.  Say hi to Henry and...
+L582480 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I'll come by tomorrow after work.  With dinner.
+L582479 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I know.
+L582478 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I don't need them anymore...
+L582477 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I refilled the Zyprexa and Atavan...
+L582401 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Agent Novak.  I didn't get a chance to clear him.
+L582400 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ What's wrong?
+L582399 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Damn him.
+L582397 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Baked in a pie.
+L582396 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Four and twenty blackbirds...
+L582395 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ ...a pocketful of rye.
+L582189 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ What happened?
+L582188 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Is it cold in here?
+L582158 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ No.  No.
+L582157 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Catherine?  I'm about to start.  If you want me to wait, or...
+L582149 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ She said convincingly.
+L582148 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I'll be fine.
+L582147 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ This isn't your responsibility. Remember that.  Don't let them use guilt as a tool.  If you want to stop, say so.
+L582137 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ He needs to be turned over.
+L582136 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Like a New Year's Day hangover.
+L582135 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Disorientation, nausea, migraines, hallucinations, insomnia, paranoia.
+L582134 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ The first... What?  Six or seven times I went in.   Remember what happened?
+L582088 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Why did we stop?
+L582087 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Nothing.
+L582086 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ A pocketful of fucking rye.  What's wrong?
+L582085 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Sing a song of sixpence.
+L581964 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ That's my girl.
+L581963 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I've got to feed my cat.  Besides, I want to get to bed early.
+L581962 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Henry wants me to try this Vietnamese place he's wild about.  Want to come?
+L581961 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Okay.
+L581960 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Don't bring it home in this.
+L581959 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I don't want you up all night reading Edward's case file of the nine millionth time.  Balance, dear girl, is the key. Leave the work here.
+L581958 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Yes mother.
+L581957 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Good.  We need you healthy and relaxed. You're going to eat well, meditate, exercise, and watch mindless television.
+L581956 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ No.
+L581955 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ You're sure?  Any more nightmares?
+L581952 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Okay, okay...
+L581951 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ And he might blame you for terrifying him.  That one moment could erase all you've accomplished.  And if that happened, the trust he has in you is gone.
+L581950 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I'd be there for him.
+L581949 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Yes, but, you're a willing participant. Picture Edward in a strange place, lost, frightened...
+L581948 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I do it all the time!
+L581947 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ If we reverse the feed and bring Edward into your mind, it could be devastating for him.  Imagine the shock of suddenly existing in a whole other world.
+L581946 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ It could take years for me to get past the barriers he's created.
+L581945 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I've heard this argument before.  It's not happening.
+L581944 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He creates the obstacles, he decides which games to play.
+L581943 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Shush.
+L581942 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Miriam...
+L581940 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ I don't want to find out.
+L581939 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Why not?  Just once.  A trial run.  What harm could it do?
+L581938 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ We've been over this a dozen times.  No.
+L581936 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Someday you can.  We all believe that...
+L581935 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ She thinks I can bring Edward back.
+L581934 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ She adores you.
+L581932 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Lucien Baines?
+L581931 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He hates me.
+L581909 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Mocky-Lock is a pain in the ass.
+L581908 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ "Mocky-Lock is the bogeyman, Mocky-Lock wants me where I am."
+L581907 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Almost.  Mocky-Lock showed up.
+L581906 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Did we go sailing?
+L581903 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Four-and-twenty blackbirds.
+L581902 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ A pocketful of rye...
+L581901 +++$+++ u8207 +++$+++ m557 +++$+++ MIRIAM +++$+++ Sing a song of sixpence...
+L582517 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ No.  Thank you.
+L582516 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ No problem.
+L582515 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Thank you.
+L582514 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ I got it.
+L582513 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ They're hungry.
+L582511 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ I don't know.  I think it does.  You know, Catherine... If you ever want to talk about it.  What happened to Stargher.  That last time.
+L582510 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ It doesn't matter...
+L582509 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ He also says that until proven differently, Julia Hickson was found as a result of good old-fashioned detective work.
+L582508 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ All yours.  My boss says it's one of the strangest requests the Bureau's ever had.
+L582507 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He's mine?
+L582506 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ So you say.
+L582505 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I told you.  You have to be optimistic. Believe in them...
+L582504 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Well look at that.
+L582503 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Good for them.
+L582502 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Yep.  Eloped.
+L582501 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I heard Julia and John got married.
+L582500 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Absolutely.  Abigail...
+L582499 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ You sure about this?
+L582498 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Give her a minute.  Hello, Valentine.
+L582497 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ That went well.
+L582372 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ I can't leave him!
+L582371 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ COME ON!
+L582365 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Carl, do you know?  Like on a map...
+L582364 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Where the hell are we?
+L582359 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He brought you to me, didn't he?  If you want Julia to live, trust me.  Trust him.
+L582358 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Little boy?!  That's him!
+L582357 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He wants us to follow.  The little boy...
+L582356 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Like hell "wait."
+L582355 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Wait...
+L582256 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Okay, okay...
+L582255 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Remember, Julia Hickson is priority number one.  Nothing else matters.  Find out where she is.
+L582240 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Yes.  I am.
+L582239 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ You're sure of that?
+L582238 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ A child can experience abuse worse than Charlie's.  And grow up to be someone who would never, ever hurt another living thing.
+L582235 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Tell me.
+L582234 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ What difference does it make...?
+L582233 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ What happened?
+L582232 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ What happened to Charles Gish?
+L582231 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Maybe this is a big fucking waste of time.
+L582230 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ If you believe that.
+L582229 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Evil.
+L582228 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Then what is he?
+L582227 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ It's hard for me to see Stargher as human, capable of something like "remorse."
+L582226 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Don't you feel there are different sides to every personality?  Maybe even the worst of us is capable of one decent act.  We're all human.
+L582225 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ Whoa.  Hold on.  Aren't they the same guy?
+L582224 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Not Stargher, not really.  He's split himself right down the middle. Good/evil, right/wrong, merciful/cruel. A monster.  And an innocent child.  If I could reach the boy.
+L582223 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ This is Stargher we're talking about?
+L582222 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ He might tell me about Julia.  The part of him that wants to help, that feels shame and remorse.  Who wants to be redeemed.
+L582221 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ You think you can do this, don't you?
+L582220 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ This is going to sound terrible, but... I don't think she matters anymore.  Not to him.  He never finished her.  The others...he was able to make them his.
+L582219 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ What about Julia?
+L582218 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ You were right.  There's a part of him that knows the truth.  About what he did, about himself.
+L582217 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ I did, yeah.
+L582216 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ You thought Stargher wanted to be caught.
+L582213 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ As soon as I met him, you knew I'd say yes.  He makes Julia real for me.
+L582212 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ You're the shrink, you tell me.
+L582211 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ Why'd you bring him here?
+L582210 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ A kingdom.  His utopia. Life without consequence or restriction. He's not even Carl Stargher anymore. He's this... idealized version of himself who can do anything he pleases... Without fear.  A horrible primitive ugly thing.  I don't want to talk in here.
+L582209 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ What did you see?
+L582208 +++$+++ u8203 +++$+++ m557 +++$+++ CATHERINE +++$+++ With Stargher I saw things...
+L582206 +++$+++ u8208 +++$+++ m557 +++$+++ NOVAK +++$+++ That's what therapists are for, right?

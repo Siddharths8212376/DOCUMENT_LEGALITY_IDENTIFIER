@@ -1,0 +1,200 @@
+L418957 +++$+++ u2318 +++$+++ m149 +++$+++ RAKONIN +++$+++ No, madame, something of the utmost importance... it concerns your jewels.
+L418956 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ What is it, Rakonin? Did you lose your job?
+L418955 +++$+++ u2318 +++$+++ m149 +++$+++ RAKONIN +++$+++ Your Highness, forgive this intrusion, but...
+L418954 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ How do you do, my friend.
+L418953 +++$+++ u2318 +++$+++ m149 +++$+++ RAKONIN +++$+++ Your Highness.
+L421469 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ But sir, we'll have to start over from the beginning.  We don't have the staff to ...
+L421468 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ For Christ's sake, it soils my mother's memory.  Do you think I want the whole goddamn world to see my mother like this?  Raising a dirty mouth!
+L421459 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You don't need to check the tape.  I know what I said.
+L421458 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ We could check the tape again, sir.
+L421457 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Never.  I never said that about Jews!
+L421456 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ You did say it, sir.
+L421455 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You're lawyers.  How can you let this shit go by!  Look!  This?  Nixon can't say this.
+L421421 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Then tell Richardson to fire him.
+L421420 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ Sir, if I may ... echo my concern ...
+L421395 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ They can't impeach me for bombing Cambodia.  The President can bomb anybody he wants.
+L421394 +++$+++ u2322 +++$+++ m150 +++$+++ BUZHARDT +++$+++ Sir, the charges are serious -- first, abuse of power; second, obstruction of justice; third, failure to cooperate with Congress; and last, bombing Cambodia ...
+L420892 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah?  Well, I own the fucking casino.
+L420891 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ That's Helms.  He's "sang froid," a world-class poker player.
+L420890 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, he certainly isn't acting like it.
+L420889 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ He's nervous, sir.  He's heard you're looking for a new director.
+L420888 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We'll see about that ...
+L420887 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Frankly, sir, it stinks.  I have no access.  I'm lucky Helms lets me have a staff.
+L420886 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How's the job coming, Bob?
+L420885 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Then his office will be fine.
+L420884 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No.  His office.  I want a very private conversation.  I don't want to be bugged.
+L420883 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ He told me to take you to his conference room.
+L420882 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So ... let's go ...
+L420881 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Uh, he's rushing back from his tennis game, sir ...
+L420880 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where the hell is he?
+L420879 +++$+++ u2323 +++$+++ m150 +++$+++ CUSHMAN +++$+++ Mr. President, I don't know what to say.  As soon as we learned from the Secret Service you were en route, the Director was notified.  He should be here any minute.
+L421320 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Good.  You know how I feel about loyalty.  I'm not going to let any of my people go to jail.  That I promise you.  The important thing is to keep this away from Haldeman and Ehrlichman. I'm trusting you to do that, John.  I have complete confidence in you.
+L421319 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I understand that, sir.
+L421318 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ John, you don't want to start down that road.  I remember what Whittaker Chambers told me back in '48 -- and he was a man who suffered greatly -- he said, "On the road of the informer, it's always night."  This is beyond you or even me.  It's the country, John.  It's the presidency.
+L421317 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I'm not going to be the scapegoat for this.  Haldeman and Ehrlichman are in just as deep as me.
+L421316 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Nobody knows more about this thing than you do, John.
+L421315 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ You want me to put it all in writing? Over my signature?
+L421312 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We have nothing to hide.  But the only flaw in the plan is that they're not going to believe the truth.  That is the incredible thing!
+L421311 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ No, we have nothing to hide.
+L421310 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ He's right.  Maybe it's time to go to the hang-out route, John.  A full and thorough investigation ... We've cooperated with the FBI, we'll cooperate with the Senate.  What do we have to hide?
+L421307 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I mean, who the hell cares about this penny-ante shit.  Goldwater put it right.  He said: "Well for Christ's sake, everybody bugs everybody else; we know that." ... It's the cover-up, not the deed that's really bad here.  If only Mitchell could step up and take the brunt of it; give them the hors d'oeuvre and maybe they won't come back for the main course.  That's the tragedy of all this.  Mitchell's going to get it in the neck anyway. It's time he assumed some responsibility.
+L421306 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I agree it's ridiculous but --
+L421305 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus, everything is a crisis among the upper intellectual types, the softheads.  The average people don't think it's much of a crisis.  For Christ's sake, it's not Vietnam ... no one's dying here.  Isn't it ridiculous?
+L421304 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Sir, I still don't think, uh, we can contain it anymore.  There's a cancer on the presidency.  And it's growing. With every day that ...
+L421303 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ You say, John, cut our losses and all the rest.  But suppose the thing blows and they indict Bob and the others. Jesus, you'd never recover from that, John.  It's better to fight it out instead, and not let people testify ...
+L421302 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I'm still not confident we can ride through this.  Some people are going to have to go to jail.  Hunt's not the only problem.  Haldeman let me use the $350,000 cash fund in his safe to make the payments.  Ehrlichman had a role, a big role, in the Ellsberg break-in. And I'm ... uh, I think it's time we begin to think in terms of cutting our losses.
+L421301 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We could get a million dollars.  We could get it in cash.  I know where it could be gotten.
+L421300 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Uh huh ...
+L421299 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We could get that.
+L421298 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Uh, I would say these people are going to cost a million dollars over the next two years ...
+L421297 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ How much do you need?
+L421256 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Either it goes to Mitchell or it comes here.
+L421255 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Mitchell?  Mitchell's ... family.
+L421244 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I like that.  That's a solution.
+L421243 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Hunt has nothing to lose now.  Pardon all of them.  Nobody's going to investigate a crime for which the criminals have already been pardoned.
+L421242 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What?
+L421241 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Executive clemency ...
+L421221 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Pay him.  Pay him what he wants.
+L421220 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ He says if he doesn't get it right away, he's going to blow us out of the water.  And he means it.  Ever since his wife died in the plane crash, he's been over the edge.
+L421219 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Son of a bitch.
+L421218 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Mr. President, Hunt wants more money. Another hundred-and-thirty thousand.
+L421180 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Then what about this Washington Post crap?  Woodwind and Fernstein?
+L421179 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Sirica's just trying to force one of them to testify.  But they're solid.
+L421178 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So, what about those Watergate clowns, John?  This fuck Sirica's crazy. Thirty-five-year sentences!  There were no weapons.  Right?  No injuries. There was no success!  It's just ridiculous.
+L420174 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Ex-CIA"?  There's no such thing as "ex-CIA," John -- they're all Ivy League Establishment.  Is he one of these guys with a beef against us?
+L420173 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ The bigger problem I see is this guy who was arrested, McCord -- James McCord -- he headed up security for the Committee to Re-Elect.  He turns out to be ex-CIA.
+L421293 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ John, sooner or later -- sooner, I think -- you are going to learn the lesson that has been learned by everyone who has ever gotten close to Richard Nixon.  That he's the darkness reaching out for the darkness.  And eventually, it's either you or him. Look at the landscape of his life and you'll see a boneyard.
+L421292 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Howard, you'll serve no more than two years, then he'll pardon you.
+L421291 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ I'm one of his people.  The Cubans are his people.  And we're going to jail for him.
+L421290 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ To protect his people.
+L421289 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ That's not the question, John.  The question is: Why is he paying?
+L421288 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ How the hell do you have the temerity to blackmail the President of the United States?
+L421286 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ In Richard Nixon's long history of underhanded dealings, he has never gotten better value for his money.  If I were to open my mouth, all the dominoes would fall.
+L421285 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ Is it?
+L421284 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ I'll bet he would.
+L421283 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ The President would like to know if that was the last payment.
+L421282 +++$+++ u2332 +++$+++ m150 +++$+++ HUNT +++$+++ Yes ... I got the money.
+L421281 +++$+++ u2324 +++$+++ m150 +++$+++ DEAN +++$+++ I was sorry to hear about your wife.
+L421278 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ So you tell Mitchell ...
+L421277 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Dick Nixon saying "I'm sorry"? That'll be the day.  The whole suit of armor'd fall off.
+L421276 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Eight words back in '72 -- "I covered up.  I was wrong.  I'm sorry" -- and the American public would've forgiven him.  But we never opened our mouths, John.  We failed him.
+L421275 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Christ, we created Frankenstein with those fucking Cubans.
+L421274 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ They went after Castro.  In some crazy way it got turned on Kennedy.  I don't think the "P" knows what happened, but he's afraid to find out.  It's got him shitting peach pits.
+L421273 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Yeah?
+L421272 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ I think he means the Kennedy assassination.
+L421271 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I figured that out.
+L421270 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It's a code or something.
+L421267 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ You think this is just about politics?
+L421266 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ The "Old Man" plays politics harder than anybody else.
+L421265 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sure, they did stuff, but nothing like this, Bob.  Forget Watergate, the break-ins, the Enemies list.  You got an attempted firebombing at the Brookings Institution, planting McGovern stuff on the guy that shot Wallace, trying to slip LSD to Jack Anderson.
+L421264 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ How so?
+L421263 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's wrong, you know -- about Kennedy, LBJ, Truman.
+L421262 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ 'Cause he hates you.  It's worse when you get it from someone you trust.
+L421261 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Why me?
+L421260 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ You do it.
+L421259 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Who's gonna tell Mitchell?
+L421169 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ Yeah, I knew it.  I knew it from '69 on, and I said it all along, didn't I ...
+L421168 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Yeah ... Sullivan thinks Henry's leaking.  He's the one ...
+L420869 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It's the fall of the Roman Empire, are you blind?  And we're putting fig leaves on the statues ...
+L420868 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Let's not forget they're just kids, they don't vote.
+L420169 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Anyway, they had to take her to Bellevue.  Maybe she'll stay this time.
+L420168 +++$+++ u2327 +++$+++ m150 +++$+++ HALDEMAN +++$+++ It was her wrist.  And it was through a plate-glass door.
+L421253 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We are covering up!  For some petty, stupid shit.  There are things I can say -- when other people say them, they'd be lies. But when I say them nobody believes me anyway ...
+L421252 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Executive privilege will make it look like we're covering up.
+L421251 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, you're not!  You're going to claim executive privilege and you're going to stonewall it all the way -- plead the Fifth Amendment.  I don't give a shit.  They can't force the President's people to testify.
+L421250 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sir, Bob and I are gonna have to testify before Earvin's committee.
+L421249 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't know, I don't know ... I just know we've made too many enemies.
+L421246 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And what am I supposed to do?  Just sit here and watch them coming closer? Eating their way to the center?  Lyndon bugged!  So did Kennedy!  FDR cut a deal with Lucky Luciano. Christ, even Ike had a mistress! What's so special about me?  What about Lyndon?  He could make a couple of calls to the Hill and shut this whole thing down.  Did anyone talk to him?
+L421245 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ It'll never wash.  Pardoning them means we're guilty.  The people, the press will go nuts.
+L421238 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Forget it.  Ehrenberg's paid three times that much ...
+L421237 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ What about England?
+L421196 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ My point exactly!  Somebody had to die before his shit got in the paper! Fucking Kennedys get away with everything.  Do you see me screwing everything that moves?  For Christ's sake!  I did what the New York Times editorial page said we should do!  I ended the war, I got SALT I with the Russians, I opened China!  So why are these cocksuckers turning on me?  Because they don't like the way I look.  Where I went to school.
+L421195 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He got pretty burned at Chappaquiddick.
+L421194 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I end the longest war in American history and they keep harping on this chickenshit!  You know who's behind this, don't you -- it's Teddy Kennedy! He drowns a broad in his car and he can't run for president.
+L421176 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, no.  He's our only "star" right now.  He'd go crying straight to the press.  He'd crucify us -- the sonofabitch!  Get someone from our staff on his ass. Tap his phones.  I want to know everyone he talks to.
+L421175 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I would personally enjoy doing that, sir.
+L421171 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Looks like he talked to Joe Kraft ... and to the Times.  Told them he was dead set against the bombing, that you were ... "unstable."  Claims he has to handle you "with kid gloves" ...
+L421170 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No, you didn't, Bob.
+L421114 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The hard-core four million "Nixon nuts" aren't gonna go for it ... They'll say I sold out to the Communists.
+L421113 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ The country's loving it.
+L420878 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Well, no place where they speak English.  That way he can always say he was misquoted.
+L420877 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's begging for a meeting, chief.  He wants to go overseas for awhile.
+L420875 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Yeah, good old Spiro.  Well, better him than me.  What the hell is he but an insurance policy?
+L420874 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He's in the dumps, sir.  Agnew.  Every time you have him attack the press, they give it back to him in spades. He's become the most hated man in America.
+L420843 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Sir, there's dead American kids here. Let's say we don't apologize for Kent State, but maybe we could have a national prayer day ...
+L420842 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The soldiers were provoked.  The students started it, for Christ's sake!
+L420839 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ -- as long as he's got secret files on everybody.  I don't want 'em used against us.  What about the CIA?  Helms's done nothing for us.  I want to see him.
+L420838 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I thought the gloves were off.
+L420837 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We can't touch Hoover --
+L420822 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No ... I can do this because I've spent my whole career building anti Communist credentials.
+L420821 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Excuse me ... Are you talking about recognizing China, Mr. President? That would cost us our strongest support.
+L420809 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I will not go down as the first American president to lose a war! Going into Cambodia, bombing Hanoi, bombing Laos -- it buys us time so we can get out and give the South Vietnamese a fighting chance.
+L420808 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Is the war worth it?  Is it worth a one-term presidency?  Because I think right now that's what we're looking at.
+L420807 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Why not?
+L420806 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ I don't know if I'd go that far, sir.
+L420805 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Oh, I suppose you would've just let them take over.  These aren't fraternity pranks, John.  It's anarchy.  A revolution!
+L420275 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ We should set up a Cuban defense fund on this; take care of all of them.
+L420274 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ No, sir.
+L420273 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ This is not a joke, John!
+L420272 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Uh, we've never done this before, sir ... How do we pay?  In ... hundreds?  Do you fill a black bag full of unmarked bills?
+L420271 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's more than that.  It could be more than that.  I want Hunt paid.
+L420260 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ What the hell are you doing, Ehrlichman?  Screwing with the CIA?  I don't care how much he wants -- pay him.
+L420259 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Pay him?  I told him to get out of the country.  It's crazy to start ...
+L420258 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Pay him.
+L420257 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He wants money.
+L420256 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And?
+L420255 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ In hiding.  He sent Liddy to talk to me.
+L420254 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Where's Hunt now?
+L420233 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Sure.  Lyndon, JFK, FDR -- I mean, Truman cut the shit out of my investigation of Hiss back in '48.
+L420232 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Is it legal?  I mean has anyone ever done it before?
+L420231 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I like it.  I like the idea.
+L420208 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Well, he's photogenic.  Let's try dog bones?
+L420207 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Goddamn! How long have we had this fucking dog?!  Two years, he still doesn't come!  We need a dog that looks happy when the press is around.
+L420189 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ He left his White House phone number in his hotel room.
+L420188 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Hunt?  Howard Hunt?
+L420186 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Who?  Not another goddamn Cuban?
+L420185 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Well, sir ... it turns out -- one of the people implicated is still, you see, on our White House payroll.
+L420184 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't have time for all this shit!  Just handle it, Bob!  Keep it out of the White House.  What else? Kissinger's waiting -- he's gonna throw a tantrum again if I don't see him, threatening to quit ... again. 
+L420176 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Find out what the hell he was doing at "CREEP."  This could be trouble. These CIA guys don't miss a trick. This could be a set-up.
+L420175 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ McCord? ...
+L420172 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ No!  Magruder!  That sonofabitch tests my Quaker patience to the breaking point.
+L420171 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Mitchell?
+L420170 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Martha's an idiot, she'll do anything to get John's attention.  If Mitchell'd been minding the store instead of that nut Martha we wouldn't have that kid Magruder runnin' some third-rate burglary!  Was he smoking pot?
+L420167 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus!  Through a window?
+L420166 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Mitchell's out of his mind now. Martha just put her head through a plate-glass window.
+L420165 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Jesus!  Did Mitchell know?
+L420164 +++$+++ u2325 +++$+++ m150 +++$+++ EHRLICHMAN +++$+++ Colson doesn't know about it; he's pure as a virgin on this one.  It's just not clear the burglars knew what they were looking for.  They were heading to McGovern's office later that night.
+L421530 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That smell.  I mean, everybody suffered so much, their sons killed. They need to sacrifice something, y'know, appease the gods of war -- Mars, Jupiter.  I am that blood, General.  I am that sacrifice, in the highest place of all ... All leaders must finally be sacrificed.
+L421529 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir?
+L421528 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It came over from Vietnam, you know.
+L421527 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ I know it well, sir.
+L421526 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... they smelled the blood on me this time, Al.  I got soft.  You know ... that rusty, metallic smell ...
+L421505 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's gone.  No one will ever find out what's on it.
+L421504 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ ... you mentioned the "Bay of Pigs" several times.  Sooner or later they're going to want to know what that means.  They're going to want to know what was on that gap ...
+L421503 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I don't know anything about that.
+L421502 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Three days before, on the June twentieth tape -- the one with the eighteen-minute gap --
+L421501 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That's right ...
+L421500 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir, you talked about opening up the whole "Bay of Pigs" thing again.
+L421499 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ There is nothing in that statement the President can't explain.
+L421498 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ We can't survive this, sir.  They also have you instructing Dean to make the payoff to Hunt.
+L421497 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ How do you see this?
+L421496 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ That was civil war.
+L421495 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Lincoln used it.
+L421494 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The army?
+L421492 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ And if I stay?
+L421491 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ If you resign, you can keep your tapes as a private citizen ... You can fight them for years.
+L421490 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ It's the Supreme Court, sir; you don't get around it.
+L421489 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ Can we get around this, Al?
+L421488 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Sir, the deadline is today.
+L421487 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ It's totally out of context.  I was protecting the national security.  I never intended --
+L421486 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Your lawyers feel it's the ... "smoking gun."
+L421485 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ So?
+L421484 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ June twenty-third, '72, sir.  The part that's underlined.  Your instructions to Haldeman regarding the CIA and the FBI.
+L421483 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ I'm afraid we have another problem, Mr. President.
+L421482 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ "Victory at Sea," Al ... Henry.  The Pacific Theatre.  Christ, you can almost feel the waves breaking over the decks.
+L421474 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ I had no knowledge of the cover-up until John Dean told me about it on March twenty-first.  And I did not intend that payment to Hunt or anyone else be made ...
+L421473 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ He's completely lost touch with reality.
+L421472 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ ... an action that will at last, once and for all, show that what I knew and what I did with regard to the Watergate break-in and cover-up were just as I have described them to you from the very beginning ...
+L421423 +++$+++ u2340 +++$+++ m150 +++$+++ NIXON +++$+++ The hell he will!  Fire him, too.  If you have to go all the way down to the janitor at the Justice Department, fire the sonofabitch!  And ...
+L421422 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ Richardson won't do that.  He'll resign.
+L421419 +++$+++ u2326 +++$+++ m150 +++$+++ HAIG +++$+++ But he works for the Attorney General. Only Richardson can fire him.

@@ -1,0 +1,200 @@
+L298826 +++$+++ u1444 +++$+++ m97 +++$+++ OKUN +++$+++ See, we can't duplicate their type of power so we've never been able to experiment. But since these guys started showing up, all the gizmos inside turned on. The last twenty four hours have been really exciting!
+L298821 +++$+++ u1444 +++$+++ m97 +++$+++ OKUN +++$+++ Well, I guess you'd like to see the big tamale? Follow me.
+L298820 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Yes.
+L298819 +++$+++ u1444 +++$+++ m97 +++$+++ OKUN +++$+++ Mr. President, a real pleasure. They don't let us out much, you know.
+L298921 +++$+++ u1445 +++$+++ m97 +++$+++ OKUN/ALIEN +++$+++ Die.
+L298920 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ What do you want us to do?
+L298919 +++$+++ u1445 +++$+++ m97 +++$+++ OKUN/ALIEN +++$+++ Peace? No peace.
+L298918 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Can we negotiate a truce? Is there room for co-existance?  Can there be peace between us?
+L298917 +++$+++ u1445 +++$+++ m97 +++$+++ OKUN/ALIEN +++$+++ Many worlds...
+L298916 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ And before here?
+L298915 +++$+++ u1445 +++$+++ m97 +++$+++ OKUN/ALIEN +++$+++ Here... now.
+L298914 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Where do your people come from?  Where is your home?
+L298913 +++$+++ u1445 +++$+++ m97 +++$+++ OKUN/ALIEN +++$+++ Air... water... your "sun."
+L298912 +++$+++ u1447 +++$+++ m97 +++$+++ PRESIDENT +++$+++ Why did you people come here?
+L300004 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ The dog!?  You are named after the dog...
+L300003 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ May we go home now, please?
+L299639 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Did you say...? Uh, uh...
+L299638 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Egyptian Mail. Morning edition.  Run!
+L299637 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes.
+L299635 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Papers, sir. Got it here.
+L299634 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes.
+L299630 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ There is no museum in Iskenderun.
+L299629 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ My reputation precedes me.
+L299627 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ And I am his.
+L299626 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Oh, what?... your servant, sir.
+L299623 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Oh, this map will show you. It was drawn by, uh...
+L299622 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Oh, yes, of course. But where are we going?
+L299621 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes, but don't panic. Everything's under control. Have you... have you arranged our supplies?
+L299620 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ You are on your own?
+L299619 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Oh, he's in Austria. A slight detour.
+L299618 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Marcus Brody, sir. And where is Indy?
+L299617 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Oh, Sallah! What a relief!
+L299952 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ It's... a leap of faith. Oh, God.
+L299951 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Indy... Indy, you must hurry!! Come quickly!
+L299475 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I'm going after Dad.
+L299474 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ What about you?
+L299473 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Marcus, get hold of Sallah. Tell him to meet you in Iskenderun.
+L299472 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes. Now we know.
+L299471 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Alexandretta. Now we know.
+L299470 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Now, he knew there was a city with an oasis due east. Here. He knew the course turned south through the desert to a river, and the river led into the mountains. Here. Straight to the canyon. He knew everything except where to begin, the name of the city.
+L299468 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Your father would know. Your father did know. Look. He made a map.
+L299467 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ The present city of Iskenderun is built on its ruins. Marcus -- you remember what the Grail Tablet said. "Across the desert and through the mountain to the Canyon of the Crescent Moon."  But where exactly?
+L299465 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ It's better, now I've seen this. It's the name of a city. "Alexandretta?" Hmmm...
+L299464 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ How's the head?
+L299385 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Well, now we know the source of the numbers, but we still don't know what they mean.
+L299384 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Dad was onto something here!
+L299383 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Look, Indy. The Roman numerals!
+L299381 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Where?
+L299380 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Marcus -- I've seen this window before.
+L299376 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ It looks like a converted church.
+L299375 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ That doesn't look much like a library.
+L299350 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I don't know. Maybe he'll know us.
+L299349 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes. Uh, how will we recognize this Doctor Schneider when we see him?
+L299348 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Ah, Venice...
+L299341 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ I'll tell him we'll take two.
+L299340 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Call Donovan, Marcus. Tell him I'll take that ticket to Venice now.
+L299339 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ But if you want facts, Indy, I have none to give you. At my age, I'm prepared to take a few things on faith.
+L299338 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ The search for the Cup of Christ is the search for the divine in all of us.
+L299337 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Do you believe the Grail actually exists?
+L299336 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Do you believe, Marcus?
+L299335 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ I don't know. But someone must want it pretty badly.
+L299334 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ It's Dad's Grail Diary. Every clue he ever followed. Every discovery he made. A complete record of his search for the Holy Grail. This is his whole life. Why would he have sent this to me?
+L299333 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ What is it?
+L299332 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Venice, Italy!
+L299330 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ It's today's mail. And it's been opened.
+L299329 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Dad?
+L299328 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I don't know. But whatever it is, he's in over his head!
+L299327 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ What has the old fool got himself into now?
+L299282 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Yes. My treat.
+L299281 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Your treat.
+L299279 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Well done, Indy. Very well done, indeed. This will find a place of honor in our Spanish collection.
+L299278 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ All my life!
+L299277 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ All your life.
+L299276 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ You know how long I've been looking for that?!
+L299275 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ You've got it!
+L299274 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Marcus!  I did it!
+L300009 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ Got lost in his own museum, huh?
+L300008 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Indy! Henry! Follow met I know the way!  Haaa!
+L299942 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ The Name of God...
+L299941 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ No, Henry. Try not to talk.
+L299940 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ The Word of God...
+L299890 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ It's war.
+L299889 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Look what you did!
+L299888 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ But don't you see? The pen is mightier than the sword.
+L299887 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ What?
+L299886 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Henry, the pen --
+L299862 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ It's a rescue, old boy. Come on.
+L299861 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Henry! What are you doing here?!
+L299858 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Arghhh! Oh!
+L299857 +++$+++ u1456 +++$+++ m98 +++$+++ HENRY +++$+++ Marcus!
+L299836 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ You're meddling with powers you cannot possibly comprehend.
+L299835 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Well, Marcus, we are on the brink of the recovery of the greatest artifact in the history of mankind.
+L299833 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ I'd rather spit in your face. But as I haven't got any spit...
+L299832 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Care to wet your whistle, Marcus?
+L299346 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Oh, well. That's good. Thank you.
+L299345 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ I maintain an apartment in Venice, at your disposal.
+L299344 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Schneider?
+L299343 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Don't worry. Doctor Schneider will be there to meet you.
+L299342 +++$+++ u1452 +++$+++ m98 +++$+++ BRODY +++$+++ Tell me, what's going to happen when we get to Venice?
+L299511 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ How dare he?!
+L299510 +++$+++ u1453 +++$+++ m98 +++$+++ BUTLER +++$+++ This is a castle. And we have many tapestries. But if you're a Scottish lord, then I am Mickey Mouse.
+L299509 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Dear me, the man is dense. This is a castle, isn't it? There are tapestries?
+L299508 +++$+++ u1453 +++$+++ m98 +++$+++ BUTLER +++$+++ Tapestries?
+L299507 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Don't take that tone with me, my good man. Now buttle off and tell Baron Brunwald that Lord Clarence MacDonald and his lovely assistant are here to view the tapestries.
+L299506 +++$+++ u1453 +++$+++ m98 +++$+++ BUTLER +++$+++ Are you expected?
+L299935 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ We're through!
+L299934 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I'm through!
+L299918 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ You know something, Doctor Jones? You're absolutely right.
+L299917 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Shooting me won't get you anywhere.
+L299916 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Nazis?! -- Is that the limit of your vision?! The Nazis want to write themselves into the Grail legend and take on the world. Well, they're welcome. But I want the Grail itself. The cup that gives everlasting life. Hitler can have the world, but he can't take it with him. I'm going to be drinking my own health when he's gone the way of the Dodo.  The Grail is mine, and you're going to get it for me.
+L299915 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ As what? A Nazi stooge like you?
+L299914 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Impossible? What do you say, Jones? Ready to go down in history?
+L299602 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Didn't I warn you not to trust anybody, Doctor Jones?
+L299601 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ DONOVAN!
+L299322 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ We already have. Your father is the man who's disappeared.
+L299321 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ You've got the wrong Jones, Mister Donovan. Why don't you try my father?
+L299320 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ We've hit a snag. Our project leader has vanished. Along with all his research. Uh, we received a cable from his colleague, Doctor Schneider, who has no idea of his whereabouts or what's become of him.  I want you to pick up the trail where he left off. Find the man and you will find the Grail.
+L299319 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Yes?
+L299318 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ You could be more right than you know.
+L299317 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ That's usually when the ground falls out from underneath your feet.
+L299316 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ This is the manuscript in which the friar chronicled the Knight's story... it doesn't reveal on location of the Grail, I'm afraid... but the Knight promised that two "markers" that had been left behind would.  This Tablet is one of those "markers." It proves the Knight's story is true. But as you pointed out -- it's incomplete.  Now, the second "marker" is entombed with the Knight's dead brother. Our project leader believes that tomb to be located within the city of Venice, Italy.  As you can now see, Doctor Jones, we're about to complete a great quest that began almost two thousand years ago. We're only one step away.
+L299315 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Not "supposedly," Doctor Jones.
+L299314 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I've heard this one as well. Two of these brothers walked out of the desert one hundred and fifty years after having found the Grail and began the long journey back to France. But only one of them made it. And before dying of extreme old age, he supposedly imparted his tale to a -- to a Franciscan friar, I think.
+L299313 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Let me tell you another "bedtime story," Doctor Jones. After the Grail was entrusted to Joseph of Arimathaea, it disappeared and was lost for a thousand years before it was found again by three Knights of the First Crusade. Three brothers, to be exact.
+L299312 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Just the same, an attempt to recover the Grail is currently underway.
+L299311 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ What good is it? This Grail Tablet speaks of deserts and mountains and canyons. Pretty vague. Where do you start looking? Maybe if the Tablet were intact, you'd have something to go on. But the entire top portion is missing.
+L299310 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Hard to resist, isn't it? The Holy Grail's final resting place described in detail!
+L299306 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Every man's dream.  Including your father's, I believe.
+L299305 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ An old man's dream.
+L299304 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Eternal life, Doctor Jones! The gift of youth to whoever drinks from the Grail.  Oh, now that's a bedtime story I'd like to wake up to!
+L299303 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ The Arthur Legend. I've heard this bedtime story before.
+L299302 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ The Holy Grail, Doctor Jones. The chalice used by Christ during the Last Supper. The cup that caught His blood at the Crucifixion and was entrusted to Joseph of Arimathaea.
+L299301 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ "Where the cup that holds the blood of Jesus Christ resides forever."
+L299298 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ My engineers unearthed it in the mountain region north of Ankara while excavating for copper.  Can you translate the inscription?
+L299297 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Where did this come from?
+L299296 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ That was our assessment as well.
+L299295 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Well, it's sandstone. Christian symbol. Early Latin text. Mid-Twelfth Century, I should think.
+L299294 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ Well, like yourself, Doctor Jones, I have a passion for antiquities.  Have a look over here. This might interest you.
+L299293 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I know who you are Mr. Donovan. Your contributions to the museum over the years have been extremely generous. Some of the pieces in your collection here are very impressive.
+L299292 +++$+++ u1454 +++$+++ m98 +++$+++ DONOVAN +++$+++ My name is Donovan. Walter Donovan.
+L299985 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ I can reach it. I can reach it...
+L299984 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Elsa. Elsa don't. Elsa. Elsa. Give me your other hand, honey. I can't hold you.
+L299982 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Elsa, don't cross the Seal. The Knight warned us not to take the Grail from here.
+L299981 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ It's ours, Indy. Yours and mine.
+L299980 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Elsa! Elsa, don't move!
+L299912 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I'm like a bad penny. I always turn up.
+L299911 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ I never expected to see you again.
+L299745 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ All I have to do is scream.
+L299744 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ All I have to do is squeeze.
+L299743 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ You do.
+L299742 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Yet you stood up to be counted with the enemy of everything the Grail stands for -- who gives a damn what you think?
+L299741 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Is that what you think of me? I believe in the Grail, not the Swastika.
+L299740 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ My father didn't want it incinerated.
+L299739 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ You came back for the book? Why?
+L299738 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Where is it? I want it.
+L299737 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ How did you get here?
+L299606 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ So it did.
+L299605 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ This book contained a map -- a map with no names -- precise directions from the unknown city to the secret Canyon of the Crescent Moon.
+L299514 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ How do you know?
+L299513 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ This one. I think he's in here.
+L299502 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Don't know. Think of something.
+L299501 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ What are you going to do?
+L299500 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ I know the Brunwalds are famous art collectors.
+L299499 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ What do you know about this place?
+L299493 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ It's lucky I don't do things the same way. You'd still be standing at the Venice pier.
+L299492 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ No. You like the way I do things.
+L299491 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ No?
+L299490 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Knock it off. You're not mad.
+L299489 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Oh, yes. Give them a flower and they'll follow you anywhere.
+L299488 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ At least I let you tag along.
+L299486 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ You had it? You didn't trust me!
+L299485 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Uh-huh.
+L299484 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ The Grail Diary.
+L299483 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ This.
+L299482 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ What were they looking for?
+L299481 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Mine, too.
+L299480 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ My room!
+L299442 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I said don't go between them!
+L299441 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ You said go between them!
+L299440 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I said go around!
+L299434 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ What?
+L299433 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Don't wander off.
+L299429 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ He never would have made it past the rats! He hates rats! He's scared to death of them!
+L299428 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Wouldn't it be wonderful if he were here now to see this?
+L299426 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ It's a rubbing Dad made of the Grail Tablet.
+L299425 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ What's that?
+L299422 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Look at the artistry of these carvings and the scrollwork.
+L299421 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ It must be one of these...
+L299413 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Pretty sure.
+L299412 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Are you sure?
+L299411 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ The Ark of the Covenant.
+L299407 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ The Christians would have dug their own passages and burial chambers centuries later.
+L299406 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Right. Six hundred years before the Crusades.
+L299405 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Pagan symbols. Fourth or Fifth Century.
+L299402 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Lower me down.
+L299401 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Except he's lost, and I'm not.
+L299400 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ You don't disappoint, Doctor Jones. You're a great deal like your father.
+L299399 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Bingo.
+L299387 +++$+++ u1455 +++$+++ m98 +++$+++ ELSA +++$+++ Find something?
+L299386 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ My dad sent me this Diary for a reason. Until we find out why, I suggest we keep it to ourselves.

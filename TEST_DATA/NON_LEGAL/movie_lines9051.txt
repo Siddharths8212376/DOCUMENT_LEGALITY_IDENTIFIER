@@ -1,0 +1,200 @@
+L195951 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Do it. Dr. Weir...
+L195950 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I can reconfigure the scan for C-12, amylase proteins.
+L195949 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Not acceptable. I want to know what's causing those readings. If the crew is dead, I want the bodies, I want the crew found.
+L195948 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What's the point? I'll just get the same thing...
+L195933 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ So where is the rest of the crew? We've been over every inch of this ship and all we've found is blood. Dr. Weir? Any suggestions?
+L195932 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I don't know, but whatever it is, it's not the crew.
+L195931 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What's causing the readings?
+L195930 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ The Event Horizon sensors show the same thing: "Bio-readings of indeterminate origin." Right before that wave hit the Clark, there was some kind of surge, right off the scale, but now it's back to its previous levels.
+L195929 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ What about the life readings you picked up?
+L195928 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I thought of that, with the filters from the Clark, we've got enough breathable air for twenty hours. After that, we'd better be on our way home.
+L195927 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ We can take the filters from the Clark...
+L195926 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ It's building up with every breath we take. And the CO2 filters on the Event Horizon are shot.
+L195925 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Carbon dioxide?
+L195924 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Oxygen is not the problem.
+L195923 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ How much oh-two do we have?
+L195922 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ The antennae array's completely fried, we've got no radio, no laser, no highgain... No one's going to be coming to help us.
+L195921 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ But you can breathe it.
+L195920 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ It tastes bad.
+L195917 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Okay. Let's find out how much time we just bought.
+L195916 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ We're all here.
+L195915 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Everybody okay?
+L195794 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Keep your eyes open.
+L195793 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ That's an affirmative.
+L195751 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ There's not enough radiation to throw off the scan. I'm picking up trace life forms, but I can't get a lock on the location.
+L195750 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Radiation interference?
+L195749 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Something's wrong with the bio-scan.
+L195698 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Come around to three-three-four...
+L195697 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Crossing the horizon. Optimum approach angle is fourteen degrees.
+L195635 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Then what are you doing here? Come on, people, let's go!  And Cooper... Put some pants on.
+L195634 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I just finished drying...
+L195633 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Starck, why aren't you on the bridge?
+L195585 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Let's go.
+L195584 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Ion drive will engage in... T-minus ten minutes.
+L195581 +++$+++ u884 +++$+++ m57 +++$+++ MILLER +++$+++ Justin?
+L195580 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ We're past the outer marker, we can engage the ion drive whenever you're ready.
+L196057 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ I've seen bodies before. This is different.
+L196056 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Isn't it possible that you were traumatized by finding the body on the bridge?
+L196055 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ About an hour ago. In medical. I saw my son. He was lying on one of the examination tables and his legs were... 
+L196054 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ I did.
+L196053 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ No. I saw nothing.
+L195810 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ There's no one here.
+L195809 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Can you see a body?
+L195808 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Blood. Looks like arterial spray.
+L195807 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes, we can see some kind of mist. What is that?
+L195804 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ You're at the Bridge, Ms. Peters. You still haven't seen any crew?
+L195803 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Dr. Weir, what's this the door to?
+L195779 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ They're explosive charges.
+L195778 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Here's another one. They're all over the place.
+L195624 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ DJ!  It's okay. You're okay. Just breathe.
+L195623 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Claire...
+L195608 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ They attempted to rescue a supply shuttle bound for Titan. The shuttle's oh-two tanks ruptured during the rescue, flooded both ships with pure oxygen. There was a spark and both ships were incinerated. The Skipper and three others just made it to a lifeboat. Captain Miller was able...
+L195607 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Wasn't that ship destroyed?
+L195606 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ He served on the Goliath.
+L195605 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ He's been past Mars?
+L195604 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Don't worry about it. He's hard, but he's fair. You're lucky to be shipping out with him. He's one of the few Captains in the service with experience in the Outer Reach.
+L195603 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes.
+L195602 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ First time in a grav couch?
+L196248 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ I don't care.
+L196247 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ It's cold.
+L196246 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ You got any coffee?
+L196164 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Skipper, Justin just activated the door. It's on a thirty second delay...
+L196163 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ We have to do something, oh God...
+L196154 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Come on, Baby-bear, open this door...
+L196153 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Almost got it.
+L196139 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Do you know what it was?
+L196138 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Keep him talking.
+L196137 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Yes. Yes, Justin, we heard it.
+L196129 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ Can you shut it down?
+L196128 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ He's engaged the override.
+L195786 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Not according to the computer.
+L195785 +++$+++ u885 +++$+++ m57 +++$+++ PETERS +++$+++ There's no one in the corridor but us.
+L196061 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Hey! You don't need to be a scientist figure it out...
+L196060 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Thank you for that scientific analysis, Mister Smith.
+L196059 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ I didn't see anything and I don't have to see anything. This ship is fucked.
+L195906 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It still has air and reserve power, we can activate gravity and life support.
+L195905 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ What?
+L195884 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ We're losing atmosphere...
+L195883 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ The safety circuit's failed!
+L195849 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ That's the Core: the gravity drive. The heart of the ship.
+L195848 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ What the hell is that?
+L195738 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Shit, Doc, any closer and we're gonna need a rubber...
+L195737 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Foredecks. Crew quarters, bridge, medical and science labs, hydroponics, what have you. That central section connects the forward decks to the Engineering containment area. Can we move in closer?
+L195731 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ She's not ugly.
+L195730 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Jesus, that is one big ugly fat fucker...
+L195715 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Dead ahead, 5000 meters.
+L195714 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Where is she?
+L195667 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Say this paper represents space-time, and you want to get from "point A" here...  ...to "point B," here.  Now: what's the shortest distance between two points?
+L195666 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Hey...
+L195908 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ I don't think this is a good idea, we don't even know what happened on that ship...
+L195907 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What if the air has gone bad? We can't wear these suits forever.
+L195865 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I'm trying, goddammit --
+L195864 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Get them back --
+L195863 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Miller, do you read me, Peters --
+L195834 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Decompression wouldn't do that.
+L195833 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Explosive decompression.
+L195832 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What happened to his eyes?
+L195733 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Picking up magnetic interference.
+L195732 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Range 500 meters and holding. Turbulence is dropping off...
+L195724 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ 1000 meters...
+L195723 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ The scope is lit, it's right in front of us...
+L195719 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Range 3000 meters and closing.
+L195718 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ If they are, they're screening their calls.
+L195705 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ Matching speed... now. Range to target ten thousand meters and closing... Skipper, I got a bad feeling about this...
+L195704 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ This is U.S. Aerospace Command vessel Lewis and Clark, hailing Event Horizon, Event Horizon, do you read...? This is the Lewis and Clark, hailing... 
+L195661 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ The law of relativity prohibits faster- than-light travel...
+L195660 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ You can't do that.
+L195639 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ All boards are green, everything's five by five.
+L195638 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ 30 hours to Neptune orbit.
+L195577 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Smith's right. Neptune? There's nothing out there. If something happens, we'll be on our own.
+L195576 +++$+++ u886 +++$+++ m57 +++$+++ SMITH +++$+++ I can't believe this, I haven't gotten more than my hand in six weeks and now this shit. Why not Mars, Cap, Mars has women...
+L196196 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It means nothing.
+L196195 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Justin said something about, "The dark inside me..." What did he mean?
+L196113 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Miller, Smith, Cooper, any of you in the airlock?
+L196112 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ The forward airlock.
+L196111 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What is it?
+L196110 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ I'm alright. Please.
+L196109 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ In our current environment, Dr. Weir, self-control is an asset.
+L196107 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ It wants me. I have to go.
+L196106 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What are you doing?
+L196007 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ No, there's no evidence of a surge or spike of any kind. It's as if time just... stopped for seven years.
+L196006 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Maybe a power interruption crashed the system...
+L195998 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I'm sorry.
+L195997 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes. I miss her. She died. Two years now.
+L195996 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ It must be hard, being so far away from her.
+L195995 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Yes.
+L195994 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Claire is your wife?
+L195993 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Hmmm. Claire used to tell me I loved the Event Horizon more than I loved her. I told her that wasn't true, I just knew the Event Horizon better, that's all.
+L195992 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Why Dr. Weir, I think you're in love.
+L195972 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I can't believe we built this.
+L195971 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ That's how the gravity drive works, you see: it focuses the black hole's immense gravitational power to create the gateway. That's how the Event Horizon travels faster than light.
+L195859 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ I don't know. The life readings just went off the scale.
+L195858 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ What is it?
+L195822 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Ship's log.
+L195821 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ What is it?
+L195753 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ If they were in stasis, I'd get a location, but these readings, they're all over the ship. It doesn't make any sense.
+L195752 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Could it be the crew? If they were in suspended animation, wouldn't that effect the scan?
+L195747 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ Affirmative. The hull's intact... but there's no gravity and the thermal units are off line. I'm showing deep cold. The crew couldn't survive unless they were in stasis.
+L195746 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Do they have pressure?
+L195745 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ The reactor's still hot. We've got several small radiation sources, leaks probably. Nothing serious.
+L195669 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Wrong. The shortest distance between two points...
+L195668 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ A straight line.
+L195664 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Well, in layman's terms, you use a rotating magnetic field to focus a narrow beam of gravitons; these in turn fold space-time consistent with Weyl tensor dynamics until the space- time curvature becomes infinitely large and you have a singularity...
+L195663 +++$+++ u887 +++$+++ m57 +++$+++ STARCK +++$+++ How?
+L195662 +++$+++ u888 +++$+++ m57 +++$+++ WEIR +++$+++ Relativity, yes. We can't break the law of relativity, but we can go around it. The ship doesn't really move faster than the speed of light; it creates a dimensional gateway that allows the ship to instantaneously "jump" from one point in the universe to another, light years away.
+L203901 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ I like the sound of that.
+L203900 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ We're going to have to work on your touch.
+L203694 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ My step-dad's. I'm strictly into stone. I was wondering when you'd walk by.
+L203693 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Those yours too?
+L203692 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ No, I mean... I'm a little... dusty...
+L203691 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ Relax, it's casual.
+L203690 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ I'm not really dressed for a party.
+L203689 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ I'm blind, not deaf. Wanna come in?
+L203688 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ How'd you know it was me?
+L203562 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Trust me, this ain't one of those times.
+L203561 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ Such a sad face... You know, sometimes being different isn't a bad thing.
+L203558 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ You wouldn't say that, if you could see me.
+L203557 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ I don't think She's real big on hate.
+L203702 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ Tell me. When you grew up in Brooklyn, how many astronauts did you know?  You went your own way then. You didn't listen to people. So why start now...?
+L203701 +++$+++ u898 +++$+++ m58 +++$+++ THE THING +++$+++ I mean...
+L203700 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ I wouldn't know anything about that.
+L203699 +++$+++ u898 +++$+++ m58 +++$+++ THE THING +++$+++ You don't know what it's like out there. Walking around like some kind of circus freak. People staring, whispering --
+L203697 +++$+++ u898 +++$+++ m58 +++$+++ THE THING +++$+++ This ain't permanent. My friend Reed's working on a cure... I think.
+L203696 +++$+++ u889 +++$+++ m58 +++$+++ ALICIA +++$+++ "Sensual blind chick seeks three- ton, rock-hard he-man for deep spiritual relationship."
+L203695 +++$+++ u898 +++$+++ m58 +++$+++ THE THING +++$+++ You know, you could'a run an ad in the personals.
+L203830 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Victor must've taken him.
+L203829 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ Where is Reed?
+L203647 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ No, it's not. I thought I was done waiting for Reed... We're all in this together now, Ben.
+L203646 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ It's easy for you to be patient.
+L203645 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ Just give Reed a little more time. You know how he works -- analyzing every little step before he takes one --
+L203644 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ It's not him. It's them.  I can't live like this.
+L203643 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ He didn't mean it. You know Johnny. He's always been a hothead --
+L203604 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ What did he do to the uniform?!
+L203603 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Oh, he did.
+L203602 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ He didn't.
+L203501 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ I wouldn't be caught dead in that.
+L203500 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ The suit will stretch. You should try it --
+L203499 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ You look like an eighties rock band.
+L203450 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Well why didn't you say so? You want me to lift some weights or something?
+L203449 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ We need to give you a physical, so we know what got zapped.
+L203265 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Wouldn't want to keep Vic waiting.
+L203264 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ I can only stay for one drink, Ben. I've got to meet with Victor.
+L203128 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Is it safe?
+L203127 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ We can monitor the cloud's approach and observe the tests from here.
+L203091 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ Victor did.
+L203090 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ I can handle the ship. I can even handle Mr. Blonde Ambition. But I don't know if I should be flying or playing Vegas in these suits. Who the hell came up with them?
+L203073 +++$+++ u897 +++$+++ m58 +++$+++ SUE +++$+++ I'll schedule the launch. Call me in the morning to talk about resources and crew.
+L203072 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Way to not overthink it.  So when do we leave?
+L203798 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ And you can? Power it up?
+L203797 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ He couldn't generate enough power for the machine to reach critical mass. Yet another mistake for "Mr. Fantastic."
+L203796 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ He also said we'd avoid that storm in space. And we know how that turned out.
+L203795 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ Reed said it'd be weeks till --
+L203794 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ To help you. I've run every test known to man. And they all yield the same result: the machine is ready.
+L203793 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ What do you want, Vic?
+L203790 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ Where do you think? With Sue.
+L203789 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ What is this? Where's Reed?
+L203788 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ Ben, come in.
+L203738 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ Come on. Let me buy you something to eat. Looks like you could use the company.
+L203737 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ About me? How sweet.
+L203736 +++$+++ u899 +++$+++ m58 +++$+++ VICTOR +++$+++ I'm worried about you.
+L203735 +++$+++ u890 +++$+++ m58 +++$+++ BEN +++$+++ What are you doing here?

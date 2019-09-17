@@ -1,0 +1,200 @@
+L392081 +++$+++ u6665 +++$+++ m445 +++$+++ BEDEVERE +++$+++ Ah ... but can you not also make bridges out of stone?
+L392080 +++$+++ u6674 +++$+++ m445 +++$+++ FIRST VILLAGER +++$+++ Make a bridge out of her.
+L392064 +++$+++ u6665 +++$+++ m445 +++$+++ BEDEVERE +++$+++ Why do you think she is a witch?
+L392063 +++$+++ u6674 +++$+++ m445 +++$+++ FIRST VILLAGER +++$+++ ... Um ... Yes ... no ... a bit ... yes... she has got a wart.
+L392060 +++$+++ u6674 +++$+++ m445 +++$+++ FIRST VILLAGER +++$+++ And the hat.  But she is a witch.
+L392059 +++$+++ u6665 +++$+++ m445 +++$+++ BEDEVERE +++$+++ The nose?
+L392058 +++$+++ u6674 +++$+++ m445 +++$+++ FIRST VILLAGER +++$+++ ... Well, we did do the nose.
+L392057 +++$+++ u6665 +++$+++ m445 +++$+++ BEDEVERE +++$+++ Well?
+L391942 +++$+++ u6667 +++$+++ m445 +++$+++ BODY +++$+++ I feel happy... I feel happy.
+L391941 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ You're not fooling anyone you know.  Isn't there anything you could do?
+L391940 +++$+++ u6667 +++$+++ m445 +++$+++ BODY +++$+++ I think I'll go for a walk.
+L391934 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Do me a favour.
+L391933 +++$+++ u6667 +++$+++ m445 +++$+++ BODY +++$+++ I feel fine.
+L391928 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ You're not.   You'll be stone dead in a few minutes.
+L391927 +++$+++ u6667 +++$+++ m445 +++$+++ BODY +++$+++ I'm getting better!
+L391926 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ He will be soon. He's very ill.
+L391921 +++$+++ u6667 +++$+++ m445 +++$+++ BODY +++$+++ I'm not dead!
+L391920 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Nothing... There's your ninepence.
+L392696 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ Right.  Off you go.
+L392695 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Blue.
+L392694 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is your favorite colour?
+L392693 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ To find the Holy Grail.
+L392692 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is your quest?
+L392691 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ My name is Sir Launcelot.
+L392690 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is your name?
+L392689 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Ask me the questions, Bridgekeeper.  I am not afraid.
+L392688 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ Who approaches the Bridge of Death Must answer me These questions three! Ere the other side he see.
+L392705 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ I don't know that!
+L392704 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is the capital of Assyria?
+L392703 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ To seek the Grail!
+L392702 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is your quest?
+L392701 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ My name is Sir Robin of Camelot!
+L392700 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ What is your name?
+L392699 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ Ask me the questions, Bridgekeeper.  I am not afraid.
+L392698 +++$+++ u6668 +++$+++ m445 +++$+++ BRIDGEKEEPER +++$+++ Stop! Who approacheth the Bridge of Death Must answer me These questions three! Ere the other side he see!
+L392697 +++$+++ u6684 +++$+++ m445 +++$+++ ROBIN +++$+++ That's easy!
+L391948 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ He hasn't got shit all over him.
+L391947 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Why?
+L391946 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ I dunno, Must be a king.
+L391945 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Who's that then?
+L391944 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ That's all right.  See you on Thursday.
+L391943 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Thanks very much.
+L391939 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ Thursday.
+L391938 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ When's your next round?
+L391937 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ I promised I'd be at the Robinson's.  They've lost nine today.
+L391936 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Well, can you hang around a couple of minutes.  He won't be long.
+L391935 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ I can't.
+L391932 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ I can't take him.
+L391931 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Don't be such a baby.
+L391923 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Yes he is.
+L391922 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ 'Ere.  He says he's not dead.
+L391917 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ Ninepence.
+L391916 +++$+++ u6677 +++$+++ m445 +++$+++ LARGE MAN +++$+++ Here's one!
+L391915 +++$+++ u6669 +++$+++ m445 +++$+++ CART DRIVER +++$+++ Bring out your dead!
+L392397 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ It just seems silly ... me lying here.
+L392396 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Farewell, Concorde!
+L392395 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ Really, I feel fine, sir.
+L392394 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ I will send help, brave friend, as soon as I have accomplished this most daring, desperate adventure in this genre.
+L392393 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ I think I'll be all right to come with you, sir.
+L392392 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Good Concorde ... stay here and rest awhile.
+L392391 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ I think I could pull through, sir.
+L392390 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Oh, well ... er brave Concorde!  You shall not have been fatally wounded in vain!
+L392389 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ I'm not quite dead, sir ...
+L392388 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ At last!   A call!  A cry of distress ...  Concorde!  Brave, Concorde ... you shall not have died in vain!
+L392384 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ And another!
+L392383 +++$+++ u6670 +++$+++ m445 +++$+++ CONCORDE +++$+++ Thank you, sir, most kind ...
+L392382 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Well taken, Concorde!
+L392438 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Oh, don't worry about that ... Tell me ... doesn't Camelot own that stretch of farmland up by the mountains?
+L392437 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ It's just that when I'm in this genre, I tend to get over-excited and start to leap around and wave my sword about ... and ...
+L392435 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Oh ... that's awfully nice.
+L392434 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Do you want to come and have a drink?
+L392433 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Is it?
+L392432 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ 'Mm ... very nice castle, Camelot ... very good pig country....
+L392429 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Camelot?  Are you from Camelot?
+L392428 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ I can explain ...  I was in the forest ... riding north from Camelot ... when I got this note.
+L392427 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ You even kicked the bride in the chest!  It's going to cost me a fortune!
+L392426 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Gosh - Is he all right?
+L392425 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Didn't mean to?  You put your sword right through his head!
+L392424 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Oh dear, I didn't really mean to...
+L392421 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ I can understand that.
+L392420 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Er, Well ... the thing is ... I thought your son was a lady.
+L392419 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ You killed eight wedding guests in all!
+L392417 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Well, I'm really am most awfully sorry but I ... I can explain everything ...
+L392416 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ They cost fifty pounds each!
+L392415 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Yes ...  I'm very sorry ...
+L392414 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Did you kill all those guards?
+L392458 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ Well ... I'll tell you ...
+L392457 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ How?
+L392456 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I was saved at the last minute.
+L392455 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ You fell out of the Tall Tower you creep!
+L392423 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Shut up!  You only killed the bride's father - that's all -
+L392422 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ Hurry, brave Sir Launcelot!
+L392410 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Not you.
+L392409 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I'm ... your son ...
+L392408 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Who are you?
+L392377 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Shut your noise, you,  and get that suit on!
+L392376 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ But, Father.
+L392330 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I know ... but ... I want the girl that I marry to  have ... a certain ... special ... something ...
+L392329 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Don't like her?   What's wrong with her?  She's beautiful ... she's rich ... she's got huge tracts of land ...
+L392328 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ But I don't like her.
+L392327 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Herbert ...  We built this castle on a bloody swamp, we need all the land we can get.
+L392326 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ Herbert.
+L392325 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Listen, Alice ...
+L392324 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I don't want land.
+L392323 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ You're not going to do a song while I'm here!
+L392322 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ I'd rather ... just ... sing ...
+L392321 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Rather what?
+L392320 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ But I don't want any of that, I'd rather ...
+L392319 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Listen, lad, I built this kingdom up from nothing.  All I had when I started was swamp ...  other kings said I was daft to build a castle on a swamp, but I built it all the same ... just to show 'em. It sank into the swamp.  So I built a another one ... that sank into the swamp.  I built another one ...  That fell over and THEN sank into the swamp ....  So I built another ... and that stayed up. ... And that's what your gonna get, lad: the most powerful kingdom in this island.
+L392318 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ But, Father, I don't really want any of that.
+L392317 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Father, lad.
+L392316 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ But, Mother ...
+L392315 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No!  Not the curtains, lad ...  All that ...  all that you can see, stretched out over the hills and valleys ... as far as the eye can see and beyond ... that'll be your kingdom, lad.
+L392314 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ What - the curtains?
+L392313 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ One day, lad, all this will be yours ...
+L392375 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Oh, I see,  Right.
+L392374 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No, I want you to stay here and make sure he doesn't leave the room until I get back.
+L392373 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ We're coming with you.
+L392372 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Where are you going?
+L392369 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Is that clear?
+L392368 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Oh yes, of course!  I thought you meant him!  You know it seemed a bit daft me havin' to guard him when he's a guard ...
+L392367 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Yes ...  make sure ...
+L392366 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ The Prince ... ?
+L392365 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Make sure he doesn't leave.
+L392364 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ What?
+L392363 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ And make sure he doesn't leave.
+L392362 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Okay.  Fine.  We'll remain here until you get back.
+L392361 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Right.
+L392358 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Just you ...
+L392357 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No, not anyone else - just me.
+L392356 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Until you, or anyone else ...
+L392355 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No ... just keep him in here.
+L392354 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Oh, yes!  we'll keep him in here, obviously.  But if he had to leave and we were with him.
+L392353 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No ....  keep him in here ... and make sure he doesn't ...
+L392352 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Oh, I remember ... can he ... er ... can he leave the room with us?
+L392349 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Look, it's  simple.  Just stay here and make sure he doesn't leave the room.
+L392348 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ If we ... er ... 
+L392347 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Yes?
+L392346 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Er ... if ... we ... er ...
+L392344 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Got it?
+L392343 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Leaving the room ... yes.
+L392342 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Leaving the room.
+L392341 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ We don't need to do anything, apart from just stop him entering the room.
+L392338 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ ... and you'll come and get him.
+L392337 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No ...  You stay in the room and make sure he doesn't leave.
+L392334 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ No.  Until I come and get him.
+L392333 +++$+++ u6673 +++$+++ m445 +++$+++ FIRST GUARD +++$+++ Not ... to leave the room ... even if you come and get him.
+L392332 +++$+++ u6672 +++$+++ m445 +++$+++ FATHER +++$+++ Make sure the Prince doesn't leave this room until I come and get him.
+L392220 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ You must see the doctors immediately.  You must lie down.
+L392219 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ No, It's nothing!
+L392218 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ We are just not used to handsome knights ...  But you are wounded!
+L392217 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ I'm afraid our life must seem very dull and quiet compared to yours.  We are but eightscore young blondes, all between sixteen and nineteen-and-a-half, cut off in this castle, with no one to protect us.  Oooh.  It is a lonely life ... bathing ... dressing ... undressing ... making exciting underwear....
+L392216 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Well ...
+L392214 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ Sir Galahad!!
+L392213 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Well Look, I'm afraid I really ought to be ...
+L392212 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ Mine is Zoot. Just Zoot  But come.
+L392211 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Er ... Sir Galahad... the Chaste.
+L392210 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ What is your name, handsome knight?
+L392209 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Well, look er, I ...
+L392204 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ The what?  But you are tired and you must rest awhile.  Midget! Crapper!
+L392203 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Er ... +      You are the keepers of the Holy Grail?
+L392202 +++$+++ u6690 +++$+++ m445 +++$+++ ZOOT +++$+++ Yes.  It's not a very good name, is it?  But we are nice and we shall attend to your every ... every need!
+L392201 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ The Castle Anthrax?
+L392629 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Ector.
+L392628 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Sir Gawain.
+L392274 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ No, I'm not.
+L392273 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ ... I Bet you're gay.
+L392272 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ No.  It's unhealthy.
+L392271 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Oh, let me go and have a bit of peril?
+L392270 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ No, no, we must find the Grail.
+L392269 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Look, it's my duty as a knight to try and sample as much peril as I can.
+L392268 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ It's too perilous.
+L392267 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Look, let me go back in there and face the peril?
+L392266 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ You were, Sir Galahad, You were in terrible peril.
+L392265 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ I don't think I was.
+L392264 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ We were in the nick of time.  You were in great peril.
+L392258 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ No, really, I can cope.  I can handle this lot easily!
+L392257 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Come Sir Galahad, quickly!
+L392253 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Look - I'm fine!
+L392252 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ We'll cover your escape!
+L392251 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Well, she's got a point.
+L392248 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ You are in great peril.
+L392247 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Why?
+L392246 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Quick!
+L392245 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Oh ... hello ...
+L392244 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Sir Galahad!
+L392112 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Camelot ...
+L392111 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ Camelot ...
+L392231 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ I'm sorry, I must go.
+L392230 +++$+++ u6682 +++$+++ m445 +++$+++ PIGLET +++$+++ Back to your bed!  At once!
+L392229 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ No, no, this cannot be.   I am sworn to chastity!
+L392228 +++$+++ u6682 +++$+++ m445 +++$+++ PIGLET +++$+++ Please ... we are doctors.
+L392227 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ There's nothing wrong with ... that.
+L392226 +++$+++ u6682 +++$+++ m445 +++$+++ PIGLET +++$+++ We must examine you.
+L392225 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ No look, really, this isn't nescess ...
+L392222 +++$+++ u6675 +++$+++ m445 +++$+++ GALAHAD +++$+++ They're doctors?
+L392221 +++$+++ u6682 +++$+++ m445 +++$+++ PIGLET +++$+++ Well,  what seems to be the trouble?
+L392431 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ I am, sir. I am a Knight of King Arthur.
+L392430 +++$+++ u6683 +++$+++ m445 +++$+++ PRINCE +++$+++ Hurry!
+L392413 +++$+++ u6678 +++$+++ m445 +++$+++ LAUNCELOT +++$+++ Well, let's not jump to conclusions ...

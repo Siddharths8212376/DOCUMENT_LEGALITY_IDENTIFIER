@@ -1,0 +1,200 @@
+L627290 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I don't know anything about a faction.  I just met Simon...  or whatever his name is...  a couple of weeks ago.  I barely know him.
+L627289 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ How long have you been a member of his faction?
+L627141 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I can't, honey.  I promised Allison I'd go shopping with her. Sorry.
+L627140 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I thought we might have lunch tomorrow.
+L627132 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Oh, sure.  Fine.  I'll get some more gravy.
+L627131 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ So, a little excitement in an otherwise dull day.  Did is work out okay?
+L627130 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yeah.  It was a rush thing.  They needed some documents down at the court house.  I barely made it.
+L627129 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ They said you had to run out.
+L627128 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ They must've just missed me.
+L627127 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I was in the area, and I thought you might like to have lunch.
+L627061 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ My husband the hero.
+L627060 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Uh huh.
+L627059 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ It sounds wild.  So now you're a big hero, right?  For fixing their system.
+L627058 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ ...and I'm troubleshooting it with them over the phone... talking to a translator, right, who's getting half of it wrong... it was unbelievable...  really wild.
+L627057 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Well I pull out the manual on their setup, which is the new 680 server...
+L627056 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What'd you do, honey?
+L627055 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ It's the big client in Japan, and it's the middle of the morning there and their whole system is crashed... this guy's having a meltdown--
+L627054 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I couldn't believe it.  I go back to get this report I need, right, and the phone is ringing, so like a bonehead I answer it--
+L627053 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I'll just be a second.  So what happened tonight at the office?
+L627052 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Come on to bed, you don't have to brush your teeth.
+L627049 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yeah.  It was great.
+L627048 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I'm sorry.  Thank you for the party.
+L627047 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ It's okay, don't bother, Harry.
+L627046 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Look, I know you're upset.  I'm really sorry, honey.  I raced home as quick--
+L626982 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Baby, I said I'd be there. Really.  Trust me.  Gotta go, honey.  Bye bye.
+L626981 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Sorry to bother you in a meeting, but you have to promise me that				* you'll be home at eight.  I don't				* want Dana and I sitting here by ourselves like we were last year. You promise?
+L626980 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Hi honey.  What's going on?					*
+L626936 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I'll handle it.
+L626935 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I need you to talk to Dana.  The vice principle called and she cut class again this afternoon.
+L626854 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Good thinking, honey.
+L626853 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I slept with him and he knocked off a hundred bucks.
+L626852 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ What did you tell him?
+L626851 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ It's not okay.  It's extortion.
+L626850 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Uh huh.  Okay.
+L626847 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Yeah, it was wild.
+L626846 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ That's fabulous Harry.
+L626845 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Yeah.  You should have seen it. We were the hit of the show with the new model ordering system, the one for the 680... how you can write up an order and the second the customer's name goes into the computer, it starts checking their credit, and if they've ordered anything in the past, and if they get a discount...
+L626844 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ How'd it go at the trade show? You make all the other salesmen jealous?
+L626843 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Me too.
+L626842 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ I'm late.
+L626837 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Okay.
+L626836 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Fine, honey.  Stay asleep.
+L626835 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Hi, honey.  How was the flight?
+L627375 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ No.  Soon as I turn you'll shoot me.
+L627374 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Beat it.
+L627368 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Wait!  You got the wrong guy.  My name's Simon.  Look, just let me go.  There's no need to kill me. I haven't seen your--
+L627367 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You son of a bitch.  Did you really think you could elude us forever, Carlos?
+L627366 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Yeeaoowww!!
+L627223 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Let me think about it.  Hold it a day for me?
+L627222 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ See.  You and this car were meant for each other.  Why fight it? Sure, I have a couple other buyers lined up, but I like your style.  Whattya say?  Should we start on the paperwork?
+L627221 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Hey, slow down you're gonna miss the turn!
+L627220 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Sooooo... she's pretty good in bed, then?
+L627219 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Red hot.  Her thighs steam.
+L627218 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ But with you, she gets to be hot, right?
+L627216 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Some kinda legal secretary of something.  Married to some boring jerk.
+L627215 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ What does she do?
+L627214 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ I always have a couple on the hook.  You know.  There's one right now, I've got her panting like a dog.  It's great.
+L627213 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ You working on someone right now?
+L627212 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Those idiots.
+L627211 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Dickless.  If they took care of				* business, I'd be out of business, know what I mean?
+L627210 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ What about the husbands?
+L627209 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Exactly.  The trick is, you gotta pick your target.  They have to be nice little housewife types. School-teachers.  But, I'm telling you, you get their pilot lit, these babes, they can suck- start a leaf-blower.
+L627208 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Use 'em and lose 'em.
+L627207 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Doesn't matter.  I like change. You know, constant turnover.  As soon as I close the deal, it's one of two more times, then adios.
+L627206 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Isn't that hard to keep up, in the long run?
+L627205 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Well, think of it as playing a role.  It's fantasy.  You have to work on their dreams.  Get them out of their daily suburban grind for a few hours.
+L627204 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ So you're basically lying your ass off the whole time?  I couldn't do it.
+L627203 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Okay, just ask yourself.  What do women really want?  You take these bored housewives, married to the same guy for years.  Stuck in a rut.  They need some release.  The promise of adventure.  A hint of danger.  I create that for them.
+L627202 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Sure.  Set me up and then don't tell me.
+L627201 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Sorry.  Trade secret.
+L627200 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ So what's your angle?
+L627199 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ It's killer.  Look at me-- I'm not that much to look at.  No really.  I can be honest.  But I got 'em lining up, and not just skanks, either.  Some are.
+L627198 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ And you've got one.
+L627197 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Let's face it, Harry, the Vette gets 'em wet.  But it's not enough.  If you want to really close escrow, you gotta have an angle.
+L627194 +++$+++ u8623 +++$+++ m585 +++$+++ HARRY +++$+++ Absolutely.
+L627193 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ What're we talking about here? Pussy, right?
+L627641 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Go ahead.
+L627640 +++$+++ u8630 +++$+++ m585 +++$+++ VOICE +++$+++ Boris and Doris?
+L627413 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Uh... well, okay then.  You sound terrible.  I'll run out right now.  Just call the prescription in to the pharmacy.  Sure, no problem.  Bye.
+L627412 +++$+++ u8630 +++$+++ m585 +++$+++ VOICE +++$+++ Get going! 
+L627411 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What?
+L627288 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ He said he was an American agent.
+L627287 +++$+++ u8630 +++$+++ m585 +++$+++ VOICE +++$+++ Of course.  Mrs. Tasker.  And what were you going with the international terrorist, Carlos the Jackal?  Taking dictation?
+L627286 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Kettleman, Barnes and McGrath. I'm a legal secretary.
+L627285 +++$+++ u8630 +++$+++ m585 +++$+++ VOICE +++$+++ I said SIT DOWN.  Who do you work for?
+L627584 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Fuck you.
+L627583 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ Like one?
+L627516 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ Hold that thought.
+L627515 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Something you obviously have a hard time doing!
+L627514 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ Now just keep your knees together, and you'll be fine.
+L627501 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ Samir is just going to ask Harry a few questions.  See, we're not even sure which agency Harry works for.  Now, Samir is absolutely first class, but on the other hand we have Harry, here, who has managed to lie convincingly to the woman he loves for 15 years.  So it will be interesting to see how long he can resist.
+L627500 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What's going on, Harry?
+L627457 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ No, you don't understand, we've been married for 15 years--
+L627456 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ No, my dear, he is a federal agent.  He killed two of my colleagues the other night.
+L627455 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Look, Harry's not part of this. He's just a sales rep.
+L627454 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ So now it's Tasker?  Not Renquist?
+L627453 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I'm Helen Tasker.  Harry's my husband.  And you are?
+L627452 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ Who's your little friend?
+L627303 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I just glances inside.
+L627302 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ You can call me Simon.  You're very brave to do this...  You opened it.
+L627301 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Helen.
+L627300 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Thank you.  You saved my life. What's your name?
+L627280 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Relax.  There, that's better. Let yourself slip into the role.
+L627279 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ It's just that... it's been sixteen years since anyone but Harry did that, I--
+L627278 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ You see what I mean?  That reaction would give us away in a second.  Try to relax.
+L627274 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Here.  Sit down.  Be comfortable.
+L627273 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I don't know.  I have to think...
+L627272 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Helen, there's a double agent in my outfit... I don't know who. There's no one I can trust. Except you.  Can you get away? Just for two days.
+L627271 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ We're going to Paris?
+L627270 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Just for the operation in Paris. I need to be married.  They'll be looking for a man traveling alone.
+L627269 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I'm married!
+L627268 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Helen, I want you to be my wife.
+L627267 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What is it you need me to do?
+L627266 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ To our assignment.
+L627239 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ It's serious.  That's all I can				* say.  Just meet on K Street under				* the Key Bridge.  At eight sharp.				*
+L627238 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What's happened?
+L627185 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Yes.  Now go.
+L627184 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ You'll call me then?
+L627183 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Not here.  I'll call you and we'll rendezvous again.  We have to leave separately, so we aren't seen together.  For your safety.
+L627182 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ What is it you want me to do?
+L627177 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Something came over me, I just had nail him, no matter what the				* risk.  It was pretty hairy.  I thought he had me, a couple of					* times.  But I really can't take credit .  .  .
+L627176 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ And you chased one?
+L627175 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Three of them.  Hardly worth					* talking about.  Two won't bother				* me again.
+L627174 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Were they trying to kill you?					*
+L627172 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ It's strange.  I knew I was in a woman's thoughts when I was shooting it out with those assassins.
+L627171 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Right, of course.  I was worried when I didn't hear from you that night.
+L627170 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ I know.  But it would compromise your safety too much to know certain things.
+L627169 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ You can trust me completely.
+L627168 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ I'm sorry, I can't.
+L627167 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Tell me what happened?
+L627165 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ You recognized my style.  See, you're very good.  You're a natural at this.
+L627164 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ That was you?!
+L627163 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Sometimes a story is a mask for a covert operation.  See-- two men killed in a restroom, and two unidentified men in a running					* shootout, ending at the						* Marriot...
+L627162 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yes.
+L627161 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Did you read the papers yesterday?
+L627157 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Cairo was a day at the beach next				* to this.
+L627156 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Worse than Cairo?							*
+L627155 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Ssshhh!  We say Op.  Covert					* operation.  And this one got a little rough.
+L627154 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Where were you?  On a... uh,					* mission?
+L627153 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ It's my job to risk my life, but not yours.  I feel bad about bringing you into this, but you're the only one I can trust.
+L627152 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I understand.
+L627151 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Okay.  It's just, things are a bit hot for me right now.  If I get a signal...  I may have to leave suddenly.
+L627150 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ I kept looking back, like you taught me.  I didn't see anyone.
+L627149 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Are you sure you weren't followed?
+L627139 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ The same place.  One o'clock.  I have to go now.  See you tomorrow.  Remember, I need you.
+L627138 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yes.  I suppose so.  Where?
+L627136 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Yes.  Go ahead.
+L627135 +++$+++ u8628 +++$+++ m585 +++$+++ SIMON +++$+++ Helen?  It's Simon.  Is it safe to talk?
+L627134 +++$+++ u8624 +++$+++ m585 +++$+++ HELEN +++$+++ Hello?
+L627467 +++$+++ u8627 +++$+++ m585 +++$+++ MALIK +++$+++ His wife?  Good.  Bring them.
+L627466 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ His wife.
+L627465 +++$+++ u8627 +++$+++ m585 +++$+++ MALIK +++$+++ Who is this woman?
+L626975 +++$+++ u8627 +++$+++ m585 +++$+++ MALIK +++$+++ Use the gifts that Allah has given you.
+L626974 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ How?
+L626973 +++$+++ u8627 +++$+++ m585 +++$+++ MALIK +++$+++ Find out who this Renquist it.
+L626972 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ What do you want me to do?
+L626970 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ No.  He checked out okay--
+L626969 +++$+++ u8627 +++$+++ m585 +++$+++ MALIK +++$+++ Do you realize that there are surveillance teams watching this place right now?  Your phones are almost certainly tapped.  And you are busy laughing and flirting like a whore with this Renquist, who may be a--
+L626968 +++$+++ u8626 +++$+++ m585 +++$+++ JUNO +++$+++ It's a good thing you pay me well.
+L628437 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Yeah. I got elbowed right in the eye. And if that wasn't enough, I got hurled the ball when I'm not looking. Wam! Right in my face.
+L628436 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ You got that playing basketball?
+L628167 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ This is great, we got cable.
+L628166 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Holy Mary, Mother of God.
+L627899 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ You can't have just one.
+L627898 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ That was so good I am gonna have another.
+L627894 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Knock wood.
+L627893 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ You're gonna be on "T.J. Hooker"?
+L627841 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ He wants to speak with you.
+L627840 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Let me speak to Clarence.
+L627837 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Nope.
+L627836 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Not yet.
+L627833 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Yes.
+L627832 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Yeah, my room-mate leaves it on the TV.
+L627831 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Gotten your mail yet?
+L627826 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ What letter?
+L627825 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ What letter?
+L627824 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Did you get the letter?
+L627819 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Wait a minute -
+L627818 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ He said don't go nowhere. We'll be there some time tomorrow.
+L627813 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ I can't wait to meet you. Clarence told me all about you. He said you were his best friend. So, I guess that makes you my best friend, too.
+L627812 +++$+++ u8637 +++$+++ m586 +++$+++ DICK +++$+++ Hello, Alabama.
+L627811 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Hi, Dick. I'm Alabama Worley.
+L628454 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ That rhymes.
+L628453 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ It's been fun thinking about the money but I can walk away from it, honey.
+L628450 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ It is what I want. But I don't want to spend the next ten years in jail. I don't want you guys to go to jail. We don't know what could be waiting for us up there. It'll probably be just what it's supposed to be. The only thing that's waiting for us is two hundred thousand dollars. I'm just looking at the downside.
+L628449 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ I thought it was what you wanted, Clarence.
+L628401 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ But in my movie, baby, you get the top billing.
+L628400 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ It's got a nice ring to it. It sounds like a movie. "Clarence and Alabama Go to Cancoon". Don't 'cha think?
+L628399 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ Why Cancoon?
+L628398 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Cancoon.
+L628397 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ I been in America all my life. I'm due for a change. I wanna see what TV in other countries is like. Besides, it's more dramatic. Where should we fly off to, my little turtledove?
+L628396 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ You ain't kiddin', we got lives to start over, we should go somewhere where we can really start from scatch.
+L628395 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ But knowin' me and you gonna be nigger-rich gives me a whole new outlook. I love airports now. Me 'n' you can get on any one of those planes out there, and go anywhere we ant.
+L628394 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ Leavin' Detroit. Goin' off on vacations, startin' new lives, business trips. Fun, fun, fun, fun.
+L628393 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ What?
+L628392 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ I used to live by one back in Dearborn. It's real frustratin' to be surrounded by airplanes when you ain't got shit. I hated where I was, but I couldn't do anythin' about it. I didn't have enough money. It was tough enough just tryin' to pay my rent every month, an' here I was livin' next to an airport. Whenever I went outside, I saw fuckin' planes take off drownin' out my show. All day long I'm seein', hearin' people doin' what I wanted to do most, but couldn't.
+L628391 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ How come?
+L628390 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ With a vengeance, I hated them.
+L628389 +++$+++ u8631 +++$+++ m586 +++$+++ ALABAMA +++$+++ Really?
+L628388 +++$+++ u8633 +++$+++ m586 +++$+++ CLARENCE +++$+++ Ya know, I used to fuckin' hate airports.

@@ -1,0 +1,200 @@
+L562669 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I've been to Chicago.
+L562667 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Follow me.]
+L562666 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Lead the way, Murman.
+L562665 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [You want to talk, Lionheart, or you want to take this a little more personal?]
+L562659 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Something came up, Murman, my man.
+L562658 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Lionheart, what happened?]
+L562532 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Whatever happened to MyDick?
+L562531 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Reality very risky.]
+L562478 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Lionheart here. I'm back. Sorry about the absence. I had to do some therapy at the crossbar hotel.
+L562477 +++$+++ u3076 +++$+++ m201 +++$+++ MURMAN +++$+++ [Fantasy time, girls, give it up, give it up.]
+L562894 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Perhaps you can explain it to him.  It's Agent Mackelway.
+L562893 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Deputy Director Koessler doesn't want Zero. All he cares about is Low.
+L562892 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ What is it exactly I don't understand, Agent Mackelway?
+L562891 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I don't think you understand.
+L562887 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ This man, Hawkins, has killed dozens of people. Suspect Zero.
+L562886 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Excuse me, Agent Mackelway?
+L562885 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Locate a jet, we're going to Amarillo.
+L562884 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Now, Mr. Hawkins, when last in Amarillo, where did you get gas?
+L562883 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ 350 miles.
+L562882 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ How far is Amarillo?
+L562420 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He wants us to know he's out there, what he's doing. It's not enough just to kill somebody like Speck, he wants us to know he did it.
+L562419 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ But why attack an Agent?
+L562359 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I talked to him.
+L562358 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Speck is dead.
+L562357 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Eight, nine months ago. When I was at Computer Crime. I got into a chat room with someone named MyDick. I'd talked to him before. Everything I saw yesterday, everything in the autopsies, it's identical. The forensics are dead on. MyDick's fantasies involved a hog-tie rig, nylon cord, torture with pliers, rip the nipples -- when the "item" screams, she chokes. He had a thing about eyes, always the eyes -- stab their eyes. It's the same guy. Speck was MyDick.
+L562356 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I don't...
+L562355 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ MyDick. As in my dick. That was his screen name.
+L562354 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "MyDick?"
+L562302 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Hope you never do. At first it feels like a sauna, by the time you hit victim four it's a fucking burning shirt factory.
+L562301 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ No.
+L562266 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ The same.
+L562265 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Koessler?
+L562264 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ This case has sent bells and alarms ringing all the way to Washington. Your old boss is coming out.
+L562263 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Headed there now. The same shift will be on at noon.
+L562224 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Got a vehicle?  Head north on 54. When you get to New Mexico you've gone too far.
+L562223 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes, sir.
+L562222 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Agent Mackelway, you want to get off your ass and do something for a change?
+L562219 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Jesus, just what I need, another blue flamer.  Johnny, get this boy some sun screen.
+L562218 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I like working for the Bureau, sir. I like catching bad guys. It's all I care about.
+L562217 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ This is a first. You criticized the Deputy Director to his face and you still have a badge? You must have some one-of-a-kind skills.  Why don't you just quit? I mean, you're not going to get promoted, not wearing this jacket.
+L562216 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I wished to be reinstated at Computer Crimes. I was undiplomatic in my request.
+L562215 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "Attitude Adjustment Issues" -- what the fuck is that supposed to mean?
+L562214 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Four hundred and sixty, sir.
+L562213 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ I see that. Washington to Philadelphia to here. Philly's a nice station. How many agents?
+L562212 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I screwed up twice, sir.
+L562211 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ "Computer Investigation and Infrastructure Assessment Center." Quantico out of MIT -- you're a techie?  Okay, you screwed up once. So did half the guys here. That's why they're here.
+L562210 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Sounds like fun.
+L562209 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Updating the condition of all Bureau- owned vehicles in the southwest sector, sir.
+L562208 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Hot enough for you, Agent Mackelway? Hell's doorknob. What they got you doing?
+L562207 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Thomas Mackelway.
+L562206 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ Johnny, get this man's file. Mackelway, right?
+L562205 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I believe it's in my file, sir.
+L562204 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ What did you do to end up here?
+L562203 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Yes, sir.
+L562202 +++$+++ u3077 +++$+++ m201 +++$+++ SALINAS +++$+++ So you're the new meat?
+L562201 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ Good morning, sir. Agent Salinas, sir.
+L562978 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Take your shirt off.
+L562977 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ It's over for you.
+L562976 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ You want to "profile" me? Find out what makes me "tick"? Write about me, go on a talk show, give me a nickname?
+L562972 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Brilliant? You think he caught any of them because he was brilliant? Hardboy? MyDick? Imelda? Ripper? Think about it, how did he locate them?  He found them as Murman. And how did Murder Man find them? With sweet talk and brains? No. He did it with souvenirs. He took them into private rooms, swapped goodies: pictures, panties, jewelry, body parts. Snuff downloads. As bait. That's why I never exchanged with him. He killed girls, oh yeah, harvested them. He had the best stuff. Richard Low is Murman and Murman is one of us.
+L562971 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ He's a brilliant man. Brilliant enough to catch you.
+L562970 +++$+++ u3078 +++$+++ m201 +++$+++ ZERO +++$+++ Murman!
+L562969 +++$+++ u3075 +++$+++ m201 +++$+++ MACKELWAY +++$+++ I'm Agent Thomas Mackelway, FBI. There is no way you will escape. Assistant Deputy Director Richard Low is en route with another Agent.  You may know Low by another name. You may know him by the name Murman. I am Lionheart.
+L567042 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ You're money, baby.
+L567041 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Do you realize that I've been waiting for that call for six months and I cut her off?
+L566830 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Shut up.
+L566829 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ Don't do it, Mike.
+L566155 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Shuddup.
+L566154 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ You should call your Grandmother.
+L566150 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ No. Stop, come on.
+L566149 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ Are you calling Her?
+L566148 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Enough. I've got to use the phone.
+L566147 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ You really should. Life, after all, is really just a series of challenges...
+L566146 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Okay. I'll think about that. Bye.
+L566145 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ That's because it was a challenge. You has control over you're situation. It was hard, but you rose to it.
+L566144 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ It didn't feel that way.
+L566143 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ Moving here from New York was much more of an adjustment than this.
+L566142 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I don't know about that.
+L566141 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ Ever since I've known you.
+L566140 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ You're right. I know.
+L566139 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ You've been through worse.
+L566138 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I know, I know.
+L566137 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ You have to put things in perspective.
+L566136 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Shit.
+L566135 +++$+++ u3079 +++$+++ m202 +++$+++ ANSWERING MACHINE +++$+++ Michael, this is Grandma. I want to know if you got the part on that television program. I told the whole family and they're very excited to know if...  Skipping message. End of final message.
+L566743 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Thank you, Nikki.
+L566742 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ Nikki.
+L566741 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Well, thank you...?
+L566739 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ You better pay the man.
+L566738 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Probably a little longer than that, but, whatever.
+L566737 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ I'd say about two weeks.
+L566736 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Oh, yeah... Boy, that must've been a while ago.
+L566735 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ Yes! Remember? You asked me for an application? I introduced you to the manager?
+L566734 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Are you sure? Maybe...
+L566733 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ I know! Starbucks! I served you an espresso at Starbucks.
+L566732 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Well, you know, it's tough. A lot of traveling. A lot of hotels... but, you know, it's a dream... and the money's really good. I think I might buy another really expensive imported car after my next gig in Vegas...
+L566731 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ What's that like?
+L566730 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Yeah.
+L566729 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ You're a comedian?
+L566728 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ ...Monday nights? I host an open mike...
+L566727 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ ...maybe...
+L566726 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ You ever go to the Kelbo's? On Pico?
+L566725 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ I've seen you somewhere... Where have I seen you?
+L566724 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Thanks.
+L566721 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ I'm sorry, I couldn't help it. Let me make it up to you.
+L566720 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ You like laughing at the misery of others?
+L566659 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Oh... a Cavalier.
+L566658 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ What kind of car do you drive?
+L566657 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I'm sorry?
+L566656 +++$+++ u3080 +++$+++ m202 +++$+++ BLONDE +++$+++ What do you drive?
+L566655 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ How are you ladies doing this evening?
+L566944 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Mike...
+L566943 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ No... Maybe that's not the case. Maybe she shouldn't be such a smug little shit because she'd be surprised at what a good dancer he really is, but it's been a long time and he doesn't know if he's ready to...
+L566942 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Maybe it doesn't matter if he's a good dancer cause it's a slow song, if that's what he's afraid of.
+L566941 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Yes. I mean, no. I mean, maybe he would find her, I mean you attractive. Maybe he doesn't like to dance. Maybe all he likes to do is just stand around and drink and smoke and look cool with his buddies who don't dance either...
+L566940 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ You don't think the guy would find me attractive enough to dance with?
+L566939 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Uh, if the guy wants to.
+L566938 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Like if I meet a handsome young man and I wanted to ask him to dance? I can do that?
+L566937 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Anything.
+L566936 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Anything?
+L566935 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I don't know... To grow, to go out. Whatever you want.
+L566934 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ To do what?
+L566933 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ What else...? Let's see... You have complete freedom.
+L566932 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ What else?
+L566927 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ What what? What advantages?
+L566926 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Like what?
+L566925 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Well, it still sucks, but you start to see that there are advantages to being single.
+L566924 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ How?
+L566923 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ It does.
+L566922 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Oh, God. That's two more than me. Tell me it gets better.
+L566921 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ It's been six months and I'm just starting to get over it.
+L566920 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ I thought I was going to die.
+L566919 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Yeah.
+L566918 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ You too?
+L566917 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Tell me about it...
+L566916 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Well, I left someone very special behind.
+L566915 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ How was it hard?
+L566914 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Well, it wasn't the simple, but yeah.
+L566913 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Just like that?
+L566912 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ ...so I thought, what the hell, they make movies in L.A., not in Michigan, so I moved here.
+L566909 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Not lately.
+L566908 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Why? You're not a real man?
+L566907 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ My reputation seems to have preceded me.
+L566906 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ I thought real men don't like quiche.
+L566905 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I like quiche.
+L566904 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Yes. Like the quiche.
+L566903 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Like the quiche?
+L566902 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Hi, Mike. I'm Lorraine.
+L566901 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ I'm Mike.
+L566900 +++$+++ u3081 +++$+++ m202 +++$+++ BRUNETTE +++$+++ Hi.
+L566899 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Hi.
+L566789 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Yeah, I'll tell her I don't remember and then I'll ask what she looks like.  Then I'll ask if we fucked. How's that, Tee? Is that "the money"?
+L566788 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ ...then ask where you met her...
+L566787 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Why don't I just wait three weeks and tell her I was cleaning out my wallet and found her number...
+L566707 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ What else is going on?
+L566706 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ They're out of Glenlivet.
+L566614 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ Why not? This place is dead anyway.
+L566613 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ You want to come with us to a party at the Chateau Marmont? They got a bungalow and lots of beautiful babies.
+L566610 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ ...you might get cut out.
+L566609 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ ...and even then...
+L566608 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ ...not until you book it...
+L566607 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ I don't even tell them about anything I'm close on anymore...
+L566606 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ ...and boy does it hurt when they ask.
+L566595 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ ...piece of shit. Listen, Charles, this is my friend Rob from Back East.
+L566594 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ No, man. I know you didn't get it 'cause you wouldn't've asked me. It wasn't that funny anyway...
+L566593 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Did you, um, did you get that pilot?
+L566592 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ Oh. You know.
+L566591 +++$+++ u3088 +++$+++ m202 +++$+++ MIKE +++$+++ Charles! What's up, man?
+L566711 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ ...I mean, does it have to be "Goofy"? I was playing Hamlet off-Broadway two months ago, for crying out loud...
+L566710 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ I know what you're saying, man. I don't know what to tell you...
+L566620 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ ...Four days..?
+L566619 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ ...I heard it took four days to light for that shot...
+L566612 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ Hey, man. At least it's Disney.
+L566611 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ I'm considering taking a job as a "Goofy".
+L566605 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ I still haven't told my folks I didn't get "Deepspace 9". You'd think they'd'a figured it out by now, but Mom keeps asking...
+L566604 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ No.
+L566603 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ You haven't told then, huh?
+L566602 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ I haven't heard an official "no" yet.
+L566601 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ Oh, I'm sorry. How'd your folks take it?
+L566597 +++$+++ u3090 +++$+++ m202 +++$+++ ROB +++$+++ My pleasure.
+L566596 +++$+++ u3082 +++$+++ m202 +++$+++ CHARLES +++$+++ Hi.
+L566411 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ Don't worry. He's in good hands.
+L566410 +++$+++ u3092 +++$+++ m202 +++$+++ TRENT +++$+++ Let me just check on my boy.
+L566407 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ What an asshole.
+L566406 +++$+++ u3092 +++$+++ m202 +++$+++ TRENT +++$+++ It's like, you looked at my tape. You saw my picture. Why did you call me in? You knew I was twenty-four.
+L566389 +++$+++ u3092 +++$+++ m202 +++$+++ TRENT +++$+++ Wait... Wait... Listen... So, I check the time and place. I'm where I'm supposed to be. I call my agent... She says they asked for me specifically...
+L566388 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ They were auditioning for the same role as you?
+L566387 +++$+++ u3092 +++$+++ m202 +++$+++ TRENT +++$+++ No... no... The worst was when I went in for this After-School special and I'm sitting in the waiting room with all these little kids. I see they're all signed in for the same role as me...
+L566359 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ Well, no harm done. This is Lisa. I'm sorry, I never got your names...
+L566358 +++$+++ u3092 +++$+++ m202 +++$+++ TRENT +++$+++ Oh, are we late? There are no clocks in this town.
+L566357 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ Hi, boys, we almost gave up on you.
+L566441 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ He is so sweet.
+L566440 +++$+++ u3085 +++$+++ m202 +++$+++ LISA +++$+++ I believe it too. He really just wants her to be happy.
+L566439 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ He's so sweet. He really said that?
+L566437 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ The poor thing. I'll make some coffee.
+L566436 +++$+++ u3085 +++$+++ m202 +++$+++ LISA +++$+++ ...And she's with someone else.
+L566435 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ The poor thing. Six years?
+L566397 +++$+++ u3083 +++$+++ m202 +++$+++ CHRISTY +++$+++ Did you get it?
+L566396 +++$+++ u3085 +++$+++ m202 +++$+++ LISA +++$+++ Oh my God.
+L566367 +++$+++ u3085 +++$+++ m202 +++$+++ LISA +++$+++ I'm a "Dorothy".

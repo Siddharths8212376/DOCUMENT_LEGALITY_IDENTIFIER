@@ -1,0 +1,200 @@
+L35890 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ A further impediment is that the Army garrison has been ordered to move on from Liberty. We will no longer have that particular stick with which to threaten the farmers.
+L35889 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Just perfect.
+L35888 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ Yes sir.
+L35887 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Leaving you in charge of operations until he recovers.
+L35886 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ Unfortunately not, sir. A gang of local thugs managed to rescue him from the gallows. Not only has this inspired resistance from the other farmers, the redoubtable Mr. Alan Pinkerton was seriously injured during the incident.
+L35885 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Good.
+L35884 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ Two weeks ago, we managed to arrange to have the Army hang one of the local farmers.
+L35883 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Parker, tell me what's going on so I can return as quickly as possible to Boston and my whores and cigars, not necessarily in that order.
+L35882 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ I can completely understand your distress, sir.
+L35881 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ NO! It is NOT my pleasure to have to leave my board room to come to this godforsaken piece of dirt to discover why in the name of all that is holy you cannot seem to evict a few simple farmers from their PATHETIC LITTLE MUDHOLES so that I may build the GREATEST railroad that this country has ever seen!
+L35880 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ Really!
+L35879 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ And it is my pleasure to be here.
+L35878 +++$+++ u320 +++$+++ m19 +++$+++ PARKER +++$+++ Mr. Thaddeus Rains, sir, it is a pleasure to have you join us in the field.
+L36491 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Vengeance.
+L36490 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ What the hell is that sound?
+L36267 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Why, their intense hatred of you, of course.
+L36266 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ What is that?
+L36265 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ No need. I have another tool at my disposal which will narrow it down to one bank.
+L36264 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Can you put men at all four?
+L36263 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ There are only four banks within that travel radius which they have not robbed.
+L36262 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ In English, Pinkerton.
+L36261 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Every three months, the James Gang circles back to the vicinity of Liberty, Missouri. They always pull a job right before they return, probably to have extra money to give family and friends.
+L36260 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ No.
+L36259 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ So he's won.
+L36165 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ It's going to be a long spring.
+L36164 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Can't you tell me anything?
+L36163 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ No, you demand results. They are not the same thing. And if you want results, you will let me do my job as I see fit. Unless of course,  You want this fool to saddle up and take another run at it?
+L36162 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ I demand action.
+L36161 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Yes, that's the way to win the locals back to our side.
+L36156 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ And there are some towns in Missouri where James and his men can walk openly, as heroes.
+L36155 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ I can't believe this.
+L36154 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ First of all: you, shut up.  Now, you've given me a thousand miles of railroad to cover. Every time the James Gang strikes, we shift a hundred detectives to that area. But there's just too much open land, too many riverbeds to ride, caves to hide in. This gang operates across four states, often riding a hundred miles between jobs.
+L36152 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ All of the James Gang's encounters have been with local law enforcement who, quite frankly, are no match for this group's cunning.
+L36151 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Pinkerton. It's been eight months. I see robberies. I see hold ups. But I do not see men on the end of nooses.
+L36120 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ It's going to be a long winter.
+L36119 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ So you can't tell me anything?
+L36118 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Hardly farmers. I've done some checking. All these were in the War. These men know sabotage, tactics, and have four years of bloody fighting experience behind them. They are disciplined, well-trained and have a charismatic leader. If I were to design the perfect outlaw band, this gang is what I would create.
+L36117 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ I'm losing millions of dollars and months of time while you play chess with these farmers!
+L36116 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ It's early in the game yet, Mr. Rains. Jesse James and I are just learning how each other moves, feeling out each other's patterns.
+L36100 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Oh, that's the best part.
+L36099 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ "The gang made off with thirty-five thousand dollars and also destroyed the Thaxton Switch construction, meaning that for a few months honest farmers will be able to sleep without fearing the railroad is coming to steal their land!"  Who wrote this!? I'll see him hanged every Tuesday for a month!
+L36098 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ It is a nice piece of writing.
+L36097 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ "A Rock Island and Pacific Railroad depot was robbed two nights ago just outside St. Louis, Missouri. The brave and daring James-Younger Gang was heavily outnumbered by Pinkerton detectives, but the city lawmen were no match for the guns of the West."
+L36096 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ I'm afraid our adversaries don't agree.
+L36095 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ This is no game.
+L36094 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Would a jury around here convict their own? I think not. We're beginning an interesting game here, Mr. Rains.
+L36093 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ I want them arrested and hanged!
+L36092 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Oh no, I would have done that. But I would have made sure I killed them, too.
+L36091 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ You wouldn't have done that?
+L36085 +++$+++ u322 +++$+++ m19 +++$+++ PINKERTON +++$+++ Not to mention my men who lost their lives.
+L36084 +++$+++ u323 +++$+++ m19 +++$+++ RAINS +++$+++ Look at this, Pinkerton! They got the payroll, and this damage will set construction back two months at least.
+L37123 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Nothing.
+L37122 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes?
+L37121 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick?
+L37118 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, Courtney?
+L37117 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Isn't that special?  Patrick?
+L37116 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You look marvelous. There's nothing to say. You're going to marry Luis. Next week, no Less.
+L37115 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Listen...Patrick. Can we talk?
+L37114 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ You never noticed.
+L37113 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I never knew you smoked.
+L37112 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ We were supposed to have dinner at Tad and Maura's, but-you know how Luis is...
+L37111 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You and...Luis?
+L37110 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ That's nice.
+L37109 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Dinner at the River Cafe. Au Bar afterwards, maybe.
+L37108 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ What are you doing tonight?
+L37107 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Maybe.
+L37106 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Will you call me before Thanksgiving?
+L36778 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Oh God, just get it over with.
+L36777 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ See? Happy? You dumb bitch? Are you happy, you dumb bitch?
+L36776 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Well, it's not a turn-on for me. I have a promotion coming to me. I don't want to get AIDS.
+L36775 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh Christ, this really isn't worth it. And see, Courtney, it's there for what? Huh? Tell us.  Why is it pulled down half an inch? So it can catch the force of the ejaculate!
+L36773 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Because you have to leave half an inch at the tip –  to catch the force of the ejaculate! BATEMAN I'm getting out of here. Where's your lithium?
+L36772 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why?
+L36771 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Take it off.
+L36770 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's a plain end, see? So?
+L36769 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick. Turn on the Light. He turns on the light.
+L36768 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh Jesus. I'm going home.
+L36767 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Turn the light on.
+L36766 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's a plain end. I think.
+L36765 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What do you want, Courtney?
+L36764 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pull out, goddamnit!
+L36763 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm ignoring you.
+L36762 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pull out.
+L36761 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is it a what?
+L36760 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ No, you idiot. I said "Is it a receptacle tip?" Not, is Luis a despicable twit. Is it a receptacle tip? Get off me.
+L36759 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, Luis is a despicable twit. I hate him.
+L36758 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Luis is a despicable twit.
+L36755 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Mmmm...thanks, Patrick.
+L36754 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Courtney, you're going to have the peanut butter soup with smoked duck and mashed squash. New York magazine called it a 'playful but mysterious little dish." You'll love it. And then...the red snapper with violets and pine nuts. I think that'll follow nicely.
+L36753 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, dear.
+L36752 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ This is Dorsia?
+L36751 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes.
+L36750 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Are we here?
+L36749 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Champagne on the rocks. Oh-could I have that with a twist? She starts to sink back in her chair and Bateman leans over and pulls her back up.
+L36748 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ J&B. Straight.
+L36747 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I just want to have a child. Just...two... perfect...children... 
+L36746 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You know, Courtney, you should take some more lithium. Or have a Diet Coke. Some caffeine might get you out of this slump.
+L36745 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Oh God, Patrick. Shut up.
+L36744 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is that Donald Trump's car?
+L36743 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ A facial at Elizabeth Arden, which was really relaxing, then to the Pottery Bam where I bought this silver muffin dish. 
+L36739 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Sounds like I'll have to. Don't fall asleep, okay? Wear something fabulous. Dorsia, remember?
+L36738 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pick me up?
+L36737 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Eight?
+L36736 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Okay. Yeah. What time?
+L36735 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ The question is do you like it, Courtney? And will you blow off a fucking phone call from your sad excuse for a boyfriend to eat there tonight.
+L36734 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ You like it there, don't you?
+L36733 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nice?
+L36732 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Dorsia's nice.
+L36731 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm thinking Dorsia.
+L36730 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I can't.
+L36729 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Courtney? Dinner?
+L36728 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick don't call me pumpkin anymore, okay? I have to go.
+L36727 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin, you're dating a tumbling, tumbling dickweed.
+L36726 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I know. Stop it.
+L36725 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin you're dating the biggest dickweed in New York.
+L36724 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Uh huh.
+L36723 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin you're dating an asshole.
+L36722 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Yes?
+L36721 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin?
+L36720 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Ummm . . yeah. Luis is calling me tonight. I need to be home for that.
+L36719 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Am I confused or were we talking about tonight?
+L36718 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You should come have dinner with me. COURTNEY But-when?
+L36717 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Waiting for Luis to call me. He said he'd call tonight. Oh don't be difficult, Patrick.
+L36716 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ On a lot of lithium?
+L36715 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Stop it. I'm...
+L36714 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, you're dating Luis, he's in Arizona. You're fucking me, and we haven't made plans. What could you possibly be up to tonight?
+L36713 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ What? Oh, I'm...busy.
+L36712 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, what are you doing tonight?
+L37301 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's not that nice.
+L37300 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ This is nicer than your other apartment.
+L37291 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh, lawyers are so complicated-don't do that. Here.
+L37290 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ My friend told me I should maybe even get a lawyer.
+L37289 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Really?
+L37288 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ Well, I actually might need a little surgery after last time.
+L37287 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ So, you're looking great, how have you been?
+L37286 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ Alright.
+L37285 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nothing like last time, promise.
+L37283 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I don't think so.
+L37282 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh this won't be anything like last time, I promise.
+L37281 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I'm not so sure about this. I had to go to Emergency after last time...
+L37056 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Actually, that's none of your business, Christie, hut I can assure you it certainly wasn't cheap.
+L37055 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ You have a really nice place here...Paul. How much did you pay for it?
+L37040 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you take American Express?
+L37039 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I'm not supposed to.  But I can make an exception.
+L37038 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you want to come to my apartment or not?
+L37036 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Would you like to see my apartment?
+L37035 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ You just haven't been looking.
+L37034 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I haven't seen you around here.
+L37367 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I have to return some videotapes.
+L37366 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But where?
+L37365 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm just leaving.
+L37364 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Where are you going?
+L37363 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm leaving now. I've assessed the situation and I'm going.
+L37362 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Oh God, I can't believe this.
+L37361 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ If you really want to do something for me, you can stop making this scene right now.
+L37359 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know my behavior is...erratic sometimes.
+L37358 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ No, no, no.
+L37357 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm...in touch with humanity. Evelyn, I'm sorry.  You're just not terribly important to me.
+L37356 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ You're inhuman.
+L37355 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We never really shared one.
+L37354 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But what about the past? Our past?
+L37353 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, I am.
+L37352 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ You're really serious, aren't you?
+L37351 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know that your friends are my friends. I've thought about that. You can have them.
+L37350 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But your friends are my friends. My friends are your friends. I don't think it would work.  You have a little something on your upper lip.
+L37349 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm fucking serious. It's fucking over. Us. This is no joke. I don't think we should see each other anymore.
+L37348 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Touchy, touchy. I'm sorry I brought the wedding up. Let's just avoid the issue, alright? Now, are we having coffee?
+L37347 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's over, Evelyn. It's all over
+L37346 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Talk about what, Patrick? What is there to talk about?
+L37345 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We need to talk.
+L37344 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ My need to engage in homicidal behavior on a massive scale cannot be, um, corrected, but I have no other way to fulfill my needs.
+L37343 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Why? What's wrong?
+L37342 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I think, Evelyn, that we've...lost touch.
+L37341 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ I want a firm commitment.
+L36683 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's not.
+L36682 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Your hairline looks like it's receding.
+L36681 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. I'm not. Why should I ?
+L36680 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Are you using minoxidil?
+L36678 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody has a great body now.
+L36677 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He has a great body
+L36676 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody's good-looking, Patrick.
+L36675 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He's good-looking.
+L36674 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody's rich.
+L36673 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He's rich.
+L36672 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Oh God, Patrick. Why Price? Price?
+L36671 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why don t you just go for Price?
+L36656 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hi. Pat Bateman.
+L36655 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Pat, this is my cousin Vanden and her boyfriend Stash. He's an artist.
+L36651 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Because I...want...to...fit...in.
+L36650 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Well, you hate that job anyway. Why don't you just quit? You don't have to work.
+L36649 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I don't want to talk about it.
+L36648 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Your father practically owns the company. You can do anything you like, silly.
+L36647 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No-I can't take the time off work.
+L36646 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ We should do it.
+L36645 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is your Evian spiked?
+L36644 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Yes, darling?
+L36643 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Evelyn?
+L36642 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Get married. Have a wedding.
+L36641 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do...what.
+L36640 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Marzipan. Pink tents. Hundreds, thousands of roses. Photographers. Annie Leibovitz. We'll get Annie Leibovitz. And we'll hire someone to videotape. Patrick, we should do it.

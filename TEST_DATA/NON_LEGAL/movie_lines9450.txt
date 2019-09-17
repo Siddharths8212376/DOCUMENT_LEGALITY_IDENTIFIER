@@ -1,0 +1,200 @@
+L589925 +++$+++ u3181 +++$+++ m209 +++$+++ JOSEPH +++$+++ I know --
+L589924 +++$+++ u3180 +++$+++ m209 +++$+++ GRAY +++$+++ What did you hear?
+L589923 +++$+++ u3181 +++$+++ m209 +++$+++ JOSEPH +++$+++ I want to speak to you alone.  I saw something.  I heard.
+L589922 +++$+++ u3180 +++$+++ m209 +++$+++ GRAY +++$+++ I presume you shall.  This won't be my last visit here.
+L589946 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Then all my surgery is no good. There's something wrong with the child -- something I don't know -- something I can't define -- can't diagnose.  I can do nothing for her.
+L589945 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ She would if she could.
+L589944 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ But she must be able to move. Everything is in place.
+L589943 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ I'm sorry, Doctor.  Georgina's a good child -- a brave child -- you saw how she was during the operation -- but if she can't move, she can't move.
+L589723 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ I'm not heartless, Ma'am.  I have every sympathy for you and for the little girl, but if I were to consent to every operation brought to me, I'd have no time for teaching -- and that's a great responsibility upon me, Ma'am -- a great responsibility.
+L589722 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ There's nothing I can say for one small child?
+L589721 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ I regret it, Ma'am, but I have the responsibility of training thirty other doctors to attend a thousand children like your own.
+L589720 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ But, Doctor, surely in a case like this -- a child -- a little child who can never walk or run --
+L589719 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Believe me, Madame, if I were only a doctor, I would undertake this operation at once.  But I'm more dominie than doctor -- I've a school to run.
+L589715 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Perhaps -- a delicate operation -- an operation which has never been performed -- but it could be performed.  I'm sure it could be -- I could incise the columna dorsi --
+L589714 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ But can anything be done for her?
+L589710 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ Three years.
+L589709 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ How long ago?
+L589708 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ A carriage overturned.  My husband was killed and Georgina was hurt.
+L589707 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Child seems to take to the lad. What sort of an accident was it, Ma'am?
+L589688 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ See here, child, when you have this pain in your back, where is it?
+L589687 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ It comes at intervals.  They used to be months apart -- but they've been growing more frequent --  much more frequent.
+L589686 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Is her pain sporadic or constant?
+L589685 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ Yes, Doctor.
+L589684 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Any attacks of pain since?
+L589683 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ Nearly a year.
+L589682 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ How long after that was the paralysis complete?
+L589681 +++$+++ u3185 +++$+++ m209 +++$+++ MRS. MARSH +++$+++ No, Doctor.  She seemed to get better, then about six months later she began to complain of pain in her back --
+L589680 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Was the paralysis immediate?
+L590116 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Aye.
+L590115 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ You've been with Gray again.
+L590056 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ He must leave me alone.
+L590055 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ You're not going to Gray.
+L590046 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ I'll get him.
+L590045 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Fettes -- where is Fettes?
+L590032 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ You can get out.
+L590031 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ Crony indeed!
+L589851 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ No great lady will ever take my place?
+L589850 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Nonsense.  You're a fey creature with mad ideas.  But you have a wildness that holds me to you, lass.
+L589849 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ You may deny the devil, Toddy, but you'll not rid yourself of him by saying the devil is dead.
+L589848 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ You're daft.  What's Gray to me. He's only a man from whom I buy what I need when I need it -- the rest is forgotten.
+L589737 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ Did it spoil me, Meg, my lass?
+L589736 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ Aye --
+L589735 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ You think it'll spoil the boy, eh? Was I not assistant to Knox?
+L589734 +++$+++ u3183 +++$+++ m209 +++$+++ MEG +++$+++ Aye.  He's a good lad.  That's why I ask you, MacFarlane.
+L589733 +++$+++ u3182 +++$+++ m209 +++$+++ MACFARLANE +++$+++ And why not?  He's a good lad -- bright and able.
+L591383 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ I'm not dying for your goddamn illusions. You got that? You think you and your girlfriend had some rosy future ahead of you? Bullshit. She was already bored, why do you think she was looking around? You're nothing, Corvis! Less than nothing.
+L591382 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Was that it? Well, ok.
+L591334 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Yeah?  I see doubt oozing out your arm. Where do people go when they kill their girlfriends?
+L591333 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You're wrong.
+L591332 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ It was one thing her dad rejected you. But when she did you lost it.
+L591327 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Bullshit. You're a killer, that's all you are. A clown with a bird and a rising death toll. You think the world did you wrong?! You did the world wrong.
+L591326 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You sent them. I had no choice.
+L591325 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ How many innocent people did you leave dead back there?
+L591321 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ See, I heard you were looking for some guy with a scar. How's that going? You find him? Yes? No?
+L591320 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I'm looking for my friends.
+L591319 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ around, or whatever the hell you're doing here.  What are you doing here?
+L591317 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Or what? You'll bleed all over my carpet?
+L591316 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Where are they? Last chance.
+L591315 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Can I get you something? A glass of water? A transfusion?
+L591314 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Where are they?
+L591313 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ I hate that picture.
+L591259 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ What? Call the police?
+L591258 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ I think we should get some support?
+L591257 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Where is it? This place?
+L591249 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ I believe they call it a connoisseur's club. Owned by DELT.
+L591248 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ The strip joint?
+L591247 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ We're getting there. Because in his so-called construction job, Tommy makes a daily delivery to a place called "The Hole."
+L591246 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Leonard, Dutton, Erlich. They don't matter. I want the King.
+L591168 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ Yeah. I sure will.
+L591167 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I was hoping you'd find out.
+L591166 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ What do they do that they had to kill her?
+L591165 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Lauren's father's involved. He bought the cops fancy cars, I don't know what else. It's a company called D-E-L-T. I think Lauren found out.
+L591164 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ I'm thinking... that explains a lot.
+L591163 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You think I'm crazy.
+L591162 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ The cops from my trial. They killed Lauren. The whole thing was fixed. 
+L591161 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ "Down?" Wait, don't tell me.
+L591160 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Two down. Two to go.
+L591157 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Dream on.
+L591156 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ Check and mate.
+L590849 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ Someday he'll surface and I'll get him for both of you. I promise. I'll find the guy with the scar.
+L590848 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ We won't.
+L590847 +++$+++ u3196 +++$+++ m210 +++$+++ WALSH +++$+++ Tell her... we'll get him.
+L590846 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ What's been holding me together is the hope that maybe you do go someplace. And I'll be seeing her again soon. Only what will I say? That I was too stupid to find the guy who killed her? That he's down here laughing?
+L591004 +++$+++ u3188 +++$+++ m210 +++$+++ DUTTON +++$+++ Bitch killed herself when she shot a cop in the leg. If she' just acted like a girl nothing would have happened.  So you're right, spooky. Happy?
+L591003 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You killed her. I saw it.
+L591000 +++$+++ u3188 +++$+++ m210 +++$+++ DUTTON +++$+++ There's no scar, you freak. The Corvis kid made it up.
+L590999 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ A scar. On the arm. Of the man who planted this in Alex Corvis's car.
+L590998 +++$+++ u3188 +++$+++ m210 +++$+++ DUTTON +++$+++ Fuck! What do you want?
+L590996 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ This is not just some "thing." It's A C zero zero five.
+L590995 +++$+++ u3188 +++$+++ m210 +++$+++ DUTTON +++$+++ Keep that thing away from me.
+L590994 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Think maybe knives do?
+L590993 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I guess it's true. Guns don't kill people...
+L590992 +++$+++ u3188 +++$+++ m210 +++$+++ DUTTON +++$+++ That was a fucking hollow point!
+L590964 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ A job. Construction. Twelve an hour.
+L590963 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ What did they give you?
+L590962 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ They showed me pictures, what he did to her. Evidence. Said all I had to do was stand up there and not my head "yes."
+L590961 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ What did they give you?
+L590955 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ Who are you?
+L590954 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Wrong. Answer.
+L590953 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ There's no scar. Corvis made it up.
+L590952 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ One chance to tell the truth, Tommy. Who is the man with the scar? He planted this in my car.
+L590951 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ What's your damage, man? Corvis hacked up that girl like a motherfucker.
+L590950 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You said you saw me with this. I never held it until today.
+L590949 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ Hey. I said what I saw. Two kids arguing. A guy and a girl.
+L590948 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Capital case nine nine dash C one one five. Alex Corvis.  Exhibit A.
+L590947 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ I don't know you, man.
+L590946 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You lied at my trial.
+L590945 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Big bang, primordial ooze, divine hand of a benevolent creator?  All possibilities. Although recent events have given me doubts about the benevolent creator.
+L590944 +++$+++ u3193 +++$+++ m210 +++$+++ TOMMY +++$+++ Where the fuck did you come from?
+L590943 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Sssshhh. She's resting.
+L591302 +++$+++ u3194 +++$+++ m210 +++$+++ TOOMEY +++$+++ There is no scar. I'm telling you.
+L591301 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ The scar.
+L591300 +++$+++ u3194 +++$+++ m210 +++$+++ TOOMEY +++$+++ Fucking Zombie.
+L591299 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Good thing in a situation like this.
+L591298 +++$+++ u3194 +++$+++ m210 +++$+++ TOOMEY +++$+++ You're him! You're Corvis! We fried your ass. You're dead, man!
+L591297 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ AAAANK. That's not how we play the game.
+L591296 +++$+++ u3194 +++$+++ m210 +++$+++ TOOMEY +++$+++ What Scar? What fucking scar?
+L591295 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ We're going to play a little game called "Who's got the Scar."
+L591074 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I was talking about you.
+L591073 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ You're him. Corvis.
+L591072 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ How can you die if you're already dead?
+L591071 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ Are you out of your fucking mind? We're going to die.
+L591069 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ Nobody.
+L591068 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ The scar. Which of you has it?
+L591067 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ Why? Why's anything happen? It's all money, man. Money. The girl just got in the way.
+L591066 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I want Lauren. I want my life back. I want... to know why.
+L591065 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ Not my arm! What you fucking want?
+L591062 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ What happened to your leg there Officer? Hunting accident?
+L591061 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ Fuck. Me.
+L591058 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I want you to think of me as the guy who killed you.
+L591057 +++$+++ u3190 +++$+++ m210 +++$+++ ERLICH +++$+++ You're the guy killed Dutton.
+L591056 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I heard you were looking for this.
+L591388 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Erin. I'll always be with you.
+L591387 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ In the woods you said you had nothing. But you wouldn't, and I wouldn't if there's some way you don't have to go. Please. At least not right away.
+L591360 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ No matter what happens... you're innocent... I promise...
+L591359 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ ... it connects you to me...
+L591256 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I don't know. I found him lying there.
+L591255 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Erin. Who?
+L591254 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ It's not. I can't take it.
+L591253 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ It's ok, it's ok...
+L591223 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ It's what Lauren would do.
+L591222 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I wish I could hate him but I can't. He said he'd never hurt either of us, and I know it's true and... I'm going back.
+L591221 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I used to be so proud of him. My big deal daddy. And now, he's just a crook. Worse even. And the weird thing is...
+L591220 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ All I knew, she was pulling away. It made me crazy.
+L591219 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ My father.
+L591218 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ You know what Lauren and I were fighting about that night? She had a secret, wouldn't tell me...
+L591217 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Have to find him first.
+L591216 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ So you're going to kill him?
+L591215 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ ... took everything I ever cared about. Left me with nothing.
+L591189 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I don't want to see!
+L591188 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ This tree. Here's where it happened.
+L591180 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ Yes I do, I really do.
+L591179 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ No. You don't.
+L591178 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ It's all my fault. Oh God. I wish I were dead.
+L591177 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Erin. It's not your fault.
+L591176 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ ... is that I sent them here. I told them she came here sometimes. With her dirtball boyfriend. That's exactly what I said.
+L591175 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ No...
+L591174 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ When Lauren was missing the police came to our house. They said they were looking for her, right?  But I know now they had her, and the reason they brought her here and knew the could blame it on you...
+L591173 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Are you ok?
+L591172 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ Yeah, I know.
+L591171 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ This is where it happened. Right over here.
+L591089 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Because you need to understand. And you need... to be careful.
+L591088 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ No! Why are you haunting me?
+L591087 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ From the bonfire over there. Look at it.
+L591086 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ No. Listen to me. Lauren found out something they didn't want her to know.  This.
+L591085 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ My dad was right! He said you'd ruin her life.
+L591084 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I've been shot, and stabbed and thrown from a car and none of it hurt. But what you're doing now, does. I don't know why.
+L591082 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ You killed Lauren! You killed her!
+L591081 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I'm not hiding. I'm right here.
+L591080 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I know who you are.  That's why you paint your face. To hide.
+L591079 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ And another one. There. Erlich. Took a wrong turn.
+L591078 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ You killed that cop Dutton.
+L591077 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I told you, I knew your sister.
+L591076 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ Daisy. How did you know?
+L590934 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ Stay away from me! Dad! Dad!
+L590933 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I know everything about your sister. I'll prove it to you.
+L590932 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ How do you know?
+L590931 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ He didn't kill her.
+L590930 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ You're a friend of the guy who killed her, aren't you? You almost sound like him.
+L590929 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Someone else did it.
+L590928 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ And he's right over there by the way.  What did you do to your face?
+L590927 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ Your father gave them to both of you.
+L590926 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ Yeah, no kidding.
+L590925 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ That locket you're holding. You have one just like it.
+L590924 +++$+++ u3189 +++$+++ m210 +++$+++ ERIN +++$+++ I know her friends.
+L590923 +++$+++ u3186 +++$+++ m210 +++$+++ ALEX +++$+++ I was a friend of your sister's.
+L591354 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ You two are majorly demented. Anyone ever tell you that?
+L591353 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Maybe we had a case of that here.  Get me my kit.
+L591347 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Give me a hand with this sack of shit.
+L591346 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ Doubt is a motherfucker.
+L591345 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Just don't believe everything you see.
+L591212 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ He's looking for something. Won't stop until he finds it.  Sometimes the best way to get rid of someone is to let them have what they want.
+L591211 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ Cause if you're losing your mind, I got a right to know.
+L591208 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ The dead can return, given sufficient motivation. And Corvis has that.
+L591207 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ How about sign of a big black bird?
+L591206 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Sign of the dead come back to life.
+L591205 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ Fucking crow.
+L591202 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ Christ. It was Corvis. Tommy Leonard was right.
+L591201 +++$+++ u3187 +++$+++ m210 +++$+++ CAPTAIN +++$+++ Could say that.
+L591200 +++$+++ u3191 +++$+++ m210 +++$+++ MADDEN +++$+++ They botched the execution.

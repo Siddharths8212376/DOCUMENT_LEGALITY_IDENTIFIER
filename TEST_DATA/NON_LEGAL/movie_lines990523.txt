@@ -1,0 +1,200 @@
+L659660 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ ...don't talk.
+L659632 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Very well -- I'll bide my time -- and as for you, my fine lady, it's true, I can't attend to you here and now as I'd like, but just try to stay out of my way....
+L659631 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Oh, rubbish!  You have no power here. Be gone, before somebody drops a house on you, too.
+L659630 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ You stay out of this, Glinda, or I'll fix you as well!
+L659626 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ It's too late!  There they....
+L659625 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ The ruby slippers!  What have you done with them? Give them back to me, or I'll ---
+L659623 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ The slippers -- yes.....the slippers!
+L659622 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ ...ting the ruby slippers?
+L659618 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ You stay out of this! I'm here for vengeance! So it was you, was it? You killed her,....
+L659617 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Leave her alone!
+L659616 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Who killed my sister?  Who killed the Witch of the East? Was it you? Answer me!
+L660422 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ It did?
+L660421 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ ...excellence to the Miracle Wonderland Carnival Company -- until one day, while performing spectacular feats of stratospheric skill never before attempted by civilized man, an unfortunate phenomena occurred. The balloon failed to return to the fair.
+L660415 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Yes. Dorothy -- ah -- Dor --
+L660414 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Dorothy next!
+L660413 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Ah --
+L660412 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Yeah.
+L660384 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ You do? boys, you're aiming low. You not only surprise, but you grieve me.
+L660383 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Real courage. That's what we want.
+L660359 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Yeah!
+L660358 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ You humbug!
+L660299 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ This way!  Come on!
+L660298 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Where -- where do we go now?
+L660272 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Oh - I was only trying to help. Ohhh!
+L660271 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Stop pushing!
+L660260 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Do -- do you think it'll be polite -- dropping in like this?
+L660259 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Come on -- I've got another idea.
+L660248 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Now...
+L660247 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Up!
+L660240 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ All right, I'll go in there for Dorothy -- Wicked Witch or no Wicked Witch -- guards or no guards -- I'll tear 'em apart.  I may not come out alive, but I'm going in there.  There's only one thing I want you fellows to do.
+L660239 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ That's right.
+L660238 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ I -- I -- I -- I -- gotta get her outta there?
+L660237 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Yes, you.
+L660236 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Yeah. Me?
+L660235 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ And you're going to lead us.
+L660234 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Fine.  He's got a plan
+L660233 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ I've got a plan how to get in there.
+L660189 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Don't stand there talking!  Put me together! We've got to find Dorothy!
+L660188 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ They sure knocked the stuffings out of you, didn't they?
+L660083 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ What was that?
+L660082 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Here --   Come on.
+L660081 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ I -- Oh --
+L660080 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, you did it yourself!
+L660079 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Somebody pulled my tail.
+L660078 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ What happened?
+L660068 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ What's the matter?
+L660067 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Wait a minute, fellahs.  I was just thinkin'.  I really don't want to see the Wizard this much.  I better wait for you outside.
+L660062 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ I don't know.
+L660061 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Who at?
+L660060 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Would...would it do any good if I roared?
+L660045 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ I'd show him who was King of the Fores'!
+L660044 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ What if it were a brontosaurus?
+L659925 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Don't you start it, too!
+L659924 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Comin' to think of it, forty winks wouldn't be bad.
+L660379 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Not nohow!
+L660378 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ You don't get around us that easy!
+L660270 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Don't push!
+L660269 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ ...the door! Open the door! Open the door! Open the door! Open the door!
+L660263 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Yeah.
+L660262 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Where do we go now?
+L660246 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ You don't neither --
+L660245 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ No?  Now, wait a minute.
+L660227 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I hope your tail holds out. Oh --
+L660226 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ ...I -- I -- I hope my strength holds out.
+L660218 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Yeah --
+L660217 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ There. Now, that's the best we can do without any pins.
+L660192 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh, poor Dorothy. We may never see her again.
+L660191 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Wait a minute. This is the left one. He walks bad enough already.
+L660190 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Now, let' s see -- this goes -- Oh, I wish I were better at puzzles.
+L660172 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Whozat?
+L660171 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Whozat?
+L660170 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ It's a whatzis?
+L660169 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ It's a whatzis.
+L660154 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Hold still - hold still --
+L660153 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ What's that? What's that? Take it away - take it away - Take it away! 
+L660135 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ She - she can have my Witch Remover.
+L660134 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ From now on, we're on enemy ground. You should have something to protect yourself with.
+L660039 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Imposserous!
+L660038 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Not even a rhinoceros?
+L659920 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Dorothy! You can't sleep here! You can't sleep in the middle of a field!
+L659919 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Dorothy!
+L659877 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ That doesn't do any good -- I'm afraid of 'em.
+L659876 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Why don't you try counting sheep?
+L659875 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ I haven't slept in weeks.
+L659860 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Oh, scared, huh?
+L659859 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Here -- here. Go 'way and let us alone!
+L659858 +++$+++ u8954 +++$+++ m610 +++$+++ LION +++$+++ Sneaking up on me, eh?  Why! 
+L659456 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ NO!
+L659455 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Oh, she bit her dog, eh?
+L659454 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ No, her dog!
+L659453 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ You mean she bit you?
+L659452 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ What's she done?  I'm all but lame from the bite on my leg!
+L659451 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Dorothy?  Well, what has Dorothy done?
+L659450 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ ... about Dorothy.
+L659449 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ I want to see you and your wife right away....
+L659448 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Howdy, Miss Gulch.
+L659447 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ Mr. Gale!
+L660125 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ B-B-B-B-B-But if we do that, we'll have to kill her to get it!
+L660124 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ...of the West.
+L660105 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Ohhhhhh!
+L660104 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Quiet!
+L660103 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Ohhhh -- yes...yes, sir -- Y-Yes, your Honor.  You see, a while back, we were walking down the Yellow Brick Road, and --
+L660102 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ...junk!
+L660100 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Ohhhh -- it's me!
+L660099 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ...Tin Man!
+L660411 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Yes -- how about Dorothy?
+L660410 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Hey -- what about Dorothy?
+L660295 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Go on!
+L660294 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh - upstairs, quickly!
+L660257 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I don't know what we'd have done without you.
+L660256 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Yeah --
+L660255 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ You put up a great fight, Lion.
+L660254 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Whew! That wasn't my plan - but something happened, didn't it?
+L660244 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, no!
+L660243 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ No, you don't.
+L660231 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Don't cry now.  We haven't got the oil-can with us and you've been squeaking enough as it is.
+L660230 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh, I hate to think of her in there.  We've got to get her out. 
+L660224 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Come on, fellows!
+L660223 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh --
+L660222 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ ...to Dorothy!
+L660220 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ But how can we find her? We don't even know where she is. Look! There's....
+L660219 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, don't worry about me. I'm all right. We must worry about Dorothy.
+L660196 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ We'll get you together!
+L660195 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, dear, dear.
+L660194 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Now, now, don't fret.
+L660193 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Who do you suppose they were? And where did they take her? A fine thing - to go to pieces at a time like this!
+L660187 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Well, that's you all over.
+L660186 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ They tore my legs off, and they threw them over there! Then they took my chest out, and they threw it over there!
+L660185 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh!  Well, what happened to you?
+L660184 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Help! Help! Help! Help! Help!
+L660168 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ It's a whozis?
+L660167 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ It's a whozis.
+L660163 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I haven't got a heart But I got a palpitation.
+L660162 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, I think I see a jijik And he's fuzzy and he's furry I haven't got a brain But I think I ought to worry!
+L660142 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ You know something?
+L660141 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh - look out.
+L660140 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, did - did you see that?
+L660021 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I can fairly hear my heart beating!
+L660020 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Did you hear that?  He'll announce us at once!  I've as good as got my brain!
+L659984 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Ho -- ho --ho
+L659983 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Ha -- ha -- ha --
+L659934 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ It's no use screaming at a time like this! Nobody will hear you!  Help!
+L659933 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ It's the Wicked Witch!  What'll we do? Help!  HELP!
+L659932 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh, this is terrible -- can't budge her an inch!  This is a spell, this is!
+L659931 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Here, Tin Man -- help me.
+L659930 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh -- now look at him!  This is terrible!
+L659929 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Yes.
+L659928 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Let's.
+L659927 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ I don't think I could, but we could try.
+L659926 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh!  We ought to try and carry Dorothy.
+L659923 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Don't cry -- you'll rust yourself again!
+L659922 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh - oh, poor Dorothy!
+L659918 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Dorothy!
+L659917 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Hey, Dorothy!
+L659909 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Emerald City!
+L659908 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Look -- you can see it here.  It's wonderful!
+L659907 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Oh!  Oh, come on, come on!
+L659906 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Hurry -- hurry --
+L659905 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Come on -- come on --
+L659892 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ A heart --
+L659891 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Then I'm sure to get a brain --
+L659889 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ I'd be clever as a gizzard --
+L659888 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I'd be gentle as a lizard --
+L659837 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Some -- but mostly lions, and tigers, and bears.
+L659836 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Animals that -- that eat straw?
+L659829 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ To Oz!
+L659828 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ To Oz?
+L659827 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ We do.
+L659826 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ That's right.
+L659821 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ No, sir!
+L659820 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ No, sir!
+L659802 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ I'll see you reach the Wizard, whether I get a heart of not.  Bee-hive -- bah!  Let her try and make a bee-hive out of me! You know -- Hmm? What's that?
+L659801 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ I'm not afraid of her.  I'll see you get safely to the Wizard now, whether I get a brain or not!  Stuff a mattress with me! Hah!
+L659774 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ It's empty. The tinsmith forgot to give me a heart.
+L659773 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Beautiful!  What an echo!
+L660392 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Well, you can't.  As for you, my fine friend -- you're a victim of disorganized thinking.  You are under the unfortunate delusion that simply because you run away from danger, you have no courage.  You're confusing courage with wisdom.  Back where I come from, we have men who are called heroes.  Once a year, they take their fortitude out of mothballs and parade it down the main street of the city.  And they have no more courage than you have.  But! They have one thing that you haven't got! A medal!  Therefore -- for meritorious....
+L660391 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ How can I ever thank you enough?
+L660388 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ Th.D.?
+L660387 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Therefore, by virtue of the authority vested in me by the Universitatus Committeeatum e plurbis unum, I hereby confer upon you the honorary degree of Th.D.
+L660381 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ You promised us real things -- a real...
+L660380 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Well --
+L660373 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Well, I --
+L660372 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ -- And the courage that you promised Cowardly Lion?
+L660371 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Well, I --
+L660370 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ What about the heart that you promised Tin Man --?
+L660369 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Well, I --
+L660368 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ What about us?
+L660367 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Yes.
+L660366 +++$+++ u8959 +++$+++ m610 +++$+++ SCARECROW +++$+++ It makes you nervous?
+L660365 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Uh - now, please don't be angry with me. I'll - I'll do anything you say, only... only if you don't shout at me. It makes me nervous!
+L660436 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Help!
+L660435 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ -- Ruined my exit!
+L660434 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh!  Help me! The balloon's going up!
+L660433 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ This is a highly irregular procedure! This is absolutely unprecedented!
+L660432 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Stop that dog!
+L660398 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Yes -- ....
+L660397 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ But I still want one.
+L660396 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ As for you, my galvanized friend, you want a heart! You don't know how lucky you are not to have one. Hearts will never be practical until they can be made unbreakable. I could have been a world figure, a power among men, a - a successful wizard, had I not been obstructed by a heart.
+L663196 +++$+++ u8966 +++$+++ m611 +++$+++ CHRISTMAS +++$+++ So isn’t it time you unwrapped your present?
+L663195 +++$+++ u8965 +++$+++ m611 +++$+++ BOND +++$+++ I love Christmas in Turkey.

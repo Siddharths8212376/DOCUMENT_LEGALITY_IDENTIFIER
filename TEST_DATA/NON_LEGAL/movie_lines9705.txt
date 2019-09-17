@@ -1,0 +1,200 @@
+L140133 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's a mess.
+L140132 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What are you doing?
+L140131 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think so.
+L140130 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You better?
+L140129 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Adrenaline's wearing off.  You get shaky after.  It's not uncommon.  Deep breathing helps.
+L140128 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ What?
+L140127 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Try some deep breathing.
+L140124 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Okay, try it now.
+L140123 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm making <u>you</u> nervous.  I'm the one with a schedule.
+L140122 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The thingy next to it has nothing to do with the starter motor...
+L140121 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How about the thingy next to it?
+L140120 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I tried it.
+L140119 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What about that?
+L140118 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not me, it's the engine!  A fat guy fell on it from six floors up!
+L140117 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Two...
+L140116 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Try harder.  I'm gonna count to three. One...
+L140115 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yes!  I'm trying, I swear!
+L140114 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You listening to me?
+L140112 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not me.
+L140111 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max.
+L140110 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm trying...
+L140109 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max.  May we leave the scene of the crime now, please.
+L140107 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ ...and you promise you'll never tell anybody about this, right?  Get in the fucking car.
+L140106 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Uh, look...why don't you just take the car...
+L140103 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's a spasm!  Jesus, Max, don't be such a girl...
+L140102 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ His hand moved!  His goddamn hand twitched!
+L140101 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ What?
+L140100 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.
+L140099 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Got it?
+L140098 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ It's just a dead guy.  On three, ready?  Uno.  Dos.  Three.
+L140097 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't think I can do this.
+L140096 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'm gonna roll him off the hood. Always lift with your legs...
+L140095 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Did I stutter?  The trunk.  Unless you want him riding up front with you...but given hygiene and his sphincters have let go...
+L140094 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ The trunk?
+L140093 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You were going to drive me around. Drop me at LAX.  Never be the wiser. But El Gordo missed the elevator.  So we go to Plan B.  Pop the trunk.
+L140092 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ With what?
+L140091 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Good.  Help me out here.
+L140090 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm cool.
+L140089 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No.  You say you're cool.
+L140088 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You're cool.
+L140087 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You cool, Max?  Say "I'm cool."
+L140084 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No-no, I-I shot him.  The bullets and the fall killed him.
+L140083 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You - you killed him?
+L140082 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ No shit.  Since he has two .45s double- tapped through the sternum and fell six floors onto his head...
+L140081 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I think he's dead.
+L140080 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah, yeah.  Shit, man.  Guy fell on my motherfucking cab.
+L140079 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You always stutter?
+L140078 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ He fell on my cab!  From up th-th-there.
+L140075 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Max?  I'm Vincent.
+L140074 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Max.
+L140073 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ We have a deal.  What's your name?
+L140071 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ I'll make it an even five hundred. Plus an extra hundred if you get me to LAX on time.
+L140070 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Two, two-fifty.
+L140069 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Regulations?  These guys don't even give you sick leave.  How much you pull down on a good night?
+L140068 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I'm not a hire car.  It's against regs?
+L140067 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Bullshit.  You probably know the light schedules, too.  Listen, I'm in town tonight on a closing.  Five stops, one night.  I gotta catch a six a.m. flight.  I got five stops to make, see some friends, collect some signatures.  Why don't you hang with me?
+L140066 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.  Lucky with the lights.
+L140065 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Twenty-four minutes!  Man, you're hot...
+L140064 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ None taken.  There are talkers and doers.  I like doers.
+L140063 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I don't talk about it, you know...  No offense.
+L140062 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Like what?
+L140061 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Twelve years.  But I'm working on other stuff...
+L140060 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Oh?  How long you been doing this?
+L140059 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Last thing I need is a reason to keep hacking.  This job's a fill-in.
+L140058 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Why not?
+L140057 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Me, specifically?
+L140056 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You should start a union.
+L140055 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's not that kind of job.
+L140054 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Yeah.  Retirement?  Paid sick leave?
+L140053 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ You mean like benefits?
+L140052 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You on some kind of work plan?
+L140051 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ People are more relaxed.  Less stress, less traffic, better tips.
+L140050 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You prefer nights?
+L140049 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah.  I share it with the dayshift guy.
+L140048 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You know, this is the cleanest cab I've ever been in.  This your regular ride?
+L140047 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ I see your point.
+L140046 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ You share it with over three million people every day.  You know that's the population of New Zealand?  What's Manhattan, thirteen miles long? That's a lot of misery crammed into thirteen miles.  Read about this one guy.  Gets on the subway and dies.  Six hours he's riding around before anybody notices. Think about that.  Here's this corpse doing laps around Manhattan courtesy of the New York transit system, people getting on and off, sitting next to him, and still nobody catches on. Three million.  That's too damn many people.
+L140045 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ It's home.
+L140044 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Third, but I still can't tell uptown from downtown.  Tell the truth, whenever I'm here, I can't wait to leave.  Place gets to me.  Too loud, too fast...too much.  You like it here?
+L140043 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ First time in New York?
+L140042 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ An apology.
+L140041 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Mind if I time you?  What do I get if you're wrong?  A free ride?
+L140040 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Two minutes to get on Broadway. They're doing some roadwork around the bridge.  Eleven to get downtown.  Four to the Lower East Side.  Six to clear the roadwork.  One minute margin for error.  My math says twenty-four.
+L140039 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Twenty-four?  Not twenty-five?  Or twenty-three?
+L140038 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Twenty-four minutes.
+L140037 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ How long you think this'll take?
+L140032 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Yeah, yeah, sorry...
+L140031 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Uh, let's go to...  Hello...?
+L140030 +++$+++ u4584 +++$+++ m302 +++$+++ MAX +++$+++ Oh.  Sorry.
+L140029 +++$+++ u4587 +++$+++ m302 +++$+++ VINCENT +++$+++ Hello?
+L141873 +++$+++ u4589 +++$+++ m303 +++$+++ COP +++$+++ All I know is, they said to send you and the body to the basement.
+L141872 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Any special reason?
+L141871 +++$+++ u4589 +++$+++ m303 +++$+++ COP +++$+++ The F.B.I., the C.I.A.  You name the initials and they're down there.
+L141870 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Who?
+L141869 +++$+++ u4589 +++$+++ m303 +++$+++ COP +++$+++ They said send you downstairs.
+L141867 +++$+++ u4589 +++$+++ m303 +++$+++ COP +++$+++ Guy came in with a gunshot wound, but he died of a heart attack.  Go figure.
+L141866 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ What happened?
+L141732 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Just drop me off.
+L141731 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Look, I'm sorry --
+L141730 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Drop me off here!
+L141729 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I was only going one way.
+L141728 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ You turned up a one way street!
+L141727 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ The guy came right at us!
+L141726 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Are you crazy?!
+L141725 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I, uh, I have some problems.
+L141724 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Why the hell not?
+L141723 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I never told her.
+L141720 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I love her so bad.  She just... wrecks me.  I would die for her.
+L141719 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ She must be some girl.
+L141718 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Aren't you listening, man?  Love gives you wings.
+L141717 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ But you'll die.  You'll squash yourself.  What's the point?
+L141716 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Geronimo.  When you're really in love, you'll jump.  Off the top of the Empire State.  Screaming 'Geronimo' the whole way down.
+L141715 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Geronimo?
+L141714 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Love gives you wings.  It makes you fly.  I don't even call it love.  I call it Geronimo.
+L141713 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I live on tips, so don't be offended, but you're a liar.  I saw you kiss.  Admit it, this is the street where love lives.
+L141712 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Love?  Love's just a pretty way of saying, 'I want to sleep with you'.  Love is bullshit.
+L141711 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ That's love.
+L141710 +++$+++ u4590 +++$+++ m303 +++$+++ CYNIC +++$+++ Excuse me?
+L141709 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ The sound of love.
+L142523 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Shut the hell up.
+L142522 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Flip.  You're the closest thing I got to a friend around here.  Tell me something.  You think I'm crazy?
+L141996 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Sure was.  Pounded the V.C. for this Greek cat named Ari Onasis.
+L141995 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Flip was a hero in Vietnam.
+L141994 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Saved you last night's, too.
+L141993 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Sorry, Flip.  Got sidetracked.
+L141992 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ <u>Jerry</u>?  You didn't show last night.  First time ever.  Had me worried, boy.
+L141743 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I gotta go, Flip.  Thanks.
+L141742 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Sure.  And the two of 'em used my legs for a wishbone.  Nearly snapped me in half.
+L141741 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ You know, Flip, Vietnam War was fought because of a bet Howard Hughes lost to Aristotle Onasis.
+L141740 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Mekong, my friend, Mekong.
+L141739 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Mississippi?
+L141738 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ Tell you what.  Reminds me of life in the Delta.
+L141737 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Water mains usually go in the winter.  It's August 1st.
+L141736 +++$+++ u4591 +++$+++ m303 +++$+++ FLIP +++$+++ What're you thinking, Jerry?
+L142504 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Now she tells me.
+L142503 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ I love you, too.
+L142500 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Don't know, but he looks a lot more like Rosie O'Donnel than Ben Franklin.
+L142499 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You think it's a conspiracy?
+L142498 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ They changed Franklin's portrait.
+L142496 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Top pocket...  Go on.
+L142495 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You've been my best friend for years and I didn't even know you were out there.
+L142494 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I can't promise you anything.
+L142493 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Don't die on me, Jerry.  Okay?
+L142485 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Don't do this.
+L142484 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ It's up.  Love gives you wings. You can fly away from here.
+L142483 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Geronimo is down.
+L142480 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Get up there and we'll get it back down here for me.  <u>Now</u>.
+L142479 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ What about you?
+L142478 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Get in.  I'll pull you up to the fourth floor.
+L142476 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I spent two years here.  This used to bring the med-cart.  Demerol. Phenobarb.  It's Jacob's Ladder.
+L142475 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ How did you know?
+L142454 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Where are you?
+L142453 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Liza?
+L142452 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You knew just what I was there for.
+L142451 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Blue moon...
+L142450 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Without a love of my own.
+L142449 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Without a song in my heart.
+L142448 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You saw me standing alone ...
+L142447 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Blue moon...
+L142446 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Jerry...?  <u>Jerry</u>.
+L142445 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Blue moon... Blue moon...
+L142371 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ It's okay.  You...  You thought I was bad.
+L142370 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ I'm sorry.
+L142369 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ They'll trace it.
+L142368 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You got to get out of here.  My cell phone's on.  Back in the truck.
+L142367 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ You do?
+L142366 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ I believe you.
+L142364 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Your father, he was dying.  He was worried about you.  He took your picture out to look at it.  He called you his baby.
+L142363 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ How'd you get the picture?
+L142362 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Because he believed me.
+L142361 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ <u>Why not, Jerry</u>?
+L142360 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Why not?
+L142359 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Walters was their fall guy.  Blow up a building and blame a nut. Create fear.  Don't you see?  Your father wasn't trying to keep Walters in prison.  He was looking into getting him out.  He didn't believe the official story.
+L142358 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Why?  What do these guys have to do with Ezekiel Walters?
+L142357 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ He kept it in the side table in the front hallway.  He showed me.  I visited a few times.  Then one of Jonas's guys visited.  When I arrived, your dad was dying.
+L142356 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Someone else might call it stalking.  My dad felt it.  He started carrying a gun.
+L142355 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ To Jonas.  I didn't know that at the time.  Didn't know who he was.  But I knew inside, whoever he was, he'd send someone else.  So I started watching your father.  I wanted to keep him safe.
+L142354 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Back where?
+L142353 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ I don't know what it was.  All I know is I had a gun in my hand, but when I saw you standing with him, I couldn't do it.  If that's love, it's not so bad.  I found a part of myself that day. I couldn't go back.
+L142352 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Love at first sight?
+L142351 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Can't give you the details because I can't remember.  I went to court to kill him.  At the Ezekiel Walters hearing.  I was supposed to shoot him at the press conference.  You were there. That's the first time I saw you.
+L142350 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Then tell me what happened.
+L142349 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Yeah.  I know what it's like.
+L142348 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Jerry.  Please.  You don't understand.  I have to know.  It's all I think about.  Do you have any idea what it's like not to know?
+L142347 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ No...!  But they trained me to. M.K. ULTRA.  EX-CATCHER.  America works.  Get rid of the crazy people, the lone gunmen, and the system still works.
+L142346 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Did you kill my father?!
+L142345 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ That's the last time you rode, isn't it?  Do you think it was your fault?  Is that why?
+L142344 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ At a horse show.
+L142343 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Where were you the day he died?
+L142342 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ I don't understand.
+L142341 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ He gave it to me.
+L142340 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Then why did you have his picture in your safe deposit box?
+L142339 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Did you kill my father?
+L142338 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Is that what they told you?
+L142337 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ Did you kill him?
+L142336 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Liza?
+L142329 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ You go.  Send me a postcard.
+L142328 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ How do you really know there's gold in Fort Knox?  Just because they say so?  We should go to Tennessee and demand to see it.
+L142327 +++$+++ u4592 +++$+++ m303 +++$+++ JERRY +++$+++ Come on.
+L142326 +++$+++ u4595 +++$+++ m303 +++$+++ LIZA +++$+++ My father's house.

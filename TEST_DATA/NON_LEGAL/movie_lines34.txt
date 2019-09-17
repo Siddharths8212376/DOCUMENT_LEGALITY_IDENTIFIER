@@ -1,0 +1,200 @@
+L30704 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Are you Herr Mozart?
+L30703 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes?
+L31104 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ So let me see it. Where is it?
+L31103 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, we can.
+L31102 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Look, I asked you if we could start rehearsal next week and you said yes.
+L31101 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Because there's nothing to see.
+L31100 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Why not?
+L31099 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No.
+L31098 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Can I see it?
+L31097 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes.
+L31096 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ What? The vaudeville, what'd you think?
+L31095 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What?
+L31094 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Oh! I'm sorry! I'm sorry! What have you got for me? Is it finished?
+L31093 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Put it down, I said! It's nothing for you.
+L31092 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ What is this?
+L31091 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Put it down!
+L31090 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Wolfi!
+L31089 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Leave that alone!
+L31015 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ So there you are. What do you say?
+L31014 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No, no, I love that. I'd want it to be in German. I haven't done anything in German since Seraglio.
+L31013 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Of course! What else do you think they speak here?
+L31012 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ German!
+L31011 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ I'm serious. You write a proper part for me with a couple of catchy songs, I'll guarantee you'll have a triumph- de-luxe. Mind you, it'll have to be in German.
+L31010 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ I tell you I picked up a snake in Dresden last week - twelve foot long  - folds up to six inches, just like a paper fan. It's a miracle.
+L31009 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Animals?
+L31008 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ 'Course you would. You belong here, my boy, not the snobby Court. You could do anything you felt like here - the more fantastic the better! That's what people want, you know: fantasy. You do a big production, fill it with beautiful magic tricks and you'll be absolutely free to do anything you want. Of course, you'd have to put a fire in it, because I've got the best fire machine in the city and a big flood - I can do you the finest water effects you ever saw in your life. Oh, and a few trick animals. You'd have to use those.
+L31007 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I'd like to try them someday. I'm not sure I'd be much good at it.
+L31006 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Isn't he marvelous? He cost me a bundle, that horse, but he's worth it. I tell you, if you'd played Don Giovanni here it would have been a great success. I'm not joking. These people aren't fools. You could do something marvelous for them.
+L31005 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I liked the horse.
+L31004 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Yes, well, it's all good fun.
+L31003 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Wonderful!  He liked the monkey, didn't you?
+L30920 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ That kind of music should be punishable by death.
+L30919 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Sublime! Utterly sublime!
+L30918 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well?
+L30681 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Papa, the rule is you can only give penalties that can be performed in the room.
+L30680 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ What did he say? What did he say?
+L30496 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sssh! Stay here.
+L30495 +++$+++ u261 +++$+++ m16 +++$+++ SCHIKANEDER +++$+++ Stanzi-Manzi-Banzi-Wanzi!
+L30494 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sssh!
+L31043 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ My answer is no, Mozart.
+L31042 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Please. I'll give it back, I promise. Please, sir.
+L31041 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ I'm sorry. No.
+L31040 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No doubt, sir. But I am endowed with talent, and you with money. If I offer mine, you should offer yours.
+L31039 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Well, this is hardly the way to go about it.
+L31038 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ If a man cannot earn, he must borrow.
+L31037 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ What for?
+L31036 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well. Since it appears nobody is eager to hire my services, could you favour me with a little money instead?
+L31035 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ What is this, Mozart? What's the matter with you?
+L31034 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Really? Perhaps your dear wife might care to profit from my instruction?
+L31033 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Well, your pupil is married and living in Mannheim, young man.
+L31032 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Is my pupil still anxious to learn the art of music?
+L31031 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Herr Mozart. What a surprise. What can I do for you?
+L30615 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, I'm a good teacher. The next time you wish me to instruct another of your dogs, please let me know. Goodbye, Fraulein, goodbye, Madame! goodbye, Sir!
+L30614 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ It's a miracle, Herr Mozart!
+L30598 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, yes! on the whole. I suppose.  How long have you been playing, Fraulein?
+L30597 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Never mind, Strudel. It's part of music, getting used to an audience. Aren't I right, Herr Mozart?
+L30586 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Strudel, this is Herr Mozart. Say good morning.
+L30585 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Good morning, Fraulein Schlumberg.
+L30577 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Of course, it's him. Who do you think it is?
+L30576 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I'm afraid I am.
+L30572 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ This is Herr Mozart, my dear. The young man Herr Salieri recommended to teach our Gertrude. Where is she?
+L30571 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Madame.
+L30570 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ You won't be teaching this one either. She's my wife.
+L30568 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ What? Ha-ha! That's funny - I like it. Which one, eh? You're a funny fellow.  Hannah! Come this way.
+L30567 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ And which one of them do you want me to teach?
+L30566 +++$+++ u262 +++$+++ m16 +++$+++ SCHLUMBERG +++$+++ Quiet! Quiet! Quiet! Down there, damn you.  Welcome to you. Pay no attention, they're impossible. Stop it, you willful things! Come this way. Just ignore them. They're perfectly harmless, just willful. I treat them just like my own children.
+L31308 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I was foolish. I thought you did not care for my work - or me. Forgive me. Forgive me!
+L31307 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What for?
+L31306 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I am so ashamed.
+L31305 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I'm not leaving you.
+L31304 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Would you stay with me while I sleep a little?
+L31303 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I can keep going, I assure you. Shall we try?
+L31302 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ We'll stop for just a moment. Then we'll do the Lacrimosa.
+L31301 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Oh no. I'm not tired at all.
+L31300 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you want to rest a bit?
+L31299 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Then let me hear it. All of it. The whole thing from the beginning - now!
+L31298 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes.
+L31297 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you have it?
+L31296 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You go fast!
+L31295 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ And that's it. Do you have it?
+L31292 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes!
+L31291 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes, and on 'dictis'.
+L31290 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Sopranos up to F on the second 'Voca'?
+L31289 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ C Major. Sopranos and altos in thirds. Altos on C. Sopranos above.  Vo-ca, vo-ca me, vo-ca me cum be-ne- dic-tis.
+L31288 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes, yes - go on. The Voca Me. Suddenly sotto voce. Write that down: sotto voce, pianissimo. Voca me cum benedictis. Call me among the blessed.
+L31287 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ That's wonderful!
+L31285 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Show me.
+L31284 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I think so.
+L31283 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you have me?
+L31281 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh no. Now for the Fire.  Strings in unison - ostinato on all - like this.
+L31280 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ And that's all?
+L31279 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Exactly. The instruments to go with the voices. Trumpets and timpani, tonic and dominant.
+L31278 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Also identical?
+L31277 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ With the tenors.
+L31276 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ First bassoon and tenor trombone - what?
+L31275 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It couldn't be simpler.
+L31274 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Please! Just one moment.
+L31273 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Now the orchestra. Second bassoon and bass trombone with the basses. Identical notes and rhythm.  The first bassoon and tenor trombone -
+L31272 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Fourth measure, second beat - F.  Flam-mis a-cri-bus ad-dic-tis, flam- mis a-cri-bus ad-dic-tis.
+L31271 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes.
+L31270 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Good. Now the tenors. Fourth beat of the first measure - C.  Con-fu-ta-tis.  Second measure, fourth beat on D.  Ma-le-dic-tis.  All right?
+L31269 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sing it back.
+L31268 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I think so.
+L31267 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Third measure, second beat starting on E.  Flam-mis a-cri-bus ad-dic-tis.  And fourth measure, fourth beat - D.  Ma-le-dic-tis, flam-mis a-cri-bus ad- dic-tis.  Do you have that?
+L31266 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes.
+L31265 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Start with the voices. Basses first. Second beat of the first measure - A.  Con-fu-ta-tis.  Second measure, second beat.  Ma-le-dic-tis.  G-sharp, of course.
+L31264 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Common time.
+L31263 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What time?
+L31262 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ The Fire.
+L31261 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ So now - A minor. Suddenly.
+L31260 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes.
+L31259 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ We ended in F Major?
+L31258 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Confutatis Maledictis.
+L31257 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Come. Let's begin.
+L31256 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Strange!
+L31255 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Oh, yes.
+L31254 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ A fire which never dies. Burning one forever?
+L31253 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What?
+L31252 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you believe in it?
+L31251 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Consigned to flames of woe.
+L31250 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ So now the Confutatis. Confutatis Maledictis. When the wicked are confounded. Flammis acribus addictis. How would you translate that?
+L31249 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ The end of the Recordare - Statuens in parte dextra.
+L31248 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Where did I stop?
+L31238 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ A Mass. A Mass for the Dead.
+L31237 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Then, let us try together. I'd regard it as such an honour. Tell me, what is this work?
+L31236 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ You know, it's all here in my head. It's just ready to be set down. But when I'm dizzy like this my eyes won't focus. I can't write.
+L31235 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Of course.
+L31234 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But you'd have to swear not to tell a soul. I'm not allowed.
+L31233 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ My dear friend, it would be my greatest pleasure.
+L31232 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Would you? Actually, you could.
+L31231 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes. Can I - could I help you, in any way?
+L31230 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Another? But that's too soon! Tomorrow night? It's impossible! Did he say a hundred?
+L31211 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ He knows. He knows!
+L31210 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Finish what?
+L31209 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Wait! Ask him if he'd give me some money now. Tell him if he would, that would help me finish it.
+L31207 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What man?
+L31206 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ The man. He's here.
+L31205 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Who?
+L31204 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No! No, it's him!
+L31203 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Shall I answer it?
+L31202 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I'm too young to be so sick.
+L31201 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What?
+L31200 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ The doctor thinks I am. But -
+L31199 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Are you ill?
+L31198 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I have bad fancies. I don't sleep well anymore. Then I drink too much, and think stupid things.
+L31197 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I do.
+L31196 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you mean that?
+L31195 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Oh no. It is a sublime piece. The grandest operone. I tell you, you are the greatest composer known to me.
+L31194 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ This is only a vaudeville.
+L31193 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I would never miss anything that you had written. You must know that.
+L31192 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I mean to come to my opera. You are the only colleague who did.
+L31191 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ No, please.
+L31190 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ You're so good to me. Truly. Thank you.
+L31189 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You mean she's not coming back?
+L31188 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Not here! She's not well, either. She went to the Spa.
+L31187 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Where is your wife?
+L31183 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No, no. I have to get back. I have -
+L31182 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I'm taking you home. You're not well.
+L31181 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What happened? Is it over?
+L31134 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No, no! I promise you, I'll give you a wonderful piece - the best I ever can!
+L31133 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Are you neglecting my request?
+L31132 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I don't have it yet. It's not finished. I'm sorry, but I need more time.
+L31062 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Work fast. And be sure to tell no one what you do. You will see me again soon.
+L31061 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ How long will you give me?
+L31059 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ How much?
+L31058 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I am only a messenger. Do you accept? You will be paid well.
+L31057 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Who are you?
+L31056 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ A man who deserved a Requiem Mass and never got one.
+L31055 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What dead? Who is dead?
+L31054 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ A Mass for the dead.
+L31053 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What work?
+L31052 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I have come to commission work from you.
+L30929 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh no! One hears such sounds and what can one say, but - Salieri!
+L30928 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You flatter me.
+L30927 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I never knew that music like that was possible.
+L30926 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes?
+L30925 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ How could it not, Excellency?
+L30924 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Did my work please you?
+L30923 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ How could I not?
+L30922 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Mozart. It was good of you to come.
+L30915 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Grazie, a lei, Signor Antonio!
+L30914 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Grazie, mio caro, Wolfgang!
+L30913 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh no, the honour would be all mine.
+L30912 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I wouldn't presume. All the same, if it wouldn't be imposing, I would like you to see my new piece. It would be a tremendous honour for me.
+L30911 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I know, I know. Perhaps you should give me some lessons in that.
+L30910 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I think you overestimate our dear Viennese, my friend. Do you know you didn't even give them a good bang at the end of songs so they knew when to clap?
+L30909 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's the best opera yet written. I know it! Why didn't they come?
+L30908 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I think it's marvelous. Truly.
+L30907 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What did you think of it yourself? Did you like it at all?
+L30906 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Well, I can speak for the Emperor. You made too many demands on the royal ear. The poor man can't concentrate for more than an hour and you gave him four.
+L30905 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But what is it they don't like?
+L30904 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I know; it's outrageous. Still, if the public doesn't like one's work one has to accept the fact gracefully.
+L30903 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Nine performances! Nine! That's all it's had - and withdrawn.
+L30880 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Thank you! Oh, thank you.
+L30879 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ With all my heart, Mozart.
+L30878 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, Excellency, would you?
+L30877 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ But there are those who have power over him. I think I'll take this up with the Emperor.
+L30876 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's not fair that a man like that has power over our work.
+L30875 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ How fortunate.
+L30874 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh no! My wife took it out in time.

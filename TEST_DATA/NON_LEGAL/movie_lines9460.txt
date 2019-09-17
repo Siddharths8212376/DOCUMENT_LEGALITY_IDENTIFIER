@@ -1,0 +1,200 @@
+L603947 +++$+++ u3234 +++$+++ m214 +++$+++ KORUS +++$+++ And hungry, I'd say.  You had such a long journey.
+L603700 +++$+++ u3231 +++$+++ m214 +++$+++ DEAN FULTON +++$+++ Now you are upsetting my fowl. Please go.
+L603699 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ Yes, sir.
+L603698 +++$+++ u3231 +++$+++ m214 +++$+++ DEAN FULTON +++$+++ You supported his application, Dr. Philby.  You are his senior, advisor.  I depend upon you to restrain his... excesses.  Any repetition of the behavior I witnessed in his classroom today and there will be consequences for you both.
+L603697 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ If I might explain, sir --
+L603694 +++$+++ u3231 +++$+++ m214 +++$+++ DEAN FULTON +++$+++ Young man, we have a way of doing things here.  Radical theorizing is not acceptable.  Have I made myself understood?
+L603693 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ Sir, if I may --
+L603667 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ Dean Fulton...
+L603666 +++$+++ u3231 +++$+++ m214 +++$+++ DEAN FULTON +++$+++ My fowl have polluted the yard.
+L604038 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ Kalen, look at me.  There's no one here but us.  You see... I'm here, you're here, Alexander's here. There are no Morlocks.  It was just a dream...
+L604037 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ They're inside --
+L604036 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ No, you're safe --
+L604035 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ They're here!  They're inside the house -- !
+L604034 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ Kalen, it's all right, I'm here --
+L604004 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ You'll tell me more tomorrow?
+L604003 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ Kalen, right now you need to go up to bed.  You're exhausting Alexander.
+L604002 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ I want to see your home.  Will you take me?
+L603992 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ I am.  Are you a climber?
+L603991 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ We'll see about that.
+L603970 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ What's it like where you come from?
+L603969 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ What did you do at night?
+L603954 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ That's quite enough, Kalen.
+L603953 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ I found you.  I saved your life. You were bleeding all over the place!
+L603952 +++$+++ u3235 +++$+++ m214 +++$+++ MARA +++$+++ Kalen...
+L603951 +++$+++ u3233 +++$+++ m214 +++$+++ KALEN +++$+++ How did you get hurt?
+L604393 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ Goodnight, Mr. Philby.
+L604392 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ I have no doubt of that.  I'll come by in the morning and we'll arrange it.  Goodnight, Mrs. Watchit.
+L604391 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ I think I might be.  But there'll be some changes made.  I run a tight house.
+L604386 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ I'm glad he's gone.  Maybe he's finally found a place where he can be happy.
+L604385 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ Sir?
+L604382 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ No, sir.
+L604381 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ And you've no idea where he went?
+L604380 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ I don't know what to tell you, sir. He's been gone this whole week.
+L603747 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ For our sake, I hope not.
+L603746 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ I wonder if that poor girl has any idea what she's in for?
+L603721 +++$+++ u3237 +++$+++ m214 +++$+++ MRS. WATCHIT +++$+++ Must be all the exercise I get scampering up and down these stairs like a wee lamb.
+L603720 +++$+++ u3239 +++$+++ m214 +++$+++ PHILBY +++$+++ Hello, Mrs. Watchit.  You're looking in the pink.
+L583651 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Well, what are we gonna do about it now?
+L583650 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ We never should have done this to him...
+L583649 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Don't get all worked up, Justin. I expected some common sense on your part and clearly I was expecting too much. [Beat] Just open the drawer.
+L583518 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ But the Jacket? I mean...should we be leaving him in like that?
+L583517 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Should we be what? Trying to change him any way we can? [Beat] Yes.
+L583516 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ Should we be...
+L583515 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ What about Starks?
+L583514 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ But... what about Starks?
+L583513 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Then don't.
+L583512 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ [Beat] Listen, I hate to bother you...
+L583511 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I'm fine.
+L583510 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ You ok?
+L584055 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No. [Beat] You put me on drugs and then you put me in the Jacket.
+L584054 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I didn't put you in Alpine Grove.
+L584053 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm in it as we speak. [Beat] You're haunting yourself right now. [Beat] I guess sometimes we indict ourselves if no one else does. You didn't make history like you wanted to, huh, Dr. Becker. It turned out different, didn't it?
+L584052 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I don't understand...
+L584051 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You just told me. The last time I was with you was when I was in the Jacket. I'm in it right now, Dr. Becker.
+L584050 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ How did you come to know their names?
+L584046 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No, we were patients.
+L584045 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ The three of you weren't regular patients. You were criminals that ended up at Alpine Grove.
+L584044 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ So, what, you guinea pig sick people to find out?
+L584043 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ It was part of the treatment I intended...I didn't know what the effects would be...
+L584042 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Medication? What kind of meds do you chase with nights in a cadaver drawer?
+L584041 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Of people like you. People I was just trying to help. They couldn't get worse so I thought, with medication, they might get...
+L584040 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Because...because you came out and said something you couldn't have possibly have known. You came back and repeated three names...
+L584039 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ How?
+L584038 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I know. [Beat] I knew that when you came out.
+L584037 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I didn't say I remembered killing him. I just repeated some words to get myself back in there.
+L584036 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I don't know how you died. The last time I put you in the Jacket was just after you told me you remembered killing that police officer...
+L584035 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I didn't kill myself. I died from a blow to the head. How'd it happen? I have to know.
+L584034 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ No. I didn't. I swear I didn't. I probably helped push you to kill yourself, but I didn't do it.
+L584033 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I know. [Beat] You killed me, didn't you?
+L584032 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ You died, Starks. Years ago, in the hospital.
+L584031 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ How...how are you here?
+L584030 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ No. I'm not his son. I'm him. [Beat] What? You look like you've seen a ghost. You can come here and touch me, old man. I'm the real thing.
+L584029 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ [Beat] You're his son?
+L584028 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I think you know. Your eyes say you do.
+L584027 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Who are you?
+L583983 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ You in here. [Beat] Works like a drug.
+L583982 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Becker, how do you sleep at night?
+L583981 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Means we believe in doing his work and fear what the world would be like if we didn't at least try to.
+L583980 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ And what does that mean?
+L583979 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I've managed to every Sunday of my life. [Beat] Some of us are God- fearing men, Starks.
+L583978 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You sure you know where to find one?
+L583977 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I'll say a prayer for you in Church today, Starks. Maybe the Gods can pick up where the medicine left off.
+L583972 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ You killed him?
+L583971 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Getting away with things. Like whatever I may or may not have gotten away with Officer Harrison.
+L583970 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Yes.
+L583969 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ My business?
+L583968 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ And what's that?
+L583966 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Temporarily.
+L583965 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ They make it hard for you to get away with your business, huh?
+L583964 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ It is. But when it comes down to it, you just have to patient with them. They'd rather have their vacation, too, so they just push dealing with our "practices" off to the New Year.
+L583963 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ That's too bad.
+L583962 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Hello, William. I understand you've been asking for me almost every hour. I would've been here sooner but you gave our little state visitor quite a bit to talk to me about.
+L583773 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Sit down, Mr. Starks! Sit down, Mr. Starks!
+L583772 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Long live the Organization for the Organized!
+L583696 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Maybe not. [Beat] But I do think you're in a tree... woofing like a dog. And I'm just trying to help you the only way I can think of.
+L583695 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ We are not birds of a feather.
+L583692 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I wasn't pausing to see if you did. [Beat] But, incidentally, you should, because you're birds of a feather.
+L583691 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I don't give a shit about your patient!
+L583690 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I had a patient a few years ago. His name was Ted Casey...
+L583689 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I didn't dream it. I may have been asleep but it wasn't a dream. BECKER sits down in a CHAIR, half-shrouded in the light.
+L583688 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Don't give me that. I know what's real, goddamnit! You strapped me in something and stuck me in a drawer.
+L583687 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ You're just suffering from delusions that are unfortunately part of your condition.
+L583686 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ [Pointedly] Of course you're not.
+L583685 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Don't act like I don't know what's real. [Beat] I'm not the one that's crazy here.
+L583684 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Relax.
+L583683 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Actually, that's exactly what our equipment is.
+L583682 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ That wasn't a fucking restraint.
+L583681 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ We were forced to use restrains if that's what you're referring to.
+L583680 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Uncertainly] In that thing...the Jacket.
+L583679 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ In where?
+L583678 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I don't know better. All I know is that you left me in there.
+L583658 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Then how would you describe him, Beth? Merely rebellious?
+L583657 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Are you kidding me? He's not psychotic!
+L583656 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ He's recovering on the third floor.
+L583466 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ It's not my job to believe you.
+L583465 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] You don't believe me, do you?
+L583464 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ You said you couldn't remember killing Officer Harrison. Correct?
+L583463 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Depends on what you're seeing.
+L583462 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ I'm just looking at you. Does that make you uncomfortable?
+L583461 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] So they say. [Off Becker's steady gaze] What?
+L583460 +++$+++ u3243 +++$+++ m215 +++$+++ BECKER +++$+++ Well, your condition's pretty serious.
+L583890 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ I never touched your father! I swear!
+L583889 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ He died because he bled to death from a blow to his head. Someone had to have given him it.
+L583888 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ I don't know what you're talking about, man. I swear. This is some weird shit you're telling me... and I don't know how come you're doing it.
+L583887 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I didn't. [Beat] Did you have anything to do with his death?
+L583886 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ I thought you said you never knew your father.
+L583885 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ That's too bad.
+L583884 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ Look here, I don't like you getting in my face and saying this bullshit to me...
+L583882 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ Oh yeah, what'd he say?
+L583881 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ My father used to talk about you.
+L583878 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ Oh yeah, sure. He killed a cop, right?
+L583877 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Did you know my father?
+L583876 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ He didn't either.
+L583875 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ That's right! Goddamn, you're the spitting image. I didn't know he had a son.
+L583874 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You may have known my father, William Starks.
+L583873 +++$+++ u3244 +++$+++ m215 +++$+++ DAMON +++$+++ Do I know you from somewhere?
+L583749 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ Later. I'll tell you about it later. We got a session to catch now.
+L583748 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ Where? [Beat] It's Becker isn't it? He's doing stuff, isn't he?
+L583747 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ They should just be looking harder.
+L583746 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ What should they be looking for?
+L583745 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ They don't care about all the things we do right. [Beat] But they might ...they might care about what we're doing wrong. [Beat] That's what they should come here to look for.
+L583744 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ It's the ticking of a box on a sheet of paper no one cares about.
+L583743 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ Maybe it's not such a waste.
+L583742 +++$+++ u3250 +++$+++ m215 +++$+++ LORENSON +++$+++ I wish they'd skip the formality of this annual review and just cut our budget. Our silence on the matter should be enough to appease the civic conscience without wasting an hour we don't have.
+L583741 +++$+++ u3245 +++$+++ m215 +++$+++ DR. GRIES +++$+++ We're late.
+L584139 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Yes. [Beat] It has. Everything up 'till today is done. Everything starting with tomorrow is up for grabs.
+L584138 +++$+++ u3246 +++$+++ m215 +++$+++ DR. LORENSON +++$+++ No, it hasn't.
+L584137 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ And I can't stay here in my condition. I am going to die tonight. It's already been decided.
+L584136 +++$+++ u3246 +++$+++ m215 +++$+++ DR. LORENSON +++$+++ I can't take you out of here in your condition...
+L584135 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I need to get this letter to someone.
+L584134 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] Thank you.
+L584133 +++$+++ u3246 +++$+++ m215 +++$+++ DR. LORENSON +++$+++ [Beat] What do you need me to do?
+L584132 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ This is really happening, isn't it?
+L583499 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Good.
+L583498 +++$+++ u3246 +++$+++ m215 +++$+++ DR. LORENSON +++$+++ Sure.
+L583497 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You done with your small talk?
+L583496 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I am. One of the few things I remember doing is eating. So I guess I must be exercising it off in my dreams.
+L583495 +++$+++ u3246 +++$+++ m215 +++$+++ DR. LORENSON +++$+++ You look like you've lost some weight. Are you eating?
+L583814 +++$+++ u3247 +++$+++ m215 +++$+++ DR. MORGAN +++$+++ Unfortunately, I'm not familiar with Dr. Becker and Dr. Gries passed away three, four years ago.
+L583813 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ What about Dr. Becker and Mr. Gries?
+L583812 +++$+++ u3247 +++$+++ m215 +++$+++ DR. MORGAN +++$+++ Well, Dr. Lorenson is still here at the hospital. If she was here at the time your father was, then I'm sure she'd be of more help to you.
+L583811 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ What about Dr. Thomas Becker or Dr. Loel Lorenson? There was also a Dr. Gries, I think.
+L583810 +++$+++ u3247 +++$+++ m215 +++$+++ DR. MORGAN +++$+++ No, I don't. I'm sorry. I wish I knew more.
+L583809 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ His body was found on January 1, 1993, but do you know if that was long after he had died?
+L583808 +++$+++ u3247 +++$+++ m215 +++$+++ DR. MORGAN +++$+++ I'm sorry I can't tell you more about your father's death, Mr. Starks. Our own medical examiners determined only that he died from a blunt trauma to the head but that was right around the time the Alpine Grove's staff changed and I'm afraid we didn't have the best record system before then.
+L584162 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ Just do it.
+L584161 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Why?
+L584160 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ Jackie, go play in the snow.
+L584157 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ Oh, yeah.
+L584156 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Mom, this is the guy that drove us home that afternoon we were stuck on the highway. The guy you yelled at for no good reason...
+L584155 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ I'm sorry? Your face looks awfully familiar, I just can't quite place it...
+L583430 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ Jackie, get in the car. NOW!
+L583429 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Mom, he just fixed our car.
+L583428 +++$+++ u3249 +++$+++ m215 +++$+++ JEAN +++$+++ Get your fucking hands off my daughter!
+L584194 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I'm doing fine.
+L584193 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ How you doin'?
+L584185 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I fell down. [Beat] But I'm alive.
+L584184 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ It's ok. It's ok. Relax. It's just a cut. We can get it fixed. But we need to get you to the hospital now. How'd you get that?
+L584183 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ You're bleeding pretty bad there.
+L584182 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ I think so.
+L584171 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Ok.
+L584170 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ [Beat] You be good to yourself, Jackie.
+L584150 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Ok, I guess.
+L584149 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Good. How's your mom?
+L584148 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ I've been ok.
+L584089 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Nowhere. [Beat] I just think I'm gonna be sick.
+L584088 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Then, where are you going?
+L584087 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ You gotta stop thinking like that.
+L584086 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ 112 Orchard Way. [Realizing, in a whisper] You're not coming back, are you?
+L584085 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ When we first met, when you were 7, where was the house you lived in with your mother? Do you remember your address?
+L584084 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ What?
+L584071 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Ok. Ssh. Rest.
+L584070 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Lorenson's the only one that could let me out of there. I need something to persuade her that I was there. Get me something to take to her.
+L584068 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Because your body can only take so much of what they're putting you through.
+L584067 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ What's happening to me? Why am I getting so much weaker?
+L584065 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ To the hospital.
+L584064 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ Where are we going?
+L584063 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ Why are you saying that? [Beat] We don't have long, do we?
+L584062 +++$+++ u3252 +++$+++ m215 +++$+++ STARKS +++$+++ If everything hadn't happened the way it has, then I wouldn't be here right now, sitting in a car with you, touching your face.
+L584059 +++$+++ u3248 +++$+++ m215 +++$+++ JACKIE +++$+++ What? How can you say that? He's the one that put you in that goddamn medieval...Jacket. He's probably the one who killed you.

@@ -1,0 +1,200 @@
+L253710 +++$+++ u1186 +++$+++ m78 +++$+++ CLERK +++$+++ Madam Grusinskaya -- at once --
+L253222 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ Mr. Preysing -- one sixty-four.
+L253221 +++$+++ u1186 +++$+++ m78 +++$+++ CLERK +++$+++ The stenographer is to go up -- Mr. Preysing telephoned.
+L253161 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ If a young woman, a stenographer, -- etc.
+L253160 +++$+++ u1186 +++$+++ m78 +++$+++ CLERK +++$+++ No -- letters to two-eighty.
+L253159 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ For me?
+L253128 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ Madam Grusinskaya's car is not to be brought.
+L253127 +++$+++ u1186 +++$+++ m78 +++$+++ CLERK +++$+++ No -- Madam Grusinskaya's car is not to be brought.
+L253126 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ For me?
+L253118 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ Madam Grusinskaya's car is to be brought.
+L253117 +++$+++ u1186 +++$+++ m78 +++$+++ CLERK +++$+++ No -- Madam Grusinskaya's car is to be brought. 
+L253116 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ Is that for me?
+L253706 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ No, doctor.
+L253705 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Any letters?
+L253167 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ Nobody, Doctor.
+L253166 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Anyone asked for me?
+L253165 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ No, Doctor.
+L253164 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Telegrams?
+L253163 +++$+++ u1198 +++$+++ m78 +++$+++ SENF +++$+++ No, Doctor.
+L253162 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Any letters?
+L254045 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ No.
+L254044 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ You've nothing to fear, Kringelein
+L254036 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ No -- I must find it --  Fourteen thousand two hundred marks. 
+L254035 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Stay where you are.
+L254034 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, I've got to find it.
+L254032 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Fourteen thousand marks... One can travel -- one's happiness might depend on fourteen thousand marks -- don't you think so, Baron?
+L254031 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ More than fourteen thousand marks... were in that pocketbook.
+L254030 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ There is no pocketbook here... On the floor probably. 
+L254024 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I'd like to live a little longer but -- I'm not afraid to die -- I'm not...
+L254023 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Try and sleep, Kringelein, don't be afraid.
+L254022 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Over -- over so soon -- it has just begun.  Oh, the pain.
+L253984 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ I'll take the bank -- All right, gentlemen.
+L253983 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Excuse me, gentlemen.
+L253825 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ I was sent as a military surgeon to South Africa. Stinking climate. Taken prisoner. Home on parole not to fight. I was a surgeon in the Great War till the end. Grenade in the face. Carried diphtheria bacilli in the wound until 1920. Isolated two years.  I've been everything.
+L253824 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Everything?
+L253823 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ I'm always alone -- I have been everything.
+L253822 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Haven't you anyone -- Haven't you anybody -- you -- I mean -- Are you all alone in the world.
+L253821 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ You must learn as quickly as your time allows -- Believe me Mr. Kringelein, a man who isn't with a woman is a dead man.
+L253820 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I had a very good opportunity, a young lady asked me to dance -- I ought to be able to dance, it seems to be very important.
+L253819 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ A masculine paradise -- drink, the ladies, dancing...
+L253818 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ What, Doctor?
+L253817 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Well, Mr. Kringelein, are you getting what you're looking for?
+L253785 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ For me? -- Oh, please, something sweet and cold.
+L253784 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Barman -- whiskey --  For you, Mr. Kringelein?
+L253722 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Pain? Oh, no, Doctor. I think if I had pain I'd be too happy to notice it...
+L253721 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ No pain, Mr. Kringelein?
+L253717 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes, thanks to the Baron. The best shops, the very best. Look, Doctor, silk -- feels so nice on the skin... a London hat, see -- made in England, that's silk, too -- fifty marks... Look, the price is on it. That was half my salary before. The Baron is a very fine gentleman -- no one in my life has been so nice to me as the Baron.
+L253716 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Life is changing you, Mr. Kringelein.
+L253546 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ But Doctor --
+L253545 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Life! -- Mr. Kringelein, you are drunk -- good night. 
+L253544 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, but Doctor. The music -- the champagne -- girls when they dance -- all the shining ice in those big silver things -- That's life --
+L253543 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ The Grand Hotel.
+L253542 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, but Doctor. Isn't this wonderful. To live -- to live -- in the Grand Hotel.
+L253343 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ I have nothing better to do, Mr. Kringelein.
+L253342 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ You will stay, Doctor -- if you have nothing better to do?
+L253205 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes -- Oh -- oh -- yes, -- 
+L253204 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ I know -- I know -- when a man's collar is an inch too big for him -- I know he is ill.
+L253191 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ You are ill.
+L253190 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes -- yes -- I am tired. I have been ill...
+L253189 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ You're tired. I can see that.
+L253188 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh -- but -- I --
+L253187 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ Send his bags up to my room.
+L253186 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh!
+L253185 +++$+++ u1187 +++$+++ m78 +++$+++ DOCTOR +++$+++ This gentleman can have my room.
+L253184 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I came here from a long distance to stay at the Grand Hotel. I want a room -- a big room -- like you would give General Director Preysing -- I'm as good as Mr. Preysing -- I can pay like Mr. Preysing -- would you give him a little room, way up in the corner with the hot water pipes going -- bang -- bang -- bang... 
+L254213 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, there must be one in Paris... They have everything in Paris.
+L254212 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ How do you know there is a Grand Hotel?
+L254209 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Is the bill ready -- the lady's too?
+L254208 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Am I!
+L254175 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're a good man, Mr. Kringelein -- a very good man.
+L254174 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Do you like me better?
+L254173 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh yes, of course.
+L254172 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Do you believe that you will have a better time with me than you would with Preysing?
+L254171 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Nonsense! We'll find a great doctor, he'll cure you. They can cure anything these days.
+L254170 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ When I -- I'm ill, Flaemmchen -- It will not be long -- I'll not last long. Will you stay with me until...
+L254169 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Later?
+L254168 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Wherever you like. Here I'll give you the money I won, three thousand four hundred. Later you can have more.
+L254167 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Yes -- to Paris? I wanted to go there always.
+L254166 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ You'll have a good time with me. Want to? I've got enough money. Ten thousand two hundred in my pocketbook. Three thousand four hundred that I won. It will last a long time. I can win more -- we'll travel.
+L254165 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ What?
+L254164 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Of course I do -- I never knew what money really meant till I started spending it. Do you know --  I can hardly believe that anything so beautiful should come to me from Preysing -- I'll take care of you. Will -- will you let me?
+L254163 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You don't understand that do you?
+L254162 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes, of course, -- money!
+L254161 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Money!
+L254160 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Then why did you have anything to do with him?
+L254159 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I didn't like Preysing right off.
+L254158 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ He was in desperate straits. He'd been trying to raise money all day. He laughed -- Poor devil! And then a man like Preysing kills him.
+L254157 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Perhaps he really was a burglar -- But they don't kill a man for that.
+L254156 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ So did I. He was friendly to me as no man ever was.
+L254155 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Yes --
+L254154 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ You loved the Baron, didn't you?
+L254153 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- I was thinking -- Poor Baron -- Lying there, his eyes so open.
+L254152 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ What's the matter?
+L254096 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Preysing?
+L254095 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Quick -- something awful -- awful has happened. Go -- go at once, -- Mr. Preysing --
+L254094 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh -- oh, Miss Flaemmchen. It's you --
+L254093 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh -- what -- what -- 
+L254092 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Quick -- Mr. Kringelein.
+L253882 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ You don't like to see me enjoying myself.
+L253881 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Please -- please!
+L253871 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ For the first time in my life, I'm happy.
+L253870 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Really?
+L253869 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I'm happy, Miss Flaemm.
+L253868 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You dance splendidly.
+L253867 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I never danced before -- in public.
+L253866 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're trembling.
+L253865 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes.
+L253864 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You must look at my face and not at the floor.
+L253809 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ She's beautiful -- isn't she?
+L253808 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Dance then? 
+L253799 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- you would!
+L253798 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I don't know -- I'd like to do anything --
+L253797 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ A man might what?
+L253796 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes -- it's stimulating -- a man might --
+L253795 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You like music?
+L253794 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes -- that --
+L253793 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ No - absinthe.
+L253792 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, thank you, Miss Flaemm. Oh, please, Miss Flaemm -- Permit me, Miss Flaemm, won't you have something sweet -- a Louisiana flip.  A Louisiana flip.
+L253791 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Mr. Kringelein -- How you have changed, you look so nice.
+L253790 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I'm waiting for him here. The Baron and I have been together all day. A hundred miles an hour -- in a motor car -- and in an aeroplane -- It was marvelous --
+L253789 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Good evening, Mr. Kringelein -- Where's the Baron?
+L253336 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ To take dictation -- a Mr. Preysing --  Goodbye, you -- tomorrow at five o'clock. 
+L253335 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, can anyone engage you for the evening?
+L253334 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I'm engaged for the evening.
+L253333 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh, don't go.
+L253332 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Her master's voice!  I must go now -- goodbye -- thanks.
+L253330 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Have you seen the bathroom? -- Hot and cold running water -- You see, I can get a bath whenever I like.
+L253329 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Silk -- think of that -- silk -- they are, too.
+L253328 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I'm sure this beautiful room must appeal to your taste -- distinctive, don't you think? Velvet upholstery -- 'A-number one'. I'm in the textile trade and I know.  And these are real silk drapes.
+L253327 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Yes -- and for me, it's going to leave at any minute. Let's drink.
+L253326 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You are funny. You speak of life as if it were a train you wanted to catch.
+L253325 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ You may laugh. Caviar and champagne may mean nothing to you, but to me -- they mean a great deal. You see, I'm ill and all of a sudden I got a fear of missing life. I don't want to miss life -- do you understand?
+L253275 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Have caviar if you like, but it tastes like herring to me.
+L253274 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Waiter, oh waiter! Wait a minute!  We are having caviar -- it's expensive but that makes no difference -- I see the Baroness is laughing.
+L253273 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ If I could trouble the Baron to come and see this beautiful room. I have ordered champagne. Perhaps the Baroness could join us.
+L254072 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ It's not funny at all. One can't get intimate just off hand. I could go to England with you and everything like that -- supposing I met you next year and I said: 'How do you do, Mr. Preysing! And you said:  'That was the young lady who was my secretary in Manchester'.
+L254071 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ You're a funny little creature, Flaemmchen. I can't make you out.
+L254070 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I couldn't do that, you're a stranger to me.
+L254069 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Why not?
+L254068 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh, no.
+L254067 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Call me -- do you know -- would you -- would you like to call me by my first name?
+L254066 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- careful, Mr. Preysing.
+L254065 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Here, hold up!
+L254064 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Come here. 
+L254063 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You think so?
+L254062 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ You're sweet.
+L254061 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I had to arrange about the trip.
+L254060 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ You are late. I've been waiting for you -- waiting.
+L253919 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Well, he's a gentleman!
+L253918 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Baron!
+L253917 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You mean Baron von Gaigern?
+L253916 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Insolent young cub!
+L253915 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh, yes.
+L253914 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Can you pay some attention to me?
+L253912 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ It's agreed -- I will get a room here for you.
+L253911 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ A thousand marks -- 
+L253910 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Of course -- of course. 
+L253909 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Wait -- I must figure it up.  First, I'll need -- clothes -- shoes -- it's cold in England in March, I'll need a suit... You'd want me to look nice?
+L253908 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ What do you think your salary would be -- for such a trip?
+L253907 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I understand perfectly.
+L253906 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ You see, I'd like to take a secretary with me for my correspondence and -- humm -- humm -- for company on the trip -- I'm nervous -- I need somebody -- I don't know if you quite understand me. You said you have travelled with gentlemen -- and I mean --
+L253905 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Well?
+L253904 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ I must go to England -- at once.
+L253903 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Well?
+L253902 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Yes.
+L253901 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Well -- you want me?
+L253900 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ I'm going to keep an eye on that Kringelein fellow. I'll find out where he gets the money to hang around the Grand Hotel.
+L253899 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Nothing.
+L253898 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Sit here.  Cognac -- for you?
+L253897 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh, yes, Mr. Preysing?
+L253858 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ I'll remember you, Mr. Kringelein.
+L253857 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Now, children, no fighting -- save that for the office. Let's have our dance. 
+L253853 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Do you gentlemen know each other, Mr. Kringelein -- Mr. Preysing -- Baron von Gaigern.
+L253852 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ No -- now.
+L253851 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Tomorrow morning.
+L253850 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ I must speak to you, Miss Flaemm -- business.
+L253849 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Come and dance with me, Mr. Kringelein.
+L253843 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ It's urgent.
+L253842 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Presently, Mr. Preysing.
+L253841 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ I must speak with you, Miss Flaemm.
+L253840 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Hello!
+L253839 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Miss Flaemm.
+L253418 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ That'll be all -- be here tomorrow at nine o'clock. 
+L253417 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- too bad. Did you quarrel? 
+L253416 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Definitely off.
+L253415 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Is that Mrs. Preysing.
+L253414 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ My daughters -- yes, my daughters. 
+L253413 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ How nice -- your daughters?
+L253407 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ ...weight into the balance...
+L253406 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Should throw a great weight into the balance...
+L253405 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Cotton Company --
+L253404 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Have you got it now?
+L253403 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I understand you perfectly.
+L253402 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Can't you understand me?
+L253401 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're a little too fast.
+L253400 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ What?
+L253399 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Not too quickly.
+L253398 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ Moreover, the possibility of the successful termination of negotiations now pending with the Manchester Cotton Company...
+L253397 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ No.
+L253396 +++$+++ u1195 +++$+++ m78 +++$+++ PREYSING +++$+++ With the same friend?

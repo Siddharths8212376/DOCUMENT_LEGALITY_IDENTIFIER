@@ -1,0 +1,200 @@
+L10873 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ Don't worry, we've got everything.
+L10872 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Look, Marshal, with those deep crevasses, you'll need some rope and ladders...
+L10871 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ Very well. First of all, I'll have them search the waters around the island. I brought two frogmen with me... Meanwhile, we'll take a look up around here.
+L10870 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Unfortunately, no.
+L10869 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ Anything new develop?
+L11195 +++$+++ u3541 +++$+++ m233 +++$+++ MIDWIFE +++$+++ Don't mention it... Pleased to be of service any time.
+L11194 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Thank you.
+L11193 +++$+++ u3541 +++$+++ m233 +++$+++ MIDWIFE +++$+++ There's the Trinacria Hotel... or the Regina, near the municipal building. As for rooming houses, I don't know...
+L11192 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Then you should also be able to tell me where a young girl might stay in Noto; are there any hotels or rooming houses?
+L11187 +++$+++ u3541 +++$+++ m233 +++$+++ MIDWIFE +++$+++ Well...probably at the last stop, which is Noto.
+L11186 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And do you remember where she got off?
+L11185 +++$+++ u3541 +++$+++ m233 +++$+++ MIDWIFE +++$+++ I only exchanged a few casual words with her, as one would ordinarily do on a public bus...
+L10862 +++$+++ u3542 +++$+++ m233 +++$+++ OLD MAN +++$+++ Early? Is four in the morning early for you?
+L10861 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And how come you're up so early?
+L10860 +++$+++ u3542 +++$+++ m233 +++$+++ OLD MAN +++$+++ At this time of the year there are so many boats...
+L10859 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Just a moment ago... didn't you hear the sound of a motor?
+L10858 +++$+++ u3542 +++$+++ m233 +++$+++ OLD MAN +++$+++ What boat?
+L10857 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Whose boat is that?
+L10835 +++$+++ u3542 +++$+++ m233 +++$+++ OLD MAN +++$+++ From Panarea. Why?
+L10834 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ But where did you come from?
+L10833 +++$+++ u3542 +++$+++ m233 +++$+++ OLD MAN +++$+++ No. The owners are in Australia.
+L10832 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Are you the owner of this place?
+L11287 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Yes, even I had a mother. She was part Austrian, but she was still my mother. My childhood was like a tennis match; they bounced me back and forth, here and there...
+L11286 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Your mother?
+L11283 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Oh, no, not at all. And then you know very well that he'll forgive you anything; just as long as you admit to him that you're a worse driver than he is...
+L11282 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Ettore must be fed up with me by now.
+L11281 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ You should have told Ettore. He always manages to get what he wants.
+L11280 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ They didn't seem too good.
+L11279 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Did you manage to find good rooms?
+L11278 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Yes, we will.
+L11277 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ And here's Sandro.  Why don't you two go upstairs and change?
+L10954 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Good. Then I'll meet you there.
+L10953 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ We've decided to go to Montaldo's place. In fact, Ettore should already be there.
+L10952 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I'll go and get my valise.
+L10951 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ What do you want us to do? I don't know myself... But we'll do something.
+L10950 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Patrizia, what are you going to do?
+L10881 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ I don't see why I should mind.
+L10880 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Listen, Patrizia... The Marshal says there's a current that passes by here and ends up at another island... I don't know which... He wants to send one of his men over to have a look... One never knows... Do you mind if I ask Raimondo to go with him?
+L10807 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ But you have to  consider all possibilities, Sandro.
+L10806 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Anna is an excellent swimmer. Even with a cramp, she would have managed to reach shore somehow.
+L10805 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Perhaps she wasn't feeling well... Maybe a cramp or something...
+L10960 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Claudia isn't coming with us. Will you please take care of her luggage? Thanks.
+L10959 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ Here I am, Patrizia. I'm always here.
+L10785 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Take it easy, Raimondo. Why are you getting so impatient?
+L10784 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ You've made some mistake there with the bushes... that's why you can't finish it.
+L10728 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ I know, dammit, I know!  And just think -- if there ever was a woman so right, so perfectly cut out for all kinds of dissipations, degradations, infidelities... of.. . of... of debaucheries, it's her. Well, anyway, she's faithful. Faithful out of laziness... of unwillingness.
+L10727 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ You know, I don't love anybody.
+L10726 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ Patrizia, don't start in again... I would rather be called depraved. Unless you happen to love children.
+L10722 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ If women's breasts were colored, yours would be blue...
+L10721 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Now, tell the truth, aren't you a bit disappointed?... But I already told you...
+L10660 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ I detest it. But, after all, what can you do... It's the latest...and I try my best to adapt myself.
+L10659 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Raimondo... Do you enjoy fishing underwater?
+L10656 +++$+++ u3544 +++$+++ m233 +++$+++ RAIMONDO +++$+++ Lady Patrizia!
+L10655 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Why have we stopped?
+L11105 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Then let's call it a business proposition. Something to round out your salary.
+L11104 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Pardon me, but why must I do you a favor?
+L11103 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ You really must do me this one favor.
+L11102 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Yes, but why do you think our readers would be interested in such news now? Even if I sent it, the editors wouldn't print it.
+L11101 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Yes... of course... But you should also print that in your paper... But right away, tomorrow morning... It's the local Palermo paper, isn't it?... I mean, it's widely read...
+L11100 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ About fifty miles or so. If you want, I'll give you the name of the storekeeper.
+L11099 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Is that far from here?
+L11098 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Who knows?... Another one has it that she entered a store in Troina. This information comes from the storekeeper himself who stated that such and such a girl had bought I don't know what in his store... at Troina.
+L11097 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Is that possible?
+L11096 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ As a matter of fact, I've already had several phone calls on that article. One said they had seen the missing girl in an automobile somewhere in Rome. Another one said they saw her on the pier talking with some strange sailors... Could be she secretly left the island by boat...
+L11095 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Now listen, if I had any information, I wouldn't have come here to ask you. But I see that you, too, lack any information ...
+L11094 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Oh... I'm sorry I have to rush but I've got to write a story about this thing that just happened... Tell me exactly how it all turned out.
+L11093 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I read one of your articles regarding the disappearance of a girl. I'm that girl's fianc‚.
+L11092 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ No, I'm not. Why do you think she does all this? It's one of the many ways she can put herself on display. When you bait the trap, the mouse will snap. To tell you the truth,  if it wasn't for the fact that one hundred thousand lire represents my whole month's salary, well... But you had something you wanted to ask me?
+L11091 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ You're kidding!
+L11090 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ She costs a hundred thousand lire.
+L11075 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Wait a moment. Can't you see I'm busy?
+L11074 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I would like to ask you something.
+L11073 +++$+++ u3548 +++$+++ m233 +++$+++ ZURIA +++$+++ Yes. Until proven otherwise.
+L11072 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Zuria?
+L14291 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That was the beginning, the night of the conception. That's why she burnt the sheets.
+L14290 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I don't know... I don't know...
+L14289 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ For what?
+L14288 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I don't know. I don't know what happened Mother, I woke up... there was blood on the sheets, but I don't know what happened.  I don't know what I did wrong, I don't know and I should be punished.
+L14287 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Should you see a doctor?
+L14286 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It's not my time of month.
+L14285 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ What do you mean?
+L14284 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It's not that... it's not that...
+L14283 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ A few years ago one of the Sisters came to me in tears, asking for comfort, comfort because she was too old to have any children. Not that she wanted to, but once a month she had been reminded of that possibility.
+L14281 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Say it!
+L14280 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes, Mother.
+L14279 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ How many times have I burned into your thick skull and the thick skull of your fellow novice, that menstruation is a perfectly natural process and nothing to be ashamed of.
+L14278 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ They were stained.
+L14277 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why?
+L14276 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I burnt them.
+L14275 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Then tell me. Where are your sheets?
+L14274 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No.
+L14273 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ It made them uncomfortable. And if they didn't sleep well I'm certain the next day they were cranky as mules. Sister where are your sheets?  Do you really believe that sleeping on a bare mattress is the equivalent of sleeping in a coffin?
+L14272 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It made them holy.
+L14271 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ We're not in the Middle Ages, Sister.
+L14270 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ In the medieval days the nuns and monks would sleep in their own coffins.
+L14269 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why?
+L14268 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes Mother.
+L14267 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Sister Marguerite says you have been sleeping on a bare mattress Sister. Is that true?
+L14117 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Dear Jesus...
+L14116 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I don't know.
+L14115 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why?
+L14114 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I'm being punished.
+L14113 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes, of God.
+L14112 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Of God.
+L14111 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ My dear, I don't think a communion wafer has the recommended daily allowance of anything.
+L14110 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No I don't... the host is enough.
+L14109 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ You've got to eat something Agnes.
+L14108 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I'm not hungry.
+L14107 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Nonsense, I'm your mother now and I want you to eat.
+L14106 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ But she watches... she listens.
+L14105 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Your mother tells you this?... Agnes your mother is dead.
+L14104 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Mommy I'll get bigger and bigger every day and then I'll pop but... but if I stay little it won't happen.
+L14103 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who?
+L14102 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ God blew up the Hindenburg. He'll blow me up, that's what she said...
+L14101 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh my dear child.
+L14100 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No... I mean... I mean look at these. I've got to lose weight, I'm a blimp.
+L14099 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Agnes dear, Heaven is not a place where...
+L14098 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I... I am a little child but my body keeps getting bigger and soon I... I won't be able to fit in, I... I won't be able to squeeze into Heaven.
+L14097 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That's not what he meant.
+L14096 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Christ said it in the Bible, he said - suffer the little children, I want to suffer like a little child.
+L14095 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who tells you these things?
+L14094 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ That's because they're suffering... suffering is beautiful, I want to be beautiful.
+L14093 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Agnes...
+L14092 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Look at the statues, they're thin.
+L14091 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why?
+L14090 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It's a sin to be fat.
+L14089 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who told you this?
+L14088 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No he doesn't. He hates fat people.
+L14087 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ He loves you the way you are.
+L14086 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I do, I have to be attractive to God.
+L14085 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ ... You needn't worry about being attractive here.
+L14084 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Because...
+L14083 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why does it matter whether you're fat or not...
+L14082 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I'm a blimp.
+L14081 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Agnes...
+L14080 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I am, there's too much flesh on me.
+L14079 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh, for Heaven's sake.
+L14078 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Because I'm getting fat.
+L14077 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who?
+L14076 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No.
+L14075 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ One of the other Sisters?
+L14074 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ She'd punish me.
+L14073 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why?
+L14072 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I can't say.
+L14071 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who?
+L14070 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14069 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Through someone else?
+L14068 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No.
+L14067 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ He talked to you Himself?
+L14066 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Agnes, it has come to my attention that you have stopped eating. Why is this? AGNES  I've been commanded by God.
+L14755 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I tied the cord around her neck... wrapped her in the bloody sheets... and stuffed her in the trash can.
+L14754 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ H... how?
+L14753 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I put her to sleep.
+L14752 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What did you do?
+L14751 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ She... left me alone with that little thing, and I looked at it, and I thought this is a mistake. But it's my mistake, not Mommy's. God's mistake.
+L14750 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ And then... what did she do?  Agnes what did she do?
+L14749 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14748 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You saw it all didn't you?
+L14747 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14746 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ She took the baby in her arms?
+L14745 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14744 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Mother Miriam was with you wasn't she?
+L14740 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I don't remember.
+L14739 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ It was alive wasn't it?
+L14738 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It was dead.
+L14733 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes you won't burn in hell. It's alright to hate him.
+L14732 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ God!  It was God.  And now I'll burn in hell because I hate him.
+L14731 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes, who did this to you?
+L14730 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I hate him.
+L14729 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who?
+L14728 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ For what he made me go through.
+L14727 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Yes.
+L14726 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I hate him for what he did to me.
+L14725 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Of course you do. Who was it?
+L14724 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ I hate him...
+L14723 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes who did you see?
+L14722 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Not your fault...
+L14721 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ He frightened you and he hurt you. It's not your fault. It's his fault. Tell us who he is so we can find him. Stop him from doing this to other women.
+L14720 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ No...
+L14719 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes it had nothing to do with the hand of God. He did a terrible thing to you, do you understand?
+L14718 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Stay away from me...
+L14717 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes... Agnes...
+L14716 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ It's bleeding... I'm bleeding... my God it won't stop, I can't get it to stop.  Let go of me, I wish you were dead.
+L14707 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14706 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Are you frightened?
+L14703 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14702 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ So she sent you?
+L14701 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ From the belltower the day she before she died.
+L14700 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Where?
+L14699 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ She'd seen him too.
+L14698 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ How did she know about him?
+L14697 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Him.
+L14696 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who?
+L14695 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ So I could go to him.
+L14694 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Why?
+L14693 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ Yes.
+L14692 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ And the passage to the barn?
+L14691 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ The statue. She had shown it to me the day before.
+L14690 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What did she mean?
+L14689 +++$+++ u3549 +++$+++ m234 +++$+++ AGNES +++$+++ She said Michael.

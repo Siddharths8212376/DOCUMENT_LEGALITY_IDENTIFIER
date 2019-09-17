@@ -1,0 +1,200 @@
+L27169 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ I'm going to need you to co-sign the report.  Until we come up with something, this'll be treated as first degree murder.
+L27154 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Hold on...
+L27153 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ I've found Ackland!
+L27152 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Check out the tent.
+L27151 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Yeah.  Somebody won.
+L27100 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ There'd have to be a helluva good reason for him not to.
+L27099 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Do you think Ackland'll sit tight?
+L27098 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Don't worry about it.  If the Network goes by the book, like everyone figures they will, a Marine gunboat from Powell'll drop-by for a look- see in four-or-five days.  They can go poke around out there and find whatever it was hit us.  All we've gotta do is sit tight.
+L27096 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Sure.  Do me good to stretch my legs.
+L27095 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ 'We'?  You wanna fly out there with me?
+L27094 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ First light, we'll take a chopper out there and tell them to head back.
+L27093 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Nothing.  With the satellite down, we can't transmit over the mountain range. He's most likely sitting there wondering why he can't raise us.
+L27092 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Any luck raising Ackland's party?
+L27090 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Want some?
+L27089 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Seltzer?
+L27088 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Real man' drink.
+L27087 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ What is that?
+L27085 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Just curious.  There's a lot of talk goes around.
+L27084 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ What is this?  'Twenty Questions'?
+L27083 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Only six?
+L27082 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Six month stint on Datus.
+L27081 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ And before that?
+L27080 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Four.
+L27079 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ How long you been out here for now, anyway?  Three months?
+L27078 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ Uh-huh.  Used to get it pretty bad.  I'd wake up in a cold sweat and want to claw open a vacuum hatch.
+L27077 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Is that a fact.
+L27076 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ I'm serious.  That's why I switched from orbiting to planetary installations.
+L27075 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ No, not really.  More sort of the  'claustrophobic' type.
+L27074 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Not too much of the socializing type, then?
+L27073 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ I've got a lot of thinking to do.  'Sides, the room was getting too crowded for me.
+L27072 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Didn't feel like whoopin' it up with the rest of us blue collars, huh?
+L27071 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ I just... wanted to be put on my own for a while.  Clear my head.
+L27070 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Hey, boss.  Wondered where you'd gotten to.
+L27035 +++$+++ u3593 +++$+++ m237 +++$+++ HIROKO +++$+++ We haven't used Big Bertha since we relocated the generator module. That was four months ago.  I can't ask for them to keep bringing spares in on the shuttle, it's already costing too much as it is.
+L27034 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ See that sheathing on the suspension? Eaten away.  Same thing with the pumps on the base air purifiers.  The algae out here just isn't good on these new plastics.
+L27310 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ You got it, cowboy.
+L27309 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Give me a yell is something happens.
+L27308 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ 'Bout five minutes.
+L27307 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ What time's sundown?
+L27306 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Nah, I'll stick it out for another hour or so.
+L27305 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ You should hit the sack, too.
+L27304 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Today's party's finished their sweep, the relief team's out there now. Everybody else is either asleep or running shift in the auto-shop.
+L27303 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Yeah, 'Good Evening' to you, too.
+L27302 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ How's it going?
+L27020 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Tactical nukes, maybe?
+L27019 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Yeah, exactly.  Those're pre-programmed course adjustments you're looking at.
+L27018 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Jesus.
+L27000 +++$+++ u3594 +++$+++ m237 +++$+++ KAMEN +++$+++ Camped out by the navi-beacon out on Linson's Range.  They're making their own way back tomorrow.
+L26999 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Where'd you leave them?
+L29036 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Why not? Tell me, Phoebe, do you want some day to have an award like that of your own?
+L29035 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ I call myself Phoebe.
+L29034 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Phoebe?
+L29033 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Phoebe.
+L29032 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And what is your name?
+L29031 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ It's a very famous name, Mr. deWitt.
+L29030 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ How do you know my name?
+L29029 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We won't disturb her rest. It seems she left her award in the taxicab. Will you give it to her?
+L29028 +++$+++ u3603 +++$+++ m238 +++$+++ GIRL +++$+++ Miss Harrington's resting, Mr. deWitt. She asked me to see who it is...
+L29027 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Hello, there. Who are you?
+L28993 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Very well. I shall drop you and go on to the party. I have no intention of missing it...
+L28992 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm tired. I want to go home.
+L28991 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You're being childish.
+L28990 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Exactly.  Here. Take it to the party instead of me.
+L28989 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It's the same thing, isn't it?
+L28988 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No, it's not.  It's for this.
+L28987 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Max has gone to a great deal of trouble, it's going to be an elaborate party, and it's for you.
+L28986 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Because I don't want to.
+L28985 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Why not?
+L28984 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't think I'm going.
+L28983 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You can have one at Max's.
+L28982 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't suppose there's a drink left...
+L28962 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Couldn't go on? You'll give the performance of your life.
+L28961 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I won't play tonight.  I couldn't. Not possibly. I couldn't go on...
+L28960 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Take your nap, now. And good luck for tonight.
+L28959 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes, Addison.
+L28958 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And you realize - you agree how completely you belong to me?
+L28957 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes, Addison.
+L28956 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Then say so.
+L28953 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I had lunch with Karen not three hours ago. As always with women who want to find out things, she told more than she learned...  ... do you want to change your story about Lloyd beating at your door the other night?
+L28952 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ No-no-no...
+L28951 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You used my name and my column to blackmail Karen into getting you the part of "Cora" - and you lied to me about it!
+L28950 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I was there, I saw you and heard you through the dressing room door!
+L28949 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's not true!
+L28948 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She did like you, she helped and trusted you! You paid her back by trying to take Bill away!
+L28947 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I had to get in, to meet Margo! I had to say something, be somebody, make her like me!
+L28945 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Answer my question! Weren't you paid to get out of town?
+L28944 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She was a liar, she was a liar!
+L28942 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ But the $500 you got to get out of town brought you straight to New York - didn't it?
+L28941 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She never proved anything, not a thing!
+L28940 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A matter of opinion. Granted. It is also true that you worked in a brewery. But life in the brewery was apparently not as dull as you pictured it. As a matter of fact, it got less and less dull - until you boss's wife had your boss followed by detectives!
+L28939 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What of it?
+L28938 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It is true that your parents were poor. They still are. And they would like to know how you are - and where. They haven't heard from you for three years...
+L28937 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What of it?
+L28936 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Your name is not Eve Harrington. It is Gertrude Slescynski.
+L28933 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Then if you won't get out, I'll have you thrown out.
+L28932 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You're too short for that gesture. Besides, it went out with Mrs. Fiske.
+L28929 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ ... taken it for granted? That you and I...
+L28928 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ So does the history of the world for the past twenty years. I don't enjoy putting it as bluntly as this, frankly I had hoped that you would, somehow, have known - have taken it for granted that you and I...
+L28927 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Belong - to you? That sound medieval - something out of an old melodrama...
+L28926 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A dull cliche.
+L28925 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I can't believe my ears...
+L28924 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Everything. Because after tonight, you will belong to me.
+L28923 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What have you got to do with it?
+L28922 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ More plainly and more distinctly? I Have not come to New Haven to see the play, discuss your dreams, or to pull the ivy from the walls of Yale! I have come to tell you that you will not marry Lloyd - or anyone else - because I will not permit it.
+L28921 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What do you mean by that?
+L28920 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Very well, plainly and distinctly. Although I consider it unnecessary - because you know as well as I, what I am about to say.  Lloyd may leave Karen, but he will not leave Karen for you.
+L28919 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, will you please say what you have to say plainly and distinctly - and then get out so I can take my nap!
+L28918 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Not with me, you're no champion. You're stepping way up in class.
+L28917 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Champion to champion.
+L28916 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - it's important right now that we talk. Killer to killer.
+L28915 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I still don't know what you're getting at. Right now I want to take my nap. It's important that I-
+L28914 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Yes, you did. You still do.
+L28913 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I never intended you to be.
+L28912 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Look closely, Eve, it's time you did. I am Addison deWitt. I'm nobody's fool. Least of all - yours.
+L28911 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm sure you mean something by that, Addison, but I don't know what...
+L28910 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It is possible - even conceivable - that you've confused me with that gang of backward children you've been playing tricks on - that you have the same contempt for me that you have for them?
+L28909 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't know what I take you for anything...
+L28908 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ What do you take me for?
+L28907 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Well, say something - anything! Congratulations, skol - good work, Eve!
+L28906 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ There never was, there'll never be another like you.
+L28905 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ We sat and talked, Addison. I want a run of the play contract.
+L28904 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You sat and talked until it was light...
+L28903 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ The setting wasn't romantic, but Lloyd was. He woke me up at three in the morning, banging on my door - he couldn't sleep, he told me - he's left Karen, he couldn't go on with the play or anything else until I promised to marry him... we sat and talked until it was light. He never went home...
+L28902 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Was the setting properly romantic - the lights on dimmers, gypsy violins off stage?
+L28901 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ We decided the night before last, before we came up here...
+L28900 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I see. And when was this unholy alliance joined?
+L28897 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ She doesn't know.
+L28896 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ ... and Karen.
+L28895 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, won't it be just perfect? Lloyd and I - there's no telling how far we can go... he'll write great plays for me, I'll make them be great!  You're the only one I've told, the only one that knows except Lloyd and me...
+L28894 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - and artistically, the most promising! Eve dear, this is Addison.
+L28893 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You have no right to say such things!
+L28892 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Lloyd Richards is commercially the most successful playwright in America-
+L28891 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm in love with Lloyd!
+L28890 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I know nothing about Lloyd and his loves - I leave those to Louisa May Alcott. But I do know you.
+L28889 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It's nothing of the kind! Lloyd loves me, I love him!
+L28888 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ So that's it. Lloyd. Still just the Theater, after all...
+L28886 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ What else?
+L28885 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I didn't mean just the Theater.
+L28884 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - something about an old road ending and a new one starting - paved with stars...
+L28883 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison, just a few minutes ago. When I told you this would be a night to remember - that it would bring me everything I wanted-
+L28882 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She's always been so fantastically devoted to Lloyd. I would imagine that only death or destruction could keep her-
+L28881 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Addison...
+L28879 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Lloyd and I.
+L28878 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ We're?
+L28877 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's for tonight. You're invited. We're having everyone up after the performance.
+L28876 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Some plain soda.  Lloyd must be expecting a record run in New Haven...
+L28875 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Lloyd. I never have any, and he likes a couple of drinks after we finish - so he sent it up...
+L28874 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Also with the reluctant compliments of Max Fabian.
+L28873 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Max is paying for it. He and Lloyd had a terrific row but Lloyd insisted... well. Can I fix you a drink?
+L28872 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Suites are for expense accounts. Aren't you being extravagant?
+L28870 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Did I say killer? I meant champion. I get my boxing terms mixed.
+L28869 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why'd call me a killer?
+L28868 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ The mark of a true killer.  Sleep tight, rest easy - and come out fighting...
+L28867 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Why not?
+L28866 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ You could sleep, too, couldn't you?
+L28865 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Plenty of time for a nice long nap - we rehearsed most of last night...
+L28864 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Almost four.
+L28863 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What time?
+L28862 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Stars.
+L28861 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Paved with what, then?
+L28860 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You know me better than that.
+L28859 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ All paved with diamonds and gold?
+L28858 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ It'll be a night to remember. It'll bring to me everything I've ever wanted. The end of an old road - and the beginning of a new one...
+L28857 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Frankly - yes.
+L28856 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Aren't you?
+L28855 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Are you that sure of tomorrow?
+L28854 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Stop rehearsing your column... Isn't it strange, Addison? I thought I'd be panic-stricken, want to run away or something. Instead, I can't wait for tonight to come. To come and go...
+L28853 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And tomorrow morning you will have won your beachhead on the shores of Immortality...
+L28852 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just like it.
+L28851 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ D-day.
+L28850 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ What a day - what a heavenly day...
+L28784 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I hope you mean what you say, Eve. I intend to hold you to it.
+L28783 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I confide in you and rely on you more than anyone I've ever known! To say a thing like that now - without any reason - when I need you more than ever...
+L28782 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ It wasn't meant to be.
+L28781 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I don't think that's funny.
+L28780 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Do you know, Eve - sometimes I think you keep things from me.
+L28779 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just like that.
+L28778 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Just like that, eh?
+L28777 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Oddly enough - she didn't say a word about Margo. Just that she'll be happy to do what she can to see that I play the part.
+L28776 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ She mentioned, of course, that Margo expects to play the part?
+L28775 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I discussed it very openly. I told her that I had spoken to Lloyd - and that he was interested.
+L28774 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Heart to heart? Woman to woman? Including a casual reference to the part of "Cora" - and your hopes of playing it.
+L28773 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Nothing of the kind. Karen and I had a nice talk.
+L28772 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I'm not surprised. After all that humble pie...
+L28771 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Just some coffee.
+L28770 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Hungry?
+L28602 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I believe I will.
+L28601 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ You take charge.
+L28600 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ I can wait. Where would you like to go? We'll make this a special night...
+L28599 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm about to go into the shower, I won't be able to hear you...
+L28598 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ Eddie what?
+L28597 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Eddie...
+L28596 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ A fine old theater, the Shubert. Full of tradition, untouched by the earthquake - so sorry - fire... by the way, what was your husband's name?
+L28595 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes. The Shubert.
+L28594 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ And that memorable night when Margo first dazzled you from the stage - which theater was it in San Francisco? Was it - the Shubert?
+L28593 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ Yes. I do.
+L28592 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ San Francisco. An oasis of civilization in the California desert. Tell me, do you share my high opinion of San Francisco?
+L28591 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ That's right.
+L28590 +++$+++ u3599 +++$+++ m238 +++$+++ ADDISON +++$+++ - perhaps more than one. There's so much I want to know. I've heard your story in bits and pieces... your home in Wisconsin, your tragic marriage, your financial attachment to Margo - it started in San Francisco, didn't it?  I say - your idolatry of Margo started in San Francisco, didn't it?
+L28589 +++$+++ u3602 +++$+++ m238 +++$+++ EVE +++$+++ I'm not enough for a paragraph.

@@ -1,0 +1,200 @@
+L536167 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Bearing 327, range 600 nautical.
+L536166 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Bearing!
+L536053 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Mercy Hospital.
+L536052 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Uhura!... Where!
+L536051 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ I've found Chekov, sir: he's in emergency surgery right now.
+L536012 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Uhura, you did what was necessary.  Keep trying. You'll find him...
+L536011 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Nothing... I should never have left him...
+L536010 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Any luck...?
+L535660 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Everyone remember where we parked.
+L535659 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ 283 degrees... 15.2 kilometers...
+L535658 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ We'll stick together till we get orientated. Bearing to the whales?
+L535651 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Right.  Now look: I want you all to be very careful. This is terra incognita. Many customs will doubtless take us by surprise. It's a forgone conclusion these people have never seen an extra-terrestrial before.
+L535650 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ I'll have bearing and distance for you, sir.
+L535625 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ From a city? That doesn't make sense....
+L535624 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Individual whale song getting stronger... This is strange, Admiral. The song is directly ahead. It's coming from San Francisco.
+L535618 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ On speakers.
+L535617 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Admiral, I am receiving whale songs.
+L535525 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Yes, sir.
+L535524 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Then, this is what it would sound like underwater?
+L535510 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ On screen!
+L535509 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Overlapping distress calls. Some from Starships... others...
+L535508 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ What is it?
+L535454 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Mr. Sulu?
+L535453 +++$+++ u2970 +++$+++ m194 +++$+++ UHURA +++$+++ Communications Systems ready. Communications Officer -- ready as she'll ever be.
+L535452 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Systems report.  Communications?
+L536297 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Scotty, don't prejudge. A ship is a ship.
+L536296 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Excelsior? Why in God's name would you want that bucket of bolts?
+L536263 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Admiral, you'll be trapped!
+L536262 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Go on ahead... Close the hatch!
+L536261 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ It's under water! There's no way to reach it...
+L536260 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ The explosive override -- ?
+L536259 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ No power to the bay doors.
+L536258 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ The whales...?!
+L536222 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ On my way...!
+L536221 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ You better get up there, sir. We're having some power fall-off...
+L536214 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ The beasties seem happy to see you, Doctor. I hope you like our little aquarium.
+L536213 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Ironic. When man was killing these creatures, he was destroying his own future...
+L536203 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Mr. Sulu, if you please.
+L536202 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Full power, sir.
+L536201 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Mr. Scott, don't make jokes, we are in danger of -
+L536200 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Stand by, sir. Miracle worker at work...
+L536197 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Don't take too long. We're sitting ducks for their radar systems...  Mr. Sulu, impulse climb.
+L536196 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I'll have to re-energize.
+L536195 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Well done, Mr. Scott. How soon can we be ready for warp speed?
+L536194 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Admiral! There be whales here!
+L536193 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ 10 seconds, Admiral; 5 - 4 - 3 - 2 - 1.
+L536192 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ How long, Scotty?
+L536191 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Stay with me, sir -- I need more power curve...
+L536150 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Aye. But I've never beamed up 400 tons before.
+L536149 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Scotty: Are the whale tanks secure?
+L536132 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Mr. Sulu?
+L536131 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I'm ready Spock. Let's go find George and Gracie...
+L536016 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I'll try, sir. Scott out.  Well now, he's got himself in a bit of a snit, don't he.
+L536015 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Not good enough, Scotty. You've got to do better!
+L536014 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ It's going slow, sir. It'll be well into tomorrow.
+L535922 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Oh I see --  Tell Them phasers on stun. Good luck. Kirk out.
+L535921 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Sorry, Admiral. We just thought you'll like to know, we're beaming them now.
+L535920 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ What is it? I thought I told you never to call me --
+L535634 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Sorry, sir. We can't even do that in the 23rd Century.
+L535633 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ I can't believe we've come this far only to be stopped by this!  Scotty, is there any way dilithium can be re-crystallized?
+L535632 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Oh, twenty-four hours, give or take, staying cloaked. After that, Admiral, we'll be visible -- and dead in the water. In any case, we won't have enough to break out of the Earth's gravity, to say nothing of getting back home.
+L535631 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Give me a round figure, Mr. Scott.
+L535630 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ They're giving out. De-crystallizing.
+L535563 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ It takes two to tango, Mr. Scott.
+L535562 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Two?
+L535561 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ You'll work it out, Scotty. And remember: two of them.
+L535560 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Admiral - how am I going to handle all that weight?
+L535559 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Whales, Scotty. 45 to 50 feet long; about 40 tons a piece.
+L535558 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Humpbacked - people.?
+L535557 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Scotty, we have to find some Humpbacks.
+L535555 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I suppose I can, sir; are you planning to take a swim?
+L535554 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ That should be enough. Can you enclose it to hold water?
+L535553 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ About 60 feet, Admiral.
+L535552 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Scotty, how long is this bay?
+L535462 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Appreciated by all, Mr. Scott.  Prepare for departure.
+L535461 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ We're ready, sir. I've converted the Dilithium Sequencer to something less primitive. And Admiral -- I've replaced the Klingon Food Packs. They was givin' me sour stomach.
+L535414 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Give me one more day, sir. The damage control is easy. Reading Klingon is hard.
+L535413 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Mr. Scott, how soon can we get underway?
+L535464 +++$+++ u2963 +++$+++ m194 +++$+++ SAAVIK +++$+++ Yes, Admiral.  Sir. I have not had the opportunity to tell you about your son.  David died most bravely. He saved Spock. He saved us all... I thought you should know.
+L535463 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Well, Saavik. I guess this is goodbye.
+L535423 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ You will be in good hands here.
+L535422 +++$+++ u2963 +++$+++ m194 +++$+++ SAAVIK +++$+++ I am well, Admiral.
+L535421 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Don't concern yourself, Saavik. Your leave has been granted for good and proper cause.  How are you feeling?
+L535420 +++$+++ u2963 +++$+++ m194 +++$+++ SAAVIK +++$+++ And... Here is a deposition I have made. If it is not sufficient, I will return to Earth to testify.
+L535419 +++$+++ u2958 +++$+++ m194 +++$+++ KIRK +++$+++ Thank you, Lt. Saavik.
+L535418 +++$+++ u2963 +++$+++ m194 +++$+++ SAAVIK +++$+++ Admiral, I'd like to continue my work on the ship until you leave.
+L535398 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ Do you have the right to murder?
+L535397 +++$+++ u2959 +++$+++ m194 +++$+++ KLINGON AMBASSADOR +++$+++ We deny nothing! We have the right to preserve our race!
+L535396 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ Your vessel did destroy U.S.S. Grissom. Your men did kill Kirk's son. Do you deny these events?
+L535395 +++$+++ u2959 +++$+++ m194 +++$+++ KLINGON AMBASSADOR +++$+++ Vulcans are well known as the intellectual puppets of the Federation!
+L535394 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ Genesis was perfectly named: The creation of life not death. It was the Klingons who had first blood while trying to possess its secrets.
+L535393 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ Klingon justice is a unique point of view, Mr. President.
+L535392 +++$+++ u2959 +++$+++ m194 +++$+++ KLINGON AMBASSADOR +++$+++ Even as the Federation negotiated a peace treaty with us, Kirk was secretly developing the Genesis torpedo! Conceived by Kirk's son and test detonated by the Admiral himself!  The result of this awesome energy was euphemistically called "The Genesis Planet..." A secret base from which to launch the. annihilation of the Klingon people!  We demand the extradition of Kirk! We demand justice!
+L535876 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ ... But it would take years just to figure out the dynamics of this matrix...!
+L535875 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ That's the ticket, laddie.
+L535874 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Transparent aluminum?
+L535873 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ The keyboard... How quaint.
+L535872 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Just use the keyboard...
+L535871 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Hello? Computer...?
+L535867 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ ... Are you joking?
+L535866 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Yes, I noticed. Now suppose -- just suppose -- I could show you a way to manufacture a wall that would do the same job but was only an inch thick. would that be worth something to you, eh?
+L535865 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ That's easy: 6 inches. We carry stuff that big in stock.
+L535864 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Ah, what else indeed? Let me put it another way: how thick would a piece of your plexiglass need to be at 60 feet by 10 feet to withstand the pressure of 18,000 cubic feet of water?
+L535863 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Sill? What else would I be working with?
+L535862 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I notice you're still working with polymers.
+L535861 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ ... Yes?
+L535860 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Doctor Nichols, I might have something to offer <u>you</u>.
+L535849 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Of course.
+L535848 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I will. Can my assistant come, too?
+L535847 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ If you'll follow me, Professor --
+L535846 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Well, that's different.
+L535845 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ With pleasure.
+L535842 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ I demand to see the owners! I demand --
+L535841 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Professor Scott, if you'll --
+L535838 +++$+++ u2961 +++$+++ m194 +++$+++ NICHOLS +++$+++ Millions?
+L535837 +++$+++ u2966 +++$+++ m194 +++$+++ SCOTTY +++$+++ Don't know anything about it? I find it difficult to believe that I've come millions of miles --
+L535856 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Old, yes. But interesting.  Do you mind if I ask a few questions...?
+L535855 +++$+++ u2962 +++$+++ m194 +++$+++ PILOT +++$+++ All right, then this is old stuff to you.
+L535854 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Oh, here and there.  I flew something similar in my Academy days.
+L535853 +++$+++ u2962 +++$+++ m194 +++$+++ PILOT +++$+++ Right on. You fly?
+L535852 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Hi. Huey 205, isn't it?
+L535851 +++$+++ u2962 +++$+++ m194 +++$+++ PILOT +++$+++ Hi.
+L536293 +++$+++ u2967 +++$+++ m194 +++$+++ SPOCK +++$+++ Tell her I feel fine...
+L536292 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ Yes, of course... Do you have any message for your mother?
+L536291 +++$+++ u2967 +++$+++ m194 +++$+++ SPOCK +++$+++ They are my friends.
+L536290 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ As I recall, I opposed your enlistment in Starfleet... It is possible that judgment was incorrect.  Your associates are people of good character.
+L536289 +++$+++ u2967 +++$+++ m194 +++$+++ SPOCK +++$+++ Most kind, Father.
+L536288 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ It is not an effort. You are my son.  Besides; I am most impressed with your performance in this -- crises.
+L536287 +++$+++ u2967 +++$+++ m194 +++$+++ SPOCK +++$+++ It is kind of you to make this effort.
+L536286 +++$+++ u2964 +++$+++ m194 +++$+++ SAREK +++$+++ I will be returning to Vulcan within the hour... I wanted to take my leave of you.
+L536285 +++$+++ u2967 +++$+++ m194 +++$+++ SPOCK +++$+++ Father...?
+L535672 +++$+++ u2969 +++$+++ m194 +++$+++ THE BOY +++$+++ Arigato. Sayonara.  Thank you, honorable sir.
+L535671 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Ah, sorenara mazu mazu nagaiki wo sareru to mira.  Ah... Then I am sure that you will have a long and happy life.
+L535670 +++$+++ u2969 +++$+++ m194 +++$+++ THE BOY +++$+++ Sulu Hikaru.
+L535669 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Chotto omachi nasarei. Namae wa nanto moosareruka na.  Wait my son. What is your name?
+L535668 +++$+++ u2969 +++$+++ m194 +++$+++ THE BOY +++$+++ Ah, chigaau hito da. Hanashi kata ga okashii.  Yes, this must be true. You talk funny.
+L535667 +++$+++ u2968 +++$+++ m194 +++$+++ SULU +++$+++ Gomen nasarei. Hito chigai de gozaranuka na.  I'm sorry, my son. You have mis- taken me for someone else.
+L535666 +++$+++ u2969 +++$+++ m194 +++$+++ THE BOY +++$+++ Ojichan? Akira ojichaan dewa naino? Koko de nani shiteru no?  
+L537130 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ The "mighty" Federation could learn a few things from this village...
+L537129 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Do you really think your mighty Federation would be interested in protecting six hundred people?
+L537117 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ I'll be here.
+L537116 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ But I have three hundred and eighteen days of vacation time coming. I plan on using them.
+L537112 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ I thought it might begin the healing process.
+L537111 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Mother and son. You arranged this...?
+L537007 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ You've brought the Federation into the middle of a blood feud, Admiral. The children have returned to expel their elders... just as they were once expelled. Except Ru'afo's need for revenge has now escalated to parricide.
+L537006 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ You're Ro'tin, aren't you...? There's something in the voice.  Would you be his friend Gal'na?  I helped your mother bathe you when you were a child. She still speaks of you.
+L536893 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ This way!
+L536892 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ There's a cavern at the base of the next hill...
+L536867 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ I should warn you... I've always been attracted to older women...
+L536866 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ What's the rush?
+L536865 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ How is it a woman like you never married? And don't tell me you "just haven't gotten around to it yet"...
+L536863 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ By now the Son'a have scanned the area and know that just as well as we do.
+L536862 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Right beyond that ridge is where the caves begin... we can hide for days...
+L536859 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Roughly translated: puberty... although for a Klingon that's not doing it justice...  Any severe mood swings, unusual aggressive tendencies -- be sure to let me know right away...
+L536858 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Jak'tahla?
+L536799 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ We can hold them off a long time... once we get there...  But they will not make it easy to get there...
+L536798 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ There are caves in those mountains.
+L536797 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ When we're forced away by the terrain, we'll use transport inhibitors to compensate. The mountains have the highest concentrations. Once we're there, transport will be virtually impossible...
+L536730 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ For someone so young.
+L536729 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ ... an offlander?
+L536728 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ I wonder if you're aware of the trust you endanger, Jean-Luc Picard. In my experience, it's unusual for...
+L536727 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ I just... haven't gotten around to it yet.
+L536726 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ There's one thing I don't understand.  In three hundred years...you never learned to swim?
+L536725 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ It took us centuries to learn that it doesn't have to take centuries to learn.
+L536724 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ I wish I could spare a few centuries to learn.
+L536723 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Yes. Exactly. Nothing more complicated than perception.  You explore the universe. We've discovered a single moment in time can be a universe in itself... full of powerful forces... most people aren't aware enough of the now... to ever notice them...
+L536722 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Seeing my home planet from space for the first time...
+L536721 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ When time seemed to stop... and you could almost live in that moment...
+L536720 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ A perfect moment?
+L536719 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ You'll stop reviewing what happened yesterday... stop planning for tomorrow... until you find...  Let me ask you a question -- have you ever experienced a perfect moment in time?
+L536718 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Will it?
+L536717 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ More questions. Always the explorer. If you stay long enough, that'll change.
+L536716 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ An apprentice for thirty years.  We've noticed your people's mental discipline. Did that develop here?
+L536715 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ This is a school... that's a student's work.  She'll be ready to become an apprentice soon. Then, in thirty or forty years, she'll take her place among the artisans...
+L536714 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ The craftsmanship is extraordinary.
+L536713 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ You give me more credit than I deserve. Of course, I'm tempted. Who wouldn't be?  But some of the blackest marks in the history of my world have involved the forced relocation of a small group of people to satisfy the demands of a larger one. I'd like to believe we learn from our mistakes. Obviously, some of us haven't.
+L536712 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ ... who wouldn't be tempted by the promise of perpetual youth? I don't think so.
+L536711 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ In defense of offlanders, there are many more like me...
+L536710 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ You don't live up to your reputation as an offlander, Picard.
+L536709 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ There are days.
+L536708 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ But not you.
+L536707 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Most of my people who live that faster pace would sell their souls to slow it down.
+L536706 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ We've always known that to survive, we had to remain apart. It hasn't been easy. Many of the young people here want to know more about the offland... they're attracted to stories of a faster pace of life...
+L536705 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Clearly, the architects of this conspiracy have tried to keep it a secret. Not just from you, but from my people as well.  I don't intend to let them.
+L536696 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ We've... just begun to.  I suppose you're seventy-five.
+L536695 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ There's an unusual metaphasic radiation coming from the planet's rings. It continuously regenerates the cells in our bodies. You must have noticed the effects by now.
+L536663 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ I've been shot at... thrown into the lake out of an invisible ship that's come to abduct us all... what's there to panic about?
+L536662 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Don't panic...
+L536657 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ To move you off this planet. You go to sleep one night in your village... wake up the next morning in this flying holodeck transported en masse. A week later, maybe a month, you've been relocated on a similar planet without ever realizing it.
+L536656 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Deceive us?
+L536653 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ Data, if you were following the boy and discovered this ship...
+L536652 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ I know what a hologram is, Captain. The question is -- why would someone want to create one of our village?
+L536609 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Then you must spend your life answering questions.
+L536608 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ I don't like to leave questions unanswered.
+L536607 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Why?
+L536606 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ I understand how you feel. We just want to retrace Data's movements that day...
+L536549 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Capability, yes. But where can warp drive take us, except away from here...?
+L536548 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ You have warp capability?
+L536543 +++$+++ u2980 +++$+++ m195 +++$+++ PICARD +++$+++ If I were in your shoes, I'd feel the same way after what happened.  The 'artificial lifeform' is a member of my crew. Apparently, he became... ill...
+L536542 +++$+++ u2971 +++$+++ m195 +++$+++ ANIJ +++$+++ Your directive apparently doesn't include spying on other cultures.

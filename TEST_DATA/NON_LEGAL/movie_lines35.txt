@@ -1,0 +1,200 @@
+L30873 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You burned the score?
+L30872 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, I could kill him! I mean really kill him. I actually threw the entire opera on the fire, he made me so angry!
+L30871 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Why bother with Orsini-Rosenberg? He's obviously no friend of yours.
+L30870 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I don't know. They say I've got to re-write the opera, but it's perfect as it is. I can't rewrite what's perfect. Can't you talk to him?
+L30869 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Really? Why?
+L30868 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's unbelievable! The Director has actually ripped out a huge section of my music. Pages of it.
+L30867 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Wolfgang, what is it? Sta calmo, per favore. What's the matter?
+L30565 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I don't think you should become known in Vienna as a debtor, Mozart. However, I know a very distinguished gentleman I could recommend to you. And he has a daughter. Will that do?
+L30564 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I can't say. Really
+L30563 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What exactly are you working on?
+L30562 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Two thousand, two hundred florins is all I need A hundred? Fifty?
+L30561 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Forgive me. We all have patriotic feelings of some kind.
+L30560 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Ah. Italian?
+L30559 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Cream cheese mixed with granulated sugar and suffused with rum. Crema al Mascarpone.
+L30558 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Actually, it's a big secret. Oh, this is delicious! What is it?
+L30557 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Come, come, Mozart; I'm interested. Truly.
+L30556 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I'd better not. It's a bit of a secret.
+L30555 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Ah, how exciting! Tell me more.
+L30554 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, could you lend me some money till you have one? Then I'll teach her for free. That's a promise. Oh, I'm sorry. I'm being silly. Papa's right - I should put a padlock on my mouth. Seriously, is there any chance you could manage a loan? Only for six months, eight at most. After that I'll be the richest man in Vienna. I'll pay you back double. Anything. Name your terms. I'm not joking. I'm working on something that's going to explode like a bomb all over Europe!
+L30553 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I'm afraid not.
+L30552 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Do you have a daughter?
+L30551 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Of course not.
+L30550 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ They're stupendously successful. You can't get a seat. The only problem is none will hire me. They all want to hear me play, but they won't let me teach their daughters. As if I was some kind of fiend. I'm not a fiend!
+L30549 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ How is that possible? You give concerts, don't you? I hear they are quite successful.
+L30548 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ How can anyone say that? We have no cook, no maid. We have no footman. Nothing at all!
+L30547 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ It has been said, my friend, that you are inclined to live somewhat above your means.
+L30546 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No, but I'm broke. I'm always broke. I don't know why.
+L30545 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You don't mean to tell me you are living in poverty?
+L30544 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Look, I must have pupils. Without pupils I can't manage.
+L30543 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ An implausible idea. Between you and me, no one in the world could do musical harm to the Princess Elizabeth.
+L30542 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But I can't lose this post, I simply can't! Excellency, please. Let's go to the palace, and you can explain to the Emperor that Herr Sommer is an awful choice. He could actually do musical harm to the Princess!
+L30541 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ No, no, no: he has yet to achieve mediocrity.
+L30540 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sommer? Herr Sommer? But the man's a fool! He's a total mediocrity.
+L30539 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Herr Sommer.
+L30538 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Whom did they choose?
+L30537 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ My dear Mozart, there is no one in the world I would rather help, but now it is too late.
+L30536 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Filled? That's impossible! They haven't even seen my work. I need this post. Please, can't you help me? Please!
+L30535 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I have just come from the palace. The post has been filled.
+L30534 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Why? Here is the music. It's here. I am submitting it humbly. Isn't that what you wanted?
+L30533 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Why didn't you come to me yesterday, Mozart? This is a most painful situation. Yesterday I could have helped you. Today, I can't.
+L30532 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ So you see, this post is very important to me right now.
+L30531 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I'm flattered. And congratulations to you, of course.
+L30530 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ She is well. She is - well, actually, I'm about to become a father! She only told me last night. You are the first to know.
+L30529 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ So you are. How is your pretty wife?
+L30528 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Your Excellency, you requested some specimens of my work. Here they are. I don't have to tell you how much I need your help. I truly appreciate your looking at these. I have pressures on me - financial pressures. As you know, I'm a married man now.
+L30527 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Herr Mozart, what brings you here?
+L30329 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It really is the best music one can hear in Vienna today. Don't you agree?
+L30328 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ How could I not?
+L30327 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Did you like it, then?
+L30326 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Dear Mozart, my sincere congratulations.
+L30283 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But this is absurd!
+L30282 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes! yes! er, on  the whole, yes, Majesty.
+L30206 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Ah, love! Well of course in Italy we know nothing about that.
+L30205 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Love, Sire!
+L30175 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ A funny little tune, but it yielded some good things.
+L30174 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Ah!
+L30173 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Mio caro Adone.
+L30172 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Really?
+L30171 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I know your work well, Signore. Do you know I actually composed some variations on a melody of yours?
+L30895 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh yes, certainly. Certainly, Herr Director!
+L30894 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Can we see the scene with the music back, please?
+L30864 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Taking out what you should never have put in.
+L30863 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What are you doing, Herr Director?
+L30860 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ It is dangerous for you to interpret His Majesty's edicts. Give me your score, please.
+L30859 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But surely the Emperor didn't mean to prohibit dancing when it's part of the story.
+L30858 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Exactly. A dance.
+L30857 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes, but this is not a ballet. This is a dance at Figaro's wedding.
+L30856 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Did you not know that His Majesty has expressly forbidden ballet in his operas?
+L30854 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Certainly, Herr Director.
+L30853 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Mozart! Herr Mozart, may I have a word with you please. Right away.
+L30837 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Just let me tell you how it begins.
+L30836 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ That will do, Herr Mozart!
+L30811 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But, Your Majesty -
+L30810 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ What you think, Mozart, is scarcely the point. It is what His Majesty thinks that counts.
+L30199 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well not especially. It can be in Turkish, if you really want. I don't care.
+L30198 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Then why especially does it have to be in German?
+L30197 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Exactly.
+L30196 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ You mean in Turkey?
+L30190 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ I think you'd better.
+L30189 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I - I don't think you have, Herr Director. Not yet. I mean, it's quite n - Of course, I'll show it to you immediately.
+L30188 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Oh? Have I seen it?
+L30839 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ May I just do that, Majesty? Show you how it begins? Just that?
+L30838 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Herr Mozart -
+L30397 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Must I? Well, I won't! I tell you straight: I will not!
+L30396 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Look, young man, the issue is simple. If you want this post, you must submit your stuff in the same way as all your colleagues.
+L30395 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Show them one interesting modulation and they faint. Ohime! Morbidezza! Morbidezza! Italians are musical idiots and you want them to judge my music!
+L30394 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Mozart -
+L30393 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ They hate my music. It terrifies them. The only sound Italians understand is banality. Tonic and dominant, tonic and dominant, from here to Resurrection!  Ba-ba! Ba-ba! Ba-ba! Ba-ba! Anything else is morbid.
+L30392 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Mozart -
+L30391 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Naturally, the Italians! Of course! Always the Italians!
+L30390 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Kapellmeister Bonno, Count Orsini- Rosenberg and Court Composer Salieri.
+L30389 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Who is on this committee?
+L30388 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ A little modesty would suit you better.
+L30387 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No, but I'm the best.
+L30386 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Mozart, you are not the only composer in Vienna.
+L30385 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Then why doesn't he simply appoint me to the post?
+L30384 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ On the contrary.
+L30383 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Is the Emperor angry with me?
+L30382 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Because His Majesty wishes it.
+L30381 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Why do I have to submit samples of my work to some stupid committee? Just to teach a sixteen-year-old girl.
+L30380 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ What is what?
+L30379 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What is this, Herr Chamberlain?
+L30826 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ Because they do. They go on forever - at least what they represent. The eternal in us, not the ephemeral. Opera is here to ennoble us. You and me, just as much as His Majesty.
+L30825 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Elevated? What does that mean? Elevated! The only thing a man should elevate is - oh, excuse me. I'm sorry. I'm stupid. But I am fed up to the teeth with elevated things! Old dead legends! How can we go on forever writing about gods and legends?
+L30824 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ Mozart, music is not the issue here. No one doubts your talent. It is your judgment of literature that's in question. Even with the politics taken out, this thing would still remain a vulgar farce. Why waste your spirit on such rubbish?  Surely you can choose more elevated themes?
+L30823 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sire, only opera can do this. In a play, if more than one person speaks at the same time, it's just noise. No one can understand a word. But with music, with music you can have twenty individuals all talking at once, and it's not noise - it's a perfect harmony. Isn't that marvelous?
+L30822 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ Mozart -
+L30764 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Baron!
+L30763 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ Well done, Mozart. Really quite fine.
+L30201 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Why not? It's charming. I mean, I don't actually show concubines exposing their! their! It's not indecent!  It's highly moral, Majesty. It's full of proper German virtues. I swear it. Absolutely!
+L30200 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ My dear fellow, the language is not finally the point. Do you really think that subject is quite appropriate for a national theatre?
+L30185 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, German! German! Please let it be German.
+L30184 +++$+++ u268 +++$+++ m16 +++$+++ VON SWIETEN +++$+++ I don't think it was really decided, Director.
+L31341 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Don't pity me. Pity yourself. You serve a wicked God. He killed Mozart, not I. Took him, snatched him away, without pity. He destroyed His beloved rather than let a mediocrity like me get the smallest share in his glory. He doesn't care. Understand that. God cares nothing for the man He denies and nothing either for the man He uses. He broke Mozart in half when He'd finished with him, and threw him away. Like an old, worn out flute.
+L31340 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Oh my son, my poor son!
+L31339 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ No, Father. From now on no one will be able to speak of Mozart without thinking of me. Whenever they say Mozart with love, they'll have to say Salieri with loathing. And that's my immortality - at last! Our names will  be tied together for eternity - his in fame and mine in infamy. At least it's better than the total oblivion he'd planned for me, your merciful God!
+L31338 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ My son, why should you want all Vienna to believe you a murderer? Is that your penance? Is it?
+L31337 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ What difference does that make?
+L31336 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ But not his body.
+L31335 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ I poisoned his life.
+L31334 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ No, you didn't!
+L31333 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ I did.
+L31332 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Why? Why? Why? Why add to your misery by confessing to murder? You didn't kill him.
+L31076 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ The only thing that worried me was the actual killing. How does one do that? How does one kill a man? It's one thing to dream about it. It's very different when you have to do it, with your own hands.
+L31075 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Yes.
+L31074 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ His funeral - imagine it! The Cathedral, all Vienna sitting there. His coffin, Mozart's little coffin in the middle. And suddenly in that silence, music. A divine music bursts out over them all, a great Mass of Death: Requiem Mass for Wolfgang Mozart, composed by his devoted friend Antonio Salieri. What sublimity! What depth! What passion in the music! Salieri has been touched by God at last. And God, forced to listen. Powerless - powerless to stop it. I at the end, for once, laughing at Him. Do you understand? Do you?
+L31073 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ What?
+L30474 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Oh yes, yes, yes, yes, yes! Always the same stale answers!  There is no God of Mercy, Father. Just a God of torture.
+L30473 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I do not claim to unravel the mysteries. I treasure them. As you should.
+L30472 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Oh? I thought you did so every day. So speak now. Answer me!
+L30471 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ My son, no one can speak for God.
+L30470 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ All I ever wanted was to sing to Him. That's His doing, isn't it? He gave me that longing - then made me mute. Why? Tell me that. If He didn't want me to serve Him with music, why implant the desire, like a lust in my body, then deny me the talent? Go on, tell me! Speak for Him!
+L30469 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ God's ways are not yours. And you are not here to question Him. Offer him the salt of penitence. He will give you back the bread of eternal life. He is all merciful. That is all you need to know.
+L30468 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ No? Was Mozart a good man?
+L30467 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ You cannot say that!
+L30466 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Yes, Father. Yes! So much for my vow of chastity. What did it matter? Good, patient, hard-working, chaste - what did it matter? Had goodness made me a good composer? I realized it absolutely then - that moment: goodness is nothing in the furnace of art. And I was nothing to God.
+L30342 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Every day. Sometimes for hours I would pray!
+L30341 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Did you try?
+L30340 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ It was incomprehensible. What was God up to? Here I was denying all my natural lust in order to deserve God's gift and there was Mozart indulging his in all directions - even though engaged to be married! - and no rebuke at all! Was it possible I was being tested? Was God expecting me to offer forgiveness in the face of every offense, no matter how painful? That was very possible. All the same, why him? Why use Mozart to teach me lessons in humility? My heart was filling up with such hatred for that little man. For the first time in my life I began to know really violent thoughts. I couldn't stop them.
+L30029 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ He was murdered, Father! Mozart! Cruelly murdered.
+L30028 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Do you hear me?
+L30026 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Should I?
+L30025 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Do you believe it?
+L30024 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Is it true?
+L30023 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ And do they believe it?
+L30022 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ All Vienna has heard that.
+L30021 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Ah - you've heard that?
+L30020 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Of course. The man you accuse yourself of killing.
+L30019 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ I didn't. That was Mozart. Wolfgang Amadeus Mozart. You know who that is?
+L30018 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Oh, I know that! That's charming!  I didn't know you wrote that.
+L30017 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Can you recall no melody of mine? I was the most famous composer in Europe when you were still a boy. I wrote forty operas alone. What about this little thing?
+L30016 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I regret it is not too familiar.
+L30015 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Well?
+L30013 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ I'm surprised you don't know. It was a very popular tune in its day. I wrote it. How about this?
+L30012 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I can't say I do. What is it?
+L30011 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Then you must know this.
+L30010 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Here in Vienna.
+L30009 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Where?
+L30008 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I know a little. I studied it in my youth.
+L30007 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ How well are you trained in music?
+L30006 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ My son, there is something dreadful on your soul. Unburden it to me. I'm here only for you. Please talk to me.
+L30005 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ I do not seek forgiveness.
+L30004 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Offer me your confession. I can offer you God's forgiveness.
+L30003 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Are they?
+L30002 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ That makes no difference. All men are equal in God's eyes.
+L30001 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Do you know who I am? You never heard of me, did you?
+L30000 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I cannot leave alone a soul in pain.
+L29999 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ Leave me alone.
+L29998 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ Do you understand that you have sinned? Gravely.
+L29997 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ What do you want?
+L29996 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ In the sight of God that is a sin.
+L29995 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ So?
+L29994 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ You tried to take your life. You do remember that, don't you?
+L29993 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ About what?
+L29992 +++$+++ u266 +++$+++ m16 +++$+++ VOGLER +++$+++ I am Father Vogler. I am a Chaplain here. I thought you might like to talk to someone.
+L29991 +++$+++ u257 +++$+++ m16 +++$+++ OLD SALIERI +++$+++ What do you want?
+L30852 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes, in the third act.
+L30851 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Yes, absolutely. Is there a ballet in Figaro?
+L30850 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Excuse me - didn't His Majesty specifically forbid ballet in his opera?
+L30849 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Ballet? What ballet?
+L30848 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ About the ballet.
+L30847 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ What anger?
+L30844 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ The Emperor has given him permission.
+L30843 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Incredible.
+L30842 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Well, Mozart is already rehearsing.
+L30794 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Never mind.
+L30793 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Where?
+L30792 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I've seen the manuscript.
+L30791 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Are you absolutely sure?
+L30787 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ You must be mad.
+L30786 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes.
+L30785 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ He's setting that play to music?
+L30784 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Exactly.
+L30783 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ You mean that play?
+L30780 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Italian?
+L30779 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Mozart is writing a new opera. An Italian opera.
+L30778 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Yes?
+L30777 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I've just learned something that might be of interest to you, Herr Director.
+L30799 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Ah.
+L30798 +++$+++ u258 +++$+++ m16 +++$+++ ORSINI-ROSENBERG +++$+++ Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor.

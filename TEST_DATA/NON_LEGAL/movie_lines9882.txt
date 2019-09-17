@@ -1,0 +1,200 @@
+L258061 +++$+++ u5684 +++$+++ m376 +++$+++ TOM +++$+++ What stuff is that?
+L258060 +++$+++ u5686 +++$+++ m376 +++$+++ WOMAN +++$+++ Where did you learn all this stuff?
+L258059 +++$+++ u5684 +++$+++ m376 +++$+++ TOM +++$+++ Well, that'll happen.
+L259271 +++$+++ u5687 +++$+++ m377 +++$+++ AGENT BOB +++$+++ Don't move!
+L259270 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ Secret Service!
+L259254 +++$+++ u5687 +++$+++ m377 +++$+++ AGENT BOB +++$+++ It's not cool. It's commie bullshit!
+L259253 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ It's cool!
+L259252 +++$+++ u5687 +++$+++ m377 +++$+++ AGENT BOB +++$+++ You think it's cool?
+L259251 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ Yeah, cool.
+L259250 +++$+++ u5687 +++$+++ m377 +++$+++ AGENT BOB +++$+++ Cool?
+L259249 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ Now that's cool.
+L259248 +++$+++ u5687 +++$+++ m377 +++$+++ AGENT BOB +++$+++ Listen to this bullshit.  "This is our world now. The world of the electron and the switch, the beauty of the baud. We exist without nationality, skin color, or religious bias. You wage wars, murder, cheat, lie to us and try to make us believe it's for our own good, yet we're the criminals. Yes, I am a criminal. My crime is that of curiosity. I am a hacker and this is my manifesto." Huh, right, manifesto? "You may stop me, but you can't stop us all."
+L259193 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ Alright sir.
+L259192 +++$+++ u5692 +++$+++ m377 +++$+++ GILL +++$+++ Good. Good man. Alright, let's finish up here, and take him in for interrogation.
+L259191 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ I'm sorry, sir. We caught him by surprise, so we don't think he had time to erase his computer files.
+L259190 +++$+++ u5692 +++$+++ m377 +++$+++ GILL +++$+++ In English, please. I didn't spend ten years protecting the president so I could finish my career feeling like an idiot.
+L259189 +++$+++ u5688 +++$+++ m377 +++$+++ AGENT RAY +++$+++ It looks good, sir. We've got an uncorrupted hard drive.
+L259188 +++$+++ u5692 +++$+++ m377 +++$+++ GILL +++$+++ How's it going, Ray?
+L259572 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ How are you going to take care of the cops?
+L259571 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ Hackers of the World, Unite!
+L259570 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ That's it! An electronic army! If I were us, I'd get on the internet, send out a major distress signal.
+L259567 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ See, we're very busy. A TV network that wishes to remain nameless has expressed an interest in our show.
+L259566 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ She's rabid, but cute.
+L259562 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ Waste the dude.
+L259561 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ Let's keep her.
+L259180 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ Remember, hacking is more than just a crime. It's a survival trait!
+L259179 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ ...IF it weren't run by a bunch of profiteering gluttons!
+L259178 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ And never again have to pay for a service that would be dirt cheap...
+L259177 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ Record the tones that the coins make. And hang up and get your money back!
+L259176 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ As you can see, this is just a simple microcassette recorder.   Hook it up to the phone and drop in five bucks in quarters.
+L259167 +++$+++ u5689 +++$+++ m377 +++$+++ BLADE +++$+++ Hack the Planet!
+L259166 +++$+++ u5704 +++$+++ m377 +++$+++ RAZOR +++$+++ Welcome to our show!
+L259541 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Check this out. It's a memo about how they're gonna deal with those oil spills that happened on the fourteenth.
+L259540 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ What?
+L259444 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Maybe I should just go to the bathroom or something.
+L259443 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I can't. Everybody who touches that thing gets busted, I can't afford to get arrested, I'm sorry.
+L259331 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ The sensitive type.
+L259330 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Right.
+L259317 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Was that her top?
+L259316 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Shh!
+L259315 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Shit!
+L259256 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ What is it with this guy?
+L259255 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ So what do you think, can I crash at your place tonight?
+L259115 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yeah but oh man,  wouldn't you just love to get one of those Gibsons, baby? Ooooh!
+L259114 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Maybe. But, if I were gonna hack some heavy metal, I'd, uh, work my way back through some low security, and try the back door.
+L259100 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ The Red Book. NSA Trusted Networks. Otherwise known as the Ugly Red Book that won't fit on a shelf.
+L259099 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Oh yeah? What's that?
+L259098 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Dragon book. Compiler design.
+L259097 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ What's that?
+L259096 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Devil book. The Unix Bible.
+L259095 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ What's that?
+L259547 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ A worm AND a virus? The plot thickens.
+L259546 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Damn!
+L259539 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yo, everyone check this out. Hey, what's the Da Vinci virus?
+L259538 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Well, I got a lot, alright? I don't know how many but... my head hurts.
+L259533 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ ...as they snoop onto us.
+L259532 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Snoop onto them...
+L259517 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Yo, brain dead, the manual!
+L259516 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Ta-da!
+L259497 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ This is Zero Cool, man! Whooo, haha!
+L259496 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ That's far out!
+L259495 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Biggest crash in history, front page, New York Times, August 10th, 1988. I thought you was black, man! Yo, man, this is Zero Cool! Oh, shit!
+L259491 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Yo, man, you an amateur, man.
+L259490 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Oh man. That's universally stupid, man!
+L259468 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Looks like a hacker wrote it.
+L259467 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Look at this, it's so lean and clean.
+L259466 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Hold on a second!
+L259397 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Super hero like even.
+L259396 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Very impressive.
+L259311 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ I want it.
+L259310 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Active matrix, man. A million psychedelic colors. Man, baby, sweet, ooo!
+L259159 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Again?  Yeah sure.
+L259158 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Uh... Nikon, can I... can I crash at your place tonight?
+L259319 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Difficulty rating?
+L259318 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ One-handed!
+L259314 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Yo, hit the lights.
+L259313 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yeah, I bet it looks crispy in the dark.
+L259312 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ I want it to have my children!
+L259259 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Do you think he could hack a Gibson?
+L259258 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yeah. Probably had something to do with that bank in Idaho.
+L259257 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ His parents missed Woodstock and he's been making up for it since. Hey, you hear about Joey's bust?
+L259122 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ I'm gonna hit you!
+L259121 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ You're psyched. You need to lay off of that shit.
+L259120 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ It was him, man!
+L259119 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Cereal, man, you owe me a pack.
+L259113 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Ain't no way, man, security's too tight. The big iron?
+L259112 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Oh yeah, you want a seriously righteous hack, you score one of those Gibsons man. You know, supercomputers they use to like, do physics, and look for oil and stuff?
+L259111 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Look, you wanna be elite? You gotta do a righteous hack. None of this accidental shit.
+L259110 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yeah but don't forget God. System operators love to use God. It's that whole male ego thing.
+L259106 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Stupid, man. It's universally stupid.
+L259105 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ What are you, stoned or stupid? You don't hack a bank across state lines from your house, you'll get nailed by the FBI. Where are your brains, in your ass? Don't you know anything?
+L259085 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Meet Cereal Killer. As in Froot Loops? But he does know things.
+L259084 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ ...and your name goes through like seventeen computers a day. 1984, yeah right man, that's a typo. Orwell's here and now, he's living large. We have no names, man, no names. We are nameless. Can I score a fry? Thanks.
+L259581 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Roger.
+L259580 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Go fix the phones.
+L259579 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Yeah?
+L259578 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Cereal.
+L259577 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Ai! Boom boom aiaiaiaiaee! Alright, that was a little tension breaker, that had to be done, alright?
+L259545 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Wait a minute, the fourteenth, that's the same day the worm ends its run.  I mean... Da Vinci virus, didn't Phreak say that's what he was being charged with? Look...  "Infecting ballast programs of Ellingson tankers" - they blame hackers!
+L259544 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Well this hasn't happened yet.
+L259507 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ You're both screwed. I help, we can do it in six.
+L259506 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Never send a boy to do a woman's job. With me, we can do it in seven.
+L259505 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Oh wow, we are fried.
+L259442 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Phreak and Joey are being framed. We need your help to figure out what's on this disc.
+L259441 +++$+++ u5690 +++$+++ m377 +++$+++ CEREAL +++$+++ Nonononono. Truce, you guys. Listen, we got a higher purpose here, alright? A wake up call for the Nintendo Generation. We demand free access to data, well, it comes with some responsibility. When I was a child, I spake as a child, I understood as a child, I thought as a child, but when I became a man I put away childish things.  What... It's Corinthians I, Chapter 13, verse 11, no duh. Come on.
+L259401 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Right. If I win, you wear a dress on our date.
+L259400 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Due to Mr. Gill's untimely demise and everything, I guess you two will have to improvise the next round.
+L259395 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Yeah. Like Rigor Mortis, Habeas Corpus.
+L259394 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Dead?
+L259393 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Dead.
+L259309 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Yeah? Display?
+L259308 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Yo. Check this out guys, this is insanely great, it's got a 28.8 BPS modem!
+L259261 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Nope. His mom said he's grounded for his next three lifetimes.  He isn't to consort with his computer friends.  The secret service is really out to get him.  Hey there's a big party tonight, you wanna go?
+L259260 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Did you talk to him?
+L259149 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ No, don't know who he is.  Do you?
+L259148 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ You heard of a hacker called Acid Burn? You know who he is?
+L259048 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ That's it, you're looking at it, he just looks slick all day.
+L259047 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ And what's he do?
+L259046 +++$+++ u5702 +++$+++ m377 +++$+++ PHREAK +++$+++ Curtis.
+L259045 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Who's that?
+L259082 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ And unpack.
+L259081 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Right. Anything else, you want me to mow the lawn? Oops, forgot. New York. No grass.
+L259079 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Okay, I gotta get back to work. I'm gonna be home late.  And would you try and please fill these out?
+L259078 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ No. No one special.
+L259077 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Aaaah. Did we meet someone special?
+L259076 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Revenge.
+L259075 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ What did we learn in school today?
+L259074 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Hmmm.
+L259073 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ How was school?
+L258987 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Right, mom. And I'm still a virgin!
+L258986 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ You haven't been doing anything stupid, right, Dade?  Right, Dade?!
+L258985 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Well, yeah, I just haven't found one as charming as you yet.
+L258984 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Can I cut the electricity to his room so he'll sleep normal hours? He's been playing with his computer all night for a solid week.  Well yes, he could be playing with himself. Mmm hmm. Yes I'll ask. Dade, you like girls, don't you?
+L258983 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Can this wait until both my eyes are open, please?
+L258982 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Up all night again, huh?
+L258981 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Mm-hmm.
+L258980 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Good morning. You unpack your stuff yet?
+L258954 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Finish up, honey, and get to sleep. And happy birthday.
+L258953 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I'm taking over a TV network.
+L258952 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ What are you doing?
+L258951 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Yeah, mom?
+L258950 +++$+++ u5698 +++$+++ m377 +++$+++ MRS. MURPHY +++$+++ Dade?
+L259618 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ This is the end, my friend.  Thank you for calling!
+L259617 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I found it! I found it!
+L259608 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Give it up! Just give it up.
+L259607 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Yeah, maybe I'm not. But we are, you asshole.
+L259606 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Game's over. Last chance to get out of this without a prison sentence.  You're not good enough to beat me, you little shit.
+L259462 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Hey, don't worry, kid. If she's innocent, she'll be fine. Your mommy's safe now, okay?
+L259461 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I got it. But listen, Kate didn't know what's on it. I mean, she came to me to figure it out. She's not the one who planted the virus. You leave her alone.
+L259460 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Talk to me.
+L259459 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Kid, don't threaten me. There are worse things than death and, uh, I can do all of them!
+L259458 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ You lay a finger on her and I'll kill you.
+L259457 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ What can I tell you. Computers never lie, kid. Your mom will be arrested at work, she'll be handcuffed, and later, strip searched.
+L259456 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ That's bullshit.
+L259455 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Lauren Murphy is now a wanted felon in the state of Washington. Forgery, Embezzlement, two drug convictions, plus she jumped parole. When she's arrested, she will not have a trial, she will not pass go, she will go directly to jail. Then I change this file back to the original, and your mom disappears.
+L259454 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Turn on your laptop. Set it to receive a file.
+L259453 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I told you, I don't play well with others.
+L259452 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ The girl. The girl has the disc I need.
+L259292 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Thank you!
+L259291 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Blow me.
+L259290 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ I'm fine.  Oh, and Dade, try to stay out of trouble, okay?
+L259288 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Watch which friends you do play with. A record like yours could land you in jail, get you kicked out of school, no colleges would take you. No future. Exiled from everyone and everything you love.
+L259287 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Shit! Come on!
+L259286 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Nah. I don't play well with others.
+L259285 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ I'm the one who understands you. Now, can we be allies?
+L259284 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ I'm sorry. Who are you?
+L259283 +++$+++ u5703 +++$+++ m377 +++$+++ PLAGUE +++$+++ Loser.  I can't believe you were only eleven when you wrote this. It's quite an impressive virus. Dade, I know how you might feel about narking on your friends, but, we're hackers. For us, there's no such thing as family and friends. We're each our own country, with temporary allies and enemies. I'd like to make a treaty with you.
+L259636 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ We did it!
+L259635 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Yes!
+L259620 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Joey's getting stupid busy.
+L259619 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Oh, shit! He got me.
+L259509 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Okay. Let's go shopping.
+L259508 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Jesus, I gotta save all your asses. I help, we can do it in five minutes, man.
+L259504 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Look, even if you had the passwords, it'll take you ten minutes to get in, and you've still gotta find the files, man, I mean, the cops will have you in... five minutes.
+L259503 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Fucked if I care, man.
+L259502 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ They'll trace you like that  man, cops are gonna find you, they're gonna find you with a smoking gun.
+L259482 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ And judging by this segment alone, it's already eaten about...
+L259481 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Two days.
+L259474 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ It nibbles. You see this?
+L259473 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ What's this one eat?
+L259472 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ This isn't a virus. It's a worm!
+L259321 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Burn!
+L259320 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Seven. Wow! Burn's wetware matches her software!
+L259299 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ I got photographic memory.  It's a curse!  Lisa!
+L259298 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ How did you know that?
+L259297 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Look out, man. Lisa Blair, 26 East 7th St., apartment 16, 555-4817, BOOM!
+L259173 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Razor and Blade.
+L259172 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ That's Razor and Blade.
+L259164 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ What's going on?
+L259163 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Yo, showtime, showtime!
+L259153 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ No.
+L259152 +++$+++ u5699 +++$+++ m377 +++$+++ NIKON +++$+++ Never heard of you. Done anything?
+L259151 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Crash Override.
+L259690 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Dreams?
+L259689 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ You know, I've been having these really weird..
+L259686 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ Yeah? You know if you would have said so in the beginning, you would have saved yourself a whole lot of trouble.
+L259685 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ They didn't. The guys felt it was the only way I'd get a date. Anyway, you're pretty good. You're elite.
+L259684 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ I can't believe they decided you won.
+L259683 +++$+++ u5691 +++$+++ m377 +++$+++ DADE +++$+++ Wanna go for a swim?
+L259682 +++$+++ u5695 +++$+++ m377 +++$+++ KATE +++$+++ You would have looked better.

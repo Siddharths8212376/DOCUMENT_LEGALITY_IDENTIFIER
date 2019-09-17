@@ -1,0 +1,200 @@
+L320474 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Is Hooper coming to dinner?
+L320404 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You stay right here.  You're going in with me.
+L320403 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Pop....
+L320379 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You heard me.
+L320378 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Oh, c'mon.
+L320377 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You stay here a minute.
+L320324 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Okay, okay.
+L320323 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Don't go out if it's rough or any- thing, huh?  We've had a lot of trouble.
+L320322 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I'll be careful.  I'll see y'later.
+L320321 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Look, humor the old man -- just be careful.
+L320320 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Because.
+L320319 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Okay, not bartending.  Why on the water every day?
+L320318 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Bartending?  I'm 17.
+L320317 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What about tennis?  Riding? fixing up old cars?  Bartending?
+L320316 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I'm going.
+L320305 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You'll have to make up your own mind about that.
+L320304 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ Do I have to?
+L320303 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You could work out at the beach, make a few bucks for school.
+L320302 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ What else is there to do?
+L320301 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Every day?
+L320300 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ I don't know about him -- I'm going down to the dock, maybe go sailing.
+L320178 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Sailing?
+L320177 +++$+++ u6079 +++$+++ m403 +++$+++ MIKE +++$+++ No place special.  Just hanging out.
+L320176 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Where to?
+L320585 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ Okay, okay -- stand over there....
+L320584 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Come on, Phil, don't jerk me around.
+L320583 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ Let's see -- you got a minute?
+L320582 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What else you got?
+L320581 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ Not bad -- that's a real fast lens, probably 1.4.  Look at the diffusion, though....
+L320579 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ Well, yeah, I did, that's the funny thing.  You can't tell much from the negatives, I was going to blow 'em up.  Here's a test I did....
+L320578 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Did you get any pictures?
+L320577 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ Sure, sure -- Jeff Hendricks brought in this camera, see, from underwater, and I didn't know how to get it open, but my brother-in- law, in Montauk, he works at a hi- fi store, and they sell cameras, so he....
+L320576 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You said something about a camera.
+L320575 +++$+++ u6083 +++$+++ m403 +++$+++ PHIL +++$+++ I don't know what you did, but that kid stopped.  I haven't heard one peep, not one 'breaker breaker' for days.  Believe me, it's a pleasure....
+L320616 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ It means I don't like all that grab-ass and heavy breathing with my wife, it means I know who's out to screw me here, and it means that I know something none of you know because I've been there -- and I don't want to go through that horror again.  Ever!
+L320615 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ What's that supposed to mean?
+L320614 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Maybe I don't make as much money as some bullshit rip-off artists around here, but I don't work the same way.
+L320613 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ You don't make enough.
+L320612 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Is that what it is?  Dollars? Money?  I'll pay for it.  Take it out of my salary.
+L320611 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Will you listen to this man? Will you just listen to him?  You really caused a panic on a public beach, you shoot up the place, God knows who could've been injured -- what if somebody de- cides to sue us?  That could ruin us.
+L320610 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ There is nothing to discuss.
+L320607 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ My ass!
+L320606 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ What have you seen before?  This is nothing.  Seaweed.  Mud.  Some- thing in the lens.
+L320602 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ You're damn right that's what it is.
+L320601 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Is that what it is?
+L320600 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What are you all, blind?  It's a shark.  Look -- teeth, jaw, gills.
+L320597 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Look -- I just got this from Phil Fogarty.  It was in the camera belonging to the missing divers. It proves I was right, all along.
+L320596 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ It came up during the meeting.
+L320593 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Temporarily?  Uh...sure....
+L320592 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Is Jeff Hendricks qualified to fill in as an interim Chief of Police in your absence?
+L320155 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Heck of a way to treat a taxpayer.  Don't you have any pull with the chief, here?
+L320154 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Too late, it's written.
+L320153 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Wait a minute....
+L320125 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Sorry, I'm all booked up...  Come, m'dear.
+L320124 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ May I have this dance?
+L320086 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ All of us thank you, okay?
+L320085 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Y'know, Brody -- for the first time in years it's worth putting money into this town.
+L320084 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Me neither.
+L320083 +++$+++ u6082 +++$+++ m403 +++$+++ PETERSON +++$+++ Fantastic lady.  Don't know what I'd do without her.
+L320411 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Don't be ridiculous -- Sharks don't take things personally.
+L320410 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Look -- can Great White Sharks communicate?  Send out signals, or something?  You know, take revenge, sense an enemy....
+L320409 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Not when it's like this.  This animal has been ashore for 10, 12 hours, and drifting for a day, at least.  Every little nibbler in the sea's taken a bite.
+L320408 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Can't you tell?
+L320407 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ It's either a Great White, or another killer whale.
+L320400 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Not necessarily.  These wounds could've been inflicted 30 miles out to sea, or more.  None of them are immediately fatal.  Currents could've carried the body 10 miles further.
+L320399 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ So there's one around here.
+L320398 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Sound.  Like sonar, or radar. They home in on irregular sounds, unusual sounds, any rhythmic low- frequency vibration.
+L320397 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Sound?
+L320396 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ And sound.
+L320395 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That's it?  Probably?  Look, sharks are attracted by blood, and thrashing around....
+L320394 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Probably.
+L320393 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Jesus, don't quibble with me.  I want to know if a Great White Shark did this.
+L320392 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ This is a mammal, not a fish.
+L320391 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Because this big fish has been bitten by some other big fish....
+L320390 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ What makes you think there might be?
+L320389 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Is there one in these waters?
+L320388 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Okay, so that's it.
+L320387 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That's it.
+L320386 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Carcharadon Carcharias.
+L320385 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I know that this was probably a Great White Shark.  Car-cadon... Caradan....
+L320384 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Do you?
+L320383 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Look, I know a little bit about sharks.
+L320382 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Could be a shark.  But maybe not.
+L320374 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ You don't tell me my job, and I won't tell you about yours, okay?
+L320373 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ But that's what we're here to find out, right?
+L320372 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ We don't know that, do we?
+L320371 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ The shark that did this.  It was a shark, wasn't it?
+L320370 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ What shark?
+L320369 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ The Shark's mouth.
+L320368 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ The whale's mouth?
+L320367 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Bite radius.  You know, the size of the mouth?
+L320366 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ The what?
+L320365 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Come on, let's check the bite radius.
+L320364 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ Length, 22 feet, 8 inches.
+L320363 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ First things first.
+L320362 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Look at that:
+L320358 +++$+++ u6073 +++$+++ m403 +++$+++ ELKINS +++$+++ After we've looked, we'll talk.
+L320357 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ As soon as I heard about it, I called you.  This thing is big! His arms indicate big.
+L320915 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Mike's out there.
+L320914 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ What is it?  What's the matter?
+L320817 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Going out.
+L320816 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ What're you doing?
+L320800 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Just one minute....
+L320799 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Hey -- it's not your job any more. I'm going to be late for work.
+L320703 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Don't rush into it -- we may need the income.
+L320702 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ I'll give notice.
+L320701 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Turn in the car.  Clean my desk, explain things to our sons, then maybe get shit-faced and punch your boss.
+L320700 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ What're you going to do today?
+L320647 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I try.  Goddamnit, I tried...Now, I'm tired...I can't keep fighting it...I'm too tired...I'm...I'm....
+L320646 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ I know you did....
+L320645 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Fired me!  I'm not a hysterical man.  I'm responsible.  I know what I saw....
+L320644 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ They have no right to treat you like that.  You've given them every- thing.  For four years, you've protected this town, the people on this island....
+L320643 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ ...Everybody wants the job.  No one wants the authority. Except Hendricks.  Fine.  He can go out there in that precious boat, and when he looks whitey in his big mouth he can just call me.  Call me in New York...tell him to kiss my ass....
+L320642 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Honey, this is nothing...I don't know what it is.  What did they....
+L320641 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Showed them the photo, showed them the goddamn Shark, big as life. They didn't see it.  Not like me. Not like the poor son-of-a-bitch who snapped this li'l picture...He's out there, somewhere... I shot off my gun, shot off my big mouth, so they fired me....
+L320640 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Stop that!  We're not going any place.  You love it here.  Tell me what the hell happened!
+L320639 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ No sweat.  A blessing in disguise. Back to the city, you can go to Bloomingdale's without waiting six hours for the ferryboat...we're surrounded by water here, you realize that?  Me, surrounded by water...Ridiculous.
+L320638 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Because of today?  The beach?
+L320637 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Then that's what I meant.  Fired. Canned.  Out on my fanny.  The Selectmen just made Hendricks the new Chief of Police.  Just like that.
+L320636 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ That you were fired.
+L320635 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What'd I say?
+L320634 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ What?
+L320633 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Ooohh, nothing.  I just got fired, that's all.
+L320632 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ What's wrong?
+L320630 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That's great too.  Gorgeous.
+L320629 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Sean's asleep.
+L320628 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That's great.
+L320627 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Hi.  I closed a sale today, without Len.  That's $1200 commission, if the papers go through.
+L320509 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Yeah.   I think so.  Mike!  Keep it down, for chrissake!
+L320508 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Are you going to be able to sleep?
+L320507 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ The goddamn smell is always the same. 
+L320506 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ It was bad, wasn't it.
+L320505 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ In the city, it happened all the time -- some Kid o.d.'s on a rooftop, top, a drunk gets cut in pieces under the Brooklyn local, old people die alone in shitty apartments and three weeks later someone calls the cops because of the smell and the flies.  Call the cops.  What are we, immune?
+L320504 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Do you?
+L320503 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I know what you're going to say.
+L320501 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ He wanted a job, he's got one.  I want to see that boat out of the water by tomorrow night.
+L320500 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ All summer?
+L320488 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Terrific.
+L320487 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ No.
+L320486 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Oh.  Want to talk about it?
+L320485 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Found one of the missing victims from that boat deal.
+L320484 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Use the little brush there.  Why were you at Santos'?
+L320483 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ That's what I said.  Is there any of that hand cleaner stuff?
+L320482 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Nothing, huh?
+L320481 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Nothing.
+L320480 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Careful.  What's wrong?
+L320479 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Oww!
+L320478 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Santos' place.
+L320477 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Oh, perfect -- a 75 per cent family affair.  Where were you?
+L320476 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Oh, hi -- How was dinner?
+L320473 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Damn.
+L320472 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Sort of -- Mathew Hooper is aboard the research vessel Aurora, presently in the Antarctic Ocean, and won't be in radio range until half-past next spring.
+L320471 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ For me?
+L320470 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Thank you.  I'll tell him.
+L320315 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ It's an island.  Got to run.
+L320314 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Boat nut.  What is it about this place that makes everyone a freak for boating?
+L320313 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ One what?  Ah-ha!
+L320312 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Because, I'm in the middle of a boating accident, I got only four regular cops and one secretary, and a Chief Deputy who is constantly fiddling with the police boat   He's another one.
+L320311 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Why don't you take a half day and clean this junk up?
+L320307 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ In the den.
+L320306 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Where's my day book?
+L320299 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What're you guys doing today?
+L320298 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Eat Cheerios.
+L320294 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ So's a donut.
+L320293 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ It's good with coffee.
+L320292 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ You have to smoke so early in the morning?
+L320152 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Better yet.
+L320151 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Hey!  That's my boss!
+L320147 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ As far as the office.
+L320146 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Need a ride?
+L320145 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Mrs. Silvera.
+L320144 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Mrs. Silvera?
+L320139 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Good.
+L320138 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Door's locked.
+L320137 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Sean's awake.
+L320136 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ MMMmmmorning....
+L320135 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Mmmm.
+L320133 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Home it is.
+L320132 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Let's get the kid home.
+L320131 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Right.
+L320130 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Fooling around?
+L320129 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Listen -- what are you doing later?
+L320128 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ I did, I did.
+L320127 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ And how.  I thought you wouldn't respect me.
+L320126 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Remember 1959, the Jersey shore?
+L320123 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Because they're playing our song.
+L320122 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Why?
+L320121 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Can you take a little time out from your busy schedule to dance with the old man?
+L320078 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ My boss and your boss.  Sure.
+L320077 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Do I have to talk to those two?
+L320062 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ I can see that. Don't you know this is a big deal?
+L320061 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Late.
+L320060 +++$+++ u6074 +++$+++ m403 +++$+++ ELLEN +++$+++ Where the hell were you?
+L320618 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Go ahead, whatever it's worth.
+L320617 +++$+++ u6090 +++$+++ m403 +++$+++ VAUGHN +++$+++ Martin, could you wait here for a few minutes while we make up our minds about something?
+L320605 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What the hell does it take to make sense to you numbskulls?  Jesus, it's right there in front of you. I know what a goddamn shark looks like, I've been through it, don't you understand?  I've seen this sonofabitch before!
+L320604 +++$+++ u6090 +++$+++ m403 +++$+++ VAUGHN +++$+++ Martin, it could be anything.
+L320591 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ What?
+L320590 +++$+++ u6090 +++$+++ m403 +++$+++ VAUGHN +++$+++ Chief -- the Board of Selectmen has a question only you can answer.
+L320589 +++$+++ u6068 +++$+++ m403 +++$+++ BRODY +++$+++ Perfect.  Look at this ---

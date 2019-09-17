@@ -1,0 +1,200 @@
+L299875 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Where's my father?
+L299874 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Compensation for my brother-in-law's car. Indy, your father and Brody --
+L299873 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Sallah, I said no camels! That's five camels. Can't you Count?
+L299854 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ No camels!
+L299853 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ But, Indy --
+L299852 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I don't need camels.
+L299851 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ I'll take the camels.
+L299850 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I'm going after those horses.
+L299841 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Come on -- come on!
+L299840 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ That car belonged to my brother-in- law.
+L299829 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Ah, they set out across the desert this afternoon. I believe they took Mister Brody with them.
+L299828 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ What happened to Marcus, Sallah?
+L299827 +++$+++ u1460 +++$+++ m98 +++$+++ SALLAH +++$+++ Get that camel out of the way!
+L299463 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ In that case, God be with you in your quest. Your father is being held in the Castle of Brunwald on the Austrian-German border.
+L299462 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ I didn't come for the Cup of Christ. I came to find my father.
+L299461 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ Ask yourself, why do you seek the Cup of Christ? Is it for His glory, or for yours?
+L299459 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ The secret of the Grail has been safe for a thousand years. And for all that time the Brotherhood of the Cruciform Sword has been prepared to do anything to keep it safe.
+L299458 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ And why were you trying to kill me?
+L299457 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ My name is Kazim.
+L299456 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Who are you?
+L299455 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ If you let me go, I will tell you where he is.
+L299454 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ All right! Where's my father
+L299453 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ No, Doctor Jones. It's yours!
+L299452 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ This is your last chance.
+L299451 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ My soul is prepared. How's yours?
+L299450 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Then we'll die.
+L299449 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ If you don't let go, Doctor Jones, we'll both die.
+L299448 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Where is he? Talk -- or you're dead. Damn it, tell me! Tell me!
+L299447 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ No.
+L299446 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ My father was looking for the Holy Grail. Did you kill him too?
+L299445 +++$+++ u1458 +++$+++ m98 +++$+++ KAZIM +++$+++ Because you're looking for the Holy Grail.
+L299444 +++$+++ u1457 +++$+++ m98 +++$+++ INDY +++$+++ Why are you trying to kill us?
+L300572 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ As I said before, we'd be happy to escort you to Delhi.
+L300571 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I'm sure that will please the Maharajah, Captain.
+L300570 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Well, Mr. Prime Minister, my report will duly note that we found nothing unusual here in Pankot.
+L300343 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Of course. The Thuggees were an obscenity that worshipped Kali with human sacrifices. The British Army wiped them out about the time of the Mutiny of 1857.
+L300342 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Dr. Jones, you know very well that the Thuggee cult has been dead for nearly a century.
+L300312 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ The British worry so about their Empire -- it makes us feel like well- cared-for children.
+L300311 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Just a routine inspection tour.
+L300310 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Captain Blumburtt and his troops are here to check up on the "natives".
+L300568 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Did you discover anything in that tunnel, Dr. Jones?
+L300567 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Then she must have run out of the room and you found her.
+L300565 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ When she saw the insects she passed out cold. I carried her back to her room. She was sleeping when I re- entered the tunnel to look around.
+L300564 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Miss Scott panicked?
+L300563 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I've spent by life crawling around in caves and tunnels -- I shouldn't have let somebody like Willie go in there with me.
+L300380 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Even if they were trying to scare us away, a devout Hindu would never touch meat.  Makes you wonder what these people are...
+L300379 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Rather bizarre menu, wouldn't you say?
+L300360 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Something magical. A sacred rock.
+L300359 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ I'm sure it's nothing. Just rumors.  What was it they claimed was stolen?
+L300326 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ No, he's a very shrewd old boy. Power behind the throne and all that. He actually runs this whole province.
+L300325 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ The Prime Minister doesn't seem that naive.
+L300324 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ This is a different situation, Dr. Jones. These people are like children. We have to lead them slowly into the twentieth century.
+L300323 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You're hanging on better here than you did in America.
+L300322 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Of course. Admittedly, it's taken time. Britain's controlled India for almost two hundred years now.
+L300321 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You think so?
+L300320 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Thank God all that mumbo jumbo rubbish is disappearing.
+L300319 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ It's like the voodoo dolls of West Africa. The kryta represents your enemy -- and gives you complete power over him.
+L300318 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Charming.
+L300317 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ No. But I am interested in the occult. And this is a kryta.
+L300316 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Interested in local curios?
+L300551 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ It's some kind of cult! And they've got the sacred stones that Indy was searching for.
+L300550 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Who?
+L300547 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ We found a tunnel that leads to a temple below the palace! Please, come with me, I'll show you!
+L300546 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ What?
+L300545 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ No -- you can't go! Something awful's happened. They've got Short Round and I think Indy's been --
+L300544 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ Jones isn't in his room. Miss Scott -- my troops are leaving at dawn if you want us to escort you to Delhi --
+L300329 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ Finally!
+L300328 +++$+++ u1461 +++$+++ m99 +++$+++ CAPT. BLUMBURTT +++$+++ I believe we're being called to dinner.
+L300553 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ What're you talking about -- I'm not a dope fiend! I saw it! I'll show you!
+L300552 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I sense the fumes of opium in all this. Perhaps Miss Scott picked up the habit in Shanghai.
+L300549 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ I'm afraid they'll kill them! We saw horrible things down there -- they had a human sacrifice and they ripped a man's heart out!
+L300548 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Miss Scott, you're not making any sense.
+L300315 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ No? Well, I guess he just hasn't met the right woman...
+L300314 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ His Highness has not yet taken a wife.
+L300313 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ Listen, Mr. Lal, what do you call the Maharajah's wife?
+L300303 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ Dinner? And with a prince?! My luck is changing. But look at me -- my god, I've to get ready!
+L300302 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ They will escort you to your rooms now. You will be provided with fresh clothes. Tonight you will be dining with His Highness.
+L300301 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ Oh -- good. And maybe the present Maharajah is a little younger? And thinner?
+L300300 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ No, no, that is Uhmed Singh, the present Maharajah's late father.
+L300299 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ He's not exactly what we call "a spring chicken".
+L300295 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ You should have been there...
+L300294 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ The plane crash and your journey here sound -- most incredible.
+L300291 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I remember first hearing your name when I was studying at Oxford. I am Chattar Lal, Prime Minister for His Highness the Maharajah of Pankot.
+L300290 +++$+++ u1468 +++$+++ m99 +++$+++ WILLIE +++$+++ Hard to believe, isn't it...?
+L300594 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Kali Ma protects us now and for ever, and we must pledge our devotion by worshipping her with an offering of flesh and blood!
+L300593 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ You understand what he tells us?
+L300588 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Yes, I understand.
+L300587 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Mola Ram is telling the faithful of out victory. He says the British have left the palace, which proves Kali Ma's new power.
+L300372 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Exactly what we have here, Dr. Jones.
+L300371 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ That was a misunderstanding.
+L300370 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ And didn't the Sultan of Madagascar threaten to cut your head off if you ever returned to his country?
+L300369 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ The newspapers exaggerated the incident.
+L300368 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Dr. Jones, we are all vulnerable to vicious rumors. I seem to remember that in Honduras you were accused of being a grave robber rather than a scientist.
+L300367 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I was dubious myself at first. Then something connected -- the village's rock and the old legend of the Sankara Stones...
+L300363 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I think that's enough of this nonsense, Dr. Jones...
+L300362 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ When they lost this rock their fields and animals died. They also said their children were taken from them.
+L300361 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ There, you see, Captain. A rock!
+L300358 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Sorry, I thought we were just talking about folklore.
+L300357 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Dr. Jones, in our country a guest does not usually insult his host.
+L300356 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You know the villagers also claimed that this palace stole something from them.
+L300350 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Maybe... but how do you explain The Thuggee shrine I saw right below the palace?
+L300349 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Their stories are just fear and folklore.
+L300348 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Well, I don't know... we came here from a small village and the peasants there told us that the Pankot Palace was growing powerful again -- because of some ancient evil.
+L300347 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ There are no stories anymore.
+L300346 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I suppose stories of the Thuggees die hard.
+L300341 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Yes, very fine. But not all of the pieces look old. Some were carved recently and look like images used by the Thuggees to worship the goddess Kali.
+L300340 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ A very fine collection of very old pieces, don't you think?
+L300339 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I had a question, Mr. Prime Minister. I was examining some of the Maharajah's artifacts.
+L300297 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I am only his humble servant, but the Maharajah usually listens to my advice.
+L300296 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ We'd appreciate it if the Maharajah would let us stay tonight. We'll be on out way in the morning.
+L300289 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ Dr. Jones? The eminent archaeologist?
+L300288 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Lost? No, we're not lost. We're on our way to Delhi. This is Miss Scott -- and Mr. Round. My name's Indiana Jones.
+L300287 +++$+++ u1462 +++$+++ m99 +++$+++ CHATTAR LAL +++$+++ I would say you look rather lost.  But then I cannot imagine where in the world the three of you would look at home...
+L300046 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ At last I have the ashes of my sacred ancestor!
+L300045 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Now what about the antidote, Lao.
+L300040 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ A bonus, Dr. Jones. That is poison. You just drank the rest of it.
+L300039 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ What's that?
+L300025 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ Dr. Jones -- I want Nurhachi.
+L300024 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Next time I'll cut off more than his finger.
+L300023 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ You have insulted my son.
+L300021 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Sure, I found him. Then last night I had a little trouble. Somebody tried to slit my throat.
+L300020 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ So, it is true, Dr. Jones? You found Nurhachi?
+L300018 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I don't like to show off.
+L300017 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ You never told me you spoke my language, Dr. Jones.
+L300015 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ Nee chin lie how ma?
+L300014 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Lao She.
+L300013 +++$+++ u1464 +++$+++ m99 +++$+++ LAO +++$+++ Dr. Jones.
+L300651 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ What?
+L300650 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Let up on the brake!
+L300649 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Read you loud and clear, Indy!
+L300648 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Slow on the curves or we'll fly off the tracks!
+L300625 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Behind you!
+L300624 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Come one, what's wrong?
+L300516 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Why?
+L300515 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ This is Nainsukh -- from the village. They bring him here to dig in the mines.
+L300499 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Legend says that when the stones are brought together the diamonds inside of them will glow.
+L300498 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Why they glow like that?
+L300497 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ The village knew their rock was magic -- but they didn't know it was one of the lost Sankara Stones...
+L300441 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ "Follow in the footsteps of Shiva. Do not betray his truth."
+L300440 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ What does it mean, Indy?
+L300422 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Okay, Shorty... see you in the morning... I'm going to have a little -- word with Willie.
+L300421 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Get to sleep Indy -- I stay up and keep eye on things...
+L300395 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Yeah, that's what happened...
+L300394 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ He was afraid of you. He knows a tough guy when he sees one.
+L300393 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Indy, they glow like fire and get real crazy! Then he talk in this real scary voice!
+L300392 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ No.
+L300391 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Next time I flatten him! Did you see his eyes?
+L300390 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You don't like him do you?
+L300389 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ That little Maharajah think he big stuff.
+L300276 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Just a statue.
+L300275 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ What you look at, Indy?
+L300273 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ That's it. Pankot Palace.
+L300272 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Indy, look!
+L300185 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Nope, you got a little surprise over there, Shorty.
+L300184 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ I ride with you, Indy?
+L300159 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ It's just superstition, Shorty. Like a ghost story.
+L300158 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Indy, they make our plane crash? To get you here?
+L300122 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Okay, Shorty.
+L300121 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Indy?
+L300081 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Sure, Indy -- three tickets! You, me and Wu Han --
+L300080 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You got the tickets, Short Round?
+L300067 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Okey-doke, Indy! Hold onto your potatoes!
+L300066 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Step on it, Short Round!
+L300065 +++$+++ u1467 +++$+++ m99 +++$+++ SHORT ROUND +++$+++ Wow! Holy smoke! Crash landing!
+L300688 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ You're betrayed Shiva. 
+L300687 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ No, the stones are mine!
+L300685 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Mola Ram -- you're about to meet Kali -- in Hell!
+L300684 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ Give me the stones!
+L300679 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ You are in no position to give orders, Dr. Jones.
+L300678 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ That's far enough!
+L300532 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ You do not believe me? You will, Dr. Jones. You will become a true believer.
+L300531 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Nobody can say you don't have a vivid imagination.
+L300530 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ They dig for the gems to support our cause. They also search for the last two stones. Soon we will have all five Sankara Stones and the Thuggees will be all powerful!
+L300529 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ That's what you've got these children -- these slaves digging for?
+L300528 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ No. They are here -- somewhere. A century ago when the British raided this temple and butchered my people, a loyal priest hid the last two stones down here in the catacombs.
+L300527 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Two are still missing.
+L300526 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ There were five stones in the beginning. Over the centuries they were dispersed by wars, sold off by thieves like you...
+L300525 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Nobody's perfect. The way I heard it, you stole one of them from a small village.
+L300524 +++$+++ u1465 +++$+++ m99 +++$+++ MOLA RAM +++$+++ You were caught trying to steal the Sankara Stones.
+L300173 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I'm sorry, I don't know how I can help you here.
+L300172 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ You will find them when you find sivlalinga.
+L300166 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ They say we must pray to their evil god. We say we will not.
+L300165 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ But why would the Maharajah take this sacred stone?
+L300163 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ And it had three lines painted across it?  The lines represent the three levels of the universe. I've seen stones like the one you lost.
+L300162 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ Long ago -- before my father's father.
+L300161 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Was the stone very smooth?  It was probably brought here from a sacred river.
+L300157 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ No. We pray to Krishna to help us find the stone. It was Krishna who made you fall from sky -- so you can got to Pankot Palace. To find sivalinga -- and bring back to us.
+L300156 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Nobody brought us here. Our plane crashed. We were shot down by --
+L300155 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ It is why Krishna brought you here.
+L300152 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ They came from Palace and took sivalinga from out village.
+L300151 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ What evil?
+L300150 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ The evil starts in Pankot. Then like monsoon, it moves darkness over all country.
+L300149 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ I don't understand. What's happened here?
+L300148 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ It is Pankot Palace that kills my village.
+L300147 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ No. Now there is new Maharajah -- and palace is powerful again.
+L300146 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Hasn't the Pankot palace been deserted since the Mutiny of 1857?
+L300145 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ You will go to palace there.
+L300144 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ Pankot isn't on the way to Delhi.
+L300143 +++$+++ u1466 +++$+++ m99 +++$+++ SHAMAN +++$+++ On the way to Delhi, you will stop at Pankot.
+L300702 +++$+++ u1463 +++$+++ m99 +++$+++ INDIANA +++$+++ It's still a long way to Delhi. Who knows what might happen.

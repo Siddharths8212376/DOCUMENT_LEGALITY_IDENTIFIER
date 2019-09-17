@@ -1,0 +1,200 @@
+L525459 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ I think I can handle it.
+L525458 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Uh...
+L525457 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ What, and leave you here all by your lonesome?
+L525456 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Nah, I already ate.  Why don't you just go down there?
+L525455 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Man, I'm hungry.  I'm going to call the steward, you want anything?.
+L525454 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Thank you.
+L525453 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ That's very pragmatic of you, Barnes.
+L525452 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ You gotta think of your old age.
+L525451 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ It's steady, good benefits.
+L525450 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ You want to go back to shuttle work?
+L525449 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Well that hotel begins construction in January, there's going to be a lot of shuttle work.
+L525448 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Why, didn't they say?
+L525447 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ I don't know.  Everything's up in the air at this point, no pun intended.
+L525446 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ So, are you on for the next one?
+L525445 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Ain't it the truth. The two say nothing for a beat -
+L525444 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Well, everything's running smoother than a baby's ass.
+L525384 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ All right, I'll give it a shot.
+L525383 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Trust me.  Even checked 'em with my own eyes.
+L525382 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ You're certain of that?
+L525381 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Why don't you reset and run it again.  The pods check out ok.
+L525380 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Yes I'm sure I hit the right commands.
+L525379 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ There must be some mistake. You sure you hit the right commands?
+L525378 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ It's telling me fail mode confirmed.  Did you see this?
+L525377 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Well it's a good thing that I did.
+L525376 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ No, I just ran it!  Why are you running it again?
+L525342 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Sounds like you've been talking to Mac too much.
+L525341 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Well I guess there's no time like the present.  I'll go run a check on that room, just to show we go that extra mile for our guests.
+L525895 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Over and out!
+L525894 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Sheesh!  Aye aye cap'n!
+L525893 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Good.  Now you'll hear from me when I have the new coordinates. In the meantime don't bug me.
+L525892 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ That's clear.
+L525891 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Is that clear?
+L525888 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ This is a major screw up on your part, goddamn it!
+L525887 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Now I got enough air and supplies to make another complete orbit in the pod!  You're just gonna have to pick me up later.
+L525885 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Let's get something straight, Chappy!
+L525884 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Goddamn it Barnes this really steams my onions!
+L525883 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ I told you, I had to teach a few people a lesson!
+L525882 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Well if you knew it then why did set your thrusters on before making the calculation?
+L525862 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Don't worry about me, I'm changing coordinates now.  I've come to far to be tripped up by some Dudley do-right... motherfuckers!
+L525861 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Well blaze your ass out of there! You've completely altered your trajectory, are we linking up or not?!
+L525860 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ This ship is going down in a blaze of glory!
+L525859 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ The others decided to get cute with me, so I'm teaching them a lesson!
+L525858 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ You're not helping my heart condition any, Barnes!  Now just what the hell are you dragging your ass for?
+L525809 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Damage control!  What kind of damage? What's going on Barnes!
+L525808 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Cool your jets...I'm doing a little damage control.
+L525807 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ So, what are we waiting for?
+L525806 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ I know, I know.
+L525805 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ It's time we lock coordinates.
+L525594 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ 10-4 good buddy.
+L525593 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Oh you'll get it, believe me.  So I'll see you in a few.
+L525592 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Well that's your call.  Doesn't make a damn bit of difference to me.  Just as long as I get my cut.
+L525591 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ I don't know.  I really haven't made up my mind yet.  We'll see how nicely they behave.
+L525590 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Will do.  What about the distress signal?
+L525589 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Yeah, I know Bill, I came up with the plan remember?  Just have those hangar doors open and ready, I can take it from there.
+L525588 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Well don't drag your ass.  There won't be much of a window for us to link up.  We'll be in your orbit trajectory in less than two hours.
+L525587 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ Seems like they're cooperating. Hopefully I'll be out of here and on my way very soon.
+L525586 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Break it down to me, what's going on?
+L525585 +++$+++ u7777 +++$+++ m526 +++$+++ BARNES +++$+++ That's me.
+L525584 +++$+++ u7784 +++$+++ m526 +++$+++ PILOT +++$+++ Barnes?
+L525864 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Just don't move around too much.
+L525863 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ It's getting hard to breathe...
+L525748 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Will you shut up already?
+L525747 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ We're going to die.
+L525726 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Don't say that!  It ain't over till it's over!
+L525725 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ What's the use...we're gonna die...
+L525410 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ I don't have a problem with it. Besides, you get to meet a lot of interesting people.
+L525409 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ Well, more power to you.  Me, I start to bug out after too much time out here.
+L525408 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Not me.  I'm in for the long haul. In nine months I'll have enough to take a few years off.
+L525407 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ Well...I don't mind.  I can put up with it.  I'm taking six months off after this, and I won't have to deal with people snapping their fingers at me.
+L525406 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Like that piece of ass he was with.
+L525405 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ No.  But it buys a lot of other things.
+L525404 +++$+++ u7781 +++$+++ m526 +++$+++ JACK +++$+++ Yeah, I guess money don't buy class.
+L525403 +++$+++ u7778 +++$+++ m526 +++$+++ CARLO +++$+++ Look at this...Jesus.
+L525994 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I don't know.  Wave to them!
+L525993 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ What is it?!
+L525990 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Try not to think about it.
+L525989 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Right now it's about 8 o'clock at home.  People are going to work, kids are going to school...
+L525984 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Good.  In that case, I pronounce us man and wife.
+L525983 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ In that case, I accept.
+L525982 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ It would matter to us.
+L525981 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I would, but no one can perform the ceremony.  I guess it doesn't matter.
+L525980 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ That's right.  Will you marry me?
+L525979 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Marry you?
+L525978 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Will you marry me?
+L525976 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Except write our wills.
+L525975 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ It did.  It is.  There's nothing we can do about that.
+L525974 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I never thought this would happen.  No premonitions, nothing.
+L525962 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ And so far.
+L525961 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ So close...
+L525952 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ We don't have time.  I'll explain later, hurry!
+L525951 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ What do you mean?  What happened!
+L525950 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ We have room!  Let's go!
+L525949 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ What the hell are you doing?
+L525914 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Over and out.
+L525913 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Sooner than later.
+L525912 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Hopefully sooner than later.
+L525911 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Thanks for everything, Taylor. Will I see you again?
+L525910 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I'm staying with the ship.  I'll be all right.  Now hurry.
+L525909 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ So what's going to happen to you?
+L525908 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I'll do my best.
+L525907 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Uh, it's ok, everything's going to be ok...now I'm counting on you, and whatever you do keep calm, we don't want them to panic.
+L525906 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ How does the distress signal look?
+L525905 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Hurry.  You have to get them out of there!
+L525904 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I'm about to blow the wall.
+L525903 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ He's out of the equation.  Talk to me.
+L525902 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Barnes?
+L525901 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I'm in the bridge.
+L525900 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Taylor!  Where are you?
+L525899 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Dawn.  Come in.
+L525857 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ You too.
+L525856 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I will once I get past the bulkhead.  Good luck.
+L525851 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I can't!
+L525850 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ But you can't be sure!  It's suicide.  You have to come with us!
+L525849 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Don't worry about me.  There's still a chance I can issue a distress signal.
+L525848 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ But how are you going to escape?
+L525847 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I'm going to try and buy you some time.  I can get to the bridge from here.
+L525846 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ And what are you going to do?!
+L525845 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ There's only room on that pod for seven.  That's you and the others.  I'm counting on you to get them out of there.
+L525844 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ What?  What are you talking about?
+L525843 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I'm not going with you.
+L525842 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Why?  Where are you going?
+L525841 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ A little dab'll do ya. Now you know how to get there, right?
+L525838 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ No...
+L525837 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ A flare?  A flare won't do it.
+L525836 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Take this flare.
+L525833 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ That's why we need a safe passage. remember what you said earlier, about getting through the wall? That might just be our ticket.
+L525832 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ We don't have enough suits to get the others out.
+L525831 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ A schematic of the ship.  Looking for a lifeline to the pods.
+L525830 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ What's that?
+L525828 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ The room is filled with poison gas.  The hydraulic system must have blown.
+L525827 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Oh my God.  What happened?
+L525826 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ It was no time to lose my partner. We're going to have to hurry, he's on to us.
+L525825 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I guess I owe you a debt of gratitude.  You saved my life.
+L525815 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Helllp!
+L525814 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Dawn!  Dawn!
+L525801 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Words to live by.
+L525800 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Don't worry about what will happen, just concentrate on what is happening.  You'll live longer.
+L525799 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Sure.
+L525798 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Do you want some advice?
+L525797 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Yeah, but you didn't answer my question.
+L525796 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Well, Dawn, I'm an optimist by nature.
+L525795 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ What do you think's going to happen to us?
+L525794 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Yeah?
+L525793 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Taylor?
+L525790 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ One of Barnes' duds, luckily for us.  Take this out of the equation right now...
+L525789 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Explosive?
+L525786 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Don't worry about me.  Where are we going?
+L525785 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Be careful, you don't want to puncture the suit.
+L525770 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ At this point I'm ready for anything.
+L525769 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ You're ready for the real thing?
+L525767 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ So we did.
+L525766 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Yeah.  We did it.
+L525763 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Ready as I'll ever be.
+L525762 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Are you ready?
+L525761 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ I understand.
+L525760 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I don't know what we're facing.
+L525740 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Simulated space walking.
+L525739 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Look I know what I'm doing. I have experience and training in space walking.
+L525738 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I can't let you do that.
+L525736 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Wait.
+L525735 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Everyone just stay put.
+L525731 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Even if we do, it might be too late.
+L525730 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ If I could get to the bridge I could send the distress signal.
+L525662 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Yeah, let's hope he can find a way through.
+L525661 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ It must be oxygenated if we can hear him.
+L525656 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Close every door behind you!
+L525655 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ He certainly is polite.
+L525650 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ You're right.
+L525649 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ We could send Mac.  If he can retrieve one suit, we could go back for the other.
+L525648 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Suppose you didn't have to hold your breath?
+L525647 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ And suppose you couldn't hold out?
+L525645 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I don't know the condition of the compartments.  Depending on damage, debris...could be a fatal mistake.
+L525644 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Why can't we?
+L525643 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Damn it.  If only we could get to those suits... Dawn then thinks of something -
+L525613 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Great.
+L525612 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Sure. It complies with all standard construction codes.
+L525611 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Seen one like it before?
+L525610 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ OK...it's open.
+L525579 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ With what?  How am I going to interface with it?  I need to be able to talk to the system and to have the system talk to me.
+L525578 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Can't we access the mainframe to check the ship's condition?
+L525577 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ It depends on the condition of the ship.  If I could get to one of the suit compartments I could check the exterior air locks for a possible entry.
+L525576 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Supposing we could get out of this room?  Is there anything we could do to reach the bridge?
+L525548 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Just considering our options... sir.
+L525547 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I don't think you know what you're talking about.  Besides, what could we use for tools?  A steak knife?  A corkscrew?
+L525546 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Well maybe we can do something like that.
+L525545 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Probably come through the wall I suppose.
+L525544 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Given a malfunction, how would a rescue team get you out if the doors won't open?
+L525543 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Fat chance of that.  Even if we had C4 and a laser torch these doors wouldn't budge.  That son of a bitch...that stupid son of a bitch.
+L525542 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Well maybe there's a way out of here.
+L525541 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ We don't.
+L525538 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I don't know.
+L525537 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ What are we going to do?
+L525401 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Still, I hope I behave on the moon.  I'll stick close to you.
+L525400 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Really?
+L525399 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Actually I've logged about 200 hours of simulated space walking at the institute, mostly related to starship construction.
+L525398 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ I'm sure you'll be all right.
+L525397 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Well I hope I don't do anything careless.
+L525396 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Well I don't think there's a chance of that happening.  It's usually the moon walks.  Sometimes you feel like a kindergarten teacher.
+L525395 +++$+++ u7779 +++$+++ m526 +++$+++ DAWN +++$+++ Like open an airlock by mistake?
+L525394 +++$+++ u7786 +++$+++ m526 +++$+++ TAYLOR +++$+++ Well, let me put it this way.  Most of the cost is due to safety reasons. Most people are not familiar with space travel, so we have to take extra precautions in the event they do something careless.

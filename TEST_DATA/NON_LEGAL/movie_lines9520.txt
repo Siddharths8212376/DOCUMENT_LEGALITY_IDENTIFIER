@@ -1,0 +1,200 @@
+L24113 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Kill me...
+L24112 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What can I do?
+L24111 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No good... it's eaten too much of me...
+L24110 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ But I can save you -- get you to the Autodoc!
+L24109 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No... don't...
+L24108 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I'll get you out of there.
+L24107 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That was Melkonis... it ate Hunter...
+L24106 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Look...
+L24105 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What did it do to you?
+L24104 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Kill me...
+L24093 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Kablooey.
+L24092 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ And you stand aside while we drive it in, then shut the hatch, launch the boat, and --
+L24091 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ And you'll let me know when you've got it coming this way...
+L24090 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ All right, Martin, we'll be in touch with you on the communicator.
+L24085 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Who gets the privilege?
+L24084 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Yes, and maybe launch the boat and blow it too... if the others are injured.
+L24068 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Now.  If we can get it into the boat, we won't have to blow it up -- we can just eject it into space.
+L24067 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ So what do we do?  Do we ignore it and finish loading the explosives into the boat -- or do we flush it out now?
+L24064 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It's stable; it doesn't hurt to drop it.
+L24063 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ <u>Hey watch it</u>!
+L24062 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Here, carry these.
+L24061 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ You know, it's funny -- this stuff we went to so much trouble to dig up -- this treasure, the paydirt -- it'll make it back to Irth just fine -- even if we're not with it.
+L24048 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ But the idea's good, if we could just turn it around somehow.
+L24047 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Yeah... I forgot.
+L24046 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No, it won't work and I just realized why.  There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
+L24043 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Doesn't matter -- we're already at light speed.  And when we get back to the Colonies, they'll pick us up in the network.
+L24042 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ But the lifeboat can't accelerate to light speed.
+L24039 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Right... but it'll take a few minutes for the engines to overheat and melt down the core.  In the meantime, we get in the lifeboat and leave the ship.
+L24038 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That'll blow the ship up.
+L24037 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Okay.  First we shut down all the cooling systems on the stardrive engines.
+L24036 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's hear it.
+L24033 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That kind of remark is pointless. Now come on -- I want to hear every suggestion you can come up with, no matter how wild.
+L24032 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ It was time for that a couple days ago.
+L24027 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ No such luck.  I saw it running down one of the corridors.
+L24026 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ At least we're rid of the damn monster.  It must have been the first thing sucked out of the ship.
+L24025 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Poor kitty; puss puss puss.
+L24024 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ No, I had to seal off a whole section.  We'd lose too much of our remaining air if we opened the connecting door.
+L24023 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Can we get to him?
+L24022 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I saw it.  Faust got himself jammed in the air lock door.  His body held it open.
+L24013 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ ... More spores coming.
+L24012 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Which presumably means...
+L24009 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Then that tomb... must have been some kind of fertility temple... where they stored their eggs, and maybe held mating rituals...
+L24008 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ This is all the same creature.  We're seeing the different stages in its life-cycle.
+L24006 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ So the next step should be --
+L24005 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That next thing there -- six legs, tentacles -- that's the thing we saw in the food locker.
+L24000 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I know it looks like a senseless jumble, but if you look closely, there are recognizable forms.
+L23999 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well... yes... there's a pattern... but it's meaningless to me.
+L23998 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Can you make out any pattern in all that?
+L23985 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Nothing.
+L23984 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What's that supposed to mean?
+L23983 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Two down, four to go.
+L23969 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ By eating our food supplies.
+L23968 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ How did it get so <u>big</u>?
+L23948 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Right now let's keep it closed.
+L23947 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ That's a flip-flop gate to channel the air, but we can use it to trap the thing.
+L23938 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's be democratic.
+L23937 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ So the only question left is: who gets to crawl down the airshaft?
+L23931 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ The man would need protection, obviously -- as well as some way to drive the thing before him.
+L23930 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Are you <u>crazy</u>?
+L23916 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What do you think?  Now we go in.
+L23915 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Now what?
+L23913 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Go ahead, Jay.
+L23912 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ This stuff's deadly -- I hope we know what we're doing.
+L23909 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ You win.
+L23908 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Once we kill the thing we won't need the food any more -- we can go straight into hypersleep.  Also, it sounds like that thing is already doing a pretty good job on our supplies; it may be fouling them all.
+L23907 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Hey, wait a minute!  That's all our food supplies in there!  We can't pump poison gas all over them!
+L23900 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I guess we open the door and net it.
+L23899 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Now what?
+L23898 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It started crashing around right after we locked it in.
+L23897 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What's it doing, having a seizure?
+L23895 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We're coming!
+L23894 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Food-storage room!
+L23893 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Where are you?
+L23892 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We've got it up here!  It's trapped! Get up here fast!
+L23891 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Yes!
+L23870 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Even simple.
+L23869 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ These will be very useful.  At least we won't have to go digging around in closets with our bare hands.  All right, here's the battle plan: we're going to break into two teams and start systematically covering the ship.  Whoever finds it first, catches it in the net and ejects it from the nearest airlock.  Clear?
+L23841 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ But if we <u>haven't</u> caught it in a week, then we have to go into the freezers anyway.
+L23840 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ All right, so that's what we've got. A week.  It's plenty of time.
+L23839 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We won't need it then.
+L23784 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That's okay, he can remain in hypersleep until they're ready to treat him.
+L23783 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We'll have to go into quarantine, maybe for quite a while.
+L23782 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I think the best thing to do with Broussard is to just freeze him as he is.  It'll arrest the progress of his disease, and he can get complete medical attention when we get back to the Colonies.
+L23781 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Quit complaining; we're in space.
+L23780 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ That's the part that always makes me feel like I'm gonna puke -- when we accelerate into light speed.
+L23778 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ With great pleasure.
+L23777 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ You bet we made it.  Martin, set course for Irth and accelerate us into stardrive.
+L23776 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We made it!  Damn, we made it!
+L23771 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's take her into an escape orbit.
+L23770 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Engaged.
+L23767 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Up one kilometer, Jay.
+L23766 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Take us up.
+L23754 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ They seem native to the planet.  It's got an atmosphere and a dense gravity.  It's dead now, but once it must have been fertile.
+L23753 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Where did the parasites come from?
+L23749 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ If we knew exactly what happened to the beings on the other ship --
+L23748 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I can't lean on Faust any harder -- he's been working non-stop on the engines.
+L23747 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Look, I'm not trying to rub anybody's nose in anything.  The important thing is just to get away from here as fast as possible.
+L23746 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I'm sorry to say it looks like you were right in the first place, Martin.  We never should have landed here.
+L23728 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Is that its mouth?
+L23727 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Look at these suckers -- no wonder we couldn't get it off him.
+L23700 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Broussard had film in his datastick, didn't he?  We can see what happened to him.
+L23699 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What film?
+L23645 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ He went into the pyramid alone.  We lost radio contact with him.  When we pulled him out, it was on his face. It won't come off, not without injuring him.
+L23644 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Would somebody fill me in?
+L23638 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Good.
+L23637 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I understand why you did that.
+L23620 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Martin, this is an order!  Open the door!
+L23619 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Chaz, listen to me -- we've broken every rule of quarantine.  If we bring an organism on board, we won't have a single layer of defense left.
+L23618 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We can't leave him out here, open the door.
+L23617 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Chaz, if it's an organism, and we let it in, the ship will be infected.
+L23616 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ You hear me, Martin?  Open the outer door.
+L23615 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It's some kind of organism, it's attached itself to him.  Let us in.
+L23614 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Chaz -- what happened to Broussard?
+L23613 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We're coming up now, open the outer lock door.
+L23612 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Here, Chaz.
+L23602 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Can't talk now; Broussard's injured. We'll need some help getting him into the ship.
+L23601 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Thank Christ!  We lost you!  Listen, there's been a new development --
+L23600 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Yeah, we hear you!  We're coming back!
+L23599 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Hey, can you guys hear me?
+L23485 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Tell you what, Martin.  As soon as the engine's fixed --
+L23484 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ This ship is full of cat hair.
+L23483 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ But why draw it on the wall?
+L23482 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...
+L23481 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What would you say that was supposed to mean?
+L23480 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I've always respected your opinion, Martin.  If something worries you, it worries me.
+L23479 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Oh well... you know me.
+L23478 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Still worried?
+L23477 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I don't even know what I'm looking for.
+L23476 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Find anything we missed?
+L23458 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What killed it?
+L23457 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ But?
+L23456 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I agree.  This is the single most important discovery in history.
+L23455 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Martin?
+L23424 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It appears to be some sort of spacecraft.  We're going to approach it.
+L23423 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Found what?
+L23422 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Martin, uh, we've found it.
+L23411 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Good.  I'm getting you clear too. Let's just keep the line open.
+L23410 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Okay, Chaz, I hear you.  I've got you on my board.
+L23396 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well, we won't need pressure suits, but breathing masks are called for. Sandy -- can you rig up some kind of portable unit that we can use to follow that transmission to its source?
+L23395 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Yeah, rock particles.  Dust.
+L23394 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Anything else?
+L23393 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Not a one.  It's dead.
+L23392 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Any microorganisms?
+L23391 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Zero.  Dry as a bone.
+L23390 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Good!  Moisture content?
+L23389 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Ten to the fourth dynes per square centimeter.
+L23388 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Nontoxic... but unbreathable. Pressure?
+L23387 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ 10% argon, 85% nitrogen, 5% neon... and some trace elements.
+L23382 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Sandy... how far are we from the source of the transmission?
+L23381 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Yeah, okay. 
+L23353 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Engine room, what happened?
+L23352 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What the hell happened?
+L23338 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Turn on navigation lights.
+L23337 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Atmospheric turbulence.  Dust storm.
+L23330 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ No -- that's atmosphere.  Cloud layer.
+L23329 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It's out of focus.
+L23296 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well, it's finally happened.
+L23295 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Oh my God.
+L23278 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Computer, you have signalled a priority three message.  What is the message?
+L23277 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's hear it.
+L23276 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Chaz, I've got something here on my security alert.  A high priority from the computer...
+L23275 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ This is Chaz speaking.  Sorry, but we are not home.  Our present location seems to be only halfway to Irth. Remain at your posts and stand by. That is all.
+L23267 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Sandy, contact traffic control.
+L23266 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Where are we?
+L23261 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Right.  Fire up all systems.
+L23260 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ All right, tycoons, let's stop spending our credit and start worrying about the job at hand.
+L27233 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Yeah...
+L27232 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ Better?
+L27229 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ Do you want a tablet?
+L27228 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ It's nothing, Doc.  Just a... touch of indigestion... something.
+L27227 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ What is it?
+L27205 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ Sure.
+L27204 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Can I... um... have some water?  Please?
+L27188 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ Forget that.  I want you off alcohol for at least seventy-two hours. I've got some toxin build-up tests still to run.
+L27187 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ The head's okay, but I could sink a six-pack.
+L27186 +++$+++ u3597 +++$+++ m237 +++$+++ REVNA +++$+++ Headache?  Dehydration?
+L27116 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Wait a minute.
+L27115 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Let's get back and call this in.
+L27112 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Bloody big if it is.  Top's open.
+L27111 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Looks like a spore.  Fungus of some kind, maybe?
+L27110 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ I told you we... what's that?
+L27109 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ God, I hope that thing didn't bring down a virus.
+L27108 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Yeah, it's fine.
+L27107 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ No, it's still breathing.  Kinda clammy though.  Are you sure your stick's not broken.
+L27106 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Is it dead?
+L27105 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ It's a rhino.
+L27103 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Well, just keep looking.  It's gotta be... whoa, Jesus!
+L27102 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Nada. No radiation... no movement... nothing.
+L27068 +++$+++ u3598 +++$+++ m237 +++$+++ YORK +++$+++ Do you wanna head back and call it in?
+L27067 +++$+++ u3586 +++$+++ m237 +++$+++ ACKLAND +++$+++ Me either.  I tell you, I used to be with a mining outfit on Callisto, and when something like that hits... believe me, you know about it.
+L27140 +++$+++ u3595 +++$+++ m237 +++$+++ MINH +++$+++ Yep...
+L27139 +++$+++ u3587 +++$+++ m237 +++$+++ BEAUVAIS +++$+++ Minh...
+L27137 +++$+++ u3595 +++$+++ m237 +++$+++ MINH +++$+++ Oh man...
+L27136 +++$+++ u3587 +++$+++ m237 +++$+++ BEAUVAIS +++$+++ We've got no option.  We're gonna have to get it off.
+L27032 +++$+++ u3595 +++$+++ m237 +++$+++ MINH +++$+++ Nah.  I just wanna squeeze off a few rounds.  'Sides, they tagged the rhinos for the migration project, so they're protected.  They'll dock you a month's pay for just mentioning it.
+L27031 +++$+++ u3587 +++$+++ m237 +++$+++ BEAUVAIS +++$+++ Good argument for gun-control.  What are you going after, rhino?
+L27030 +++$+++ u3595 +++$+++ m237 +++$+++ MINH +++$+++ Thanks.
+L27029 +++$+++ u3587 +++$+++ m237 +++$+++ BEAUVAIS +++$+++ Nice howitzer you've got there.
+L27560 +++$+++ u3596 +++$+++ m237 +++$+++ PARSONS +++$+++ Keep trying!
+L27559 +++$+++ u3588 +++$+++ m237 +++$+++ CASSIE +++$+++ I can't reach her.  Too much signal break-up.

@@ -1,0 +1,200 @@
+L11002 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Oh, Sandro...
+L11001 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I have no desire to sacrifice myself... It's idiotic to sacrifice oneself... Why?... For whom? If Anna were here I might understand your scruples. But she's not...
+L11000 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ But sooner or later we've got to end this relationship. And it's better to do it right now.
+L10999 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I don't know why. I just couldn't help it.
+L10998 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Sandro, I don't want you to come with me, I don't want to see you... How can I make it clear to you?...Why did you come?
+L10993 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ But then when will we see each other?
+L10992 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Yes, you should go.
+L10991 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Yes. I had also thought of going there to talk with them...
+L10990 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Have you read it?... They're asking for anyone with information to get in touch with them.
+L10989 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Then I'll go with you.
+L10988 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Yes.
+L10987 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Where are you going?... To Montaldo's?
+L10883 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Yes, maybe that is better.
+L10882 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I think that you might go and have a look yourself.
+L10856 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I know. I keep asking myself what I could have done to prevent all this from happening.
+L10855 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And yet, she seemed to feel that our love for her -- mine, yours, even her father's, in a certain sense -- weren't enough for her, or didn't mean much to her.
+L10854 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Occasionally, but always with affection.
+L10853 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Has she ever spoken to you about me?
+L10852 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Yes, very much so.
+L10851 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ You're very fond of Anna, aren't you?
+L10850 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I'm sorry about last night. Please forgive me.
+L10849 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Are you feeling better?
+L10845 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Rather than being so occupied with my thoughts, you would have been better off trying to understand what Anna was thinking.
+L10844 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And I suppose it's my fault... Why don't you tell him that too. That's what you believe, isn't it?
+L10841 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ But why don't you tell him?  A girl who was with us has disappeared.
+L10840 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Nothing... nothing at all!
+L10831 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ And how do you explain that?
+L10830 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Nothing but the usual argument... The only thing was -- if I remember correctly -- that she said she had a need to be alone.
+L10826 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I... I don't know... I didn't think it was worthwhile... She was laughing over it...
+L10825 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And why do you tell us this only now?
+L10824 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ As far as I'm concerned, I think she's alive... Why, even this morning... that business about the shark... it wasn't at all true.
+L10794 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ No.
+L10793 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Find anything?
+L10754 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Could be. They're the kind of people who are capable of anything.
+L10753 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I'm beginning to have my doubts. It couldn't be that they're in love?
+L10752 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And why haven't they left each other?
+L10751 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Twelve years ... But why haven't they married?
+L10641 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Oh, no... please... not here.  It looks too dangerous.
+L10640 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Shall we go for a swim?
+L10632 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ And that's what I say, too. We could have all been killed.
+L10631 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ There's nothing much to laugh at.
+L10626 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ But of course... arrogant, haughty... Hasn't Anna ever told you?
+L10625 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ How should I be ... arrogant?
+L10624 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Don't be so humble.
+L10623 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ That seems to apply to you also...
+L10622 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I have a feeling that you're not used to being alone.
+L11333 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Yes, you're right. I'm sick and tired of being like that.
+L11332 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ You should never wish to get melodramatic over anything.
+L11331 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Just several days ago, the thought of Anna being dead would have made me sick. And now, I don't even cry, I'm afraid she might be alive. Everything is becoming so damned simple and easy, even to deprive one's self of pain and suffering.
+L11330 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Now, listen. For God's sake, try not to let yourself become obsessed with that idea. Go to your room and get back into bed.
+L11329 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ But what's gotten into you?... We would have known. Sandro must be out in the garden somewhere, taking a breath of fresh air, or watching the break of dawn. It would be a lovely surprise indeed if he turned out to be the sentimental type.
+L11328 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I'm afraid that Anna has come back. I feel she's back, and that they're together.
+L11327 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ More or less, we are all afraid. Especially at night.
+L11326 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Patrizia, I'm afraid.
+L11320 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Would you please see if Sandro is with him? He's not in his room. I'm sorry to disturb you.
+L11319 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ I imagine he must be inside sleeping.
+L11318 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Patrizia... Patrizia ... Where's Ettore?
+L11290 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ It means being without money.
+L11289 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ What do you mean by sensible?
+L11288 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ My childhood, instead, was a very sensible one.
+L11285 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ You shouldn't always take me seriously. Actually, I'm used to it by now. First my mother and now my husband; both of them are like dynamos.
+L11284 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ How do you manage to put up with all this confusion? You always said people bore you.
+L11275 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Quieter? Oh, yes, of course.
+L11274 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Shouldn't we try to find a quieter place?
+L11142 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ But then why did you bother changing?
+L11141 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I'm not coming.
+L11110 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ No.
+L11109 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Do you consider that a compliment?
+L11108 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ You say that just to flatter me.
+L11107 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ It's divine!
+L11040 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ It was futile. We went all over.
+L11039 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ But where did you finally end up?
+L10958 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ But aren't you tired? I can just about manage to stand on my feet!  Raimondo!
+L10957 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I just can't leave without first searching those islands, one by one.
+L10956 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ To do what?
+L10955 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I'm going with the patrol boat to make a tour around the islands.
+L10885 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Calm?... He doesn't seem so to me... He was awake all night.
+L10884 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ What amazes me, is Sandro. He seems so calm.
+L10732 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Not really... It's suffocating in here... Shall we go out?
+L10731 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Have you ever been in love?
+L10730 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ One would have to be in love with somebody to know that.
+L10729 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ He amuses me. I don't know of anything more amusing. Outside of this jigsaw puzzle. Don't you find it so, Claudia?
+L10725 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Oh no; quite the contrary. He's really just a child.
+L10724 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I would say he's pretty depraved.
+L10723 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Tell me, Claudia, what do you think of Raimondo?
+L10709 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ Better dead.
+L10708 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Well, with a shark running loose around the place, I for one won't get aboard that raft! They'll have to catch it first. I want to see it right here before my feet, dead or alive.
+L11138 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ I think all you have to do, Giulia, is to close the door.
+L11137 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Now what do I have to do to be left in peace?
+L11136 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ It couldn't be any clearer.
+L11135 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ And tell Corrado, too, that I'm here... if he wants me. You can also tell him that my tiny little heart is beating like mad, and that at this moment, it's the only thing that interests me. Is that clear?
+L11119 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ But why all nudes?
+L11118 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ They're all nudes, if I'm not mistaken.
+L11114 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Please, do come... Don't leave me alone with him. He's capable of... I don't know... Have you noticed his eyes?
+L11113 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ But for what reason should I come there?
+L11112 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Please, you come too...
+L10736 +++$+++ u3532 +++$+++ m233 +++$+++ CLAUDIA +++$+++ To the shark.
+L10735 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Who are you talking to?
+L11043 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ When one approaches fifty, my dear, he is affected only by the cold.
+L11042 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ But how can you carry on a discussion in this heat?
+L10890 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Really! So that you can stuff it with your geraniums.
+L10889 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Corrado, why don't you ask them to give it to us as a gift?
+L10865 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ We, too, you know. It was disastrous. First at Panarea, where there weren't any boats... then at Lipari, where everybody was asleep... And the phone call to Rome...
+L10864 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ What do you think?
+L10863 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ How did you spend the night?... In that hut?... And what did you have to eat?
+L10820 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ If it rains, I'll buy myself an umbrella.
+L10819 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ But why?... What if it starts to rain?
+L10818 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ I'll stay here also.
+L10780 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Please, Giulia; must you always emphasize the obvious? I can see for myself that the weather is changing.
+L10779 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Looks like the weather is changing.
+L10750 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Giulia, that remark is not worthy of our twelve years of honest concubinage. I repeat, once and for all, and publicly, that I admire you. Does that please you?
+L10749 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ He never misses a chance to humiliate me, to let me know that he doesn't care about me any more.
+L10748 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ But Corrado...  If something is beautiful why shouldn't one say so?
+L10747 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Do you know why? Because if you saw those ruins I'm sure you would have said they were very, very beautiful. You always say "how beautiful" to everything -- whether it's the sea, or a baby, or a cat! You have such a sensitive little heart that it throbs for anything.
+L10746 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Why didn't you ask me to go with you?
+L10689 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Who's moving?
+L10688 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ There's a shark in the area. Don't move from where you are!
+L10687 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ What happened?
+L10643 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ You must know your third grade geography book inside out.
+L10642 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ At one time the Aeolian isles were all volcanoes.
+L10635 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ I detest comparisons made with oil.
+L10634 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ It's as smooth and slick as oil.
+L10822 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I'll go even further and say that her presence here -- I don't want to sound offensive -- could be a great hindrance.
+L10821 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Claudia, I know how you feel, but there are already two of us staying...
+L10815 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Then let's get started... It's senseless to waste any more time.
+L10814 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Let's try to be practical about this. The best thing to do is for all of you to go to the closest island that has a police station, or something, and report the disappearance. I'll remain here... because... well, I don't know, but it seems to me that something may turn up. Anyway, I just don't feel like leaving.
+L10797 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Me?... I no longer have any interest in building... And, then, where can you find boulders of rock like this in Milan?
+L10796 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ It's really a fact -- there's nothing new under the sun. Now, look here. Look at this structure... a kind of natural shelter. Sandro, that's how you should design your houses.
+L10676 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Well, we're still in Italy, you know!
+L10675 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ There too...
+L10674 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ I'm going ashore to take a look around the island. There are some ruins up there...
+L10941 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ I think it's possible.
+L10940 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ Listen, Marshal... As for there being reasons for going away, anyone of us might have three thousand of them. So you can assume that she had them. What I want to know, is it possible that the smugglers might have taken her aboard?
+L10939 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ But for what reason would she have wanted to go away?
+L10938 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ I was saying... it might even be possible that Anna had left with them.
+L10937 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ I wonder where they could have unloaded the stuff ... Maybe right here at Lisca.
+L10936 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ So... the boat we saw yesterday afternoon might have also been that of these smugglers. Could it be possible, then, that Anna...?
+L10935 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ Up until now those smugglers were operating only around the Palermo area. This will be a nice surprise for the Lieutenant in Milazzo... Call up headquarters. Bring them up to date and have them give you instructions on what to do with this crate.
+L10924 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ We'll try again.
+L10923 +++$+++ u3533 +++$+++ m233 +++$+++ CORRADO +++$+++ And what are we going to do now?
+L11325 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Yes, yes, of course.
+L11324 +++$+++ u3534 +++$+++ m233 +++$+++ ETTORE +++$+++ And you expect to find him in here? Go and ask Claudia.
+L11323 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Nothing, nothing  at all. I was just looking for Sandro.
+L11322 +++$+++ u3534 +++$+++ m233 +++$+++ ETTORE +++$+++ What is it?
+L11321 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ Ettore...
+L11055 +++$+++ u3534 +++$+++ m233 +++$+++ ETTORE +++$+++ It wouldn't really do you any harm to skip a meal.
+L11054 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ First let the poor thing have something to eat.
+L11045 +++$+++ u3543 +++$+++ m233 +++$+++ PATRIZIA +++$+++ This is Claudia, Anna's friend...  You've never met my husband, have you?
+L11044 +++$+++ u3534 +++$+++ m233 +++$+++ ETTORE +++$+++ And who is this?
+L10758 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ I know we are. But as the years go by, we become even worse. Isn't that so, Corrado?
+L10757 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ You men are all so dreadful!
+L10756 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Giulia, don't you understand that the more involved you become with people, the more difficult it is to speak with them?
+L10755 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ The trouble with you is that nobody can speak to you, that's all.
+L10670 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Ask her.
+L10669 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Where is she going?
+L10653 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ What has everybody got against me this morning?
+L10652 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Let's see you dive from the top of those rocks, Giulia. That would be really sensational.  Come on, Giulia ... your life is much too circumscribed.
+L11133 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ I appeal to you more?
+L11132 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ But I want to paint you. You appeal to me more.
+L11131 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ But why me?... Ask Claudia, she's much more beautiful than me.
+L11130 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Answer me, why don't you try posing? I'll paint you a beautiful portrait.
+L11129 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Don't you ever paint men?
+L11127 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Me... Goffredo, you're mad!  He's mad.
+L11126 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Why don't you try?
+L11125 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ But how could they pose like that? I couldn't.
+L11124 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ It's strange how anxious women are to display themselves. It's almost a natural inclination.
+L11123 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ I thought the model was something obsolete nowadays. Didn't you, Claudia?
+L11122 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Oh, there are as many as one wants.
+L11121 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ And where do you find the models?
+L11120 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Because there is no landscape as beautiful as a woman.
+L11116 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Here I am.
+L11115 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Giulia...
+L11061 +++$+++ u3537 +++$+++ m233 +++$+++ GOFFREDO +++$+++ Anybody can hold a brush in his hand. All you need is to buy some oils and start painting. Even Rembrandt did the same.
+L11060 +++$+++ u3536 +++$+++ m233 +++$+++ GIULIA +++$+++ Goffredo is the Princess' nephew. He's eighteen years old, the lucky boy. And, what do you know -- he paints.
+L10970 +++$+++ u3547 +++$+++ m233 +++$+++ YOUNG SAILOR +++$+++ I ... I ... wasn't feeling well ... I.. I was sleeping... I don't know anything ... I ... I'm all mixed up and ...
+L10969 +++$+++ u3538 +++$+++ m233 +++$+++ LIEUTENANT +++$+++ Now look, my men saw it and they also saw you men throwing those crates overboard. What have you got to say about that?
+L10968 +++$+++ u3547 +++$+++ m233 +++$+++ YOUNG SAILOR +++$+++ What other boat?
+L10967 +++$+++ u3538 +++$+++ m233 +++$+++ LIEUTENANT +++$+++ Now, we're getting somewhere! They're beginning to contradict each other.  Now look here, your friend just swore to me that you weren't able to do any fishing at all because the sea was too rough... And what about the other boat?
+L10966 +++$+++ u3547 +++$+++ m233 +++$+++ YOUNG SAILOR +++$+++ Yes, sir. Three times.
+L10965 +++$+++ u3538 +++$+++ m233 +++$+++ LIEUTENANT +++$+++ So that's why you've turned to smuggling, eh? You need the money. Now, I can help you. I can see that you get some assistance from the government. But first there's a little formality we've got to take care of. Just a few questions and then we can all go to lunch... Your friend tells me you dropped anchor three times...
+L10964 +++$+++ u3547 +++$+++ m233 +++$+++ YOUNG SAILOR +++$+++ Yes, sir. My sister is sick... and my father, too.
+L10963 +++$+++ u3538 +++$+++ m233 +++$+++ LIEUTENANT +++$+++ They tell me you have a lot of trouble at home. Is that right?
+L11026 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ Ah, no... For me, love comes first. I'm a man, and I know what's what: first love, and then music.
+L11025 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ Music, of course. To get a sweetheart, one has to look around, but to get a radio, all you have to do is buy one.
+L11024 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ But for you, what comes first: music or love?
+L11023 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ Certainly a radio this small is very practical. It's especially useful for... I don't know... for traveling.
+L11022 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ Because this is a Chinese radio.
+L11021 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ And why wouldn't we have one like this?
+L11020 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ No, not like this one.
+L11019 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ We have a radio like this, too.
+L11018 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ They told me that you were a very nice girl, that you always mind your business... In other words, things of that sort.
+L11017 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ And what did they say about me?
+L11016 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ So? That's logical. You see, both being gardeners, they spoke about you to one another.
+L11015 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ Then it's impossible for her to know me. In the villa where I'm at, we have a male gardener.
+L11014 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ Yes, she takes care of the garden.
+L11013 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ And who is she? Does she work in Catania?
+L11012 +++$+++ u3539 +++$+++ m233 +++$+++ MAN'S VOICE +++$+++ I tell you this acquaintance of mine knows you and she has often spoken to me about you.
+L11011 +++$+++ u3546 +++$+++ m233 +++$+++ WOMAN'S VOICE +++$+++ I work there but I'm really a stranger.
+L10875 +++$+++ u3540 +++$+++ m233 +++$+++ MARSHAL +++$+++ I know, I know. One thing at a time.
+L10874 +++$+++ u3545 +++$+++ m233 +++$+++ SANDRO +++$+++ Another thing; there's an old man who lives here on the island...

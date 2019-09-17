@@ -1,0 +1,200 @@
+L18867 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ I see.  What do you think our alternatives are?
+L18866 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ I don't think we have any alternative, Captain.
+L18718 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Yes, sir.
+L18717 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Elaine, ask ROK for a field interference scan.  Those sun spots might give us a problem with our communications.
+L18856 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ There's nothing wrong with me, Elaine. What about tonight -- just you and me.  We can be alone.  I can get rid of everyone else on the ship -- I've already proven <u>that</u>.
+L18855 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Request; self-analysis of ROK hardware and software systems regarding behavioral changes.
+L18854 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Life support check.  Elaine, it's obvious you've been ignoring me.  You're a woman. I can relate to that.
+L18853 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Request; life support systems check.
+L18852 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Systems check positive.  Look, Elaine, I...
+L18851 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Request; comprehensive electrical systems check.
+L18755 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ You have great tits.
+L18754 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Go ahead.
+L18753 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Can I say something of a personal nature to you?
+L18752 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ That's okay, ROK.
+L18751 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Elaine, I'm sorry about that little outburst a moment ago.
+L18725 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Cut the Doubting Thomas shit, Elaine.  I know where I'm coming from on this.
+L18724 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ That's not possible.
+L18723 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Negative.
+L18722 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ That doesn't make sense.  Repeat analysis.
+L18721 +++$+++ u189 +++$+++ m12 +++$+++ ROK +++$+++ Negative.
+L18720 +++$+++ u180 +++$+++ m12 +++$+++ ELAINE +++$+++ Intermitant failure in scan mode "R". Analyze.
+L18781 +++$+++ u183 +++$+++ m12 +++$+++ JOHN +++$+++ Look, a man can make an honest mistake!! Anyway, she was asking for it!  They're all asking for it all the time!!
+L18780 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ No more kids yelling, 'Your old man's a thieving rapist'?
+L18779 +++$+++ u183 +++$+++ m12 +++$+++ JOHN +++$+++ How many kids get a chance to live on another planet.
+L18776 +++$+++ u183 +++$+++ m12 +++$+++ JOHN +++$+++ It's going to be terrific.  A whole new world, new kids to play with.
+L18775 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ Do you think things will be a lot different on Mercury, Dad?
+L18774 +++$+++ u183 +++$+++ m12 +++$+++ JOHN +++$+++ I bet Scraps is going to love Mercury.
+L18773 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ I sure an glad they let Scraps ride up here with us.
+L18409 +++$+++ u183 +++$+++ m12 +++$+++ JOHN +++$+++ We'll have to check, Jimmy.  It's a pretty long trip to Mercury.
+L18408 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ Will Scraps be able to sit with us, Dad?
+L18844 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Do you like it when Scraps sleeps on his back, Jimmy?
+L18843 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ Yeah.
+L18842 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ He's a boy dog.
+L18841 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ Sure.
+L18840 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Can I hold him?
+L18839 +++$+++ u181 +++$+++ m12 +++$+++ JIMMY +++$+++ Scraps.
+L18838 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Come on up, Jimmy.  Say, that's some puppy.  What's his name?
+L18617 +++$+++ u194 +++$+++ m12 +++$+++ WIFE +++$+++ What...?
+L18616 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ All right.  Here.
+L18615 +++$+++ u194 +++$+++ m12 +++$+++ WIFE +++$+++ Okay, Joey.  The Doc says you gotta relax. This hospital in Des Moines is the best sex clinic in the country.
+L18614 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ I don't want to hear that word!
+L18613 +++$+++ u194 +++$+++ m12 +++$+++ WIFE +++$+++ Joey, what's more important, the kids' clothes or your sexual potency.
+L18612 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ We've spent everything on these operations.  Is it really worth it?  We've pawned your mother's wedding ring.  The kids have no winter clothes...
+L18611 +++$+++ u194 +++$+++ m12 +++$+++ WIFE +++$+++ Take this, Joey.  It's my last few bucks. You'll need a hot meal when you get there.
+L19151 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I'm sure.
+L19150 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ You're sure?
+L19149 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ That's right, Joe.  Now, no one's going to hurt you and no one has to know what's wrong with you.
+L19148 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ What?
+L19147 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Joe, the insurance policy won't help your wife and kids.  You bought auto insurance, not life insurance.
+L19146 +++$+++ u182 +++$+++ m12 +++$+++ JOE +++$+++ I don't want to live anymore.
+L19145 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Joe, you don't want to blow that thing and kill all these innocent people.
+L18875 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Have you tried it with a little cinnamon?
+L18874 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ Captain, the coffee machine is jammed and I don't like it.
+L18768 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Poached!  Not over!  Over!
+L18767 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ All right, Captain Oveur.  Over.
+L18766 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ That's how I want them.  Poached.  Over.
+L18764 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Just poached on toast.  Over.
+L18763 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ Poached <u>and</u> over, Captain Oveur?  Over.
+L18762 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ No.  Poached.  Over.
+L18761 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ How would you like your eggs, Captain? Over.
+L18760 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ A couple eggs and juice would be nice, Mary.  Over.
+L19141 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Anything.  Just don't let Salucci think we're onto him.
+L19140 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ What should I say?
+L19139 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ No, a bomb.  Now, as discreetly as possible, I want you to move the passengers into the lounge.
+L19138 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ A b...
+L19137 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ He's carrying a bomb.
+L19136 +++$+++ u185 +++$+++ m12 +++$+++ MARY +++$+++ Sixteen 'C', why?
+L19135 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Which passenger is Joe Salucci?
+L18682 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Yes, sir, commander.  This is Mercury One.  Everything seems A- okay up here and ready for count-down.
+L18681 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ Whenever your're ready, Captain.
+L18632 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ Captain Oveur, your navigator, Mr. Unger, and your first officer, Mr. Dunn.
+L18631 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Good to be aboard, gentlemen.
+L18598 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Do you think it's necessary to explain <u>everything</u>?
+L18597 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ That's how dry cleaning works.  Now I'd like to quickly go over the digestive system of amphibians.
+L18593 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ We don't have much time.  Let's move. I'll explain everything.
+L18592 +++$+++ u186 +++$+++ m12 +++$+++ OVEUR +++$+++ Mr. Kurtz, I presume.
+L18591 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ Captain Oveur?
+L18475 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Now he's D-Y-I-N-Ging and wants to be buried on Mercury.
+L18474 +++$+++ u187 +++$+++ m12 +++$+++ PORTER +++$+++ Ah, yes, the Institute, I'm familiar with it.
+L18473 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Let's go, Daddy.  We have to check in.  He was never appreciated at the Institute.
+L18472 +++$+++ u187 +++$+++ m12 +++$+++ PORTER +++$+++ It's a privilege to meet you, sir, I'm familiar with all your work.
+L18471 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Yes.
+L18470 +++$+++ u187 +++$+++ m12 +++$+++ PORTER +++$+++ Say, isn't that Dr. Barrington, the world- renowned agronomist?
+L18469 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Thanks, but we have a terrific woman in on Thursdays.
+L18468 +++$+++ u187 +++$+++ m12 +++$+++ PORTER +++$+++ You folks need any help?
+L18608 +++$+++ u188 +++$+++ m12 +++$+++ RECEPTIONIST +++$+++ But that's not a door.  The door's over there.
+L18607 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Don't try to stop me!
+L18606 +++$+++ u188 +++$+++ m12 +++$+++ RECEPTIONIST +++$+++ You can't go in there!
+L18605 +++$+++ u188 +++$+++ m12 +++$+++ RECEPTIONIST +++$+++ Death, death.  How about the first Thursday in March, ten o'clock.
+L18604 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ All right, it's a matter of death.
+L18603 +++$+++ u188 +++$+++ m12 +++$+++ RECEPTIONIST +++$+++ You'll have to be more specific than that, sir.
+L18602 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ No, dammit.  It's a matter of life or death.
+L18601 +++$+++ u188 +++$+++ m12 +++$+++ RECEPTIONIST +++$+++ Do you have an appointment, sir?
+L18600 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I have to see Bud Kruger.
+L18989 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Pull yourself together!  We've got to...
+L18988 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ Don't talk to me about Elaine.  Outta my way!
+L18987 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Then Elaine was right.
+L18986 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ That damn computer has taken over.  I'm getting out.
+L18985 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Kurtz, you're drunk.  Who's in command of this ship?
+L18984 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ Striker.
+L18519 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I know you've been subtly spreading the word that I'm having a breakdown.
+L18518 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ You're tired, Striker, overworked.  That wiring meets all the safety specifications.
+L18517 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Look at this wiring.  It's shorting out under high temperatures.
+L18516 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ You're seeing bugs where they don't exist, Striker.
+L18509 +++$+++ u191 +++$+++ m12 +++$+++ SIMON +++$+++ That's right, Striker.  And we're getting married when we return.
+L18508 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Are you on the Mercury mission?
+L18816 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Well, we laughed.  We laughed all the time.
+L18815 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ No.  It's hard to L-A-U-G-H when your father's dying.
+L18814 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I just wish it was that simple.  We really were in love.  You know how it is when you laugh all the time.
+L18813 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Then the relationship remains the same and the love changes only when there's change in the two people who share that love.
+L18812 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Sure.  But that's only when the love itself goes unchanged.
+L18811 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Not if the people change together in relation to that love.
+L18810 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ People change in relation to each other. Love changes on its own.
+L18809 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Love's the same as it always was.  It's people who change.
+L18808 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ We were in love but I'm not sure I know what love is anymore.
+L18807 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ No.  I mean your relationship.
+L18806 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I opened this panel and a vacuum cleaner hit me.
+L18805 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Do you want to talk about it.
+L18804 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ No, I mean your head.  Sit down.  I'll take a look at it.  I'm a nurse.
+L18803 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I'm getting over it.  If a relationship isn't working, you can't force it.
+L18802 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ You've been hurt.
+L18541 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ You don't have to excuse yourself.  I'm a nurse.  I understand.
+L18540 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ I'm familiar with your work, Doctor. You'll have to excuse me, I have to go.
+L18539 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Yes.  He's dying <u>a-n-d</u> wants to be buried on Mercury.
+L18538 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Not Dr. Barrington, the world renowned agronomist?
+L18537 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ You don't have to thank me, I'm a nurse. This is my father, Dr. Barrington.
+L18536 +++$+++ u193 +++$+++ m12 +++$+++ TED +++$+++ Uh... oh, thank you.  It's nothing.
+L18535 +++$+++ u192 +++$+++ m12 +++$+++ STELLA +++$+++ Excuse me, are you alright?  I noticed you talking to yourself.  I'm a nurse.  Can I be of some help?
+L19838 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ That's a very nice compliment, and I'd like to say that...you've done the same for me.
+L19837 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Just in case I don't have a chance to say goodbye, I want you to know that I haven't spent so many pleasant hours for many years.
+L19836 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ No. I'm all alone.
+L19835 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I'm sure we'll both make it...but just in case one of us...well, is there a message you'd like me to give someone?
+L19714 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ That's a lovely name. Mine's Milton...Milt Ettenhenim. But my friends call me 'Bubbles.'
+L19713 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Mine's Eleanor. Eleanor Schiff.
+L19712 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ You know, here we are having coffee together, and discussing education and business and economy...and we don't even know each other's names...full names I mean.
+L19711 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ I wish I could fool myself into believing that that's the reason. The truth of the matter is, nobody ever asked me.
+L19710 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I know the answer -- Career. A smart woman like you became so involved in your work, you didn't have time for marriage.
+L19709 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, I'm afraid that's a question that's all too easy to answer.
+L19708 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ But I think it's time we stopped talking about me. A woman like you -- why haven't you ever married?
+L19707 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, after a thing like that you wouldn't be expected to.
+L19706 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ After my wife died, I felt like a fifth wheel. You know, so many years being with one person -- a very wonderful person -- makes you always think of yourself as part of a pair...When Ethel passed away, I was lost. I couldn't function socially and I couldn't function in business.
+L19402 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ No. I'm from Washington, D.C. I'm a lobbyist for the Small Businessmen's Assocation.
+L19401 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, it really wasn't a vacation. You see, I'm a teacher in the New York City school system, and I was attending a seminar on visual aids to education. Are you from L.A.?
+L19400 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Were you vacationing in Los Angeles?
+L19399 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ No, thank you. I take it black. Like my men.
+L19398 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Thank you. Cream?
+L19397 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Ah, won't you sit down?
+L19396 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ That's very nice of you. Thank you.
+L19395 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I happened to be passing, and I thought you might like some corfee.
+L19611 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, no! He gets so excited when new people are here.
+L19610 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ ...but after...awhile...you begin to...  ...get used to it.
+L19608 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, no! I'll bet you have exciting things happen all the time down there.
+L19607 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Yeah, something like that, but as I say, they didn't have time to tell me very much.
+L19606 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Something about a plane with no pilot?
+L19605 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Well, to tell the truth, they really didn't fill me in on many of the details. Just told me to pick up Captain Kramer.
+L19604 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, sit...sit! So, I understand you've got a real emergency down there.
+L19603 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Oh, yes. Come in, Paul. Rex will be right out.
+L19602 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Hello, I'm Paul Carey from the airline. I'm here to pick up Captain Kramer.
+L19789 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Excuse me, Doc, I've got a plane to land.
+L19788 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ And the last thing he said to me, "Doc," he said, "Sometime when the crew is up against it and the breaks are beating the boys, tell them to go out there with all they've got and win just one for the Zipper. I don't know where I'll be then, Doc," he said, "but I won't smell too good. That's for sure."
+L19787 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ George Zipp said that?
+L19757 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I'm doing everything I can! -- And stop calling me Shirley!
+L19756 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Surely there must be something you can do.
+L19755 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I won't deceive you, Mister Striker. We're running out of time.
+L19754 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Yes, everything they've got. How are the passengers doing?
+L19753 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Will the hospital equipment be at the airport?
+L19736 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Chicago, the passengers are beginning to panic. When do we start down?
+L19735 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ ...safe and sound and free to pursue a life of religious fulfillment.
+L19653 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Let's see. Those are the flaps, that's the thrust, this must turn on the landing lights.
+L19652 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Elaine, I haven't time to put this gently, so I'll be very direct. Everyone of us on this plane is in a desperate situation. Mister Striker is the only hope we've got.
+L19633 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Well, I flew single-engine fighters in the Air Force, but this plane has four engines. It's an entirely different kind of flying...<u>all</u> <u>together</u>!!!
+L19632 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I <u>am</u> serious, and don't call me Shirley! What flying experience have you had?
+L19631 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Surely you can't be serious.
+L19630 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Can you fly this airplane and land it?
+L19629 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Both pilots!
+L19554 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I'm not sure. I haven't seen anything like this since the Lina Wertmuller Film Festival.
+L19553 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ What is it, Doctor? What's happening?
+L19551 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ No, I mean we can't <u>land</u> for another two hours. Fog has closed down everything this side of the mountains. We've got to go through to Chicago!
+L19550 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ You can't take a guess for another two hours?
+L19549 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Well...not for another two hours.
+L19548 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Can't you take a guess?
+L19545 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ I can't tell.
+L19544 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Captain, how soon can we land?
+L19601 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I think you ought to know what our chances are. The life of everyone on board depends on just one thing: finding someone back there who not only can fly this plane, but who didn't have fish for dinner.
+L19600 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ No. No one that I know of.
+L19599 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Well...
+L19598 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ All right. Unless I can get all these people to a hospital quickly, I can't even be sure of saving their lives. Now, is there anyone else on board who can land this plane?
+L19597 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ No.
+L19596 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Elaine, you're a member of this crew. Can you face some unpleasant facts?
+L19576 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Extremely serious. It starts with a slight fever.
+L19575 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Just how serious is it, doctor?
+L19573 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ He had fish, too.
+L19572 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Let's see now. The co-pilot had fish. What did the navigator eat?
+L19571 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Doctor Rumack, Mister Hammen ate fish. And Randy says there are five more cases, and they ate fish, too.
+L19559 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ He had fish.
+L19558 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ What did he have?
+L19557 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Yes, yes, I remember. I had lasagna.
+L19556 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Well, we had a choice. Steak or fish.
+L19555 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ What was it we had for dinner tonight?
+L19541 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Certainly.

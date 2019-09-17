@@ -1,0 +1,200 @@
+L629875 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I got shot.  Look -- there's a gas station up ahead.
+L629874 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What's the matter with your leg?
+L629873 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I said I was too young to drive.  I didn't say I was stupid.
+L629872 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I thought you didn't know how to drive.
+L629871 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ We need gas.
+L629868 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ And he told you then his father was a famous virologist.
+L629867 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ The guy was a total fruitcake.
+L629866 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You know Dr. Mason's son, Jeffrey Mason, don't you, James?  You met him in the County Hospital six years ago.
+L629865 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ All I see are dead people.  Everywhere. What's three more?
+L629844 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Jeffrey Mason?
+L629843 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Mason???
+L629840 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Lock it now!
+L629839 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ James, why don't we...?
+L629838 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I told you what I want.  Lock the door!
+L629827 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I've got one now.
+L629826 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You didn't have a gun before, did you?
+L629825 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I did him a favor.  Now come on.
+L629824 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Oh, Jesus, James!  You killed him!
+L629821 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Uh, no.  Yes.  I mean, just some scrapes...
+L629820 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Are you hurt?
+L629814 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ The man...with the voice.  I recognized him.  He's from the present.  He...
+L629813 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Who's keeping an eye on you?
+L629812 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ They're keeping an eye on me.
+L629809 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I'm not going to "do" anything, I promise.  But you need help, James. None of this is what you think it is.
+L629808 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Look, I'm warning you.  You do anything, I'm going to go crazy -- hurt people!
+L629804 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Nevermind.  It's not real -- it's a hoax.  A prank.  He's hiding in a barn. Hey, turn left here.  Left!
+L629803 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What do you mean -- when you were a kid?
+L629802 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ When I was a kid I identified with that kid, down there alone in that pipe...a hundred feet down -- doesn't know if they're going to save him.
+L629801 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Does that disturb you, James?  Thinking about that little boy in the well?
+L629797 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I just have to locate the virus in its original form before it mutates.  So scientists can come back and study it and find a cure.  So that those of us who survived can go back to the surface of the earth.
+L629796 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What will you do...when you find this...secret army?
+L629795 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ A secret army.  The Army of The Twelve Monkeys.  I've told you about them. They spread the virus.  That's why we have to get to Philadelphia.  I have to find them -- it's my assignment.
+L629794 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Clues?  What kind of clues?
+L629793 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ My notes.  Observations.  Clues.
+L629789 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You're flushed.  And you were moaning. I think you're running a fever.  What are you doing?
+L629788 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No, I think it was always you.  It's very strange.
+L629787 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ It wasn't me before, James.  It's become me now because of...what's happening.  Please untie me.
+L629786 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You were very upset.  You're always very upset in the dream, but I never knew it was you before.
+L629785 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ And I was in it?  What did I do?
+L629784 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ About an airport...before everything happened.  It's the same dream I always have -- the only one.  I'm a little kid in it.
+L629783 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ We dream about what's important in our lives. And I seem to have become pretty important in yours.  What was the dream about?
+L629782 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You were in my dream just now.  Your hair was different, but I'm sure it was you.
+L629777 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Ohhhh, that one!  Can we hear that one?
+L629776 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Did something terrible happen to you when you were a child?  Something so bad...?
+L629775 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Something bad.  Is that all the music? I don't want to hear this stuff...
+L629774 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ "If something really happens"...like what, James?
+L629773 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ My father told me that.  "Never cry wolf."  Then people won't believe you if...something really happens.
+L629772 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What?
+L629771 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ "Never cry wolf!"
+L629769 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Everybody's got a gun.  In this city...
+L629768 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You'd prefer that? ... James...you don't really have a gun, do you.
+L629767 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You used to call me "James".
+L629764 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It's the next step.  I checked out the Baltimore information, it was nothing. It's Philadelphia, that's where they are, the ones who killed everyone.  Zs that a radio?  Does it play music?
+L629763 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Yes, I remember.  Why do you want to go to Philadelphia?
+L629762 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You told me you'd help me.  I know this isn't what you meant, but...I was desperate... no money...bum leg... sleeping on the streets. I probably smell bad.  Sorry about that. But then I saw your book in a store window with a notice about your lecture.  I can read, remember?
+L629761 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I can't believe this is a coincidence, Mr. Cole.  Have you been...following me?
+L629760 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ 1989.  Six years for you.  There's the sign!  Right here!
+L629759 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Cole!  James Cole!  You escaped from a locked room six years ago.
+L629674 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I have to do this, James.  You're very confused.
+L629673 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No more drugs.  Please...
+L629672 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ It's just a shot to calm you.
+L629617 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Wait!  This is only 1989!  I'm supposed to be leaving messages in 1995.  It's not the right number yet.  That's the problem.  Damn!  How can I contact them?
+L629616 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I have the...strangest feeling I've met you before...a long time ago, perhaps. Were you ever...?
+L629615 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What?
+L629614 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ James, where did you grow up?  Was it around here?  Around Baltimore?
+L629613 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No.  That's the reason they chose me -- I remember things.
+L629612 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Perhaps it was a wrong number...
+L629611 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It was some lady.  She didn't know anything.
+L629556 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ 1995 is the future, James.  This is 1989.
+L629555 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No, 1995 is the past.
+L629554 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You think it's July of 1995?  That's the future, James.  Do you think you're living in the future?
+L629553 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ 1995?
+L629552 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What year do you think it is?
+L629551 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What year is it?
+L629550 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Do you know what year it is?
+L629549 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ July?!
+L629548 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ July.
+L629547 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ This is April, right?
+L629546 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Why do you think there aren't any germs in the air, James?
+L629545 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I have to go.
+L629544 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You're afraid of germs?
+L629543 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It's so clean.  No germs.
+L629542 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What's wonderful about the air, James?
+L629541 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I love this air.  This is wonderful air.
+L629540 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Hiding?
+L629539 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Underground.
+L629538 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ A jail?  Prison?
+L629537 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I have to go.
+L629536 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You've been in an institution, haven't you, James?  A hospital?
+L629535 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You wouldn't understand.
+L629534 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Why not?  Most people have some ID.
+L629533 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No.
+L629532 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You don't have a driver's license, James?  Or a Social Security card?
+L629531 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ They wanted identification.  I don't have any identification.  I wasn't trying to hurt them.
+L629530 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I see.  You don't remember assaulting a police officer...several officers?
+L629529 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Because I'm a good observer.  Because I have a tough mind.
+L629528 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Do you know why you're here, James.
+L629527 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I need to go.
+L629526 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Change what?
+L629525 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It won't help you.  You can't do anything about it.  You can't change anything.
+L629524 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What kind of information?
+L629523 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No, not possible.  Listen, I have to get out of here.  I'm supposed to be getting information.
+L629522 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Have you been a patient at County? Have I seen you someplace?
+L629521 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ "James"!  Nobody ever calls me that.
+L629520 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I'm going to be completely honest.  I'm not going to lie to you.  I can't make the police let you go...but I do want to help you.  And I want you to trust me.  Can you do that, James?  May I call you "James"?
+L629519 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I need to go now.
+L629518 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Mr. Cole?  My name is Doctor Railly. I'm a psychiatrist.  I work for the County -- I don't work for the police. My only concern is your well being -- do you understand that?
+L629602 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No, no.  I can't talk to them.  It's called, "voice mail".  I'm supposed to leave messages. They monitor it from the present.
+L629601 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ So you could talk to these scientists and they do what?  Send you to the future?
+L629600 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Scientists.  I'm supposed to report in to them.  They'll want to know they sent me to the wrong time.
+L629599 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Who would you call, Mr. Cole, who would straighten everything out?
+L629598 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ No!  Look, I don't belong here!  What I need to do is make a telephone call to straighten everything out.
+L629597 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Does this bother you, Mr. Cole?
+L629926 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Listen, you dumb fuck!  The thing mutates We live underground!  The world belongs to the fucking dogs and cats.  We're like moles or worms.  All we want to do is study the original...
+L629925 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ And that's when I told you my father was this famous virologist and you said, "Hey, he could make a germ and we could steal it!"
+L629924 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Bulishit!  You're fucking with my head!
+L629923 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Remember?  We were in the dayroom, watching TV, and you were all upset about the...desecration of the planet. And you said to me, "Wouldn't it be great if there was a germ or a virus that could wipe out mankind and leave the plants and animals just as they are?"  You do remember that, don't you?
+L629922 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Plan?  What are you talking about?
+L629921 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ I get it!  This is your old plan, right?
+L629920 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I don't have time to go upstairs.  The police are looking for me.  I need to know where it is and exactly what it is.
+L629918 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I just need to have access to the pure virus, that's all!  For the future!
+L629917 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ We need to talk.  Come on.  Upstairs.  I am a new person!  I'm completely adjusted.  Witness the tux.  It's Armani.  Who chattered?  Goines?  Weller?
+L629916 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Listen to me -- I can't do anything about what you're going to do. I can't change anything.  I can't stop you.  I just want some information...
+L629915 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ County Hospital, right?  1989.  The "Immaculate Escape" -- am I right?  Why, thank you -- you look wonderful, too.
+L629905 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Monkeys.  Twelve of them.
+L629904 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Excuse me -- what did you say?
+L629903 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I'm here about some monkeys.
+L629902 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ That would be totally out of character. Helping people is against my principles.  See, he definitely doesn't know me.  Now, I'm going to go back and listen to my father's very eloquent discourse on the perils of science WHILE YOU TORTURE THIS INTRUDER TO DEATH.
+L629901 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ You do know me.  You helped me once.
+L629900 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Never saw him before in my life.  Go ahead and shoot him or torture him or whatever it is you do.
+L629649 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Not, "what", babe!  When!
+L629648 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What...???
+L629647 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Wooooo, they really dosed you, bro. Major load!  Listen up -- try and get it together.  Focus!  Focus!  The plan! Remember?  I did my part.
+L629646 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What....???
+L629643 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ A lawsuit?  You going to sue them?
+L629642 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It's private.
+L629641 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ What're you writing?  You a reporter?
+L629640 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ You know -- your plan.
+L629639 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What are you talking about???
+L629638 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Wiping cut the human race!  That's a great idea!  But it's more of a long term thing -- right now we have to focus on more immediate goals.  I didn't say a word about "you know what".
+L629637 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Look at those assholes, they're asking for it!  Maybe people deserved to be wiped out!
+L629636 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Not as bad as what they're doing to kitty.
+L629635 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ They hurt you!
+L629632 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ I've managed to contact certain underlings, evil spirits, secretaries of secretaries, and assorted minions, who will contact my father. When he learns I'm in this kind of place, he'll have them transfer me to one of those classy joints where they treat you...properly. LIKE A GUEST!  LIKE A PERSON!  SHEETS! TOWELS!  LIKE A BIG HOTEL WITH GREAT DRUGS FOR THE NUT CASE LUNATIC MANIAC DEVILS...
+L629631 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ What's that mean?
+L629630 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Why don't I escape, that's what you were going to ask me, right?  'Cause I'd be crazy to escape!  I'm all taken care of, see?  I've sent out word.
+L629629 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ If you know how to escape, why don't you...?
+L629628 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Of course not, I never thought you were. You want to escape, right?  That's very sane.  I can help you.  You want me to, don't you?  Get you out?
+L629627 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I'm not crazy.
+L629626 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ "What about the germs?"  I say.  He goes, "I don't believe in germs.  Germs are just a plot they made up so they can sell you disinfectants and soap!" Now, he's crazy, right?  Hey, you believe in germs, don't you?
+L629625 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ In the 18th century there was no such thing!  Nobody'd ever imagined such a thing -- no sane person anyway.  Along comes this doctor...Semmelweiss, I think.  He tries to convince people... other doctors mostly...that there are these teeny tiny invisible "bad things" called germs that get into your body and make you...sick!  He's trying to get doctors to wash their hands.  What is this guy...crazy?  Teeny tiny invisible whaddayou call 'em?..."germs"!
+L629624 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Germs?!
+L629574 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ A telephone call?  That's communication with the outside world!  Doctor's discretion.  Hey, if alla these nuts could just make phone calls, it could spread.  Insanity oozing through telephone cables, oozing into the ears of all those poor sane people, infecting them!  Whackos everywhere!  A plague of madness.  In fact, very few of us here are actually mentally ill.  I'm not saying you're not mentally ill, for all I know you're crazy as a loon.  But that's not why you're here.  Why you're here is because of the system, because of the economy.  There's the TV.  It's all right there. Commercials.  We are not productive anymore, they don't need us to make things anymore, it's all automated.  What are we for then?  We're consumers.  Okay, buy a lot of stuff, you're a good citizen. But if you don't buy a lot of stuff, you know what?  You're mentally ill! That's a fact!  If you don't buy things...toilet paper, new cars, computerized blenders, electrically operated sexual devices...  SCREWDRIVERS WITH MINIATURE BUILT-IN RADAR DEVICES, STEREO SYSTEMS WITH BRAIN IMPLANTED HEADPHONES, VOICE- ACTIVATED COMPUTERS, AND...
+L629573 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I need to make a telephone call.
+L629572 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ What'd they give you?  Thorazine?  How much?  Learn your drugs -- know your doses.
+L630251 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Who am I supposed to shoot?
+L630250 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ They gave you a pardon, man.  Whatdaya want?
+L630249 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ It's about obeying, about doing what you're told.
+L630248 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ Hey, man...
+L630247 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ This part isn't about the virus, is it?
+L630241 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ Hey, five minutes ago, thirty years ago! Yes, that phone call.  I been in training for this a couple a months now -- ever since I got back from that... "weird" war we were in.  You remember that?  Here, take it, man!  You could still be a hero if you'd cooperate!
+L630240 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ The call I just made?  Five minutes ago?
+L630239 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ The phone call, man.  The phone call.
+L630238 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ How did you find me?
+L630237 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ Me?  Are you kiddin?  You're the one! You were a hero, man.  They gave you a pardon!  And whadda you do?  You come back and fuck with your teeth!  Wow!
+L630235 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ Pulling out the tooth, man, that was nuts!  Here, take this.
+L630234 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Jo...Jose????
+L629737 +++$+++ u8664 +++$+++ m587 +++$+++ JOSE +++$+++ Cole!  Oh, God, Cole, where are we?
+L629736 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ JOSE!
+L630031 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Yes, sir.
+L630030 +++$+++ u8665 +++$+++ m587 +++$+++ MICROBIOLOGIST +++$+++ But you know what's real now?
+L629699 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I couldn't call!  You sent me to the wrong year!  It was 1989.
+L629698 +++$+++ u8665 +++$+++ m587 +++$+++ MICROBIOLOGIST +++$+++ It's a digital reconstruction of a message, Cole, from a weak signal on our contact number.  Did you make that call?
+L629697 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Uh, that message...me?
+L629491 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ Well, the guard woke me up.  He told me I volunteered.
+L629490 +++$+++ u8665 +++$+++ m587 +++$+++ MICROBIOLOGIST +++$+++ I asked you, why did you volunteer?
+L629481 +++$+++ u8665 +++$+++ m587 +++$+++ MICROBIOLOGIST +++$+++ We'll get to the spider later, Mr. Cole.  Right now, we want to know everything that you saw.
+L629480 +++$+++ u8657 +++$+++ m587 +++$+++ COLE +++$+++ I mashed the spider, didn't I?
+L630013 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ And what we believe is what's accepted as "truth" now, isn't it, Owen?  Psychiatry -- it's the latest religion.  And we're the priests -- we decide what's right and what's wrong --we decide who's crazy and who isn't. ... I'm in trouble, Owen.  I'm losing my faith.
+L630012 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Kathryn, you know he can't possibly know that.  You're a rational person. You're a trained psychiatrist.  You know the difference between what's real and what's not.
+L630011 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ For God sakes, Owen, listen to me -- he knew about the boy in Fresno and he says three billion people are going to die!
+L630010 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ He kidnapped you, Kathryn.  You saw him murder someone.  You knew there was a real possibility he would kill you, too.  You were under tremendous emotional stress.
+L629687 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Then are you trying to tell me that a fully sedated, fully restrained patient somehow slipped out that vent, replaced the grill behind him and that he's wriggling through the ventilation system right now?
+L629686 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ He was fully sedated!
+L629681 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ You see what I mean?  You're being defensive.  Isn't she being defensive, Bob?
+L629680 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I said it was bad judgment!  What else do you want me to say?
+L629679 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Two policemen were already in the hospital and now we have an orderly with a broken arm and a Security Officer with a fractured skull.
+L629678 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Okay, it was bad judgment.  But I have the strangest feeling about him -- I've seen him somewhere and...
+L629677 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ He should have been in restraints.  It was bad judgment on your part, plain and simple.  why not just cop to it?
+L629676 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ I didn't think I was being defensive. I was just...
+L629675 +++$+++ u8658 +++$+++ m587 +++$+++ DR. FLETCHER +++$+++ Don't be defensive, Kathryn, this isn't an inquisition.
+L630179 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ THIS IS A FUCKING EXPERIMENT!  YOU'RE OUR HELPLESS LITTLE TEST ANIMAL, DADDY. GOT THAT?  NOW -- WHAT FUCKING VIRUS HAVE YOU COME UP WITH, YOU DEMENTED FUCKING MANIAC?
+L630178 +++$+++ u8659 +++$+++ m587 +++$+++ DR. MASON +++$+++ Please tell me, Jeffrey, what exactly are you going to do?  I don't have to tell you I'm afraid.
+L630177 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ You "develop" viruses and you're calling me insane?  Typical.  What does this virus attack?  Don't tell me, you sick fuck, it doesn't matter.  Have I ever "developed" a virus?  Do I put helpless animals in cages and measure their reactions to electrical stimuli? Do I inject radioactive substances into living creatures and examine their bowel movements?  Wow!  And I'm crazy!
+L630176 +++$+++ u8659 +++$+++ m587 +++$+++ DR. MASON +++$+++ You're insane, Jeffrey.
+L630175 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ What virus are we talking about, Dad?
+L630174 +++$+++ u8659 +++$+++ m587 +++$+++ DR. MASON +++$+++ She knew about it, Jeffrey.  She knew you were going to try this.
+L630173 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ What...virus?
+L630091 +++$+++ u8661 +++$+++ m587 +++$+++ FALE +++$+++ Then how come she knows what's going on?
+L630090 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ WHO CARES WHAT PSYCHIATRISTS WRITE ON WALLS?  You think I told her about the Army of the 12 Monkeys?  Impossible!  Know why, you pathetically ineffectual and pusillanimous "pretend-friend-to- animals"?!  I'll tell you why:  because when I had anything to do with her six years ago, there was no such thing -- I hadn't even thought of it yet!

@@ -1,0 +1,200 @@
+L399440 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ You've got to eat something. You're just nervous about going over to see if you're Diane Selwyn.
+L399439 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I'm all right.
+L399438 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Oh, no wonder I'm starving. I'm going to fix a sandwich. You want one?
+L399433 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "Then they'd put you in jail."
+L399432 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "Before I kill you."
+L399431 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "Before what?"
+L399430 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "Stop! Just Stop! That's what you said from the beginning. If I tell what happened... they'll arrest you and put you in jail, so get out of here before..."
+L399429 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "What about you? What will your dad think about you?"
+L399428 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "Get out! Get out before I call my dad ... he trusts you ... your his best friend. This will be the end of everything... "
+L399427 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "You know what I want...it's not that difficult."
+L399426 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "You're playing a dangerous game here. If you're trying to blackmail me... it's not going to work."
+L399425 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "But you won't..."
+L399424 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "I can call them... I can call my dad... "
+L399423 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "So... surprise"...
+L399422 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "My parents are right upstairs! They think you've left..."
+L399421 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "Really?"
+L399419 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ "I came back. I thought that's what you wanted."
+L399418 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ "You're still here?"
+L399333 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ I know you're afraid of something. We'll be careful. Tomorrow we'll go over there and we'll find out.
+L399332 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I'm not sure about this.
+L399331 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ What's wrong with that?
+L399324 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Maybe...maybe ... maybe.
+L399323 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Maybe the voice isn't Diane Selwyn. Maybe that's your roommate or if it is Diane Selwyn she can tell you who you are.
+L399322 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ It's not my voice ... but I know her.
+L399320 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Call the number.
+L399319 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Maybe it's not me.
+L399318 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Strange to be calling yourself.
+L399312 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ We'll take our check.
+L399311 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No. Just the coffee.
+L399308 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Not that I can see.
+L399307 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ There's nothing?
+L399279 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Come on... let's find you something to wear.
+L399278 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Okay.
+L399277 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Just to see if there was an accident on Mulholland Drive.
+L399276 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Okay... but just...just to see.
+L399275 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ We could call anonymously from a pay phone... just to see if there was an accident.
+L399274 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No.... I don't...
+L399273 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Maybe that's where the accident was. There must be a police report. We could call.
+L399272 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ That's where I was going... Mulholland Drive.
+L399271 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Mulholland Drive?
+L399270 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Mulholland Drive.
+L399246 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ When you think about them... the money... the key ... does it make you remember anything?
+L399245 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Unh, unh.
+L399244 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ The money. You don't know where it came from?
+L399243 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No  There is something...something there I can't tell... I can't describe it.  There are things there.... but I'm... here.
+L399242 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ You don't remember anything else?
+L399241 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I don't know.
+L399240 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ How do you remember how to talk?
+L399239 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ Nothing. I do remember the car crash... I told you... I remember the glass ... I think about that sometimes ... I remember walking here, sort of. Now I remember this place and you. That's about it.
+L399238 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Well ... if you don't remember anything, I mean what goes through your mind then if you don't remember anything?
+L399237 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ What do you mean?
+L399236 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Well...  what do you think about then? I mean...  well what do you think about?
+L399197 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I'm not. I don't know what my name is. I don't know who I am!!
+L399196 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ What do you mean? You're Rita.
+L399195 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I don't know who I am.
+L399194 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ What's wrong?
+L399193 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I'm...I'm... oh no... I thought when I woke up... I thought sleep would do it ...
+L399192 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ What is it Rita?
+L399128 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ All right, but...I'm going to check on you.
+L399127 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ It will be okay if I sleep. I need to lie down and sleep.
+L399126 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ If you have a concussion you shouldn't sleep.
+L399125 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No...I need to sleep.
+L399124 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ But, this could be serious.
+L399123 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No.
+L399122 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Oh...
+L399121 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ I think I've been hurt.
+L399120 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ She sure is. She's letting me stay here while she's working on a movie that's being made in Canada, but I guess you know that.  I couldn't afford a place like this in a million years. Unless of course I'm discovered and become a movie star. Of course, I'd rather be known as a great actress than a movie star, but sometimes people end up being both and that is, I guess you'd say, sort of why I came here. I'm sorry, I'm just so excited to be here..I mean I just came here from Iowa and now I'm in this dream place. You can imagine how I feel.
+L399119 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ She has pretty red hair... she is very kind I think.
+L399118 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ I...I mean......I...it's none of my business.
+L399117 +++$+++ u6733 +++$+++ m448 +++$+++ RITA +++$+++ No ..........I.
+L399495 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Thank you... thank you very much.
+L399494 +++$+++ u6731 +++$+++ m448 +++$+++ PARAMOUNT GUARD +++$+++ Let's see if we have a pass for Betty Elms ... and we do. Here we go. And good luck Miss. Elms.
+L399493 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Betty Elms.
+L399492 +++$+++ u6731 +++$+++ m448 +++$+++ PARAMOUNT GUARD +++$+++ Mr.Wallace Brown is in the Executive Building on the second floor. We want to go in and turn right at the first street. Then we want to walk three blocks down past Stage 17 to the white Executive Building. Once we're on the second floor the receptionist will take us from there. Now do we have name?
+L399491 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Yes, Sir.
+L399490 +++$+++ u6731 +++$+++ m448 +++$+++ PARAMOUNT GUARD +++$+++ Well, now we've got to figure that out first don't we?
+L399489 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ No, we don't.
+L399488 +++$+++ u6731 +++$+++ m448 +++$+++ PARAMOUNT GUARD +++$+++ And do we know which of the fifty-seven buildings Wally Brown is in?
+L399487 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ Wally Brown.
+L399486 +++$+++ u6731 +++$+++ m448 +++$+++ PARAMOUNT GUARD +++$+++ And who are we auditioning for today?
+L399485 +++$+++ u6715 +++$+++ m448 +++$+++ BETTY +++$+++ To my audition.
+L399220 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ It must be just so pathetic being you. Sure Billy, grab your dog we'll eat in the van.
+L399219 +++$+++ u6716 +++$+++ m448 +++$+++ BILLY +++$+++ Nothing... I don't like being out in the open like this.
+L399218 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ What's  the matter now?
+L399217 +++$+++ u6716 +++$+++ m448 +++$+++ BILLY +++$+++ Keep her from gettin' in trouble, that's all.
+L399216 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Yeah, what for?
+L399215 +++$+++ u6716 +++$+++ m448 +++$+++ BILLY +++$+++ Gotta keep an eye on her, that's all.
+L399214 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ You're so easy.
+L399213 +++$+++ u6716 +++$+++ m448 +++$+++ BILLY +++$+++ My next delivery is up that way, so I'll be getting down to it real soon.
+L399212 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ No, no, no, I told you. They're fine. They're all real happy.
+L399211 +++$+++ u6716 +++$+++ m448 +++$+++ BILLY +++$+++ Yeah, sure. Look what happened to them.
+L399067 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Right then.
+L399066 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ To get rid of this god-awful feeling.
+L399065 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ So, you came to see if he's out there?
+L399064 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ Well ... it's the second one I've had, but they were both the same......they start out that I'm in here but it's not day or night. It's kinda half night, but it looks just like this except for the light, but I'm scared like I can't tell ya. Of all people you're standing right over there by that counter. You're in both dreams and you're scared. I get even more frightened when I see how afraid you are and then I realize what it is - there's a man...in back of this place. He's the one ... he's the one that's doing it. I can see him through the wall. I can see his face and I hope I never see that face ever outside a dream.
+L399063 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Okay, so you had a dream about this place. Tell me.
+L399062 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ You see what I mean...
+L399061 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Oh boy.
+L399060 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ I had a dream about this place.
+L399059 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Go ahead.
+L399058 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ It's kind of embarrassing but,
+L399057 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Okay. Why this Denny's?
+L399056 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ This Denny's.
+L399055 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ To Denny's? I wasn't going to say anything, but why Denny's?
+L399054 +++$+++ u6720 +++$+++ m448 +++$+++ DAN +++$+++ I just wanted to come here.
+L399053 +++$+++ u6725 +++$+++ m448 +++$+++ HERB +++$+++ Why did you want to go to breakfast if you're not hungry?
+L399469 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Damn, that's a long drive.
+L399468 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Palmdale.
+L399467 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Where at?
+L399466 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Yeah ... and they both use the same address.
+L399465 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Interesting.
+L399464 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Nope, not yet. Their fingerprints don't match up anywhere.
+L399463 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Find out who they are?
+L399462 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Well he said...  you know in his way... you know what I mean? Besides the guy gettin' rolled up under the kids car which busted him up pretty bad, there was this little knife-like torn piece of metal, you know, off the car body, rolled out and slid up through this guy's neck and just kinda slit his aorta, you know, but they didn't find it right away, so the guy's losin' a lot of blood, you know, to the brain - all this time cause it was just like this thin little puncture wound on the surface of his neck that kinda sealed itself, he said, while inside the aorta is bleedin' pretty steady all that time. So, Dr. Scott's laughin' you know like he does 'cause he knows we want to talk to this guy. He's laughin' you know and shakin'... Son of a bitch couldn't stop laughin'... It was kinda contagious 'cause pretty soon we were all laughin'...the nurse was laughin'. You know how he is.
+L399461 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Oh yeah.
+L399460 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Yeah... just .... Dr. Scott's got 'im. You remember Dr.Scott.
+L399459 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ The one of 'em still alive?
+L399458 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Handstitched Italian. Filled with phony credit cards ... off the two guys in the Caddy.
+L399457 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Nice wallets.
+L399052 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ That's what I'm thinkin'.
+L399051 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ No. Could be someone's missin' maybe.
+L399050 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Could be...any of those dead kids wearin' pearl earrings?
+L399049 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Could be unrelated.
+L399048 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Yeah, they showed me
+L399047 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ The boys found this on the floor in back of the Caddy.
+L399046 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ Two men... two guns in the Caddy.
+L399045 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Sammy thinks the Caddy had stopped along the shoulder ... man up the road said he saw two cars drag racin'...then you got that blind corner.
+L399044 +++$+++ u6723 +++$+++ m448 +++$+++ DETECTIVE NEAL DOMGAARD +++$+++ Yeah.
+L399043 +++$+++ u6722 +++$+++ m448 +++$+++ DETECTIVE HARRY MCKNIGHT +++$+++ You feel it?
+L399137 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Yeah, that's a funny story.
+L399136 +++$+++ u6724 +++$+++ m448 +++$+++ ED +++$+++ It was just a thing. The story made you laugh.
+L399135 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Oh, things aren't so bad. Gee, I hope you're not goin' to get in any trouble.
+L399134 +++$+++ u6724 +++$+++ m448 +++$+++ ED +++$+++ Yeah, look at my digs ... times are tough.
+L399133 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Hardly.
+L399132 +++$+++ u6724 +++$+++ m448 +++$+++ ED +++$+++ Making ends meet, huh.
+L399131 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Well, not much Ed. Just doin' some stuff for this guy.
+L399130 +++$+++ u6724 +++$+++ m448 +++$+++ ED +++$+++ Unreal ... so, you're looking good. Whatcha doin' these days?
+L399129 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ So man, that's unheard of ... an accident like that ... who coulda foreseen that.
+L399229 +++$+++ u6729 +++$+++ m448 +++$+++ LANEY +++$+++ Sure.
+L399228 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ You'll keep your eyes open for me won't you baby?
+L399227 +++$+++ u6729 +++$+++ m448 +++$+++ LANEY +++$+++ No...
+L399226 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ A brunette? ... maybe beat up?
+L399225 +++$+++ u6729 +++$+++ m448 +++$+++ LANEY +++$+++ No.  I haven't seen any.
+L399224 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Sure, reach in my shirt pocket there.
+L399223 +++$+++ u6729 +++$+++ m448 +++$+++ LANEY +++$+++ No ... thanks though... I'll take a cigarette if you have one.
+L399222 +++$+++ u6728 +++$+++ m448 +++$+++ JOE +++$+++ Not a coke or anything?
+L399221 +++$+++ u6729 +++$+++ m448 +++$+++ LANEY +++$+++ Not here...no thanks.
+L401919 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Jesus, my legs are asleep. I'll never be able to win this shit.
+L401918 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ You must come in first place to move on !
+L401796 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ Pick with expediency !
+L401795 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Great.. great. Is there any kind of hint or anything ?
+L401794 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ So many tubes to get in, only one is the way out.
+L401690 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Great ! You couldn't be a fan of Dolphins or some other less threatening animal.
+L401689 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ And now ladies and gentlemen it's time for the fabulous CROCODILE SHOW !
+L401682 +++$+++ u6741 +++$+++ m449 +++$+++ MATTHEW +++$+++ Where's the dock ?
+L401681 +++$+++ u6736 +++$+++ m449 +++$+++ ANNOUNCER +++$+++ That's it folks for the Demon Boat Ride.... Everybody off. Watch your hands and feet.
+L401543 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Good. Nice to see you, Bruce. Johnny.
+L401542 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I'll do the standard research and have them in by midnight, pending any unforseen problems.
+L401540 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I have an embezzler and his accomplice.
+L401539 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Good morning. What do you have today ?
+L401401 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ No one has a gun to your head.
+L401400 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ I'm an investment banker. I see blood bathes everyday. Besides, mine is not to question why, min is but to do or die.
+L401399 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Doesn't it bother you to see this kind of brutal death ? I mean , I can understand the old man's infatuation with the stuff, but not you.
+L401396 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, I'd say that's it.
+L401395 +++$+++ u6743 +++$+++ m449 +++$+++ ZACH +++$+++ Is that it ?
+L402053 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Bye....
+L402052 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Well, I'll see you at the next staff party.
+L402051 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Yeah a real shame.
+L402050 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ That's a shame.
+L402049 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Apparently pretty high, we just got a new CEO last week.
+L402048 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Well, surprise, surprise, I've been on the payroll for several years now. I still have an office and secretary. No one even batted an eyelash. Do you realize what the high turnover is in a multi corporation bank in New York ?
+L402047 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ That was eleven years ago.
+L402046 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ I work here, remember ?
+L402045 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What are you DOING here ?
+L401983 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It'll end. It'll end with him and McCay. Then the park shuts down. Permanently.
+L401982 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Just stop it. End it here.
+L401977 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ There's one more person here for me to visit.
+L401976 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What about you ?
+L401952 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Girder, watch your head.
+L401951 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ What was that ?
+L401950 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yes.
+L401949 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Do you know where you're going ?
+L401930 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ It's poison gas, this is the antidote. Drink it.
+L401929 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ I don't get it.
+L401908 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ The Brooklyn Bridge.
+L401907 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Where are we going ?
+L401904 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Great...
+L401903 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ You don't. It's random, there no trick.
+L401902 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Okay Mr Inventor, how do we avoid it ?
+L401901 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Yeah, real cute. The storm is fake, but the lightening is real.
+L401900 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ This is cute.
+L401899 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Let's go.
+L401898 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ If we can get to through the next room, we'll be at a junction for a power grid.
+L401889 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Fine...
+L401888 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ You okay ?
+L401887 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ Okay.
+L401886 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Just remember, hold your breath as long as you can. Then go right over to that corner. The door will open and go in and up.
+L401881 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ So was I. So don't give me any shit. Your business is just as bad. At least I'm up front about it. You kill people slowly. Your corporate take overs can decimate a families livelihood over a year sometimes two. Now you know how it feels.
+L401880 +++$+++ u6742 +++$+++ m449 +++$+++ SAUNDRA +++$+++ It wasn't my fault. I was just part of a team. I was doing my job...
+L401879 +++$+++ u6737 +++$+++ m449 +++$+++ BRUCE +++$+++ Know what ? That it was your fault ?

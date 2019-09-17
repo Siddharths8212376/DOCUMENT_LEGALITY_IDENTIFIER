@@ -1,0 +1,200 @@
+L660482 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ There, there, lie quiet now.  You just had a bad dream.
+L660481 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ But I did leave you, Uncle Henry -- that's just the trouble.  And I tried to get back for days and days.
+L660477 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Yes, darling.
+L660476 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, Auntie Em -- it's you!
+L660475 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Dorothy.  Dorothy, dear. It's Aunt Em, darling.
+L660474 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ -- no place like home -- there's no place like home -- no place --
+L659471 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ You wicked old witch!  Uncle Henry, Auntie Em, don't let 'em take Toto!  Don't let her take him -- please!
+L659470 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Dorothy!
+L659442 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Now, you just help us out today, and find yourself a place where you won't get into any trouble.
+L659441 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No --
+L659440 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Now, Dorothy, dear, stop imagining things. You always get yourself into a fret over nothing.
+L659439 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Auntie Em, really -- you know what Miss Gulch said she was gonna do to Toto?  She said she was gonna --
+L659385 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh -- all right.
+L659384 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Dorothy!  Dorothy!  We're busy!
+L659383 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, but he doesn't do it every day -- just once or twice a week.  And he can't catch her old cat, anyway. And now she says she's gonna get the sheriff, and --
+L659382 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Seventy --  Dorothy, please!
+L659379 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, but Aunt Em, she hit him over the --
+L659378 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Dorothy, please!  We're trying to count! Fifty-eight--
+L659377 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Just listen to what Miss Gulch did to Toto! She --
+L659376 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Fifty-seven, fifty-eight --
+L659375 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Aunt Em!
+L659465 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Now, we can't go against the law, Dorothy. I'm afraid poor Toto will have to go.
+L659464 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Uhh -- yeah --
+L659390 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Yes.
+L659389 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Oh, I hope we got them in time.
+L659388 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Yes.
+L659387 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ I know, but we all got to work out our own problems, Henry.
+L659386 +++$+++ u8962 +++$+++ m610 +++$+++ UNCLE HENRY +++$+++ Poor little orphan, and her Miss Gulch troubles. Gosh all hemlock - you know, she ought to have somebody to play with.
+L659431 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Well, don't start posing for it now.  Here, here -- can't work on an empty stomach. Have some crullers.
+L659430 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ All right, Mrs. Gale.  But some day they're going to erect a statue to me in this town, and --
+L659429 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ I saw you tinkering with that contraption, Hickory. Now, you and Hunk get back to that wagon!
+L659428 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Well, Dorothy was walking along the --
+L659427 +++$+++ u8948 +++$+++ m610 +++$+++ AUNT EM +++$+++ Here, here, what's all this jabber-wapping when there's work to be done?  I know three shiftless farm hands that'll be out of a job before they know it!
+L659426 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Look at you, Zeke -- you're just as white --
+L659605 +++$+++ u8949 +++$+++ m610 +++$+++ BARRISTER +++$+++ You'll be hist...
+L659604 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ From now on you'll be history
+L659596 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ Yes, let the joyous news be spread.
+L659595 +++$+++ u8949 +++$+++ m610 +++$+++ BARRISTER +++$+++ If any!
+L659594 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ Then this is a day of Independence For all the Munchkins and their descendants!
+L659589 +++$+++ u8949 +++$+++ m610 +++$+++ BARRISTER +++$+++ Is morally, ethic'ly
+L659588 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ If she?
+L659587 +++$+++ u8949 +++$+++ m610 +++$+++ BARRISTER +++$+++ If she...
+L659586 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ To see?
+L659585 +++$+++ u8949 +++$+++ m610 +++$+++ BARRISTER +++$+++ But we've got to verify it legally To see...
+L659584 +++$+++ u8955 +++$+++ m610 +++$+++ MAYOR +++$+++ As Mayor of the Munchkin City In the County of the Land of Oz I welcome you most regally
+L660354 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ You are?
+L660353 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Well, I -- I -- I am the Great and Powerful -- Wizard of Oz.
+L660352 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Who are you?
+L660351 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ... -- Oz -- has spoken!
+L660342 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Do you presume to criticize the....
+L660341 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ If you were really great and powerful, you'd keep your promises!
+L660334 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Not so fast!  Not....
+L660333 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes, sir.  So we'd like you to keep your promise to us, if you please, sir.
+L660332 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ...resourceful!
+L660330 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Oh ....
+L660329 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Please, sir.  We've done what you told us. We've brought you the broomstick of the Wicked Witch of the West.  We melted her.
+L660328 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ ...have you come back?
+L660087 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ The Wizard - The Wizard - The Great and Powerful Wizard of Oz - Oz - Oz-Oz - Oz - Oz - Oz - Oz!
+L660086 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, come on - come on! We'll soon find the Wizard!
+L660085 +++$+++ u8957 +++$+++ m610 +++$+++ OZ'S VOICE +++$+++ Tap - tap - tap - tap - What was that - that - that? Our echo - echo - echo.
+L660084 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Our echo.
+L660440 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Goodbye, folks!
+L660439 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh --
+L660438 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ I can't come back!  I don't know how it works!
+L660437 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh!  Come back!  Don't go without me! Please come back!
+L660427 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Times being what they were, I accepted the job, -- retaining my balloon against the advent of a quick get-away.  And in that balloon, my dear Dorothy, you and I will return to the land of E Pluribus Unum!
+L660426 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Ohhh!
+L660425 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Frightened?  You are talking to a man who has laughed in the face of death -- sneered at doom and chuckled at catastrophe.  I was petrified.  Then suddenly the wind changed, and the balloon floated down into the heart of this noble city, where I was instantly acclaimed Oz, the First Wizard de Luxe!
+L660361 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh ....
+L660360 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Yes-s-s -- that...that's exactly so.  I'm a humbug!
+L660357 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ No, I'm afraid it's true. There's no other Wizard except me.
+L660356 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I don't believe you!
+L660355 +++$+++ u8964 +++$+++ m610 +++$+++ WIZARD +++$+++ Uhhhh -- yes...
+L659423 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes, I'm all right.  Oh -- I fell in and -- and Zeke --
+L659422 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Are you all right, Dorothy?
+L659421 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh!  Oh, Zeke!  Help!  Help me, Zeke!  Get me out of here!  Help!
+L659415 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Now what happened? I'll bet Hunk did that.
+L659414 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Hickory!
+L659413 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Who did it? Now wait a minute.
+L659412 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh!
+L659411 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Sure. It's to break up winds, so we don't have no more dust storms. Can you imagine what it'll mean to this section of the country? I'll show you. It works perfectly now. Here's the principle. You see that fan -- that sends up air currents into the sky. These air currents -- Oh, stop it!
+L659410 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ This?
+L659409 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Now look, here's something that really has a heart. This is the best invention I ever invented.
+L659408 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Well, gee, I try and have a heart.
+L659407 +++$+++ u8952 +++$+++ m610 +++$+++ HICKORY +++$+++ Oh! Oh, it feels like my joints are rusted. Listen, Dorothy, don't let Hunk kid you about Miss Gulch. She's just a poor sour-faced old maid that -- she ain't got no heart left. You know, you should have a little more heart yourself, and have pity on her.
+L660212 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Catch him, you fool!
+L660211 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Run, Toto, run!
+L660208 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ No!  Fool, that I am!  I should have remembered -- those slippers will never come off, as long as...
+L660207 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I'm sorry.  I didn't do it!  Can I still have my dog?
+L660206 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Ahh!  Ah!
+L660205 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ That's a good little girl.  I knew you'd see reason.
+L660204 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No!  No -- no!  Here -- you can have your old slippers -- but give me back Toto.
+L660203 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Very well! Throw that basket in the river and drown him!
+L660202 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ But the Good Witch of the North told me not to.
+L660201 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ Certainly -- certainly -- when you give me those slippers.
+L660200 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, please give me back my dog!
+L660199 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ All in good time, my little pretty -- all in good time.
+L660198 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ What are you going to do with my dog?  Give him back to me!
+L659620 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No -- No!  It was an accident! I didn't mean to kill anybody!....
+L659619 +++$+++ u8963 +++$+++ m610 +++$+++ WITCH +++$+++ ...didn't you?
+L660472 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ There's no place like home.  There's no place like home.  There's no place like home.  There's no place like home.
+L660471 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ And think to yourself -- "There's no place like home; there's no place like home; there's no place like home."
+L660470 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Then close your eyes, and tap your heels together three times.
+L660469 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes, I'm ready now.
+L660468 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes.  Say goodbye, Toto.
+L660467 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Are you ready now?
+L660462 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, dear -- that's too wonderful to be true! Oh, it's -- it's going to be so hard to say goodbye.  I love you all, too.  Goodbye, Tin Man.  Oh, don't cry.  You'll rust so dreadfully.  Here -- here's your oil-can. Goodbye.
+L660461 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Whenever you wish.
+L660460 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, now?
+L660459 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Toto, too.
+L660458 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ ...Toto, too?
+L660448 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I have?
+L660447 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ You don't need to be helped any longer. You've always had the power to go back to Kansas.
+L660446 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, will you help me?  Can you help me?
+L659644 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ It's always best to start at the beginning -- and all you do is follow the Yellow Brick Road.
+L659643 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ But, how do I start for Emerald City?
+L659642 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Well, then, you'll have to walk.  The Munchkins will see you safely to the border of Munchkinland.  And remember, never let those ruby slippers off your feet for a moment, or you will be at the mercy of the Wicked Witch of the West.
+L659641 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No, I'm afraid I didn't.
+L659640 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Oh, very good, but very mysterious.  He lives in the Emerald City, and that's a long journey from here. Did you bring your broomstick with you?
+L659639 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ The Wizard of Oz?  Is he good or is he wicked?
+L659638 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ No -- that's true. The only person who might know would be the great and wonderful Wizard of Oz himself!
+L659637 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, I'd give anything to get out of Oz altogether -- but which is the way back to Kansas?  I can't go the way I came.
+L659636 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Pooh -- what a smell of sulphur!  I'm afraid you've made rather a bad enemy of the Wicked Witch of the West.  The sooner you get out of Oz altogether, the safer you'll sleep, my dear.
+L659615 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ That was her sister -- the Wicked Witch of the East. This is the Wicked Witch of the West.  And she's worse than the other one was.
+L659614 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I thought you said she was dead.
+L659565 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ The little people who live in this land -- it's Munchkinland, and you are their national heroine, my dear.  It's all right -- you may all come out and thank her. It's all right now - you may all come out.
+L659564 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh.  But, if you please -- what are Munchkins?
+L659563 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ The Munchkins are happy because you have freed them from the Wicked Witch of the East.
+L659557 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Well, I'm a little muddled.  The Munchkins called me because a new witch has just dropped a house on the Wicked Witch of the East.  And there's the house, and here you are, and that's all...
+L659556 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Toto's my dog.
+L659554 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Oh!  Well....
+L659553 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Who, me?  Why, I'm not a witch at all.  I'm Dorothy Gale from Kansas.
+L659552 +++$+++ u8951 +++$+++ m610 +++$+++ GLINDA +++$+++ Are you a good witch, or a bad witch?
+L660489 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ But you couldn't have been, could you?
+L660488 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Oh -- 
+L659533 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, no, no, I have to get to her right....
+L659532 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ But -- what's this?  I thought you were going along with me.
+L659531 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ ...you don't suppose she could really be sick, do you? Oh -- Oh, I've got to go home right away!
+L659530 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, you....
+L659529 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ That's all -- the Crystal's gone dark.
+L659528 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, no -- no!
+L659527 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ ...bed.
+L659526 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ I said it had poppies on the wall paper! Eh -- she's -- What's this?  Why, she's -- she's putting her hand on her heart -- she's -- she's dropping down on the....
+L659525 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ ...paper?
+L659524 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Has it poppies on the wall....
+L659523 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ ...room --
+L659521 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ What's she doing now?
+L659520 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Uh-huh.
+L659519 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I had the measles once -- and she stayed right by me every minute.
+L659517 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Me?
+L659516 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Someone has hurt her -- someone has just about broken her heart.
+L659515 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh --
+L659514 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Well, I -- I can't quite see.  Why, she's crying.
+L659513 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ That's right.  What's she doing?
+L659512 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Her -- her name is Emily.
+L659511 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes...That's Aunt Em.
+L659510 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ ...her face is careworn.
+L659507 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Oh -- yes.
+L659506 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ That's our farm!
+L659499 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Do you know any?  Oh, you mean the thing -- Yes, well, I -- I never do anything without consulting my crystal first. Let's....
+L659498 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Auntie Em was even going to let them kill Toto yesterday for biting Miss Gulch. Oh, please, Professor, why can't we go with you and see all the Crowned Heads of Europe?
+L659497 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Oh --
+L659496 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No, they won't - honestly.
+L659495 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Aw, come, come, come --
+L659494 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Nobody cares about me at home. They wouldn't even miss me.
+L659493 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Oh --
+L659492 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, no, I wanted to go along with you.
+L659491 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Oh, yes - you - you wanted to go home, huh?
+L659488 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Please, Professor, why can't we go along with you?
+L659487 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Yes --
+L659486 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Why, it's just like you could read what was inside of me.
+L659485 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ No, no --  now don't tell me.  They -- they don't understand you at home.  They don't appreciate you. You want to see other lands -- big cities -- big mountains -- big oceans --
+L659484 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Why --
+L659483 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Professor Marvel never guesses -- he knows! Now, why are you running away?
+L659482 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ How did you guess?
+L659481 +++$+++ u8958 +++$+++ m610 +++$+++ PROFESSOR +++$+++ Let's see -- you're -- you're travelling in disguise. No, that's not right.  I -- you're -- you're going on a visit.  No, I'm wrong. That's...You're -- running away.
+L659473 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Stop her!
+L659472 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ Here!  I've got an order!  Let me have...
+L659469 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh, no, no!  I won't let you take him!  You go away, you....!  Oooh, I'll bite you myself!
+L659468 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ Here's what I'm taking him in -- so he can't attack me again.
+L659467 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ No --
+L659466 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ Now you're seeing reason.
+L659458 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Destroyed?  Toto?  Oh, you can't!  You mustn't! Auntie Em!  Uncle Henry!  You won't let her, will you?
+L659457 +++$+++ u8956 +++$+++ m610 +++$+++ MISS GULCH +++$+++ That dog's a menace to the community.  I'm taking him to the sheriff and make sure he's destroyed.
+L660464 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh --  Goodbye, Lion.  You know, I know it isn't right, but I'm going to miss the way you used to holler for help before you found your courage.
+L660463 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Now I know I've got a heart -- 'cause it's breaking.
+L660405 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Look -- it ticks!
+L660404 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ ...yes.
+L660403 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Yes...!
+L660402 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Ahh --- Oh, it ticks!  Listen!
+L660337 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ You've had plenty of time already!
+L660336 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Tomorrow?  Oh, but I want to go home now.
+L660279 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ I knew you would!
+L660278 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Dorothy!
+L660156 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Now come on - you're acting silly -- 
+L660155 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh! Something bit me, too!
+L660147 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Oh!  Oh, Tin Man!   Oh!
+L660146 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ No.  Why only --  Oh --
+L660070 +++$+++ u8950 +++$+++ m610 +++$+++ DOROTHY +++$+++ Don't you know the Wizard's going to give you some courage?
+L660069 +++$+++ u8960 +++$+++ m610 +++$+++ TIN MAN +++$+++ Oh, he's just ascared again.

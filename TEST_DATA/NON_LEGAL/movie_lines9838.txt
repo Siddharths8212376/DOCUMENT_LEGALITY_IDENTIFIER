@@ -1,0 +1,200 @@
+L224227 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ The warehouse.  Buxton seeds.  It's tomorrow.
+L224226 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ Go in where?
+L224225 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ No.  I gotta tell him the address, so he doesn't go in.
+L224224 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ C'mon, man.  Get inside.  I'll come over. We'll play some Nintendo.
+L224223 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I talked to him Gordo.  I talked to my Dad.
+L224222 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ Sull!  What the hell!
+L224039 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I think it's somewhere in the closet... if you can find it.
+L224038 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ Hey, OK if Gordy uses your old gear?
+L224034 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ What the hell is that smell?
+L224033 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ Hey, Sull.  My cable's out again.
+L224032 +++$+++ u5396 +++$+++ m358 +++$+++ GORDO +++$+++ Sully!  Is that you?
+L224031 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I'm not your uncle, kid.  Gordo, what are you doing here?
+L224573 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Just cause he didn't want to look at the photos doesn't mean he isn't the doer. Not everyone fits the profile.
+L224572 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ He ain't our guy, John.
+L224571 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah.  Sure.
+L224570 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Got a minute?
+L224538 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ I'm just trying to figure what interests me more: the possibility that Daryl is the guy, or you making him absolutely the guy.
+L224537 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ What?
+L224536 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Uh, huh.
+L224535 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Not the first time that's been true.  I'm telling you, I got a feeling about this guy.  This is the guy, Satch.
+L224534 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ So you figure the murders stop 'cause he's off the street.  Then by the time he gets paroled, he's smartened up enough to control himself?
+L224533 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I ran him through BCI...got a hit. Busted for sexual assault: March 22, 1970.  Eight days after the last Nightingale murder.
+L224530 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Mind if I shake it off first...so's I can concentrate better.
+L224529 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Okay, lemme walk you through it.
+L224451 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ This case just got hot.  We pull on this string...
+L224450 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Which means he probably knew her.
+L224449 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ April 16...?  That means she was the first.
+L224448 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Our lucky break.  Mario ID'd the dental. Mary Finelli...reported missing April 16, 1968.
+L224431 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ That wasn't luck, Johnny boy.  That was smarts and ten plus on the job.
+L224430 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ That's what we need here, Satch.  A lucky break.
+L224366 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ What're you talking'?  You know better than anybody, John.  You've read this file a thousand times.
+L224365 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Ten?  No.  I remember this case.  Three. He killed three women.
+L224364 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ She makes ten.
+L224361 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ And I'm tired of the I'm sorrys.  I don't need 'em.  What I need is a partner I can count on.  I care about you.  Not cause of me and your old man.  Not cause of your mom. But because of you.
+L224360 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I'm sorry.  I just...you know...I...
+L224359 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ This is getting real old, John.  And I'm tired up to here with it...
+L224357 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah.  That's it.
+L224356 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Another rough night, huh?  That it?
+L224292 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Gordo, I wasn't dreaming.  I talked to him, it was real.
+L224291 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Maybe you outta lay off a little...
+L224283 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Whoa, I just...I just...
+L224282 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ You're not looking too good.
+L224106 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Nothing you're willing to do.
+L224105 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ She made up her mind.  Nothin' I do is gonna change it.
+L224104 +++$+++ u5400 +++$+++ m358 +++$+++ SATCH +++$+++ Don't choke on your pride, Sull.  You ain't ever gonna catch another one like that.
+L224506 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I'm sorry.  I didn't realize...  But she knew, John.  A mother knows what's in her son's heart.
+L224505 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah.  I just wish I'd told her how proud I was of her.
+L224504 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Then I'll bet she's real proud of you, huh?
+L224503 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I try to be.
+L224502 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Are you a good cop, John?
+L224501 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ She's pretty special.
+L224500 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ You're mom sounds like she's got some smarts.
+L224499 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah...I remember.  I used to play cops and robbers but y-- ...my mom wouldn't let me have a toy gun.
+L224498 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ My six year-old here keeps telling me he wants to be a policeman.  Right after he retires from the majors.  We just gave him a badge and a whistle for his birthday.
+L224497 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah, that's right.
+L224496 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Hey, future boy.  Frank tells me you're a cop?
+L224130 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Look who's talking.
+L224129 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ You work too hard, John.
+L224128 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I know.  I'm sorry.  Work.
+L224127 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Oh, I loved it.  I wish you'd gone.
+L224126 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ So how'd you like LION KING?
+L224125 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Close.
+L224124 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ No kidd'n, he musta been pushing 90!
+L224123 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Fine.  You know Dr. Schwartz retired last month?
+L224122 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ So how are things at the hospital?
+L224121 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I'm sure everything'll work out.  She really loves you...
+L224120 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Yeah, those grad school applications are driving her crazy.
+L224119 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I'm sorry Sam couldn't make it.
+L224118 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Sounds good.
+L224117 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ I thought it'd be nicer to eat here.
+L224064 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Hey, Ma, it's me.  Checking in.  Probably at work.  Anyways, I'll see you tomorrow night.  Love you.
+L224063 +++$+++ u5399 +++$+++ m358 +++$+++ JULIA +++$+++ Hi, this is Julia.  Please leave a message after the tone.
+L224752 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ It's a small world, Carl.  And I'm gonna find you.  Real soon.
+L224751 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Fuck you, asshole.
+L224750 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ You have the right to speak to an att --
+L224749 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Sullivan?
+L224748 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Anything you say can and will be used against you in a court of law.
+L224747 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Who the fuck is this?
+L224746 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ You have the right to remain silent.  If you give up that right...
+L224745 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Hell-
+L224646 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I'm the train wreck you didn't see coming.  And I'm gonna steal your life away.  You went down 30 years ago.  You just don't know it yet.
+L224645 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Who are you?
+L224643 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Talk about dumb luck.  Odds of anybody finding that girl, thirty years later. And then the chances of hitting a dental...forget about it.  Bets part is she's the first victim.  She knew the doer.  I'm betting those bones are gonna do a lot of talking.
+L224642 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Huh.
+L224641 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ No.  Missing teenager.  Disappeared thirty years ago.  Found her bones last week.  Buried behind some old diner, up by Dyckman street.  Mary Finelli.
+L224640 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ No kiddin'?
+L224639 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ As a matter of fact, I caught a case that goes back to your day...one of the Nightingale murders.
+L224638 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ I hear that.
+L224637 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Nah, just working the job.
+L224636 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ A hot shot, huh?
+L224635 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ The 2-3.  Homicide.
+L224634 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ No.  What house you work?
+L224633 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ I look familiar?
+L224632 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Yeah, long time ago.  I know you?
+L224631 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ You used to be on the job?
+L224626 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Oh.  Sorry.  How so?
+L224625 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ No.  No.  Well, sort of.  In my heart. Been dead 29 years.
+L224624 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Wife around?
+L224623 +++$+++ u5401 +++$+++ m358 +++$+++ SHEPARD +++$+++ Glad you did.  Come on in.  Buy you a cup of coffee?
+L224622 +++$+++ u5397 +++$+++ m358 +++$+++ JOHN +++$+++ Just came by to wrap up over there. Thought I'd say "hello."
+L225816 +++$+++ u5403 +++$+++ m359 +++$+++ ABEL +++$+++ "He" wanted me to warn you.  Look at this, all of you!
+L225815 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ That's an eyeball!  Oh, God!
+L225814 +++$+++ u5403 +++$+++ m359 +++$+++ ABEL +++$+++ I found this today.  There were other pieces of the body lying there, but I believe "he" wanted me to have this...
+L225813 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ What is that?
+L225811 +++$+++ u5403 +++$+++ m359 +++$+++ ABEL +++$+++ Drop me off?  How do you mean?
+L225810 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I mean, is there any place in particular where we can drop you off?
+L225809 +++$+++ u5403 +++$+++ m359 +++$+++ ABEL +++$+++ Going?  How do you mean?
+L225808 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Where are you going?
+L225807 +++$+++ u5403 +++$+++ m359 +++$+++ ABEL +++$+++ My name is Abel.  And I am my brother's keeper.
+L226011 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Actually, I have no idea what the World's Record is.  I was just kidding.
+L226010 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ You're all just jealous.
+L226007 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I did?!  I broke the world's record.
+L226006 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ According to the Guinness Book, you passed the World's Record several whacks ago.
+L226005 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ ... One thousand twelve... one thousand thirteen... one thousand fourteen... What's the World's Record for this?
+L225988 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ We were looking for something to keep our hands busy.  It was either this or an orgy.  Vera chose this.  What're ya gonna do?
+L225987 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Who brought up this bright idea?
+L225877 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Yes, you can.  Come on, Shelly!
+L225876 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ No more... I can't!
+L225744 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ Would you be yourself...  ...if you looked this this?
+L225743 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Look Shelly, you're my roommate and I like you... most of the time.  But you gotta stop doing these things.  Now, I set this date up for you, didn't I?  So don't embarrass me.  When you meet this woman, just relax and be yourself.
+L225742 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Same thing.
+L225741 +++$+++ u5410 +++$+++ m359 +++$+++ SHELLY +++$+++ I beg your pardon, I'm not an asshole.  I'm an actor.
+L225740 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Dammit Shelly!  Why do you always have to be such an asshole!
+L226063 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Sure.
+L226062 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Do you want a beer or not?
+L226060 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ What?
+L226059 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I'm going downstairs to get a beer. You want one?
+L226058 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Barely.
+L226057 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Hey Deb... can you hear me?
+L226056 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ You're too clean for me.
+L226055 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ I think it's called "a shower". You might try it sometime.
+L226054 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ What're you doin'?
+L226052 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ I vote for the hammock.
+L226051 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I vote for me.
+L226050 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ That was the best yet.  Was it you... me... or the hammock?
+L226024 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I'll think of something.
+L226023 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Think you can figure it out?
+L226022 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I know how to do it.  I mean, how do we do it in the hammock?
+L226021 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ First we take off our clothes, then you get on top of me or I get on top of you...
+L226020 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ How do we do it?
+L225990 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ If you insist.
+L225989 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ How about you and I whacking a couple of balls around?
+L225982 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ You can play with yourself, 'cause I'm going in the house.
+L225981 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ How about a roll in the hay?
+L225980 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Not now.  I'm cold.
+L225979 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ We haven't looked in the barn, yet.  Let's take a look.
+L225978 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ What're you doing?
+L225959 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Sounds disgusting.  Let's go.
+L225958 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ We'd be all alone.  We could do anything we wanted and nobody would see.
+L225957 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I don't know...
+L225956 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Why don't we go take a swim?
+L225881 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Where's Shelly?
+L225880 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ What was that?
+L225785 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ No way.  We're pregnant.  Remember?
+L225784 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ Breakfast?
+L225734 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ I didn't mean it the way it sounded...
+L225733 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Cool it, Andy.
+L225732 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ So what would a weekend in the country be without sex?
+L225728 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Maybe this wasn't such a good idea.
+L225727 +++$+++ u5404 +++$+++ m359 +++$+++ ANDY +++$+++ What're you gonna do?
+L226090 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ Be a man, man.
+L226089 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ Will you come with me?
+L226088 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ Here.  Go down the cellar and check the fusebox.
+L226087 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ Don't do that to me!
+L226086 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ Nothin'.  I was just foolin' around.
+L226085 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ What's the matter?!
+L226084 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ It's Friday the 13th.
+L226083 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ I can't even remember what day it is, man.
+L226082 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ I can't find the bong anywhere. Can't you remember where you dropped it?
+L225944 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ This is all the exercise I need...
+L225943 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ Maybe we should do some exercise.
+L225851 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ And Hell is hot, but I ain't goin' down there either.
+L225850 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ That's the way it is, man. Cellars are dark.
+L225849 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ It's dark down there.
+L225798 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ I love you, man!
+L225797 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ I'm a slow eater.
+L225795 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ Chuck... look.
+L225794 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ I'm gonna be sicker than all of you, man.  Now I gotta spend the whole weekend totally straight...  I don't think I can make it, man!
+L225779 +++$+++ u5405 +++$+++ m359 +++$+++ CHILI +++$+++ Yes, man!
+L225778 +++$+++ u5407 +++$+++ m359 +++$+++ CHUCK +++$+++ Destroy the evidence?  No, man!
+L225863 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Have you ever made love in a hammock?
+L225862 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ A hammock?
+L225861 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Your bed.
+L225860 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ What's this?
+L225825 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ You go ahead...
+L225824 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Come on down!
+L225749 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ I don't know.  I flunked Spanish.
+L225748 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ What are they saying?
+L225738 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Okay, we won't.  We'll just have fun, all agreed?
+L225737 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ I appreciate the fact that you worry about me, but don't.
+L225724 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ It's the last house on the left. She lives downstairs.
+L225723 +++$+++ u5408 +++$+++ m359 +++$+++ DEBBIE +++$+++ Which one is it?
+L226074 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Sort of.
+L226073 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ You know him?
+L226071 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ Sure, just watch where you're going.
+L226070 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ Could we move a little faster?
+L226027 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ It's all right, you're all right. I'm with you.
+L226026 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ When you dropped me off at the house, it was very late.  My parents were waiting up for me. As soon as I got in the door, they starting yelling and cursing at me.  I was so upset... I told them I slept with you.  My mothers slapped me.  That was the first time she'd ever hit me.  I couldn't believe it.  I ran out of the house and into the woods as fast and as far as I could run. I was crying.  They had destroyed the most beautiful night of my life and I wanted to punish them for that.  I decided to hide out all night.  They'd be so worried that they'd be sorry for what they did to me.  The woods were cold and damp from the rain.  I found a dry spot under a rotted oak tree and I guess I fell asleep.  All I can remember next is being startled out of sleep by the sound of footsteps.  I thought it was my father so I hid behind the tree. But the footsteps just stopped. The woods were dark.  I couldn't see anything.  I heard a cracking noise behind me.  I turned around and... and... oh, God... there was this hideous looking man.  So grotesque he was almost inhuman.  He had a knife and he started to slash away at me, again and again.  I was so hysterical and I don't know how I was able to get away.  I ran and ran, but he kept coming.  He was big but so fast.  He caught me and pulled me down to the ground and he... he... ripped my blouse off. I was screaming, but who could hear me?  Then... oh, God... he dragged me by the hair along the ground.  I was kicking and yelling.  He dragged me deeper and deeper into the woods.  Oh, please... please...
+L226004 +++$+++ u5409 +++$+++ m359 +++$+++ DEREK +++$+++ After you left me that night, I didn't see you or talk to you again for a year.  No one would tell me anything.  All I know is what the police told me.  We have nowhere to go unless you let me in.  What happened?
+L226003 +++$+++ u5406 +++$+++ m359 +++$+++ CHRIS +++$+++ You promised you'd never ask me.

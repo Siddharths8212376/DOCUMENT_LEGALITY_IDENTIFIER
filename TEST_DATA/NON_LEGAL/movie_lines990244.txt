@@ -1,0 +1,200 @@
+L475853 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I want my share. All of it.
+L475852 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ What are you proposing?
+L475851 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ There's going to have to be a change in our arrangement.
+L475675 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ By Friday.
+L475674 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Two thousand...
+L475673 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I understand your logic, Booth, but I don't think...two thousand's going to raise any eyebrows, do you?
+L475672 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ How much?
+L475671 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Ok...I'll wait.  For now. But I'm going to need a little advance, to oil the wheels, so to speak.
+L475670 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ That's the deal.  If you don't like it, forget it, no one wins.
+L475669 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Well, I don't know...
+L475668 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ We're going to wait.  All of us, until everything dies down.
+L475667 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I'm all ears.
+L475666 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ All right, Jesse, we'll play it your way, under one condition.
+L475665 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Besides, I'm not stupid, Earl. The tape was a basic Maxell D-80.  You can buy 'em at any store.  There's no way they can pin anything on me.
+L475659 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ My offer?  Well I'd say it's a fair one, like I said we're friends.  All I want is my share, which I guess is...
+L475658 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ What's your offer, Jesse?
+L475657 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Listen Earl.  I covered for you. For both of you.  I put my ass on the line to save yours, so don't pull a hostile tone with me!
+L475654 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ My point, well...
+L475653 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Why don't you get to the point.
+L475652 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ You gentlemen look like you're about to toss your collective cookies.
+L475813 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ It's odd.  I don't know how Denning had the time, or the ability to buy something local, based on his situation.
+L475812 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah?  So?
+L475542 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Denning was wearing a bug.
+L475541 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ What's that?
+L475540 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Well, we have one lead and that's what I'm looking into next.
+L475537 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Yes.  Wife and a kid.  Don't blame yourself, Deputy.  You did all you could.  You have our deepest gratitude...and my personal thanks.
+L475536 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ You mean that guy was an agent?
+L475535 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Normally we would have tracked him with a wiretap, but it was standard for him to occasionally drop out when working with these guys. The last we heard from him was two days ago.
+L475532 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Maybe.  That's where it was during Denning's last report.
+L475531 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Could it have been in the Mercedes?
+L475527 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Because someone may have gotten away.
+L475526 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ No.  Why?
+L475525 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Thank you.  Now, do you remember seeing any vehicles traveling near the site, on your way to or from?
+L475519 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Hello.
+L475518 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ How are ya?
+L476110 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ You know I do.
+L476109 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Sally, do you love me?
+L476107 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I swear to you, it's true...
+L476106 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I don't believe it.
+L476105 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Things just got a little screwed up, that's all.
+L476103 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah.  I want to tell you everything.
+L476102 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Do you wanna tell me what that was all about?
+L476087 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah, it is...
+L476086 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Yeah, I guess you're right.  It's just...all so sudden...
+L476085 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ We'll meet new people. You might have friends out there you never met.
+L476084 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I don't know.  My friends...
+L476083 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Sally there's a whole world out there.  We can have a new home. A real home, not some tin-plated dump.  What are you giving up?
+L476082 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I'm not sure why.  It's just, I've never been anywhere else...
+L476081 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Why does that bother you?
+L476069 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ It'll be more than enough.  We can get out of here...
+L476068 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Can you rely on how much they said you'd get?
+L476067 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Shouldn't be long.  A couple of weeks maybe.
+L476066 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ When do you expect this inheritance stuff to be straightened out?
+L476065 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I'll be there for you.  He won't try anything while I'm there.  I promise.  I'll protect you.
+L476064 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I don't know, Booth.
+L476063 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I'm going to quit.  That's what has to happen first.  Then we're going to tell him.
+L476062 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ How are we going to do all this?
+L475747 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Well I was just throwing out ideas...
+L475746 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ A satellite dish?
+L475743 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I love you.
+L475742 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I love you Sally.
+L475741 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ So do I.
+L475737 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ It'd have to be Switzerland to make sure Dwayne never finds us.
+L475736 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ We'd... I don't know...go to California, New York, maybe a house on a Swiss mountainside...
+L475735 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I hate it when you talk like this.  Go on.
+L475734 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Let's just get out of here, get out of this -- place.  We'll drop out, get a house have some kids, get a satellite dish...
+L475731 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I used to think he was something, once...  I was eighteen, I didn't know any better, and he had something steady to offer.
+L475730 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ It doesn't matter...he's next to you.  You know, I always say to myself, you should have left him years ago. Why didn't you?
+L475729 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ He doesn't slobber, he just snores. And I told you we haven't...done anything in over a year.
+L475728 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Every night I think about you sleeping with him, him slobbering all over you.
+L475727 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I know.
+L475726 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Dammit, I'm so sick of this.
+L475725 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Let's hope so. SALLY If he asks me again, I'm gonna tell him I returned it all.
+L475724 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ It's OK, Booth, it's no big deal.
+L475723 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Great...
+L475722 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ He started digging through my closet, something he never does.
+L475721 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ How the hell did he find it?
+L475720 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I told him I bought the lingerie, as a surprise.  I don't think he suspects anything, but now you know, if he mentions it.
+L475611 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Well, I can't let you down now, can I?
+L475610 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ You're worth every last penny.
+L475605 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ There isn't gonna be a next time. We're gonna get out of here.
+L475604 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ And I'd end up a widow in two ways.  Let's forget it.  I'll just be a little more careful next time.
+L475603 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ And I'd take it out on him.
+L475602 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Let's not get into this again. I know him.  If you said something, he'd take it out on me.
+L475601 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Booth.  Don't.  It's nothing. It's not worth it.  Remember what happened the last time?
+L475600 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ That son of a bitch.
+L475599 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ He's not, he's...
+L475598 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Like hell it's over.  You told me he wasn't doing this anymore.
+L475597 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Dwayne got a little tipsy is all. He doesn't handle pressure well.  It's over.
+L475596 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Nothing happened?
+L475595 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ What happened to your cheek? SALLY Oh I...nothing...
+L475593 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ You deserve it is the occasion.
+L475592 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ You got me something?  What's the occasion?
+L475591 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I'm in here.
+L475590 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Sally?  I was beginning to think he wasn't gonna leave.
+L475515 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I love you too.
+L475514 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ OK.  I love you.
+L475513 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I'm just tired is all.  I'll see you tonight OK baby?
+L475512 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah I'm fine.
+L475511 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Are you sure you're OK?
+L475510 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ OK.
+L475509 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Oh.  You coming by tonight?
+L475508 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Nothing's wrong.
+L475507 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Nothing.
+L475506 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ What's wrong?
+L475505 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I know.
+L475504 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ It was all over the local news. Dwayne was there, acting all official.
+L475503 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah.
+L475502 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Heard you had quite a night.
+L475501 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Hi.
+L475500 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Hi.
+L475289 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I might have to look into that...
+L475288 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Get a room in a nice hotel for a few hours...
+L475286 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ No.  But he would, probably.
+L475285 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Has he?
+L475284 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Ah hell, he'd do the same for me.
+L475283 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ He's irresponsible.
+L475282 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Well, not that I wouldn't sugar bun but Earl's in a bind.  They're going to take his car.
+L475280 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ Yeah but I need to take out four hundred dollars and the ATM will only give me three.
+L475279 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ There's an ATM on Speedwell Avenue.
+L475278 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I gotta take some money out, that's what for.
+L475277 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ What for?
+L475276 +++$+++ u7324 +++$+++ m495 +++$+++ BOOTH +++$+++ I have to go to the bank before it closes.
+L476051 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Thanks for your time.
+L476050 +++$+++ u7325 +++$+++ m495 +++$+++ CLERK +++$+++ A week ago, at most.
+L476049 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Be more specific.  A month, a week...
+L476045 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Could it have been this?
+L476044 +++$+++ u7325 +++$+++ m495 +++$+++ CLERK +++$+++ I don't remember.  We get a lot of people in here.
+L476043 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ What did he buy?
+L476042 +++$+++ u7325 +++$+++ m495 +++$+++ CLERK +++$+++ Yeah, I've seen him.
+L475271 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ First you question my integrity, then you call me stupid...  ...that hurts, son.
+L475270 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ What is this?  Don't be stupid man...
+L475267 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ Am I speaking English here?  How-about-you-give-us-what-you- have-and-leave?
+L475266 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ What?
+L475265 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ How about you give us what you have and leave.
+L475264 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ And what's that?
+L475263 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ I have a better plan.
+L475262 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ What?
+L475261 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ I have a better plan.  You want to hear it?
+L475257 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ You said that, I didn't.
+L475256 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ You didn't answer my question. Are you saying my word is of no value to you?
+L475255 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ Business is business.  Now where the hell is it?  I wanna get out of here.  That's the plan, we're just flunkies, you know what I'm saying?
+L475251 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ Sounds like you don't trust me.
+L475250 +++$+++ u7326 +++$+++ m495 +++$+++ CLIFF +++$+++ Yeah.
+L475249 +++$+++ u7335 +++$+++ m495 +++$+++ WILLIE +++$+++ Test the product?
+L475828 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Hell, I don't know.  If I had some input I'd offer it up.
+L475827 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What do you think about all this?
+L475569 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ This just might be our ticket!
+L475568 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ I don't know.
+L475529 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ We had hounds down at the scene, the footprint trail was a bust. And there were no other tire tracks in the vicinity.
+L475528 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ What makes you say that?
+L475487 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Cause we got footprints leading into that brush, I want to see where it leads...  Jesus, seven dead.  I'll tell you I've never seen carnage like this in all my seventeen years of sheriffing these parts.  I don't like it.  Not in my jurisdiction.
+L475486 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Why?
+L475320 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Speaking of which that reminds me I have to bring something home or eat Sally's meatloaf again, and I don't think I could stand that.
+L475319 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Don't worry the real men are in charge now.
+L475318 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ All right, deputies, take care, don't let your meat loaf.
+L475905 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Did you say After Midnight?
+L475904 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ OK...this is good.  Our first solid lead.
+L475901 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Fine.  The information doesn't leave this room.
+L475900 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Dwayne...  It is imperative that we keep this confidential.	Now we know someone's out there.  Very close. It may even be the son of a bitch that killed my partner.
+L475899 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Dwayne.
+L475898 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Sheriff Hogan --
+L475897 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well yes I understand that, we don't want them high-tailing it out of here.
+L475896 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Well you can understand why we didn't say anything.  If word got out that we had a track on the money it would only work against us.
+L475895 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Have you known this all along?
+L475894 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ We don't know.  Whoever got this payload together has one hell of a laundering system.
+L475842 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Mm-hmm...
+L475841 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Hell no. besides I'm just a radio call away if something happens. I feel I should keep abreast of what happens, seeing it's my jurisdiction and all.
+L475840 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Don't you have to be here?
+L475839 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Maybe I should come along.
+L475838 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Oh that was Agent Wallace.  We're going to check into something.
+L475819 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Because they don't want anyone to hear what's on it, obviously.
+L475818 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Why would someone do that?
+L475817 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Well, unfortunately Denning's not here to tell us, but I would say someone got their hands on that tape and switched it.
+L475816 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What are you getting at?
+L475815 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Maybe.  Maybe not.
+L475810 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Don't you think I would have told you that!
+L475809 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Uh, no...
+L475579 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ We appreciate that.
+L475578 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well we'd like to help you in any way we can.  We're all in this together, as law enforcement officers.
+L475575 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Damn! MARTIN I'm sorry to have dragged you all the way down here for that.  I thought maybe it would help. Booth lets out an inaudible deep breath -- Earl immediately plays up to Martin, clearly relieved --
+L475574 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Well nothing audible to us.  Maybe the lab can pick something up.
+L475546 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Excellent. I'll go down with you.
+L475545 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Yeah.  I told him I'd be there before five.
+L475544 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ That's news to me.  So it's over at Jesse's office?
+L475543 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ He kept a recording of all such transactions in order to keep track of who's who, what was said, what's happening.  I contacted your local coroner, and he found it taped to his back.
+L475521 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ I wanted to ask you some questions about last night.
+L475520 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I guess we can get started.
+L475911 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Sure... DISSOLVE TO EXT HOGAN HOUSE -- NIGHT
+L475910 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Yeah, racy stuff, you know the kind, right?
+L475909 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Lingerie...
+L475908 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Not exactly.  It's some lingerie store on the strip.
+L475907 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What the hell is that, some kind of porno store or something?
+L475906 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Yeah.
+L475893 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ So there was money there!  Who the hell's money is it?!
+L475892 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Some of it.  Denning only handled a small portion of the total, but it looks like this was one of his bills.
+L475891 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Is this marked money, or what?
+L475890 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Mr. Curtis called us this afternoon. The bills arrived at this branch from a cash drop.  Came through a store called After Midnight.  There's only four employees, none of them can tell us who passed them.
+L476041 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Oh yeah.  Between here and Vegas we get a lot of customers.  All types.  Even had an officer, just like you.
+L476040 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ A lot of men come in here?

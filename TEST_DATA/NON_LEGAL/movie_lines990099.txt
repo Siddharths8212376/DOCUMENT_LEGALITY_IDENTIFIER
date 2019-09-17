@@ -1,0 +1,200 @@
+L367403 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ I am with you!
+L367402 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ It can.  I know the way.
+L367399 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Replace the king.
+L367398 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ What do you propose to do?
+L367393 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Well here is the problem at hand: the King has ordered me to discover the identity of the Governor General of Jesuits, and kill him.  As our English rivals have left the Catholic Church, Louis has struck on a plan to dominate the whole of Europe by uniting Church and State and making himself head of both.  He has already picked the Pope.  Only the Jesuits, who put God above throne or papacy, stand in his way.
+L367392 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ And some problems cannot be settled without one.
+L367884 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I trained those men myself.  They will stand and fight.  But if we are to die, let it be this way.
+L367883 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ D'Artagnan... Those are young Musketeers down there.  They have been weaned on our legends.  They revere us -- it is an advantage. Why don't we charge them?
+L367867 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ That doesn't matter now.
+L367866 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ They will know you helped us, if we go this way.
+L367865 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Once you are through, don't stop until you reach the river.
+L367788 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Phillippe, get into the boat.  Into the boat!  Now!
+L367787 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Everyone back.
+L367786 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Pull them back!
+L367785 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ You can't do it.
+L367784 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Pull them back, d'Artagnan.
+L367416 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ I know.  God go with you.
+L367415 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I cannot betray Louis.  I will defend him with my life.
+L367414 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ The secret I carry I cannot share. Not even with God.
+L367413 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ I have heard many confessions, d'Artagnan.  But even if I were not a priest, I could tell your heart has a secret weight, and it is hurting you to carry it alone.
+L367406 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ You -- You cannot ask me to betray my king!  I have sworn to him!
+L367405 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ I will need you all.  All for one. One for all.
+L367404 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ No!  Stop --
+L367391 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ We have grown wiser with age.  Now we know that some problems cannot be settled with a sword.
+L367390 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Look at us.  We are old men now.  But once we were young.  And when we saw injustice, we fought it.
+L367107 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Still you serve him loyally -- though people hurl rotten eggs at his royal emblem.
+L367106 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Aramis -- the King wishes to see you.
+L367105 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ A simple theological discussion.
+L367879 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ He is right, d'Artagnan.
+L367878 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ D'Artagnan.  Perhaps you should accept his offer, for we are dead anyway.
+L367835 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Bread and wine... in that cupboard.
+L367834 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Can we eat... before we go?  This excitement's given me an appetite.
+L367717 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ We will make our own luck tonight... if Phillippe holds up.
+L367716 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ D'Artagnan watches everything.  We have to be lucky.
+L367673 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ The Queen Mother.  Anne.
+L367672 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Who?
+L367671 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ But what if something extraordinary happened?  Something so unusual that all the attention went to someone else?  Someone whose confirmation of Phillippe the King would never be questioned.
+L367655 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Then let him kill me, if all my faith is wrong.
+L367654 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ He's going to kill you, Aramis.
+L367647 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Did she have tits like that?
+L367646 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ So was Mary Magdalene, and our Lord loved her.
+L367645 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Aramis... These are... these are whores!
+L367642 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Come on...
+L367641 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Let's see you rob somebody with your pistol there!
+L367634 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Why didn't you say so?
+L367633 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ We go someplace dangerous.
+L367632 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ What use am I?
+L367631 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Coming?
+L367604 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Well... Well... Okay.
+L367603 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ You've been moping for months.  Now that you've gotten the idea of killing yourself out of the way, you can stop boring me and start being useful to me.  Now get some rest.
+L367542 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Because the old king had a twin as well, and through his whole reign his brother fought him for the throne.  Then he had two heirs, not just sons but twins.  So he decided that one be put away, as if he never existed.  You, Phillippe.
+L367541 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ But why?
+L367540 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ I carried the king's child!  The queen had twins that night, and one of them was sent away, in secret!
+L367539 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Athos, do you understand this?  He confuses me --
+L367538 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ No, not Louis!
+L367537 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ The child of the king is... the king.  Louis!
+L367536 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Not just a baby, Porthos.  I carried the child of the king.
+L367535 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I don't understand.  What does this have to do with...?  You carried a baby somewhere, it's unusual, but --
+L367530 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ But I was on duty...
+L367529 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I remember that night.  D'Artagnan was drunk, the only time I've seen him that way.  The three of us were reveling, remember, Athos?
+L367528 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ The greatest secret of life is who we truly are.  Now I must give you that secret, which has been kept from you your whole life.  It began on the night when Louis was born.
+L367526 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ I will answer all your questions. But first soap, water, and a razor.
+L367525 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Aramis!  Athos!  He looks exactly like... exactly like...
+L367467 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I expected action.  There was no killing, no fighting, I was useless.
+L367466 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ And why are you so glum?
+L367397 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Easy to say, but hard to do.  For what I am trying to tell you is that I am the Governor General of Jesuits in France.
+L367396 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ It is a weighty problem, Aramis -- but perhaps you should leave it to this secret General of the Jesuits, whoever he might be.
+L367395 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ So they tell us.  But what are we to believe when the king is a tyrant, and the Church, meant to stand for all those oppressed, has become the tool of oppression?  When no conscience is tolerated?  No dissent, no objection?
+L367394 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ But -- doesn't God ordain both Pope and King?
+L367386 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Catacombs.  Very holy.
+L367385 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ A tomb?  We're in a tomb?
+L367384 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ It is also a place of burial.
+L367383 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Mother of God!
+L367382 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Jesus of Nazareth found the holy among the profane.  If we are to have a place of private prayer, where better than here, beside the channels where the shit and the garbage run to the river?
+L367381 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Where are we?
+L367380 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Hell may be our destination, dear Porthos, but not this trip.
+L367379 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Aramis... is this the way to hell?
+L367102 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Can't you see I'm praying, goddammit?!
+L367101 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I observe your forgiveness isn't sweeter than a plump nipple.
+L367098 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Forgiveness?
+L367097 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Forgiveness.
+L367096 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Really?  If you can name me one thing, one single thing, that is more sublime than the feel of a plump pink nipple between my lips, I will buy you a new cathedral.
+L367095 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ There are more important things than tits.
+L367094 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I just said you're praying!  Are you deaf too?  I know you're blind, because if you had seen the tits that just walked out of here, you'd have tears in your eyes.
+L367093 +++$+++ u6454 +++$+++ m429 +++$+++ ARAMIS +++$+++ Be quiet, you fat fool.  Can't you see I'm praying?
+L367092 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Please revel with me, Aramis, I need my spirits lifted.  I'm old, I'm weak, my strength is gone --
+L367852 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ It's a prison, you idiot!  They don't expect anyone to try getting in!  The problem will come when we want out!
+L367851 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ It worked!
+L367846 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ So what?  I'd rather die covered in blood, than an old man, lying in my own piss.
+L367845 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ You are right.  But it is a trap.
+L367844 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ What choice is there?  If Phillippe is in the Bastille, then to the Bastille we will go.
+L367838 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ He lures us to capture.
+L367837 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ "Phillippe has been removed to the Bastille, to the lower dungeon.  At midnight tonight I will order the guard changed, and will delay the replacements for ten minutes.  That should give you ample time.  Never have I needed more to say:  One for all, and all for one.  D'Artagnan."
+L367670 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ At a ball, everyone watches the King!
+L367669 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ D'Artagnan, unready?
+L367432 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ I don't know about you, but I plan to wait here.
+L367431 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ What do we do now?
+L367430 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ Best not to ask.  Shouldn't even talk about it.
+L367429 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Who does?
+L367428 +++$+++ u6464 +++$+++ m429 +++$+++ PORTHOS +++$+++ He gets one day of confession each year.  Today is the day.
+L367232 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Raoul --
+L367231 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ Goodbye, father.  I am sorry.
+L367230 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Raoul, no... You cannot do this.  No matter how your heart is broken --
+L367229 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ It is already done.  I have just stopped at Mother's grave, to say goodbye, before coming to tell you.
+L367228 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Fromberge...?!  At the front?!  No.
+L367227 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ I have rejoined the army, and asked to resume my commission at the head of the troops of General Fromberge.
+L367226 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Die?  What...?
+L367225 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ Never mind, Papa, it doesn't matter now.  She loved me once.  I want to die remembering that.
+L367224 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Piglet -- ?  What are you -- ?
+L367223 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ She cannot possibly refuse.  Her family is poor, they have even less money than we do.  And along with the invitation, the King sent the diamond pendant, from the piglet.
+L367222 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Michelle cannot possibly accept!
+L367221 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ We were at her door.  I was just taking the ring from my pocket, for the third time today, when a young Musketeer brought the invitation for her to become a lady-in-waiting for the Queen Mother.
+L367220 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ But -- are you sure?
+L367219 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ Michelle, she -- The king has invited her to come live in the palace.
+L367218 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ That must be Raoul!  Raoul!  Look, d'Artagnan's come to visit...! What's wrong?  You look awful!
+L367117 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ She died giving you to me.  And I want to die knowing it is one the finger of the women my son loves.
+L367116 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ Mother's ring.  I can't take this.
+L367115 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Perhaps this will help.
+L367114 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ I care only about Michelle.  Should I ask her when we first arrive? Or... or when we're leaving?  I could ask her in the carriage -- but it is more romantic at the palace. I get so confused...
+L367113 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ None of the ladies will be able to take their eyes off you.
+L367112 +++$+++ u6465 +++$+++ m429 +++$+++ RAOUL +++$+++ Do I look all right?
+L367861 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I came to see you safely out.  Check for yourself.
+L367860 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ He lies.  He is here to trap us.
+L367779 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I cannot, Athos.  Dearly as I love you, I cannot.
+L367778 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ If you ever loved me -- if you ever loved honor, or anything else -- then stand now, and let it happen.
+L367410 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ No man is all bad... or all good.  I believe -- I must believe -- that Louis can learn.  And perhaps I can help him.
+L367409 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Why do you follow him, d'Artagnan?! I know you have put service above your own life, but why does this King deserve such loyalty?  He is a monster!  He executes ministers for his own blunders, with their families hostage so they take the blame!  He has no honor!
+L367408 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ An oath is an oath precisely because it cannot be removed!
+L367407 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ It is honor you serve, and when the king is dishonorable you are removed from your oath of honor!
+L367353 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ The cannons killed Raoul!  The cannons, and love.  But not the King.
+L367352 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ The King killed my son!
+L367351 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Athos!  I know life means nothing to you at this moment, but I will not let you kill yourself.
+L367350 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ To kill the king.
+L367349 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Where are you going?
+L367348 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Athos, I beg you --
+L367347 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Get out of my way.
+L367346 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Athos, please...!
+L367246 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Save my son, d'Artagnan.
+L367245 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Raoul is hurrying to the front, so I must hurry too.
+L367244 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ You trust his character more than anyone else does.
+L367243 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I will also speak with the King, for he is surely unaware of the problems his invitation to Mademoiselle Beaufort has caused.
+L367242 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Oh my friend.
+L367241 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I know.
+L367240 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Raoul is everything to me.
+L367239 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I have dispatches a message to Fromberge requesting that Raoul be kept far from the fighting.
+L367238 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ What hope is there?  A wartime commission cannot be vacated except by the king, and what chance is there of that?  Fromberge is on the battle line, and Raoul --
+L367237 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I fear I know our King.  I came to try to bring you hope.
+L367236 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ You knew this was happening.  You knew and that's why you came.
+L367235 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ She's a woman, d'Artagnan!  From a poor family.  You may still be young enough to believe love conquers everything, but I am old and hard and I've seen too much.  Even when kings are hunchbacks they have any woman they desire, because power seduces even more than love!
+L367234 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ If the young woman truly loves Raoul --
+L367233 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ This cannot be.  Everyone knows the Queen Mother is a recluse, and the ladies-in-waiting are but mistresses for the king!
+L367216 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ I was feeling sorry for myself. Raoul is getting married, he proposed today!  I love that boy beyond all measure, I've spent everything I own to give him education and opportunity.  Now he has complete happiness, and I mope.
+L367215 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I heard your playing.
+L367214 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Another?  How many times have you saved his life in this year alone? Three?  Four?
+L367213 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ They must stay sharp.  There was an attempt on the King's life today.
+L367212 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Midnight!  Mon dieu!  Driving the youngsters hard, eh?
+L367211 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ I have ordered a drill of the Royal Guard for midnight, and must be clear-headed for it.
+L367210 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ You can't drink with a friend you haven't seen in months?
+L367209 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Thanks, but not for me.
+L367208 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Life is too long.  Except when we have our friends.  Look at you! You're still a boy!  Sit, sit!  I'll open a bottle of wine.
+L367207 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ It's been too long.
+L367206 +++$+++ u6456 +++$+++ m429 +++$+++ D'ARTAGNAN +++$+++ Athos, my friend!
+L367205 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ D'Artagnan!
+L367898 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ D'Artagnan...
+L367897 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ All this time... I was a lost secret.  But you were hiding all your loyalty, all your love.  You were the Man in the Iron Mask.
+L367886 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ If I could have a blade, then I would be please to run with you.
+L367885 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ One for all.  All for one.
+L367856 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ How did you --
+L367855 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Phillippe...?
+L367731 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ She will be at the ball.
+L367730 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ The room of the King's favorite mistress?
+L367663 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Your mother's.
+L367662 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ Whose rooms are those?
+L367661 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ These rooms are yours.  Up these stairs -- or through this hidden passage -- is the room of your mistress... Michelle.
+L367627 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ Porthos told me.
+L367626 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ How did you know -- ?
+L367625 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ Is that the king of king you wish me to be?  Or do you say this because of your son?
+L367624 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ No!  Do not be sorry!  Never be sorry!  The King cares for nothing and for no one!  There are no mistakes when you are King!  What you do is right for every person!  A King has contempt for everyone!
+L367623 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ I am so sorry!  Forgive me, I --
+L367611 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ I will sit with you.  I can't sleep either.
+L367610 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ I've worn this mask so long, I couldn't sleep without it.
+L367569 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ I did not share beauty with someone... who is no longer here for me to share beauty with.
+L367568 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ What is that?
+L367567 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ It is something I have done -- or did not do.
+L367566 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ You look so sad.  Is it something I have done?
+L367565 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ I suppose... it is to remember there are many people who have never been in a prison, who pass such beauty every day, and never see it.
+L367564 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ What is its antidote?
+L367563 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ The desire for vengeance... can be a poison.
+L367562 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ There is... wrath... in me.  I have learned to hide it.  Those years in the cell, I dreamed that freedom would someday just happen, the way the mask happened.  Now I am free. And with each free breath I feel the growing desire to make someone suffer for all I lost.  Look at this, all this that for ten years I could not see!  What if I become a king -- a king no different from my brother?
+L367561 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Phillippe... there is something I hope you understand.  Terrible cruelty has been used against you. And... you must understand that you did nothing to deserve it.
+L367560 +++$+++ u6462 +++$+++ m429 +++$+++ PHILLIPPE +++$+++ Perhaps not as much as you might imagine.  When tutors answered every question except those about who I was.  When I was imprisoned in a way no other man had ever been, I knew there was something different about me.  But a king...
+L367559 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Recent hours have been a shock.
+L367478 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Phillippe.  Rest now.
+L367477 +++$+++ u6460 +++$+++ m429 +++$+++ MAN IN THE IRON MASK +++$+++ The old man and woman called me... Phillippe.
+L367474 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ And you never knew why?
+L367473 +++$+++ u6460 +++$+++ m429 +++$+++ MAN IN THE IRON MASK +++$+++ A man in black.  I never saw his face.  He took me to the cell.  A blacksmith came and they put me into the mask.  For days I shouted, "What have I done?  Why do you do this to me?"  But no one heard, so I just stopped shouting.
+L367472 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Who came?
+L367471 +++$+++ u6460 +++$+++ m429 +++$+++ MAN IN THE IRON MASK +++$+++ This place... I once lived in a country house.  I had guardians -- an old man and woman.  And tutors. But no friends.  Then when I was twelve, they came and took me to the prison.
+L367469 +++$+++ u6460 +++$+++ m429 +++$+++ MAN IN THE IRON MASK +++$+++ Just... water.
+L367468 +++$+++ u6455 +++$+++ m429 +++$+++ ATHOS +++$+++ Are you hungry?

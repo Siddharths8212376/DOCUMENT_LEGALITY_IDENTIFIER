@@ -1,0 +1,200 @@
+L119695 +++$+++ u4365 +++$+++ m289 +++$+++ SENATOR +++$+++ Hey, I need a room. Need a room.
+L119694 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Hello, Senator.
+L119693 +++$+++ u4365 +++$+++ m289 +++$+++ SENATOR +++$+++ Hi, Ace.
+L121115 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I can't do that.
+L121114 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ I would forget about the maneuver. I would just get out.
+L121113 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ All right, look, if he took a break, it would just give everybody some time to maneuver. That's all I'm saying. It's all that I'm saying.
+L121112 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ They ain't sendin' Nicky nowhere.
+L121111 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I don't know, he doesn't listen to me. Maybe he should...  get lost for a while. Take a vacation. Would that be so bad?
+L121110 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ What do you propose?
+L121109 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Know what my problem is? Every time they mention my name in the papers, these cocksuckers, they mention Nicky, too. How the fuck does that help?  I mean, the heat he brought down is murder!  We had a police department who was cooperative. He's pissed them off so much now that nobody can make a move anymore. I mean, what do you do about that?
+L121108 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ The old man said, 'Maybe your friend should give in.'  And when the old man says 'maybe', that's like a papal bull. Not only should you quit, you should run!
+L121107 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Walk away? Andy, you can't be serious. How can I walk away? Don't you see what's goin' on here? Don't you see what's at stake?
+L121106 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ These guys back home don't give a fuck about the Supreme Court and any of this bullshit! They want things to quiet down. They want you to walk away from -
+L121105 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ First of all, what they did was totally unconstitutional. We're already on the list to be heard before the Supreme Court of the United States later this year.
+L121099 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ It's a pity in this...
+L121098 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ He's on all night, screamin' about how he's gonna take his damn lawsuit all the way to the Supreme Court. He really must be crazy. He's gonna go to Washington with this?  He's out of his fuckin' mind.
+L119590 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ Nobody's gonna interfere with your running the casino. I guarantee it.
+L119589 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I'm serious. No interference.
+L119588 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ You got it.
+L119587 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ It's a tough proposition, Andy. You, you know, if I did it, I'd have to run it my way.
+L119586 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ Why would they want to find out? We're puttin' a hundred million into this desert here. Why would they want to lock us out?  And besides, they'll never find out. All you gotta do is keep changing your job title. Like, uh, from Casino Executive to Food and Beverage Chairman. And what happens it, they take your application, they put it at the bottom of the pile. I know guys workin' there for thirty years, don't have a license.
+L119585 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ But what happens when they do find out?
+L119584 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ You don't have to have a license to work in a casino. All you gotta do is apply for one. The state law says you can work in a casino while they're processing your application. They got a ten-year backlog.
+L119573 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ ...this check for $62,700,000 for the new Tangiers.
+L119572 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ But Andy also took orders. And when he was told to give a pension fund loan to Philip Green...
+L119571 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ On behalf of the Teamsters' Pension Fund, it is my pleasure to present to you . . .
+L119570 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ He even played golf with the President.
+L119569 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ Philip, if you would rise.
+L119568 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ A powerful man.
+L119567 +++$+++ u4369 +++$+++ m289 +++$+++ STONE +++$+++ This is a very auspicious occasion.
+L119566 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ As far as the world was concerned Andy Stone, the head of the Teamsters' Pension Fund, was a legitimate guy.
+L121880 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Speeding?
+L121879 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Look, look. You can't stop her for speeding? I mean, look what the hell she's doing.
+L121877 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Hold on a second.
+L121876 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Hey!
+L121875 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Wait, hold on a second.
+L121874 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Stop -
+L121844 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ All right, take care.
+L121843 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Okay, Randy. Thank you.
+L121837 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Congratulations.
+L121836 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Yeah.
+L121835 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Oh, good.
+L121834 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Not bad, not bad. In fact, uh, my wife's pregnant again.
+L121833 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Fine, fine. How's your family?
+L121832 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ No, it's - it'll just be a couple of minutes. We got other things to do too, you know. He'll hurry her up. How's everything else besides this?
+L121831 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, I don't want her in there more than a few more minutes.
+L121818 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...I will let her in the house for five minutes if you gentlemen will escort her out if she happens not to want to leave. Because I don't - I -
+L121817 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ No, you're not calm.
+L121594 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Jesus Christ! What gun? He's got a fuckin' hero sandwich here.
+L121593 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...been right, but who knows?
+L121582 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ The worst was Blue.
+L121581 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Watch it, partner, watch it!
+L121580 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...stupid things.
+L119853 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I mean, Frank Marino was there to meet him, but so were the cops. This time they wanted to pinch him for some diamond burglary in Antwerp.
+L119852 +++$+++ u4338 +++$+++ m289 +++$+++ COP #1 +++$+++ Excuse me.
+L119851 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Even after a little vacation, they hassled him at the airport.
+L121280 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ You got it.  Schmuck.  All right. I just bought us a few minutes. Want to get back at this prick?
+L121279 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Right back.
+L121278 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ I'll call you right back.
+L121277 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Right away.
+L121276 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Mm-hm.  1862. Okay, good. I'll call you right b-
+L121275 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ 702 472 1862.
+L121274 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ So, l-l-l-listen, I te- I te- I tell you - can I call you back in a few minutes?
+L121273 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Sam, I - I don't know where she is, okay?
+L121272 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ You understand? Put her on the fuckin' phone.
+L121269 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Uh, I'm not. Sam, I wouldn't...
+L121268 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I know she's there. Don't fuck around with me.
+L121267 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...listen to me very carefully. I want to talk to Ginger. I want my kid back. I want her put on a plane immediately.
+L121266 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Lester...
+L121265 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ She's not here, Sam.
+L121264 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...Rothstein. I want to talk to Ginger. Put her on the phone.
+L121263 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, is this Lester? This is Sam...
+L121262 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Hello.
+L121261 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Hello.
+L121249 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Hey, little Dale Evans.
+L121248 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ M- Uh, Mr. and Mrs. Rothstein?
+L120586 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Hey, that's just fuckin' - That's bullshit. You know, you know, what the fuck?
+L120585 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ You fuckin' piece of shit.
+L120584 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Okay.
+L120583 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ You do? Yeah? Well, if you ever come back again... ever... to take her money... next time bring a pistol. That way you got a chance. Be a man, don't be a fuckin' pimp. Now, you want to do me a favor? Get out of here. I want to be alone with my wife. Get the fuck up and get out of here.
+L120582 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Yeah, yeah. I know that.
+L120581 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ She's my wife.  Look at me. You did know that, didn't you? You knew that she's my wife? Huh? Hey, look at me.
+L119843 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ He was a moocher, a card cheat, a country-club golf hustler. A scumbag... chasing dentists for a few bucks.
+L119842 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Yeah.
+L119830 +++$+++ u4356 +++$+++ m289 +++$+++ LESTER +++$+++ Look, Gin, you know I got other people in this. I got partners. But I want you to understand that I am lookin' out for you in this thing.  Okay? You're going to get yours back... and you're gonna get it back first. Okay?
+L119829 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ But one thing I could never understand, was that she could have everything under control, except for her old pimp boyfriend, Lester Diamond.
+L120140 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Well...
+L120139 +++$+++ u4335 +++$+++ m289 +++$+++ BANKER +++$+++ No, tha-that's good. It's just unusual. To tell you the truth, so many of my clients don't.
+L120138 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, sure I do. Why?
+L120137 +++$+++ u4335 +++$+++ m289 +++$+++ BANKER +++$+++ Sam, let me ask you a question. You must really trust your wife.
+L120135 +++$+++ u4335 +++$+++ m289 +++$+++ BANKER +++$+++ That's right.
+L120134 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ So, once she signs those papers, she'll be the only person to have total access to the box?  No one else, including myself?
+L120133 +++$+++ u4335 +++$+++ m289 +++$+++ BANKER +++$+++ Now this is just a signature card.
+L121657 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Ohhh...
+L121656 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ I don't know.
+L121655 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ You don't know? What time did your mother do this? When did she leave?
+L121654 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ I don't know.
+L121653 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ When did this happen, honey?
+L121651 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ Oh, no, please, please.
+L121650 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I'm gonna get a knife and cut you loose, honey, I'll -
+L121649 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ Mommy.
+L121648 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ What happened? What happened? Who did this to you?
+L121647 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ Dad!
+L121646 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Wh-wh -
+L121645 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ I can't! I'm tied!
+L121644 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Amy! Amy, open the door!
+L121643 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ Help, Daddy!
+L121642 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Hello? Hello! Ginger.
+L121439 +++$+++ u4333 +++$+++ m289 +++$+++ AMY +++$+++ Okay.
+L121438 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Oh. Have a good day at school.
+L121681 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Hey, be fuckin' nice. Calm. Be nice. Don't fuck up in here.
+L121680 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah? Nicky, I want to talk to that fuckin' bitch.
+L121679 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ She didn't know who to turn to.  She... she didn't know where to turn. She was tryin' to save your marriage.
+L121678 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I want to just talk. I want to talk to that Irish bitch.
+L121677 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Ace don't... listen, don't... don't make a scene, all right?
+L121673 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I'll be right there.
+L121672 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Yeah, she's here.
+L121671 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ She's there with you?  She's there with you?
+L121670 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Yeah? Well, listen, Ginger's over here at the Leaning Tower with me.
+L121669 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...Ginger's missing and she tied Amy up and she locked her in her room. I gotta find her. I don't know where the hell she is.
+L121668 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Well...
+L121667 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ ...uh, you know, I just wanted to talk to you a minute.
+L121666 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Well...
+L121665 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ How'd you know I was here?
+L121664 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ No, I'm not okay.
+L121663 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Yeah, what are you doin'? You okay?
+L121662 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Nick?
+L121661 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ It's me.
+L121660 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, uh, who's this?
+L121659 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Sammy.
+L121658 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Hello.
+L121338 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Well, once you get her here, you think about it, you know?  But get the kid back here. She wants to come back. That's the, uh, that's the main thing here. You want your kid, don't you? Huh?
+L121337 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ She's driving me fuckin' crazy.
+L121336 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ I think if you, uh, okay it, you know, assure her that she's gonna be all right, she'll come back.
+L121335 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I don't know. What am I gonna do with this woman? I don't know...  She's drivin' me fuckin' crazy.
+L121334 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ I know. Why didn't you come to me? I mean, this is family, it ain't business. Meanwhile, you make calls back home. Sammy, it makes us look bad out here, you know what I mean? Back and forth, this one and that one, and, in the meantime, she's gone anyway. Am I right?
+L121331 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, she's with that cocksucker again... and they got Amy.
+L121330 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ She was afraid to call you.
+L121329 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ And what'd she want?
+L121328 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ I just told you. She called me.
+L121327 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah.
+L121326 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Ginger called me.
+L121224 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I'm gonna okay you ten and get you even, and that's it. Then you got to get out of here before the cops and the newspapers are all over you.
+L121223 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Just give me the money. Fuckin' give me the fuckin' money, Sammy.
+L121222 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Nicky, Nicky, you're not listenin' to me. I'm here to help you. What's the matter with you?  You're gonna bury us both.
+L121221 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Hey, Sammy, tell this Jew motherfucker over here to pay that marker.
+L121220 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ What are you doin'? You gotta get out of here!
+L121178 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Get this through your head, you Jew motherfucker, you. You only exist out here because of me!  That's the only reason!  Without me, you, personally, every fuckin' wiseguy skell [Skell: the lowest form of wiseguy - a drunken bum] around'll take a piece of your fuckin' Jew ass! Then where you gonna go?!  You're fuckin' warned! Don't ever go over my fuckin' head again! You motherfucker, you!
+L121177 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ You never - ?
+L121176 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Back - Back up, back up a fuckin' minute here. One minute. I asked you?! When the fuck did I ever ask you if I could come out here?! Get this through your head, you -
+L121175 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...you? Do you remember what I told you?
+L121174 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Back -
+L121173 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ No, it - it - Nicky, when you asked me if you could come out here, what did I tell you? I mean, you asked me, and I knew you were going to come out no matter what I said, but what did I tell you? Do you remember what I told...
+L121172 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Oh, sure. Now you want to blame your fuckin' license on me, is that it?
+L121171 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Me?! I wouldn't even be in this situation if it wasn't for you. You brought down so much fuckin' heat on me. I mean, every time I meet somebody here, the big question is do I know you.
+L121170 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ You're makin' a big fuckin' spectacle of yourself.
+L121169 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, I did want to go on TV. That way I have a forum. I can fight back. I'm known. People see me. They know they can't fuck around with me like they could if I was an unknown. That's right.
+L121168 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Your fuckin' ass! You could have had the food and beverage job without goin' on television!  You wanted to go on TV.
+L121167 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I'm only on TV because I gotta be able to hang around the casino. You understand that. You know that. Come on.
+L121166 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ You know I get calls from back home every fuckin' day?!  They think you went batshit!
+L121165 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ What are you -
+L121164 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ I'm what counts out here! Not your fuckin' country clubs or your fuckin' TV shows! And what the fuck are you doin' on TV anyhow?!
+L121163 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I -
+L121162 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Oh, I don't know whether you know this or not, but you only have your fuckin' casino because I made that possible!
+L121161 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, I said I - let the bullshit blow over for a while so I can run the casino. Anything goes wrong with the casino, it's my ass. It's not yours, it's my ass.
+L121160 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ You want me to get out of my own fuckin' town?!
+L121159 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I didn't do anything. I mean, I didn't order you or anybody...  I only told Andy Stone that you had a lot of heat on you, and that was a problem.
+L121158 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ No? You said I'm bringin' heat on you?! I gotta listen to people because of your fuckin' shit?! You're ordering me out?! You better get your own fuckin' army, pal!
+L121157 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I don't even know what you're talkin' about, Nick.
+L121156 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ What people! What'd you think, I wasn't gonna find out?
+L121155 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ What people?
+L121154 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Where the fuck you get off talkin' to people about me behind my back? Goin' over my head?
+L121136 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Don't ask questions. Just be there.
+L121135 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Why?
+L121134 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ ...hundred yards further down the road.
+L121133 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ No, a...
+L121132 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ What - what, Caesar's?
+L121131 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Meet me at three.
+L121130 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah.
+L120933 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ And at the...
+L120932 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Practice enough this week, you prick?
+L120931 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ ...on the line and this guy's out havin' the time of his life. He has every cop in the state watchin' him, and he's out playin' golf.
+L120926 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ The problem was, Nicky was not only bringin' heat on himself, but on me too. The FBI watched every move he made. But he didn't care. He just didn't care.
+L120925 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ I see you, you motherfuckers.
+L120924 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Peekaboo, you fucks, you.
+L120899 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ The coppers blamed me for everything that went wrong out here, and I mean every little fuckin' thing too.
+L120898 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Nicky was questioned in two dozen murders, but they always had to let him go. There were never any witnesses.
+L120889 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Nicky wanted to take over. He wanted to go after Gaggi, go after the skim, go after everything and everybody.
+L120888 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Fuckin' walking around with a big head. You better check yourself...
+L120887 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ I knew what he wanted, and I didn't want any part of it.
+L120886 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ Your fuckin' head is getting' bigger than your casino. That's your problem, pal.
+L120885 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ This guy is gonna run to the FBI.
+L120884 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Yeah, that's right, the way you need me to vouch for you as a citizen and get you out of one of your jams. I'm gonna have to straighten out what you just did with this guy.
+L120883 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ A week ago it was my business, now it's none of my business. In other words, when you need me to take care of somethin' for you, then you need me.
+L120882 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ That's right, yeah.
+L120881 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ It's none of my business?
+L120880 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Ju-just stay away from her. It's none of your business, okay? There are certain things you don't do, and you know that.
+L120879 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ And I - what was I supposed to do, throw her out?
+L120878 +++$+++ u4331 +++$+++ m289 +++$+++ ACE +++$+++ Okay?
+L120877 +++$+++ u4359 +++$+++ m289 +++$+++ NICKY +++$+++ She came to talk to me...

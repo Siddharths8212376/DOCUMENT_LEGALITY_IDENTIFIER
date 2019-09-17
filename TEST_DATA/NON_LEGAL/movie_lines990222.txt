@@ -1,0 +1,200 @@
+L454322 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ You didn't!  It's tinkerbell.  Al wants to be sure he'll hear it if anyone rings it in the middle of the night.  Well come on in, at least!
+L454321 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Sorry, Mrs. Chambers. I hate bothering you...
+L454320 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Oh?
+L454404 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Have you two had breakfast?
+L454403 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Went out before service.
+L454386 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Norman found them dead together.  In bed.
+L454385 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ It ain't only local history, Sam, it's the only murder-and-suicide case in Fairvale ledgers! Mrs. Bates poisoned this guy she was... involved with, when she found out he was married, then took a helping of the same stuff herself.  Strychnine. Ugly way to die.
+L454384 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ I helped Norman pick out the dress she was buried in. Periwinkle blue.
+L454381 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ He told you he wasn't coming right back cause he wanted to question Norman Bates' mother, right?
+L454380 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Barefaced.
+L454371 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Arbogast.  And after he left?  No, it's okay, Norman. How's it been going out there?  Well, I think you oughta unload that place and open up closer in to the action, a smaller place, you know... but...
+L454370 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Arbogast.
+L454369 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Norman? Sheriff Chambers.  Been just fine, thanks. Listen, we got some worries here. Did you have a man stop out there tonight...  Well, this one wouldn't be a customer, anyway. A private detective, name of...
+L454365 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ You must remember that bad business out there. About ten years ago...
+L454364 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Recluse. Kinder word.
+L454361 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ At this hour?
+L454360 +++$+++ u7176 +++$+++ m482 +++$+++ MRS. CHAMBERS +++$+++ Why don't you call Norman and let him say just what happened, if he give the man a hot lead and he did just scooted off... it'll make the girl feel better, Albert.
+L454513 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Leave me alone!
+L454512 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ ...Forty thousand dollars!
+L454511 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Leave me alone!
+L454510 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Where will you get the money to do that, Bates... or do you already have it... socked away... a lot of it...
+L454509 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Shut up!
+L454508 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Buy a new one! In a new town! Where you won't have to hide your mother!
+L454507 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Do what?
+L454506 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I've been talking about your mother... about your motel. How are you going to do it?
+L454505 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ I don't know what you've been saying.
+L454504 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You look frightened. Have I been saying something frightening?
+L454503 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I didn't think so.
+L454502 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ My mother is not dead!
+L454501 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ And now that your mother's dead?
+L454500 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ This place! This isn't 'a place.' It's my only world. I grew up in that house back there. I was a happy child. My mother and I... we were more than happy.
+L454499 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I'm not saying you shouldn't be contented here, I'm just doubting that you are. I think if you saw a chance to get out from under... you'd unload this place...
+L454497 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Just an expression...  What I meant was... I'd do just about anything... to get away.  Wouldn't you?
+L454496 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ That would be a rather extreme reaction, wouldn't it?
+L454495 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I always thought it was the people who are alone so much who do all the talking when they get the chance. Yet there you are, doing all the listening!  You are alone here, aren't you?  It would drive me crazy.
+L454494 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Yes.
+L454493 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ I've been doing all the talking so far, haven't I?
+L454492 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Fine.
+L454491 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Satisfied with your cabin?
+L454490 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Yes, matter of fact.  The wife's taking a nap and... I can never keep quiet enough for her... so I thought I'd look you up and... talk.
+L454489 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ Looking for me?
+L454452 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ I'll show you the cabin.
+L454451 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Haven't any.
+L454450 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ I'll get your bags.
+L454449 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Uh, uh! My boss is paying for this trip... ninety percent business... and he wants practically notarized receipts. I better sign in and get a receipt.
+L454448 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ It isn't necessary.
+L454447 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Better sign in first, hasn't we?
+L454446 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ I'll take you to...
+L454445 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ We'd hoped to make it straight to San Francisco, but we don't like the look of that sky. Looks like a bad day coming... doesn't it.
+L454444 +++$+++ u7177 +++$+++ m482 +++$+++ NORMAN +++$+++ I suppose you want a cabin.
+L454443 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Just coming up to ring for you.
+L454032 +++$+++ u7178 +++$+++ m482 +++$+++ NORMAN'S VOICE +++$+++ Shut up! Shut up!
+L454031 +++$+++ u7182 +++$+++ m482 +++$+++ WOMAN'S VOICE +++$+++ Go on, go tell her she'll not be appeasing her ugly appetite with my food... or my son! Or do I have to tell her, cause you don't have the guts? Huh, boy? You have the guts, boy?
+L454030 +++$+++ u7182 +++$+++ m482 +++$+++ WOMAN'S VOICE +++$+++ Mother, she's just a stranger!  As if men don't desire strangers, as if... oh, I refuse to speak of disgusting things because they disgust me! You understand, Boy?
+L454029 +++$+++ u7178 +++$+++ m482 +++$+++ NORMAN'S VOICE +++$+++ Mother, she's just a stranger... hungry, and the weather's bad...
+L454028 +++$+++ u7182 +++$+++ m482 +++$+++ WOMAN'S VOICE +++$+++ And then what? After supper, music? Whispers?
+L454027 +++$+++ u7178 +++$+++ m482 +++$+++ NORMAN'S VOICE +++$+++ Mother, please...
+L454026 +++$+++ u7182 +++$+++ m482 +++$+++ WOMAN'S VOICE +++$+++ I won't have you bringing strange young girls in for supper...  ...by candlelight, I suppose, in the cheap erotic fashion of young men with cheap, erotic minds!
+L454410 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ You must've seen an illusion, Sam. Now, I know you're not the seeing- illusion type... But no woman was illusion there and I don't believe in ghosts, so there it is!
+L454409 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ No mother.
+L454406 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Nothing. Here, let's clear the path.
+L454405 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ You didn't find anything.
+L454392 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ And you want to tell me you saw Norman Bates' mother.
+L454391 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Yes! In the house behind the motel. I pounded and called but she... just ignored me.
+L454390 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Now wait a minute, Sam. You sure you saw an old woman?
+L454375 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ This detective was out there and Norman told him about the girl and the detective thanked him and went away.
+L454374 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Was that all?
+L454363 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ He wasn't out when you were there. He just wasn't answering the door in the dead of night... like some people do. This fellow lives like a hermit...
+L454362 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ He was out when I was there. If he's back he probably isn't even in bed yet.
+L454352 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Explains the private detective. He traced her to the Bates place.  What'd he exactly say when he called you?
+L454351 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Everyone concerned thought... if they could get her to give back the money... they could avoid involving her with the police.
+L454346 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ From what?
+L454345 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ Yes.
+L454342 +++$+++ u7181 +++$+++ m482 +++$+++ SHERIFF +++$+++ Left Phoenix under her own steam?
+L454341 +++$+++ u7180 +++$+++ m482 +++$+++ SAM +++$+++ They thought she'd be coming to me.
+L456022 +++$+++ u7184 +++$+++ m483 +++$+++ 2ND EMBALMER +++$+++ What--special autopsy?
+L456021 +++$+++ u7183 +++$+++ m483 +++$+++ 1ST EMBALMER +++$+++ That's the one that's got the coroner doing nightwork.
+L456020 +++$+++ u7184 +++$+++ m483 +++$+++ 2ND EMBALMER +++$+++ Did I?
+L456019 +++$+++ u7183 +++$+++ m483 +++$+++ 1ST EMBALMER +++$+++ You didn't even mention the suicides. Did you notice the beaut that came in today?
+L456018 +++$+++ u7184 +++$+++ m483 +++$+++ 2ND EMBALMER +++$+++ Yeah, between the gangsters and the autos, we won't need another war to carry off the population.
+L456017 +++$+++ u7183 +++$+++ m483 +++$+++ 1ST EMBALMER +++$+++ By gosh, them stiffs are get- tin' heavier and more of 'em every day. They even got the coroner working overtime.
+L456118 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ [Was it] &quot;Meirschultz&quot;?
+L456117 +++$+++ u7185 +++$+++ m483 +++$+++ 2ND OFFICER +++$+++ Said &quot;doctor&quot;--[something]
+L456116 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Did she talk?
+L456115 +++$+++ u7185 +++$+++ m483 +++$+++ 2ND OFFICER +++$+++ Just before she died she came to--
+L456114 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Never mind your theories. Was she ever conscious?
+L456113 +++$+++ u7185 +++$+++ m483 +++$+++ 2ND OFFICER +++$+++ Imagine--she was alive. What a horror. Could have been buried alive. She must have run away from the morgue.
+L456267 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ How about me getting the help. She's quiet now, isn't she?
+L456266 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ That's what I said. Now, lis- ten to me. I want you to help me take this woman down stairs. I will give her a shot. You can take care of her till I get help.
+L456265 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ What do you mean &quot;our&quot;?
+L456264 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Quiet, will you? This is ser- ious. Our lives are in danger.
+L456263 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ Ha ha, <U>you</U> have been treating.
+L456262 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ I knew there was a catch in this some place--but spill it. Quiet and dramatic. MAXWELL In the other room, I have a crazy woman that I have been treating.
+L456261 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ No, I wouldn't be surprised at anything from you. Winningly. MAXWELL Now, honey--you are here in time to help me and you can--
+L456260 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Sure--I have one little job to accomplish, then we can leave together. No doubt you are surprised at this disguise.
+L456259 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ Then you knew of the inheritance?
+L456258 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ [Perfectly friendly, my dear.] At last, I have really a secure living for us. We can travel or anything we choose.
+L456257 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ So--friendly or otherwise--?
+L456256 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Sh--sh--I want to have a few words with you quietly.
+L456255 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ Gosh, you had me fooled.
+L456228 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ Okay--I'll be here at eight.
+L456227 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ That's only natural. Maxwell will be here around eight tonight.
+L456226 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ Don't tell him. I want to be the first to bring him the news.
+L456225 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ I am certainly glad to hear it. I know he'll be pleased.
+L456224 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ He hardly knew of them him- self.  I believe it was his uncle in Australia.
+L456223 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ You say a fortune. He never spoke to me of any rich relatives.
+L456222 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ He's inherited a fortune.
+L456221 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Indeed, he has often told me.
+L456220 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ It is--you know what a struggle he's had.
+L456219 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ No, not exactly. Why the great anxiety? It must be something important.
+L456218 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ You mean he doesn't work for you?
+L456216 +++$+++ u7186 +++$+++ m483 +++$+++ ALICE +++$+++ I understand my husband is-- your assistant. May I see him please?
+L456215 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Did you wish to see someone?
+L456125 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Take him to the psychopathic hospital.
+L456124 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ Yes--I can't stand it-- everybody wants papers-- oh, oh 
+L456123 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Dr. Meirschultz, too?
+L456122 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ Papers--they all want me to sign papers.
+L456121 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Tell me, just what you know of Dr. Meirschultz.
+L456112 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Hm--pressure-- To Buckley. That's all right. We'll talk later.
+L456111 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ No, no! I won't sign any pa- pers. You can't make me--
+L456106 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ I don't know--I can't tell--
+L456105 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Why, yes, to you, Mr.--Mr. --what?
+L456104 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ You--a friend to me?
+L456103 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ No, I don't want money. I only want to find out who you are and where you live. My business is finding peo- ple. Not taking their money.
+L456102 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ Maybe you want my money, too.
+L456101 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Who wants your money-- maybe I can help you.
+L456100 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ No--I don't want to give any money. Everybody wants money--I'm not going to give any money.
+L456099 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ What made you steal? Are you hungry?
+L456097 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ I don't know, [I tell you].
+L456096 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Who are you? What is your name?
+L456095 +++$+++ u7187 +++$+++ m483 +++$+++ BUCKLEY +++$+++ No-
+L456132 +++$+++ u7188 +++$+++ m483 +++$+++ COLLINS +++$+++ Why didn't you notify the police?
+L456131 +++$+++ u7193 +++$+++ m483 +++$+++ WOMAN +++$+++ I know I am. Why, I even heard a shot up there last night.
+L456130 +++$+++ u7188 +++$+++ m483 +++$+++ COLLINS +++$+++ Maybe you're right.
+L456129 +++$+++ u7193 +++$+++ m483 +++$+++ WOMAN +++$+++ It may be, but to my notion, those that monkeys with what they got no business to get queer sooner or later.
+L456128 +++$+++ u7188 +++$+++ m483 +++$+++ COLLINS +++$+++ That sounds to me very remarkable.
+L456127 +++$+++ u7193 +++$+++ m483 +++$+++ WOMAN +++$+++ Sure--they're sorta queer, I'd say. They's lots of queer goings on up there. They even brought a dog back to life once.
+L456149 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ By the way--did you hear a shot last night?
+L456148 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ Oh, him. He has a cat of his own. But his assistant--he's the cat-hatenest man I ever saw. Goofy, if ya ast me.]
+L456146 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ You're not as quick as I thought. I figgered out that rats breed faster than cats-- cat skins make good fur-- The cats eat rats. Rats eat raw meat. That is, they eat the carcasses of the cats. So --the cats eat the rats--the rats eat the cats. And I get the skins--simple ain't it?
+L456145 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ But where do the rats come in?
+L456144 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ That's it. You get it quick.
+L456143 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Oh, I see. Cats' fur.
+L456142 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ Oh, no. It's my own idea. I'm in the business. In the fur business.
+L456141 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ What' s the idea [of wanting so many] do you sell them [to the doctor]?
+L456140 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ Sure, got thousand cats, too. Look at 'em-- Points to cages of cats.
+L456139 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Thousands?
+L456138 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ Yeah--thousands, and right in my back yard.
+L456137 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ [Lot of] How many cats you have--what's the matter-- rats?
+L456136 +++$+++ u7189 +++$+++ m483 +++$+++ GOOF +++$+++ He's been stealing my cats to experiment on [them]. I know cause I've been [watching] spying on him.
+L456135 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ I understand from your neighbors that all [them] cats are making noise at night. Dr. Meirschultz has put in a complaint.
+L456279 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Come on, we're wasting time.
+L456278 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, <U>I'm</U> crazy, am I? Let me tell you something.  Those women have--the gleam--
+L456277 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Man, you're crazy. What kind of a place is this?
+L456276 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ It won't do any good. They are a pair of would-be mur- deresses fighting it out.
+L456275 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Take me down there.
+L456274 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, nothing. A cou- ple of my patients having a little argument.
+L456273 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ What's that?
+L456272 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, nothing. He is crazy, that's all. I had a little trouble with him.
+L456271 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Yes. Mr. Buckley thinks you treated him a little rough. He's in the hospital. How about it?
+L456270 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ You here again?
+L456242 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ I'd like to have a look.
+L456241 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, just the basement. Some day I intend to build an experimental laboratory down there. It will save me from intrusion.
+L456240 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ What's down there?
+L456239 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Mind if I look around? Seems to me you have car- ried on some interesting experiments. Sure of himself but taking no chances. MAXWELL Sure, I'll take you thru.
+L456238 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh no. Mostly research in endocrinology.
+L456237 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Do you have many patients, doctor?
+L456236 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Fine. Mrs. Buckley will be all right when she gets used to the idea.
+L456235 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Oh, yes, he's in good hands now.
+L456234 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Yes indeed. He has been a <U>difficult</U> case. Now that <U>you</U> have him in custody--you have him haven't you?
+L456233 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ So--that's it. Buckley took the body.
+L456232 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Why, Buckley stole that body. That's what alarmed Mrs. Buckley so. I have been try- ing to get her to put Buckley in an institution but she wants to keep him.
+L456231 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ Yeah, he was picked up-- also the body from the morgue. Say, what did you have to do with stealing that body?
+L456230 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Well, news of Buckley?
+L456229 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ How do you do.
+L456157 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, Maxwell? He's left.
+L456156 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ By the way, where <U>is</U> your assistant?
+L456153 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ You found Buckley?
+L456152 +++$+++ u7190 +++$+++ m483 +++$+++ JONES +++$+++ I'm detective Jones. Just dropped in to tell you a bit of news.
+L456253 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Oh, so you feel that way too . Motions to other room. Stay in there--I'll call you when needed.
+L456252 +++$+++ u7192 +++$+++ m483 +++$+++ MRS. BUCKLEY +++$+++ It sounds all right, except for the fact that she's crazy. It seems to me she has the right idea--.
+L456251 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ [Something very important. I have been threatened;] Mrs. Maxwell, my assistant's wife, is crazy.  She thinks I mur- dered her husband. [She wants to murder me.] I want you to help me quiet her-- give her a shot from this hypo. [Keep it hid till we get her] down in the basement-- there is a secret vault [there]. We will put her there till we get your husband--[then turn her over to the authorities. Then we will both be free.]
+L456250 +++$+++ u7192 +++$+++ m483 +++$+++ MRS. BUCKLEY +++$+++ How? What can I do?
+L456249 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ You are right. But before I can get him back here, you will have to help me.
+L456213 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ Not so fast, Mrs. Buckley. That was your idea!
+L456212 +++$+++ u7192 +++$+++ m483 +++$+++ MRS. BUCKLEY +++$+++ You can't double-cross me like that.  You were to help me. You were to operate on him. You were going to put him under my power.
+L456080 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ No, you can't do that--they'll get suspicious--
+L456079 +++$+++ u7192 +++$+++ m483 +++$+++ MRS. BUCKLEY +++$+++ I'm going to call the police.
+L456078 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ What are you going to do?
+L456032 +++$+++ u7191 +++$+++ m483 +++$+++ MAXWELL +++$+++ He isn't here.
+L456031 +++$+++ u7192 +++$+++ m483 +++$+++ MRS. BUCKLEY +++$+++ Dr. Meirschultz, please.
+L457450 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ Nonsense! ... It's here! ... Your blood ...
+L457449 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes!
+L457448 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ You're losing your blood?
+L457447 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ I'm losing my blood!
+L457446 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ What is it now?
+L457443 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ Go to sleep!
+L457442 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ The wound is bleeding!
+L457441 +++$+++ u7194 +++$+++ m484 +++$+++ DOCTOR +++$+++ What is it?
+L457396 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ The master ... is asleep!

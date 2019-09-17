@@ -1,0 +1,200 @@
+L598870 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ And what do you think you'll do while you're setting up a new line of defence? Wander round lugging your suitcases?
+L598861 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Out of Warsaw. Where?
+L598860 +++$+++ u8352 +++$+++ m566 +++$+++ MOTHER +++$+++ Out of Warsaw.
+L598859 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Where are we going?
+L598858 +++$+++ u8352 +++$+++ m566 +++$+++ MOTHER +++$+++ Pack, darling, get your things, pack.
+L598849 +++$+++ u8352 +++$+++ m566 +++$+++ MOTHER +++$+++ I've been worried sick.
+L598848 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ It's a little cut, nothing.
+L598847 +++$+++ u8352 +++$+++ m566 +++$+++ MOTHER +++$+++ Thank God - Wladek! You're wounded.
+L599338 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Why didn't you come sooner? It's been over two weeks.
+L599337 +++$+++ u8354 +++$+++ m566 +++$+++ SZALAS +++$+++ You don't want to worry about that. My grandfather was jilted by his girl friend when he got jaundice.  In my opinion, jaundice is not very serious. Drink up.
+L599330 +++$+++ u8354 +++$+++ m566 +++$+++ SZALAS +++$+++ Doesn't matter. You've nothing to worry about. I'll visit often.
+L599329 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Sorry, I don't remember.
+L599328 +++$+++ u8354 +++$+++ m566 +++$+++ SZALAS +++$+++ Warsaw Radio. I was a technician. I saw you almost every day.
+L599327 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ No, I don't think so?
+L599326 +++$+++ u8354 +++$+++ m566 +++$+++ SZALAS +++$+++ You don't remember me, Mr. Szpilman?
+L599395 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Szpilman.  Good name for a pianist.
+L599394 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Szpilman.
+L599393 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Tell me your name. I'll listen out for you.
+L599392 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I'll play the piano again. On Polish radio.
+L599391 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ I've got another one.  Warmer.  What will you do when it's all over?
+L599390 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ What about you?
+L599389 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Don't thank me. Thank God. It's His will that we should survive. Well. That's what we have to believe.
+L599388 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I don't know how to thank you.
+L599387 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Not yet.
+L599386 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Are the Russians here?
+L599385 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ We're getting out.
+L599384 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ What's happening?
+L599382 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ The Russians. On the other side of the river.  All you have to do is hang on for a few more weeks.
+L599381 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ What's all that gunfire?
+L599376 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Show me.
+L599375 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ In the attic.
+L599374 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Where are you hiding?
+L599370 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ A pianist.
+L599369 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I am... I was a pianist.
+L599368 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ What's your work?
+L599367 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ Where do you live?
+L599366 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I was... I was trying to open this tin.
+L599365 +++$+++ u8356 +++$+++ m566 +++$+++ THE GERMAN CAPTAIN +++$+++ What the hell are you doing?
+L599722 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ ... without a shred of manners.
+L599721 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ We have just come from George Banes' and they have taken him over. It is no wonder he is leaving, he has got in too deep with the natives. They sit on his floor as proud as Kings, but without a shred of manners.
+L599718 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Ohh no, it makes my skin creep!
+L599717 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ Yes, like a cave.
+L599716 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Ohhh, it's so dark, it's like a dank cave.
+L599602 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Oh yes, dear too - TERRIBLE! AWFUL!"'
+L599601 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ To be deaf?
+L599600 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ I can't imagine a fate worse than being dumb. Turn around.
+L599513 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ It will be very dramatic.
+L599512 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Well you stopped combing your hair, which is a good thing, it was looking over done.  You see these are the slits that the heads will go through, show him Nessie ... they'll be dead, the Reverend is going to use animal blood, no doubt it will be very dramatic. Tea! 
+L599481 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ Watch his hand
+L599480 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Careful! Watch his hand.
+L599479 +++$+++ u8361 +++$+++ m567 +++$+++ NESSIE +++$+++ Watch your feet!
+L599478 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Watch your feet!
+L599725 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Well he has NOTHING to pack, but he is leaving. And it is just as well; Nessie has foolishly grown an affection for him ... we have had some tears
+L599724 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Baines is packing up?
+L599723 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ He is quite altered, as if they had been trying some native witchcraft on him. Well tomorrow or the day after he will be gone.
+L599618 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ That is good, yes.
+L599617 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ How are the lessons going? ADA nods enthusiastically. He's getting on all right? ADA nods again Good.
+L599528 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Certainly, there is nothing so easy to like as a pet and they are quite silent.
+L599527 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ And with time she will, I'm sure, become affectionate.
+L599526 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Oh indeed. Cotton'.
+L599525 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ There is something to be said for silence
+L599524 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Oh, yes, yes of course, a concern.
+L599521 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Well, she was very violent with the gown. She tore off a chunk of lace. if hadn't been there I'd have sworn she'd used her teeth
+L599520 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ No, it was a table.
+L599519 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ No sound at all?
+L599518 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ I knew she was mute, but now I'm thinking it's more than that. I'm wondering if she's not brain affected.
+L599516 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ It's strange isn't it? I mean it's not a piano, it doesn't make any sound.
+L599515 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Like it were a piano?
+L599514 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ What would you think if someone played a kitchen table like it were a piano?
+L599605 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Yes, it's unholy.
+L599604 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Well, that is a strong opinion.
+L599502 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Ohhh ... dear. Not another word From the shock, yes it would be.
+L599501 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ One day when my mother and father were singing together in the forest, a great storm blew up out of nowhere. But so passionate was their singing that they did not notice, nor did they stop as the rain began to fall and when their voices rose for the final bars of the duet a great bolt of lightening came out of the sky and struck my father so that he lit up like a torch... And at the same moment my father was struck dead my mother was struck dumb! She- never-spoke-another-word.
+L599499 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Mother used to sing the songs in German and her voice would echo across the valleys
+L599498 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Ohhh I've never been there. 
+L599497 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ The Alps.
+L599496 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Which mountains are those dear?
+L599493 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ And where did they get married?
+L599492 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Well, yes, in Austria where be conducted the Royal Orchestra.
+L599491 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ I thought she met your father in Luxemburg.
+L599487 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ .... They met when my mother was an opera singer... in Luxemburg...
+L599486 +++$+++ u8357 +++$+++ m567 +++$+++ AUNT MORAG +++$+++ Ohh the tag is broken.
+L599485 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ My REAL father was a famous German composer
+L599815 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ I miss you.
+L599814 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No, I love her, we will be a family. I have her piano. I will mend it, she will get better.
+L599813 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ I worry for you.
+L599757 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I'll be back.
+L599756 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ Go Peini ... Haere atu e Peini.
+L599596 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ You have spare wife here Peini. You get rnana for that. Our chief four wives.
+L599595 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ She lives her own life in New Jersey, America.
+L599594 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ Don't answer, he low born. Jun look at him, mongrel. Your wife where she?
+L599590 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No, no bible readers.
+L599589 +++$+++ u8360 +++$+++ m567 +++$+++ HIRA +++$+++ I got the good wife for you Peini. She pray good. Clean. Read Bible. You sleep her Peini. She chief daughter.
+L599809 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ What are they?
+L599808 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ No, but her words are in my head.  I know what you think, that it's a trick, that I'm making it up. No, the words I heard, were her words.
+L599807 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Spoken words?
+L599806 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ She has spoken to me. I heard her voice. There was no sound, but I beard it here . Her voice was there in my head. I watched her lips, they did not make the words, yet the harder I listened the clearer I heard her, as clear as I hear you, as dear as I hear my own voice.
+L599804 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No, not words.
+L599803 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ No, words. You have never heard words?
+L599802 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ You mean in signs?
+L599801 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Has Ada ever spoken to you?
+L599685 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Well, thank you, I expect she will appreciate it.
+L599684 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ It was more to your wife that I gave it.
+L599683 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Well, I doubt I want it very much myself.
+L599682 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No, no payment. I have given it back. I don't want it.
+L599681 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ And what does this do to our bargain? I cannot afford the piano if you mean me to pay.
+L599680 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No.
+L599679 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ You don't want to learn.
+L599678 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I don't want to learn.
+L599677 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ I don't think you should have given up the piano. I will make sure you are properly taught, with music written on to sheets and...
+L599656 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Nothing just yet
+L599655 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ I'll have to come and hear you play. what do you play.
+L599654 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Ada says you're doing well with the piano?
+L599653 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Yes, why not.
+L599646 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Te, kawnarna paraikete mo te tahi hawlie 0 te whenna uci.  UNSUBTITLED
+L599645 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ T-w~e-l-v~e.
+L599543 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Yes, I suppose you would.
+L599542 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I'll have to get lessons. It wouldn't be much use without them.
+L599541 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Well Baines the music lover, I never would have known. Hidden talents George.
+L599540 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Yes, I thought that.
+L599539 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ You'd have to organise it up here.
+L599536 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ The piano on the beach? Ada's piano?
+L599535 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ The piano.
+L599534 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ What for?
+L599533 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I'd like to make a swap.
+L599532 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Good, flatish land with reliable water, why? I don't have money. What are you about?
+L599531 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Yes
+L599530 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ On your property?
+L599529 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Those 80 acres, that cross the stream, what do you think of them?
+L599477 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ No, no they know another track - to the side of this.
+L599476 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ They want more money. They are trying to make two days out of it?
+L599472 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ But we came down this way didn't we? I'm sure we did.
+L599471 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Someone died here. It's tapu.
+L599470 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ What's he say?
+L599452 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ She's stunted, that's one thing.
+L599451 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ She looks tired.
+L599830 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I have the key here, look, I'll have it mended...
+L599829 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She says, throw it overboard. She doesn't want it. She says it's spoiled
+L599828 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ What?
+L599827 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ It's quite safe, they are managing...
+L599826 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She says, throw the piano overboard.
+L599825 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ What did she say?
+L599788 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Jesus! I'll kill him! I'll kill him. What did she tell him?
+L599787 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ He chopped it off
+L599786 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ Quiet down! Shhh! Where is she?
+L599785 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ What happened?
+L599784 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ He says you're not to see her or he'll chop her up!
+L599579 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I just want to listen.
+L599578 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Everyone has to practice.
+L599577 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I'd rather not play. I want to listen and learn that way.
+L599576 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She wants to see what you can do.
+L599562 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ The marks do not come out. They are scars and hardened skin.
+L599561 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Wash them again.
+L599560 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ They are washed.
+L599559 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ You have to wash them.
+L599508 +++$+++ u8358 +++$+++ m567 +++$+++ BAINES +++$+++ I'm sorry, I can't do that.  I don't have the time.  Goodbye
+L599507 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Please take us to the beach where we landed.
+L599746 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Take this to Baines. Tell him if he ever tries to see her again I'll take off another and another and another!
+L599745 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Mama.
+L599691 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Play a song then
+L599690 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Do I know any gigs?
+L599689 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Play a gig.
+L599688 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ What will I play?
+L599687 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Is it all right? Aren't you going to play something? ADA pulls up a chair and seats herself at the piano. She rubs her hands and places them lightly on the keys, she turns from habit over her left shoulder where STEWART waits crossed armed. Quickly she removes her hands, stands and gestures FLORA to play. FLORA proudly takes ~p the seat, she pulls her lips in trying to control her happiness to say in front of both her mother and STEWART.
+L599675 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Hah, you're very cunning Ada, but I've seen through you, I'm not going to lose the land this way. Wait here!
+L599674 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ He's given it to us.
+L599669 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Tomorrow.
+L599668 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ And when is the next lesson?
+L599667 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She never gives him a turn.
+L599666 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ You've missed this bit.
+L599665 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ I know why Mr. Baines can't play the piano.
+L599551 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ He wants to improve himself... and you will be able to play on it ...  Teach him to look after it.
+L599550 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She says it's her piano, and she won't have him touch it. He's an oaf, he can't read, he's ignorant.
+L599549 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ What does she say?
+L599548 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ On your piano, that is the swap.
+L599547 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ What on?
+L599511 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ Hello.
+L599510 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Hello, then.
+L599461 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Let us not discuss this further. I am very pleased....
+L599460 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ We can't leave the piano
+L599458 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Yes and so do I, but there are too few of us here to carry it. TOO - HEAVY
+L599457 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ She wants it to come.
+L599456 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ It must come.
+L599455 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ Oh no, it can't come now.
+L599448 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ A piano?
+L599447 +++$+++ u8359 +++$+++ m567 +++$+++ FLORA +++$+++ It's my mother's piano.
+L599446 +++$+++ u8362 +++$+++ m567 +++$+++ STEWART +++$+++ What's in here then, lead?
+L601255 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ I don't have to.  You'll be bustin' in on the Chief of Police just up the hall. 
+L601254 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ What are ya gonna do, call the cops?
+L601253 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ Right through there.  But I wouldn't go in there if I were you. 
+L601252 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ I think I'll keep that to myself. Which way are the rooms?
+L601251 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ Maybe I could help ya if ya told me his name.
+L601250 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ Nobody.  I just know what kinda women he likes.  I'm gonna check all the joyhouses till I find him.
+L601249 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ Who told ya this guy was in here?
+L601248 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ Which way are the rooms?
+L601238 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ No, but you're welcome to a free beer before you go.
+L601237 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ All right if I look around your lobby?
+L601236 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ Don't think so.  I know everybody in the place and I always bounce the lamsters.
+L601235 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ I'm lookin' for a guy on the lam from a counterfeiting rap.  Thought he mighta come in here.
+L601234 +++$+++ u8363 +++$+++ m568 +++$+++ BILLIE +++$+++ Joliet badge, Snyder.  Don't cut much up here.

@@ -1,0 +1,200 @@
+L564986 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Why?  You got money from Dolores' insurance with the school board.  We all did.
+L564985 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ No, Billy.  We can't drop the lawsuit.  You know how much we need the money.
+L564982 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ We've got lawyers suing lawyers because some people were stupid enough to sign on with more than one of the bastards.  We've got people pointing fingers, making side deals, and dickering over percentages. Yesterday, I heard somebody wants to sue the rescue squad.  The rescue squad.  Because they didn't act fast enough.
+L564981 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ C'mon, you know that won't...
+L564980 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ That's wrong, Sam.  You know that. We'll be tangled up in this thing for the next five years.  This is never going to go away...
+L564979 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ That won't happen, Billy.  Mitch Stephens' case is small, compared to some of those other guys.  The way he told me, all he needs is for you to say what you saw that day, driving behind the bus.  I know it's a painful thing to do, but it'll only take a few minutes of your time.  That'll be the end of it.
+L564978 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ If that bastard does subpoena me, if he forces me to go over this again, then all those other lawyers will line up behind him and try and do the same thing.
+L564975 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ But yours is the one who's going to subpoena me, Sam.  Force me to testify in court.  He came by the garage this afternoon.  Gave me this piece of paper.
+L564974 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ So?  I mean, lot's of folks have got lawyers.
+L564973 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ I've tried to stay out of it.  But it turns out that's not so easy, Sam.  You've gone and got yourself this lawyer.  Mitchell Stephens. You and Risa and Wendell and the Ottos.
+L564972 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Okay, fine.  So...stay out of it.
+L564971 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Well I don't want a damned thing to do with it.
+L564970 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Because it's what we have to do.
+L564969 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Why not?
+L564968 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Well, it being so depressing and all.  But it's reality.  You can't just turn this off because you happen to think it's a bad idea.
+L564967 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ How?
+L564966 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Well, I don't know why it should. There's a whole lot of people in town involved with lawsuits.  We're hardly unique here, Billy.  I mean, I can understand how you feel.
+L564965 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ It does concern me.
+L564964 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ I don't see how that concerns you, Billy.
+L564963 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Well, Sam, I might as well tell you the truth.  It's this lawsuit you've gotten yourself all involved with. I want you to drop the damned thing.
+L564962 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ So what brings you out tonight?
+L564751 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ You think that caused the accident, Risa?  That it brought bad luck? Christ, it sounds to me you're looking for a witch doctor, not a lawyer.  Or maybe they're the same thing.
+L564750 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Why did you do that, Billy?
+L564749 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Yes.
+L564748 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Is it true that you gave Nicole one of Lydia's dresses?  That she was wearing it when the bus crashed?
+L564747 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Well I don't.
+L564746 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Because I have to.
+L564745 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Why?
+L564744 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ I have to.
+L564743 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ You believe that?
+L564742 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ ...or that the guardrail wasn't strong enough.
+L564741 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Risa, I serviced that bus.  At the garage.  There's nothing wrong with it.
+L564740 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Mr. Stephens says that someone didn't put a right bolt in the bus...
+L564739 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Something made this happen, Billy. Mr. Stephens is going to find out what it was.
+L564738 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ I stopped by the station a while ago.  I stared at the bus.  I could almost hear the kids inside.  There was a lawyer there.  He told me he'd gotten you signed up.  Is that true?
+L564669 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Good night.
+L564668 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Good night, Billy.
+L564667 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ I better get back.
+L564666 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ You're leaving.
+L564665 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Just like we look forward to this.
+L564664 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Sure.
+L564663 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ They can look forward to that.
+L564662 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Well, maybe that's because they know I'm going to follow them.  Behind the bus.
+L564661 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Your kids never cry.
+L564660 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ It's natural.
+L564659 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Yes.
+L564658 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ That's because he misses you.
+L564657 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Tomorrow I'm going to put Sean on the bus.  He won't want to go.  He never does.  He'll cry and want to hold on to me.
+L564656 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ What are you thinking?
+L564631 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ When the game's over, I guess.
+L564630 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ What time's he coming home?
+L564629 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ No.  It should be dry by now.
+L564628 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Does this mean I can't take a shower?
+L564626 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Billy, do you have to smoke? Wendell can smell if someone's been smoking.
+L564625 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ A while.
+L564624 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Have you been waiting long?
+L564538 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Can't you make it later?
+L564537 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ She said she's got to be home by nine.
+L564536 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Billy, that's too early.
+L564535 +++$+++ u8040 +++$+++ m545 +++$+++ BILLY +++$+++ Nicole's coming over to look after the kids tonight.  She'll be there around six.
+L564930 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I don't know.  But it was weird in terms of what happened next.  Sean was still watching his mother.
+L564929 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Why would he be frightened?
+L564928 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ He never took his eyes off his mother, even as he moved to sit beside Nicole.  He looked frightened.
+L564799 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Yes.  Abbot understands these things.
+L564798 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ That's what he said, is it?
+L564796 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ There might have been a word or two that slipped by.  Maybe you could clarify it for me, just to be absolutely sure.
+L564795 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Anything you didn't understand?
+L564794 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Yes.
+L564793 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ You heard what Abbott said?
+L564790 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Who's been talking to you about what I'm feeling?  Who should care about what I'm feeling?
+L564789 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Excuse me?
+L564788 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ What other people?
+L564787 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ It's clear to me and other people that you have suffered significantly from this event.
+L564785 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Mrs.  Driscoll, if Billy Ansel does not volunteer to say so in court, I will subpoena him and oblige him to testify to that effect.
+L564784 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ And Billy told you that he'll tell that to...
+L564783 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ I did.
+L564782 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ You've talked to Billy?
+L564781 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Billy said that?
+L564780 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Yes.  He does.
+L564779 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ He knows that?  Billy?
+L564778 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Billy Ansel will insist that you were driving fifty-one miles an hour.  Just like you've done every morning for the past fifteen years.
+L564777 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Because I'd be to blame, right?
+L564776 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ That would complicate things.
+L564775 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I told you that I was doing fifty miles an hour when the accident happened.  That's how I remembered it.  But the truth is, I might have been doing sixty.  Or sixty five. And if that's true, that I was over the limit when the bus went over, what would happen then?
+L564774 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ What's that, Dolores?
+L564773 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I have a question for you, Mr. Stephens.
+L564713 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ The Walkers loved Sean.  He was their only child...the object of all their attention.  I mean, Wendell's a withdrawn sort of man.  That's his nature.  But Risa, she's still got dreams.
+L564712 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Did they give him special care?
+L564711 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ What do you mean?
+L564710 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Did his parents attend to that?
+L564709 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ That's right.
+L564708 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ You mentioned that he had a learning disability.
+L564707 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ What do you mean?
+L564706 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Were his parents...attentive to him?
+L564705 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ A strange little fellow, but you couldn't help liking him.  He was close to ten but seemed more like a frightened five or six.
+L564702 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ With our hands.
+L564701 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ And what's that?
+L564700 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Yes.  The old-fashioned way.
+L564699 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Berry-picking.
+L564698 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Abbott and I used to do a lot of that in the spring.
+L564697 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Yes.  Like I was putting them into my big basket.  Clearing the hillside of its children.
+L564696 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Berries.
+L564695 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ That's the way I thought of them sometimes.
+L564532 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ No.  I saw it on his face.
+L564531 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ You talked about it?
+L564530 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ No, nothing like that.  Billy's wife, Lydia, died of cancer a few years ago.  He took over raising the children by himself.  It was obvious how much he missed Lydia.
+L564529 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Did he have any particular problems that you knew of?  Financial pressures...run-ins with the law...
+L564528 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ From what?
+L564527 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ From what?
+L564526 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Billy loved to see his kids in the bus.  They always sat in the back, so they could wave to each other. It comforted him.
+L564522 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ 
+L564521 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ For rabbits?
+L564520 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Those are all from the fair last year.  Abbott and me were judges at the pet show.
+L564519 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Oh yes.  Like I said, they always came out together to see him off to school.  It's like he was their little treasure.  He was such a beautiful boy.  That's a picture of him on the wall there, behind Abbott.
+L564518 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ And they loved Bear.
+L564517 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ No, nothing like that.  The Ottos are what I'd call model citizens. They're regular at town meetings. They give their opinions  in a respectful way.  They always help out at various fund-raising bazaars in town , though they aren't church goers.
+L564516 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Do they have any reputation for drugs?
+L564515 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I mean, the way they look.  Their hair and clothing...
+L564514 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Yes.  What do you mean by 'hippies'?
+L564513 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ About the Ottos?
+L564512 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ What do you mean by that, Dolores?
+L564511 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Dolores.  No one calls me 'Mrs. Driscoll'.
+L564509 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ The Ottos always waited for the bus with Bear.  They were the only parents who did that, together like that.  I guess they're what you might call hippies.
+L564508 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ Away from your crazy Mom.
+L564507 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Oh, it's bizarre alright.  C'mon Bear.  Let's get you out of here.
+L564506 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ It's for the school bazaar.
+L564505 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I'll just strap it on the roof.
+L564504 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ I could wrap it up.  Protect the other kids.
+L564503 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ I didn't say that.
+L564502 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ You hate it.
+L564501 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Well, it's certainly what you'd call interesting.
+L564500 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ What do you think?
+L564499 +++$+++ u8052 +++$+++ m545 +++$+++ WANDA +++$+++ Hi, Dolores.
+L564498 +++$+++ u8041 +++$+++ m545 +++$+++ DOLORES +++$+++ Good morning, Wanda.  Hi, Hartley.
+L564605 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ I'll...take it straight.
+L564604 +++$+++ u8042 +++$+++ m545 +++$+++ HARTLEY +++$+++ We've only got honey.
+L564603 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ No.  A little sugar though.
+L564602 +++$+++ u8042 +++$+++ m545 +++$+++ HARTLEY +++$+++ I didn't ask if you wanted milk.
+L564593 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ How long has Dolores been driving that bus, Mr. Otto?  How many times has she steered clear of danger? What went wrong that morning?
+L564592 +++$+++ u8042 +++$+++ m545 +++$+++ HARTLEY +++$+++ But Dolores said she saw a dog and tried to...
+L564580 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ A cup of tea would be nice.  Would it be alright if I sit down for a few minutes, Mrs. Otto?  I want to talk to you.
+L564579 +++$+++ u8042 +++$+++ m545 +++$+++ HARTLEY +++$+++ You want a cup of tea or something?
+L564904 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ It's the truth.
+L564903 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Nicole!
+L564846 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ No.  What's this lawyer business?
+L564845 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Maybe we shouldn't be talking about this just now, with you barely home. Aren't you hungry, honey?  Want me to fix you something?
+L564840 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Who's Mr. Stephens?
+L564839 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ No.  From Mr. Stephens.  That was him on the phone just now.  He was calling to see how you were.
+L564838 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ From you?
+L564837 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Yes.  It's a present.
+L564836 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Is this mine?
+L564835 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ I feel like a princess.
+L564834 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Your Dad spent all his spare time in here.  He wanted to make it absolutely perfect.
+L564833 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ It's interesting.
+L564832 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ So do you like your new room?
+L564813 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ We had a terrible winter last year, didn't we, Sam?
+L564812 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ How was it?
+L564811 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Well, winter's far behind us now.
+L564810 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ And winter?
+L564809 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Summer's over.  It's fall.
+L564808 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ What happened to summer?
+L564807 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Isn't it a lovely day?
+L564806 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ He thought it was cute when I called him Frankenstein.  It wasn't.  I feel like his monster.
+L564960 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Would you like a cup of tea, Billy? There's a piece of cake left.
+L564959 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Hey, Billy!  What brings you out on a night like this?  C'mon in.  Take a load off.
+L564950 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ That's what he said.
+L564949 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Is he coming over now?  Right away?
+L564946 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ Jenny, it's time for you to go to bed.
+L564945 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Was he drinking?  Could you tell?
+L564944 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ No.
+L564943 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Did he say what about?
+L564942 +++$+++ u8043 +++$+++ m545 +++$+++ MARY +++$+++ That was Billy Ansel on the phone. He wants to come over to talk to us.
+L564655 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Okay.
+L564654 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Should I keep reading?
+L564653 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Oh.
+L564652 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ No.  Not mean.  Just...very angry.
+L564651 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ So he was mean?
+L564650 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Yes.
+L564649 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ The people in the town?
+L564648 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Because...he wanted to them to be punished.
+L564647 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Well, if he knew magic - if he could get the kids into the mountain - why couldn't he use his pipe to make the people pay him for getting rid of the rats?
+L564646 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ That's right.
+L564645 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ What, Mason?
+L564644 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Nicole?
+L564643 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Okay.
+L564642 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ I want to sit beside you tomorrow.
+L564641 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Don't you usually like to sit at the back?  To wave at your Dad?
+L564640 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Can I sit beside you on the bus tomorrow?
+L564639 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Yes.
+L564638 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Nicole?
+L564637 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Rats! They fought the dogs and killed the cats, And bit the babies in the cradles, And ate the cheeses out of vats. And licked the soup from the cook's own ladles, Split open the kegs of salted sprats, Made nests inside men's Sunday hats, And even spoiled the women's chats, By drowning their speaking With shrieking and squeaking In fifty different sharps and flats...
+L564636 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ What's vermin again?
+L564635 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ Oh.
+L564634 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ It's like a song.
+L564633 +++$+++ u8044 +++$+++ m545 +++$+++ MASON +++$+++ What's a ditty again?
+L564632 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ The Pied Piper of Hamelin. By famous Hanover city; The river Weser, deep and wide, Washes its wall on the southern side; A pleasanter spot you never spied; But, when begins my ditty...
+L565043 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ Unless the report from the National Weather Bureau for the district on January 23 goes into the record, I will object to that question.
+L565042 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ It was snowing.
+L564921 +++$+++ u8045 +++$+++ m545 +++$+++ MITCHELL +++$+++ So you can keep on getting well before you have to go and do this. It's not going to be easy, Nicole. Do you understand that?
+L564920 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Why?

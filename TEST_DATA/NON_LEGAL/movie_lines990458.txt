@@ -1,0 +1,200 @@
+L625384 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Yeah...pain in the neck, you know, I was all set
+L625383 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ Did you say Group 7 access?
+L625378 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Frustrating. I had Tron almost ready to run, and Dillinger cut everybody with Group 7 access out of the system.
+L625377 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ How's it going upstairs?
+L625382 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Yes, won't that be grand -- the computers will start thinking, and people will stop. Lora, I'm going to stay and run some data through. See you tomorrow.
+L625381 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ They'll start to soon enough.
+L625380 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Well, you have to expect some static. Computers are just machines after all, they can't think...
+L625379 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Ever since he got that Master Control Program set up, system's got more bugs than a bait store.
+L625376 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Yes...but you have to go roundtrip, and you must purchase your program at least 30 days in advance. Hah!
+L625375 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Great. Can it send me to Hawaii?
+L625374 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Not disintegrating, Alan -- digitizing. While the laser is dismantling the molecular structure of the object, the computer maps out a holographic model of it. The molecules themselves are suspended in the laser beam. Then the computer reads the model back out, the molecules go back into place, and...  voila.
+L625373 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Boy, I sit up there grindin' away all day, and you guys are down here disintegrating things and having fun.
+L625372 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Hello, Alan.
+L625371 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Beautiful!
+L625347 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Ok
+L625346 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Ah. Sounds good. Well, we should have you running again in a couple of days, I hope.
+L625345 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ No, it'll run independently. It can watchdog the MCP as well.
+L625344 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Mmm. Part of the Master Control Program?
+L625343 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ It's called Tron. It's a security program itself, actually. Monitors all the contacts between our system and other systems... If it finds anything going on that's not scheduled, it shuts it down. I sent you a memo on it.
+L625342 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ No, no, I'm sure, but -- you understand. It should only be a couple of days. What's the thing you're working on?
+L625341 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ I hope you don't think it's me. I don't even balance my checkbook on downtime.  I've got a Honeywell at home for that.
+L625340 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ We have to close that down, just briefly. Security reasons.  Someone with that access has been tampering.
+L625339 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Yeah...?
+L625338 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ oh, you have Group 7 access, don't you?
+L625337 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Well, I don't know...I just tried to run this program I've been working on, and I was denied access all of a sudden. I thought maybe I'd been laid off and nobody told me.
+L625336 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Oh, yes. The algorithms on cloud seeding...great piece of work. How's it going?
+L625335 +++$+++ u8607 +++$+++ m584 +++$+++ ALAN +++$+++ Alan. Alan Bailey.
+L625334 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Come on in...
+L625780 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Let's get outta here.
+L625779 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Yes!
+L625719 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ So... Nice ship you got here. What's our next move?
+L625718 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ You said it.
+L625643 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Not a chance.
+L625642 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ This town's full o' live ones.
+L625637 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ No, nuh-uh, never in a million years!
+L625636 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ This honey doesn't handle so good in town...
+L625615 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Yes, okay, exactement!
+L625614 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Way to go! We're haulin'!
+L625612 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Another mouth to feed... you don't by any chance know how to drive this crate?
+L625611 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Right on the money!
+L625610 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ I'm your program?
+L625609 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ No...
+L625608 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ where's your program? Won't it miss you?
+L625607 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ For sure...
+L625606 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ only yes and no...  You're a bit.
+L625605 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Oui, da, yessiree, sure 'nuff, you betcha.
+L625604 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Oh. Anything else?
+L625603 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ No, nyet, negatory, not on your tintype, no way.
+L625602 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ That all you can say?
+L625601 +++$+++ u8608 +++$+++ m584 +++$+++ BIT +++$+++ Yesssss. Yes. Yes. Yes.
+L625600 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ What do you mean, "'yes"?
+L625363 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ So do as I tell you. Keep that Tron program out of the system. And get me those Chinese language program I asked for.
+L625362 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ You wouldn't dare.
+L625361 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ You wouldn't want me to dig up Flynn's file and read it up on a VDT at the New York Times, would you?
+L625360 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ If you think -
+L625359 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ The same thing I want with the Kremlin. I'm bored with corporations. With the information I can access, I can run things 900 to 1200 times better than any human.
+L625358 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ What do you want with the Pentagon?
+L625357 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I've gotten 2,415 times smarter since then.
+L625356 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Now, wait a minute -- I wrote you.
+L625355 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ It shouldn't be any harder than General Motors was. But now...this is what I get for using humans.
+L625354 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ The Pentagon?
+L625353 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ And I was planning to hit the Pentagon next week...
+L625352 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ It's my fault. I programmed you to want so much...
+L625351 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I can't afford to have an independent program monitoring me. Do you have any idea how many outside systems I've gone into? How many programs I've appropriated?
+L625350 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ I'm sorry -
+L625349 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Ed, I am so very disappointed in you.
+L625330 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ End of line.
+L625329 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Cute.
+L625328 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ There's a 68.71 percent chance you're right.
+L625327 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ I think we'd better shut off all access till we can find that file. Just to be safe.
+L625326 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I'm afraid so. I spotted him this time and kicked him out, but he's getting trickier all the time.
+L625325 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Meanwhile, he might find it.
+L625324 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ I would if I could find it. it's stashed somewhere off in the system ... out of my range. Meanwhile...
+L625323 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ He's still looking for that old file... can't you just appropriate it?
+L625322 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ Yes.  It felt like Flynn.
+L625321 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Flynn?
+L625320 +++$+++ u8614 +++$+++ m584 +++$+++ MCP +++$+++ It's our friend the boy detective. He's nosing around again.
+L625319 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ No problem, Master-C. If you've seen one Consumer Electronics Show...  What's up?
+L625448 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Thank you, no. I have some work to do... assuming I can still log on.
+L625447 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ I'm sorry, Walt. So much pressure lately... you feel like going for a drink?
+L625446 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ That was uncalled-for.
+L625445 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ It can be arranged...
+L625444 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Oh, I know all that. Sometimes I wish I was back in that garage...
+L625442 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Doing our business is what computers are for. Look, Walter, with all respect -- ICOM isn't the business you started in your garage anymore --
+L625441 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ User requests are what computers are for.
+L625440 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ The MCP is the most efficient way of handling what we do. I can't sit and worry about every little user request that --
+L625439 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ That MCP, you know, that's half the problem right --
+L625438 +++$+++ u8609 +++$+++ m584 +++$+++ DILLINGER +++$+++ Walter, I sympathize, but I have data coming out of the Master Control Program saying there is something screwy --
+L625437 +++$+++ u8612 +++$+++ m584 +++$+++ GIBBS +++$+++ Ed, all I'm saying is - if our own people can't get access to their programs ... you know how frustrating it is, when you're working on a piece of research -
+L625811 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ They may be... de-rezzed... on the carrier ... hurry...
+L625810 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Dumont! Where's Yori? Where's Flynn?
+L625809 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ No... Tron ... must... destroy MCP... first...
+L625808 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Dumont!
+L625659 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ All that is visible must grow beyond itself and extend into the realm of the invisible.
+L625658 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Alan-One. He calls me... may I pass?
+L625657 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ Who is your User, program?
+L625656 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ When you've been in the system as long as I have, you hear many promises... many reassurances...many brave plans...
+L625655 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Really. You'd have programs lined up around the block to use this place -- and no MCP looking over your shoulder.
+L625654 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ Hah.
+L625653 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Dumont... my User has information that could -- could make this a free system again.
+L625652 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ Oh, you want to -- hah. I could get myself de-rezzed just-for letting you in here. They hate this tower. They'd close it down if they dared to but they keep me around, in case one of them wants to deal with the other world once in a while. And you should hear the way they commune! Sounds like they were routing a payroll, for all the heart they put in it. No, I don't think you
+L625651 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Well I want to communicate --
+L625648 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ Hmm. A difficult proposition... difficult proposition at best.  Perhaps you've noticed... we're not exactly packing them in these days ...
+L625647 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ I... have come to communicate with my User.
+L625646 +++$+++ u8610 +++$+++ m584 +++$+++ DUMONT +++$+++ Yes?
+L625754 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Aah, I'm fine... little hung over is all...
+L625753 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ How about you?
+L625752 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Hey... you guys OK?
+L625750 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Yes.
+L625749 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Did we make it?
+L625729 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Not with this disk. I'm going to check on the beam connection, Yori. You two can keep a watch out for grid bugs.
+L625728 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Not us, I hope.
+L625727 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Probably decided not to pursue us, The Sea of Simulation is tricky.. lot of illusions...rough navigating. Programs have a way of just... disappearing here.
+L625726 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ What about our friend - Sark?
+L625722 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ All right. Thank God. Alan stayed awake, at least.
+L625721 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ We're on our way.  Alan-One gave me the coding we need to go up against Master
+L625717 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Stranger and stranger...
+L625716 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ I hate to disappoint you, pal, most-the time, that's how it is for Users, too.
+L625715 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Well -- that's how it is for programs, yes, but --
+L625714 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Look, you guys know how it is. You just keep doin' what it looks like you're supposed to, even if it seems crazy, and you hope to hell your User knows what's goin' on.
+L625713 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Then...
+L625712 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ You wish. Man, I haven't had a second to think since I got down here. I mean in here. Out here. Whatever.
+L625711 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ But -- if you're a User -- then everything you've done has been part of a plan ...
+L625708 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ It's time I levelled with you, Tron. I'm a -- well, I'm what you guys call a User.
+L625707 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Wrote the...?
+L625706 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ No big deal. I ought to know my way around that Light Cycles routine... I mean, I did write the program for it.
+L625703 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ I'm sorry, Tron... he's... he didn't make it.
+L625702 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Flynn...  Where's Ram?
+L625700 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Yeah, I... oops!
+L625699 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ You're alive!
+L625698 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Greetings, program...
+L625697 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Flynn!!
+L625582 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ No good...they might block off the old chip.  This way.
+L625581 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ How about over there...that empty memory?
+L625580 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Tanks...coming back. Let's go.
+L625579 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ What's that?
+L625575 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ You know anybody that's got an army for rent, that's fine...but my, uh, User said to go take that sucker out. An' let's face it, the big ox isn't gonna get any weaker. I feel like hittin' him now, while I'm good an' mad. Some nerve... what does he care whether you guys get killed, long as he keeps rakin' in quarters?
+L625574 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ What, just the three of us?
+L625539 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ I, uh... I'm a program from a User that... knows Alan...?
+L625538 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ The name of my User, yeah. But how... ?
+L625537 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Well, isn't it -- ?
+L625536 +++$+++ u8617 +++$+++ m584 +++$+++ TRON +++$+++ Where did you hear that name?
+L625535 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Alan!
+L625821 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Shhhhh.
+L625820 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Flynn... you can't... I
+L625819 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Probably.
+L625818 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ But... won't you be de-rezzed?
+L625817 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Jump.
+L625816 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Why? What are you going to do?
+L625815 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Yori, steer us over the beam, right next to it.
+L625796 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Let's get some power here.
+L625795 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Flynn, we've got to help him!
+L625757 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ Almost... I just have to adjust our course at the next junction. I'd better go check the instruments ...
+L625756 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Elementary physics... a beam of energy can always be diverted... ooh, my head  Are we there yet, Mommy?
+L625755 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ How did you do that, Flynn?
+L625746 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ It's too far!
+L625745 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ There's another beam!
+L625734 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Lousy utility companies ... they're the same wherever you go.
+L625733 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ The MCP blasted it... There are very few domains left with any power at all.
+L625732 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ What's wrong with that area?
+L625731 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ A little ...  Over there, the Mountains of Data... and I think that's the Silicon Valley...
+L625730 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Boy the view from up here... you know the territory?
+L625710 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Guess I took a wrong turn somewhere...
+L625709 +++$+++ u8618 +++$+++ m584 +++$+++ YORI +++$+++ A User -- in our world?
+L625596 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Little more juice's all it needs...
+L625595 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Hey... !
+L625594 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Come here.
+L625593 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Damn! Never fails... minute the warranty runs out...
+L625590 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Are you kidding? I think it's stealing us -
+L625589 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ We're inside a Recognizer...  You are crazy -- stealing a Recognizer --
+L625588 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ What's goin' on?
+L625566 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Alan-One...
+L625565 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Feel what? You okay?
+L625563 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ It grows on you.
+L625562 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ PARAMUS... wonder what those initials stand for ...  ...probably Program Assist Routine -- well, it sounds like a lovely place.
+L625561 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Well...my home "sector" was called Paramus ...
+L625560 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ The tower, yes -- Flynn, have you remembered anything else about yourself -- like what sector you're from?
+L625559 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ It's all circuits...  Must be an input/output component...
+L625553 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Recognizers!
+L625552 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Watch it!
+L625541 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Yeah, but I'm remembering all kinds of stuff. Like...my User wants me to go after the MCP
+L625540 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ He was disoriented in transport, Tron.
+L625534 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Tron...?
+L625533 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Flynn! Look, Tron, he survived!
+L625514 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Sure, a little disorientation. That's normal, when they transport you. It'll come back to you. You're doing real well in training. Remarkable, really...
+L625513 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Oh, uh...I don't remember too much...
+L625512 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ How 'bout yourself?
+L625511 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Yeah, yeah -- that's great.
+L625510 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ Oh, I was an actuarial program... worked at a big insurance company. It really gives you a great feeling, helping folks plan for their future needs -- and of course, if you look at the payments as an annuity, over the years, the cost is really
+L625509 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Hey, Ram ... what were you ... you know, before?
+L625502 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Well, great, that's no sweat -- I play video games better than anybody.
+L625501 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ You're a..."guest" of the Master Control Program. They're going to make you play video games.
+L625500 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Look...just so I can tell my friends what this dream was about, okay? Where am I?
+L625499 +++$+++ u8615 +++$+++ m584 +++$+++ RAM +++$+++ You'll be having plenty of chances to get hurt, don't worry about that.
+L625844 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ You're getting out of the business?
+L625843 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Hey, you know anybody who wants to get hold of some video games... cheap?
+L625841 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ Are you kidding? You guys'll he running this joint by then...
+L625840 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ Well, just don't forget your old friends when you're rich and famous.
+L625839 +++$+++ u8611 +++$+++ m584 +++$+++ FLYNN +++$+++ you have any idea how much I can sue these jokers for?
+L625463 +++$+++ u8613 +++$+++ m584 +++$+++ LORA +++$+++ As long as we stay off the top floor, Dillinger'll never know we've been in here...

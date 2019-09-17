@@ -1,0 +1,200 @@
+L270065 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Is it the machines? The noise? The people?
+L270064 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't know.
+L270063 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I see. Junkyards. What is the fascination there?
+L270062 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Yes. What kind of things do you do?
+L270061 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You mean when I'm not working on a...
+L270060 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Oh. Well, how do you spend your day?
+L270059 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ My mother spoke to my Uncle Victor. He's in the Army and he fixed it up.
+L270058 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ What about the draft?
+L270057 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270056 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I'm sure. But what else do you do with your time? Do you go to school?
+L270055 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And a lot of time.
+L270054 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Ah, yes.
+L270053 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I put a lot of effort into these things.
+L270052 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Why?
+L270051 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes. It does.
+L270050 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Does that worry you?
+L270049 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't think I'm getting through to Mother like I used to.
+L270048 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ No, I suppose not. How do you feel about your mother?
+L270047 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I wouldn't say "benefit."
+L270046 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ And were they all done for your mother's benefit?
+L270045 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ A rough estimate.
+L270044 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Fifteen.
+L270043 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, a rough estimate... I'd say fifteen.
+L270042 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Just give me a rough estimate.
+L270041 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, some worked out better than others - some had to be abandoned in the planning stages - do you include the first time? - then there's the question of maiming...
+L270040 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ And why is that?
+L270039 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ An accurate number would be difficult to gauge.
+L270038 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Tell me, Harold, how many of these, eh, suicides have you performed?
+L270620 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ She took my head.
+L270619 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Stay where you are, Harold .
+L270611 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ She's a Commie pig. We're going to nail every last one...
+L270610 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold, calm down! This is...
+L270607 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Crazy parasite! Commie bastard! Get out of here.
+L270606 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold!
+L270605 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Parasite!
+L270601 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold! That's <u>disgusting</u>!
+L270600 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Boy, to think I could maybe make my own.
+L270599 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What's the chance of getting one of these?
+L270598 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold!
+L270597 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Of your kill - ears, nose, scalp, privates.
+L270596 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Souvenirs?
+L270595 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Sir, how about souvenirs?
+L270594 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold, I think you're getting carried away here.
+L270593 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'd like that. You could see the blood squirt out.
+L270592 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Well, I don't...
+L270591 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How about to slit his throat?
+L270590 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Eh?
+L270589 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To strangle someone. Choke him. Squeeze out his life between your hands.
+L270588 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Yes.
+L270587 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How about hand-to-hand combat?
+L270586 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Oh sure.
+L270585 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And to use the bayonet? PACHOIE!
+L270584 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Oh, sure. A variety of weapons.
+L270583 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Will they really teach me to shoot?
+L270582 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ ZAT!
+L270581 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Yes.
+L270580 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Another man's life in your sights.
+L270579 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ The moment of truth.
+L270578 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To kill. The taste of blood in your mouth.
+L270577 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ That's right.
+L270576 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To pit your own life against another.
+L270575 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ It's the greatest excitement in the world.
+L270574 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I hope so, sir. Golly I never knew it could be so exciting.
+L270573 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Sure. Be able to tell your children. Something for them to look up to. Be proud of.
+L270572 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You think so, sir?
+L270571 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Well, you'll soon have stories like that to tell of your own.
+L270570 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Jeez! That's a great story,
+L270569 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ They came at me from all sides, hundreds of 'em. We kept firing - Zat-Tat-Tat-Tat! "Throw the grenades," I shouted. "Mac, throw the grenades!" "He's dead," Joe said, and kept right on feeding me bullets.  Zat-Tat-Tat-Tat!  They kept falling, but they kept coming. Bullets whizzing all around me. Zot! Joe falls back with a neat red hole in his head. I thought I was done for. But I kept firing. Zat-Tat-Tat! Only one thought kept me going. Kill! Kill! For Mac, and Joe, and the rest of the guys. Kill! - a blinding flash. I wake up on a stretcher. "Did we hold?" I asked the medic. "Yes, sir," he said, and I slipped into unconsciousness.
+L270567 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Jeez, sir. That's pretty strong stuff.
+L270566 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ And so I ask you - why the hell did we give up on the Germans? Those damn politicians in Washington chalked them up on our side and the wars ever since have been a national disgrace. Hell, look at history. The two best wars this country has fought were against the Jerries. Now I say, get the Krauts on the other side of the fence where they belong, and let's get back to the kind of enemy worth killing and the kind of war this whole country can support.
+L270565 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ War is not all black.
+L270564 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Is that a fact? Well, that fits in right along with everything I've been saying. War is not all black.
+L270563 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ During wartime the national suicide rate goes down.
+L270562 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Let's examine the facts on it. I say this country has been too harsh in its outright condemnation of war. I say you can point to many material advantages brought about by a crisis and conflict policy. Hell, World War II gave us the ballpoint pen. That's common knowledge.
+L270560 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Perfectly lovely. You know, this is what we're defending. Everything that's good and beautiful in the American way of life. Oh, there's some nut peace petitioner over there. Let's go off this way. Those crazy Commie bastards. I don't know why we tolerate 'em. Parasites.
+L270559 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes, sir.
+L270558 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Call me "sir," Harold. First thing you learn in the Army - an officer deserves your respect.
+L270557 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you, Uncle.
+L270556 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Good idea of yours to come out here, Harold. It's a lovely spot.
+L270302 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, thank you. Eh, officer, you might turn off the radio. Saves the battery.
+L270301 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Oh yes. That's fine.
+L270300 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Tell me --  -- is that car parked all right?
+L270299 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Eh, yes, ma'm.
+L270298 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, it's a tricky turn.
+L270297 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Yes, ma'am. Somebody had some trouble parking.
+L270296 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Good afternoon, Officer. Bit of trouble here?
+L270124 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ But wait...
+L270123 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, don't be too discouraged. For aesthetic appreciation - always a little time.
+L270122 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Well, I didn't.
+L270121 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, yes. How did you like that?
+L270120 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Were you also the one who painted the statues?
+L270119 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Then I suppose it was me. Get in, Harold.
+L270118 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Yes.
+L270117 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Was that the one with the St. Christopher medal on the dashboard?
+L270116 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Ah! There you are, madam. Were not you the lady who drove my car off yesterday?
+L273833 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Time to play.
+L273832 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ No more delays, Kirsty. No more teasing. Time to play.
+L273831 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Oh. No Boxes. Such a shame.
+L273709 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ We have no more surprises.
+L273708 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ We've always been here.
+L273707 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ It's different for us.
+L273699 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ Perhaps you're teasing us. Are you teasing us?
+L273698 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Oh, Kirsty; so eager to play, so reluctant to admit it.
+L273762 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Oh, I do. I do.
+L273761 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Yes. You're a girl who remembers her promises.
+L273760 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ You knew?
+L273759 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ I knew you'd come.
+L273758 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Frank.
+L273757 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Julia.
+L273756 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Well, well. All my family together again. How very sweet.
+L273746 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ I'm your Daddy now, Kirsty.
+L273745 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Daddy! Daddy! I love you! Help me!
+L273741 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Don't waste your tears. Look at him!
+L273740 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ He... he loved me.
+L273738 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ 'Fraid not, baby. He belongs here. With me. We're the same. Brothers. Equal and opposite. Pure appetite. Pure banality. Too much feeling. None at all.
+L273737 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No! He SHOULDN'T be here! It SHOULD'VE been a trick!
+L273736 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ See? He's here. You should learn to believe your Uncle Frank.
+L273735 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Shit. Bull. Shit.
+L273734 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Yes!
+L273733 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Oh, right. Daddy's died and gone to heaven, eh?
+L273868 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ I'm a girl who keeps her promises.
+L273867 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ I knew you'd come back.
+L273720 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Sorry, friend. No day trips to Hell. Here you are. Here you stay. And forward the only way to go.
+L273719 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ I want to go back!
+L273675 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ It certainly is.
+L273674 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ It's coming.
+L273673 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ She certainly has.
+L273672 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ She's done it.
+L273600 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ I know.
+L273599 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ It's a beautiful dress...
+L273595 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ No. You look...
+L273594 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Surreal? Strange? Nightmarish?
+L273593 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ Yes... Yes. You look...
+L273641 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ I KNOW I don't have to. It's just my time of the month to be a complete fucking idiot. O.K.?
+L273640 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Kyle, you don't have...
+L273639 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ O.K. Let's go.
+L273636 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Because I'm going to get my father!
+L273635 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ WHY?
+L273634 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I don't know, Kyle. You're the fucking expert. Now get out of the way!
+L273633 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Are you crazy?
+L273632 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Get out of the way.
+L273629 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Yeah. The things you were talking about.
+L273628 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You DIDN'T tell me. Do you mean Malahide's got...
+L273627 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The boxes! I TOLD you.
+L273626 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What do you mean?
+L273625 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The Boxes. In the House. I told you.
+L273624 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What?
+L273623 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The box? Like in your story? Like in his house?
+L273622 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The box. I need the box.
+L273620 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Hey, so for it. Don't let pity stop you. I'm down. Nail me.
+L273619 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Don't worry about it. Your attitude sucks anyway.
+L273618 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ God, I wish I could say no. This is going to do terrible things to my attitude, you know.
+L273617 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ And you're sure it was a woman?
+L273612 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Oh yeah? On your own a lot, Huh?
+L273611 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Well, the sofa isn't often used for sleeping on...
+L273609 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ So you slept O.K.?
+L273608 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No bad dreams.
+L273568 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ If anyone can help, HE can.
+L273567 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Help. No, no-one can help. I just want someone to listen or I WILL go crazy.
+L273565 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I know. No-one can. But I have to save him. Where's the other doctor? He said He'd listen. He promised.
+L273564 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Kirsty, I'm sorry... don't understand. I...
+L273563 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Oh, Jesus. I can't explain. It's... it's. I don't know how to help! I have to save him and I don't know how to help!
+L273562 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ What?
+L273561 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I... I had a visitor.
+L273551 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Yeah. Doctor Malahide's got her doing these jig-saws and things, though. Says it's helping to bring her out.
+L273550 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ God, that's terrible.
+L273549 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Almost complete withdrawal. She hasn't said a word for nearly two years.
+L273548 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What's the matter with her?
+L273547 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Sad, huh? She's been here six months. Her name's TIFFANY.
+L273531 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You a doctor, too?
+L273530 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ So... You're Kirsty, huh?
+L273874 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ It's been Hell.
+L273873 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Well... G'bye.
+L273860 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No. Don't let it. You've come this far.
+L273859 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I'm scared.
+L273854 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Finish what?
+L273853 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I've got to finish it.
+L273852 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What are you talking...
+L273851 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I have to go back. Or it'll never stop.
+L273845 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You were ALL human!
+L273844 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ I... remember.
+L273841 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ It's you! You HAVEN'T always been as you are. You were HUMAN. Remember. Remember all your confusions. Think!
+L273840 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Nonsense, I...
+L273839 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No, No, this one didn't escape. You told me you'd always been in Hell. You were wrong. Look at it. LOOK. IT'S YOU.
+L273838 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ What is this? Someone else you think escaped us, like Frank?
+L273837 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Go on. But trick us again, child, and your suffering will be legendary even in Hell.
+L273836 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No deals! Just information. Information. Free of charge. No strings. Just information.
+L273835 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ No more deals, Kirsty. It's your flesh we want to experience, not your skill at bargaining.
+L273834 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Wait!
+L273706 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ And what about you?
+L273705 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ But it's true, he is his own Hell. Just as you are in yours.
+L273702 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I've come for my father!
+L273701 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Then why are you here?
+L273700 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ But I didn't open it! I didn't!
+L273518 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The Cenobites.
+L273517 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Who?
+L273516 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I saw it... him. But I got away. And I took the box. And I solved it. And they came.
+L273515 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Easy, easy. Whatever happened, whatever you saw, it's not here now.
+L273505 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The mattress... The mattress... JULIA.
+L273504 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ What the hell are you asking me for? Tag it. Move it.

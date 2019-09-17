@@ -1,0 +1,200 @@
+L595538 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Armed robber.
+L595535 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ It's him.
+L595534 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Is this the guy you saw them with?
+L595525 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I know!  I'd tell you if I knew! Goddamn!  I know something happened, or she wouldn't have left.  I'm trying to remember everything!  Find that fucking kid.  He probably knows something.
+L595524 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ This is serious, son.  A man is dead.
+L595521 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Just some young guy.  Around twenty years old.  Dark hair.
+L595520 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Tell us about him.
+L595519 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I swear to God, she wouldn't tell me one thing!  Christ!  You oughta try to find that kid that was with 'em.
+L595906 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ Get a hold of yourself!  You are way out of your jurisdiction, now come on!  Calm down!  Don't make me sorry I let you come!
+L595905 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ I'm sorry to bother you, I know you're real busy right now, but how many times, Max?  How many times has that woman gotta be fucked over? You could lift one finger and save her ass and you won't even do that?
+L595891 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ The women are armed, Hal.  This is standard.  Now you stay calm here. These boys know what they're doin'.
+L595890 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Hey!  Don't let them shoot those girls.  This is too much.  They got guns pointed at 'em!
+L595722 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ It don't matter.  Brains will only get you so far and luck always runs out.
+L595721 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ We don't have a whole lotta choice, do we?  I can't figure out if they're real smart or just really, really lucky.
+L595720 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ He's got nothin' to gain by lyin'.  Nothin' at all.  He already got all their money.  I just don't know what we're dealin' with here. Anyway, it went out again last night on Nationwide Teletype.  Let's just wait it out a little longer.  She said she was gonna call back.  Let's just sit tight.
+L595719 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ It's just not working like this.  We gotta do something.  It'd be one thing if these girls were hardened criminals, but Jesus, Hal, this is makin' us look bad.  I don't know... maybe they're not movin'.  Maybe that little creep lied.
+L595584 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ Oh, definitely.
+L595583 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ Now, for one thing, you violated your parole two days out.  And you know Judge Hainey.  He hates this sort of thing.  Once he gets wind of this, he's gonna blow sky high.  And then when he finds out that you're a possible accessory to murder and armed robbery, well, I think we can safely place your ass back in the slammer for at least the remaining eight, don't you?
+L595507 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ My Lord.
+L595506 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ Good God.
+L595486 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ The important thing is not to let on that you know anything.  We want to try and find out where they are. Now I don't want to get too personal, but do you have a good relationship with your wife?  Are you close with her?
+L595485 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ We're going to leave someone here at the house in the event that she calls in.  Someone will be here until we find them.
+L595312 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ Right.  Where are they?
+L595311 +++$+++ u3256 +++$+++ m216 +++$+++ HAL +++$+++ A .38.
+L595310 +++$+++ u3263 +++$+++ m216 +++$+++ MAX +++$+++ What kind of gun was it?
+L595077 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ Shut up.
+L595076 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Don't hurt me.  Harlan.  Please.
+L595073 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ Louise is alright.
+L595072 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Stop it!  Goddamnit, I mean it! Louise is gonna wonder where I am. Let go!
+L595071 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ You're beautiful.  It's okay.  I won't hurt you.  It's okay.
+L595070 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ It's okay.  I'm married, too.
+L595069 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Don't.  I'm married.  I don't feel good.  I've been sick.
+L595067 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ Yeah, you're startin' to feel pretty good to me, too.
+L595066 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I guess I'm startin' to feel a little better.
+L595064 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I'm spinning.
+L595063 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ What for?
+L595062 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Stop.
+L595061 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ What's wrong?
+L595060 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Oh shit.
+L595037 +++$+++ u3257 +++$+++ m216 +++$+++ HARLAN +++$+++ You do?  Is he a funny uncle? 'Cause if he is, then he and I got somethin' in common.
+L595036 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Your name's Harlan?  I got an uncle named Harlan!
+L595427 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ You're a little angle, you are.
+L595426 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ You're kinda the best thing that's happened to me in a long time.
+L595425 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ And smooth, boy, you are smooth.
+L595424 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I may be the outlaw, but you're the one stealin' my heart.
+L595423 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ God.  You're a real live outlaw!
+L595422 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I've always believed if done right, armed robbery doesn't have to be a totally unpleasant experience.
+L595420 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, first you pick your place, see, then I'd just sit back and watch it for awhile.  Ya gotta wait for just the right moment, which is something you know instinctively, that can't be taught.  Then I'd waltz on in...
+L595419 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Tell me.
+L595418 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Naw, honey, that would be burglary. I never got arrested for burglary. Burglary's for chicken shits.  If you're gonna rob someone, ya just have to go right on up to 'em and do it.  Just take the money.  That's robbery.  That's a whole 'nother deal.
+L595417 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ No, I mean how would you do it?  Do you just sneak in real fast or hide out till the store closes or what?
+L595416 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, I was just down on my luck and it seemed like somethin' I was good at so I...
+L595415 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ How?
+L595414 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, I robbed a gas station once, and I robbed a couple of liquor stores, and some convenience stores. And that's it.
+L595413 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ What?
+L595412 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Nope.  I've never robbed a bank.
+L595411 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ You're a bank robber?
+L595410 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I'm a robber.
+L595409 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ What did ya do?
+L595408 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, not anymore, Thelma, except for bustin' parole, I haven't done one wrong thing.
+L595407 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ What?!  Parole officer?  You mean you're a criminal?
+L595406 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I'm just some guy.  A guy whose parole officer is probably having a shit fit right about now.
+L595405 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ J.D.!  Just tell me.  I know you're not some schoolboy.  Now come on, nobody ever tells me shit.
+L595404 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I am the great and powerful Oz...
+L595371 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ That's lonely for you, I guess.  I always think of motel rooms as lonely.
+L595370 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ She's off with Jimmy, that's her boyfriend.
+L595369 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Oh.  I... where's Louise?
+L595368 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Well, you wanna use the shower?
+L595367 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ That sounds nice.
+L595366 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I don't know.  Nothin'.  Took a shower.
+L595365 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ I don't know.  Nowhere.  What are you doin'?
+L595364 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Wait...!  Um, where ya going?
+L595363 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, I guess I'd better...
+L595360 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Thelma?  It's me.
+L595359 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Louise, is that you?
+L595330 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Yup.  Thanks for the ride.  You all take care.
+L595329 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ This is J.D.  He's a student.  We're just givin' him a ride to... to here.  Louise said we could bring him here and then he'd have to go. And that's what he's doin'.  He's goin'.  Aren't you, J.D.?
+L595303 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ It's okay.  He is an asshole.  Most of the time I just let it slide.
+L595302 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Well, if you don't mind me sayin' so, he sounds like a real asshole.
+L595301 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Twenty-four isn't young.  I'd already been goin' out with him ten years when we got married.  I've never been with anybody but Darryl.
+L595300 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Did you get married real young?
+L595294 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Darryl, that's my husband, he says he's not ready.  He's still too much of a kid himself.  He prides himself on being infantile.
+L595293 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ So how come you don't have any kids?
+L595288 +++$+++ u3258 +++$+++ m216 +++$+++ J.D. +++$+++ Human nature.  I'm majoring in behavioral science.
+L595287 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ So J.D., what are you studying in school?
+L595336 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ A regular outlaw.
+L595335 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I always knew that.
+L595334 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Don't mind me, Jimmy, I'm just a wild woman.
+L595333 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Well, come on, gal, I got you a room.  You can go on in and take a nice cold shower.
+L595328 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Who's your friend?
+L595327 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Good answer.  Same goes double for me.
+L595326 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Ask me no questions, I'll tell you no lies.
+L595325 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Jimmy!  Hello, stranger.  What in the world are you doin' here?
+L595432 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I'm choking on it.
+L595431 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Damn, Jimmy, did you take a pill that makes you say all the right stuff?
+L595430 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Don't worry darlin'.  I'll say I never found you.  I'll say anything you want.  We'll find a way to get you out of this, whatever it is.
+L595398 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Believe me, the last thing I want is for you to get punished.
+L595397 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Are you just doin' this to punish me?
+L595396 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ I don't know.  It doesn't even matter anymore.  I just want you to be happy... It's not that I don't love you either.  But Jimmy, your timing couldn't be worse.
+L595395 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I'm the one... I never made it work. I just... It's not that I don't love you.  It's not that.  I just never thought I'd be thirty-six years old and I never thought... I don't know what I thought.  What do you want, darlin'.  What do you want me to do.
+L595393 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ 'Cause, Louise.  I don't want to lose you.  And for some reason I get the feelin' you're about to split. Permanently.
+L595392 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Why now, Jimmy?
+L595391 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ So whaddya think.  I mean... I could... uh... get a job.  Of some kind.  I mean you've been tellin' me that for years, right?
+L595389 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ You didn't see that one comin', did ya?
+L595388 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Jimmy... it's beautiful!
+L595387 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Will you at least see how it fits?
+L595385 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Maybe.
+L595384 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Can I just ask you one other thing?
+L595383 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Alright, alright.  I'm sorry.
+L595382 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Stop it!  Stop it, Jimmy, or I'll leave right now.  I'm not kiddin'!
+L595381 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Then what?!  What, goddamnit, Louise!  Where the fuck are you going?  Are you just leaving for fucking ever?  What, did you fuckin' murder somebody or what?!
+L595380 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ It's nothin' like that.
+L595379 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Does it have something to do with another guy?  Are you in love with him?
+L595378 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Maybe.
+L595377 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Okay, peaches, okay.  But can I ask you one thing?
+L595375 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Okay, okay, just tell me what's the trouble.
+L595374 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Jimmy, my daddy's still alive and it kind of gives me the creeps when you do that...
+L595373 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Now, my little coconut, what seems to be the trouble here?  Tell Daddy everything.
+L595357 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ It's me.
+L595356 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Who is it?
+L595355 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Hello...
+L595323 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Can we get another room?  Just put it on my credit card.
+L595322 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Oh my God!  Jimmy!  You... Oh my God!  What are you doin' here?
+L595321 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Hey, peaches.
+L595231 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ That's the code word.  I miss you, peaches.
+L595230 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ What?
+L595229 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Peaches.
+L595228 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ And what's the mysterious code word?
+L595227 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ It's a place called Shaw's Siesta Motel.  The address is 1921 North East 23.  It's under your name.
+L595226 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Good.  That was good.  Where do I go?
+L595225 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ No, honey.  I told him I was buyin' a car.  What is it for?
+L595224 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ You didn't say what it was for, did you?
+L595223 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Friend of mine, owns a club.  Dickie Randall.  You'd know him if you saw him.  His brother was in your class. Terry.
+L595222 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Who did it?
+L595221 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I got it.  I was afraid I'd missed you.  I almost couldn't get a check cashed.  It's Saturday.
+L595220 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Is that how you answer the phone?
+L595192 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Okay.
+L595191 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ I know.  Call me back.  Louise, I love you, okay?
+L595190 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Okay.  I'll call you back.  In an hour.  Don't tell Darryl.
+L595189 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Call me back.
+L595188 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Tell me now.
+L595187 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ No, for that much money I have to tell them exactly which office.  I know, I've had to have money wired to me on the road.  And there has to be a code word or they won't give it to you.  I'll have to tell you the code.
+L595186 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Can't it go to any office?
+L595185 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Louise, let me call you back after I wire it, so you'll know which office to go to.
+L595184 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Not yet.
+L595183 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ You're in Oklahoma?!
+L595182 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Wire it to the Western Union in Oklahoma City,
+L595181 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Christ, sure... yes!
+L595180 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Do you love me?
+L595178 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Of course.  Of course!  Where?  Can't I bring it to you?  For God's sake, baby, please, just tell me what's happened, what could possibly be so bad?
+L595177 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Something real bad has happened and I can't tell you what, just that it's bad and I did it and I can't undo it.  Can you help me?
+L595176 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ What the fuck is going on?
+L595175 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ I have a savings account with about sixty-seven hundred dollars in it. Now I know you won't be able to get it out, but I'm good for it.  I need that money.  Can you wire me the sixty-seven hundred dollars and I'll pay you back?  Please, I'm desperate.
+L595173 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Fishing.  Look, Jimmy... I need you to help me.  This is serious.  I'm in trouble and I need you to help me.  Can you do that?
+L595172 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Where'd y'all go?
+L595171 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Louise, just tell me what the hell is going on here!  I come back, nobody knows where you are.  Is Thelma with you?  Darryl's been callin' here every half-hour sayin' he's gonna kill you both when you get back, he's goin' nuts.  I don't envy her if she is.
+L595170 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ No, I'm out of town.  I'm in... I'm in real deep shit, Jimmy.  Deep shit Arkansas.
+L595169 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Are you in town?  This sounds long distance.
+L595168 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ I am funny.  I'm real funny.
+L595167 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Louise, honey... Where are you?  You sound funny.
+L595166 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Hi.  I'm okay.  How are you?  Long time no see.
+L595165 +++$+++ u3259 +++$+++ m216 +++$+++ JIMMY +++$+++ Louise!  Where are you?  Are you alright?  Honey...
+L595698 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ As far as I'm concerned, yes, ma'am, you are.
+L595697 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Am I in trouble?
+L595696 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ Front.
+L595695 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ In the back?
+L595694 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ You wanna come with me, please? Walk around and get in the car, please.
+L595693 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Yes.
+L595692 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ Is this your car?
+L595688 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Oh yeah.
+L595687 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ You wanna take it out of your wallet, please?
+L595686 +++$+++ u3264 +++$+++ m216 +++$+++ PATROLMAN +++$+++ You wanna let me see your license, please?
+L595685 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Hello, Officer.  Is there a problem?
+L595912 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ You, too, sweetie, the best.
+L595911 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ You're a good friend.
+L595898 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Go?
+L595897 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Go.
+L595896 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ What are you talkin' about?
+L595895 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Then let's not get caught.
+L595894 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ We're not giving up, Thelma.
+L595893 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Now what?
+L595889 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ All this for us?
+L595888 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ God!  It looks like the Army!
+L595887 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ It's grand!
+L595886 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Isn't it beautiful?!!
+L595885 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ It's the Goddamn Grand Canyon!
+L595884 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ What in the hell is it?!
+L595882 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Way up ahead!
+L595881 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Where?!
+L595880 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ What in the hell is that up there?
+L595879 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ What?!
+L595878 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ Louise!
+L595877 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ How do you stay so positive?
+L595876 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I guess everything we've got to lose is already gone anyway.
+L595875 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ Unbearable, I'd imagine.
+L595874 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I guess everything from here on in is going to be pretty shitty.
+L595873 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ No... You've always been crazy. This is just the first chance you've had to really express yourself.
+L595872 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ I guess I went a little crazy, huh?
+L595871 +++$+++ u3261 +++$+++ m216 +++$+++ LOUISE +++$+++ You too, sweetie, the best.
+L595870 +++$+++ u3266 +++$+++ m216 +++$+++ THELMA +++$+++ You're a good friend.

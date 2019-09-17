@@ -1,0 +1,200 @@
+L89344 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ What took you so long?
+L89183 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Wait.
+L89182 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Get in. You’re leaving.
+L89164 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ It's not worth the risk. We can't trust her.
+L89163 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Maybe not. I did some checking, she's a hematologist. Knowledge like that might come in handy.
+L89162 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Stupidity.
+L89151 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Just do it, old man.
+L89150 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ I had to increase the dose. You're building up a resistance to the serum --
+L89126 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ She hasn't turned yet.  You can help her.
+L89125 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ You should've killed her, then.
+L89124 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ She's been bitten.
+L89123 +++$+++ u4089 +++$+++ m272 +++$+++ WHISTLER +++$+++ Are we bringing home strays now?
+L89122 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Whistler!
+L89628 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ It's because I'm human that I can do this.
+L89627 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ You're too human, Blade.
+L89625 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You don't have a few minutes, Frost.
+L89624 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ You're wrong -- a few minutes more, and my transition will be complete. Even your sword won't be able to affect me then.
+L89623 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Guess you're not quite as invulnerable as you thought.
+L89608 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Take him.
+L89607 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Who dies first?
+L89606 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Frost!!!
+L89605 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ No longer.
+L89437 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Watch me.
+L89436 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You're not going anywhere.
+L89432 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ You sure now? I bled a newborn for this. You won't find a drink that's sweeter.
+L89431 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Pass.
+L89430 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ The pause that refreshes --  Care for some? Smells good, doesn't it? Pungent, with just an irrepressible hint of iron.
+L89428 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Am I? You think the humans will ever accept a half-breed like you? They can't. They're afraid of you.  The humans fear us because we're superior. They fear us because in their hearts they know their race has become obsolete.
+L89427 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You're wrong.
+L89426 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Oh, so it's back to pretending we're human again, is it? Spare me the Uncle Tom routine. You can't keep denying what you are. You're one of us, Blade. You always have been.
+L89425 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Maybe I don't see it that way.
+L89424 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Why not? The future of our race runs through your bloodstream. You've got the best of both worlds, Blade. All of our strengths and none of our weaknesses.
+L89423 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I don't buy it.
+L89422 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ It's not very effective in direct sunlight, but it's a start. The goal, of course, is to be like you, "the Day-walker".
+L89421 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ I dabble in pharmaceuticals, medical research. We've developed a type of sun-blocker using octyl salicylate, a few others things.
+L89420 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ How can you be out here?
+L89419 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Beautiful day, isn't it?
+L89488 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ You've been here longer than you think.
+L89487 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ But I just got here --
+L89486 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ I am tired. Dawn is coming.
+L89484 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ How do I stop it?
+L89483 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ Yes. The vampire apocalypse. It is said that all who feel its taint will succumb to the Thirst.
+L89482 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ "The Blood Tide".
+L89481 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ The Day Walker's blood is a disparador -- a trigger, you see? For LaMagra's return. One need only consume it and the spirit of his ancestors will settle upon him.  "And the Sleeper will rise from the shadows anew, cleansing the world in a Tide of Blood."
+L89478 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ The vampire God. This speaks of His return.
+L89477 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Who is LaMagra?
+L89476 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ This is an old tongue, from an old world. It concerns LaMagra.
+L89474 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ Show me.
+L89473 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I didn't come here to get my palms read. I need something translated.
+L89472 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ Hold out your hands.
+L89470 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ There are other ways to see. Sit.
+L89469 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You're blind --
+L89468 +++$+++ u4087 +++$+++ m272 +++$+++ MIRACIA +++$+++ Is something wrong, my friend?
+L89631 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ For them. But for me --
+L89630 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I never imagined I'd be so happy to see the sun rise --  It's over, isn't it?
+L89598 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Yes you will. The human side of you is stronger. I know it is.
+L89597 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I can't -- I won't be able to stop --
+L89596 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ It's the only way. You know that. We'll never get out of here alive if you don't.
+L89595 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ No --
+L89594 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I know. Take some of my blood.
+L89593 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ -- tearing me -- apart.
+L89592 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You don't understand. The Thirst --
+L89591 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I'm not leaving without you.
+L89590 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Get out of here --
+L89544 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ What are you talking about?
+L89543 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ It won't work on you.
+L89542 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ We get out of this alive, maybe I'll take that miracle cure of yours.
+L89541 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Is it bad?
+L89540 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I don't know. I woke up just before you did --
+L89539 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ How long have we been driving?
+L89538 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I've been better --
+L89537 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Are you all right?
+L89447 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You make it sound like I'm already dead.
+L89446 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ For what it's worth, I'm sorry.
+L89442 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I'm just tired, that's all. We've been up all night.
+L89441 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You don't look so good.
+L89440 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Some. It's been slow --
+L89439 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Any progress?
+L89403 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Your mother sounds like a Hallmark greeting card.
+L89402 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ My mother used to say that a cold heart is a dead heart.
+L89401 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ We've got a good arrangement, that's all. Whistler makes the weapons, I use them, the vampires die -- end of story.
+L89400 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You care about him, don't you?
+L89399 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Cancer.
+L89398 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Is he sick?
+L89393 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ For your miracle cure?
+L89392 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I made a trip to the hospital last night, borrowed some equipment.
+L89380 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Blade --
+L89379 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Just get out of here.
+L89378 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ If you're not human, then why do you bleed like us? I've seen vampire blood, you don't have it running through your veins.
+L89377 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I do. I remember from day one. People staring at me, sensing I was different. Watching the fear grow in their eyes, knowing in their hearts I wasn't human.
+L89376 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Those aren't real memories. No one has that kind of recall.
+L89375 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I can't close my eyes without hearing her scream.
+L89373 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You get used to the darkness.
+L89372 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ It's dark in here.
+L89341 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Serum -- it's a human hemoglobin substitute.
+L89340 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What am I injecting you with?
+L89338 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Nothing that won't heal by dawn.
+L89337 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You're hurt --
+L89295 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You've been watching too much TV. They've got their claws sunk into everything -- finance, real estate, politics. Probably own half of Downtown.
+L89294 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Isn't this all a little high-tech? I thought vampires were more into cobwebs and coffins.
+L89293 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Some kind of archive --
+L89292 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What is this place?
+L89284 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Like me.
+L89283 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Like what?
+L89282 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ There are worse things than vampires out there.
+L89281 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ So many of them -- I still can't believe they're real.
+L89279 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ The way they move, they way they smell --
+L89278 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ How can you tell?
+L89277 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Looks like we hit pay-dirt. This place is crawling with them.  See the valets over there? They're vampires. So is the doorman.
+L89270 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ He will.
+L89269 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You let him go --  An hour ago you were ready to kill a man for less, this one didn't even talk.
+L89255 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Owned by vampires. There's one of these in every major city, and just like Domino's, they always deliver.  You telling me you're ready to walk through that door?
+L89254 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I know this place -- it's a blood bank.
+L89252 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Look closer.
+L89251 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Graffiti --
+L89250 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ What do you see here?
+L89249 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What are you looking at?
+L89248 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You don't know that.
+L89247 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ There is no cure.
+L89246 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Look, if what you say is true, if there's a chance I could turn into one of them, then I've got no choice, do I? I have to work with you. I need to learn everything I can about them. It's the only way I'll be able to find a cure for myself.
+L89231 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ It's war, now get the fuck out of the way!
+L89230 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You can't do this, he's human, it's murder.
+L89229 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Preventive medicine.
+L89228 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What are you doing?!
+L89223 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ For some. Live forever, never get old. The ultimate high.
+L89222 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ And that's a good thing?
+L89221 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Because they're vampire wanna-bes. If they're loyal, if they prove themselves, then their masters will turn them.
+L89220 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Why in God's name would anyone want to work for them?
+L89219 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ That's a glyph, kind of like a vampire cattle brand. That means Officer Friendly here is someone's property. Any of the other vampire's try to bleed him, they'll have to answer to Friendly's owner --  This glyph belongs to Deacon Frost. We've been tracking him for a while now --
+L89218 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ He's a familiar. A human who works for the vampires. See this mark?
+L89217 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ But he's a policeman --
+L89216 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ He didn't. Get over it.
+L89215 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ But, he could've --
+L89214 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ It worked, didn't it?
+L89213 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You used me as bait?!
+L89212 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Figured they'd send someone after you. Thought I'd wait around and see who showed up.
+L89211 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ How did you know?
+L89180 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ That's ridiculous! No one's that powerful.
+L89179 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Do it. You'll be dead before you can file the complaint.
+L89178 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I can go to the police. I have blood samples back at the hospital. I can show them.
+L89176 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Not anymore. You've seen one of them. You won't be allowed to live after that.
+L89175 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I can't just leave. I have a life here, a career --
+L89174 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I don't care what you believe. I saved your life once, I don't plan on making a habit of it. You want my advice, you'll be out of the city by nightfall. If you're stupid enough to stay, that's your business.
+L89173 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ And you honestly expect me to believe all this?
+L89167 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What happens then?
+L89166 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Because you're tainted. The venom's still inside you. You could still turn on us.
+L89165 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Why?
+L89158 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You're joking --
+L89157 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ -- he's a vampire.
+L89153 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I'm sorry, I --
+L89152 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You shouldn't be here.
+L89411 +++$+++ u4085 +++$+++ m272 +++$+++ KAM +++$+++ There's only one alternative to the serum.
+L89410 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Maybe it's time to start exploring other alternatives.
+L89409 +++$+++ u4085 +++$+++ m272 +++$+++ KAM +++$+++ I was afraid that might happen.
+L89408 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Whistler says I'm building up a resistance to it.
+L89407 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I was in the neighborhood.
+L89406 +++$+++ u4085 +++$+++ m272 +++$+++ KAM +++$+++ You're a week early.
+L89405 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ How's it going, Kam?
+L89576 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ You will. Time is on our side. Sooner or later, the Thirst always wins.
+L89575 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ I don't believe that.
+L89574 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ I wish you could see the world as I do. Deacon opened my eyes. There's no turning back from that.
+L89573 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ You don't understand. I've killed, I've hunted, and I've enjoyed it.
+L89572 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ You don't have to be.
+L89571 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ These are my people now. I'm one of them.
+L89570 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ How could you be a part of this?
+L89534 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ Listen to your father, Jason. It's going to be a better world.
+L89533 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Please --
+L89529 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ Fight him --
+L89528 +++$+++ u4088 +++$+++ m272 +++$+++ VANESSA +++$+++ Deacon brought me back.
+L89527 +++$+++ u4081 +++$+++ m272 +++$+++ BLADE +++$+++ But you -- died --
+L89116 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ Jesus, Karen, you're breaking my heart here --
+L89115 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ -- but then I remember what an ass-hole you were and I'm snapped back to reality.
+L89114 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Sometimes --
+L89113 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ Tell me something, honestly, you ever have second thoughts about us?
+L89112 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ He looks different now, burns are less extreme, some of these wounds have closed up --
+L89111 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ What?
+L89110 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ That's weird --
+L89109 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ Just the blood sample from the pericardial sac.
+L89108 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ You haven't started in on the internal organs?
+L89107 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ No problem.
+L89106 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Five minutes, not a second more. And I don't want to hear a word about "us".
+L89105 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ This is purely professional curiosity, Karen, I swear.
+L89104 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I thought you promised to give me some distance?
+L89103 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ It's not a joke. I've got the stiff sitting in the morgue right now -- look, just come up and see him, okay? Five minutes, that's all I ask.
+L89102 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ Curtis, it's three in the morning. I'm really not in the mood for one of your practical jokes.
+L89100 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ What about the chemistry panel?
+L89099 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ The red blood cells are biconvex, which is theoretically impossible. They're hypochromic, there's virtually no hemoglobin in them.  Look at the PMNs, they're binucleated, they should be mononucleated.
+L89098 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ I don't know --  Look at this blood smear --
+L89097 +++$+++ u4082 +++$+++ m272 +++$+++ CURTIS +++$+++ Then what is it?
+L89096 +++$+++ u4086 +++$+++ m272 +++$+++ KAREN +++$+++ This isn't human blood.
+L89386 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ The other elders will never let you get away with this!
+L89385 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ How do you like that? Right on time.
+L89191 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Perhaps.
+L89190 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ You're wasting your time, Frost. Far greater scholars than you have tried to decipher these words. Whatever secrets they hold have been lost.
+L89189 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Please. You and the other Elders wouldn't know what to do with these texts if your lives depended on it.  Which, of course, they do.
+L89188 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ These archives are restricted to members of the House of Erebus.
+L89146 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Someone who's sick of living off scraps. The coming age belongs to us, not the humans!  When the final war between our races comes, who do you want leading the charge?
+L89145 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ The shadows suit us, Frost. We've existed this way for thousands of years. Who are you to challenge our ways?
+L89141 +++$+++ u4083 +++$+++ m272 +++$+++ DRAGONETTI +++$+++ He is an abomination!
+L89140 +++$+++ u4084 +++$+++ m272 +++$+++ FROST +++$+++ Study him. Unlock the secrets of his DNA. He's the key we've been looking for.

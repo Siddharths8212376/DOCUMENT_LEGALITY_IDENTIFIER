@@ -1,0 +1,200 @@
+L565010 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Yes.
+L565009 +++$+++ u8050 +++$+++ m545 +++$+++ SCHWARTZ +++$+++ Now on that morning, did there come a time, Nicole, when you left your parents' house?
+L565105 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Someplace where no one knows her.  Someplace strange and new.
+L565104 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ There's talk of that.
+L565103 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ She'll move away.
+L565102 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ It's too late for that.  She can't drive the bus anymore.  The school board saw to that right off.
+L565101 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Will the police do anything to her?
+L565100 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ I don't know.
+L565099 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ What's going to happen to Dolores?
+L565098 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Okay.
+L565097 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ How about Sunday night?  That's always the best time.
+L565096 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Yes.
+L565006 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Great.
+L565005 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Well, okay.  I'll take you about nine-thirty in the morning.  That's okay with you?
+L565004 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ He couldn't look at me.  But I looked at him.  Right at him.  His secret was mine now.  We used to share it.  But not anymore.  Now, I owned it completely.
+L565003 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ I mean I'm a wheelchair girl now. It's hard to pretend I'm a beautiful rock star.  Not like you used to tell me.  Remember, Daddy?  All the people that were going to discover me?  Where are they now?
+L565002 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ What do you mean?
+L565001 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ You seem...I don't know...well, distant, I guess.  Hard to talk to.
+L565000 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Great.
+L564999 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Nicole, tomorrow Mr. Stephens wants you to make your deposition at the courthouse.  I thought I'd take you over.
+L564998 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ No.
+L564997 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Are you sleeping?
+L564954 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ As opposed to this T.V.?
+L564953 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Nothing good on your T.V.?
+L564952 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Nothing.
+L564951 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ What are you up to, Nicole?
+L564859 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Well, Mr. Stephens is representing several families.  The Ottos, the Walkers, us, and I think a couple more.  Mr. Stephens is suing the town for negligence.  He's sure that the accident could have been avoided if they had done their jobs right. He's a very smart man.
+L564858 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ How will he do that?
+L564857 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Partly.  But there's a lot the insurance doesn't cover.  That's one of the reasons we have a lawyer.  To make sure the insurance gets paid and to help us look after the rest.
+L564856 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ What about insurance?  Doesn't insurance pay for these things?
+L564855 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ You're going to need special care for a long time to come.  It's not going to be easy.  Not for you, not for any of us.  Because we love you so much.  And it's going to cost money.  More than we can imagine.
+L564852 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ But you didn't lose me.
+L564851 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ It's because of the accident, Nicole.  Most people in this town whose kids were on the bus have got lawyers.  A lot of people...well, people in this town are very angry. Us included.
+L564844 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ My lawyer?  Why do I need a lawyer?
+L564843 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Well, yes.  He's your lawyer too.
+L564842 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ You and Mom have a lawyer?
+L564841 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ He's a lawyer.  He's our lawyer.
+L564828 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Oh.  I better get some spackle.
+L564827 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ That's too high.  I'll never reach it.
+L564824 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Sure.  I'll fix it right away.
+L564823 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ The door needs a lock.
+L564821 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ And I had to widen a few doors. You'll see.
+L564820 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ It's okay.
+L564819 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Do you like the colour?
+L564818 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Very slick.
+L564817 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Pretty slick, eh?
+L564816 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ The ramp?
+L564815 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ How do you like it, Nicole?
+L564802 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Don't even try to remember.
+L564801 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ They say I'm lucky because I can't remember the accident.
+L564687 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Does it fit?
+L564686 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Mrs.  Ansel's clothing.
+L564685 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ What's that?
+L564684 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Nothing.
+L564683 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ What took so long?
+L564428 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Just the way Dolores gets so excited about bringing the kids to check out the animals.  It's like the biggest thing in her life.
+L564427 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ What's so funny?
+L564415 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ I am.  Really.  It was awesome.
+L564414 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ You don't sound like one hundred percent absolutely sure.
+L564413 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ Of course.
+L564412 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ You mean it?
+L564411 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ You're going to blow everyone away.
+L564410 +++$+++ u8046 +++$+++ m545 +++$+++ NICOLE +++$+++ Really?
+L564409 +++$+++ u8049 +++$+++ m545 +++$+++ SAM +++$+++ That was great.
+L564470 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ You don't know that.
+L564469 +++$+++ u8053 +++$+++ m545 +++$+++ WENDELL +++$+++ Yeah, well, they probably smoke weed.
+L564458 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ The Ottos.
+L564457 +++$+++ u8053 +++$+++ m545 +++$+++ WENDELL +++$+++ Don't even think of the Bilodeaus or the Atwaters.  They're all inbred.
+L564456 +++$+++ u8053 +++$+++ m545 +++$+++ WENDELL +++$+++ Charlene's over at the Spread Eagle every other night.  Sleeps with whatever she can get her hands on. She'll go down for a pat on the head and a fistful of peanuts.
+L564455 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ But Charlene...
+L564454 +++$+++ u8053 +++$+++ m545 +++$+++ WENDELL +++$+++ That sonofabitch owes thousands to the bank and half the businesses in town.  He's about to lose his house and car.
+L564451 +++$+++ u8053 +++$+++ m545 +++$+++ WENDELL +++$+++ Yeah, right.
+L564450 +++$+++ u8048 +++$+++ m545 +++$+++ RISA +++$+++ Well, there's the Hamiltons.  Joe and Shelly Hamilton.
+L565478 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ That's the horse!  Shotgun - Shotgun in the fifth!
+L565477 +++$+++ u8055 +++$+++ m546 +++$+++ BARTHA +++$+++ Waiter, the check.  This man is trying to hold a gun to my head!
+L565476 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ Where are we running?  What am I missing here?
+L565468 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ Hitler!
+L565467 +++$+++ u8055 +++$+++ m546 +++$+++ BARTHA +++$+++ Will you mind your own business!
+L565464 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ Oh, are you a spy for the other side?
+L565463 +++$+++ u8055 +++$+++ m546 +++$+++ BARTHA +++$+++ That's right!  Tell him, so I can read it in Hunsecker's column first!
+L565462 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ It's compensation, Leo, for the marginal life we lead.  Sidney, did you hear the story about the cloak-and-suitor who -- ?
+L565461 +++$+++ u8055 +++$+++ m546 +++$+++ BARTHA +++$+++ You ought to stop this nonsense, Loretta, these two dollar bets.
+L565454 +++$+++ u8070 +++$+++ m546 +++$+++ WIFE +++$+++ How do you do, Mr. Falco.  If you know anything about horses, sit a minute.  Help yourself to a glass of this N.Y. State champagne - that's what my husband buys me.
+L565453 +++$+++ u8055 +++$+++ m546 +++$+++ BARTHA +++$+++ Loretta...Sidney Falco...
+L565446 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Thanks, I see him...
+L565445 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ He's somewhere...
+L565444 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ Yeah, having supper with the Mrs. She's over there.
+L565443 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Just hopping tonight.  Leo Bartha been in?
+L565442 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ Hello, Sidney.  Wanna table?
+L565305 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ A Senator, an Agent and Something - With - Long - Red - Hair.
+L565304 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Alone or surrounded?
+L565303 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ But of course...
+L565302 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Is "he" inside?
+L565301 +++$+++ u8056 +++$+++ m546 +++$+++ CAPTAIN +++$+++ How are you tonight, Mr. Falco?
+L565909 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I doubt that it matters any more.
+L565908 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ I could think of better places to meet her, instead of here.  He lives on the whole top floor.
+L565769 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I guess you're right, but -
+L565768 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Not that I'm convinced, but you'll never prove it in a million years.  Steve, you'll do what you want, but it can't hurt; he offers you an olive branch - so today like olives!
+L565767 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I still think he's responsible for the smear.
+L565660 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ We're on our way there now...
+L565659 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I want to speak to Miss Hunsecker, please.
+L565655 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ ...excited with good reason, I wanted to say.  Because this endangers the future of the whole quintet...
+L565654 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Don't apologize for me, Frank!
+L565653 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Boys, this gets nobody nowhere - you're over excited, Steve and -
+L565643 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I thought you might have a faint idea of how this item originated.
+L565642 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Excuse me, Steve.  I said namely you shouldn't go around wild, blaming people without justification.
+L565254 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ You don't like it, do you.  I think she will accept, but I'm not sure. She may be too dependent on her brother.
+L565253 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Did she accept?
+L565228 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ The next time you want information, Falco, don't scratch for it like a dog - ask for it like a man!
+L565227 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Come on boys, break it up...
+L565658 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Then what are you doing here?  Go over there and fight!  If Van Cleve fires your boy, it gives a lie the ring of truth!
+L565657 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ ...People catch on quick to such an item.  Van Cleve already called me - he's firing the quintet.
+L565178 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ I don't like this threatening attitude.  When it comes to it, what the heck is it your business what they do, this boy and girl...
+L565177 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Listen, Frank, you'd better make sure you're telling me the truth.
+L565176 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Four five nights ago.  That's how I know the romance is off.  Also Steve's in a very bad mood.
+L565175 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ That's a nice tour.  All booked?  When was Susie around here last?
+L565174 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Coupla weeks.  For eight weeks.
+L565173 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ When do these hot-headed boys of yours go on the road?
+L565172 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Not in those exact words - you know what a temper he's got.
+L565171 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You told him that?
+L565170 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Yeah, and it's the truth, to the best of my knowledge.  And, frankly, I'm glad.  For Steve's sake, I'm glad, not yours.  I manage these boys and I got their best interests at heart.  Steve shouldn't get mixed up with no bimbo at his age.
+L565169 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You told me that your boy was washed up with Susie Hunsecker, didn't you?
+L565168 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Looka, Sidney, you're my own sister's son, but where does that give you the right to call me a liar?
+L565167 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Frank, I think maybe you lied to me.
+L565166 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Robard's my client.  I did it for him and his club, not your boys.
+L565165 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Thanks for the publicity spread you got the boys for the benefit tomorrow.
+L565164 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ I only had a few hours.
+L565163 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ See my mother?
+L565162 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Went over to Philly yesterday an' seen the folks...it's nice you send them the fifty a month...
+L565161 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ And with ten percent of his future, you're great, too, Frank.
+L565160 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ That's a lollipop that, boy.  The kid is only great.
+L565159 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Your nephew doesn't want a drink.
+L565158 +++$+++ u8057 +++$+++ m546 +++$+++ D'ANGELO +++$+++ Joe, give my nephew a drink.
+L565556 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ Hurry back.
+L565555 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Blessings on thee, the both...well... Gotta run now.  See you two kids later!
+L565531 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Give me a chance --
+L565530 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ I hate J.J. -- but not that much at this moment...
+L565523 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ Right!
+L565522 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Otis was outraged when I told him Van Cleve was going to fire you. Tell him not to pay any attention to anything you-know-who says about you-know-what.  Right, Otis?
+L565521 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ Friends call me Otis - sometimes Tricky Otis.
+L565503 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I see you're full of human feelings...
+L565502 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ And, instead, he printed his heel in your face?
+L565501 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You don't know that lunatic yet? Whims - egotistic whims!  Like the gag - when you got him for a friend, you don't need an enemy!  That's what the fight with Bartha was about. "Leo", I says, "Hunsecker froze me out.  So I'm eating humble pie this month - please print me an item."
+L565498 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ If it were that easy, you wouldn't find an empty phone booth for the next two hours...
+L565497 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Call him up and ask - he might drop dead with shock.
+L565496 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ How is dear old J.J. by the way?
+L565494 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I'm late for a date with a dame.
+L565493 +++$+++ u8058 +++$+++ m546 +++$+++ ELWELL +++$+++ I see Bartha gave you cold tongue for supper.  Hey, wait a minute!
+L565841 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Ten'll get you fifty you're playing hookey from a padded cell!
+L565840 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ But my day with Susie isn't over yet and--
+L565839 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Son, I don't fancy shooting mosquitoes with elephant guns.  So suppose you just shuffle along and call it a day...
+L565838 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Why?  Because I don't like the way you toy with human lives? - Your contempt and malice?  Because I won't be the accomplice of your sick ego - and the way it's crippled Susie...?  You think of yourself - you and your column - you see yourself as a national glory...but to me, and thousands of others like me, you and your slimy scandal, your phony patriotics - to me, Mr. Hunsecker, you are a national disgrace!
+L565837 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ And what have I done to her, besides not buy her a new fur coat lately?  Sidney, you were right -- the boy's a dilly.
+L565836 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ No, I don't care about you -- you're fantastic.  My whole interest, if it's not too late, is in Susie...and how to undo what you've done to her...
+L565835 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ If looks could kill, I'm dead...
+L565830 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Son, you raise your voice again and you'll be outa here on your golden pratt!
+L565829 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I'm trying to get Susie to stand up to you.  But your manner is so threatening that she's afraid to speak!
+L565828 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ May I lift my eyebrows?  What is this?  What are you trying to do?
+L565827 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Those "dears" sound like daggers. May I suggest that you stop DARING her to speak?
+L565826 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susie, as always, is free to say anything she thinks.  Go on, dear, say exactly what's on your mind, dear.
+L565820 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I'm afraid I can't cope with them.
+L565819 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ You hear that, Susie...  Continue please...
+L565818 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Mr. Hunsecker, you've got more twists than a barrel of pretzels.
+L565814 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Wait a minute, I haven't handed over punishing privileges to you YET!  Put the whip down and I might respect what you're saying...
+L565813 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Right now you're in no position to ask questions!  And your snide remarks---
+L565812 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I don't take kindly to you and Falco selling me ethics.  Who's the injured party here, you?
+L565803 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ He's here, isn't he?  Do you think, sir, when he dies he'll go to the dog and cat heaven?
+L565802 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Why do you keep coupling me with Falco?
+L565801 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ No punch line.  Maybe I was just admiring your know-how---yours and Falco's.
+L565800 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Frankly, son, you lost me on that last hill.  Just give us the punch line...
+L565799 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Well, just be careful you don't knock her down, huh?
+L565798 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Nuts!  I'm not here as an artist! I'm here as an average Joe, who happens to love your sister Susie!
+L565797 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Just exactly what are you so hot about?  I mean, I know it's a difficult thing to be an artist in this crudest of possible worlds, but --
+L565796 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Son, lots of people tell me I'm a gifted man, but I still can't see around corners.
+L565795 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Is it news to you?
+L565794 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Why, has he bothered you before?
+L565793 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Does he have to be here in our hair?
+L565785 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Serious as a deacon...I like it.  I like your style, son!  In a world of old rags and bones, I like it! For instance, take Sidney.
+L565784 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ No, I wouldn't...
+L565783 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Take it easy, Susie.  He wouldn't be much of a man if he didn't understand my concern.  Would you, son?
+L565779 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ I'll by that, son.  Now, you owe ME a favor.  Be good to my kid sister...
+L565778 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Mr. Hunsecker, there's nothing to that smear.  You have my sincere word...
+L565777 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ You've been very kind about it, Mr. Hunsecker. HUNSECKER Give Susie credit for that.  I took her word that there was nothing to the smear.  Matter of fact, I'll have my say about smears on the show today.  That's why I'd like YOUR personal assurance, too.
+L565776 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Well, son, looks like you went out and bought yourself a packet of trouble...
+L566049 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susan!...
+L566048 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ No!  NO!  Don't touch me!
+L565844 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ No.  I'm going home.
+L565843 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ You in a mood, Susie, to run over to Milgrim's later and buy a few new frocks?
+L565833 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Sometimes I think ALL men are fools!...
+L565832 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susie, I'm sorry if---
+L565817 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Before you leave, son, I'll answer your question---Susan Hunsecker is the injured party here!  Or will I be hearing next that I don't even have my sister's welfare at heart...
+L565816 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ No...
+L565815 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susie, did you know about this accusation...?
+L565782 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ J.J., Steve isn't...
+L565781 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susie likes to keep her girlish secrets.  But in her heart of hearts I imagine, Dallas, that she fancies you in an uncommon way. Now, what about YOU, son?  Not just tom-catting around...I hope?
+L565742 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ A man couldn't ask for a squarer shake.  Let me have Billy Van Cleve...  Don't ever tell anyone, Susie, how I'm tied to your apron strings...  Billy!  J.J.!  What's this about that boy?  What boy?  Where are we, lug, in a drawing room comedy? You're brain is warming up, sweetheart - yeah, Dallas!...  No, don't explain your point of view, but...
+L565741 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ When I'm certain, I'll let you know...
+L565727 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ Susie, I want to help you--, there's nothing I won't do for you. You're all I've got in the whole, wide world.
+L565726 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I'm taking up the situation with you now...
+L565725 +++$+++ u8059 +++$+++ m546 +++$+++ HUNSECKER +++$+++ I started to say we're drifting apart.  A year ago, in your wildest dreams, would you have walked by that door without taking up this situation with me?  Today I had to call you in!

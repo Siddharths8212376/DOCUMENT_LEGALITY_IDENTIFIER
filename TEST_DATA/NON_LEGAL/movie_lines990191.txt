@@ -1,0 +1,200 @@
+L437836 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Respect.
+L437835 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ What do you get for winning?
+L437834 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Every other Sunday.  I'm heavyweight champion of the West Virginia.
+L437833 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ How often you fight like this?
+L437832 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ I'm Evelyn.  And I'm just a nurse.  But I'm not playing golf, and that cut needs sewing, or else it's gonna make a big lumpy scar.  Whatta ya say?
+L437831 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Dorie Miller, 'Mam.
+L437830 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ What's your name?
+L437829 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Yes'm.
+L437828 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Win?
+L437827 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Boxin'.
+L437826 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ How'd you get this?
+L437825 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Wait, let me look at that... You better come in here.
+L437824 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ Sorry to trouble you.
+L437823 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Our doctor's gone too.
+L437822 +++$+++ u7002 +++$+++ m468 +++$+++ DORIE +++$+++ 'Scuse me, 'Mam.  All the ship's doctors is golfing, and I couldn't find nobody to look at this.
+L438251 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ It was.  I couldn't have you go away, wherever it is...to war...without knowing something.  You think I made a choice, of Danny over you.  I didn't.  I didn't have a choice.  I'm pregnant.
+L438250 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ It must of been a convincing letter.
+L438249 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ They were bringing back a ship full of wounded and needed extra nurses along.  I wrote Colonel Doolittle, and told him I needed to see you before you go.
+L438248 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ What?...
+L438183 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ That's what I have to tell you, Rafe.  It wasn't a choice.  It --
+L438182 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Of course I forgive you.  I know what you feel for Danny is real.  And your choice is your choice.
+L438181 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Rafe... No.  You forgive me.
+L438180 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I need to tell you something.  I didn't know what it was to lose somebody, to see death and find how much it scares you. That you haven't lived and loved enough. I didn't understand.  Forgive me.
+L438179 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Rafe --
+L438144 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ There's nothing you can do here, they'll die or they won't, we just --
+L438143 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ What else can we do?
+L437933 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ It's not that I didn't mean everything I wrote.  It's just that -- I thought you were dead.  And now --
+L437932 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Don't worry about that.  Guys away from home, lonely, good-hearted women try to cheer them up.
+L437931 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ It's not your fault, Rafe.  The letter I wrote you, they --
+L437930 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ It's all right.  Danny always said I see things with my emotions instead of my eyes.
+L437928 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I'm so sorry for what you must've gone through, but I'm back.
+L437927 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ It's been...so different, being so sure you were dead.
+L437926 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Nothing that won't heal.  I guess.
+L437925 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ I'm just...so amazed, so glad to know that you're okay.  You are okay, aren't you?
+L437924 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I called my folks, then Colonel Doolittle.  The Colonel sent a man to pick me up.  They wanted to debrief me. I told the Colonel I needed to see somebody first, and he had a supply flight heading out in an hour.  I've done a lot of talking.  You haven't said anything.
+L437922 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ ...Survive?  I jumped in a patch of fog, and nobody could see me.  I hit the water hard.  And it was so...cold.
+L437921 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ How did you?...
+L437920 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I saw you, I couldn't go in, I...just stood there wondering if you knew.  You looked...sad, and I had to sit down a minute.
+L437919 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Why were you sitting here, instead of...
+L437918 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I sent telegrams, I guess the military traffic held them up.
+L437663 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Do one thing for me, before you go.
+L437662 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Maybe not.  But I need you to know.  I love you.  And I will come back.  I'll find a way.  And then we'll get a chance to know if what I felt the first moment I saw you, and every minute since then, is real.
+L437661 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ I don't know if you can choose that, Rafe.
+L437660 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Evelyn...you know the line -- let's make tonight memorable.  What I feel about you makes it impossible for me to say something like that.  If I don't come back, I don't want to saddle you with regret and sadness you'll carry the rest of your life.
+L437659 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I had to tell you in person.  Because there's something else I need to say.
+L437658 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ You waited til tonight to tell me?
+L437657 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Colonel Doolittle pulled the strings, and put me on loan to the R.A.F.  They need pilots, and we need experience.  I leave tomorrow.
+L437656 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ But you're in the U.S. Army, how could you --
+L437655 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ I'm going to the war.  The real war. Hitler's taken Europe.  The Brits are hanging on by their fingernails, and If they lose, there'll be more people killed than anybody can imagine.  And not just there, but here.
+L437654 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ We're all going away.
+L437653 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ There's one thing I have to say.  I'm going away.
+L437652 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ It surprises me that I'm not the only one on this balcony who feels that way.
+L437651 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ The only reason it's hard to say is that I keep thinking I don't have the right to say it.  But I've got to because it's true.  I love you.  That must surprise you.
+L437650 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Whatever you're trying to tell me isn't good, is it.  Or it wouldn't be so hard to say.
+L437632 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ I was hoping to meet him.
+L437631 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ No, he...got some news today.  He'll be okay, he just didn't feel like coming tonight.
+L437630 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Danny's not coming?
+L437628 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Nice to meet you, Betty.
+L437627 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ Oh, this is Betty.
+L437626 +++$+++ u7004 +++$+++ m468 +++$+++ EVELYN +++$+++ You too, Lieutenant.
+L437625 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Hello, Lieutenant.  Good to see you.
+L438133 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ And if we fail, and lose our carriers, we destroy our ability to fight them at all.  As soon as the second wave returns, we will withdraw.
+L438132 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ If we launch the third wave and annihilate their fuel depots, we destroy their ability to operate in the Pacific for at least a year!
+L438127 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ The second wave has not returned.  And we have no idea where their carriers are. What is the damage report?
+L438126 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ We have achieved complete surprise!  The first wave is returning, the second is attacking now, and we have lost only a few planes.  We can launch a third wave, Admiral.
+L438008 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ We must go ahead.  This is our moment.
+L438007 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ We have a fighter screen up, in case we are attacked, Admiral.
+L438006 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ We have achieved surprise, but their carriers are not in port.  I don't like this.
+L437859 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ A brilliant man would find a way not to fight a war.
+L437858 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ Brilliant, Admiral.
+L437857 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ Set up teams of radio operators to send out messages the Americans will intercept, concerning every potential American target in the Pacific.  Include Hawaii -- the clutter will be more confusing that way.
+L437856 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ If we achieve surprise, they will offer little resistance.
+L437855 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ Everything real except the fact that no one is shooting back at us.
+L437775 +++$+++ u7005 +++$+++ m468 +++$+++ GENDA +++$+++ I have arranged a live fire drill -- with your permission.
+L437774 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ Uncharged torpedoes have different balance.
+L438330 +++$+++ u7012 +++$+++ m468 +++$+++ ROOSEVELT +++$+++ God help them.
+L438329 +++$+++ u7006 +++$+++ m468 +++$+++ GENERAL MARSHALL +++$+++ The Chinese are sending out search parties to try to find the crews before the Jap patrols do, if any of the planes make it.
+L438328 +++$+++ u7012 +++$+++ m468 +++$+++ ROOSEVELT +++$+++ So those brave men are flying blind and running out of fuel.
+L438327 +++$+++ u7006 +++$+++ m468 +++$+++ GENERAL MARSHALL +++$+++ There've been some complications, Sir. The Chinese didn't receive our request for homing beacons until is was too late to get them set.  And the planes had to take off so early they may lack fuel to make the mainland anyway.
+L438326 +++$+++ u7012 +++$+++ m468 +++$+++ ROOSEVELT +++$+++ Have the planes made it to China?
+L438325 +++$+++ u7006 +++$+++ m468 +++$+++ GENERAL MARSHALL +++$+++ We have bombed Tokyo, Mr. President. Radio Tokyo interrupted it's own broadcast to make the announcement.
+L438174 +++$+++ u7006 +++$+++ m468 +++$+++ GENERAL MARSHALL +++$+++ We've done studies.  We're confident we would turn them back eventually...after they'd gotten as far as Chicago.
+L438173 +++$+++ u7012 +++$+++ m468 +++$+++ ROOSEVELT +++$+++ What if the Japanese did invade?
+L437803 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Crank her!
+L437802 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ I have'na been able ta --
+L437800 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ Fook ya dooble!
+L437799 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ Learn English, then!
+L437798 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ Fook ya!
+L437797 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ And if you don't give me a plane that can handle combat, you better start learning to speak German.
+L437796 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ If ye'd wanted a bloody Cadillac ya should'a stayed in the bloody States!
+L437795 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ All of 'em.
+L437794 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ Well which of those three ya want fixed?
+L437793 +++$+++ u7010 +++$+++ m468 +++$+++ RAFE +++$+++ The struts are loose, the hydraulics are leaking, and the electrical system's shorting out in the cockpit.
+L437792 +++$+++ u7007 +++$+++ m468 +++$+++ IAN +++$+++ Leapin' Jesus!
+L437717 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ The Americans themselves have made it possible.  We will annihilate them in a single attack -- at Pearl Harbor.
+L437716 +++$+++ u7009 +++$+++ m468 +++$+++ NISHIKURA +++$+++ You see us as capable of such a blow?
+L437715 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ The Council knows I have opposed fighting the Americans.  No matter how great our resolve, they have resources beyond ours. If we must go to war, there is only one way -- deal them a blow from which it will take them years to recover.  In that time we can conquer all of the Pacific, and they will have no choice but to ask for peace.
+L437714 +++$+++ u7009 +++$+++ m468 +++$+++ NISHIKURA +++$+++ You have something to say, Yamamoto?
+L437712 +++$+++ u7009 +++$+++ m468 +++$+++ NISHIKURA +++$+++ The time has come to strike!  Or to sit and let the Americans cut off our oil and our future.  I know what you whisper to the others, Yamamoto -- that the Americans are strong.  Yet look at their leader.
+L437711 +++$+++ u7013 +++$+++ m468 +++$+++ YAMAMOTO +++$+++ If knowledge of opponents and careful calculation of danger is taken as weakness then I have misunderstood what it means to be Japanese.
+L437710 +++$+++ u7009 +++$+++ m468 +++$+++ NISHIKURA +++$+++ So you join us, Admiral.  Some of us thought your education at an American university would make you too weak to fight the Americans.
+L439323 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It's her 18th birthday, I want to show her off.
+L439322 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ What's Peggy Sue going to do at your lodge meeting?
+L439309 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I've been trying to drag it out of her for years.  You know, dreams are fascinating business. 'Specially where you see the future.
+L439308 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ I'm not telling.
+L439307 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ What's it going to be, Elizabeth? Seventy—five? Eighty?
+L439300 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ I've already got some in. I was thinking of making a pie for dinner tonight.  How would you like that?
+L439299 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Quite a bit more rain than usual this year. I hope it doesn't spoil the rhubarb.
+L439298 +++$+++ u7019 +++$+++ m469 +++$+++ ELIZABETH +++$+++ Peggy Sue!
+L439297 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Hello, Lilla!
+L439342 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It wouldn't be a lodge without hats.
+L439341 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Do you have to wear that hat?
+L439333 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ The last one was six hundred years ago. It's about time for another one.
+L439332 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I hope so. At least I got to see you and Grandma.  Has it ever worked before?
+L439331 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I may be an old fool, but I think we can help you.
+L439330 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Stag movies. Smokers.
+L439329 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What does Grandma think you do at your meetings?
+L439327 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Good—bye, Grandma.
+L439326 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Let's go.
+L439321 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ I'd take better care of my teeth.
+L439320 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Grandpa, if you had a chance to do it all again, what would you do?
+L439319 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It's your grandma's strudel that's kept this family together.
+L439318 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That never changes.  You know, when you and Grandma are gone, the family's gone. I never see the cousins anymore.
+L439317 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ It's gonna rain again. Every time I wash the car, it rains.
+L439312 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I remember that book!  Grandpa, Grandma, I want to tell you something.
+L439311 +++$+++ u7014 +++$+++ m469 +++$+++ BARNEY +++$+++ Well, I like to speculate. This book I'm reading right now, a woman in Colorado says she lived in Ireland a hundred and fifty years ago. Her name was Bridey Murphy- and she gives names and dates and where she lived. She was hypnotized. Big bestseller.
+L439310 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Do you believe in all of that?
+L438434 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't know. Reunions do funny things to people.
+L438433 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Why are you so nervous? What is the matter with you today?
+L438432 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I feel ridiculous. Maybe I should go home and change.
+L438431 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Not from the guy with the lowest prices in town.
+L438430 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Mom, lots of people are separated and divorced.
+L438429 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Borrow?! This was my dress.  Maybe it's a mistake. What if I'm the only one? I don't even want to go. Everybody's just going to say...  Hi.. Where's Crazy Charlie?
+L438428 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Hey, you're a hip chick. You look like you stepped right out of Life magazine. Any time you want to borrow it again, just ask.
+L438427 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Then we'd both have a miserable time. What do you think?
+L438426 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Come on Mom. Give him a break. He's missing the reunion because of you. You know he wants to go.
+L438425 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ But I want you and Scott to understand.  Do you think he loves Janet? Maybe he's smashed too many fortune cookies.
+L438413 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ It looks great. Don't change the subject. You know how busy Saturdays are. And I can't do the icing. I always mess up the roses. You're not being very responsible.
+L438412 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ How do you like my hair?
+L438411 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ r was worried about you  You didn't even call. You're always on my case if I don't call..
+L438410 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ This is my old friend Carol.. I told you about her.
+L438409 +++$+++ u7015 +++$+++ m469 +++$+++ BETH +++$+++ Where were you? You said you'd be back at twelve.
+L439263 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Look, Carol, maybe Walter's done you a big favor. You always said you wanted to get out of town. Go for it. And be happy, goddamnit, I'm rooting for you.
+L439262 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ What a I going to do for the rest of my life? I don't have a boyfriend anymore.
+L439261 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Welcome to the singles' scene.
+L439260 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ After Charlie told Walter that he broke up with you because he wanted to play the field, Walter decided he should do the same thing.
+L439259 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What happened?
+L439258 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ It's that jerk Walter.
+L439257 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ What's the matter?
+L439093 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Aren't we a little old for that?
+L439092 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Okay. But let's have a girls night soon. Maybe a pajama party.
+L439084 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That loud—mouthed little bitch~
+L439083 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I bet Dolores told Charlie.
+L439080 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Come on. What's with you and Michael?
+L439079 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ You're kidding...? Carol, you have beautiful hair.
+L439078 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Just what you underlined.
+L439077 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Did you memorize the whole book or only the good parts?
+L439071 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ On what?
+L439070 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ All right. What's the scoop?
+L438880 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He does?
+L438879 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Yeah. You're so lucky. He really loves you, too. He's always telling Walter how wonderful you are.
+L438878 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ He is kind of cute, isn't he?
+L438713 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ That's because you' re not a total moron like they are.
+L438712 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't get it.
+L438577 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Yes. Let's stay in touch.
+L438576 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I'll call you Later.
+L438575 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ That's okay. I'm sure I'll remember the way.
+L438574 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ We're going to take you home.
+L438573 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Maddy, what did you do to your hair?
+L438572 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Were taking you back to the nurse.
+L438571 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Where is it?
+L438553 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Go on. You can do it.
+L438552 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I can't. It's all too much.
+L438551 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ They're waiting. Come on.
+L438525 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Well, besides Charlie, of course.
+L438524 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ The only one?
+L438515 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Who knows. Remember...  Whatever Walter wants...
+L438514 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Your first boyfriend. What do you think? Any sparks left?
+L438513 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Hi, Peggy. God, that Walter Getz	can still dance.
+L438475 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Wouldn't we all.
+L438474 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Oh, it's not so bad. I have two wonderful kids, my own business.  Still, knowing what I know now, if I had the chance to do it all over again, I'd sure do things a lot differently.
+L438473 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ After you got knocked up, my mother didn't want me to talk to you. She thought it was contagious.
+L438472 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ It's not the place. I don't buy that.  Trapped in the same town forever. The price she would pay for her teenage lust.
+L438471 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You should have left here years ago, like I did.
+L438470 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ So he started having affairs, and you got depressed.
+L438469 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ We did for a long time. We just got married too young, and ended up blaming each other for missing out on things.
+L438468 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You just have to remember... men are like houses and trade upwards... I thought you had a pretty good marriage.
+L438467 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ I don't know how you do it. I've never even dated anybody but Charlie.
+L438466 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Welcome to the singles scene.
+L438408 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You're probably the only one who could carry it off.
+L438407 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ 1 just did it for the reunion. I thought it would be fun.
+L438405 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Peggy Sue!
+L438404 +++$+++ u7025 +++$+++ m469 +++$+++ PEGGY +++$+++ Carol!
+L439091 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Yeah. I've gotta go. Arthur's picking me up soon.
+L439090 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ Don't be silly. It's Saturday. Date night!
+L439086 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ You better watch out for her. She's after Charlie.
+L439085 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ Peggy Sue!
+L439076 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ ) Oh, Maddy, grow up. It says in LOVE WITHOUT FEAR that "the tongue kiss as a means of genital stimulation is widely practiced and has much to commend it". Page eighty—six.
+L439075 +++$+++ u7020 +++$+++ m469 +++$+++ MADDY +++$+++ That's disgusting!
+L439074 +++$+++ u7016 +++$+++ m469 +++$+++ CAROL +++$+++ I hear she does more than talk with her mouth.

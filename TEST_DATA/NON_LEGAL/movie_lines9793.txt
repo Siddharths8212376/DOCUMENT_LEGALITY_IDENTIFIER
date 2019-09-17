@@ -1,0 +1,200 @@
+L193934 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ How do you know all this?
+L193890 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Right. Keep goin' straight. Two blocks down, turn right.
+L193889 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Cease fire with the bullshit.
+L193888 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I couldn't help it, Snake. I had to shoot you. Cuervo made me do it, I swear to God, man.
+L193887 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Later.
+L193886 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Sure, Snake. No problem.  You gonna kill me?
+L193885 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Listen up. I need directions. Downtown. Somebody named Hershe.
+L193823 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ I could've helped you. We coulda made a deal with Cuervo. If you'd listen...
+L193822 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Not yet.
+L193820 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Oh, man... You didn't have to hit me, Snake. I can help you.
+L193819 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where are they going?
+L193771 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Right over there.
+L193770 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where is it?
+L193769 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ All right. Anything for you, Snake.  Although I was going to take you to Cuervo Jones' place.
+L193768 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I said pull over.
+L193767 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ No way.
+L193766 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Stop the damn car.
+L193765 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Cuervo Jones' right-hand man. One tough hombre. You don't understand, Snake. Cuervo Jones wants to unify the island. We're on the move, man. Big time.
+L193764 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Delgado?
+L193763 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Too many people know where you're going, Snake. That's not good. Delgado and his men were back there waiting for you.
+L193686 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Cuervo's got a place near Venice, where the big birds fly. Nice digs, too. I've been there, y'know.
+L193685 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Location.
+L193684 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Who? You mean Cuervo Jones? He's the man with the juice, Snake. Got the President's daughter. Setting up a citywide truce. Big doings.
+L193683 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where are they?
+L193681 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ Man, I'd love to have your autograph, Snake.
+L193680 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where'd they go?
+L193679 +++$+++ u5117 +++$+++ m339 +++$+++ MAP TO THE STARS EDDIE +++$+++ You're a star in your own right, you know that? Hey, I'm Map To The Stars Eddie. How you doin'?
+L193742 +++$+++ u5118 +++$+++ m339 +++$+++ PENDEJO BOB +++$+++ All the sewers are collapsed under Venice. You have to go topside. Right up there.
+L193741 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Yeah. So how do I get to Venice?
+L193740 +++$+++ u5118 +++$+++ m339 +++$+++ PENDEJO BOB +++$+++ Say, you need anything, Snake? Guns? Explosives? I can get you a crate of hellfire grenades, no problem - five hours.
+L193726 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Which way?
+L193725 +++$+++ u5118 +++$+++ m339 +++$+++ PENDEJO BOB +++$+++ Good. I want you out. This is my sewer.
+L193724 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Looking to get out.
+L193723 +++$+++ u5118 +++$+++ m339 +++$+++ PENDEJO BOB +++$+++ What're you doing in here?
+L193874 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Hershe. She lives downtown with Mojo Dellasandro in the big boat. Down that way.
+L193873 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Who?
+L193872 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ You ain't doin' so good, Snake. You need help.  You should talk to Hershe. She hates Cuervo. They used to be partners, but they split up.
+L193870 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Anaheim. Headquarters for everything. The whole town's gonna be there. Things changin' fast around here, Snake. It's not the same as the old days, man.
+L193869 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where?
+L193868 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Long gone. You'll never catch up with him now, Snake.
+L193867 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where's... Cuervo Jones...?
+L193866 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Could be a big one comin' any minute now...
+L193657 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Down that way.
+L193656 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Which way to the Hollywood Bowl?
+L193655 +++$+++ u5119 +++$+++ m339 +++$+++ PIPELINE +++$+++ Kind of a bad neighborhood, Snake.
+L193759 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Who?
+L193758 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Run, Snake...They're coming.
+L193757 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ No! Stay away, Snake. He's mucho muerte.
+L193756 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Find Cuervo Jones.
+L193755 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ What are you gonna do in Venice?
+L193754 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ It's where they live. I guess after everything happened, they just needed to do what they'd always done before. During the daytime, they just pull down the shades on their windows and sleep.
+L193753 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I know that. There are people in some of these cars.
+L193752 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ The freeway.
+L193751 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ What the hell is this?
+L193750 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ I changed my mind. I'm going with you, wherever you're going.
+L193738 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ I don't know. Somehow, I just can't leave.
+L193737 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Why don't you get out of L.A.? Take a boat to China, take an airplane to Brazil?  Earthquakes, death, shit. Why do you stay?
+L193722 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ How the hell am I supposed to know? This is your damn city.
+L193721 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Snake - what is it?
+L193719 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Sewers. Come on.
+L193718 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ How do we get out of here?
+L193716 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ The what?
+L193715 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Be careful of the bald cats. They live in these buildings.
+L193713 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ I just thought you wanted to get away. I didn't know you wanted to go someplace.
+L193712 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ This is a dead end.  You took us into a dead end!
+L193710 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Like hell I do.
+L193709 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ You need help.
+L193708 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Don't follow me.
+L193702 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ The Surgeon General of Beverly Hills.
+L193701 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Who?
+L193700 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Oh no, it's the Doctor.
+L193699 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ No screamin' shit.
+L193698 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ They live here, used to be like us. But after too many silicon implants, their muscles turned to jelly. The only way they survive is to have body parts transplanted over and over again.  Snake, nobody who comes into Beverly Hills gets out alive.
+L193697 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ What are they?
+L193694 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ A little bit. But pretty soon I'm gonna be dead. So are you, Snake.
+L193693 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Are you crazy?
+L193692 +++$+++ u5123 +++$+++ m339 +++$+++ TASLIMA +++$+++ Hi, Snake. It's so great to meet you. My name's Taslima. I'm a fan of yours.
+L194029 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ Give me the prototype.
+L194028 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Where's the anti-toxin...?
+L194003 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ Thank God.
+L194002 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Get ready, shitheads. We're comin' in.
+L193594 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I've been doin' that all my life. Might as well do it in L.A. Everybody else there is.
+L193593 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ You're running out of time.
+L193592 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Well, I'll think it over.
+L193591 +++$+++ u5121 +++$+++ m339 +++$+++ PRESIDENT +++$+++ Utopia is lost to me. My daughter is gone.
+L193590 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I can see you're real concerned about your daughter.
+L193946 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Uh-uh. Bluebacks.
+L193945 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Yeah? Greenbacks? I got ten million of them.
+L193944 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ The President's promised to give whoever helps me 1 million dollars.
+L193939 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Yeah.
+L193938 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ All of us?
+L193912 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ Yeah. With me and Texas Mike O'Shay.
+L193911 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Hershe, you were in Cleveland?
+L193910 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ You owe me. You left me holdin' everything back there in Cleveland.
+L193666 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Who ain't?
+L193665 +++$+++ u5120 +++$+++ m339 +++$+++ PLISSKEN +++$+++ I'm looking for somebody.
+L193664 +++$+++ u5122 +++$+++ m339 +++$+++ SPINAL +++$+++ Hey, what's going down, Snake?
+L197359 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ --By itself it is only a piece of steel. Its power comes from he who wields it. For now there is no one. Do as I have ordered!
+L197358 +++$+++ u5133 +++$+++ m340 +++$+++ PERCEVAL +++$+++ My King, I couldn't do it. Excalibur cannot be lost. Other men--
+L197357 +++$+++ u5133 +++$+++ m340 +++$+++ PERCEVAL +++$+++ ...I saw nothing.
+L197356 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ When you threw it in, what did you see?
+L197353 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ --Take Excalibur. Find a pool of calm water and throw the sword into it.
+L197352 +++$+++ u5133 +++$+++ m340 +++$+++ PERCEVAL +++$+++ I cannot--
+L197351 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ There is one thing left to do... Excalibur... And you must do it, Perceval. Leave my wounds, I command you.
+L197150 +++$+++ u5133 +++$+++ m340 +++$+++ PERCEVAL +++$+++ ...Perceval!
+L197149 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ In the name of God, of St. Michael, and St. George, I make you a knight. Rise, Sir...
+L197143 +++$+++ u5133 +++$+++ m340 +++$+++ PERCEVAL +++$+++ He heard Lady Guenevere's request and he said nothing. That is all.
+L197142 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Is he coming?
+L197342 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ --It is the old wound, that has been opened. I have always known it would be the gateway to my death, for it has never healed. Let my heart do its job, my King, and pump me empty...
+L197341 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ You are that and much more. You are its greatest knight, you are what is best in men. Now we will be together--
+L197340 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ My salvation is to die a Knight of the Round Table.
+L197339 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Lancelot, I will save you... Don't die.
+L197338 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Arthur.
+L197170 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ It is deep...
+L197169 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Hasn't Merlin mended your wound?
+L197162 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ But one can still keep a sword sharp riding out in the name of the King's law.
+L197161 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ They miss the battlefield. I think we do too.
+L197035 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Only give me leave to ride out again, to do what I am most able to do, and happiest doing.
+L197034 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Your deeds set an example for all other knights. For your gift, ask a gift of me.
+L197032 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I do. Rise, Lancelot, come with me.
+L197031 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ These men repented before God for their evil deeds. Those who would not, met their fate at the end of my sword.  Accept the fruit of my first quest as my wedding gift.
+L197011 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ We spared the lives of a few, so they could sail home and tell their fellows what fate they met at the hands of King Arthur's knights...
+L197010 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Lancelot, how did you fare in the North?
+L197007 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ And a great heart it is. Sir Lancelot, you will be my champion.
+L197006 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ My domain is here, inside this metal skin. And I would pledge to you all that I still own: muscle, bone, blood and the heart that pumps it.
+L197005 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I gave up my castles and my lands!
+L197004 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ But your life and lands are far from here.
+L197003 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Then make me your champion and I will always fight in your place.
+L197002 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ You are still the best knight in Christiandom. You gained a hundred advantages over me. It is I who must love you, for through your courage and patience you taught me a bitter lesson.
+L197001 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I, the best knight in the world, bested! This is a great day, for my search is over. I love you, my King.
+L197000 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Thanks to God, you are alive.
+L196991 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ It is you, sir, who knows not the virtue of humility, as a true king must.
+L196990 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ So be it, to the death.
+L196989 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Sir, your rage has unbalanced you. It seems you would fight to the death against a knight who is not your enemy, for a length of road you can ride around.
+L196988 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I sought only not to harm you, sir.
+L196987 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Fight me from your horse or on foot, but fight me. Your avoidance mocks me.
+L196986 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I will not.
+L196985 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Yield. I have the advantage.
+L196981 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I will not. You must retreat or prove your kingship in the test of arms, under the eyes of God.
+L196980 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Move aside!
+L196979 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Not a boast, sir, but a curse.  Never have I met my match in joust or duel.
+L196978 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ --That is a wild boast. You lack a knight's humility.
+L196977 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I am Sir Lancelot of the Lake, from across the sea. I am the best knight in the whole of Christiandom, and I look for the king who is worthy of my sword's service.
+L196976 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I am King, and this is Excalibur, sword of kings from the dawn of time. Who are you, and why do you block the way?
+L196975 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ I await the King himself. His knights are in need of training.
+L196974 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Move aside. This is the King's road, and the knights you joined arms against were his very own.
+L196973 +++$+++ u5129 +++$+++ m340 +++$+++ LANCELOT +++$+++ Good day to you, sir.
+L197332 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Lancelot?... It is Lancelot!
+L197331 +++$+++ u5128 +++$+++ m340 +++$+++ KAY +++$+++ He can be no other.
+L197309 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I dreamed of him too... Merlin lives! He lives in our dreams now, in that dark and shadowy place that is as strong and real as this more solid one. He speaks to us from there.
+L197308 +++$+++ u5128 +++$+++ m340 +++$+++ KAY +++$+++ Yes. He spoke to me. He said I would fight bravely tomorrow. I have never dreamed of Merlin before.
+L197307 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Of Merlin?
+L197306 +++$+++ u5128 +++$+++ m340 +++$+++ KAY +++$+++ Merlin, will I live...?  ...I was dreaming...
+L197280 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Ready my knights for battle; they will ride with their King once more. I have lived through others far too long! Lancelot carried my honor and Guenevere my guilt. My knights have fought my causes. Mordred carries my sins. Now, at last, I will rule.
+L197279 +++$+++ u5128 +++$+++ m340 +++$+++ KAY +++$+++ Perceval, you have returned!
+L197252 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ ...Gawain and Perceval, Bors and Bohort, Caradoc and Ector, and all the others--lost to me. Only the echo of their voices remains in this empty hall. All I have left is the memory of their fellowship. Echoes and memories. I am a ghost of the King that once was...  ...Mordred is real, alive, my own flesh and blood. I will see him, I must.
+L197251 +++$+++ u5128 +++$+++ m340 +++$+++ KAY +++$+++ Don't recognize him. You were trapped by Morgana's sorcery.
+L197250 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ At last...
+L197304 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Is this a dream? Tell me, Merlin!
+L197303 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ --Stories... You brought me back. Your love brought me back. Back to where you are now, in the land of dreams...
+L197302 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Where have you been these many years? Is it true that Morgana--
+L197301 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ But, I'm here.
+L197300 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ It is like a tree. The roots of the stones spread out across the land and they draw on the thoughts and actions of men. Like sap those human matters course through the stones feeding the stars that are the leaves of the tree. And the stars whisper back to men the future course of events.  But the earth is being torn apart, its metals stolen, and the balance is broken and the lines of power no longer converge. In fact, I nearly didn't make it in one piece.
+L197299 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ What is this place, Merlin?
+L197298 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ I know. I have heard noises and echoes through the stones...
+L197297 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Quiet. You'll wake the men, and they must fight tomorrow for their very lives.
+L197186 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ I cannot. I must not. Here I must stay.
+L197185 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I must do it myself. I must kill them both. Lancelot and Guenevere. Will you ride with me, Merlin?
+L197184 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ You betray the boy who drew the sword, the boy who saw the Dragon... the Dragon who moves close by, coiling and uncoiling, restless, looking down, waiting for the King to be a king...
+L197183 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Me? I have lived by the oath of king and knight.
+L197182 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ My powers fade, Arthur. I resort to cheap tricks...  Yes! I enjoy every moment of my foolishness, I join in the making of it, so no one can betray me. But you! You betray yourself.
+L197181 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ With all your powers, you are content to be ridiculed, laughed at...
+L197180 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ That is my destiny. I have a destiny, too...
+L197179 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I am alone and betrayed. By my wife, by my beloved friend, by my knights. And by you. Perhaps most of all by you. For you made me, you forged this wretched life. And like a child tired of a toy, you toss me aside, a babbling lecher trotting after my sister...
+L197166 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I didn't ask for poetry. Which is it?
+L197165 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ What?  The greatest? They blend together like the metals we mix to make a good sword.
+L197159 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ A king should be afraid, always. The enemy is everywhere. Waiting in ambush in the dark corridors of his castle, on the deer paths of his forest, or in the gray and winding paths of a more tangled forest, in here.
+L197158 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Just yes? No mad laughter, no riddles, nothing but a simple yes? That frightens me.
+L197157 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ Yes.
+L197155 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ What is it my child?
+L197154 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Merlin, tell me. Now that Guenevere is returned to me...
+L197111 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ Never where you expect it, that's all I know.
+L197110 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Where hides evil, then, in my kingdom?
+L197109 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ Good and evil; there is never one without the other.
+L197108 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Then answer me this. For years peace has reigned in the land. Crops grow in abundance, there is no want. Every one of my subjects enjoys his portion of happiness and justice, even those whose tiresome misunderstandings we must resolve here each day. Tell me, Merlin: have we defeated evil, as it seems?
+L197107 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ At your service, sir.
+L197040 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ ...to ride out and meet them.
+L197039 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ The knights of Galys approach the camp. It would be politic...
+L196998 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ The Lady of the Lake. Take it. Take it, quickly!
+L196997 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Excalibur! Is it true?
+L196972 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ You know full well there is, and I go to meet it now. Come witness my revenge.
+L196971 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ Come now. So much anger for such a little crime? Are you sure there is nothing else troubling you?
+L196970 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ So you were stealing their honey. They should have killed you.
+L196969 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ I had to weave a little enchantment on the bees so I could get some honey, and I didn't feel up to using any more magic just yet. Anyway, I was in less danger than you'll be in today.
+L196968 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ I should have left you to fend for yourself.
+L196958 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ You're not listening. Your heart is not. Love is deaf as well as blind.
+L196957 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Guenevere...
+L196956 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ Guenevere. And a beloved friend who will betray you.
+L196955 +++$+++ u5125 +++$+++ m340 +++$+++ ARTHUR +++$+++ Who will it be? Put your mind to it, then.
+L196954 +++$+++ u5130 +++$+++ m340 +++$+++ MERLIN +++$+++ There are maidens as fair, and fairer than Guenevere. If I put my mind to it, I could see them now, many of them, weeping for love of you, watching the hills for you coming from the high towers of their castles. Offering you their every favor. Rich, clever--but if it is to be Guenevere, so be it.

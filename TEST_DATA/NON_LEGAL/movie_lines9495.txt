@@ -1,0 +1,200 @@
+L653695 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Lula tell you she's pregnant?
+L653694 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Well... I mean like Lula bein' in a family way.
+L653693 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Whattaya mean family?
+L653692 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Be easy, Sailor. There's two employees. I take one in the back to open the safe, you keep the other'n covered... You ain't plannin' on raisin' a fam'ly in Big Tuna, are ya?
+L653691 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ No... I don't think so, man.
+L653690 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Feed store keeps up to five K in their safe. Need me a good boy for back-up. Even split. You interested?
+L653689 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ What's that?
+L653688 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ I been studyin' a situation over in Lobo, take two men to handle it.
+L653686 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Why not?
+L653685 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Ready for another?
+L653684 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Wouldn'ta guessed it, that's sure.
+L653683 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Oil, gas, cattle, farmin'. Ain't nobody shows off around here. Iguana County's one of the richest in Texas.
+L653682 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ They look like a bunch of good ol' boys to me. I guess it's oil money, huh?
+L653681 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Then you're a member... Three or four millionaires in here right now.
+L653680 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ No.
+L653679 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ You an indian?
+L653678 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ No.
+L653677 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ You black?
+L653676 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Thought you said this was a private club. How come I'm allowed in without bein' a member?
+L653672 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ New Orleans, huh?... We was just there.
+L653671 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Sorry to hear it.
+L653670 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Restin' in our room. She ain't been feelin' well.
+L653669 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Hell, no, belongs to my girl's sister. The sister's been over to New Orleans, lets us have it while she's gone. Where's that pretty little lady of yours today?
+L653668 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ This your car?
+L653667 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Thought maybe Sparky and Buddy'd taken ya. Come on, I'll drive.
+L653666 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ No, haven't heard of it.
+L653665 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Let's go by Rosarita's. You been there yet?
+L653664 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ That'd be fine, Bobby.
+L653663 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ How 'bout a beer?
+L653662 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Thanks, Bobby, 'bout done.
+L653661 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Need a hand?
+L653594 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ You was in the Marines, huh?
+L653593 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ I'm from all over.
+L653771 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Maybe he'll get a little nervous, but who gives a shit?
+L653770 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ What's gonna happen when he sees me drivin' the car tomorrow?
+L653769 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ That's right... Could have a bad accident, though... before... durin'... or after a hold-up...
+L653768 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ No, of course.
+L653767 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ What'd you say?
+L653766 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ Used to.
+L653765 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ No shit?!?! You know him?
+L653764 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ That guy Sailor came around this afternoon... Asked me if there was a contract out on 'im.
+L653763 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ The cobra's waitin' to strike, chica.
+L653759 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ Juana called. They're stayin' another week.
+L653758 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ You heard from Reggie?
+L653757 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ Wish I'd fuckin' cut you up good.
+L653756 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Ain't never had no girl pull a blade on me.
+L653755 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ You still screwing sixteen-year-olds in the ass?
+L653754 +++$+++ u3476 +++$+++ m229 +++$+++ BOBBY +++$+++ Told ya I would. You still riled?
+L653753 +++$+++ u3490 +++$+++ m229 +++$+++ PERDITA +++$+++ Nice of you to drop by.
+L653318 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Thanks.
+L653317 +++$+++ u3477 +++$+++ m229 +++$+++ BUCK +++$+++ About. Where Lafitte crosses over Galvez Highway. State Road 86.
+L653316 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ You say it's straight ahead a mile?
+L653315 +++$+++ u3477 +++$+++ m229 +++$+++ BUCK +++$+++ Club Zanzibar.
+L653314 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ What's the name of it?
+L653313 +++$+++ u3477 +++$+++ m229 +++$+++ BUCK +++$+++ Mostly black though in that boogie place.
+L653307 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Got enough, thanks. We're lookin' for a place has some music, where we can maybe do some dancin' - get somethin' to eat, too. Anything like that around here?
+L653306 +++$+++ u3477 +++$+++ m229 +++$+++ BUCK +++$+++ Gas?
+L653234 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I'll tell ya though, it's comin' up to the time when Marietta and me might just set up house together and settle down... I think that time's comin' up right soon. But like you said, everythin's relative.
+L653233 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ That's what I mean... Always looked like you was just knocked out in love... Was real nice to see.
+L653232 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Not for lack of love, I can tell ya that.
+L653231 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ It's none of my business, but when are you and Marietta gonna tie the knot? I always wondered why you never did.
+L653230 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ No sir...
+L653229 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ You hitched yet?
+L653228 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Sounds right... I'll check it out.
+L653227 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ Hell, that rings a bell. Someone told me somebody lookin' like her was at the Nothin' Fancy yesterday.
+L653226 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Actually, I'm lookin' for Marietta's daughter, Lula. Her and 'er beau took off the other day. Marietta's real upset about it.
+L653225 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ So who you out sleuthin' for now?... Can I help ya?
+L653224 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Set one up.
+L653223 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ What'll it be? The regular? Black Label?
+L653222 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ No... She's fine. Back home.
+L653221 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ Everythin's relative. Where's that Marietta Pace Fortune? You two didn't split up, I hope.
+L653220 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Real good, Chet... It's been awhile.
+L653219 +++$+++ u3479 +++$+++ m229 +++$+++ CHET +++$+++ Hey!!!... Johnnie Farragut. How are you, my man.
+L653293 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Call me Johnnie... N.O. has always been a good town to sit around in.
+L653292 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ But how are you finding New Orleans, Senor Farragut?
+L653288 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Yes. Mr. San Pedro Sula spoke yesterday to his son, Archibald Leach San Pedro Sula, who is named after Cary Grant, and he told them there was a shooting.
+L653287 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ So, it's back to the islands.
+L653283 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ We were. Now Mr. San Pedro Sula and I are on our way back to Utila, in the morning.
+L653282 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I thought you two were in Austin, Texas. Or Takes-us, as they say in these parts.
+L653137 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Whattaya do there?
+L653136 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ No big buildings like in New Orleans.
+L653127 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Muchas gracias.
+L653126 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Alright... By all means. Make yourselves at home.
+L653156 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ We are in the same businesses and also we are fishermen.
+L653155 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ He wants to take Mr. San Pedro Sula and me bass fishing.
+L653152 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ United States Marine issue, before they made the unfortunate switch to the less dependable nine millimeters. I have it here, in my briefcase.
+L653151 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Mr. San Pedro Sula's authorized to carry a .45.
+L653149 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Only if necessary, of course, and only in my own country. 
+L653148 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Mr. San Pedro Sula's permit to kill.
+L653147 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ That is my permiso.
+L653140 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ But I am also with the government.
+L653139 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Mr. San Pedro Sula's got an appliance shop.
+L653138 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Oh, many things...
+L653133 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Do you know Honduras, Johnny?
+L653132 +++$+++ u3480 +++$+++ m229 +++$+++ DROP SHADOW +++$+++ Mr. San Pedro Sula is from Honduras.
+L653182 +++$+++ u3482 +++$+++ m229 +++$+++ GEORGE +++$+++ Guilty on a reduced charge. Hundred dollar fine and ordered to desist. Pigeons carry diseases and muss up the place. You seen it. Plain filth.
+L653181 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ What happened on the charges?
+L653180 +++$+++ u3482 +++$+++ m229 +++$+++ GEORGE +++$+++ Woman drivin' down the street spotted me with on a roof with my rifle. She called the police and they came over and arrested me. Thought I was a sniper! Boys at the VFW loved that one. Cops didn't understand about the pigeons, the damage they do to personal property. I used to complain to the city but they never lifted a finger. I was gonna put out poison, but I was afraid somebody's cat would eat it. Hell, I had six cats myself. So I used the .22 because it didn't make much noise and the ammo was cheap.
+L653179 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ If your neighbors didn't mind, how'd you get put out of business?
+L653167 +++$+++ u3482 +++$+++ m229 +++$+++ GEORGE +++$+++ Was in all the papers three years ago. I'm seventy-six, was only seventy- three then. Had a business in Buffalo, New York, called Rats With Wings. Killed pigeons for anyone who wanted 'em killed.
+L653166 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Don't know that I have... Should I know about you for anythin' in particular?
+L653165 +++$+++ u3482 +++$+++ m229 +++$+++ GEORGE +++$+++ My name's George Kovich. Bet you've heard of me.
+L653866 +++$+++ u3483 +++$+++ m229 +++$+++ GOOD WITCH +++$+++ If you are truly wild at heart, you'll fight for your dreams... Don't turn away from love, Sailor... Don't turn away from love... Don't turn away from love.
+L653865 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ But I'm wild at heart.
+L653864 +++$+++ u3483 +++$+++ m229 +++$+++ GOOD WITCH +++$+++ She's forgiven you of all these things... You love her... Don't be afraid, Sailor.
+L653863 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ But I'm a robber and a manslaughterer and I haven't had any parental guidance.
+L653862 +++$+++ u3483 +++$+++ m229 +++$+++ GOOD WITCH +++$+++ Sailor... Lula loves you.
+L653861 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ The Good Witch...
+L652953 +++$+++ u3484 +++$+++ m229 +++$+++ IDIOT PUNK +++$+++ I'm sorry.
+L652952 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ I'm sorry to do this to ya here in front of a crowd, but I want ya to stand up and make a nice apology to my girl.
+L652950 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Come here.
+L652949 +++$+++ u3484 +++$+++ m229 +++$+++ IDIOT PUNK +++$+++ ...Asshole.
+L652948 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ This is a snakeskin jacket, and for me it's a symbol of my individuality and my belief in personal freedom.
+L652947 +++$+++ u3484 +++$+++ m229 +++$+++ IDIOT PUNK +++$+++ Don't fuck with me, man. You look like a clown in that stupid jacket.
+L652946 +++$+++ u3493 +++$+++ m229 +++$+++ SAILOR +++$+++ Are you going to provide me with an opportunity to prove my love to my girl? Or are you gonna save yourself some trouble and step up like a gentleman and apologize to her?
+L653471 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Oh God... OH GOD... Santos... Oh God Marietta... are you in on this?... OH GOD!!!
+L653470 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ I forgot to show you this. The gentlemen that gave this to me said you'd recognize it. Said he wanted it'd be 'bout the last thing you ever saw in this life.
+L653301 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ The real joke is we never went fishing, but we're still fishing.
+L653300 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Gotta admit, you guys are -  two in four dozen.
+L653298 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ How's that?
+L653297 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Do you know how it came about that copper wire was invented in Scotland?
+L653296 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Hasta siempre.
+L653295 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Hasta siempre.
+L653291 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ It has its moments of uncertainty.
+L653290 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ This island of yours sounds like a kind of unpredictable place.
+L653289 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Teddy Roosevelt, one of the local shrimp boat captains is in jail now. These people are friends of mine, so I must return and find out what happened.
+L653286 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ I think they are too serious, these American fishermen. In Honduras, we are not so concerned with the method.
+L653285 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Why not? How was the fishin'?
+L653284 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Would you like to enjoy a martini with us?
+L653159 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I couldn't say, which one?
+L653158 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ The same to you. If you are in Honduras, come to the Bay Islands and visit us. The Hondurans are great friends of the American people. But I have a joke for you before I go. If a liberal, a socialist, and a communist all jumped off the roof of the Empire State Building at the same time, which one of them would hit the ground first?
+L653154 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Certainly not. We are here only briefly, in fact, until this evening, when we fly to Austin, Texas to visit a friend of mine who is an agent for the CIA.
+L653153 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Why are you in New Orleans? If you don't mind my askin'.
+L653145 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ He is my sponsor. The General is the head of the secret police of Honduras.
+L653144 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ General Osvaldo Tamarindo y Ramirez. Telefono 666.
+L653142 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ In many capacities.
+L653141 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ In what capacity?
+L653135 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ Yes, that's so. But there is not much to destroy.
+L653134 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Only that it's supposed to be a pretty poor sight since the hurricane came through last year.
+L653131 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Johnnie, please. Nope. Charlotte, North Carolina. Here on business.
+L653130 +++$+++ u3491 +++$+++ m229 +++$+++ REGGIE +++$+++ You are from New Orleans, Senor Farragut?
+L653443 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ See ya downstairs.
+L653442 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ You won't of missed much.
+L653441 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ And to think what coulda happened in that king-sized bed tonight...
+L653440 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I'll pack my things and meet you downstairs.
+L653438 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ This 'bout the fifth time?
+L653437 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Did I tell ya it's great to see ya again?
+L653436 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Let's head for Texas and see if we can pick up the trail.
+L653435 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ All I have to do is grab my suitcase, and I'm ready. You're lucky cause I happen to love night drivin'.
+L653434 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Johnnie... That's the past... We gotta get on to our future, sugar!
+L653433 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Yeah... The one that introduced Santos to you and Clyde.
+L653432 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Who?... Uncle Pooch?...
+L653431 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ That bastard Pucinski...
+L653430 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Hell no, baby... I wouldn'ta done that without tellin' you.
+L653429 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Honey, I have to ask you this... Is Santos involved in any of this?
+L653428 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I did, honey, but that was last night... Let's just find those two kids before it's too late.
+L653427 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Somethin' was upsettin' you bad last night, and you wanted to tell me and I figured you wanted to tell me so's I could help...
+L653426 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Johnnie, I can't tell you, honey. Is there anyway we can get on the road tonight? We've got to find them kids.
+L653425 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Just some guys I met here... I keep seein' 'em...  Now tell me...
+L653424 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ What is it, Johnnie?
+L653419 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I'll be damned if that wasn't a wrong number?
+L653418 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Who was that?... Who know's your here?
+L653384 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Seven tomorrow evenin'. We can eat at Galatoire's. Fix it.
+L653383 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I'll meet you, Marietta, if that's what you want, but I'm against it.
+L653382 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ No, you wait right there for me... I'll be on the Piedmont flight tomorrow at seven. Meet me at the airport.
+L653381 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Marietta, I was just gonna leave and see if I could pick up their trail.
+L653380 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I won't tell you over the phone. I'm comin' to N.O. and I'll tell you then.
+L653379 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ What?
+L653378 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Could she be doin' okay, Johnnie? She's tryin' to prove somethin' to me, that's all. Lula ain't doin' no more'n showin' off, defyin' me...  Johnnie, I've done somethin' bad...
+L653377 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ How'd she sound? Was she doin' okay?
+L653376 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ No, but my guess is they're headed west, so prob'ly Texas. Their money must be runnin' low. I don't think Sailor had much to begin with, if any, and Lula took the six hundred she had saved in the Cherokee Thrift.
+L653375 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Did she tell you where she was callin' from?
+L653374 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Listen, Johnnie, Lula just called me. She knew you were in N.O., so they left the city.
+L653373 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I got some news, Marietta. Lula and Sailor been here. They checked out of the Hotel Brazil on Frechman Street yesterday.
+L653280 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ I will, Marietta. Goodbye now.
+L653279 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I'm stayin' right here by the phone until you find Lula, then I'm comin' to get her. You call soon's you got somethin', even if it's three in the a.m.
+L653278 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Really, Marietta, you got more scenarios swimmin' around in your brain than Carter got pills. Try to take it easy. Go over to Myrtle Beach for a few days.
+L653277 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ This is the kinda mistake can take a Hindu's lifetime to unfix... You better get a move on, Johnnie, before that boy got her holdin' down a Memphis streetcorner and shootin' dope up her arms.
+L653276 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ No, Marietta, I haven't found 'em.
+L652851 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Marietta, settle down now darlin'... I want what's best for her, too - like I said, I'll do what I can to bring her home.
+L652850 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Maybe I was there, but I didn't see anythin'. All I know's that trash killed a man with his bare hands. Hands which are now prob'ly all over my baby!
+L652849 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Sailor ain't a murderer. You got to get off that kick. And far's I can tell, Sailor was entire clean prior to that involvin' Lula. Even there he was protectin' her. You oughta be thankin' him for that. That Bob Ray Lemon they say was comin' after the both of 'em. Why am I tellin' you this, you was around that night. You ought to know just exactly what happened. Sailor just got a little too forceful is all... You remember that night...
+L652848 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Well stop worryin' about me and start worryin' about how you're gonna get that Lula back here and away from that murderer.
+L652847 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Sorry, sweetheart. Bein' in love with you like I am brings out that ugly jealous side.
+L652846 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Oh, Johnnie Farragut... Don't you trust your very own Marietta?
+L652845 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Darlin', you ain't seein' Santos again, are ya?
+L652844 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ You're just jealous of Santos cause he's sweet on me.
+L652843 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ Now, Marietta, I am goin' to help you. And don't be gettin' carried away. You don't want to be bringin' Santos and his people into it.
+L652842 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I'll hire a hit man if you don't want to help me stop this thing. I'll call Marcello Santos.
+L652840 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ Don't talk down to me, Johnnie Farragut. I know what volition means, and that's why I want Sailor Ripley off the planet! He's pure slime and it's leakin' all over my baby. Maybe you could push him into makin' some kinda move and then kill him dead. You'd only be defendin' yourself, and with his record, nobody'd fuss.
+L652839 +++$+++ u3485 +++$+++ m229 +++$+++ JOHNNIE +++$+++ He served his time for what he did. Another thing... If Lula went with him of her own volition - willingly, that is - there ain't much can be done about it.
+L652838 +++$+++ u3488 +++$+++ m229 +++$+++ MARIETTA +++$+++ I knew this would happen. Soon as that piece of filth got out of Pee Dee, I knew there'd be trouble. He's just got some kind of influence over her I can't decipher. There's somethin' wild in Lula I don't know where it comes from. You gotta find 'em, Johnnie.
+L653837 +++$+++ u3486 +++$+++ m229 +++$+++ LULA +++$+++ Pace, your daddy'd love you even if you didn't have no hair at all.
+L653836 +++$+++ u3489 +++$+++ m229 +++$+++ PACE +++$+++ Case daddy don't like me. What if he don't like that I don't got his color hair.
+L653835 +++$+++ u3486 +++$+++ m229 +++$+++ LULA +++$+++ Why, honey?
+L653834 +++$+++ u3489 +++$+++ m229 +++$+++ PACE +++$+++ I'm scared, mama.
+L653833 +++$+++ u3486 +++$+++ m229 +++$+++ LULA +++$+++ Thinkin' a second, baby.
+L653832 +++$+++ u3489 +++$+++ m229 +++$+++ PACE +++$+++ Why we sittin' here, mama?
+L653831 +++$+++ u3486 +++$+++ m229 +++$+++ LULA +++$+++ Wrong, baby. Your daddy never committed no murder. Musta been you didn't hear grandmama proper. He made some mistakes, is all. Your daddy ain't always been so lucky... We're almost at the depot, honey. Sit back a minute.
+L653830 +++$+++ u3489 +++$+++ m229 +++$+++ PACE +++$+++ Grandmama said how Sailor murdered a man.

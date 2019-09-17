@@ -1,0 +1,200 @@
+L204906 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ That makes two of us.
+L204905 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ Sort of.
+L204904 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ Out of your element, aren't you, Captain?
+L205300 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ I could use a lawnmower...
+L205299 +++$+++ u5229 +++$+++ m346 +++$+++ OWENS' VOICE +++$+++ How's it look?
+L205293 +++$+++ u5229 +++$+++ m346 +++$+++ OWENS' VOICE +++$+++ What I was afraid would happen. The stuff we passed through -- that looked like seaweed --
+L205292 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ What's wrong, Skipper?
+L205263 +++$+++ u5229 +++$+++ m346 +++$+++ OWENS' VOICE +++$+++ Look at those Walls up ahead!
+L205262 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ Thirty-two minutes left...  But chances are we won't have to wait that long for try-number three.
+L205174 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ Could I run a tube through that Wall, without harming Benes?
+L205173 +++$+++ u5229 +++$+++ m346 +++$+++ OWENS' VOICE +++$+++ Yes, there is.
+L205156 +++$+++ u5229 +++$+++ m346 +++$+++ OWENS' VOICE +++$+++ We're losing pressure in the Flotation Tanks. Check the Manual, right over there.
+L205155 +++$+++ u5224 +++$+++ m346 +++$+++ GRANT +++$+++ What is it, Skipper?
+L205178 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ Yes, by all means. We must try it.
+L205177 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ It's a dangerous procedure. If I miss the timing, we could explode the tanks... But I'm willing to try it.
+L205165 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ Not to the valve. But we've lost too much air to make it the rest of the way.
+L205164 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ Was there any damage?
+L205163 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ Well, that takes care of the valve. It was probably caused by that electric shock.
+L205110 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ I'll guide you, once we're in the Heart.
+L205109 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ I'll never find my way through that.
+L204975 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ Looks simple to operate.
+L204974 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ That's it...
+L204972 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ On the Repeater.
+L204971 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ Captain, how will you be able to follow my charts --  --from up there?
+L204925 +++$+++ u5226 +++$+++ m346 +++$+++ MICHAELS +++$+++ The only danger of turbulence is in the Heart -- and we're not going through it.  Once in the Carotid Artery, we'll remain in the Arterial System... until we reach the point of damage --  -- where Dr. Duval will attempt to dissolve the clot with a laser beam. After the operation, we'll return by way of the Venous System --  -- until we reach the base of the neck --  -- where we'll be removed right here -- with a hypodermic.
+L204924 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ Even so, because of our size -- I mean lack of it -- we'll still be cruising mighty fast. We'll be smashed to bits if there's any turbulence --
+L205417 +++$+++ u5227 +++$+++ m346 +++$+++ MICHAELS' VOICE +++$+++ Fluid is seeping through. Better come down and have a look!
+L205416 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ What do you mean?
+L205415 +++$+++ u5227 +++$+++ m346 +++$+++ MICHAELS' VOICE +++$+++ There seems to be something wrong with the Escape Hatch...
+L205143 +++$+++ u5227 +++$+++ m346 +++$+++ MICHAELS' VOICE +++$+++ It's less than one ten-thousandth of an inch thick. And porous.
+L205142 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ The Wall's transparent...
+L205141 +++$+++ u5227 +++$+++ m346 +++$+++ MICHAELS' VOICE +++$+++ We're entering a Capillary. Remain in the middle.
+L205140 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ Doctor -- the channel's getting awful narrow.
+L205072 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ I'll do what I can.
+L205071 +++$+++ u5227 +++$+++ m346 +++$+++ MICHAELS' VOICE +++$+++ Then don't drift down further.
+L205070 +++$+++ u5228 +++$+++ m346 +++$+++ OWENS +++$+++ We could never fight that current it's physically impossible.
+L206202 +++$+++ u5231 +++$+++ m347 +++$+++ ATTENDANT +++$+++ May I have your ticket, please?
+L206201 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Ophhem ma fuchem gaphe!
+L206052 +++$+++ u5231 +++$+++ m347 +++$+++ ATTENDANT +++$+++ Well, see, there's a minimum charge of four dollars. Long-term parking charges by the day.
+L206051 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I just pulled in here. I just fucking pulled in here!
+L206050 +++$+++ u5231 +++$+++ m347 +++$+++ ATTENDANT +++$+++ I'm sorry, sir, we do have to charge you the four dollars.
+L206049 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I decided not to - I'm, uh, not taking the trip as it turns out.
+L206048 +++$+++ u5231 +++$+++ m347 +++$+++ ATTENDANT +++$+++ You, uh... I'm sorry, sir, but -
+L206047 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Yeah, I just came in. I decided not to park here.
+L206046 +++$+++ u5231 +++$+++ m347 +++$+++ ATTENDANT +++$+++ ...What do you mean, you decided not to park here?
+L206194 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ Unghh... oh, geez...
+L206193 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Is this a fucking joke?
+L206192 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Is this a fucking joke here?
+L206191 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ No Jean, no money!
+L206190 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Drop that fucking money!
+L206189 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ Where's my damn daughter? No Jean, no money!
+L206188 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Fuck you, man! Where's Jerry? I gave SIMPLE FUCKING INSTRUCTIONS -
+L206187 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ Where's my daughter?
+L206186 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I am through fucking around! Drop that fucking briefcase!
+L206185 +++$+++ u5253 +++$+++ m347 +++$+++ WADE +++$+++ I got your goddamn money, you little punk. Now where's my daughter?
+L206184 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Who the fuck are you? Who the fuck are you?
+L205763 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ That's my license and registration. I wanna be in compliance.
+L205762 +++$+++ u5251 +++$+++ m347 +++$+++ TROOPER +++$+++ What's this, sir?
+L205761 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...So maybe the best thing would be to take care of that, right here in Brainerd.
+L205759 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Certainly.
+L205758 +++$+++ u5251 +++$+++ m347 +++$+++ TROOPER +++$+++ Can I see your license and registration please?
+L205757 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Certainly -
+L205756 +++$+++ u5251 +++$+++ m347 +++$+++ TROOPER +++$+++ You're required to display temporary tags, either in the plate area or taped inside the back window.
+L205755 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ It certainly is, officer. Still got that smell!
+L205754 +++$+++ u5251 +++$+++ m347 +++$+++ TROOPER +++$+++ This is a new car, then, sir?
+L206147 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ ...What're you talking about?
+L206146 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Ya find the work interesting, do ya?
+L206145 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ I don't know. Few munce.
+L206144 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ... What is he, deaf?... So, uh, how long have you been with the escort service?
+L206143 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Yeah, well, it depends on the artist. You know, Jose Feliciano, ya got no complaints. Waiter!
+L206142 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ I don't think so. It's nice.
+L206141 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Have ya been to the Celebrity Room before? With other, uh, clients?
+L206140 +++$+++ u5254 +++$+++ m347 +++$+++ WOMAN +++$+++ Wuddya do?  Carl looks around.
+L206139 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Just in town on business. Just in and out. Ha ha! A little of the old in-and-out!
+L206335 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ HOLD ON! NO FUCKIN' WAY! YOU FUCKIN' NOTISH ISH? I GOT FUCKIN' SHOT INNA FAISH! I WENT'N GOTTA FUCKIN' MONEY! I GET SHOT FUCKIN' PICKIN' IT UP!  I BEEN UP FOR THIRTY-SHIKSH FUCKIN' HOURZH! I'M TAKIN' THAT FUCKIN' CAR! THAT FUCKERZH MINE!
+L206334 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ One of us pays the other for half.
+L206332 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ We split that.
+L206331 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...You c'n'ave my truck. I'm takin' a Shiera.
+L206327 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Jezhush.
+L206326 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ She started shrieking, you know.
+L205772 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Yeah.
+L205771 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ Clear him off the road.
+L205770 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Whoa, Daddy.
+L205769 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ You'll take care of it. Boy, you are smooth smooth, you know.
+L205748 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Geez. That's more'n I've heard you say all week.
+L205747 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ Shut the fuck up or I'll throw you back in the trunk, you know.
+L205709 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ I need ...unguent.
+L205708 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Huh?  Grimsurd looks at his thumb.
+L205707 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ Unguent.
+L205677 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ "No." First thing you've said in the last four hours. That's a, that's a fountain of conversation, man. That's a geyser. I mean, whoa, daddy, stand back, man. Shit, I'm sittin' here driving, man, doin' all the driving, whole fuckin' way from Brainerd, drivin', tryin' to, you know, tryin' to chat, keep our spirits up, fight the boredom of the road, and you can't say one fucking thing just in the way of conversation.
+L205676 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ I did.
+L205675 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Would it kill you to say something?
+L205674 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ No.
+L205673 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Look at that. Twin Cities.  IDS Building, the big glass one.  Tallest skyscraper in the Midwest.  After the Sears, uh, Chicago...  You never been to Minneapolis?
+L205590 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Yeah, yeah, Jesus - I'm sayin', we'll stop for pancakes, then we'll get laid. Wuddya think?
+L205589 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ I'm fuckin' hungry now, you know.
+L205588 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Come on, man. Okay, here's an idea. We'll stop outside of Brainerd. I know a place there we can get laid. Wuddya think?
+L205587 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ What're you, nuts? We had pancakes for breakfast. I gotta go somewhere I can get a shot and a beer - and a steak maybe.  Not more fuckin' pancakes. Come on.
+L205586 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ We stop at Pancakes Hause.
+L205585 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ What?
+L205584 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ Where is Pancakes Hause?
+L205543 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Or your fucking wife, Jerry.
+L205542 +++$+++ u5236 +++$+++ m347 +++$+++ GRIMSRUD +++$+++ Or your fucking wife, you know.
+L206163 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Okay, real good, then.
+L206162 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ GOT IT?
+L206161 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ ...Yah, well, you stay away from Scotty now -
+L206160 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ You're there in thirty minutes or I find you, Jerry, and I shoot you, and I shoot your fucking wife, and I shoot all your little fucking children, and I shoot 'em all in the back of their little fucking heads. Got it?
+L206159 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, okay, but, uh -
+L206158 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Don't you fucking but me, Jerry.  I want you with this money on the Dayton- Radisson parking ramp, top level, thirty minutes, and we'll wrap this up.
+L206157 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, I got the money, but, uh -
+L205999 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I'll see you tomorrow.
+L205998 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ ...The heck d'ya mean?
+L205997 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ IS IT, JERRY?  You ask those three pour souls up in Brainerd if a deal's a deal! Go ahead, ask 'em!
+L205996 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Now we had a deal here! A deal's a deal!
+L205995 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Blood has been shed. We've incurred risks, Jerry. I'm coming into town tomorrow. Have the money ready.
+L205994 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Oh, for Chrissakes here -
+L205993 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Look. I'm not gonna debate you, Jerry. The price is now the whole amount. We want the entire eighty thousand.
+L205992 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, I'm sorry, but I just - I -
+L205991 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ DON'T EVER INTERRUPT ME, JERRY! JUST SHUT THE FUCK UP!
+L205990 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ This was s'posed to be a no-rough stuff-type deal -
+L205989 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ We need more -
+L205988 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ The heck d'ya mean? What a you guys got yourself mixed up in?
+L205987 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ That's right. And we need more money.
+L205986 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Oh, geez.
+L205985 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Three people. In Brainerd.
+L205984 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ What the heck d'ya mean?
+L205983 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Blood has been shed.
+L205982 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Blood has been shed, Jerry.
+L205981 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ What the heck're you talkin' about? Let's just finish up this deal here -
+L205980 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Oh, Jean's okay. But there's three people up in Brainerd who aren't so okay, I'll tell ya that.
+L205979 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ My wife! What the - how's -
+L205978 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...Who's Jean?
+L205547 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Okay, Jerry. You're tasking us to perform this mission, but you, you won't, uh, you won't - aw, fuck it, let's take a look at that Ciera.
+L205546 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah. Personal matters that needn't, uh -
+L205545 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Personal matters.
+L205544 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, it's all just part of this - they don't know I need it, see. Okay, so there's that. And even if they did, I wouldn't get it.  So there's that on top, then. See, these're personal matters.
+L205541 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ So why don't you just ask him for the money?
+L205540 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, that's, that's, I'm not go inta, inta - see, I just need money. Now, her dad's real wealthy -
+L205539 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ What kind of trouble are you in, Jerry?
+L205538 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Okay, it's - see, it's not me payin' the ransom. The thing is, my wife, she's wealthy - her dad, he's real well off. Now, I'm in a bit of trouble -
+L205537 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ ...You-my point is, you pay the ransom- what eighty thousand bucks?  - I mean, you give us half the ransom, forty thousand, you keep half. It's like robbing Peter to play Paul, it doesn't make any -
+L205536 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah.
+L205535 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ You want your own wife kidnapped?
+L205534 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Oh, no, it's real sound. It's all worked out.
+L205533 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I'm not gonna sit here and debate. I will say this though: what Shep told us didn't make a whole lot of sense.
+L205532 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Okay.
+L205531 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ I'm not gonna debate you, Jerry.
+L205530 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah. But it's not a whole pay-in- advance deal. I give you a brand-new vehicle in advance and -
+L205529 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Yeah, you already said that.
+L205528 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, well, that was a mix-up, then.
+L205527 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Except that you were gonna be here at 7:30.
+L205526 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, okay, it's -
+L205525 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ Shep didn't tell us much, Jerry.
+L205524 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, but the deal was, the car first, see, then the forty thousand, like as if it was the ransom. I thought Shep told you -
+L205523 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ The new vehicle, plus forty thousand dollars.
+L205522 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Huh?
+L205521 +++$+++ u5232 +++$+++ m347 +++$+++ CARL +++$+++ No, that's not it, Jerry.
+L205520 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ ...So I guess that's it, then.  Here's the keys -
+L205966 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, you don't need that. Now were you thinking of financing here?  You oughta be aware a this GMAC plan they have now, it's really super -
+L205965 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ Yah, I don't need no sealant though.
+L205964 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, ya got yer, this loaded here, this has yer independent, uh, yer slipped differential, uh, yer rack- and-pinion steering, yer alarm and radar, and I can give it to ya with a heck of a sealant, this TruCoat stuff, it'll keep the salt off -
+L205616 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ Oh, for Christ's sake, where's my goddamn checkbook. Let's get this over with.
+L205615 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ One hunnert's the best we can do here.
+L205612 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ One hundred! You lied to me, Mr. Lundegaard. You're a bald-faced liar!
+L205611 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, he never done this before, but seein' as it's special circumstances and all, he says I can knock one hunnert off that TruCoat.
+L205600 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Well, okay, I'll talk to my boss...
+L205599 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ You called me twenty minutes ago and said you had it! Ready to make delivery, ya says! Come on down and get it!  And here ya are and you're wastin' my time and you're wastin' my wife's time and I'm payin' nineteen- five for this vehicle here!
+L205598 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Okay, I'm not sayin' I didn't -
+L205597 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ We had us a deal here for nineteen- five. You sat there and darned if you didn't tell me you'd get this car, these options, WITHOUT THE SEALANT, for nineteen-five!
+L205596 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, but this TruCoat -
+L205595 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ You're sittin' here, you're talkin' in circles! You're talkin' like we didn't go over this already!
+L205594 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, but I'm sayin', that TruCoat, you don't get it and you get oxidization problems. It'll cost you a heck of lot more'n five hunnert -
+L205593 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ I sat right here and said I didn't want no TruCoat!
+L205592 +++$+++ u5240 +++$+++ m347 +++$+++ JERRY +++$+++ Yah, but that TruCoat -
+L205591 +++$+++ u5233 +++$+++ m347 +++$+++ CUSTOMER +++$+++ We sat here right in this room and went over this and over this!
+L206323 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Oh, don't be silly.
+L206322 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Well, okay - thank you, Detective.
+L206321 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Oh, don't be silly.
+L206320 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, no, I can't let you do that.
+L206319 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Both of these.
+L206318 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Where'd you get him that parka?
+L206317 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Yah, he -
+L206316 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, he's adorable.
+L206315 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ He's three now. Course, not in that picture.
+L206314 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, now he's adorable.
+L206313 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ I thought you'd never ask. The older one is Janet, she's nine, and the younger one is Morgan.
+L206312 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ You have children?
+L206311 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ They can really take over, that's for sure.
+L206310 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ Oh, yah, I know that!
+L206309 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ That's wonderful. Mm-mm. It'll change your life, a course.
+L206308 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ This'll be our first. We've been waiting a long time.
+L206307 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Any others?
+L206306 +++$+++ u5243 +++$+++ m347 +++$+++ MARGE +++$+++ End a April.
+L206305 +++$+++ u5234 +++$+++ m347 +++$+++ DETECTIVE SIBERT +++$+++ Ah, well, we haven't had to run around like you. When're you due?
+L206238 +++$+++ u5242 +++$+++ m347 +++$+++ MAN +++$+++ Ya got that right.
+L206237 +++$+++ u5235 +++$+++ m347 +++$+++ GARY +++$+++ Yah, got a front movin' in.
+L206236 +++$+++ u5242 +++$+++ m347 +++$+++ MAN +++$+++ Oh sure. They say she's gonna turn cold tomorrow.
+L206235 +++$+++ u5235 +++$+++ m347 +++$+++ GARY +++$+++ Okay, well, thanks a bunch, Mr. Mohra. You're right, it's probably nothin', but thanks for callin' her in.
+L206234 +++$+++ u5242 +++$+++ m347 +++$+++ MAN +++$+++ Just a general way.
+L206233 +++$+++ u5235 +++$+++ m347 +++$+++ GARY +++$+++ Uh-huh - in what way?

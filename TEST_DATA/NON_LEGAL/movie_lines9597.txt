@@ -1,0 +1,200 @@
+L81238 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81237 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Mr. Gardiner, how very nice to have you with us this evening.
+L80755 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ I think you do, Mr. Chance. However, I will reiterate, this house is closed and you must leave...  Call me if you change your mind about signing.  C'mon, Sally - let's grab a bite...
+L80754 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Move out? I don't understand, Thomas.
+L80753 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Very well, Mr. Chance - if you insist on dragging this matter on... But I must inform you this house will be closed tomorrow at noon. If indeed, you do reside here, you will have to move out.
+L80752 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Correct.
+L80751 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ But you won't sign, correct?
+L80750 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I have no claim, Thomas.
+L80749 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Come now, Mr. Chance.
+L80748 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Thomas. I don't know how to sign.
+L80747 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Good. That's good. Then if you would please sign a paper to that effect.
+L80746 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I'm fine, Thomas. The garden is a healthy one. There is no need for a claim.
+L80745 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Mr. Chance, assuming what you say is the truth, I would like to know what sort of claim you are planning to make against the deceased's estate.
+L80739 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I would like to stay and work in my garden.
+L80738 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ What are your plans now, Mr. Chance?
+L80734 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I understand.
+L80733 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Mr. Chance, the fact remains that we have no information of your having any connection with the deceased.
+L80732 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ The Old Man gave me nice television sets, this one has remote control.  He has one just like it.
+L80729 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Thomas. I have never been in an automobile.
+L80728 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... Do you drive this, Mr. Chance?
+L80725 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, I don't think so. And I have planted and shaped all the hedges, and in the springtime you will be able to see my flowers.
+L80724 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Are you related to the deceased, Mr. Chance?
+L80723 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Those trees were very young when I first arrived.
+L80720 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Thomas. But I have seen the Army on television.
+L80719 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Have you served in the Army?
+L80718 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ You have me, I am here. What more proof do you need?
+L80717 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... We shall need some proof of your having resided here, Mr. Chance.
+L80716 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Thomas, that is correct. Then he stopped visiting my garden.
+L80715 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Come now, Mr. Jennings had been bedridden for thirty-five years, since he fractured his spine.
+L80714 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes and the Old Man used to come to my garden. He would read and rest there.
+L80713 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Mr. Chance, that was twenty-seven years ago.
+L80709 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I remember when he came. He was very fat and had short hair and showed me some pictures from a funny little book.
+L80708 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ 1952...?
+L80707 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Joe Saracini. He was a mason that did some repairs on the brickwork at the rear of the house. That was in 1952.
+L80706 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... Joe? Who's Joe?
+L80705 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I have no need for a doctor or dentist. I have never been ill. I have never been allowed outside of this house, and, except for Joe, I have never had any visitors.
+L80704 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Then how about medical records? Could you give us the name of your doctor, or your dentist?
+L80703 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, I do not have any of those.
+L80702 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Mr. Chance, perhaps you could show us some identification with your address -- a Driver's License, a credit card, checkbook?
+L80699 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I was given meals, and a home...
+L80698 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ How were you paid?
+L80697 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Compensated...?
+L80696 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ How were you compensated for these duties you say you performed?
+L80695 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No.
+L80694 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Do you have any proof of your employment, Mr. Chance - any checks from the deceased, any contracts or documents?
+L80689 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Thomas. I have always been here. I have always worked in the garden.
+L80688 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Since you were a child?
+L80687 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Ever since I can remember, since I was a child.
+L80686 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... How long have you been living here?
+L80685 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It's very cold outside today, isn't it, Thomas?
+L80684 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ You live here?  ... We don't have any record of that.
+L80683 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I live here.
+L80682 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... You've quite a sense of humor, Mr. Chance - but all kidding aside, may I ask just what you are doing here?
+L80681 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see...
+L80680 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Louise?... The maid?...  But she should have left earlier today...
+L80679 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Louise will bring me lunch.
+L80678 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Your lunch? You have a luncheon appointment here?
+L80677 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I'm waiting for my lunch.
+L80676 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... Are you waiting for someone? An appointment?
+L80675 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Thomas - I understand.
+L80674 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... We're with Franklin, Jennings and Roberts, the law firm handling the estate.
+L80671 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... The gardener?  ... Yes, of course... Mr. Chance, this is Ms. Hayes.
+L80670 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Thomas... I'm Chance, the gardener.
+L81108 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Wonderful, we'll all look forward to seeing you.  Is Eve around? I'd like to say hello.
+L81107 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I will.
+L81106 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... You will honor me and my family with a visit, won't you?
+L81105 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It has.
+L81100 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... Spring and summer...  Yes, I see... Fall and winter.  Yes, indeed...  Could you go through that one more time, please, Mr. Gardiner?
+L81099 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ That is correct. In a garden, growth has its season. There is spring and summer, but there is also fall and winter. And then spring and summer again...
+L81098 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... In the garden?
+L81097 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ As long as the roots are not severed, all is well and all will be well in the garden.
+L81096 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Do you agree with Ben, Mr. Gardiner? Are we finished? Or do you think we can stimulate growth through temporary incentives?
+L81080 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Now, Ben, did you happen to get a chance to...
+L81079 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I will.
+L81078 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Well, Mr. Gardiner, that's just fine with me - I'm a man that appreciates a frank discussion... Be seated, please, Mr. Gardiner...
+L81076 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... Oh, really...
+L81075 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ You look much taller on television, Mr. President.
+L81072 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... Hello.
+L81071 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Good morning, Mr. President.
+L81308 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ I said - try again.
+L81307 +++$+++ u4007 +++$+++ m266 +++$+++ KINNEY +++$+++ Sid, it's useless!
+L81306 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Try again.
+L81305 +++$+++ u4007 +++$+++ m266 +++$+++ KINNEY +++$+++ Sure, try again - where? There's nothing, it's like he never existed!
+L81304 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ Try again.
+L81303 +++$+++ u4007 +++$+++ m266 +++$+++ KINNEY +++$+++ ... Sid, be reasonable - I've been everywhere, there's no place left to check!
+L81223 +++$+++ u4007 +++$+++ m266 +++$+++ KINNEY +++$+++ ... I realize this sounds banal but there is no information of any sort on Gardiner. We have no material on him - zilch...
+L81222 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ ... Skip the levity, Kinney - what have you got?
+L81221 +++$+++ u4007 +++$+++ m266 +++$+++ KINNEY +++$+++ ... Nothing.
+L81220 +++$+++ u3994 +++$+++ m266 +++$+++ COURTNEY +++$+++ ... Gardiner is laconic, matter-of fact. The scuttlebutt is that he's a strong candidate for one of the vacant seats on the board of First American. But before we can do any sort of a piece on the man, we're going to need facts on his background...  ... Kinney, what did you come up with?
+L81321 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... Thank you, Chauncey... Thank you very much.  ... All right, Robert, I'm all yours.
+L81320 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Ben, really...
+L81282 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ That's good... That's good.
+L81281 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ ... Yes, I am, Ben.
+L81280 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I'm becoming quite attached to Chauncey - quite attached...  ... And so are you, aren't you, Eve.
+L80944 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Do you need a secretary?
+L80943 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh. I'm very sorry. Well, if you have any need for any of our facilities, please do not hesitate to ask.
+L80863 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Hah!... Tell me the truth, Eve - if I wait until I feel better, will I ever meet the man?
+L80862 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Do you feel well enough for that?
+L80861 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Reasonable? Good, I'd like to meet a reasonable man. Why don't you ask this Gardiner to join us for dinner?
+L80860 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, it wasn't all that bad, darling. We were fortunate that Mr. Gardiner turned out to be so reasonable.
+L80859 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I may be a shut-in, but I do not lack for news. I'm sorry you had to go through all that.
+L80858 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ You heard?
+L80857 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ No, it's been a good day - better than yours, from what I've been told.
+L80856 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ No headaches?
+L80855 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Tired... And I'm getting tired of being so tired. Other than that, I'm doing very well.
+L80854 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Oh, Ben - I miss you so when I'm out... How are you feeling?
+L80843 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ I'll see you after the doctor has a look at your leg, Mr. Gardiner.
+L80842 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ Yes, ma'am.
+L80841 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Thank you, Greta.  I'll be with Mr. Rand if I'm needed.
+L80840 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Thank you, Wilson. That will be fine.
+L80839 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ I shall take the gentleman to the third floor guest suite, ma'am. Dr. Allenby is standing by.
+L80838 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Good evening, Wilson.
+L80837 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ Good evening, Mrs. Rand.
+L81424 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Would you two excuse me for a moment?
+L81423 +++$+++ u4015 +++$+++ m266 +++$+++ SOPHIE +++$+++ Come on, Eve. Let's let the men talk, there are so many people that have been asking about you.
+L81395 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Chauncey, this is Mrs. Sophia Rowley.
+L81394 +++$+++ u4015 +++$+++ m266 +++$+++ SOPHIE +++$+++ Oh, I've been just dying to meet you, Mr. Gardiner!
+L81393 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Sophie, this is Chauncey Gardiner...
+L81392 +++$+++ u4015 +++$+++ m266 +++$+++ SOPHIE +++$+++ And look who you brought with!
+L81391 +++$+++ u3998 +++$+++ m266 +++$+++ EVE +++$+++ Hello, Sophie.
+L81390 +++$+++ u4015 +++$+++ m266 +++$+++ SOPHIE +++$+++ Eve, child! How nice of you to come.
+L81612 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ Of course... I'm so sorry for you, Eve...
+L81611 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I can certainly understand that...
+L81509 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ It's not that, I just...
+L81508 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ It's your damn job. It never happened when you were a senator...
+L81507 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Oh, no, sweetheart - it's not you...
+L81506 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ ... Is it me? Is there something I've done?
+L81505 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ No, that won't do any good.
+L81504 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ ... Maybe you should talk to somebody, darling.
+L81403 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Yeah... I'll have a talk with him as soon as...
+L81402 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ Well, I think Jack needs some time alone with you, darling... He's getting to that age, you know... He really misses you...
+L81401 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Huh... I'm glad they're along with her, if you know what I mean... How about Jack?
+L81400 +++$+++ u3999 +++$+++ m266 +++$+++ FIRST LADY +++$+++ Oh. Well, I just talked to Cindy this morning. She loves California, but to quote her, she says, 'The Secret Service is getting to be a drag.' I guess she wants her privacy...
+L81399 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... How are the kids getting along?
+L80744 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Well... He's either very, very bright or very, very dense - he's hard to figure...  ... Let's just keep everything legal.
+L80743 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ ... It's very bizarre - I don't know what to think...
+L80742 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... Yeah...
+L80741 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ I really don't know, Tom - he seems so honest and simple... In a way, he's quite charming...
+L80740 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ ... What do you make of all this?
+L80668 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Gladly...  ... The safe is in Mr. Jennings' bedroom, that'll be stop number one.
+L80667 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ ... Would you take me on a tour?
+L80666 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Yeah... He and my father used to ride together back in the thirties... Fox hunting... Before I was born...
+L80665 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ ... This is another world, Tom - I never would have believed it...
+L81293 +++$+++ u4004 +++$+++ m266 +++$+++ JOHANNA +++$+++ I said good night!
+L81292 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Look, Johanna...
+L81291 +++$+++ u4004 +++$+++ m266 +++$+++ JOHANNA +++$+++ Good night.
+L81290 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ Sally Hayes is not a bitch - she's a damn fine attorney! I've got to talk to her about this Gardiner...
+L81289 +++$+++ u4004 +++$+++ m266 +++$+++ JOHANNA +++$+++ ... Business, bullshit! Going out in the middle of the night to meet that bitch in a bar...
+L81264 +++$+++ u4004 +++$+++ m266 +++$+++ JOHANNA +++$+++ He does talk like one, but I think he's brilliant.
+L81263 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ No! He's a real gardener!
+L81262 +++$+++ u4004 +++$+++ m266 +++$+++ JOHANNA +++$+++ Yes, Chauncey Gardiner.
+L81261 +++$+++ u4000 +++$+++ m266 +++$+++ FRANKLIN +++$+++ It's that gardener!
+L81465 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ Very good, Your Excellency.
+L81464 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Hmmm... Take this down.  I want this quote included in the Tass coverage; 'Chauncey Gardiner, in an intimate discussion with Ambassador Skrapinov, noted that "Unless the leaders of the opposing political systems move the chairs on which they sit closer to each other, all of their seats will be pulled from under them by rapid social and political changes."'
+L81463 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ Clearly, yes comrade.
+L81462 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ I see. Clearly, such interest on their part is of great political significance.
+L81461 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ Apparently the White House shares our curiosity - they have also launched an investigation, and, according to our sources, neither the F.B.I. nor the C.I.A. has met with success.
+L81460 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ But... Where was this man Gardiner before last week?
+L81459 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ There is no information available on the man before he moved into Benjamin Rand's. It has proven to be such a difficult task that it has resulted in the loss of one of our agents to the United States Government.
+L81458 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ What do you mean there is nothing? That's impossible.
+L81457 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ Sorry, Comrade Ambassador.
+L81456 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Quietly, please. Mr. Gardiner, for one, understands our language.
+L81455 +++$+++ u4005 +++$+++ m266 +++$+++ KARPATOV +++$+++ We have nothing on him, Ambassador Skrapinov.
+L81454 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Yes? What have you found?
+L81409 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Yes, chief - eight other foreign powers have put Gardiner under surveillance. We're around-the clock now, sir - I'll keep you posted.
+L81408 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Good. Anything else?
+L81407 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ We have word that the Soviets have put out a top priority alert for information on Gardiner's background. So far, they haven't come up with a thing - what's more, as a result of their eagerness, one of their ablest agents blew his cover, we have him in custody at this time.
+L81406 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Oh? What?
+L81405 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Sorry to disturb you, chief but we have new developments.
+L81345 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I would appreciate that.
+L81344 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Well, sir - it occurred to us that he might be an agent of a foreign power. But, we ruled that out, as they invariably are provided with too much documentation, too much American identity... We, uh...don't quite know what to make of it yet, sir... But we'll keep on top of it, Mr. President - we'll come up with the answer.
+L81343 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... So what does all that add up to?
+L81340 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Yes, sir.
+L81339 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I'd like to hear that data, Kaufman.
+L81338 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Well, we do have data from Honeycutt's sources, Chief - but it isn't pertinent.
+L81337 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ What the hell are you talking about, Kaufman?
+L81336 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ We... uh, have been unable to come up with any information before the man appeared at Mr. Rand's home ... and, uh...
+L81335 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ So...? Where the hell is it?
+L81334 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Right, Chief.
+L81333 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ This information goes back three days. I want the standard file, you know that.
+L81332 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ No, sir.
+L81331 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ This is not what I requested.
+L81207 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Right, Chief.
+L81206 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ I do not want Benjamin Rand disturbed! You have other ways of gathering information than to trouble a dying man. Use whatever agencies are necessary to put together a detailed history of Chauncey Gardiner, if you run into problems, alert Honeycutt.  I'll be in the office at seven in the morning and I would like to have it at that time.  I've got to take a leak.
+L81205 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Yes, Mr. President, we attempted to contact Mr. Rand, but he was too ill to...
+L81204 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ He's an advisor and close personal friend of Rand's! For Christ sakes, they have volumes of data on Benjamin!
+L81203 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Yes, sir - we are aware of all that, but still, we haven't been able to...
+L81202 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ ... Gentlemen, I quoted this man on national television today he is obviously a financial sophisticate of some reknown.
+L81124 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ No problem, Chief.
+L81123 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ And put it through on a Code Red - I want it as soon as possible.
+L81122 +++$+++ u4006 +++$+++ m266 +++$+++ KAUFMAN +++$+++ Gardiner, yes, sir.
+L81121 +++$+++ u4011 +++$+++ m266 +++$+++ PRESIDENT +++$+++ Kaufman, I'm going to need information on Mr. Chauncey Gardiner's background.
+L81536 +++$+++ u4010 +++$+++ m266 +++$+++ NOVOGROD +++$+++ Let us toast to the success of the coup.
+L81535 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Thank you, Colonel.
+L81534 +++$+++ u4010 +++$+++ m266 +++$+++ NOVOGROD +++$+++ You have proven that already, Comrade Skrapinov, you are to be congratulated for recognizing the importance of this man and establishing an early friendship.
+L81533 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Big business. I could work with that faction quite nicely, Colonel Novogrod.
+L81532 +++$+++ u4010 +++$+++ m266 +++$+++ NOVOGROD +++$+++ That is correct, Comrade Skrapinov. We have ascertained that Gardiner heads a big-business power group that will soon be taking over the American government.
+L81531 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ A coup d'etat! Of course, that was foreseen by Lenin himself!
+L81530 +++$+++ u4010 +++$+++ m266 +++$+++ NOVOGROD +++$+++ But we are quite certain, comrade, that this man Gardiner is a leading member of an American elitist faction planning a coup d'etat.
+L81529 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ That could be possible...

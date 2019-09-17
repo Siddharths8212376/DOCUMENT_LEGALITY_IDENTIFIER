@@ -1,0 +1,200 @@
+L419525 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ Decidedly. Yesterday I was greatly amazed when I came from the market and found that you had made your bed, sir.
+L419524 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Have you?
+L419523 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ If you will forgive me, ever since you met that Bolshevik lady I've noticed a distinct change in you, sir.
+L419522 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I am, Gaston.
+L419521 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ You seem to be a bit nervous, sir.
+L419520 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I guess it is eight forty-two.
+L419519 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ Eight forty-two, sir.
+L419518 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ What time have you, Gaston?
+L419340 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I don't feel like any breakfast.
+L419339 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ Your breakfast, monsieur.
+L419242 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Go to bed.
+L419241 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ Count d'Algout, there have been several telephone...
+L419233 +++$+++ u2306 +++$+++ m149 +++$+++ GASTON +++$+++ Good evening, Monsieur.
+L419232 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Good evening, Gaston.
+L419635 +++$+++ u2307 +++$+++ m149 +++$+++ GENERAL SAVITZKY +++$+++ Certainly.
+L419634 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ General, would you mind making my excuses at our table? I'll be back in a few moments.
+L419617 +++$+++ u2307 +++$+++ m149 +++$+++ GENERAL SAVITZKY +++$+++ Yes.
+L419616 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ You're looking magnificent, Leon...  ...isn't he, General Savitzky?
+L419594 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ General, please... if you hear any rumors that I am a charitable person, will you please kill them at their source?
+L419593 +++$+++ u2307 +++$+++ m149 +++$+++ GENERAL SAVITZKY +++$+++ They hope the settlement will bring you a fortune.
+L419592 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ Are they indeed? Thank you.
+L419591 +++$+++ u2307 +++$+++ m149 +++$+++ GENERAL SAVITZKY +++$+++ I want you to know all the White Russian exiles in Paris are keeping their fingers crossed about the jewels. They are very interested in the case. Swana suspects her countrymen.
+L419590 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ Yes, General Savitzky?
+L419589 +++$+++ u2307 +++$+++ m149 +++$+++ GENERAL SAVITZKY +++$+++ Your Highness...
+L419585 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ Thank you, Louis.
+L419584 +++$+++ u2308 +++$+++ m149 +++$+++ HEADWAITER +++$+++ Is this satisfactory?
+L419579 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ That's perfect!
+L419578 +++$+++ u2308 +++$+++ m149 +++$+++ HEADWAITER +++$+++ Only one in the rear, I'm afraid.
+L419574 +++$+++ u2308 +++$+++ m149 +++$+++ HEADWAITER +++$+++ It is only a small table but it will be no trouble to put in some extra chairs.
+L419573 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ Count d'Algout...
+L419572 +++$+++ u2308 +++$+++ m149 +++$+++ HEADWAITER +++$+++ Certainly, Your Highness, this way please... Count d'Algout made the reservation this afternoon.
+L419571 +++$+++ u2320 +++$+++ m149 +++$+++ SWANA +++$+++ Good evening, Louis. You seem to be very crowded tonight. Can you manage a table near the floor?
+L419570 +++$+++ u2308 +++$+++ m149 +++$+++ HEADWAITER +++$+++ Good evening, Your Highness.
+L420097 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ ...it is in the air... it may come around the corner as you walk down the street....
+L420096 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ There's something in Constantinople... something irresistible....
+L420093 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ ...the Russia of piroshki... people will eat and love it.
+L420092 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Don't call it desertion. Our little restaurant... that is our Russia... the Russia of borscht, the Russia of beef Stroganoff, blinis with sour cream...
+L420082 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ ...Ali Baba and the Forty Thieves... into one single hour you can crowd a thousand and one nights.
+L420081 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Ninotchka, we are in the magic East, the country of Aladdin and His Lamp...
+L420080 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ That was our idea when we first came. All we thought we would get out of this trip was a Turkish bath, but... we learned better.
+L420023 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Thank you for a wonderful dinner.
+L420022 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Well, I think it's getting late. Good night, Ninotchka.
+L420008 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ ...so it blows up that big... what they call an Omelette Surprise!
+L420007 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ ...des petites fraises des bois... de la crème de Bretagne... 
+L419971 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ If you close your eyes and listen to our voices we might be in Paris.
+L419970 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ It's a real Paris reunion.
+L419969 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Let's do that.
+L419842 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ While you eat, you look at the view.
+L419841 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ They tell me it has a wonderful restaurant on the second floor.
+L419386 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ We avoided luxury and extravagance and today... well, if you were to offer us a glass of champagne, we wouldn't say no.
+L419385 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We don't blame you, Leon, but when we came from Russia we believed in simplicity...
+L419091 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ How can you find somebody without knowing what he looks like?
+L419090 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ This is a fine thing. Maybe we've missed him already.
+L419082 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ It is Thursday!
+L419081 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Halt negotiations immediately. Envoy extraordinary arrives Thursday six ten with full power. Your authority cancelled herewith. Razinin.
+L419040 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Oh, Leon, you are so good.
+L419039 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Leon, my little boy.
+L419036 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ What is it, my boy?
+L419035 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Yes, Leon...
+L419021 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Soviet Russia will put all its might behind this case.
+L419020 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ That won't help you! You can't intimidate us!
+L419008 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ I give you my word! They were confiscated legally!
+L419007 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We can call our ambassador.
+L419003 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ These may have been the jewels of the Duchess Swana, but, like all private property, they were confiscated by the State.
+L419002 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ You know, Monsieur Mercier, this is all non-sense.
+L418983 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Do we give the impression of people who are pressed for money?
+L418982 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We can wait.
+L418880 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ He wouldn't say that. What he would say is "Buljanoff, you can't afford to live in a cheap hotel. Doesn't the prestige of the Bolsheviks mean anything to you? Do you want to live in a hotel where you press for the hot water and cold water comes and when you press for the cold water nothing comes out at all? Phooey, Buljanoff!"
+L418879 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ If Lenin were alive he would say, "Buljanoff, Comrade, for once in your life you're in Paris. Don't be a fool. Go in there and ring three times."
+L418878 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ I don't want to go to the Hotel Terminus.
+L418873 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Comrades, if we ring nine times... let's go in.
+L418872 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ They tell me when you ring once the valet comes in; when you ring twice you get the waiter; and do you know what happens when you ring three times? A maid comes in -- a French maid.
+L418869 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Let's be honest. Have we anything like it in Russia?
+L418868 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Comrades, why should we lie to each other? It's wonderful.
+L419392 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ No, no.
+L419391 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ You found your way to us and we weren't easy to reach, were we?
+L419381 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ I think she covered you with the parasites.
+L419380 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ What did she say about me?
+L419379 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ She says she won't be intimidated by parasites. She called the Duchess a blood-sucking aristocrat and a blackmailer.
+L419052 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I'll send you a muff.
+L419051 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ And if we have to go to Siberia...
+L419043 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Razinin, Board of Trade, Moscow.
+L419042 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Razinin.
+L419041 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ What's the name of that Commissar on the Board of Trade?
+L419033 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I just said let's have a little lunch.  Room service.
+L419032 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ What proposition?
+L419029 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Oh, no, no. I am not a highwayman, I'm just a nuisance. All I'm trying to do is make things as difficult as possible.
+L419028 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ I suppose you expect us to hand over the jewels?
+L419027 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ But how will she look? The fashions this spring are very becoming to her. Gentlemen, the judge will be French, the jury will be French, everybody in that courtroom will be French. Have you ever seen a French court when a beautiful woman sits on the witness stand and lifts her skirt a little? You sit down and pull up your pants and where will it get you?
+L419026 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ All right, go ahead, get her on the witness stand! What can she say?
+L419015 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Don't look so gloomy, gentlemen. All is not lost. You may have a chance.
+L419014 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Get out of here!
+L419013 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Well, gentlemen... how about a little lunch?
+L418994 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ But you can't...
+L418993 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ I just want a word with Monsieur Mercier.
+L418992 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ If you want to see us you must come later.
+L418991 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ My name is Count d'Algout. I telephoned.
+L418990 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ We don't want to be disturbed.
+L420091 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ You mean you are deserting Russia?
+L420090 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ ...we have a wonderful electric sign: "Dine With Buljanof, Iranoff, and Kopalski."
+L420061 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Buljanoff, she still has those old- fashioned Bolshevik ideas.
+L420060 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ You've done it again and I am responsible. How can you forget yourselves this way? You were sent here to make money, not to spend it.
+L420059 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Now, please, Ninotchka, don't start figuring it out in cows.
+L420058 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ But Buljanoff, Iranoff, Kopalski...
+L420021 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Look for yourselves.
+L420020 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Bad news?
+L419979 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Just three people in a room this size? Whew!
+L419978 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Only myself and two other girls. One is a cello player in the opera and the other a street-car conductor.
+L419962 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Brave... that's right.
+L419961 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Come, now, you must not talk that way.... You have to adjust yourselves.... We must be brave.
+L419505 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Too bad we have to waste all that time.
+L419504 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Well, it means another two weeks in Paris.
+L419133 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Two thousand francs. If I stay here a week I will cost the Russian people seven cows.  Who am I to cost the Russian people seven cows?
+L419132 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ A cow?
+L419131 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Do you know how much a cow costs, Comrade Iranoff?
+L419130 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ A day.
+L419129 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ A week?
+L419128 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Two thousand francs.
+L419127 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ How much does this cost?
+L419104 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ What a charming idea for Moscow to surprise us with a lady comrade.
+L419103 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Comrade.
+L419102 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Comrade Kopalski...
+L419101 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Comrade.
+L419100 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Comrade Buljanoff...
+L419099 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I am Nina Ivanovna Yakushova, Envoy Extraordinary, acting under direct orders of Comrade Commissar Razinin. Present me to your colleagues.
+L419098 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ I am Michael Simonovitch Iranoff.
+L419097 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I am looking for Michael Simonovitch Iranoff.
+L419087 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Right away... instantly!
+L419086 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ Yes, monsieur.
+L419085 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ A Special Envoy is coming from Moscow. He'll occupy the Royal Suite. Move our things to the smallest room you've got.
+L418897 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ But, gentlemen, I am afraid...
+L418896 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ That's even better.
+L418895 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ I'm afraid we have no boxes of that size in our vault, but there is one suite with a private safe...
+L418894 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Oh, yes, but have you a safe here big enough to hold this?
+L418893 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ I might be able to accommodate you. Is there some more luggage?
+L418887 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ Monsieur.
+L418886 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ This is Comrade Kopalski.
+L418867 +++$+++ u2309 +++$+++ m149 +++$+++ IRANOFF +++$+++ Just looking around.
+L418866 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ Yes, monsieur?
+L419390 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We can't... but you are so ingenious, Leon...
+L419389 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ All right, then make an appointment with her so I can see her!
+L419388 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ She doesn't leave her room! She has been locked in for the last two days with lawyers and law books!
+L419387 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Well, boys, I'd like to help you but what can I do? Yesterday I waited six hours in the lobby!
+L419378 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Leon, Leonitchka, she is not going to negotiate! She is going to fight that injunction. She's going to make a precedent of it!
+L419377 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ What's new?
+L419050 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ If we say that, Leon... we'll be sent to Siberia!
+L419049 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ How does this strike you? Commissar Razinin, Board of Trade, Moscow. Unexpected situation here. Duchess Swana in Paris claims jewels, and has already brought injunction against sale or removal. After long and careful study we suggest in the interest of our beloved country a fifty-fifty settlement as best solution. Iranoff, Buljanoff, and Kopalski.
+L419019 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ All right -- go ahead... you talk to the lawyer and I'll talk to the judge!
+L419018 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We haven't anything to discuss with you. We'll talk to a lawyer!
+L419017 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Yes... a very slim one. I want to be fair. I don't deny that you might make out some kind of a case.
+L419016 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We may have a chance.
+L418999 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ Just a moment.  I hope you haven't closed this deal, Monsieur Mercier. It might bring you into serious difficulties.
+L418998 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Now, monsieur, you have no right...
+L420079 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Don't make it difficult for me. This is no more a pleasure trip for me than it is for you.
+L420078 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ ...and Kopalski.
+L419997 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ We will get that... we'll get everything... maybe a little bit later but we'll get it... We must be patient... Finally we got the spring, didn't we? We got the swallows, and you will get your apfel strudel too.
+L419996 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Yes, a good piece of apfel strudel....
+L419995 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Now, comrades... there is something better in life than crumbs of French pastry.
+L419989 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Even the swallows are back.
+L419988 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ The same spring we had in Paris. Just as good.
+L419983 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ And it's great! Think what it was a few years ago and what it is now.
+L419982 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Yes, there's no doubt of that...  Just look out of the window and there it is.
+L419981 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Sssh! Once and for all, we're in Moscow!
+L419980 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ And your own gas cooker? That's marvelous!  Naturally it's not the Royal Suite...
+L419958 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Well, we're back home.
+L419957 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ How are you, you three scoundrels?
+L419511 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ No, not a thing. Would you like to go out?
+L419510 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ If there is anything we can do for you...
+L419507 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Oh yes, Power and Light. Thank you.
+L419506 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ I acted on your suggestion and got in touch with the Power and Light authorities. Whenever you want to visit their plants they are open to you.
+L419152 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ You, Comrade Iranoff, go to the Public Library and get me the section of the Civil Code on property.
+L419151 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Yes, Comrade.
+L419150 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ We cannot feed the Russian people on your intentions. Fifty per cent to a so-called Duchess!... Half of every loaf of bread to our enemy! Comrade Kopalski, go at once to our Embassy and get the address of the best lawyer in Paris.
+L419149 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We did it with the best intentions...
+L419148 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Will you send me some cigarettes, please?  Comrades, I am not in a position to pass final judgment but at best you have been careless in your duty to the State.  You were entrusted with more than a mere sale of jewelry. Why are we peddling our precious possessions to the world at this time? Our next year's crop is in danger and you know it. Unless we can get foreign currency to buy tractors there will not be enough bread for our people. And you three comrades...
+L419143 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I will not repeat your mistake. I will have no dealings with the Grand Duchess nor her representative.
+L419142 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We dealt directly with the representative of the Grand Duchess. I am sure if we call him he will give you a very clear picture.
+L419138 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I hope so for your sake.  Let us examine the case. What does the lawyer say?
+L419137 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ We did our best, Comrade.
+L419136 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I am ashamed to put the picture of Lenin in a room like this.  Comrades, your telegram was received with great disfavor in Moscow.
+L419122 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ It's a hat, Comrade, a woman's hat.
+L419121 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ What's that?
+L419118 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ No, thank you.
+L419117 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ Allow me, Comrade.
+L419113 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Why?... Why should you carry other people's bags?
+L419112 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ He is a porter. He wants to carry them.
+L419106 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Don't make an issue of my womanhood. We are here for work... all of us. Let's not waste time. Shall we go?
+L419105 +++$+++ u2310 +++$+++ m149 +++$+++ KOPALSKI +++$+++ If we had known we would have greeted you with flowers.
+L419503 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Au revoir.
+L419502 +++$+++ u2311 +++$+++ m149 +++$+++ LAWYER +++$+++ We'll leave these papers here for your further consideration. Au revoir, madame.
+L419501 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ Well, there's nothing we can do about it. Why get excited?
+L419500 +++$+++ u2311 +++$+++ m149 +++$+++ LAWYER +++$+++ Yes. It is unfortunate.
+L419499 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I know, gentlemen, but it is in the hands of the Court. We're helpless, aren't we?
+L419498 +++$+++ u2311 +++$+++ m149 +++$+++ LAWYER +++$+++ We did our utmost to have it set ahead.
+L419497 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ That's two weeks from Thursday...
+L419496 +++$+++ u2311 +++$+++ m149 +++$+++ LAWYER +++$+++ The hearing is set for the twentieth of this month.
+L419495 +++$+++ u2314 +++$+++ m149 +++$+++ NINOTCHKA +++$+++ I'm sorry, gentlemen. The other day I heard such a funny story...  It still makes me laugh. It is very funny.  I am sorry. Oh yes... about this injunction...
+L419691 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ I'm sorry, sir, but I must insist.
+L419690 +++$+++ u2312 +++$+++ m149 +++$+++ LEON +++$+++ You want me to go in there?
+L419689 +++$+++ u2313 +++$+++ m149 +++$+++ MANAGER +++$+++ She has been asked to leave the powder room but without success. We would appreciate if you would see to it yourself.

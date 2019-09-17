@@ -1,0 +1,200 @@
+L637638 +++$+++ u8745 +++$+++ m593 +++$+++ GRUBER +++$+++ Yes?  Galvin, right?
+L637637 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Dr. Gruber ...
+L638016 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ Well, maybe you better do that, then.   You know you guys are all the same. You don't care who gets hurt. You're a bunch of whores.  You'd do anything for a dollar.  You got no loyalty...no nothing...you're a bunch of whores.
+L638015 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ You think I'm pushy now, wait 'til I get you on the stand...
+L638014 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ You know, you're pushy, fella...
+L638013 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Then why don't you testify?
+L638012 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ I don't owe them a goddamn thing.
+L638011 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I do.  Who is it?  The Doctors. What do you owe them?
+L638010 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ Who says that I'm protecting anyone?
+L638009 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Who are you protecting, then?
+L638008 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ I didn't do it, Mister.
+L638007 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Who put my client in the hospital for life.
+L638006 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ And ask me what?
+L638005 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I can subpoena you, you know.  I can get you up there on the stand.
+L638004 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Then why aren't you testifying for their side?
+L638003 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ Nothing happened.
+L638002 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ You know what happened.
+L638001 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ I've got nothing to say to you.
+L638000 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I want someone who was in the O.R. We're going to win the case, there's no  question of that.  It's just a matter of how big...
+L637999 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ ...you got your doctor's testimony. Why do you need me?
+L637998 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ He's the Assistant Chief of Anesthesiology, Massachusetts Commonwealth.  He says your doctors, Towler and Marx, put my girl in the hospital for life.  And we can prove that.  What we don't know is why.  What went on in there?  In the O.R.  That's what we'd like to know.  Something went wrong.  And you know what it was.  They gave her the wrong anesthetic.  What happened?  The phone rang...someone got distracted...what?
+L637997 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ No.
+L637996 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'll just take a minute.  Deborah Ann Kaye.  You know what I'm talking about.  The case is going to trial. Our chief witness is a Dr. David Gruber, you know who he is?
+L637995 +++$+++ u8751 +++$+++ m593 +++$+++ MARY ROONEY +++$+++ I told the guy I didn't want to talk to...
+L637994 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'm Joe Galvin, I'm representing Deborah Ann Kaye, case against St. Catherine Laboure.
+L638408 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Noted.  Thank you.   Miss Costello was a rebuttal witness.  Her sole rebuttal was the document,  which has been disallowed...
+L638407 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Exception!
+L638406 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Overruled...
+L638405 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I object, your Honor...
+L638398 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Mr. Concannon...?
+L638397 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Nothing further, your Honor...
+L638155 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ You aren't going to get a mistrial, boy.  We're going back this afternoon, we're going to try this case to an end.  Now you get out of here before I call the Bailiff and have you thrown in jail.
+L638154 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Damn right I'm done.  I'm going to ask for a mistrial and I'm going to request that you disqualify yourself from sitting on this case. I'm going to take a transcript to the State and ask that they impeach your ass.
+L638153 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Are you done?
+L638152 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ And don't give me this shit, 'I was a lawyer, too.'  'Cause I know who you were.  You couldn't hack it as a lawyer. You were Bag Man for the Boys and you still are.  I know who you are.
+L638151 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Galvin, look, many years ago...
+L638150 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ No, no, you listen to me.  All I wanted in this case is an even shake.  You rushed me into court in five days...my star witness disappears, I can't get a continuance, and I don't give a damn.  I'm going up there and I'm going to try it.  Let the Jury decide.  They told me Sweeney he's a hard-ass, he's a defendant's judge.  I don't care.  I said, the hell with it.  The hell with it. I'll take my chances he'll be fair.
+L638149 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Listen to me, fella...
+L638148 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'm an attorney on trial before the bar.  Representing my client. My client, do you understand?  You open your mouth and you're losing my case for me.
+L638147 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I got a letter from the Judge Advocate's office on you today, fella, you're on your way out...They should have kicked you out on that Lillibridge case.  Now this is it today.
+L638138 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I'd just like to get to the point, Mr. Galvin.  Let's not waste these people's time.  Answer the question, Mr. Witness.  Please.  Would a nine-minute lapse in restoring the heartbeat in and of itself be negligence?
+L638137 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ If I may be permitted to question my own witness in my own way...
+L638136 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Yes, Mr. Galvin?
+L638128 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I believe that's the law...is it not, Mr. Galvin...?
+L638127 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What?
+L638126 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Sustained.  Yes.  The witness will confine his testimony to review of the hospital records.
+L638123 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Thank you, your Honor, I'll continue.  Dr. Thompson.  Did you examine Deborah Ann Kaye last night at The Northern Chronic Care Facility?
+L638122 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Do we have time this morning to... All right.  Mr. Galvin, you want to continue now, or we can resume with Dr. Thompson this afternoon.
+L638082 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Defense...?
+L638081 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Ready, your Honor.
+L638080 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Is the Plaintiff ready?
+L637893 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I don't have a week.  This case never should have come to trial. You know better.  You're Mr. Independent.  You want to be independent?  Be independent now. I've got no sympathy for you.
+L637892 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I could subpoena him if I had a week.
+L637891 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ That happens.
+L637890 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I had a witness disappear on me.
+L637889 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ You should have taken their offer. Especially if you were unprepared.
+L637888 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I need an extension for my case.
+L637887 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ That's perfectly all right.
+L637886 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Thank you for seeing me.
+L637885 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ What is it?
+L637812 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'm sure you would.
+L637811 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ And it seems to me, a fella's trying to come back, he'd take this settlement, and get a record for himself.    I myself would take it and run like a thief.
+L637810 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I wasn't disbarred, they dropped the pro...
+L637809 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ ...that's true.  Sometimes they change, sometimes they don't. Now, I remember back to when you were disbarred...
+L637808 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ ...things change.
+L637807 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ That's it...?    Come on, guys...life is too short...  You tell me if you're playing 'chicken,' or you mean it.    Frank:  I don't think I'm talking out of school, but I just heard someone offer you two hundred grand...and that's a lot of money...and if I may say, you haven't got the best of records.
+L637802 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I know full well she can't, Frank. You see the Padre on your way out and he'll punch your ticket.  You follow me?  I'm trying to help you.
+L637801 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ My client can't walk, your Honor.
+L637800 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ I'm sure it is, Frank:  and let me tell you something.  If we find it so complex, how in the hell you think you're going to make a jury understand it?   See my point?  Let's talk a minute. Frank: what will you and your client take right now this very minute to walk out of here and let this damn thing drop?
+L637799 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ This is a complicated case, your Honor...
+L637798 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Now, have you boys tried to resolve your little difficulty because that certainly would save the Commonwealth a lot of time and bother.
+L637793 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I was held up.
+L637792 +++$+++ u8747 +++$+++ m593 +++$+++ JUDGE +++$+++ Why is that?
+L637791 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Yessir.  I'm sorry.
+L638278 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ No.  At Chelsea Childcare.  Okay. Look, call me Monday, hey?  I'm late for work.
+L638277 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Yes, we know that you do.  I have it in my files.  That's at the Manhattan Health Center...
+L638276 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ We get it at work.  We get the magazine at work.
+L638275 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ We have a renew-your-subscription offer...
+L638274 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Missus...
+L638273 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ That's why I'm calling, Miss Price...
+L638272 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ My subscription lapsed three years ago...
+L638271 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ We find that your subscription lapsed...
+L638270 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Kathy Price.
+L638269 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Pardon?
+L638268 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Yes.  Price...
+L638267 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ This is Miss Costello...?
+L638266 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ How come you're calling me from...?
+L638265 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ This is Mr. Wallace in Subscriptions?
+L638264 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ From the magazine?
+L638263 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'm calling from Professional Nurse Quarterly...
+L638262 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ If you're selling something, I'm late for work...
+L638261 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Hello, I'm calling from...
+L637989 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Let me talk to Mickey.
+L637988 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Mr. Galvin's...
+L637901 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I understand.  Thank you, my name is Galvin.  I'll be at the following number in a half an hour.  It's urgent.
+L637900 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ I can't guarantee that...
+L637899 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ ...Would you, would you call him up.  I'll give you my number, and ask him...
+L637898 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ I'm sorry, Sir, we're not allowed...
+L637897 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I have to reach him.  This is an emergency.  Could you give me his home number?
+L637896 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Business hours are over, Sir. This is the switch...
+L637895 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Mr. Alito, please.
+L637894 +++$+++ u8756 +++$+++ m593 +++$+++ VOICE +++$+++ Continental Casualty...
+L638247 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Call the A.M.A.  to Laura) ...I can't talk now.  ...tell them you're Dr. Somebody...you have to find this nurse...
+L638246 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ I have to talk to you.
+L638245 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Thank you.
+L638202 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I don't have a goddamned idea.
+L638201 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ What are you going to do?
+L638200 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ No.
+L638199 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Is it over?
+L638071 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Yes.   We've all got to let go.
+L638070 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ No...no...
+L638069 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You're pressuring yourself...
+L638068 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Stop pressuring me...
+L638067 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Joe...  Joe...
+L638065 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ What would you like it to be to me...?  I, I, I can't invest in failure.
+L638064 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What is that to you...?
+L638063 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ What is your wife's picture doing by the side of your...
+L638062 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ It's over!
+L638061 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Oh, yes, I do, Joe.  Believe me. You say you're going to lose.  Is it my fault?  Listen!  The damned case doesn't start until tomorrow and already it's over for you!
+L638060 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ You, you don't under...
+L638059 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You're like a kid, you're coming in here like it's Saturday night, you want me to say that you've got a fever -- you don't have to go to school...
+L638058 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ If I don't 'grow up...'
+L638057 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Not if you don't grow up...
+L638056 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Is there going to be a later...?
+L638055 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Maybe I'll tell you later.
+L638054 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ And what makes you so tough?
+L638053 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You told me so.  Maybe you'd get some sympathy.  You came to the wrong place.
+L638052 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Who told you that?
+L638051 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You want me to tell you it's your fault?  It probably is.  What are you going to do about it?   I thought it's not over till the jury comes in.
+L638050 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I...
+L638049 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You do what you want.  You want to leave...You want to go kill yourself?
+L638048 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I...do you want me to leave?
+L638047 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Well, then what are you doing here?
+L638046 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Yes.
+L638045 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ And it's over...?
+L638044 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ That's what I am.
+L638043 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You're talking like a drunk.
+L638042 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ That's not the question.  It's over.  Do you think that it's my fault?  If I'd...if I'd...I never should have taken it.  There was no way that I was going to win.
+L638041 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Isn't there something you...
+L638040 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Do you think it's my fault?
+L637925 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Yes.
+L637924 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ You're going to stay here...?
+L637923 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ You can't work if you can't think. You get in bed.  It's all right. I'll stay here with you.  It's all right.  Come on...
+L637922 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I've got to work.
+L637921 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Why don't you get some rest?
+L637920 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ No, no, I'm just...
+L637919 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Do you want me to go...?
+L637918 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I've got to work...
+L637917 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ ...and is that serious?
+L637916 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ They, uh, they got to my witness.
+L637915 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ What happened...?
+L637914 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ We, we...No...we just had a small reversal in the case... I have some, uh...I have some work to do...
+L637913 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Is this a bad time.
+L637912 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What...?
+L637911 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Would you like me to leave...?   Is this a bad time --?
+L637788 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ That's what I'm going to try to do.
+L637787 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ And is that what you're going to do?    Is that what you're going to do...?
+L637786 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Maybe I can do something right.
+L637785 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Maybe what?
+L637784 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ They might.  Yes.  That's the point ...is that they might...you see, the jury wants to believe.  They're all cynics, sure, because they want to believe.  I have to go in there tomorrow to find twelve people to hear this case.   I'm going to see a hundred people and pick twelve.  And every one of them it's written on their face, `This is a sham.  There is no justice...' but in their heart they're saying, 'Maybe...maybe...'
+L637783 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ And are they going to get it?
+L637782 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Jimmy!  That's why the court exists.  The court doesn't exist to give them justice, eh?  But to give them a chance at justice.
+L637781 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ I think I will.
+L637780 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ The weak, the weak have got to have somebody to fight for them. Isn't that the truth?  You want another drink?
+L637778 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ You just got lucky.   D'you eat yet?  Come on.
+L637777 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ What if it wasn't you that I came back to see?
+L637776 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ My name's Frank.  And furthermore, you came back to see me tonight.
+L637775 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Laura.
+L637774 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ A brick house says you divorced him.  I'll put you on your honor. Bet you a hundred dollars against you join me for dinner.  And I'll take your word for it.  Now you tell me the truth.  Because you cannot lie to me.  What's your name?
+L637773 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Who says I'm the one that called it off?
+L637772 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Oh, actually it was.  Then why'd you call it off?
+L637771 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Yes.  It was, actually.
+L637770 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Really.  How wonderful for you.
+L637769 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ My ex-husband was a lawyer.
+L637768 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I'm a lawyer.
+L637767 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ And what are you?  A cop?
+L637766 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What Hotel are you staying at?
+L637765 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ The TV didn't work.
+L637764 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Why?
+L637763 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ I changed my room at the Hotel.
+L637762 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I changed my life today.  What did you do?
+L637761 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Still looking.
+L637760 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ D'you find an apartment?
+L637872 +++$+++ u8750 +++$+++ m593 +++$+++ MAID +++$+++ He's...you can't reach him, Sir. He's in the, on some island in the Caribbean, they don't have a phone.   He'll be back in a week...  If you'd like Dr. Halpern's number...
+L637871 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ No, no, no.  I have to talk to him.  If I can only call him..
+L637870 +++$+++ u8750 +++$+++ m593 +++$+++ MAID +++$+++ Dr. Halpern's taking all his...
+L637869 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I...please.  My wife...my wife's prescription has run out.  If I can call him...
+L637868 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Where is he?
+L637867 +++$+++ u8750 +++$+++ m593 +++$+++ MAID +++$+++ He's not in, Sir.
+L637866 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I had an appointment at his office, I think I must have got it wrong. We had a meeting...
+L637865 +++$+++ u8750 +++$+++ m593 +++$+++ MAID +++$+++ Dr. Gruber's not in.
+L637864 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ Dr. Gruber.
+L638313 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I don't want a mistrial.
+L638312 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ We got a mistrial, you know.  Joe -- did you hear what I said...?
+L638311 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ I don't know.
+L638310 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ I talked to Johnnie White at the Bar Association.   The broad used to work for one of Concannon's partners in New York awhile ago.   She wanted to move to Boston.    How badly did she hurt us, Joe?
+L638308 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ Come on, we'll get a cup of coffee...
+L638307 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What are you doing in New York...?
+L638306 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ We got to talk.
+L638305 +++$+++ u8744 +++$+++ m593 +++$+++ GALVIN +++$+++ What the hell are you doing here?

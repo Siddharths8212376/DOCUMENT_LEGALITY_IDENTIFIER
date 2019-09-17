@@ -1,0 +1,200 @@
+L221013 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Harry.
+L221012 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Well... I'll give it a try, Mr. York.
+L221011 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ I suppose not. Gotta ask you this, though: for all our sakes, you better keep your trap shut.
+L221010 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Well aren't you the smoothie. Now you're going to ask for my number, I suppose.
+L221009 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Sure don't talk like you're sixteen.
+L221008 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yeah. Could look bad for you and Kaminski too, I guess.
+L221007 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Right again. You're no more an atheist than my man's a Red, but what they're doin', see, they're addin' up their version of your ideas with their version of ours. Could look bad for your Daddy.
+L221006 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ But I'm not. The newspapers're --
+L221005 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Well... see the papers've got us pegged as pinkos, then you come along, the friendly neighborhood atheist --
+L221004 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Whattaya mean?
+L221003 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Now you're catchin' on. Don't wanna get your Daddy in hot water, do you?
+L221002 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You know, my Dad's done some work for Kaminski...
+L221001 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Yeah, well --
+L221000 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh yeah! I saw you in the newsreel!
+L220999 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Harry York. I work for Martoni Kaminski, he's running for Congress here.
+L220998 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'll... take your word for it. So who are you, then?
+L220996 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No... Actually, you look more like a cop.
+L220995 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Now wait a minute, sweetie. Do I look like a newshound to you?
+L220994 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yeah. Well if you didn't put it in the papers -- nobody'd even know about it.
+L220993 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Not me. But other people seem to.
+L220992 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm causing trouble?! You're a pain in the butt! You newshounds've been after me and my folks ever since I won that dumb contest. I'm just sixteen, you know? Who the hell cares what I think?
+L220991 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Well... you're causin' trouble, you know that?
+L220990 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Okay then...
+L220989 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ I'm not gonna hurt you. I just wanna talk.
+L220988 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Don't touch me.
+L220987 +++$+++ u956 +++$+++ m62 +++$+++ HARRY +++$+++ Momma told ya not to speak to strangers, huh?  Hey!
+L221990 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ Run!
+L221989 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Shit!
+L221985 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You know, I've never been able to figure that out.
+L221984 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ What'd you do?
+L221983 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yeah.
+L221980 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Well, I was picking fruit with some migrant workers until...
+L221979 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ Yeah, I know what that's like... Where you been?
+L221978 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Wherever they're going, I'm going.
+L221977 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ Where you goin'?
+L221976 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes.
+L221975 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ And no people.
+L221974 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ It's always beautiful at this time. Peaceful...
+L221973 +++$+++ u957 +++$+++ m62 +++$+++ HITCHHIKER +++$+++ Pretty morning.
+L221618 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ You are a deeply troubled young lady... I only hope you change your course before it's too late.
+L221617 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Fine!
+L221616 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Miss Farmer! In light of your flagrant disregard for the conditions of your probation, coupled with the unwarranted assault on the Plaintiff here... I am forced to order you to begin serving a sentence of 180 days in the County Jail.
+L221612 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Miss Farmer, you were advised at the last hearing that if you took one drink of liquor or failed to be a law-abiding citizen --
+L221611 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Sure it's true. I was fighting for my country as well as myself.
+L221610 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Miss Farmer, is it true you fought with the policeman who arrested you last night?
+L221609 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ That's fine with me...  Get it? Fine. A fine! Hey c'mon, c'mon, what is this, an audience or a jury?
+L221608 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ You're on your way to a contempt citation, young lady.
+L221607 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Why, certainly. I wanted to get a peek at his face...
+L221606 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Did you expect him to look you up?
+L221605 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I never saw him. Why didn't he show up?
+L221604 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Have you reported to your Probation Officer as directed?
+L221603 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No, I couldn't get my hands on one.
+L221602 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ Answer the question! Have you driven a car since you were placed on probation?
+L221601 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Who's writing this guy's lines?
+L221600 +++$+++ u958 +++$+++ m62 +++$+++ JUDGE +++$+++ ...Is that not true?
+L221565 +++$+++ u963 +++$+++ m62 +++$+++ MAN +++$+++ I'm preparin' it for the next tenant, he's coming in tomorrow.
+L221564 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ What?
+L221563 +++$+++ u963 +++$+++ m62 +++$+++ MAN +++$+++ You're Farmer? Oh... Well, look, they took your stuff out. Moved it to some hotel, I think.
+L221562 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I live here.
+L221561 +++$+++ u963 +++$+++ m62 +++$+++ MAN +++$+++ Who're you?
+L221560 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ What happened? Who're you?
+L221428 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yeah. Yeah, tonight I think I got it.
+L221427 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ You got it.
+L221426 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You think I got it?
+L221425 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ The speech? Real good.
+L221424 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ How's it sound?
+L221423 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ I already have.
+L221422 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ 'How do I know it's true? You'll get to be the champ. They'll all want you, all the girls! But I don't care. I've been undersea a long time. When they'd put their hands on me I used to say, "This isn't it! This isn't what I mean!" It's been a mysterious world for me! But Joe, I think you're it! I don't know why, I think you're it. Take me home with you.'
+L221421 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ Your big speech?
+L221420 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ 'But how do I know you love me?'
+L221362 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ Good. Then it's very simple. You have to stop being afraid, Frances. It's in you.
+L221361 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Then show me! That's what I'm here for, to learn, to grow!
+L221360 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ I need an incendiary! An arsonist!
+L221359 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ But I want to. I'm trying!
+L221358 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ Yes, you win them, you bring them into your heart, touch them, but you don't set them on fire!
+L221357 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm not!
+L221356 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ I know, but I'm not seeing it. It's there, Frances, the fire is there, but it's not coming through. You're lazy --
+L221355 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ That's me, Clifford.
+L221350 +++$+++ u964 +++$+++ m62 +++$+++ ODETS +++$+++ 'Golden Boy.'
+L221349 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ And what's the title of this seduc... assault?
+L222009 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No! You're not talking now. You listen. You can send me away, Lillian, you can pretend I'm crazy and pretend I'm still your little girl who can't take care of herself, but one thing you can't pretend anymore. You can't pretend I love you because I don't. I can't. Not after what you've done to me. Because you see... I'm still me... I'm trying real hard all this time to be me... and you, 'little sister', you haven't been any help at all.  Okay, boys, I'm ready.
+L222008 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ But what -- 
+L222007 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No! All you've done is try to break my spirit, try to turn me into you! But I'm not you, mother, and I never will be, and thank god for it!  That goes for you too! And frankly, I don't know how, with the two of you, I turned out as sane as I am --  Wait right there, gentlemen, I'll be with you in a minute... and believe me, I don't want to stay here one second longer than I have to!  But I've got to tell you, Lillian, that one day before you die, you will realize what you've done and hang your head in shame. In shame!
+L222006 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I have!
+L222005 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You were hoping for a kind word?! You're my mother! You're supposed to nourish me! Support me!
+L222004 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I was hoping for a kind word, little sister.
+L222003 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Do I go right away or do I have time to take a bath?
+L221955 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I will, I promise.
+L221954 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Little sister, I don't want you to feel any rush to get back to work. I want you to rest... for a while anyway.
+L221953 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Thank you for understanding, Mama.
+L221952 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ You know, little sister, I never resented you for refusing to see me in the... the hospital. I knew you had to manage on your own before you could come back.
+L221951 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No, Mama, I'll take care of it. I'll wash them in the morning.
+L221950 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Oh, just leave those things for now.
+L221945 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No. No, it all depends on what offers I get.
+L221944 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Of course, she hasn't anything definite in mind.
+L221864 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Frances!
+L221863 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes, I am, and you can't stop me! You can't tell me what to do, mother. I'm a grown woman, and I can decide about my own life.
+L221862 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ You're not going anywhere!
+L221861 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm going out!
+L221860 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Where are you going?
+L221859 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You... You'd send me back, wouldn't you? You would.
+L221858 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ And now you're throwing everything away? You're gonna be a nobody! Nobody! You know what that's like?!
+L221857 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Mama, shut up!
+L221856 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ You want to throw it all away, is that it? You had everything, little sister. Beauty... a brilliant career... a wonderful husband. You were a movie star!
+L221855 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No!
+L221854 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ You... you selfish, selfish child. At least talk to him, hear what he has to say.
+L221853 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm not cured. I was never sick! They had no business putting me in there! My only responsibility is to myself now!
+L221852 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I told him to come up! I told him you wanted to show them all that there's nothing wrong with you any more, that you're completely cured!
+L221851 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Haven't you heard what I said?
+L221850 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ They want you back! Your agent called today! Don't you understand? He's sending the scripts. He wants to fly up here in a week with the publicity people! Frances, you can't do this to your fans! Why, they've been praying for you all through this nightmare. You can't turn your back on them now! Look at this fan mail I've been answering!
+L221849 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Mama...?
+L221848 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Don't... talk crazy.
+L221847 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Wait, Mama, wait. I have something to tell you. I've decided... well... I'm not going to make movies anymore. I thought that's what I wanted, and I went after it with all my soul, the way you taught me, but I was miserable, Mama, and it nearly killed me. So now... now it's over. I want a different kind of life, something... simple. I want to live someplace quiet and peaceful... in the country maybe, and I'll have dogs and cats -- I feel so light suddenly, so clear for the first time in... It's going to be okay, Mama, I know it. And I love you.
+L221846 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Oh Frances, do I have news for you! Guess who --
+L221845 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm back, Mama.
+L221833 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes, Mama.
+L221832 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I don't want you drinking, Frances.
+L221831 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes, Mama.
+L221830 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ You know, the surest way to lose an appetite, is to drink, little sister.
+L221829 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I promise I'll... I promise, Mama.
+L221828 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Say you promise.
+L221827 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Sure.
+L221826 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ At one. Promise?
+L221825 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'll be back.
+L221824 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I'll have lunch ready by one.
+L221823 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Not long.
+L221822 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ How long will you be?
+L221821 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ For a walk, Mama. Just a walk.
+L221820 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Where are you going?
+L221819 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Nothing. I think I'll just go out for awhile.
+L221818 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ What's wrong?
+L221817 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I think I need a little air.
+L221815 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Please. I want you to. It would make me so happy.
+L221814 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh Mama, I'm so... tired of that song.
+L221797 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Frances, you remember my lawyer, Alma Styles?
+L221796 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Well, who have we here...?
+L221700 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Go on...
+L221699 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ What?
+L221698 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You kill me, Mama.
+L221697 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ It's your fan mail, little sister.
+L221696 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Then why did you bring them?
+L221695 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Well, they needed immediate answers, Frances. It's good manners and good sense. You shouldn't be bothering yourself with these right now.
+L221694 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Why are these all opened?
+L221693 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ And here's one from nice Mr. Zeiss. He says that...
+L221686 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Are you crazy? Unhand that woman! That's Amelia Earhart!
+L221685 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Tell them who I am! Tell them who I am!
+L221638 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You're taking me home!
+L221637 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Shhh, shhh. You're not going to jail, Frances. The Judge has put you under my care. I'll see you get the rest you need.
+L221636 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Mama, what's...
+L221635 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ It's alright now, little sister, everything's going to be just fine.
+L221249 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Smile, little sister, smile.
+L221248 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ It's okay.
+L221124 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ ...You will.
+L221123 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I don't care.
+L221122 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Yes, but important people are concerned about this. Judge Hillier spoke to Alma Styles --
+L221121 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ It isn't in your hands, Mama. It's my life.
+L221117 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh, Mama, don't you understand?
+L221116 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I'll pay your way to New York. I'll work, I'll slave. I'll sell my vegetables to the truck farmers, or --
+L221115 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh Ma, they're not using me. It's just a chance to travel, see things. Besides, it's the only way I can get to New York.
+L221114 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ But they're using you!
+L221050 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ And you... should be proud. You won that contest and made a name for yourself.
+L221049 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes, Ma.
+L221048 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ Don't listen to him, little sister. When you're proud of what you are, you don't refuse the label, understand?
+L221031 +++$+++ u962 +++$+++ m62 +++$+++ LILLIAN +++$+++ I'm not hungry. You two just enjoy yourselves. After all, this is a celebration.
+L221030 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Mama...
+L221261 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh bullshit.
+L221260 +++$+++ u959 +++$+++ m62 +++$+++ JUDGE HILLIER'S WIFE +++$+++ No, my dear. You must be mistaken.
+L221259 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Sure. You shouted at me in the auditorium when I read my essay.
+L221258 +++$+++ u959 +++$+++ m62 +++$+++ JUDGE HILLIER'S WIFE +++$+++ I don't believe so.
+L221257 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Don't I know you?
+L221256 +++$+++ u959 +++$+++ m62 +++$+++ JUDGE HILLIER'S WIFE +++$+++ Yes...?
+L221255 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Excuse me.
+L221254 +++$+++ u959 +++$+++ m62 +++$+++ JUDGE HILLIER'S WIFE +++$+++ On behalf of the Seattle Ladies Club, as a token of our vast admiration --
+L221728 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Sedate her.
+L221727 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Symington says...
+L221725 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No, I'm warning you! Who do you think you are, God? You bumble around with your folders...  ...and your pencils...  ...and your god-damn buttons...  ...all your badges of authority! But you have no authority! You're nothing! You're a zero!
+L221724 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Frances, I'm warning you...
+L221723 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I want outta here, you understand? I'm ready to get out! So you go back there... you go back and you tell them to let me out!
+L221722 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ 'Cause if it's long enough, which I doubt, why don't you wrap it around and fuck yourself in the ass!
+L221721 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Huh?
+L221720 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Dr. Symington, how big is your dick?
+L221719 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ I'm sure you'll see it my way in the end.
+L221718 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Mental illness is an elusive thing, and though I'm pleased you're feeling more... capable, it's perhaps unrealistic to expect you to be completely cured after so short a time. Don't you agree?
+L221717 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ You what?
+L221716 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Frances, you're still filled with anxiety. You feel guilty and hostile toward your family and friends. Consequently, I didn't recommend your release at the staff review.
+L221715 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Doctor, I hate to break this to you, but my mother is a little batty.
+L221714 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ But you tell me you had a pleasant visit and your mother says you were sullen and uncommunicative. Whom do you think I should believe?
+L221713 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I'm sorry. She misunderstood, that's all.
+L221712 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Oh for Christ's...
+L221711 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ And you accused her of tampering with your mail.
+L221710 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ I never said... Oh look. That's just a figure of speech. She said something funny, and I said...
+L221709 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ She told me you said, "Mama, you want to kill me."
+L221708 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ What?
+L221707 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Do you really believe your mother's trying to kill you?
+L221706 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ No... What I mean is... I'm just very excited by the prospect of getting on with my life, that's all.
+L221705 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ You're telling me you feel guilty.
+L221704 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Not at all. She brought me my fan mail.  I had no idea there were so many strangers concerned about me. But I guess that's the best thing about working in the movies. You make so many friends. I want to go back and show them that the faith they put in me wasn't a mistake.
+L221703 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ Really? Any problems?
+L221702 +++$+++ u955 +++$+++ m62 +++$+++ FRANCES +++$+++ Yes. It was very good to see her.
+L221701 +++$+++ u967 +++$+++ m62 +++$+++ SYMINGTON +++$+++ ...I'm sorry to keep you waiting, the staff review ran over. Did you enjoy your mother's visit?

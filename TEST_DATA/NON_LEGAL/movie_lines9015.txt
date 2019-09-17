@@ -1,0 +1,200 @@
+L118930 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ Is that all you wish to tell us?
+L118925 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Not at all. Captain Renault's signature is necessary on every exit visa.  Captain, would you think it is possible that Herr Laszlo will receive a visa?
+L118924 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ Whether or not you succeed is, of course, problematical.
+L118923 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Very well, Herr Laszlo, we will not mince words. You are an escaped prisoner of the Reich. So far you have been fortunate enough in eluding us. You have reached Casablanca. It is my duty to see that you stay in Casablanca.
+L118704 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ Captain Renault, I am under your authority. Is it your order that we come to your office?
+L118703 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Then we shall state another time and another place. Tomorrow at ten in the Prefect's office, with Mademoiselle.
+L118702 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ This is hardly the time or the place.
+L118701 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ I should like to discuss some matters arising from your presence on French soil.
+L118700 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ I've never accepted that privilege, and I'm now on French soil.
+L118699 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You were a Czechoslovakian. Now you are a subject of the German Reich!
+L118698 +++$+++ u665 +++$+++ m42 +++$+++ LASZLO +++$+++ I'm sure you'll excuse me if I am not gracious, but you see, Major Strasser, I'm a Czechoslovakian.
+L119488 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Ask Monsieur Rick.
+L119487 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Why do you stand here? Why don't you stop him?
+L119486 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Victor Laszlo is on that plane.
+L119485 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ What is the meaning of that phone call?
+L119212 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Find one.
+L119211 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ But I have no excuse to close it.
+L119210 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Yes, much too good a time. The place is to be closed.
+L119209 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ But everybody's having such a good time.
+L119208 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You see what I mean? If Laszlo's presence in a cafe can inspire this unfortunate demonstration, what more will his presence in Casablanca bring on? I advise that this place be shut up at once.
+L119086 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I see what you mean.
+L119085 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Uh, huh. I have been thinking. It is too dangerous if we let him go. It may be too dangerous if we let him stay.
+L119084 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ A leader, like Laszlo?
+L119083 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ We are concerned about more than Casablanca. We know that every French province in Africa is honeycombed with traitors waiting for their chance, waiting, perhaps, for a leader.
+L119081 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ And if it should change?
+L119080 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I have no conviction, if that's what you mean. I blow with the wind, and the prevailing wind happens to be from Vichy.
+L119079 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Captain Renault, are you entirely certain which side you're on?
+L119078 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ My dear Major, we are trying to cooperate with your government, but we cannot regulate the feelings of our people.
+L119077 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You see, Captain, the situation is not as much under control as you believe.
+L118915 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ It may interest you to know that at this very moment he is on his way here.
+L118914 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ As to Laszlo, we want him watched twenty-four hours a day.
+L118913 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ But we mustn't underestimate American blundering. I was with them when they "blundered" into Berlin in 1918.
+L118912 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You give him credit for too much cleverness. My impression was that he's just another blundering American.
+L118911 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ If Rick has the letters, he's much too smart to let you find them there.
+L118910 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ I strongly suspect that Ugarte left the letters of transit with Mr. Blaine. I would suggest you search the cafe immediately and thoroughly.
+L118708 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Mademoiselle.
+L118707 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Mademoiselle.
+L118653 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Perhaps.
+L118652 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You see, Major, you have nothing to worry about Rick.
+L118649 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ I admit he is very clever. Three times he slipped through our fingers. In Paris he continued his activities. We intend not to let it happen again.
+L118648 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Of course, one must admit he has great courage.
+L118638 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You weren't always so carefully neutral. We have a complete dossier on you.
+L118637 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Rick is completely neutral about everything. And that takes in the field of women, too.
+L118633 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ How about New York?
+L118632 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Ho, diplomatist!
+L118620 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Do you mind if I ask you a few questions? Unofficially, of course.
+L118619 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, personally, Major, I will take what comes.
+L118618 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ You repeat "Third Reich" as though you expected there to be others.
+L118613 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ How do you do, Mr. Rick?
+L118612 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Rick, this is Major Heinrich Strasser of the Third Reich.
+L118594 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ I expected no less, Captain.
+L118593 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Especially so tonight, Major. In a few minutes you will see the arrest of the man who murdered your couriers.
+L118590 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Thank you.
+L118589 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ May I recommend Veuve Cliquot '26, a good French wine.
+L118588 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Champagne and a tin of caviar.
+L118587 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Thank you. It is a pleasure to have you here, Major.
+L118585 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Good evening, Captain.
+L118584 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Good evening, gentlemen.
+L118397 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ I have already heard about this cafe, and also about Mr. Rick himself.
+L118396 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Oh, there is no hurry. Tonight he'll be at Rick's. Everybody comes to Rick's.
+L118393 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Realizing the importance of the case, my men are rounding up twice the usual number of suspects.
+L118392 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ By the way, the murder of the couriers, what has been done?
+L118391 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ What else, my dear Major?
+L118390 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Oh, we Germans must get used to all climates, from Russia to the Sahara. But perhaps you were not referring to the weather.
+L118389 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You may find the climate of Casablanca a trifle warm, Major.
+L118386 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Major Strasser, my aide, Lieutenant Casselle.
+L118385 +++$+++ u669 +++$+++ m42 +++$+++ STRASSER +++$+++ Thank you, Captain. It's very good to be here.
+L118384 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Unoccupied France welcomes you to Casablanca.
+L119508 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Louis, I think this is the beginning of a beautiful friendship.
+L119507 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Uh huh.
+L119506 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Our expenses?
+L119505 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ And that ten thousand francs should pay our expenses.
+L119504 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ My letter of transit? I could use a trip. But it doesn't make any difference about our bet. You still owe me ten thousand francs.
+L119503 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ It might be a good idea for you to disappear from Casablanca for a while. There's a Free French garrison over at Brazzaville. I could be induced to arrange a passage.
+L119502 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I think perhaps you're right.
+L119501 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Maybe, but it seemed like a good time to start.
+L119500 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, Rick, you're not only a sentimentalist, but you've become a patriot.
+L119484 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ As soon as the plane goes, Louis.
+L119483 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I suppose you know this isn't going to be pleasant for either of us, especially for you. I'll have to arrest you of course.
+L119482 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Anyway, thanks for helping me out.
+L119481 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ What you just did for Laszlo, and that fairy tale that you invented to send Ilsa away with him. I know a little about women, my friend. She went, but she knew you were lying.
+L119480 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Stay where you are. I don't know what you're talking about.
+L119479 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well I was right. You are a sentimentalist.
+L119445 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ And the names are Mr. and Mrs. Victor Laszlo.
+L119444 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You think of everything, don't you?
+L119443 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ If you don't mind, you fill in the names. That will make it even more official.
+L119433 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ That is my least vulnerable spot.
+L119432 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Just the same, you call the airport and let me hear you tell them. And remember, this gun's pointed right at your heart.
+L119431 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Call off your watch-dogs you said.
+L119430 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I do. We've got plenty of time to discuss that later.
+L119429 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I suppose you know what you're doing, but I wonder if you realize what this means?
+L119425 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Put that gun down.
+L119424 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I have. Sit down over there.
+L119423 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Have you taken leave of your senses?
+L119422 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ -- Not so fast, Louis. Nobody's going to be arrested. Not for a while yet.
+L119399 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Serves me right for not being musical.
+L119398 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Sam's piano.
+L119397 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Tell me, when we searched the place, where were they?
+L119396 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I have the letters right here.
+L119395 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Is everything ready?
+L119394 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Yes, I know what you mean, but I've already spoken to Ferrari. You'll still win at roulette.
+L119393 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You know, this place will never be the same without you, Ricky.
+L119392 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Oh, he won't be followed here.
+L119391 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I thought I asked you to tie up your watchdogs.
+L119390 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I was informed just as Laszlo was about to leave the hotel, so I knew I'd be on time.
+L119389 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ You're late.
+L119376 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Go ahead, Ricky.
+L119375 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Oh, thanks.
+L119374 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Ricky, I'm going to miss you. Apparently you're the only one in Casablanca who has even less scruples than I.
+L119373 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I'll make the arrangements right now with Laszlo in the visitor's pen.
+L119372 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I see. How do I know you'll keep your end of the bargain?
+L119371 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Well, she isn't just any woman.
+L119370 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ There's still something about this business I don't quite understand. Miss Lund, she's very beautiful, yes, but you were never interested in any woman.
+L119369 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I'll arrange to have Laszlo come there to pick up the letters of transit, and that'll give you the criminal grounds on which to make the arrest. You get him, and we get away. To the Germans that last will be just a minor annoyance.
+L119368 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Then release him. You be at my place a half hour before the plane leaves.
+L119367 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ It certainly would. Germany... Vichy would be very grateful.
+L119366 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Ilsa is Laszlo's wife. She probably knows things that Strasser would like to know. Louis, I'll make a deal with you. Instead of this petty charge you have against him, you can get something really big, something that would chuck him in a concentration camp for years. That would be quite a feather in your cap, wouldn't it?
+L119363 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You didn't come here to tell me this. You have the letters of transit. You can fill in your name and hers and leave any time you please. Why are you interested in what happens to Laszlo?
+L119362 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Ilsa Lund.  That ought to put your mind to rest about my helping Laszlo escape. The last man I want to see in America.
+L119361 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ What friend?
+L119360 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ And I'm taking a friend with me. One you'll appreciate.
+L119359 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Huh?
+L119358 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ You're not very subtle, but you are effective. I, I get the point. Yes, I have the letters, but I intend using them myself. I'm leaving Casablanca on tonight's plane, the last plane.
+L119357 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Don't count too much on my friendship, Ricky. In this matter I'm powerless. Besides, I might lose ten thousand francs.
+L119356 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Well, they're all excellent reasons.
+L119355 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Because one, you've bet ten thousand francs he'd escape. Two, you have the letters of transit, now don't bother to deny it. And, well, you might do it simply because you don't like Strasser's looks. As a matter of fact, I don't like him either.
+L119354 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ -- What makes you think I'd stick my neck out for Laszlo?
+L119353 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Ricky, I'd advise you not to be too interested in what happens to Laszlo. If by any chance you were to help him escape --
+L119352 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ But you haven't any actual proof, and you know it. This isn't Germany or occupied France. All you can do is fine him a few thousand francs and give him thirty days. You might as well let him go now.
+L119215 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I am shocked, shocked to find that gambling is going on in here!
+L119214 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ How can you close me up? On what grounds?
+L119183 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, I forgive you this time. But I'll be in tomorrow night with a breathtaking blonde, and it will make me very happy if she loses. Uh huh!
+L119182 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Put it down as a gesture to love.
+L119181 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Why do you interfere with my little romances?
+L119180 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Yeah? Why?
+L119179 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ As I suspected, you're a rank sentimentalist.
+L119062 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Who knows? In her own way she may constitute an entire second front. I think it's time for me to flatter Major Strasser a little. I'll see you later, Rick.
+L119061 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ So Yvonne's gone over to the enemy.
+L119060 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Huh?
+L119059 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Well, it looks like you're a little late.
+L119058 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Serves me right for asking a direct question. The subject is closed.
+L119057 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Louis, are you pro-Vichy or Free French?
+L119056 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, I told Strasser he wouldn't find the letters here. But I told my men to be especially destructive. You know how that impresses Germans?  Rick, have you got these letters of transit?
+L119055 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ That was some going-over your men gave my place this afternoon. We just barely got cleaned up in time to open.
+L119054 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, Ricky. I'm very pleased with you. Now you're beginning to live like a Frenchman.
+L118793 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Another precedent gone. This has been a very interesting evening. I'll call you a cab. Gasoline rationing, time of night.
+L118792 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Oh, it's my party.
+L118770 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ -- Thanks. I will.
+L118769 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Oh, no, Rick never --
+L118759 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ -- Hello, Ilsa.
+L118758 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Well, you were asking about Rick and here he is. Mademoiselle, may I present --
+L118625 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I was born in New York City if that'll help you any.
+L118624 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ That makes Rick a citizen of the world.
+L118615 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ And you already know Herr Heinze of the Third Reich.
+L118614 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Oh, how do you do?
+L118579 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Excuse me.
+L118578 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Yeah, you were saying?
+L118575 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Oh, I see. Gestapo spank.
+L118574 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I have my orders.
+L118573 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Maybe. Well, it seems you are determined to keep Laszlo here.
+L118572 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ The winning side would have paid you much better.
+L118571 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ And got well paid for it on both occasions.
+L118570 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Oh, laugh if you will, but I happen to be familiar with your record. Let me point out just two items. In 1935 you ran guns to Ethiopia. In 1936, you fought in Spain on the Loyalist side.
+L118569 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Because, my dear Ricky, I suspect that under that cynical shell you're at heart a sentimentalist.
+L118568 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Louis, whatever gave you the impression that I might be interested in helping Laszlo escape?
+L118567 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ It doesn't matter. There is no exit visa for him.
+L118566 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Maybe he's not quite as romantic as you are.
+L118565 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ I think not. I have seen the lady. And if he did not leave her in Marseilles, or in Oran, he certainly won't leave her in Casablanca.
+L118564 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ He'll take one.
+L118563 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ He is traveling with a lady.
+L118562 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Why two?
+L118561 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Done. No matter how clever he is, he still needs an exit visa, or I should say, two.
+L118560 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Okay.
+L118559 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Make it ten. I am only a poor corrupt official.
+L118558 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I just paid out twenty. I'd like to get it back.
+L118557 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Is that a serious offer?
+L118556 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Twenty thousand francs says it isn't.
+L118555 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ This is the end of the chase.
+L118554 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ -- Stop it. He escaped from a concentration camp and the Nazis have been chasing him all over Europe.
+L118553 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Oh, but I just told you. --
+L118552 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ His escape.
+L118551 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Manages what?
+L118550 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ It'll be interesting to see how he manages.
+L118549 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ It is my duty to see that he doesn't impress the other half. Rick, Laszlo must never reach America. He stays in Casablanca.
+L118548 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Well, he's succeeded in impressing half the world.
+L118547 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Rick, that is the first time I have ever seen you so impressed.
+L118546 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Victor Laszlo?
+L118545 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Victor Laszlo.
+L118544 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Yeah? What's his name?
+L118543 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ That is another reason. There is a man who's arrived in Casablanca on his way to America. He will offer a fortune to anyone who will furnish him with an exit visa.
+L118542 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I thought it was because we let you win at roulette.
+L118541 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Thank you. Rick, there are many exit visas sold in this cafe, but we know that you have never sold one. That is the reason we permit you to remain open.
+L118540 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Yeah? Have a brandy?
+L118539 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ How observant you are. As a matter of fact, I wanted to give you a word of advice.
+L118534 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ Perhaps not.
+L118533 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I see. And what's Strasser doing here? He certainly didn't come all the way to Casablanca to witness a demonstration of your efficiency.
+L118531 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ Our entertainment is enough.
+L118530 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ You know, Rick, we could have made this arrest earlier in the evening at the Blue Parrot, but out of my high regard for you we are staging it here. It will amuse your customers.
+L118529 +++$+++ u666 +++$+++ m42 +++$+++ RENAULT +++$+++ A wise foreign policy.
+L118528 +++$+++ u667 +++$+++ m42 +++$+++ RICK +++$+++ I stick my neck out for nobody.

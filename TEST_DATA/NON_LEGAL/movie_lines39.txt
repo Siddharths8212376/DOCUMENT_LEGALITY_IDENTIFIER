@@ -1,0 +1,200 @@
+L31883 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Sorry, love.
+L31882 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Campari and soda would do nicely.
+L31881 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Hello, there. What can I get you?
+L31408 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ I beg your pardon?
+L31407 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Remember the Alamo?
+L31399 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ But I can heat some up for you if you'd like.
+L31398 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Oh.
+L31397 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ No.
+L31396 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Then you have some hot tea?
+L31395 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ We've got spirits and beer. If it's something hot you want, you can have tea.
+L31394 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Hot chocolate?
+L31391 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ No.
+L31390 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Do you have any hot soup?
+L32133 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ We'll find him, not to worry.
+L32132 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ I cannot accept a connection between David Kessler and last night's murders. We will find him, however. I can assure you of that.
+L31622 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ That is precisely my point. David, as far as we are concerned, the matter is closed. We won't trouble you any further. Good day.
+L31621 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ I don't rightly know, sir.
+L31620 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ And what, Sergeant?
+L31619 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ Lieutenant, the boy seems pretty lucid to me and...
+L31618 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Sgt. McManus, are you suggesting that David and Jack were, in fact, attacked by some animal and that the officialdom of East Proctor has conspired to keep it a secret? We have an autopsy report on the murderer who was shot in the act by the local police. We have two witnesses to the crime. You'll forgive me, Mr. Kessler, if I consider your testimony as coming from someone who has gone through a terrible shock.
+L31617 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ He may have a point, Lieutenant. Two strong boys would be able to defend themselves against one man.
+L31606 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Has Mr. Kessler said anything regarding the attack on the moors?
+L31605 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ Sorry.
+L31599 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ I'd like some tea, please.
+L31598 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ No, thank you.
+L34791 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Yeah - sure!
+L34790 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ Yes - sure—
+L34789 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ If she can't pay, I'll have to foreclose, won't I?
+L34788 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ Why not?
+L34787 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ She's a widow. I don't like taking mortgages from widows.
+L34786 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ What's the idea of turning her down? It sounds like a perfectly safe investment.
+L34760 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ But listen, Tom, I—
+L34759 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I'll tell you why. I don't like the crowd you're mixed up with.  Personally, you can have all the credit you want. But for that deal - not a cent.
+L34758 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ Tom, I never had trouble getting credit from you before. When I was flat broke you gave me all the money I wanted. Now I come to you with a swell deal, and the greatest—
+L34750 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ I want to know why .
+L34749 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Listen, I told you I wasn't interested in that deal, didn't I?
+L34748 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ What do you suppose anybody wants? Money, money, money!
+L34747 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ You here again? What do you want?
+L34746 +++$+++ u284 +++$+++ m18 +++$+++ BILL +++$+++ Hello, Tom.
+L35130 +++$+++ u303 +++$+++ m18 +++$+++ OSCAR +++$+++ Yeah.
+L35129 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ He has?
+L35128 +++$+++ u303 +++$+++ m18 +++$+++ OSCAR +++$+++ The detectives got Matt up there in Sampson's office.
+L35127 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Yeah. He'll have a tough time thinking up a wise-crack for this one . . .
+L35126 +++$+++ u303 +++$+++ m18 +++$+++ OSCAR +++$+++ Matt?
+L35125 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Where's Matt?
+L35124 +++$+++ u303 +++$+++ m18 +++$+++ OSCAR +++$+++ No kidding. When I saw it, you could'a knocked me over with a pin.
+L35123 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ No kidding?
+L35122 +++$+++ u303 +++$+++ m18 +++$+++ OSCAR +++$+++ I was the first one to see it. I was coming down the stairs, and there was the watchman lying dead at my feet.
+L35121 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Oscar, what's the matter?
+L35050 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Say, don't annoy me. I got troubles of my own.
+L35049 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ And listen, wise guy - I'm setting friend time clock for exactly nine o'clock, so no squawks out of you guys in the morning.
+L35048 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Yeah.
+L35047 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ I remember once when your account checked.
+L35046 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ I'm fourteen cents out, and it took me half an hour to find the mistake. And me with a date, too.
+L35045 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ What's the matter, Charlie?
+L35044 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Where do you think I've been?  I took the baby for a stroll in the park.
+L35043 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Where you been?
+L34640 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Aw, nerts!
+L34639 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Say pal, did you ever hear of a Depression?
+L34638 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ It'll be yours if you don't kick in with that ten bucks.
+L34637 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Whose death?
+L34635 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Baby, I can't give you anything but love...
+L34634 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ I'll pay it back to you Saturday - on the level I will. Give a guy a break, will you? I've got to get it back in my account. If Helen ever finds out that I—
+L34633 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Yeah?
+L34632 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Charlie!
+L34631 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Ten bucks? Say, if I had ten bucks, I'd quit.
+L34630 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Let me have ten bucks?
+L34629 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Yeah.
+L34628 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Say, do me a favor, will you Charlie?
+L34627 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Here's twenty-five thousand.
+L34626 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Yeah.
+L34625 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ It was more than that last week.
+L34624 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ About twenty-four thousand.
+L34623 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ How much?
+L34622 +++$+++ u285 +++$+++ m18 +++$+++ CHARLIE +++$+++ Say Matt, I'll have to have some money for those Manville payrolls.
+L34664 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes, sir.
+L34663 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ And tell him not to delay.
+L34662 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes, sir.
+L34661 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ When he comes in, tell him we're waiting for him in the board room.
+L34660 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Not yet, Mr. Clark.
+L34659 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Mr. Dickson in yet?
+L35356 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ All right, let him! I'm sick and tired of hearing about him. If he wants to run the bank, let him do it. I don't want any part of it.
+L35355 +++$+++ u302 +++$+++ m18 +++$+++ O'BRIEN +++$+++ You know Dickson as well as we do. He'll shut the doors before he gives up control.
+L34825 +++$+++ u302 +++$+++ m18 +++$+++ O'BRIEN +++$+++ Take it easy, Clark.
+L34824 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ How are you protecting your depositors? By making a lot of idiotic loans!
+L34679 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ What good will that do?  Why, it will take control away from him. We'll put somebody else in charge, call in all doubtful loans, and be on safe ground again. That's what good it will do!
+L34678 +++$+++ u302 +++$+++ m18 +++$+++ O'BRIEN +++$+++ What good will that do?
+L34677 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Dickson doesn't have to go. But he must agree to this merger with New York Trust—
+L34676 +++$+++ u302 +++$+++ m18 +++$+++ O'BRIEN +++$+++ Don't make me laugh, Schultz!
+L34674 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Oh, is he? We carry more unsecured paper than any other institution in the city. We're fools to tolerate it.
+L34673 +++$+++ u302 +++$+++ m18 +++$+++ O'BRIEN +++$+++ Personally, I think you're getting panic-stricken about nothing. Dickson's all right.
+L35540 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ You know what you can do with that! Come on, take a look at this! You'll see a demonstration of faith that's worth more than all the collateral in the world.
+L35539 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ We've been waiting fifteen minutes—
+L35538 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Come out here you pawnbrokers - take a look at this!
+L35483 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ The bank. All right. Do anything you want with it.
+L35482 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Dickson, I'd like to talk to you about the bank.
+L35344 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I can't? You just wait and see. If that run doesn't stop within the next hour, I'll shut the doors. You know what that means? The bank examiner will step in tomorrow. You'll be forced to liquidate. I'll insist upon it. The depositors will be paid one hundred cents on the dollar. What's left you gentlemen can have. But I'll guarantee there won't be enough to pay your next month's garage bill.
+L35343 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Say, you can't do that—
+L35340 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ So, that's it, eh? You've waited a long time for this chance, haven't you?  Well, I'm not going to resign now - or ever.
+L35339 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ No. You can't reason with anyone else when you're in a jam. We pleaded with you to keep liquid, but you wouldn't listen to us. You preached to us about faith and a lot of other rubbish. Now you want our help. You want us to throw a lot of cash into a bank that you've wrecked. All right. There's one way you can get it. Give us an option on your stock and resign as president.
+L35338 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Aw, they've gone crazy. You can't reason with a mob.
+L35337 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ The depositors you were protecting were the first ones to pounce on you. You thought they were your friends. Why don't you go out there now and try and get some help from them?
+L35334 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I have everything I own in it. It's your bank as well as mine, isn't it?
+L35333 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ That sounds very simple, Dickson, but why should we jeopardize our personal fortunes?
+L35332 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I know that among you, you have at least a million dollars in various banks throughout the city. Get that money over here and I'll stop this run within five minutes.
+L35331 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ What do you mean, help?
+L35330 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ We'll be forced to shut the doors. I've worked twenty-five years night and day to keep this bank alive. You've all made money out of it. Are you willing to help?
+L35257 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ We'll discuss that in the board room.
+L35256 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What about?
+L35255 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ We want to talk to you.
+L34922 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Yes! You said it, Clark. That's the only thing that means anything to me.
+L34921 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Gentlemen, you notice Mr. Dickson refuses to consider our wishes. He refuses an offer to merge with the New York Trust - the only thing that will put this bank on safe ground. He insists upon running a bank on so flimsy a thing as . . . as faith!
+L34920 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I'm running this bank my way. Get that clear!
+L34913 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ I know, Dickson. That's all very well. But you're taking too many chances. In these times a bank should keep liquid in case of trouble. In case of emergency!
+L34912 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Most of the creditors I know personally. I've seen them grow up in the community. I knew their fathers and mothers before them.
+L34845 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Not at all. That's Alexander Hamilton's idea[5] - the finest banking mind this country has ever known. Those are his exact words, gentlemen. Character!  It's the only thing you can bank on, and it's the only thing that will pull this country out of the doldrums.
+L34844 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Character, hmmpf! That's your idea?
+L34830 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ Just pure luck!
+L34829 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What's the matter with my policy? How many losses has this bank taken in the last twenty-five years?  I'll tell you. Not a single one!  What's wrong with that kind of banking?
+L34799 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Oh, you would, eh?  All right. If it's more important than golf, go ahead. What's on your mind?
+L34798 +++$+++ u286 +++$+++ m18 +++$+++ CLARK +++$+++ I think, Mr. Dickson, we would like to have a little of your very valuable time here at the bank this morning, if you don't mind.
+L34797 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Say, you know, I found out something yesterday about hitting a golf ball. You've got to hit with the left hand, and from the inside out, it's the only way you can hit anything—
+L35455 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ He won't believe it, Mr. Dickson. But it's the truth - honest it is. I was in my apartment last night - ask your wife - she—
+L35454 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Claims he was there with a married woman. Doesn't want to mention her name.
+L35453 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I didn't kill him! I had nothing to do with that, I tell you! I was home in my apartment last night - I can prove it!
+L35452 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Don't forget there's a dead watchman downstairs.
+L35451 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I was crazy, I tell you, Mr. Dickson. I didn't know what I was doing. I wandered around in a daze. All I could think of was that they were going to kill me . . .  You'll stand by me, won't you, Mr. Dickson? You won't go back on me now, will you? I'll die if they send me to prison!
+L35449 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ They took my keys yesterday. I went there to get them back.
+L35448 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What were you doing at Finlay's this morning?
+L35431 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Stand back, Inspector. Let me out of here, or I'll shoot you!
+L35430 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Don't be a fool, Cluett. This is only going to make it worse for you.
+L35429 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ All right, Jack, all right.
+L35428 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Stand back Inspector, or I'll shoot. Drop that gun.
+L35412 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ It's one of the boys from headquarters. He always sings "Mother Machree" whenever he's got good news. Looks like this case'll be settled in no time.
+L35411 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Somebody must be in good humor. He was humming "Mother Machree."
+L35410 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Thanks.
+L35407 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Why, of course.
+L35406 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ You understand?
+L35405 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Oh!
+L35404 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ If you don't mind, Inspector, I'd rather not say - that is, unless it becomes absolutely essential. You see, she's married.
+L35403 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Looks like you're going to have no trouble at all. What was the lady's name, Mr. Cluett?
+L35402 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Oh yes, of course. There was someone with me. A lady.
+L35401 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ That is simple, isn't it? I assume you can prove that if necessary.
+L35400 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ That's very simple. I was home.
+L35399 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Where were you at twelve o'clock last night?
+L35398 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Of course, yes. Just what would you like to know, Inspector?
+L35397 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ I hope you don't mind me asking you a few questions, Mr. Cluett.
+L35473 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Get out, get out!
+L35472 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ She wasn't to blame, Mr. Dickson. It wasn't her fault. Honest, it wasn't. I begged her to come up. She didn't—
+L35461 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ She just came up for a drink. Just for a few minutes.
+L35460 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ You just mentioned her name. What was she doing there? What was she doing in your apartment?
+L35459 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Nothing, nothing, Mr. Dickson. Don't pay any attention to me. I don't know what I'm saying.
+L35458 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What was my wife doing in your apartment last night?
+L35444 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ But I didn't kill that man last night. Honest I didn't, Mr. Dickson!
+L35443 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Fifty thousand dollars!
+L35442 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Gambling - I owed them a lot of money. Last week I lost over fifty thousand dollars!
+L35441 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What happened?  You're not a thief. How'd you get mixed up with these kind of people?
+L35440 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I don't know. It's all been like a crazy nightmare, Mr. Dickson.
+L35439 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Confessed! Cluett, in heaven's name, what got into you?
+L34883 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ Listen, buddy, you're getting by pretty easy. Quit squawking!
+L34882 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ But Dude, listen - couldn't we make this some other time?
+L34881 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ Be sure you're with somebody responsible in case any questions are asked. Understand?
+L34880 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ know, but—
+L34879 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ You? No, you'll be all right, so long as you establish an alibi for tonight.
+L34878 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Dude - there's not any chance of my becoming involved in this, is there?
+L34864 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ All you gotta do is fix a few things for us , and we'll do the rest, see?
+L34863 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ What do you mean?
+L34862 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ You don't have to do nothing.
+L34861 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Why, I couldn't do that . . . !
+L34860 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ Why not?
+L34859 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Good heavens, man! You're not suggesting that I—
+L34854 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ We can take blood from anything —  If it's comin' to us.
+L34853 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ But after all, you can't take blood from a stone.
+L34852 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ That don't do us any good.
+L34851 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I'm sorry, Dude, but—I—
+L34850 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ Then what did you want to gamble for? If you'd have beat us out of fifty G's, you'd have been paid, wouldn't you? Well, we want our dough.
+L34849 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I haven't got it.
+L34848 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ That's your funeral. We've got fifty thousand dollars comin' to us.
+L34847 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I know, I know, Dude. Oh, I must have been crazy! I lost my head completely!
+L34846 +++$+++ u289 +++$+++ m18 +++$+++ DUDE +++$+++ You know what we do to welchers, Cluett, don't you?
+L35079 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ What are you doing here?
+L35078 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Why, Matt!
+L35077 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ I'll grow a moustache by the time you get out of here.
+L35076 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ I'm not afraid of you. You haven't got a moustache!
+L35075 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ And now fair woman, I have you in my power.
+L35074 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ A misunderstood bachelor.
+L35073 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ What is that, Mr. Bones?[7]
+L35072 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Oh, you're not so badly off. There's something much worse than being a misunderstood wife.
+L35071 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ You know, there ought to be a Congressional Medal for men like you. America's comfort to misunderstood wives. I never thought I would find myself in that class.
+L35070 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Good for you. Come on.
+L35069 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ No. No, I'm afraid papa isn't that much interested. He's too busy rushing off to Philadelphia to make stuffy, old speeches at stuffy, old bankers' meetings. Too busy closing big, important deals—  I think I will have a drink.
+L35068 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ What's the matter? Afraid papa will spank?
+L35067 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ No. I know the answer to that one.  I think you'd better take me home.
+L35066 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ Come on up for just a few minutes. We'll have just one drink, then we'll go.
+L35065 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ I knew I couldn't trust you. You told me you were taking me home.
+L35064 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ My apartment.
+L35063 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ What's this?
+L34950 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Cyril!
+L34949 +++$+++ u287 +++$+++ m18 +++$+++ CLUETT +++$+++ No. No, I'm not. I deliberately avoided you. I was afraid of making a fool of myself. But I won't stand it any longer—
+L34948 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Why, Cyril, you're insane—

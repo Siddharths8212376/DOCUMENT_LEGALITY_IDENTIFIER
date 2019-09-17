@@ -1,0 +1,200 @@
+L311766 +++$+++ u6037 +++$+++ m402 +++$+++ BERT +++$+++ George . . .
+L312368 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well . . .  . . . now, come right in here, Mr. Carter.
+L312367 +++$+++ u6038 +++$+++ m402 +++$+++ CARTER +++$+++ Yeah, very funny.
+L312366 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Good year? Well, between you and me, Mr. Carter, we're broke.
+L312365 +++$+++ u6038 +++$+++ m402 +++$+++ CARTER +++$+++ Well, I guess they do those things. Well, I trust you had a good year.
+L312364 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ We're all excited around here.  My brother just got the Congressional Medal of Honor. The President just decorated him.
+L312363 +++$+++ u6038 +++$+++ m402 +++$+++ CARTER +++$+++ Merry Christmas.
+L312362 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mr. Carter, Merry Christmas.
+L312361 +++$+++ u6038 +++$+++ m402 +++$+++ CARTER +++$+++ Carter –– bank examiner.
+L312360 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Good morning, sir.
+L312708 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Where is she?
+L312707 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ She's . . .
+L312704 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I'm not supposed to tell.
+L312703 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ If you know where she is, tell me where my wife is.
+L312702 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I . . .
+L312701 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I don't know how you know these things, but tell me –– where is she?
+L312700 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, well, I can't . . .
+L312699 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Where's Mary?
+L312698 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Yes, George?
+L312697 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Clarence . . .
+L312694 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, I'm not sure of anything anymore. All I know is this should be Bailey Park. But where are the houses?
+L312693 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Are you sure this is Bailey Park?
+L312692 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Sure I know where he lives. He lives in Bailey Park.
+L312691 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You know where he lives?
+L312642 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Zuzu's petals.
+L312641 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What?
+L312640 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ There is no George Bailey. You have no papers, no cards, no driver's license, no 4-F card, no insurance policy . . . 
+L312639 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What do you mean, no identity? My name's George Bailey.
+L312638 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You're nobody. You have no identity.
+L312637 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Then if I wasn't born, who am I?
+L312636 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Don't you understand, George? It's because you were not born.
+L312635 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well then, why am I seeing all these strange things?
+L312634 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ No, of course not.
+L312633 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yeah, yeah, I know. You told me that. What else are you? What . . . are you a hypnotist?
+L312632 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What do you mean, I wasn't there? I remember distinctly . . .
+L312631 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You see, George, you were not there to stop Gower from putting that poison into the . . .
+L312619 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Why? Don't they believe in angels?
+L312618 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Look, I think maybe you better not mention getting your wings around here.
+L312617 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Every time you hear a bell ring, it means that some angel's just got his wings.
+L312616 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Made what?
+L312615 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh-oh. Somebody's just made it.
+L312613 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I jumped in the river to save you so I could get my wings.
+L312612 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ No wonder you jumped in the river.
+L312611 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ No.
+L312610 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You don't huh? Well, you got any money?
+L312609 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ No.
+L312608 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, yeah. Hey, little fellow –– you worry me. You got someplace to sleep?
+L312607 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You'll see a lot of strange things from now on.
+L312606 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What's the matter with him. I never saw Nick act like that before.
+L312597 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, maybe I left the car up at Martini's. Well, come on, Gabriel.
+L312596 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ It isn't me!
+L312595 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, I don't know. Either I'm off my nut, or he is . . .  . . . or you are!
+L312587 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, I had a car, and it was right here. I guess somebody moved it.
+L312586 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You have no car.
+L312584 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You haven't got your wings. Yeah, that's right.
+L312583 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I can't fly. I haven't got any wings.
+L312581 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Our clothes are dry.
+L312580 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ It's stopped snowing out, hasn't it? What's happened here?  Come on, soon as these clothes of ours are dry . . .
+L312578 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Your lip's stopped bleeding, too, George.
+L312577 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, that's the doggonedest thing . . . I haven't heard anything out of that ear since I was a kid. Must have been that jump in the cold water.
+L312575 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ You've never been born. You don't exist. You haven't a care in the world.
+L312574 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What did you say?
+L312573 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, you mustn't say things like that. You . . .  . . . wait a minute. Wait a minute. That's an idea.  What do you think? Yeah, that'll do it. All right.  You've got your wish. You've never been born.
+L312572 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I said I wish I'd never been born.
+L312571 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ What'd you say?
+L312569 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Now look, you mustn't talk like that. I won't get my wings with that attitude. You just don't know all that you've done. If it hadn't been for you . . .
+L312568 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I found it out a little late. I'm worth more dead than alive.
+L312567 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, tut, tut, tut.
+L312566 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, that's right, I keep forgetting. Comes in pretty handy down here, bub.
+L312565 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, no, no. We don't use money in Heaven.
+L312564 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Only one way you can help me. You don't happen to have eight thousand bucks on you?
+L312563 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ By letting me help you.
+L312562 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, I've got to earn them, and you'll help me, won't you?
+L312561 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I don't know whether I like it very much being seen around with an angel without any wings.
+L312560 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I haven't won my wings yet. That's why I'm an angel Second Class.
+L312559 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, you look about like the kind of an angel I'd get. Sort of a fallen angel, aren't you? What happened to your wings?
+L312558 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ I told you –– I'm your guardian angel. I know everything about you.
+L312557 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Ridiculous of you to think of killing yourself for money. Eight thousand dollars.
+L312556 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I wouldn't be a bit surprised.
+L312555 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ That's what I was sent down for. I'm your guardian angel.
+L312553 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Angel, Second Class.
+L312552 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Odbody . . . A-S-2. What's that A-S-2?
+L312551 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Clarence Odbody, A-S-2.
+L312550 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, who are you, then?
+L312549 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, no.
+L312548 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What are you, a mind reader or something?
+L312547 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Oh, I know all about you. I've watched you grow up from a little boy.
+L312540 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Suicide.
+L312539 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Go through with what?
+L312538 +++$+++ u6039 +++$+++ m402 +++$+++ CLARENCE +++$+++ Well, I did, didn't I? You didn't go through with it, did you?
+L312537 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ You what? To save me?
+L312334 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Yes, but George . . .
+L312333 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ . . . two of them as they were about to crash into a transport full of soldiers.
+L312318 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ No!
+L312317 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Now, you've probably already guessed that George never leaves Bedford Falls.
+L311983 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Yes, but what happened to George?
+L311982 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ That's right. Not only that, but he gave his school money to his brother Harry, and sent him to college. Harry became a football star –– made second team All American.
+L311981 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ I know. I know. He didn't go.
+L311744 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Well, wait and see.
+L311743 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Did he ever marry the girl? Did he ever go exploring?
+L311742 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Not a soul.
+L311741 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ It's a good face. I like it. I like George Bailey. Tell me, did he ever tell anyone about the pills?
+L311740 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ That's the kid.
+L311739 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Oh, you mean the kid that had his ears slapped back by the druggist.
+L311738 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ George Bailey.
+L311737 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Who is it?
+L311736 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ I want you to take a good look at that face.
+L311735 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ What did you stop it for?
+L311640 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ That's him when he was twelve, back in 1919. Something happens here you'll have to remember later on.
+L311639 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ A boy?
+L311638 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ That's your problem, George Bailey.
+L311637 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Hey, who's that?
+L311636 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Oh, wonderful!
+L311635 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ If you ever get your wings, you'll see all by yourself.
+L311634 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Why, yes. This is amazing.
+L311633 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Oh, I forgot. You haven't got your wings yet. Now look, I'll help you out. Concentrate. Begin to see something?
+L311632 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Where? I don't see a thing.
+L311631 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Well, keep your eyes open. See the town?
+L311630 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Well, naturally. Of course.
+L311629 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ If you're going to help a man, you want to know something about him, don't you?
+L311628 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Sit down? What are . . .
+L311627 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Poor George . . . Sit down.
+L311626 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Oh, thank you, sir. Thank you.
+L311625 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Clarence, you do a good job with George Bailey, and you'll get your wings.
+L311624 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ The Adventures of Tom Sawyer.
+L311623 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ What's that book you've got there?
+L311622 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Sir . . . If I should accomplish this mission –– I mean –– might I perhaps win my wings? I've been waiting for over two hundred years now, sir –– and people are beginning to talk.
+L311621 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ You will spend that hour getting acquainted with George Bailey.
+L311620 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Oh, dear, dear! His life! Then I've only got an hour to dress. What are they wearing now?
+L311619 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ No, worse. He's discouraged. At exactly ten-forty-five PM tonight, Earth time, that man will be thinking seriously of throwing away God's greatest gift.
+L311618 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ Splendid! Is he sick?
+L311617 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Yes, Clarence. A man down on earth needs our help.
+L311616 +++$+++ u6040 +++$+++ m402 +++$+++ CLARENCE'S VOICE +++$+++ You sent for me, sir?
+L312651 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I know that girl!
+L312650 +++$+++ u6041 +++$+++ m402 +++$+++ COP +++$+++ I know. I know.
+L312649 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hey, Violet!  Hey, listen –– that's Violet Bick!
+L312648 +++$+++ u6041 +++$+++ m402 +++$+++ COP +++$+++ They went out of business years ago.
+L312647 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ The Bailey Building and Loan. It was up there.
+L312646 +++$+++ u6041 +++$+++ m402 +++$+++ COP +++$+++ The Building and what?
+L312645 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hey . . . hey. Where did the Building and Loan move to?
+L311979 +++$+++ u6042 +++$+++ m402 +++$+++ DR. CAMPBELL +++$+++ You can keep him on. That's all right. As secretary you can hire anyone you like.
+L311978 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, no! But, Uncle Billy . . .
+L311977 +++$+++ u6042 +++$+++ m402 +++$+++ DR. CAMPBELL +++$+++ That's the best part of it. They've appointed George here as executive secretary to take his father's place.
+L311976 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ What's that?
+L311955 +++$+++ u6042 +++$+++ m402 +++$+++ DR. CAMPBELL +++$+++ It was his faith and devotion that are responsible for this organization.
+L311954 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Thank you very much.
+L311947 +++$+++ u6042 +++$+++ m402 +++$+++ DR. CAMPBELL +++$+++ Now we come to the real purpose of this meeting –– to appoint a successor to our dear friend, Peter Bailey.
+L311946 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Thanks.
+L311945 +++$+++ u6042 +++$+++ m402 +++$+++ DR. CAMPBELL +++$+++ I want the Board to know that George gave up his trip to Europe to help straighten things out here these past few months. Good luck to you at school, George.
+L312662 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Well, this house ain't been lived in for twenty years.
+L312661 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Of course it's the place.
+L312660 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Is this the place?
+L312659 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Okay. Just step on it. Just get me home.
+L312658 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Look, bud, what's the idea? I live in a shack in Potter's Field and my wife ran away three years ago and took the kid . . . And I ain't never seen you before in my life.
+L312656 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ All right.
+L312655 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yeah –– yeah –– hurry up. Zuzu's sick.
+L312654 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Okay. Three-twenty Sycamore? . . .
+L312653 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Aw, now, doggone it, Ernie, don't you start pulling that stuff. You know where I live. Three-twenty Sycamore. Now hurry up.
+L312142 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, look at this. Champagne!
+L312141 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Bert, the cop, sent this over. He said to float away to Happy Land on the bubbles.
+L312140 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hey, look! Somebody's driving this cab.
+L312139 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ If either of you two see a stranger around here, it's me.
+L311765 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hi, Bert.
+L311764 +++$+++ u6043 +++$+++ m402 +++$+++ ERNIE +++$+++ Hiya, George!
+L311763 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Hey, Ernie!
+L312344 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Yes, sir.
+L312343 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Joseph, now show him what happened today.
+L312342 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ On V-J Day he wept and prayed again.
+L311615 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Yes, but he's got the faith of a child –– simple. Joseph, send for Clarence.
+L311614 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Because, you know, sir, he's got the I.Q. of a rabbit.
+L311613 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Oh –– Clarence. Hasn't got his wings yet, has he? We've passed him up right along.
+L311612 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ That's why I came to see you, sir. It's that clock-maker's turn again.
+L311611 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ George Bailey. Yes, tonight's his crucial night. You're right, we'll have to send someone down immediately. Whose turn is it?
+L311610 +++$+++ u6049 +++$+++ m402 +++$+++ JOSEPH'S VOICE +++$+++ Looks like we'll have to send someone down –– a lot of people are asking for help for a man named George Bailey.
+L311609 +++$+++ u6044 +++$+++ m402 +++$+++ FRANKLIN'S VOICE +++$+++ Hello, Joseph, trouble?
+L312689 +++$+++ u6050 +++$+++ m402 +++$+++ MA BAILEY +++$+++ That's a lie. He's been in the insane asylum ever since he lost his business. And if you ask me, that's where you belong.
+L312688 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Today, over at the house.
+L312687 +++$+++ u6050 +++$+++ m402 +++$+++ MA BAILEY +++$+++ When'd you see him last?
+L312686 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Well, sure I do.
+L312685 +++$+++ u6050 +++$+++ m402 +++$+++ MA BAILEY +++$+++ Get over what? I don't take in strangers unless they're sent here by somebody I know.
+L312684 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Oh, Mother, Mother, please help me. Something terrible's happened to me. I don't know what it is. Something's happened to everybody. Please let me come in. Keep me here until I get over it.
+L312682 +++$+++ u6050 +++$+++ m402 +++$+++ MA BAILEY +++$+++ Mother? What do you want?
+L312681 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Mother . . .
+L312680 +++$+++ u6050 +++$+++ m402 +++$+++ MA BAILEY +++$+++ Well?
+L312737 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ Fine.
+L312736 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Zuzu –– Zuzu. My little gingersnap! How do you feel?
+L312735 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ Daddy!
+L312474 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Uh-huh.
+L312473 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ It will?
+L312472 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ I know –– I know, but you just go to sleep, and then you can dream about it, and it'll be a whole garden.
+L312471 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ I'm not sleepy. I want to look at my flower.
+L312470 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Will you try to get some sleep?
+L312469 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ What?
+L312467 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ Give the flower a drink.
+L312466 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ There it is, good as new.
+L312465 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Yeah, all right. Now, I'll paste this together.
+L312464 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ Look, Daddy . . . paste it.
+L312463 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ All right, all right. Here, give Daddy the flower. I'll give it a drink.
+L312462 +++$+++ u6065 +++$+++ m402 +++$+++ ZUZU +++$+++ Want to give my flower a drink.
+L312461 +++$+++ u6045 +++$+++ m402 +++$+++ GEORGE +++$+++ Wait now. Where do you think you're going?

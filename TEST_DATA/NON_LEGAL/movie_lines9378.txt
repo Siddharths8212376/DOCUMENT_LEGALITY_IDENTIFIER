@@ -1,0 +1,200 @@
+L506070 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ If we charge them, they won't have a chance. But we gotta get to the horses.
+L506069 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ The money's in my saddlebags over there, but I ain't stepping out to get it.
+L506068 +++$+++ u2750 +++$+++ m180 +++$+++ DAWSON +++$+++ No money, eh?
+L506067 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'd get down if I were you. They may be up there now.
+L506064 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Wait a minute! If you don't believe me, ask them...  ...they saw me and my pal in Turley before we did the job.
+L506063 +++$+++ u2750 +++$+++ m180 +++$+++ DAWSON +++$+++ You brought a posse to my best hideout and you want to know if I mind. Mister, I don't know any of those names and you're about to die.
+L506062 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ My partner and me robbed the bank in Turley and headed out with a posse on our tails. My partner there caught one a ways back, and I think he kicked off while I was looking for this damn canyon. You're Dawson, ain't you? I'm Tex LaRue.  Used to ride with Ry Morris. You know him. Well, Andy Sims told me there was a hideout here, so I headed for it. Hope you don't mind.
+L506061 +++$+++ u2750 +++$+++ m180 +++$+++ DAWSON +++$+++ Posse? What the hell you talking about?
+L506060 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I wouldn't do that. You're going to need every gun when that posse gets here.
+L506145 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ It was my fault.
+L506144 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Well, Kate, it was self-defense sure enough, but I think you'd have to say I killed old Murdo. I think that's definitely the word.
+L506041 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ Your next water ain't for three days.
+L506040 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Forget the money. You've got to get these people out of here. This is no place to be sitting with women and kids.
+L506019 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ There's nobody coming?
+L506018 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ I think we lost 'em.
+L505954 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ Honest to God, Emmett, he would've killed me.
+L505953 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Jake, I'm going to ask you once -- was it self-defense?
+L505951 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ The one with the shotgun.
+L505950 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ What friend is that?
+L505949 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ Well, no, not exactly. See then his friend opened up on me.
+L505948 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ You're in here for winging a guy?
+L505947 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ No, no, no! I winged him, and he dropped his gun.
+L505946 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ ...And you had to kill him?
+L505945 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ So I did, I got out of there, I don't want no trouble. You know me.  So I walked out on the street and the fella tried to shoot me in the back.
+L505944 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ Yeah, I kissed a girl and this guy didn't like it and we had some words, so I decided to get out of there.
+L505943 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ That's why they got you in jail?
+L505942 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ All I did was kiss a girl.
+L505941 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ You got me. This is a crazy town, Emmett. I think we ought to get out of here.
+L505940 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Howdy, Jake. What's going on here?
+L505939 +++$+++ u2756 +++$+++ m180 +++$+++ JAKE +++$+++ Emmett! Am I glad to see you!
+L506336 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Wait a minute. Get down off of there, Augie.
+L506335 +++$+++ u2761 +++$+++ m180 +++$+++ MCKENDRICK +++$+++ Forget it.
+L506330 +++$+++ u2761 +++$+++ m180 +++$+++ MCKENDRICK +++$+++ All right then.  Let's go.
+L506329 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Sounds good.
+L506328 +++$+++ u2761 +++$+++ m180 +++$+++ MCKENDRICK +++$+++ That's all over as far as I'm concerned, Emmett. I'm satisfied.
+L506327 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Did it seem short to you?
+L506326 +++$+++ u2761 +++$+++ m180 +++$+++ MCKENDRICK +++$+++ I didn't know you were out.
+L506325 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ McKendrick.
+L506324 +++$+++ u2761 +++$+++ m180 +++$+++ MCKENDRICK +++$+++ Emmett.
+L506568 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Right.
+L506567 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Gotta go.
+L506522 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ She was hurt... pretty bad.  Emmett, they took the little boy with them.
+L506521 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Kate?
+L506518 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Is he alive?
+L506517 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ McKendrick's men got him.
+L506516 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Where's Jake?
+L506515 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ I almost didn't.
+L506406 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ So far that's all I seen in this life.
+L506405 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Be careful. You're in it now. And it's gonna get mean.
+L506404 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ I'll go. I'll bring Jake out here.
+L506403 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Have to.
+L506402 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ You'll never make it.
+L506401 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I gotta get to my brother. If they came after me, they'll want him too.
+L506400 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'm sorry.
+L506399 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ This was my father's. The men who killed him took it.
+L506398 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ That's it.
+L506397 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ I didn't just come along. I was looking for you.  Jake said you were out there. I saw him in town, and he told me about that business the other night. Said you boys took a Henry off one of McKendrick's men. I wanted to see it.
+L506396 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'd be worse if you hadn't come along.
+L506395 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Someplace safe. How you feeling?
+L506394 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Where are we?
+L506393 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Sure.
+L506392 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ ...Gotta go...
+L506098 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Yeah... maybe. So long.
+L506097 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Maybe we'll see you sometime.
+L506080 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Chicago. Working in the slaughter- houses.
+L506079 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Where were you?
+L506078 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ After the war my family worked a little piece of land near Savannah for a while. But the way it was down there then... well, they made it hard every way they could. Finally my daddy figured the promised land was out this direction. By that time I was so sick of farming, I didn't want to touch another hoe ever. I wouldn't come with 'em. My daddy took it pretty hard. Him, my ma, and my little sister headed out without me. They've got a little place south of Silverado. I guess they've done okay. Good enough anyway so that when my ma wrote me last time, she said they needed my help to work the place. That was almost nine months ago she wrote. Letter took a while to find me, but when it did, it was just the right time.
+L506572 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ That I do.
+L506571 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ This time you're really going?  You know where I'll be.
+L506570 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I already did that.
+L506569 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Weren't you going to come out to say good-bye?
+L506346 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Just like you'd think. But he's not going to run. We're sticking to our plan. Now we both need help.
+L506345 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ How's Mr. Parker doing?
+L506344 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ We told Sheriff Cobb about the attack.  He said he'd... look into it.  I can't believe he's the law out here. Now I see why you all wear guns.
+L506343 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ It's one thing to know it...
+L506342 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ You must have known that before you came.
+L506341 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ This is a brutal land.
+L506340 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Are you all right?
+L506315 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Yeah... that must have been it.
+L506314 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Maybe you thought you'd be back this way someday.
+L506313 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Didn't Paden tell you that?
+L506312 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ You don't make it easy on a fellow.
+L506310 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ That's why I'm here.
+L506309 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ You came all the way out here to tell me you're going to California? All you had to do was go, and we'd never see each other again.
+L506308 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Yeah, me and Jake will be heading out for California soon.
+L506307 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Goodbye?
+L506306 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I just came out to say goodbye.
+L506305 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ I'm surprised to see you out here tonight.
+L506304 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ I guess I put a good scare into him.
+L506303 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Paden sends his best.
+L506302 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ They've been kind to me.
+L506301 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ The Parkers seem like nice folks.
+L506094 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Some. I've been talking to the Parkers. One thing I know I'm not doing -- I'm not going back.
+L506093 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Have you thought at all about your plans?
+L506092 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ More than enough.
+L506038 +++$+++ u2754 +++$+++ m180 +++$+++ HOBART +++$+++ And they were two of them. Look --
+L506037 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Well, they're wrong. This territory is full of bad characters.
+L506036 +++$+++ u2754 +++$+++ m180 +++$+++ HOBART +++$+++ This is where Baxter and Hawley brung us.
+L506035 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Hobart, what are you people doing here?
+L505887 +++$+++ u2754 +++$+++ m180 +++$+++ HOBART +++$+++ And you're not Baxter, either?
+L505886 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ My name is Emmett.
+L505885 +++$+++ u2754 +++$+++ m180 +++$+++ HOBART +++$+++ You're not Baxter?
+L505884 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'm afraid it is a bad start, friend, 'cause my name isn't Baxter, and he ain't Hawley.
+L505883 +++$+++ u2754 +++$+++ m180 +++$+++ HOBART +++$+++ I've got my people sitting down there...  ...swatting flies and raring to go.
+L505987 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'll be long gone.
+L505986 +++$+++ u2759 +++$+++ m180 +++$+++ LANGSTON +++$+++ I want you out of town before the hanging.
+L505985 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I haven't done anything.
+L505984 +++$+++ u2759 +++$+++ m180 +++$+++ LANGSTON +++$+++ Maybe I ought to throw you in jail too. Then you could be with all your friends.
+L505964 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Right... I thought they always did it at dawn.  So long, kid. I'm sorry.
+L505963 +++$+++ u2759 +++$+++ m180 +++$+++ LANGSTON +++$+++ Ten A.M.
+L505962 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I guess tomorrow at dawn he'll be proved right.
+L505936 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ All right. I'm looking for a young fella, full of juice. About my size, wears a fancy two-gun rig.
+L505935 +++$+++ u2759 +++$+++ m180 +++$+++ LANGSTON +++$+++ In my town, when you're looking for someone, you ask me.
+L505934 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'm just meeting a guy here and moving on. So far I haven't been able to find him.
+L506575 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ I've got a job.
+L506574 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ You might make a farmer yet.
+L506553 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Last one to the Midnight Star buys.
+L506552 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'll see you around.
+L506221 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Pleased to meet you, Sheriff.
+L506220 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Cobb, I want you to meet Emmett. He's a friend of mine.  This is Sheriff Cobb.
+L506219 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'm going to California with my brother.
+L506218 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ All I'm saying is, you won't trip over me if you look her up.
+L506217 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Yeah?
+L506216 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Hannah's a smart, pretty woman, but she's got a hard idea for living.
+L506103 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I'll be around.
+L506102 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ I think I'll ride along with the lady here. Just take a look at this farmland before I come into Silverado. See what makes a trip this hard worth taking.  I'll see you around.
+L506084 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Oh, I was just checking the, ah...  ...you know, lookin' in.
+L506083 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Where you been?
+L506057 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Anybody got any ideas?
+L506056 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ You know, hanging around with you is no picnic.
+L505977 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ All right, you buy me a drink.
+L505976 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ You haven't got any money.
+L505975 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ C'mon, I'll buy you a drink.
+L505974 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ No hard feelings.
+L505973 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Then I guess this is where we part ways. Sorry.
+L505972 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ It never is. But he's my brother.  We're going to California together. But first we're going to stop in Silverado and see our sister. And I can't show up there with a story like this.
+L505971 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ It's not going to be easy.
+L505970 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I understand.
+L505969 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ You'll have to deal me out on that. I've had some experience with that sort of thing, and I don't want any more.
+L505968 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Bad luck for me. Now I gotta bust him out of there.
+L505967 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ I hate to see any man swing. Bad luck.
+L505966 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ He is that.
+L505965 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Shame about the kid. Seems a lively sort.
+L505913 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Which way do you mean?
+L505912 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Doesn't look quite fair.
+L505879 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I expect.
+L505878 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Women?
+L505877 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I expect.
+L505876 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ They got a saloon there?
+L505875 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ It's a town...
+L505874 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ What's Turley like?
+L505873 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Gotta meet a guy and head out for Silverado.
+L505872 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Going to Turley, was it?
+L505871 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I gotta be going.
+L505870 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ And bridle-wise, too. She's the only thing I lost I really cared about.  'Cept for maybe my hat. It's a great one. Got a pretty silver band on it. My head spent three years training it.  I surely do miss that hat.
+L505869 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I see what you like, she's mighty pretty.
+L505822 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Yeah, maybe a bath.
+L505821 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Maybe I'll go along as far as Chimayo. Get me some clothes. Maybe a bath.
+L505820 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ South of here, past Chimayo.
+L505819 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Where's Turley?
+L505818 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I gotta stop by Turley and meet a guy.
+L505817 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Where's the pinto going?
+L505816 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Looks like those boys are headed south, so they weren't the same ones that jumped me. Which way you going?
+L505815 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Yup. The whole rig. I don't care much about the rest, but I surely will miss that bay. Least they didn't kill me. That was right considerate, I thought. They were laughing when they left me. Thought it was real funny. I walked for a little while but there was no use, so I gave it up. Figured it was just bad luck.
+L505814 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Looks like that's not all they admired.
+L505813 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Me, I'm riding along, minding my own business. Four cowboys come by and we decide to ride together for a while, friendly as can be. I always figure you might as well approach life like everybody's your friend or nobody is... don't make much difference. We get out in the middle of that frying pan and suddenly everybody's pointing their gun but me. I guess they admired my horse. She's a great one, a sweet little bay.
+L505812 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ I had to get up anyway.
+L505811 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ I've never been in there. They just jumped you out of the blue?
+L505810 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ No, Leavenworth.
+L505809 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Jefferson City?
+L505808 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Not for five years.
+L505807 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Offend anybody lately?
+L505806 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ You got no idea what they were after?
+L505805 +++$+++ u2751 +++$+++ m180 +++$+++ EMMETT +++$+++ Two of the horses ran off, but that pinto you're riding hung around.
+L506158 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Tomorrow we're going to town to straighten that out once and for all. The next day we'll be back here... farming. And these cattle better be gone.
+L506157 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ That's a lie.
+L506130 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ Whose law? The law here runs a man down -- just like these cattle.
+L506129 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ What about the law?
+L506128 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ I paid the government for it, all right. That don't mean much out here.  Malachi, I'm living like a wildcat in a cave in those hills. Hiding out, afraid to walk my own land.
+L506127 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ You own this land.
+L506126 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ The cattle! This valley runs down to a clear creek. That's why we picked this spot, and that's why they don't want us here.
+L506125 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Who?
+L506124 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ They run me off. They burned me out. They made it so I couldn't do. Just like Georgia. If you won't sell, they take it anyway.
+L506123 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ What happened?
+L506122 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ She's gone, gone to town. She hated working on the farm...  ...just like you.
+L506121 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Where is Rae?
+L506118 +++$+++ u2752 +++$+++ m180 +++$+++ EZRA +++$+++ I saw the light. I thought maybe Rae had come back to see me. But I never thought it'd be my boy. I never thought that.
+L506117 +++$+++ u2760 +++$+++ m180 +++$+++ MAL +++$+++ Daddy?
+L506114 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ I want to build something, make things grow. That takes hard work -- a lifetime of it. That's not why men come to a pretty woman.
+L506113 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ What's that?
+L506112 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Because they don't like what I want.
+L506111 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Why?
+L506110 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ They're drawn to me by that. But it never lasts.
+L506109 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Believe it.
+L506108 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ A lot of men have told me that. Maybe it's true. I guess some women are slow to believe it.
+L506107 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ And a pretty lady.
+L506106 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ Mr. and Mrs. Parker have agreed to join their parcel to mine. We'll work them together.  Mine starts right over there. It's all I've ever wanted. Pretty land, isn't it?
+L506089 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ We got married just before this trip, so we could come out here and try the land. It's hard to find a man willing to take on a life like that.
+L506088 +++$+++ u2762 +++$+++ m180 +++$+++ PADEN +++$+++ Never will again.
+L506087 +++$+++ u2753 +++$+++ m180 +++$+++ HANNAH +++$+++ I don't believe in luck. I know what Conrad was like. Don't tell me what you think I want to hear.

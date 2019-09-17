@@ -1,0 +1,200 @@
+L147218 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ I swear man, I don't know. They packed up and left a half hour ago.  All I got is one of their phone numbers in Paris.
+L147217 +++$+++ u4654 +++$+++ m309 +++$+++ AGENT HADLEY +++$+++ I'm your worst fuckin' nightmare. Now, if you don't want me to keep on hurting you, it's important that I believe you and right now I don't. So tell me, where did they go?
+L147216 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ Jesus.   What kind of FBI agent are you?
+L147214 +++$+++ u4654 +++$+++ m309 +++$+++ AGENT HADLEY +++$+++ What?   This?
+L147213 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ Hey man, you can't do that!
+L147212 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ I dunno.
+L147211 +++$+++ u4654 +++$+++ m309 +++$+++ AGENT HADLEY +++$+++ Where did they go?
+L147210 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ They left about a half hour ago.
+L147209 +++$+++ u4654 +++$+++ m309 +++$+++ AGENT HADLEY +++$+++ Not today.   Where are your friends?
+L147208 +++$+++ u4671 +++$+++ m309 +++$+++ WAYNE +++$+++ Uh... excuse me, but don't you need a warrant or something?
+L146994 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Take what you've got and get out of there.
+L146993 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Oui.
+L146992 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ You've already robbed the safe?
+L146991 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Should I call you back?
+L146990 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ My number's going to show up on his bill!
+L146989 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Oui.
+L146988 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ You're calling me on is phone?
+L146987 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ No.
+L146986 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ You're calling me on your cell phone, right?
+L146985 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Oui.
+L146984 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ You're there now?
+L146983 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Yes. We went to the address we were given and had to tie up the owner of the house who turns out to be some Mafia guy.
+L146982 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Marcel?
+L146981 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ It's me...
+L146980 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Who?
+L146979 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ It's Elvis...
+L146978 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Hello?
+L147640 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Well, you better get the money somehow. Six o'clock and come alone. If you don't we'll destroy the tapes.
+L147639 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ I don't have it. That's why Vincent went to Chicago. They arrested him before he could bring it back.
+L147638 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Don't bullshit me, Laurant!   I know about the Van Gogh.
+L147637 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ A million! I don't have that kind of money.
+L147636 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ -- I've got the tapes. If you ever want to see your brother out of jail do exactly what I say. Bring one million euros to your boat at six o'clock.
+L147635 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Daniel. Listen I'm afraid there has been a big--
+L147634 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ It's Daniel.
+L147633 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Hello?
+L146743 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ I don't trust anyone. You don't get to the top of this game by trusting people... and after all, you are a thief. It's in your nature to steal. I'm just protecting my investment.
+L146742 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ You don't trust me?
+L146741 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ This is a considerable move up for you, Daniel. The temptation of having so much money might be too much for you.
+L146740 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ What?
+L146739 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ I thought I would accompany you to the airport to say bon voyage... and tell you that Marcel will be going with you.
+L146701 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ The job is worth about two million euros. Pull this off and you and your crew could make some real money, Daniel. You leave tomorrow.
+L146700 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ C'mon, Laurant, America?
+L146699 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Thank you Marcel, for that... extremely redundant explanation.
+L146694 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Good.   I have a job for you in America.
+L146693 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Uh, yeah.
+L146692 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Hey Daniel! Hello?  Do you guys speak English?
+L146682 +++$+++ u4655 +++$+++ m309 +++$+++ BASTALDI +++$+++ Vincent's in the States on business.  That it?
+L146681 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Where's your brother?
+L146860 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Yeah -- you do that.
+L146859 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ I will relay the particulars of our conversation to Mr. Maranzano.
+L146858 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ You told me that on the phone. What the hell are you doing here? Showing off your communication skills? Go back to your people and tell them when they're serious to put a number on the table.
+L146857 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ To tell you that we're interested in the property.
+L146856 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Why are you here?
+L146855 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ I'm not here to negotiate.
+L146854 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Okay.   How much?
+L146853 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ I'm taking a vocabulary course to enhance my communication skills.
+L146852 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Then why not just fuckin' say better than expected? Everybody knows what better than expected means.
+L146851 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ Supernumerary. It means better than expected.
+L146850 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ -- Super what?
+L146849 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ Yeah. That warehouse over on Merchant Street. The volume on our import business has risen dramatically. The proceeds this quarter will be supernumerary due to the --
+L146848 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Okay. I understand you're interested in one of our properties?
+L146847 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ I'm good.   Really.
+L146846 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ You sure? I just got a shipment of espresso from Sicily. Special blend. Can't find anything like it in the States.
+L146845 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ No thank you.
+L146844 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Can I offer you something.    A drink? Coffee?
+L146843 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ When you return please extend my regards to Mr. Maranzano and his family.
+L146842 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ Mr. Maranzano sends his warmest regards.
+L146841 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Good.   I'm good.
+L146840 +++$+++ u4656 +++$+++ m309 +++$+++ BOBBY BEANS +++$+++ Good. I'm doing good. How you doin', Frankie?
+L147292 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ We're doing everything we can to find these people. Right Tony?
+L147291 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Some cash. Jewelry. The other stuff I can replace, but there's a cardboard box... photos of my mother. They're the only ones I have of her.
+L147290 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ What is happening with the world? There was a time no civilian would touch a made man. Now every babbo in the world thinks he can get away with something. What did they take?
+L147289 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Yes.
+L147288 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ They knew who you were when they broke in your house?
+L147286 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ You have enough to worry about, Angelo. You don't need my problems.
+L147285 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Why didn't you tell me about this?
+L146945 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Angelo, we live and die by the rules we make. We are men of honor, but honor without respect is a... horse-less carriage.
+L146944 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ But you were there?
+L146943 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ I did. Joey "Two Tons" and Nicky "The Rake" did the deed.
+L146942 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Your own brother? You couldn't send someone else to do it?
+L146941 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ He missed three weeks.
+L146940 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Oh Frankie, what's this I hear about your brother?
+L146938 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ You know, I'm kind of tired. I'm just gonna go home if it's all the same to you.
+L146937 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ You should. You can learn a lot about the criminal justice system on a program like that. Very informative. Stay and watch it with me.
+L146936 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Uh, no --
+L146935 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Nah, that's just Tony's way of telling me Judge Judy starts in ten minutes. You ever watch it?
+L146934 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Someone else coming?
+L146932 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Good word.
+L146931 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Supernumerary. It means better than expected.
+L146930 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ They're gonna be what?
+L146929 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ I heard this quarter his profits are gonna be supernumerary.
+L146928 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Business must be good if he can afford to buy up useless property.
+L146927 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ He sticks his toes in the water again, we'll cut 'em off.
+L146926 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ He's trying to get a foot hold in our territory.
+L146925 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ And nothing.     He's just feeling us out.
+L146924 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ And?
+L146923 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ Yeah. Seems Maranzano wants to talk about buying the Merchant Street warehouse.
+L146922 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ I understand Bobby Beans came to see you today.
+L146921 +++$+++ u4672 +++$+++ m309 +++$+++ ZAMMITO +++$+++ No, I'm good, Angelo.
+L146920 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Frankie, come in. Good to see you.      You want something?
+L147596 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ You have something for me?
+L147595 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Thank you.
+L147594 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ This plane will take you to Canada. From there you can fly back to Paris.
+L147541 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ How about if I call you?
+L147540 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ I only ask so I can call you when the arrangements are made.
+L147539 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Where are you staying?
+L147538 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I just want to get my people home. I know who you are and what you could do to me if I don't honor my word.
+L147537 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ I only have your word for that.
+L147536 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I'll destroy them when we get back to Paris.
+L147535 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ And the other half?
+L147534 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Half the tapes.
+L147533 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ And for my help I would get what?
+L147532 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ You want me to help you get out of the country?
+L147531 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We've got a lot of people looking for us. We'd just like to go home.
+L147530 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ I assume you want something?
+L147529 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ He's recorded every conversation he's had with you for years.
+L147528 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ I don't think it will be a mystery much longer.
+L147527 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I've got to tell you, Mr. Bonanno, This guy's an idiot. How he's lived this long is a mystery.
+L147522 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Not such a good friend.   May I reach in my pocket?
+L147521 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ You rob an associate of mine... a friend and--
+L147520 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I guess we're going to find out.
+L147519 +++$+++ u4657 +++$+++ m309 +++$+++ BONANNO +++$+++ Either you are incredibly brave, or incredibly stupid. Which one is it?
+L147158 +++$+++ u4668 +++$+++ m309 +++$+++ SOPHIE +++$+++ Black market art. Zammito got to a few key security guards at the Metropolitan Museum. The Bastaldi's supplied the artists to make copies of famous works. They'd switch the paintings, send the originals to Paris and the Bastaldi's would sell them to private collectors.
+L147157 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ What kind of business?
+L147156 +++$+++ u4668 +++$+++ m309 +++$+++ SOPHIE +++$+++ Laurant and Vincent were in business with Zammito.
+L147155 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ For what?
+L147129 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ If you think because you're a women this can't go hard on you, think again.
+L147128 +++$+++ u4668 +++$+++ m309 +++$+++ SOPHIE +++$+++ I don't know.
+L146820 +++$+++ u4668 +++$+++ m309 +++$+++ SOPHIE +++$+++ I know they won't be home tonight.
+L146819 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Tonight?
+L147464 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Jesus!
+L147463 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ Why do I have to pick up the tapes.
+L147462 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Raymond, grab the tapes.    We're leaving!
+L147459 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ I'm just setting my boundaries.
+L147458 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Why is everything an argument with you?
+L147457 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ I'm not any closer than you are.
+L147456 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Because you're the closest.
+L147455 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ Why do I always have to answer the phone?
+L147454 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Get that, will you?
+L147278 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Too risky. We don't need to get pulled over because of a stolen car.
+L147277 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ Why not just steal another one?
+L147174 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ She probably hid it at her place.    The six of us could find it in --
+L147173 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Forget the money! We've got bigger problems than the money right now.
+L147163 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We're leaving. Raymond get the bag.
+L147162 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ No one has mentioned the part of the plan about us getting caught and going to prison.
+L147106 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ I agree with Marcel. I say we go to the airport and get on a plane.
+L147105 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We can't.
+L147104 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ Yeah.   We just go home.
+L146816 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ No problem.
+L146815 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Not a good idea. Someone gets a license number and it all leads back to you. Raymond, you'll steal one.
+L146671 +++$+++ u4666 +++$+++ m309 +++$+++ RAYMOND +++$+++ You're always pointing out my negative qualities. My analyst says positive reinforcement is a much more productive way of relating with people.
+L146670 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ You know what makes a good get away driver?  Being able to get away!
+L147475 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ And be careful when you get near the top. Zero has a very long one.
+L147474 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Cut his pants up the leg to the groin.
+L147473 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ And the Vodka.
+L147472 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Bring me the scissors.
+L147170 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ What about the money?
+L147169 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I'm going to kill him myself!
+L147168 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ You want Zero to kill him?
+L147167 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Bastaldi's dead. He is fuckin' dead!
+L147002 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Cops?
+L147001 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ We are being watched. Daniel grabs the binoculars and looks.
+L146760 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ We are tired and bored with your bullshit. So, put that stupid little knife away before Zero shoves it up your ass.
+L146759 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ He said to go fuck yourself.
+L146738 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We'll see.
+L146737 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ And if there is, then Zero can kill someone?
+L146736 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I just want you there in case there's trouble.
+L146733 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ No one? Then why is Zero here?
+L146732 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Hopefully no one.
+L146727 +++$+++ u4673 +++$+++ m309 +++$+++ ZERO +++$+++ Where are you from?
+L146726 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ In English.   Sami doesn't speak French.
+L147284 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We'll think of something.
+L147283 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ That's an excellent plan.     Very comforting.
+L147276 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We need to rent a car and for that you need a credit card.
+L147275 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ What for?
+L147274 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Sami, tomorrow you lift a wallet from someone who looks like one of us.
+L146660 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Why should I have to put it on the list? It's like saying to buy a car with tires.
+L146659 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ I bought everything you put on the list. Gloves. Pen knives. Flashlight. Batteries were not on the list.
+L146658 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I can't believe you didn't check.
+L146657 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ I thought they came with batteries.
+L146656 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ You didn't buy batteries?
+L146655 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ Do they come with batteries?
+L146654 +++$+++ u4661 +++$+++ m309 +++$+++ JULIEN +++$+++ I'm trying.    It doesn't work.
+L146653 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Turn on the flashlight.
+L147416 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Maybe if we gave the tapes back --
+L147415 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We still have to get out of here.
+L147410 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ I just want to live long enough to get back to Paris. Just long enough to kill Bastaldi.
+L147409 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ We all agreed to it. You had no way of knowing Bastaldi was setting us up.
+L147408 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ We had a chance to walk out of Zammito's house.
+L147239 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ What is that a threat? Are you fuckin' threatening me, Marcel?
+L147238 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ I'm not a guy who is known for his patience and right now you're testing mine.
+L147235 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Better than spending my life crawling through windows in the middle of the night.
+L147234 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ You call being Bastaldi's lap dog better?
+L147231 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ This ain't about that and you know it. This is about you never forgiving me for leaving the crew.
+L147230 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Do I?
+L147229 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ Fuck you! You know I'd never go along with something like this.
+L147224 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ I think if he told me he was going to steal Van Gogh's "Sunflowers in a vase" I would remember it.
+L147223 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ You're sure?
+L147222 +++$+++ u4663 +++$+++ m309 +++$+++ MARCEL +++$+++ No.
+L147221 +++$+++ u4658 +++$+++ m309 +++$+++ DANIEL +++$+++ Did you know about Bastaldi's deal with Zammito?

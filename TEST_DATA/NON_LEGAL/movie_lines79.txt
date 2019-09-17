@@ -1,0 +1,200 @@
+L87502 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I want him.
+L87501 +++$+++ u528 +++$+++ m33 +++$+++ SUGAI +++$+++ I took Kobo from the street.  I gave him a home, a future... But my ways were too slow for him... I served seven years in prison for my boss when I was a young man.  Kobo wouldn't serve seven minutes for his Oyabun.  He was supposed to take over this syndicate when I retired.
+L87499 +++$+++ u528 +++$+++ m33 +++$+++ SUGAI +++$+++ -- Kobo... I know.  He killed two of my partners.  One in New York, one at the printing plant.
+L87498 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I'm impressed.  But let's use the short form.  I'm looking for --
+L87497 +++$+++ u528 +++$+++ m33 +++$+++ SUGAI +++$+++ Seven years work by the finest engraver.  Mass produced, sequentially numbered.  The best there has ever been, Mr. Conklin.
+L88357 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ That wouldn't be very sporting.
+L88356 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Then go get him.
+L88355 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ One man.  He must be good.
+L88349 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You underestimate the trap, Mary.
+L88348 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Not to be trapped.
+L88347 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What's the point?
+L88346 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Anywhere.
+L88345 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Where?
+L88344 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Let's go while there is still time.
+L88238 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Pris?
+L88237 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ I don't think there is another human being in this whole world who would have helped us.
+L88236 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I'm sure glad you found us, Sebastian.  What do you think, Mary?
+L88143 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Mr. Sebastian is a host who wants to be appreciated.  We'll appreciate him and he'll cooperate.
+L88142 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ If he won't cooperate?
+L88141 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ He knows what he's doing.
+L88121 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Well stocked.
+L88120 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ You certainly have a nice place here.
+L88119 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ We're not used to the big city. Where we come from it's not so easy to get lost.
+L88118 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ We were worried to death.  It's awfully kind of you.
+L88117 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Can't thank you enough, Mr. Sebastian. If you hadn't come along...
+L88306 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Nothing the God of biomechanics wouldn't let you in heaven for.
+L88305 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Also extraordinary things.
+L88304 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I've done some questionable things.
+L88302 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I am?
+L88301 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Also you're too valuable to experiment with.
+L88300 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Put it this way.  Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last.
+L88299 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ But not to last.
+L88298 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you.
+L88297 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Then a repressor protein that blocks the operating cells.
+L88296 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table.
+L88295 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What about E.M.S. recombination?
+L88294 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship.  The ship sinks.
+L88293 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Why?
+L88292 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ The facts of life.  I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal.  A coding sequence can't be revised once it's established.
+L88290 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Come here.
+L88289 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I want more life, fucker.
+L88288 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ I'm afraid that's a little out of my...
+L88287 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Death.
+L88286 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ What's the problem?
+L88285 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Had in mind something a little more radical.
+L88284 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Would you like to be modified?
+L88283 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Can the maker repair what he makes?
+L88282 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ And what can he do for you?
+L88281 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ It's not an easy thing to meet your maker.
+L88280 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ I'm surprised you didn't come to me sooner.
+L88276 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Here's your check, my boy.  Thank you.
+L88275 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Yeah.  It might be better if we talk in private, Sebastian.  Why don't you go home.
+L88271 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Oh?
+L88270 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ The name is Batty.  Roy Batty.
+L88352 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ No, you stay here with us.  Out last night together.
+L88351 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Just thought I'd...
+L88350 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Where are you going, Sebastian?
+L88240 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Thank you.
+L88239 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You're our best and only friend.
+L88233 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ This afternoon.
+L88232 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ When do you deliver your project?
+L88231 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ No.
+L88230 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Be better if I could talk to him in person.  But he's not an easy man to get to.
+L88229 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I'd be happy to mention it to him.
+L88228 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ His company made us.
+L88227 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ He could?
+L88226 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Tyrell could help us, Sebastian.
+L88225 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ He's not really my friend.  I just do a job for him now and then.
+L88224 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Dr. Tyrell?
+L88223 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What about your friend, the man who owns this building?
+L88222 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ If we don't find help soon, Pris hasn't got long to live.
+L88221 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I don't know much about biomechanics, Roy.  I wish I did, but you're out of my league.
+L88220 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You could help us.
+L88219 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Of course not.
+L88218 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Not only that, but we have smiliar problems.  Accelerated decrepitude. But we don't want to die quite yet.
+L88217 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You mean that you can't come here and I can't go there?
+L88216 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ We have a lot in common.
+L88212 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Like...
+L88211 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Like what?
+L88210 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Show me something?
+L88207 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Nexus - 6.
+L88206 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ What generation are you?
+L88203 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You're androids.
+L88202 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What, Sebastian?
+L88201 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You're just all so... so different.
+L88200 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Why are you staring at us?
+L88130 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Well, actually
+L88129 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Oh, no bother, I'd be glad to.
+L88128 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ If it wouldn't be too much of a bother... a little bite to eat would be...
+L88127 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ How about breakfast, I was just going to make some.
+L88125 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+L88124 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?
+L88359 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Okay, but don't kill him.  Save a little for everybody.  A masterpiece.
+L88358 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I want to do it.
+L88215 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Very good, Pris.  Now show him why.
+L88214 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I think, therefore I am.
+L88138 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Not if everybody is doing their job here at home.  How are things at home?
+L88137 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Then we're stupid and we'll die.
+L88114 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Hello, glad to meet you.
+L88113 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ This is my Uncle Roy, Sebastian.
+L87923 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Tomorrow, he says.
+L87922 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ When?
+L87921 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ He's not ready yet.
+L87920 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What's going on down there?
+L88328 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Go.
+L88327 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.  I got it.
+L88326 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ If you don't, we will.  It has to be total, Deckard.  That's an order from as high as it comes.  Got it?
+L88325 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Okay, here it is.  Eldon Tyrell, his family and half his staff were just massacred.  The cat is about to get out of the bag.  Pressure is definitely on.  The Nexus program is terminated.  When you finish there, locate Nexus designated Rachael and retire.
+L88324 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Got it.
+L88323 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Take a number.  Canapt 1700, tenth floor, Villa Vita District, Olympia South.
+L88322 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Who.
+L88321 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ She's not with you?
+L88320 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88319 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ This is Bryant.  Are you alone?
+L88318 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88047 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88046 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Look, go home.  Get some rest. Take an aspirin.
+L88044 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ You didn't like her!?
+L88043 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I didn't like her.
+L88041 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker!
+L88040 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ She was gonna get away.
+L87960 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ If you hurry you'll get back before it gets cold.  I got a spinner on your roof in five minutes.  Good luck.
+L87959 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I was just about to have my dinner.
+L87958 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Bryant here.  Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section.  You better get on it.
+L87957 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L87705 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Garbage man?
+L87704 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Industrial refuse.
+L87703 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What was the cover on the one that got Holden?
+L87702 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek.
+L87701 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Where do we start?
+L87700 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city.
+L87699 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You got a machine on it yet?
+L87698 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one.
+L87697 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What was he after?
+L87696 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field.
+L87695 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Six, huh?
+L87730 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Oh!  Day after tomorrow.
+L87729 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Day after tomorrow.
+L87728 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ When might that be?
+L87727 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Soon as I finish the job.
+L87726 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Well, when do you get paid?
+L87722 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Your customer, eh?
+L87721 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ It's gotta be right for my customer.
+L87971 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.
+L87970 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Number three.
+L87969 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
+L87968 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Next.
+L87967 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position.
+L87966 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Okay, gimme a run-down on the three females.
+L87965 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Longevity is classified.  No.
+L87964 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Never mind.  Do they have that knowledge?
+L87963 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Four years.  Which would make her termination date...
+L87802 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ The umbrella.
+L87801 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ And what in your estimation works?
+L87800 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Not if it works.
+L87799 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Do you have something against science?
+L87798 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yes?
+L87796 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I think we're through for the night.
+L87795 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ What about a summary then.
+L87794 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I know all that.
+L87793 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Here's something you might find interesting.  They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.
+L87765 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement.
+L87764 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Okay, but...
+L87763 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,
+L87762 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ How do I stop one?
+L87761 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me?
+L87760 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You start.
+L87759 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Why, yes, of course.
+L87758 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You equipped for random questions?
+L87757 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ This is Esper and I'm ready.  Go ahead please.
+L87756 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot.
+L88088 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Four years.
+L88087 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ My birthday is April 10, 2015. How long do I live?
+L88086 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I don't know.
+L88085 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ How old am I?
+L88081 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I gotta piss.
+L88080 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ One more, eh?
+L88079 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I like you too.
+L88078 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I like you.
+L88076 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No thanks.
+L88075 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ You like to kiss her goodbye.
+L88071 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Prosit.
+L88070 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Prosit.
+L88068 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Two months.  But this one is not guy.  It is girl.  His girl.
+L88067 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ How long you had these guys?
+L88066 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Ya.
+L88065 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Those cockroaches?
+L88064 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ No problem.
+L88063 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sorry, don't have the time.
+L88062 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ You want to see my friends?
+L88061 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Prosit.
+L88060 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Prosit.
+L88059 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ My pleasure.
+L88058 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Thank you very much.
+L88057 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Shot of vodka, please.
+L88056 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Vodka!
+L88055 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'll but you one.  What'll you have?
+L88054 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ But I would like to buy you drink.
+L88053 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It's okay.  Forget it.
+L88052 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I think I have no money.

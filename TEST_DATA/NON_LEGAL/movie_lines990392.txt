@@ -1,0 +1,200 @@
+L575726 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ ...Yeah, it's a tough break.
+L575723 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Well, embezzlement. And homicide. A guy named David Brewster. He's, uh... He's the decedent.
+L575722 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ Homicide.
+L575721 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ Yeah, uh, they brung her to the county jail, uh...
+L575717 +++$+++ u8154 +++$+++ m553 +++$+++ PERSKY +++$+++ They sent us to tell ya.
+L575716 +++$+++ u8152 +++$+++ m553 +++$+++ KREBS +++$+++ ...Look, pal, it's a tough break, but, uh... well damnit, your wife's been pinched.
+L576746 +++$+++ u8159 +++$+++ m554 +++$+++ BAILEY +++$+++ I'm in.
+L576745 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ There's some kind of animal loose in the museum.  Pendergast's alone.  He needs help.  I want volunteers to go with me.
+L576730 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Great.
+L576729 +++$+++ u8159 +++$+++ m554 +++$+++ BAILEY +++$+++ Manual overrides aren't working.  I'm getting nothing, Lieutenant.
+L576338 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ No.
+L576337 +++$+++ u8159 +++$+++ m554 +++$+++ BAILEY +++$+++ There are a couple of kids who were lost yesterday near the site of the murder.  Claimed they saw a monster. They're pretty determined to tell you their story.  You want to see them?
+L576336 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ It better be good.
+L576335 +++$+++ u8159 +++$+++ m554 +++$+++ BAILEY +++$+++ Uh, Vince.  Sorry.  This won't wait.
+L576226 +++$+++ u8160 +++$+++ m554 +++$+++ BEAUREGARD +++$+++ No one broke into this room, sir. Someone broke out.  That lock was torn off from the <u>inside</u>.
+L576225 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Why not?
+L576224 +++$+++ u8160 +++$+++ m554 +++$+++ BEAUREGARD +++$+++ Don't know if it'll do any good, Mr. Cuthbert.
+L576223 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ The claws are sharp... I must have cut myself.  Better move these crates to the secure storage area where they'll be safe.
+L576222 +++$+++ u8160 +++$+++ m554 +++$+++ BEAUREGARD +++$+++ Looks like the curse is still at work.
+L576220 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Doesn't look like it.  We're damned lucky.  This statue is priceless.
+L576219 +++$+++ u8160 +++$+++ m554 +++$+++ BEAUREGARD +++$+++ Anything missin'?
+L576218 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Someone broke into this room.
+L576217 +++$+++ u8160 +++$+++ m554 +++$+++ BEAUREGARD +++$+++ I'm sorry, sir.  You okay?
+L576216 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Beauregard!  You scared me half to death.
+L576777 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I have to help Pendergast.  Kawakita and Jonathan stay with me.  The rest of you can go with Cuthbert!
+L576776 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ My office is on the third floor! There's a walk-in safe and a portable phone!  We can lock ourselves in the safe and call for help!
+L576775 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Get his gun and his walkie talkie, Jonathan.  Move.
+L576774 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Sweet Jesus!
+L576624 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ He'll be back.  Relax.  We're in good shape.  Your security is air tight. There've been no more incidents, nothing suspicious.  There's no reason to call off the opening now.
+L576623 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Pendergast may be in trouble.  Don't you understand?  He still hasn't come back.  It's been over three hours --
+L576622 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ You haven't got the authority.  Only Pendergast can pull the plug.
+L576621 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I'll go down and speak to him.
+L576620 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ It's too late now.  Guests are arriving.  The Mayor's car is pulling up.
+L576619 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I'm telling you, something's wrong. I still haven't heard from Pendergast.  I think you should call it off.
+L576486 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ I appreciate that.
+L576485 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ We all love the museum.  I come here myself with my kids.  We're trying to work with you.
+L576491 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I understand.  But Mr. Cuthbert, we've got bigger problems.  Depending on what we find today, we may have to shut you down.
+L576490 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ I don't want to scare people.
+L576489 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Yes.
+L576488 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Do they have to wear uniforms?
+L576487 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ If the party goes forward, and that's a big if... I've arranged for a large police presence.
+L576484 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ We've been operating in the red for years.  That was the whole idea behind the Superstition Exhibit.  It was designed to pull people in. We've spent every penny we have on advance publicity, betting everything on the opening's success. If we postpone at the last minute... No.  I don't want to think about that.
+L576483 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I've read about the Museum's financial troubles.
+L576482 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ If you like them, they're for sale. Another day like yesterday and half the collection will be on the block.
+L576481 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I had no idea the Museum had a complete collection of Piranesi's Forum sketches.
+L576827 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Eight to the right!  Look!  I found it!
+L576826 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Fifteen... what's next?
+L576825 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Oh Jesus...
+L576824 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ To the left twice then five no... sorry... I think it's fifteen... it's been a while...
+L576823 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ For Chrissake, I'll do it.  What's the combination?!
+L576821 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Just a minute.  I'm shaking!  Take the gun.
+L576820 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Hurry up!
+L576819 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ That thing won't come after us, right?  It's going for bigger game. The group blundering around in the basement.  Poor fools.
+L576818 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Let's go!
+L576817 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Battery's dead.  Shit.
+L576816 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Calm down.  I found it!
+L576815 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Forget it!
+L576814 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ I'll do it.  Just let me find my portable phone.
+L576813 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ What's the combination?
+L576812 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ Behind you.
+L576811 +++$+++ u8167 +++$+++ m554 +++$+++ JONATHAN +++$+++ Where's the walk-in safe?
+L576810 +++$+++ u8161 +++$+++ m554 +++$+++ CUTHBERT +++$+++ I got it after I was mugged in the subway last spring.
+L576789 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ It's a little late, you son of a bitch.  There's a friggin' monster loose in here!  Get the FBI, the fire department.  Find metal cutters, cut through.  And bring a cannon.  The damn thing is huge.
+L576788 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ I made it outside.  I'll co-ordinate the rescue efforts from here.  Help is on the way.  Just sit tight.
+L576787 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Where the hell are you?
+L576786 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ D'Agosta?  Ippolito.  Come in.
+L576699 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ Like hell!
+L576698 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Ippolito!  Get back here!
+L576696 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ You said the system couldn't fail!
+L576695 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ I told you!  They seal off all the cells.  They were designed to fall automatically in a system failure --
+L576694 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What doors?
+L576693 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ The whole system is shutting down! We have to get out quickly before the fire doors fall!
+L576562 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ You don't know much about computers, Lieutenant.  There are safeguards built in.  We have back-up systems with redundancies.  There's no way these computers can fail.
+L576561 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ That would leave one exit for hundreds of people.  You'd be violating every fire regulation on the books.  We'll guard the perimeter with my men and engage the motion detectors in the other cells.  One more question.  I see a big hole.  If this entire thing is run by computer, what happens if the power fails?
+L576560 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ In every exhibition room.  The museum's divided into five cells. The reception and exhibit are in cell five.  We could arm the motion detectors in cells one to four, then seal the perimeter with our fire doors.
+L576559 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ That's great if you're stopping a burglar.  Not our goal here.  Are there motion detectors?
+L576558 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ It's fool proof, basically.  I designed this whole thing myself. Every valuable object in the Museum carries a small electronic chip.  If anything's moved so much as an inch, we get an alarm pinpointing the exact location of the attempted theft.
+L576557 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ The cops are non-negotiable, Ippolito.  Why don't you just tell me how this space station works.
+L576556 +++$+++ u8166 +++$+++ m554 +++$+++ IPPOLITO +++$+++ This huge police presence tonight isn't necessary, Lieutenant.  You'll just scare people off.  I can handle the security behind scenes with this system.  It's state of the art.
+L576985 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ The sub-basement, huh?  Great idea.
+L576984 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Nice to see you, Lieutenant.
+L576867 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Everybody.  Get behind me.
+L576866 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Go out the north exit!  There's a hallway and a false wall by the Greek vases.  Run!
+L576865 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I smell it.  It's here.
+L576860 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I've been down there.  It links up to the old sewer system.  I can guide you out.
+L576859 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ The sub-basement?
+L576858 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Vince?  There's no way we can get to you with the fire doors down. There's an entrance to the sub- basement in the hall off the north side exit.
+L576851 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ This door's locked.  Try shooting the hinges off.
+L576850 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Pendergast!  Help!  It's right behind us!
+L576552 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ We haven't got time.  You have to meet with museum security so we can make a decision about tonight.
+L576551 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I think I should come with you.
+L576550 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Apparently it's huge.
+L576549 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ How big is the sub-basement?
+L576400 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ You've been holding out on me Pendergast.  You have a suspect capable of this?
+L576399 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ This isn't an animal, Vince.  I've been on this case four months, remember?  I've learned a few things.
+L576398 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I don't like animals.  Never have. Dog bit me when I was little.  After that I gave up on pets.  Animals are irrational.  Give me a psychotic killer any day.  If there's one thing that makes me queasy it's being part of a food chain.  My first case as a rookie, two brothers climbed a fence at the zoo.  It was late August.  Over ninety.  The polar bear was inside his cave.  Kids didn't know he was in there.  All they saw was the pool. They got to swimming and splashing. The noise woke up the bear.  By the time I arrived, both little boys were in pieces.  The bear was dragging one kid around by the foot. I can still hear the mother screaming --
+L576392 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Correct.
+L576391 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Saliva test?  You mean, you think someone ate part of the brain?
+L576390 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ If you don't mind a suggestion, you might try a saliva test.
+L576389 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What happened to them?
+L576371 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Oh.
+L576370 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ No.  I think what we've got here is a psychotic killer wielding some kind of unusual weapon... who wants us to believe he's a monster.
+L576369 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ You think what we've got here is a monster as big as a house that smells... like hamburger?
+L576368 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I believed them.
+L576367 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ They heard the victim's name and wove him into their story.  Nice touch.
+L576366 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ How do you explain the part about Beauregard?
+L576365 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I've got to admit, that was a damn sight better than "the dog ate my homework".
+L576341 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Unfortunately, no.
+L576340 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ You're kidding.
+L576339 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ If you don't mind, this could be important.
+L576334 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ No.  There's more.  There were crates from this museum in the hold of the boat.
+L576333 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ So the method of death is the only connection?
+L576332 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Yes.  That's my case.  Now it's yours. All the corpses were badly mutilated in a very particular way. Decapitated.  Brains extracted.  Limbs torn to shreds.  It looked like the work of a large animal, but there was no sign of an animal on board.
+L576331 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Who didn't?  Big news.  Out of Brazil, wasn't it?
+L576330 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Did you read about a boat that washed up outside of New Orleans about four months ago?  Twelve bodies on board.
+L576329 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Call me Vince.
+L576328 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Lieutenant --
+L576327 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Then you won't like this one.  It's a piece of shit.
+L576326 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Not at all.  I enjoy the smell of a good cigar.
+L576325 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I drink.  After hours of course.  On duty, I smoke.  Do you mind?
+L576324 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ In this violent world, I believe the only way to stay sane is to take time to notice beautiful things.
+L576323 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Can't really focus on birds at the moment, Pendergast.  I'm tryin' to keep my breakfast down.
+L576322 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ An original Roger Tory Peterson of a Red-Breasted Merganser.  Amazing.  I have a copy of this in my office at home.
+L576299 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Night watchman who found the body. Sweet old man.  Been tossing his cookies for over an hour.  Not a likely suspect.
+L576298 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Whose footprints?
+L576297 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Careful.  That mess on the ground is brains.
+L576296 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Where's the head?
+L576295 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ We need light in here, stat.
+L576294 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Mind if I have a look?
+L576293 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What's left of it.
+L576292 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ The body?
+L576291 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Not at all.  I think we may be working on the same case.  If so, I could use your help.
+L576290 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Vince D'Agosta.  Am I out?
+L576289 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Special Agent Pendergast.  FBI.
+L576288 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Who are you?  The undertaker?
+L576998 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ The virus itself might have positive applications.  They'll keep the plants in secure lock up while the studies are made.  Greg isn't joining us?
+L576997 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Shouldn't a drug that powerful be destroyed?
+L576538 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ This on top of the scratches... isn't it proof!
+L576537 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Pardon my French, but bull shit.
+L576536 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Did you hear that?  My God.  He says that Mbwun is real!
+L576532 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ May I see that?
+L576531 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Look.  It's some kind of letter.
+L576509 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ I'm one of the few who know every inch it, now that John is gone.
+L576508 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ This place is a maze.
+L576945 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I'd say we're in its home.
+L576944 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ Dear God.  Where are we, Lieutenant?
+L576941 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ I don't know.  I thought Dr. Whittlesley died in South America.
+L576940 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What's that doing here?
+L576939 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ Dr. John Whittlesley.
+L576938 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What does it say?
+L576936 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ All right everybody, hold up!
+L576935 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ What's that?
+L576934 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Not so loud.
+L576933 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ I believe in you a hundred percent, Vince, but that's the second time we've been at that intersection.
+L576888 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ Oh shit.
+L576887 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ All right.  Kawakita, cover the rear.
+L576862 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ You're asking me?  I don't even know how to load this thing.
+L576861 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ How much ammo do we have to make a stand?
+L576843 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ I know.
+L576842 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ It's still back there!
+L576691 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ There's a dead body in the exhibit! People are panicking, trampling each other trying to get out.
+L576690 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ What happened?!
+L576664 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ It's important.  Please.  You have to come!  Pendergast, too.  She's found out something.
+L576663 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ Got my hands full here.
+L576662 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ Dr. Green has to see you!
+L576661 +++$+++ u8162 +++$+++ m554 +++$+++ D'AGOSTA +++$+++ What is it?
+L576660 +++$+++ u8168 +++$+++ m554 +++$+++ KAWAKITA +++$+++ Lieutenant!  It's me.
+L576388 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ Yes.  Two organs the size of a walnut have been removed with what looks like surgical precision.
+L576387 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ The thalamus and the hypothalamus, perhaps?
+L576386 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ Curious.  There's something missing.
+L576385 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ Right.  The entire brain appears to have been extracted.  May I see it, please?
+L576384 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ Someone who makes the Hacksaw Murderer look like Mother Teresa.
+L576383 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ What are we talking about here?
+L576377 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ Lovely bouquet.  After our last case, Vince took me out for a draft beer. As I recall we split the check.
+L576376 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ I hope you liked it.
+L576375 +++$+++ u8163 +++$+++ m554 +++$+++ DR. ZIEWZIC +++$+++ Oh yes!  Who could forget.  Afterwards you sent me that amazing case of Chateau Lafitte.
+L576374 +++$+++ u8171 +++$+++ m554 +++$+++ PENDERGAST +++$+++ We've met.  The Hacksaw Murders.  '89.
+L576992 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Look who's here, Margo.
+L576991 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Dr. Frock?
+L576841 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Remember, it has poor eyesight.  It hunts with its sense of smell.  So for God's sake, Margo, don't get those fibers on your clothes!
+L576840 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ We will.
+L576839 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Come back and get me.
+L576830 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ No, Dr. Frock.  You can't.
+L576829 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ I'm coming with you.
+L576806 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ That thing could kill ten people in a matter of minutes.
+L576805 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ We can't.  We've managed to get inside the one place that's safe.  I think we should sit tight and wait for reinforcements.  If we go outside, we're risking more lives. You have to accept it, Margo, there's nothing we can do.  The building must be swarming with police by now.  It won't take long for them to get through the doors.
+L576804 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ None of that matters now.  The people upstairs need us.  We have to help.
+L576707 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ It's one of the fire doors.  Good Lord, Margo.  We're trapped!
+L576706 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ What's that?
+L576705 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Don't stop now.
+L576704 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ Dr. Frock.  Did you hear that?
+L576702 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ I think so.
+L576701 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Some kind of power failure.  Maybe it's the storm.  Do you have a flashlight?
+L576700 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ What's going on?
+L576657 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ It's like ringing the dinner bell.
+L576656 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ And it's hungry.  It's been two days since it's eaten.  There are five hundred people arriving right now. The animal hunts at night and it has a keen sense of smell!  All those people in one enclosed space...
+L576655 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ Margo, what you've just described is a killing machine.
+L576654 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ With the intelligence of a human being, the speed of a greyhound, and the strength of a grizzly bear.
+L576653 +++$+++ u8164 +++$+++ m554 +++$+++ FROCK +++$+++ So the claw came from a huge creature with a preternatural sense of smell and poor eyesight that hunts at night.
+L576652 +++$+++ u8170 +++$+++ m554 +++$+++ MARGO +++$+++ "Nocturnal.  External hair and bony plates.  Locomotor speed 60-70 kilometers.  Reduced optic chiasm"... poor eyesight.  "External mucoid nasal glands,"... very keen scent... "Morphological characteristics: Highly robust.  Aggressiveness: extreme."

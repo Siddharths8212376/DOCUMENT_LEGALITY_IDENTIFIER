@@ -1,0 +1,200 @@
+L46457 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ You're on your way up, Buddy-boy. And you're practically out of liquor.
+L46456 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ That's right.  We were discussing our department -- manpower-wise -- and promotion-wise --  -- and I told him what a bright boy you were.  They're always on the lookout for young executives. BUD Thank you, Mr. Kirkeby.
+L46455 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Mr. Sheldrake?
+L46454 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Sure, sure.  Look, kid -- I put in a good word for you with Sheldrake, in Personnel.
+L46453 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I don't mind in the summer -- but on a rainy night -- and I haven't had any dinner yet --
+L46452 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ I know, Buddy-boy, I know.  But those things don't always run on schedule -- like a Greyhound bus.
+L46451 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Mr. Kirkeby, I don't like to complain -- but you were supposed to be out of here by eight.
+L46821 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Listen, Baxter, we made you and we can break you.
+L46820 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You threatening me?
+L46819 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ You'll be a lot sorrier before we're through with you.
+L46818 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I sympathize with your problem -- and believe me, I'm very sorry --
+L46815 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, after all, it's my apartment -- it's private property -- it's not a public playground.
+L46814 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ We went to bat for you -- and now you won't play ball with us.
+L46809 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I have a vague idea.
+L46808 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Teamwork -- that's what counts in an organization like this. All for one and one for all -- know what I mean?
+L46561 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Thank you, Mr. Dobisch.
+L46560 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ That's a shame. I'll send the key right down. And about your promotion --  -- I'm sending that efficiency report right up to Mr. Sheldrake, in Personnel. I wouldn't be surprised if you heard from him before the day is over.
+L46559 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ And I couldn't get into my apartment -- so at four a. m. I had to wake up the landlady and give her a whole song and dance about going out to mail a letter and the door slamming shut.
+L46558 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ It is?  Well, how about that? No wonder I couldn't get into the executive washroom this morning.
+L46557 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, I found a key there, all right -- only it's the wrong key.
+L46556 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ I did, didn't I? I distinctly remember bending over and putting it there --
+L46555 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's not Picasso I'm calling about. It's the key -- to my apartment -- you were supposed to leave it under the mat.
+L46554 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Oh, Buddy-boy. I was just about to call you.  I'm sorry about that mess on the living room wall. You see, my little friend, she kept insisting Picasso was a bum -- so she started to do that mural -- but I'm sure it will wash off -- just eyebrow pencil.
+L46499 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yes, Mr. Dobisch.
+L46498 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Let me worry about that.  Just leave the key under the mat and clear out.
+L46497 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm all out of liquor -- and there's no clean glasses -- no cheese crackers -- no nothing.
+L46496 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Make it thirty minutes.  What do you say, Bud?
+L46492 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ It's only eleven -- and I just want the place for forty-five minutes.
+L46491 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Of course not.  But -- how can I be efficient in the office if I don't get enough sleep at night?
+L46490 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Look, Baxter -- we're making out the monthly efficiency rating -- and I'm putting you in the top ten. Now you don't want to louse yourself up, do you?
+L46489 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I don't care if it is Marilyn Monroe -- I'm already in bed -- and I've taken a sleeping pill -- so I'm afraid the answer is no.
+L46488 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Buddy-boy -- she won't keep that long -- not even on ice.  Listen, kid, I can't pass this up -- she looks like Marilyn Monroe.
+L46487 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm sorry, Mr. Dobisch.  You know I like to help you guys out -- but it's sort of late -- so why don't we make it some other time?
+L46486 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ That's okay, Buddy-boy.  Now like I was saying, I'm in this joint on Sixty-first -- and I think I got lucky --  -- she's a skater with the Ice Show --  -- and I thought maybe I could bring her up for a quiet drink.
+L46485 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, yes, Mr. Dobisch.  I didn't recognize your voice --
+L46484 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Dobisch -- Joe Dobisch, in Administration.
+L46483 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, that's very nice of you -- but who is this?
+L46482 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Hiya, Buddy-boy.  I'm in this bar on Sixty-first Street -- and I got to thinking about you -- and I figured I'd give you a little buzz.
+L46807 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah.
+L46806 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ Quite an office -- name on the door -- rug on the floor -- the whole schmear.
+L46574 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Wednesday -- Wednesday --  I got somebody penciled in -- let me see what I can do -- I'll get back to you.
+L46573 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ Okay, you made your point. We'll just have to do it next Wednesday -- that's the only night of the week I can get away.
+L46572 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, no. I'd get pneumonia -- and if I got pneumonia, I'd be in bed for a month -- and if I were in bed for a month --
+L46571 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ Buddy-boy, that's the worst thing you can do. If you got a cold, you should go to a Turkish bath -- spend the night there -- sweat it out --
+L46570 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Thank you, Mr. Vanderhof. But I'm sick -- I have this terrible cold -- and a fever -- and I got to go to bed right after work.
+L46569 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ That's not like you, Baxter. Just the other day, at the staff meeting, I was telling Mr. Sheldrake what a reliable man you were.
+L46568 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I hate to disappoint you -- I mean, many happy returns -- but not tonight --
+L46567 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ Cancel? But it's her birthday -- I already ordered the cake --
+L46566 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Look, Mr. Vanderhof -- I've got you down here for tonight -- but I'm going to be using the place myself -- so I'll have to cancel.
+L46565 +++$+++ u3741 +++$+++ m246 +++$+++ VANDERHOF +++$+++ Dear Mr. MacIntosh --  Vanderhof, Public Relations. Oh, yes, Baxter. Just a minute.  All right, Miss Finch -- type up what we got so far.  Now what is it, Baxter?
+L47571 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Happy New Year.
+L47570 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You know me with girls. Easy come, easy go. Goodbye, Doc.
+L47569 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Forget it -- I didn't do it as a doctor -- I did it as a neighbor.  By the way, whatever happened to her?
+L47568 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No, thanks -- I don't feel like it. Look, Doc -- in case I don't see you again -- how much do I owe you for taking care of that girl?
+L47567 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Booze we don't need. Why don't you join us, Baxter? We got two brain surgeons, an ear, nose and throat specialist, a proctologist, and three nurses from Bellevue.
+L47566 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Can you use a bottle of champagne?
+L47565 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Me? Oh, you mean my body. Don't worry, Doc -- it'll go to the University -- I'll put it in writing --
+L47564 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Sorry to lose you, Baxter.
+L47563 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I don't know. All I know is I got to get out of this place.
+L47562 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Where are you moving to?
+L47561 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah -- I'm giving up the apartment.
+L47560 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ What's this -- you packing?
+L47559 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, I have things to do --
+L47558 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ How come you're alone on New Year's Eve?
+L47557 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Sure, Doc.
+L47556 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Say, Baxter -- we're having a little party and we ran out of ice -- so I was wondering --
+L47447 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Not you -- Miss Kubelik.
+L47446 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, I'm fine, Doc.
+L47445 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ How's the patient?
+L47095 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ But you're not out of the woods yet, Baxter -- because most of them try it again!  You know where I am if you need me.
+L47094 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah, wasn't I?
+L47093 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ A mansch -- a human being! So you got off easy this time -- so you were lucky --
+L47092 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm not sure.
+L47091 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ I don't know what you did to that girl in there -- and don't tell me -- but it was bound to happen, the way you carry on. Live now, pay later. Diner's Club!  Why don't you grow up, Baxter? Be a mensch! You know what that means?
+L47090 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Help yourself.
+L47089 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Well, as a doctor, I guess I can't prove it wasn't an accident.  But as your neighbor, I'd like to kick your keester clear around the block.  Mind if I cool this off?
+L47088 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's just that she's got a family -- and there's the people in the office -- look, Doc, can't you forget you're a doctor -- let's just say you're here as a neighbor --
+L47087 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Aren't you?
+L47086 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ She didn't mean it, Doc -- it was an accident -- she had a little too much to drink and -- she didn't know what she was doing -- there was no suicide note or anything -- believe me, Doc, I'm not thinking about myself --
+L47085 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ It's regulations.
+L47084 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Why do you want to know, Doc? You don't have to report this, do you?
+L47083 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ What's her address?  Where does she live?
+L47082 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Kubelik -- with two k's.
+L47081 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ How do you spell her last name?
+L47080 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Sure.
+L47079 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Any of that coffee left?
+L47078 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ These cases are harder on the doctor than on the patient. I ought to charge you by the mile.
+L47077 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Just as long as she's okay.
+L47076 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ She'll sleep on and off for the next twenty-four hours. Of course, she'll have a dandy hangover when she wakes up --
+L47064 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well -- we work in the same building -- and we try to keep it quiet --
+L47063 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Mister -- Miss -- such politeness!
+L47062 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Hello, Miss Kubelik.
+L47045 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Fran, I'm a doctor. I'm here because you took too many sleeping pills. Do you understand what I'm saying?  Fran, I'm Dr. Dreyfuss -- I'm here to help you. You took all those sleeping pills -- remember?
+L47044 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik -- Fran.
+L47043 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ What's her name?
+L47039 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ You know, Baxter, you're a real cutie-pie -- yes, you are.
+L47038 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Something like that.
+L47037 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ So you went right out and picked yourself up another dame.
+L47036 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I don't know -- I mean -- I wasn't here -- you see -- we had some words earlier -- nothing serious, really -- what you might call a lovers' quarrel --
+L47035 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Want to tell me what happened?
+L47031 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Get that stuff out of her stomach -- if it isn't too late. You better put some coffee on -- and pray.
+L47030 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What are you going to do, Doc?
+L47027 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It was half-full -- about a dozen or so. You going to have to take her to the hospital?
+L47026 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ How many pills were in that bottle?
+L47025 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ She going to be all right, Doc?
+L47008 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Let me get my bag.
+L47007 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ There's a girl in my place -- she took some sleeping pills -- you better come quick -- I can't wake her up.
+L46477 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Slow down, kid.
+L46476 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ My body?  I'm afraid you guys would be disappointed.  Good night, Doc.
+L46475 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ When you make out your will -- and the way you're going, you should -- would you mind leaving your body to the University?
+L46474 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Me?
+L46473 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ You know, Baxter -- I'm doing some research at the Columbia Medical Center -- and I wonder if you could do us a favor?
+L46472 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah.  Well -- see you, Doc. 
+L46471 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Sometimes,  there's a twi-night double-header.  A nebbish like you!
+L46470 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm sorry if it gets noisy --
+L46469 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ As a matter of fact, you must be an iron man all around. From what I hear through the walls, you got something going for you every night.
+L46468 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, that's not me.  It's just that once in a while, I have some people in for a drink.
+L46467 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Say, Baxter -- the way you're belting that stuff, you must have a pair of cast-iron kidneys.
+L46466 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh.  'Bye, Doc.
+L46465 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Yeah.  Some clown at Schrafft's 57th Street ate a club sandwich, and forgot to take out the toothpick.
+L46464 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Hi, Doc.  Had a late call?
+L46463 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Good evening, Baxter.
+L47024 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ You bet I will. And when I tell him how you treated me, he'll push your face in.  You fink!
+L47023 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Here -- find yourself a phone booth and call your husband in Havana.
+L47021 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ My shoes.
+L47020 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Nothing.  Just clear out, will you?
+L47019 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Say, what's going on here, anyway?
+L47017 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's an emergency -- see you some other time.
+L47016 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ What's the matter? Did I do something wrong?
+L47015 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ The party's over.
+L47014 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Good night?
+L47013 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Good night.
+L47012 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Not so rough, honey.
+L47000 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ I'm with you, lover.
+L46999 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, they haven't got me yet, baby. Dig up some ice from the kitchen and let's not waste any time -- preliminary-wise.
+L46998 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Gee. Sort of gives you goose-bumps just to think about it.
+L46997 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Ask anybody around here. As a matter of fact, when it's time for me to go -- and I may go just like that --  -- I have promised my body to the Columbia Medical Center.
+L46996 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ No kidding.
+L46995 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Mrs. MacDougall, I think it is only fair to warn you that you are now alone with a notorious sexpot.
+L46994 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Say, this is Snugsville.
+L46991 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ I don't know you at all. BUD Permit me -- C.C. Baxter -- junior executive, Arthur Murray graduate, lover.
+L46990 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Stuck on her! Obviously, you don't know me very well.
+L46989 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Still stuck on her, huh.
+L46988 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ She may be a girl -- but she's no friend of mine.
+L46987 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ You got a girl-friend?
+L46986 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No.
+L46985 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Can I ask you a personal question?
+L46983 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Not particularly.
+L46982 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Poor Mickey -- when I think of him all by himself in that jail in Havana --  -- want to see his picture?
+L46981 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Might as well go to mine -- everybody else does.
+L46980 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Where do we go -- my place or yours?
+L46943 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I said I had no family -- I didn't say I had an empty apartment.
+L46942 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ A night like this, it sort of spooks you to walk into an empty apartment.
+L46941 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No.
+L46940 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Family?
+L46939 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No.
+L46938 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ 'Twas the night before Christmas And all through the house Not a creature was stirring -- Nothing -- No action -- Dullsville!  You married?
+L46937 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, you can't win 'em all.
+L46936 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Mickey? He wouldn't do nothing like that. He's a jockey. They caught him doping a horse.
+L46935 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh. Mixed up in that revolution?
+L46934 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ My husband. He's in Havana -- in jail.
+L46933 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Who is Mickey?
+L46932 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ All I wanted him to do was let Mickey out for Christmas.
+L46931 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That so.
+L46930 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ Because as far as I'm concerned, he's a no good fink. Two weeks ago I wrote him a letter -- never even answered me.
+L46929 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What about him?
+L46928 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ You know, that big-shot down in Cuba with the crazy beard.
+L46927 +++$+++ u3732 +++$+++ m246 +++$+++ MARGIE +++$+++ You like Castro?  I mean -- how do you feel about Castro? BUD What is Castro?
+L47474 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Yeah, he's punchy. Talking to himself.
+L47473 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ That guy really must've belted him.
+L47472 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Hit by a swinging door? Or maybe a Yellow Cab?
+L47471 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Hi, Buddy-boy. What happened to you?
+L47409 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Yeah. What's Buddy-boy done for us lately?
+L47408 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Why not? We don't owe Buddy-boy anything.
+L47407 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ I see.  What do you think, Al? Can we help the man?
+L47397 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ What gripes me is the two of them were guzzling my champagne while Sylvia and I wound up at the Guggenheim Museum.
+L47396 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ A.W.O.L.?
+L47395 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Toot? It's more like a lost weekend. Neither of them showed up for work today.
+L47394 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ No kidding. Buddy-boy and Kubelik having themselves a little toot!
+L47393 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ Kubelik.
+L47392 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Who?
+L47391 +++$+++ u3731 +++$+++ m246 +++$+++ KIRKEBY +++$+++ -- so yesterday afternoon I take Sylvia up to the apartment, and guess who he's got stashed away in the bedroom?
+L47073 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ You can't sleep.  Come on, Fran -- open your eyes.  Let's get her walking. We've got to keep her awake for the next couple of hours.
+L47072 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Please -- just let me sleep.
+L47061 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Mr. Baxter -- nineteenth floor.
+L47060 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Do you know who this is?  Look at him.
+L47059 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't know.
+L47058 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Yes, you do. Now concentrate.
+L47057 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No.
+L47056 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Do you know where you are, Fran?
+L47055 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I took sleeping pills.
+L47054 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ And what happened to you?
+L47053 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Dr. Dreyfuss.
+L47052 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Tell me again -- what's my name?
+L47051 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Get more coffee.
+L47050 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Dreyfuss.
+L47049 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ Dr. Dreyfuss.
+L47048 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Doctor.
+L47047 +++$+++ u3729 +++$+++ m246 +++$+++ DR. DREYFUSS +++$+++ That's right, Fran. And I'm a doctor.
+L47046 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sleeping pills.

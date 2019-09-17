@@ -1,0 +1,200 @@
+L206496 +++$+++ u900 +++$+++ m59 +++$+++ ARNOLD +++$+++ Brad, can I talk to you a minute?
+L206828 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ Look, Brad, I've been trying to think of a way to tell you this. We're almost out of high school, this is our last year. I think we owe it to ourselves to be free, and meet some new people. Then, if we get back together, we'll know it's the right thing.
+L206827 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I'm just glad we're still together, Lisa, because I need you this year.
+L206826 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Apologize to that wimp? No way. Fuck Dennis Taylor.
+L206825 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ If you'd apologize I think Dennis would take you back.
+L206824 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Man, I don't even want to see those guys from Carl's again.
+L206668 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ I don't want to talk about it here, Brad.
+L206667 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Tool? Tool for what? We've been going together almost two years!
+L206666 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ Brad. I don't want to have to use sex as a tool.
+L206665 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ What's there to do at the Point? God, Lisa, we've been going together almost two years, and...
+L206662 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Don't worry about it.
+L206661 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ How much did they cost?
+L206660 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Of course.
+L206659 +++$+++ u911 +++$+++ m59 +++$+++ LISA +++$+++ Were those flowers really for me, Brad?
+L207325 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Later.
+L207324 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Easy, mon.
+L207236 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ There it is!
+L207235 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ First door on your left!
+L207234 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ On the ledge?
+L207233 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ It's the first door on your left!
+L207232 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ I can't find it, mon!
+L207231 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ It's the first door on your left.
+L207230 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Totally.
+L207229 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Go ahead. Just make it quick.
+L206458 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Come on, Spicoli. Why don't you just put your shirts back on? See the sign?
+L206457 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Something happened to them, mon.
+L207049 +++$+++ u908 +++$+++ m59 +++$+++ HAROLD +++$+++ Yes. I think so. Show some pride, Hamilton.
+L207048 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ You really want me to put all this stuff back on?
+L207047 +++$+++ u908 +++$+++ m59 +++$+++ HAROLD +++$+++ Come on, Hamilton. You're going over there to represent Captain Kidd Fish and Chips. We have stores all over Southern California. Part of our image, part of our appeal is in our uniforms. You know that!
+L207046 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I thought I'd take it off for the drive over to IBM. It's kind of uncomfortable.
+L207045 +++$+++ u908 +++$+++ m59 +++$+++ HAROLD +++$+++ But you took off your Captain Kidd uniform.
+L207044 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ This is how I dress all the time.
+L207043 +++$+++ u908 +++$+++ m59 +++$+++ HAROLD +++$+++ Hamilton, come over here. What is that you've got on?
+L206781 +++$+++ u902 +++$+++ m59 +++$+++ BUSINESSMAN +++$+++ Manager!!
+L206780 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Mister, if you don't shut up, I'm gonna kick 100% of your ass.
+L206779 +++$+++ u902 +++$+++ m59 +++$+++ BUSINESSMAN +++$+++ I am so tired. I am so tired of dealing with morons. How hard is it to...
+L206778 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I'm sorry, sir. Just let me find the forms here.
+L206777 +++$+++ u902 +++$+++ m59 +++$+++ BUSINESSMAN +++$+++ Look. Just put your little hand back in the cash register and give me my $2.75 back. Okay?  Please, Brad?
+L206776 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I can't do that. But if you wait a minute...
+L206775 +++$+++ u902 +++$+++ m59 +++$+++ BUSINESSMAN +++$+++ See that sign? It says 100% Money Back Guarantee. Do you know the meaning of the word 'guarantee'? Do they teach you that here? Give me my money back.
+L206774 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Well, that's not the way it works, really. And you ate most of your food already, too...
+L206773 +++$+++ u902 +++$+++ m59 +++$+++ BUSINESSMAN +++$+++ No. I want my money back right now.
+L206772 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Well, I believe you have to fill out a form. There's a pad right around here.
+L207201 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ All right, then. It's your secret.
+L207200 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ No.
+L207199 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ You're not going to tell me, are you?
+L207197 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Brad. Please don't tell Mom and Dad...
+L207196 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Since when do you shop at the Flea Market anyway?
+L207183 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Thanks a lot, Brad. I really appreciate it.
+L207182 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ See you later.
+L207181 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Yeah. This is it. I have some shopping to do.
+L206999 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ It's just Linda. And Mark from school.
+L206998 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Does Mom know you have company?
+L206694 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Don't give me that shit! I know you're still a virgin!
+L206693 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Maybe yes. Maybe no.
+L206692 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Are you still a virgin?
+L206691 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ But your face did!
+L206690 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I didn't say that.
+L206689 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ You are a virgin!
+L206688 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Maybe yes. Maybe no.
+L206687 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I don't know. I was just curious.
+L206686 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Why?
+L206685 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Hey, Brad. Are you still a virgin?
+L206684 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Everybody loves Lisa. Everybody loves Lisa. But everybody doesn't have to be her boyfriend.
+L206683 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Maybe you just need to give her some time. She's so nice, Brad. Everybody loves Lisa.
+L206682 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Well... it's true.
+L206681 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I'm just guessing.
+L206680 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Where did you hear that?
+L206679 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Why? Because she won't sleep with you?
+L206678 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I've been doing some thinking. It's my last school year. I'm a single, successful guy. I think I want my freedom.
+L206677 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ You're going to break up with Lisa, aren't you?
+L206676 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Are you kidding? Work is great. I kill at work. I don't even mind Mom and Dad making me pay rent.
+L206675 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Is everything okay at work?
+L206674 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I don't care it you tell me or not. I got problems of my own.
+L206673 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ It's just some guy I met at Swenson's. You don't know him.
+L206672 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Don't worry about it. Who sent the flowers?
+L206671 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Thanks for getting rid of those flowers.
+L206633 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I'll explain everything later.
+L206632 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I'd say... who the hell is Ron Johnson?
+L206631 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Brad, what would you say if I asked you to just put these flowers in the trunk of the Cruising Vessel and get rid of them at work?
+L206630 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ They're not home yet.
+L206629 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Brad! Have Mom or Dad seen this?
+L206628 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Don't strain yourself.
+L206627 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ I take out the garbage.
+L206626 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Your friends use the pool too.
+L206625 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Your friends use the pool. Your friends messed it up.
+L206624 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Why can't you do it?
+L206623 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Mom says to clean up the pool.
+L206509 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Hey-yo.
+L206508 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ U.S. History. Mr. Hand.
+L206507 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Everyone wants to know where Lisa is. How should I know where Lisa is?  What am I gonna do? Now my little sister goes to the same high school. The party's over.  So who do you have first period?
+L206504 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Sis.
+L206503 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Hi, Brad.
+L206789 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ You're fired.
+L206788 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Yes, sir.
+L206787 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Did you threaten this customer or use profanity in any way?
+L206786 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ He insulted me first. He called me a moron.
+L206785 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Did you threaten this man or use profanity in any way?
+L206768 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ Okay, Dennis.
+L206767 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Come on. Clean that counter off Brad. Let's go. Play ball.
+L206464 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ But they weren't mine.
+L206463 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Those were perfectly good fries, Hamilton.  Perfectly good.
+L206462 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ They were left over from the last shift.
+L206461 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Did you throw away those fries, Hamilton?
+L206460 +++$+++ u901 +++$+++ m59 +++$+++ BRAD +++$+++ No, just a couple of surfers with no shirts on. I took care of it, Dennis.
+L206459 +++$+++ u905 +++$+++ m59 +++$+++ DENNIS +++$+++ Any problems?
+L207263 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Go away, Curtis. If you can't knock, I can't hear you.
+L207262 +++$+++ u903 +++$+++ m59 +++$+++ CURTIS +++$+++ Jeff you have company!
+L206819 +++$+++ u903 +++$+++ m59 +++$+++ CURTIS +++$+++ Dad says!
+L206818 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Leave me alone.
+L206817 +++$+++ u903 +++$+++ m59 +++$+++ CURTIS +++$+++ Dad says you're late again, you butthole!
+L206816 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Leave me alone!
+L206815 +++$+++ u914 +++$+++ m59 +++$+++ SPICOLI +++$+++ Ugh.
+L206814 +++$+++ u903 +++$+++ m59 +++$+++ CURTIS +++$+++ Dad says you have to get up!
+L207259 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Get going.
+L207258 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ All right. All right. I just cleaned B-8. Give me a break.
+L207257 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Mike! You have a mess on C-9!
+L207170 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Seventy-five dollars, and a ride. Okay.
+L207169 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Half. Okay?  Seventy-five dollars. And a ride to the clinic.
+L207168 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Doesn't sound free to me.  So you want me to pay for it?
+L207167 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ It's already planned, Mike. It's going to cost $150 at the Free Clinic.
+L207166 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Yeah. My brother Art got his girlfriend one once.
+L207165 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ We've got to get an abortion?
+L207164 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ There's only one thing we can do. We've got to get rid of it. We've got to get an abortion.
+L207163 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ All right, I take it back.
+L207162 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Take that back.
+L207160 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I know it's yours.
+L207159 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ How do you know it's mine? We only did it once.
+L207158 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Mike. I want you to know that I'm pregnant.
+L207157 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Why don't you call me up tonight?
+L207156 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ What? Now?
+L207155 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Mike, there's something that's been on my mind and I have to tell you about it.
+L207154 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ What's going on?
+L207115 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Hello.
+L207114 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I'm in a hurry too. I just thought I could say hi to you.
+L207113 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Look, I'm kind of in a hurry.
+L207112 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I didn't see you this morning.
+L207111 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Oh. Hi.
+L207092 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I guess I did.
+L207091 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ I think I came. Didn't you feel it?
+L207090 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ What's wrong?
+L207089 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ I'm sorry. I'm really sorry.
+L207088 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I think we're making a lot of noise.
+L207087 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ What? Are you all right?
+L207086 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Hey, Mike?
+L207085 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Let's continue.
+L207084 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I want you to know that it's your final decision if we should continue or not.
+L207083 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ How about both of us at the same time?
+L207082 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ You first.
+L207081 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Why don't you take off your clothes, Mike?
+L207080 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ No. Are you crazy?
+L207079 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ So are you.  Are you shaking?
+L207078 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ You're a really good kisser.
+L207077 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ He's my friend, too.
+L207076 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Listen. I feel pretty strange here. Because Mark really likes you, and he's my friend.
+L207074 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Come on...
+L207073 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Are you really a virgin?
+L207072 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ I don't know. It's getting pretty late...
+L207071 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Pick a suit.
+L207067 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Brad probably has some trunks you can borrow... I'm going to my room to change!
+L207066 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Well...
+L207065 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Do you want to take a quick swim?
+L207064 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ I know what I look like.
+L207063 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Aren't you curious to see how your class picture turned out?
+L207062 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ I don't know.
+L207061 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I guess the annuals are coming in pretty soon. Are you going to get one?
+L207060 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Sure. Come on in.
+L207059 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Do you have any ice tea?
+L207056 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Mark is a really nice boy...
+L207055 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ You know Mark Ratner really likes you. You like him?
+L207054 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ What a guy.
+L207053 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Sometimes I get a ride with my brother. But he usually works in the mornings, and then drives to school himself.
+L207052 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Get a ride with somebody.
+L207051 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ I can't wait until I can drive next year. I walk every day. It's such a drag.
+L206996 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ O-kay, you guys can come swimming. But you have to leave as soon as my Mom gets home. Okay?
+L206995 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Well, that's exactly why I brought some Wisk for the jacuzzi.
+L206989 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Oh, really?
+L206988 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Hey! We came over to help you with Math homework!
+L206899 +++$+++ u915 +++$+++ m59 +++$+++ STACY +++$+++ Nice to meet you.
+L206898 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Nice to meet you, Stacy.
+L207356 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ It's a way, Damone. It's a vibe. I put it out, and I have personally found that girls do respond.
+L207355 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Yeah, well, I saw the movie. That must mean I'm sensitive too.
+L207354 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ Lust For Life. It's the story of Vincent Van Gough.
+L207353 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ What do you read? What's the last book you read?
+L207352 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ Well, for one, I read. I don't watch as much television as you. I'm trying to feel things more. I'm learning a lot about people.
+L207351 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ So what makes you so sensitive?
+L207350 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ Sensitive is when you can tell how people feel without asking.
+L207349 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Sensitive -- what is that?
+L207348 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ And... you can only tell it's the right girl if you're sensitive.
+L207347 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Whatever you say, Rat.
+L207346 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ The Attitude, Damone, is only good until you meet the right girl.
+L207308 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ You're crazy. Those girls love me.
+L207307 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ You're losing it, Damone.
+L207222 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Fine. Get lost.
+L207221 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ I always stick up for you. Whenever people say 'Aw, that Damone is a loudmouth' -- and they say that a lot -- I say 'You just don't know Damone.' When someone says you're an idiot, I tell them 'Damone's not an idiot. You just don't know him.' Well, you know, Damone, maybe they do know you pretty good. And I'm just finding out.
+L207220 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ Jesus. I'm sorry.
+L207219 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ Hey fuck you Damone. There's a lot of girls out there and you mess around with Stacy. What have you got to prove?
+L207218 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ She wasn't really your girlfriend anyway.
+L207217 +++$+++ u916 +++$+++ m59 +++$+++ THE RAT +++$+++ No Damone. I don't understand.
+L207216 +++$+++ u904 +++$+++ m59 +++$+++ DAMONE +++$+++ If you ask me, she's pretty aggressive. You understand what I'm saying?

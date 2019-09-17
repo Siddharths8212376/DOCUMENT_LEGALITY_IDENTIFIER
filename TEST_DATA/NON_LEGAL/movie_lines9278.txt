@@ -1,0 +1,200 @@
+L399647 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ My patient had to leave early.
+L399646 +++$+++ u2192 +++$+++ m141 +++$+++ LILY +++$+++ You're early... it's not ready. What happened?
+L400588 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Thanks for your help, Lionel.
+L400587 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ It's a country club. Don't worry about it.
+L399775 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're right, as usual. See you.
+L399774 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ You've got to have the right ladder for the job. You don't know what you're doing, you can get yourself in trouble.
+L399773 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Hello, Lionel.
+L399739 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ And it's the Hubble Telescope, not the Himball Telescope.
+L399738 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ Maybe some of us don't need this crap!
+L399736 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Come out this way. There's no shame in getting a little therapy... is there, Althea?
+L399735 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ Don't you at least have a back door I can use?
+L399734 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ See that sign -- We retain the right to refuse service to anyone. I'm not going to charge you for this session, but I don't want to see you back here.
+L399733 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ I'm a criminal lawyer -- you think I like my clients? I can't stand most of them! But I don't kick them out...
+L399732 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sure I can, Lionel.
+L399731 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ -- you crazy? You can't do this!
+L399728 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ -- Go on!
+L399727 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ ...but it's not really my school -- and this is very interesting -- it's the school from the next district --
+L399724 +++$+++ u2193 +++$+++ m141 +++$+++ LIONEL +++$+++ Kind of impatient for a big-time headshrinker, aren't you? How 'bout you let me explain it my own way...
+L399723 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ -- you can sit up and look at me if you'd like --  -- maybe it would be helpful if you told me a little about what brought you here.
+L400436 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Insane! Didn't ja hear? My family got five hundred times better.  Let's go, Vanessa.
+L400435 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ How are you?
+L400434 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Did you straighten her out?
+L400433 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Martin.
+L400432 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Hiya, Doc.
+L399900 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ No... sort of. Man, she could be cool, but all she does is get wrecked and do all the guys. She's blowin' them in the parking lot.
+L399899 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Is she a friend of yours?
+L399898 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ What's wrong with her?
+L399896 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Got to.
+L399895 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I'm trying.
+L399894 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Can you help Mom?
+L399893 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That would explain it.
+L399892 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ I been drivin' since I was twelve.
+L399891 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're good.
+L399890 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ I just got my license two weeks ago.
+L399889 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Don't need it.
+L399888 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ Got a license?  But no car?
+L399887 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sure.
+L399886 +++$+++ u2194 +++$+++ m141 +++$+++ MARTIN +++$+++ But you know how to drive?
+L400543 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Mother... go away!
+L400542 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ It'll never happen! You're in big trouble, mister.
+L399926 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ What kind of doctor are you?
+L399925 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Dr. Mumford does, yes. I've put myself completely in his hands. For today, anyway.
+L399924 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Do you think that's a good idea?
+L399923 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ We're going for a walk.
+L399922 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ What's happening here?
+L399920 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Mumford... like the town?
+L399919 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Hello, Mother. I want you to meet Dr. Mumford.
+L400541 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Well, I gotta say, Mrs. Cook, you're right about that.
+L400540 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Sofie. It's so obvious... you're after my daughter.
+L400535 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ No, you can not. I wouldn't know who to say is calling.
+L400534 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Could I see Sofie, please?
+L400533 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Just who is here, can you tell me?
+L400532 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Good evening, Mrs. Cook.
+L400531 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Well, look who's here...
+L400366 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Take a hike, Dr. Quack!
+L400365 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Wow. You're something.
+L400364 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ -- the problem is you're a big fake. You haven't got a clue what's wrong with that girl.
+L400363 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Well... you see, the problem is --
+L400358 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Why don't you go to hell? It's all a bunch of nonsense and you know it.
+L400357 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Why don't you tell me?
+L400356 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ I think you do.
+L400355 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ No, I really don't.
+L400354 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ I think you know what I mean.
+L400353 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ What do you mean?
+L400352 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Finally, some common sense...
+L400345 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ What?
+L400344 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ There's something I think we need to talk about.
+L400343 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ What'd you want?
+L399929 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That's right, the fake kind.
+L399928 +++$+++ u2195 +++$+++ m141 +++$+++ MRS. COOK +++$+++ Oh... not a real doctor.
+L399927 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Ph.D., psychologist.
+L400594 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Of course... I haven't got the energy to get out of town that fast.
+L400593 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Will you be here?
+L400592 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ We're only talking about six weeks.
+L400591 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Will you wait for me?
+L400590 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You got off easy.
+L400570 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ What is your name?
+L400569 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Anything... just ask.
+L400568 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ ...but first, you have to tell me something...
+L400566 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I want to spend the rest of my life with you... but I'm not sure you feel the same way.
+L400565 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Oh.
+L400564 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I love you. More than I've ever loved anyone or anything in my life.
+L400563 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I don't know. Depends. I'm in a bad mood.
+L400562 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Will you think about it?
+L400561 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ What?
+L400560 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ But, there is one... mitigating factor I want you to consider before you write me off.
+L400559 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I know it! Please believe me, I know that...
+L400558 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ But nothing... I'm mad as hell. This is a terrible thing you've done.
+L400557 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ But...
+L400556 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I am irate!
+L400554 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You deserve it.
+L400553 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Not me... all my other my patients. I smelled tar and feathers on the way over here.
+L400552 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You feel violated?
+L400551 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're not the only one...
+L400550 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ ...How violated I feel?
+L400548 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You probably got the idea.
+L400547 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Part of it. We were watching "ER" until someone called.
+L400546 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sofie...
+L400545 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Which show was that?
+L400544 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I guess you saw the show...?
+L400539 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ What do you think I'm after, Mrs. Cook?
+L400538 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Mother...
+L400497 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I think you can understand why I have some serious questions about your methods. I mean, obviously it becomes much more likely that I'm going to have confusion about this when your idea of treatment is to go walking in the woods and up to make- outs-ville and do all these highly romantic activities --
+L400496 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Hello.
+L400495 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Hello?
+L400494 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Yes, and that is what I have got right now. I have taken my feelings of gratitude... and relief... and transferred them onto... you. I have taken all those warm, grateful emotions and confused them with feelings for you... So that now I am under the delusion...  ...that I am in love with you.
+L400493 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Transference.
+L400492 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Transference!
+L400491 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ What was that?
+L400490 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I know a little about psychology. I took three different courses in college. It's true, none of them were above the two hundred level, but I took them... And there was one concept I remember very well.
+L400489 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I think so.
+L400488 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ The point is this -- I am not a blank page. I did not just fall off the turnip truck. Do you know what I mean?
+L400487 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Okay...
+L400486 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I'm saying that since I'm doing so much better -- which I attribute to you -- I'm liable to misinterpret some of my feelings.
+L400485 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I don't follow you.
+L400484 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Given that, I'm obviously not going to be judging things in the most realistic way.
+L400483 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I'm glad.
+L400482 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ First of all, I have been feeling much better lately. I don't know if the syndrome is over -- if it's just run its course or something -- but I feel a hundred per cent better than when I first came to you.
+L400481 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Um-huh.
+L400480 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ All right... I'm going to come right out and say this, because that's what your shrink is for, right, so you can tell him what's bothering you?
+L400478 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Why don't you tell me what's on your mind?
+L400477 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ No, it is not something I've heard about you! It is someth--  Why? Is there something I should have heard about you?
+L400476 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Is it something you've heard about me?
+L400475 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ How intuitive! That must take years of training right there. Maybe you can guess what has upset me.
+L400474 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're upset.
+L400473 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Yes, something's very wrong, Dr. Mumford.
+L400472 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Is something wrong, Sofie?
+L400471 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ It might've been more appropriate if we had followed a traditional approach to the doctor-patient relationship.
+L400469 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Of course.
+L400468 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I need to talk to you... Doctor. Can I come in?
+L400416 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Thanks to this therapy, I now know what I'm looking for. I need to find a man like you.  Not one who's treating me, of course.  And I'm going to do it, dammit! You've given me the confidence.
+L400415 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Of course.
+L400414 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You're shockingly honest, that's what makes you great. I've never had a man treat me this way. With you, I feel really... listened to.  Can I tell you something? It's a little embarrassing, but I feel very unguarded with you.
+L400413 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I don't know if --
+L400412 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Yes! And my ex-husband -- he never accepted me for who I was, just like Mother. The things you've said have helped me understand what a dick he is.
+L400411 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That's... good?
+L400410 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I can't tell you how much I admire you. You have a wonderful way with people. And you're very insightful. I feel like you've seen me clearly... I never used to admit what a horrible person my mother was. You've made that possible for me.
+L400409 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Yeah?
+L400408 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ -- you've been a tremendous help to me.
+L400403 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I thought only action movies had villains like that.
+L400402 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I bet I know what changed your mind...  ...My mother. She was so horrible, you decided you couldn't desert me.
+L400401 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That's one way to put it.
+L400400 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ My brother said you were about to fire me.
+L400399 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I thought I had something to tell you. But it turned out I didn't.
+L400398 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Why'd you come to the house the other night?
+L400397 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Either one.
+L400396 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Which thing?
+L400395 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That's what I like.
+L400394 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ When I was in high school we used to come up here and make out. I liked to sit on the rock and watch the sun go down.
+L400174 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Therapy? Hell no, I just don't want to do it alone.
+L400173 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ And this is legitimate therapy?
+L400172 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Then you can expect me at 5:30 tomorrow morning.
+L400171 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ It's all right.
+L400170 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You like it?
+L400169 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I'm thinking a gal could make a good living doing this. How hard could it be squeezing out some fourteen year old?
+L400168 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ In the capitol for Boy's Nation. Five days. Why?
+L400167 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ And he's where?
+L400166 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Brady Peck's. Fourteen years old. Lives next door.
+L400165 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ So whose route is this?
+L400164 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ No, that'd be a good story, but that was just the beginning of the end. We went on for another year or so.
+L400163 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Is that when you split up?
+L400161 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ It's pretty obvious to a trained professional.
+L400160 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ And I'll bet you can interpret the whole thing
+L400159 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Disgusting.
+L400158 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ That was really bad, wasn't it?
+L400157 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Oh, there's something wrong with you, all right. Especially after hearing that dream of yours, about the Roto-Rooter.
+L400156 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ ...who thinks there's nothing really wrong with me.
+L400155 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Yes.
+L400154 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You're purposely making me talk while we do this...  ...because you think this is good for me...  ...and you're a sadistic bastard...
+L400153 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Oh... this makes me sound irrational, which is probably right, but there was something about him saying this -- it was maybe the millionth time he'd told me about some preference of his. Well, I was so... tired of it.  Seems like my whole life someone's been telling me... I'm just not getting it right. Can we rest for a second?
+L400152 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ It doesn't matter. Go on.
+L400151 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I don't know if I'm going to make it the whole way.
+L400150 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're doing great.
+L399974 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Well then, my life has been some kind of huge rip.
+L399973 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sometimes, yeah... pulling in two different directions at once. It makes tiny little tears in our fabric.
+L399972 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ You actually address yourself by name in your thoughts?  So you really think having two opposing ideas in your head does some kind of damage?
+L399971 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ There... I've given myself a real whopper.
+L399970 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ All I have to do is have two conflicting thoughts at the same time... Like I'll think -- 'Taking these walks is going to help Sofie get better.' But then I'll also think -- 'Mumford, you just enjoy taking these walks and you're kidding yourself about the benefits.'
+L399969 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Is that like a party trick?
+L399968 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I can give myself a headache instantly.
+L399967 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ So the headaches may not even be a part of this?
+L399966 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ No, not really. They're about the same. My marriage was one long headache.
+L399965 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Did you get headaches before this?  But you get more now? Or more severe?
+L399964 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I don't know if I mentioned the headaches.
+L399963 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Life.
+L399962 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Where?
+L399961 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Yeah, most people have that. It's confusing here.
+L399960 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Yes, yes, and definitely yes. Also... I get confused.
+L399959 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Painful lymph glands?  Forget fulness... irritability... depression?
+L399957 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Uh-huh.
+L399956 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sore throat?
+L399955 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Well... I'm tired all the time, obviously. I always feel like taking a nap. But when I try to sleep, I have trouble.  My muscles ache. And my joints. I feel like an old person, or like I did back when I used to work out too hard... What else?...
+L399954 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Be specific.
+L399953 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ I'm embarrassed. The list is so long.
+L399950 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ 'Cause I'll tell you, none of the others have tried this approach.
+L399949 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sorry... I'm done.
+L399948 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ Is this the treatment?
+L399947 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Really? What would it take?
+L399946 +++$+++ u2200 +++$+++ m141 +++$+++ SOFIE +++$+++ No.
+L399945 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I've offended you!

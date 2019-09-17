@@ -1,0 +1,200 @@
+L24219 +++$+++ u218 +++$+++ m14 +++$+++ JETSON +++$+++ Sergeant... I'd like to thank you for what you're doing.
+L24218 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ ... and we work my hours.  I'll do the driving, you do the paperwork. You gotta learn it so you might as well do it all.
+L24333 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ No... two.
+L24332 +++$+++ u220 +++$+++ m14 +++$+++ MAFFET +++$+++ Yeah, the shells are too big for six in an cylinder.  Hell, Matt, you don't need but one.
+L24331 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Only holds five.
+L24330 +++$+++ u220 +++$+++ m14 +++$+++ MAFFET +++$+++ Casull .454 Magnum.  You're talking twice the impact energy of .44 Magnum hot loads.
+L24329 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ What is it?
+L24328 +++$+++ u220 +++$+++ m14 +++$+++ MAFFET +++$+++ You said you wanted the biggest thing I could find... Well, this is it.
+L24601 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ ... They took the stuff out, all of it -- this afternoon.
+L24600 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Don't piss him off, O'Neal.  When he gets like this, I can't control him. I've seen this before.  He got like this once -- I saw him jerk a guy's spine out and show it to him. Nothing I could do.  I hadda go throw up.
+L24294 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ Yes it is.  Thirty-five percent pure Methane gas in there.  I don't know how these fellas do it.
+L24293 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ That where Anderson worked?
+L24292 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ I think you're gonna find he's taken the rest of his life off.
+L24291 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ Wait.  You know who it looks like? Yeah.  Anderson.  Uh... James Anderson.  He isn't in today.  He took the afternoon off.
+L24290 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Who else can I ask around here?
+L24289 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ To be honest, it's hard to say.  I hate to admit it but -- they all still kinda look alike to me.
+L24288 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ We think he could'a been involved, yeah.  You know him?
+L24287 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ You think this is the guy who did it?
+L24286 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Well, one of the men didn't like him so much...
+L24285 +++$+++ u221 +++$+++ m14 +++$+++ O'NEAL +++$+++ Mr. Hubley was an all right guy -- and a damn good manager.  The men liked him.  I'm really gonna have to scramble to fill his shoes.
+L24579 +++$+++ u222 +++$+++ m14 +++$+++ OPERATOR +++$+++ Sure.  Just a minute.
+L24578 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Can you dig up their Quarantine records in this thing?
+L24575 +++$+++ u222 +++$+++ m14 +++$+++ OPERATOR +++$+++ I'm sorry, Matt.  Nothing here seems to be matching up...
+L24574 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Yeah -- we met him.  Wonderful boy... close personal friend of George's here.
+L24573 +++$+++ u222 +++$+++ m14 +++$+++ OPERATOR +++$+++ Released December one.  He and his wife moved first to Modesto, then Coalinga, California -- wherever that is -- settled in L.A. in April.  Field of expertise: organic chemical engineering.  He and his wife have one child, a son.
+L24570 +++$+++ u222 +++$+++ m14 +++$+++ OPERATOR +++$+++ For you, anything.
+L24569 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Try Joshua Strader, will ya, darlin'?
+L24568 +++$+++ u222 +++$+++ m14 +++$+++ OPERATOR +++$+++ Here's Hubley.  Left Quarantine on November thirtieth, relocated first to Riverside, then moved to Los Angeles early in February the following year.  Field of expertise: chemical manufacturing.  Looks like he passed up several other better paying jobs waiting for that one at the refinery.
+L24381 +++$+++ u223 +++$+++ m14 +++$+++ PORTER +++$+++ That's all I know.  You want anything more, you ask somebody else.
+L24380 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Yeah, I heard of it.
+L24379 +++$+++ u223 +++$+++ m14 +++$+++ PORTER +++$+++ Yeah... I seen him around.  High- roller dude named Strader.  Joshua Strader.  Runs a club on the west side.  Encounters.
+L24378 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ One of the two men was Hubley, right?  What about the other one? Did you know him?
+L24359 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ What's that?
+L24358 +++$+++ u223 +++$+++ m14 +++$+++ PORTER +++$+++ Ss'kya'ta'.
+L24357 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Jesus, are the questions too tough for you already?  Let's try again--  Is your name Porter?
+L24546 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Did he find anything?
+L24545 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ Looking for some foreign compound in the blood of that alien you dropped the other day.
+L24544 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ What kind of test?
+L24539 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ You mean the Blob?  They're finishing up now.
+L24538 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ You guys finished the postmortem on Strader yet?
+L24265 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Yeah, I'll bet.
+L24264 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ Oh, here's an extra headshot if you need one.  We're just about to start cutting in.  You're welcome to stick around if you want.  It's really fascinating stuff.
+L24263 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ That's the way these people are. You don't hit both pumps you just piss them off.
+L24262 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Lucky nothing.  I had to empty my damn gun into him.
+L24261 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ Lucky for you, you got him in both of his... well, what we loosely refer to as... hearts.
+L24260 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Yeah.
+L24259 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ You took this gut out, too, didn't you?
+L24258 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Fedorchuk couldn't find his ass with his hands in his back pockets.
+L24257 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ No I.D. on him and -- well, you know, no fingerprints -- so it could be tough.  Your buddies this morning went through the mug book but couldn't make a facial match.
+L24254 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ Yeah... he was one Martin Helder. White male, twenty-seven.  Let's see... wrap sheet shows one armed robbery conviction, a couple for sale of a controlled substance. Oh yeah, and he was wired on coke when you stopped his clock.
+L24253 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ The human?
+L24252 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ Yeah, right.  Don't push your luck. Anyway, according to the sheet, the guy you nailed outside by the car--
+L24251 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Come on.  You got nothin' better to do, cushy county job like yours.
+L24250 +++$+++ u227 +++$+++ m14 +++$+++ WINTER +++$+++ You know I've been over all this with Fedorchuk and Alterez this morning...
+L24216 +++$+++ u226 +++$+++ m14 +++$+++ WARNER +++$+++ Don't tell me what to think.
+L24215 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Granger and Pitts have one hell of a caseload... and I would have thought with Jetson here being the first Newcomer plainclothes, and Hubley's body being found over in the Newcomer community...
+L24214 +++$+++ u226 +++$+++ m14 +++$+++ WARNER +++$+++ Granger and Pitts are already on it.
+L24210 +++$+++ u226 +++$+++ m14 +++$+++ WARNER +++$+++ You?
+L24209 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Departmental policy.
+L24208 +++$+++ u226 +++$+++ m14 +++$+++ WARNER +++$+++ You are to have nothing to do with the investigation into Bill Tuggle's death.  You know that.  Leave that for Fedorchuk.
+L24204 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Captain.  I'd like to volunteer for duty with the new detective.
+L24203 +++$+++ u226 +++$+++ m14 +++$+++ WARNER +++$+++ Yeah, Sykes?
+L24167 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ I'll cover you!  Get outta there!!
+L24166 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ I can't!  Do you mind!
+L24165 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Get outta there!
+L24163 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ I got him.  Don't get pinned.
+L24162 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ Watch the driver.  I'm going for a better angle on the door.
+L24161 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Yeah, that's comforting.  Mine, too.
+L24160 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ Of course.  Right in the trunk of the car.
+L24159 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ You got your vest?
+L24156 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ Whatever gave you that idea?
+L24155 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Does that look at all suspicious to you?
+L24153 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Shit, if Kristin had to get married where I could afford it, we'd be holding the reception at Buddy's Burgers.
+L24152 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ But you're bummed because your ex and her new husband are paying for the whole thing.
+L24151 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Goddammit, Tug -- I want to see Kristin get married, okay?  But--
+L24150 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ Hey, look -- we've known Kristin since... since she was conceived in that cabin up in Big Bear. Remember?  You and Edie banged the wall so hard, me and Carol were picking plaster out of our hair for a week...
+L24149 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ What?
+L24148 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ Put on your wash-and-wear suit and your clip-on tie, have your landlady tie your shoes for you, and show up at the church.  Simple.  Me and Carol are going.
+L24147 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ How can I go?
+L24145 +++$+++ u225 +++$+++ m14 +++$+++ TUGGLE +++$+++ It is. 
+L24144 +++$+++ u224 +++$+++ m14 +++$+++ SYKES +++$+++ Hope their plumbing's the same.
+L26618 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Uh, seems to be in front and behind.
+L26617 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Talk to me, Hudson.
+L26616 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Can't lock up...
+L26615 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Position?
+L26614 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Movement!
+L26401 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Rescue mission.  There's some juicy colonists' daughters we gotta rescue from virginity.
+L26400 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hey, 'Top.'  What's the op?
+L26399 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Let's go...let's go.  Cycle through!
+L26398 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Whoooah!  No shit?  I'm impressed.
+L26387 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Would you, Sir?
+L26386 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Christ.  I never saw such a buncha old women.  You want me to fetch your slippers, Hudson?
+L26385 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ This floor's freezing.
+L26632 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Say again?  All after incinerators?
+L26631 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Uh,...Apone, I want you to lay down a suppressing fire with the incinerators and fall back by squads to the APC, over.
+L26606 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Let's go.  Pull 'em out.
+L26605 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Flame-units only.  I want rifles slung.
+L26487 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Vasquez, take point.  Let's move.
+L26486 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ First squad up, on line.  Hicks, get yours in a cordon.  Watch the rear.
+L26485 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Ten seconds, people.  Look sharp!
+L26484 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Set down sixty meters this side of the telemetry mast.  Immediate dust off on my 'clear,' then stay on station.
+L26480 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Awright!  I want a nice clean dispersal this time.
+L26479 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Okay, let's do it.
+L26474 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Awright.  Fire-team A.  Gear up. Let's move.  Two minutes. Somebody wake up Hicks.
+L26473 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ ...that's better.  Pan it around a bit.
+L26972 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Well, thanks, I --
+L26971 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You did okay, Bishop.
+L26945 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ In seventeen minutes this place will be a cloud of vapor the size of Nebraska.
+L26944 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ She's alive.  They brought her here and you know it.
+L26943 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Ripley...
+L26942 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ WE'RE NOT LEAVING!
+L26941 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ PLENTY!  TWENTY-SIX MINUTES!
+L26940 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ HOW MUCH TIME?
+L26808 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ See you soon.
+L26807 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ It's going to be closer.  You better get going.
+L26803 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ All right.  Let's get on it.  What'll you need?
+L26802 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm really the only one qualified to remote-pilot the ship anyway. Believe me, I'd prefer not to.  I may be synthetic but I'm not stupid.
+L26801 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What?
+L26800 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'll go.
+L26789 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm afraid so.  The crash did too much damage.  The overload is inevitable, at this point.
+L26788 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ And it's too late to shut it down?
+L26785 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm projecting total systems failure in a little under four hours.  The blast radius will be about thirty kilometers.  About equal to ten megatons.
+L26784 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How long until it blows?
+L26783 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ That's it.  See it?  Emergency venting.
+L26759 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Hard to say.  It may have been blind instinct...attraction to the heat of whatever...but she did choose to incubate her eggs in the one spot where we couldn't destroy her without destroying ourselves.  That's if she exists, of course.
+L26758 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Could it be intelligent?
+L26757 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Well, the queen is always physically larger then the others.  A termite queen's abdomen is so bloated with eggs that it can't move at all.  It is fed and tended by drone workers, defended by the warriors.  She is the center of their lives, quite literally the  mother of their society.
+L26756 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You're saying one of those things lays all the eggs?
+L26755 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ That is the question of the hour.  We could assume a parallel to certain insect forms who have hivelike organization. An ant of termite colony, for example, is ruled by a single female, a queen, which is the source of new eggs.
+L26754 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ But these things come from eggs...so where are all the eggs coming from.
+L26753 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Yes.  That follows.
+L26752 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Which would mean lots of those parasites, right?  One for each person...over a hundred at least.
+L26751 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Now let me get this straight. The aliens paralyzed the colonists, carried them over there, cocooned them to be hosts for more of those...
+L26750 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I've isolated a neuro-muscular toxin responsible for the paralysis.  It seems to be metabolizing.  He should wake up soon.
+L26774 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Sorry to disappoint you.
+L26773 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I expected more of you, Ripley. I thought you would be smarter than this.
+L26770 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Look, maybe the thing didn't even exist, right?  And if I'd made it a major security situation, the Administration would've stepped in.  Then no exclusive rights, nothing.
+L26769 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You sent them out there and you didn't even warn them, Burke. Why didn't you warn them?
+L26768 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You sent them to that ship.  I just checked the colony log... directive dates six-twelve-seventy-nine. Signed Burke, Carter J.
+L26767 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Now, wait a second --
+L26766 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ But they will know about it, Burke. From me.  Just like they'll know how you were responsible for the deaths of one hundred and fifty-seven colonists here --
+L26765 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You've been doing your homework. Look, they can't impound it if they don't know about it.
+L26764 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You just try getting a dangerous organism past ICC quarantine. Section 22350 of the Commerce Code.
+L26763 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Those specimens are worth millions to the bio-weapons division.  Now, if you're smart we can both come out of this heroes.  Set up for life.
+L26682 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ This operation is under military jurisdiction and Hicks is next in chain of command.  Right?
+L26681 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Corporal Hicks!?
+L26680 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What rank?  I believe Corporal Hicks has authority here.
+L26679 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Don't make me pull rank, Ripley.
+L26678 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You son of a bitch.
+L26673 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Bullshit!
+L26672 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ This is clearly an important species we're dealing with here. We can't just arbitrarily exterminate them --
+L26671 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They can bill me.  I got a tab running.  What's second?
+L26670 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, I mean...I know this is an emotional moment, but let's not make snap judgments.  Let's move cautiously.  First, this physical installation had a substantial dollar value attached to it --
+L26669 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Why not?
+L26668 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Now hold on a second.  I'm not authorizing that action.
+L26667 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No good.  How do we know it'll effect their biochemistry?  I say we take off and nuke the entire site from orbit.  It's the only way to be sure.
+L26597 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ She's right.
+L26596 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's not what I mean.  Gorman, if your men have to use their weapons in there, they'll rupture the cooling system.
+L26595 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yeah?  Maybe the organisms like the heat, that's why they built...
+L26594 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They're right under the primary heat exchangers.
+L26476 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Uh-hunh.  One of thirty or so, all over the planet.  They're completely automated.  We manufacture them, by the way.
+L26475 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That the atmosphere processor?
+L26442 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I suggest you study the disks Ripley has been kind enough to prepare for you.
+L26441 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I hope you're right.  I really do.
+L26408 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, it didn't occur to me.  It's been policy for years to have a synthetic on board.
+L26407 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You never said anything about an android being here!  Why not?
+L26378 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ That's the plan.  My word on it.
+L26377 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Burke, just tell me one thing. That you're going out there to kill them.  Not study.  Not bring back.  Just burn them out...clean ...forever.
+L26376 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yello?  Oh, Ripley.  Hi...
+L26374 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No!  The answer is no.  Now please go.  I'm sorry.  Just go, would you.
+L26373 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yes, and I've read it.  You wake up every night, sheets soaking, the same nightmare over and over...
+L26372 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Spare me, Burke.  I've had my psych evaluation this month.
+L26371 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ If you go.  It's a second chance, kiddo.  And it'll be the best thing in the world for you to face this fear and beat it.  You gotta get back on the horse...
+L26370 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ If I go.
+L26369 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ What if I said I could get you reinstated as a flight officer? And that the company has agreed to pick up your contract?
+L26368 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ It's all I could get.  Anyway, it keeps my mind off of... everything.  Days off are worse.
+L26367 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Running loaders, forklifts, that sort of thing?
+L26366 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's right.
+L26365 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I heard you were working in the cargo docks.
+L26364 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Yeah, yeah.  I saw the commercial.
+L26363 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, the corporation co-financed that colony with the Colonial Administration, against mineral rights.  We're getting into a lot of terraforming...'Building Better Worlds.'
+L26362 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What about you?  What's your interest in this?
+L26357 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I was reamed, steamed and dry-cleaned by you guys...and now you want me to go back out there?  Forget it.
+L26356 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Hear me out...
+L26355 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No.  There's no way!
+L26309 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You are a head case.  Have a donut.
+L26308 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They had their minds made up before I even went in there. They think I'm a head case.
+L26307 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You had them eating out of your hand, kiddo.
+L26287 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Just tell them what happened.  The important thing is to stay cool and unemotional.
+L26286 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I get the picture.
+L26285 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Look, I believe you, but there are going to be some heavyweights in there.  You got Feds, you got interstellar commerce commission, you got colonial administration, insurance company guys...
+L26284 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You read my deposition...it's complete and accurate.
+L26280 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Cancer.  Hmmmm.  They still haven't licked that one.  Cremated.  Interred Parkside Repository, Little Chute, Wisconsin.  No children.
+L26279 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Amy.
+L26278 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Amanda Ripley-McClaren.  Married name, I guess.  Age:  sixty-six ...at time of death.  Two years ago.  I'm sorry.
+L26277 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Is she...?
+L26276 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, I was going to wait until after the inquest...
+L26275 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Have they located my daughter yet?
+L26266 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You'd drifted right through the core systems.  It's blind luck that deep-salvage team caught you when they...are you all right?
+L26265 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Fifty-seven...oh, Christ...

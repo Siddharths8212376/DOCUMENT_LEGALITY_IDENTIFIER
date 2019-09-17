@@ -1,0 +1,200 @@
+L591638 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No -- I want to take you to the movies.  Do you think they'd accept these?
+L591637 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ I've got some money. My mother gave me two dollars.
+L591636 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Certainly.  Tell me, Bobby -- do you have to have money to go there?
+L591635 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ No foolin'? Will you?
+L591634 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ All right.
+L591633 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Go to the movies.
+L591630 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ They have cemeteries. But not like this one... You see, they don't have any wars.
+L591629 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Is it different where you've been?  Don't they have places like this?
+L591628 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'll tell you, Bobby -- I've been away for a long time. Very far away.
+L591627 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Mr. Carpenter" -- you don't seem to know about anything.
+L591626 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No -- I'm afraid not.
+L591625 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Sure. Didn't you ever hear of Arlington Cemetery?
+L591624 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Did all these people die in wars?
+L591610 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ He doesn't know the answer. And he'll never get it that way.
+L591609 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Bet he's the only one in the world knows the answer.
+L591608 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ It's a problem in celestial mechanics.
+L591607 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ What does that mean?
+L591603 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ We can scare him more than he can scare us.
+L591602 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Well, sure I would, but --  Aw, I'll bet you'd be scared.
+L591601 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Wouldn't you like to meet him?
+L591600 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ You're just kidding, aren't you?
+L591599 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Bobby -- I have an idea. Let's go see Professor Barnhardt and find out how he talks.
+L591597 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Velocity is the time rate of change of position.
+L591596 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Mr. Carpenter -- what does velocity mean?
+L591595 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I don't know, Bobby. I'm inclined to doubt it.
+L591594 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ You think they'll ever find him?
+L591592 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Well -- there are several ways to reduce landing speed. You see, the velocity--
+L591591 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Gee! How could they make a landing?
+L591590 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Maybe four thousand miles an hour. And outside the Earth's atmosphere a good deal faster.
+L591588 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Yes -- I think so.
+L591587 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ You think it can go faster than an F- 36?
+L591586 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No. It's for a lot of other things, too.
+L591585 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ I thought that was only for bombs.
+L591584 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Well -- atomic power, I would imagine.
+L591583 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Gee, I'd like to get inside and see how it works. What do you think makes it go?
+L591582 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I shouldn't be at all surprised.
+L591581 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Boy, I'll bet he's strong. I bet he could knock down a whole building.
+L591580 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Department of Commerce. She's a secretary.  They have a man they call the Secretary, but he isn't at all. My mother's a real secretary.  Mr. Carpenter -- now can we go see the space ship?
+L591579 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Where is that?
+L591578 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Sure. Right near where my mother works.
+L591577 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ He lives here in Washington, doesn't he?
+L591576 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Well -- Professor Barnhardt, I guess. He's the greatest scientist in the world.
+L591573 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I was speaking of earth men. I meant the greatest philosopher -- the greatest thinker.
+L591572 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Gee -- I don't know... The space man, I guess.
+L591571 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Bobby -- who's the greatest man in America today?
+L591522 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No -- I'm afraid not.
+L591521 +++$+++ u3198 +++$+++ m211 +++$+++ BOBBY +++$+++ Are you an FBI man?
+L591490 +++$+++ u3199 +++$+++ m211 +++$+++ CAPTAIN +++$+++ He says their medicine is that much more advanced.  He was very nice about it. But he made me feel like a third-class witch doctor.
+L591489 +++$+++ u3206 +++$+++ m211 +++$+++ MAJOR +++$+++ How does he explain that?
+L591488 +++$+++ u3199 +++$+++ m211 +++$+++ CAPTAIN +++$+++ Their life expectancy is a hundred and thirty.
+L591487 +++$+++ u3206 +++$+++ m211 +++$+++ MAJOR +++$+++ I don't believe it.
+L591486 +++$+++ u3199 +++$+++ m211 +++$+++ CAPTAIN +++$+++ He told me this morning when I examined him. He's seventy-eight.
+L591485 +++$+++ u3206 +++$+++ m211 +++$+++ MAJOR +++$+++ Oh, I'd say forty-five.
+L591484 +++$+++ u3199 +++$+++ m211 +++$+++ CAPTAIN +++$+++ And the lungs are the same as ours. Must mean a similar atmosphere -- similar pressure.  How old do you think he is?
+L591483 +++$+++ u3206 +++$+++ m211 +++$+++ MAJOR +++$+++ The skeletal structure is completely normal.  Same for the major organs -– heart, liver, spleen, kidneys.
+L591513 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Under the circumstances I'm afraid that will be impossible.
+L591512 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Before making any decisions, I think I should get out among your people -- become familiar with the basis for these strange, unreasoning attitudes.
+L591511 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I'm afraid my people haven't.  I'm very sorry -- I wish it were otherwise.
+L591510 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I am impatient with stupidity. My people have learned to live without it.
+L591509 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Your impatience is quite understandable.
+L591508 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I can judge only by what I see.
+L591507 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Our problems are very complex, Mr. Klaatu. You mustn't judge us too harshly.
+L591506 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I will not speak to any one nation or group of nations.  I don't intend to add my contribution to your childish jealousies and suspicions.
+L591505 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Now that you understand the situation more clearly, perhaps you'd like to discuss the matter with the President
+L591504 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ It's not your government I'm thinking about. It's your world.
+L591503 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I tried to make you understand. The suspicions -- the jealousies -- the mistrust--  Surely you realize that my government has done everything in its power--
+L591502 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Not very good news, I'm afraid.  The President accepted your suggestion and cabled the invitations for a meeting last night.  Let me read you some of the replies.  "The Premier wishes to inform the Government of the United States that it will be impossible for him to attend the meeting suggested by the President unless the meeting is held in Moscow."  "The suggestion of the President regarding the possibility of a meeting in Moscow would be unacceptable to Her Majesty's Government at the present time. Representation could be sent only if the meeting were held in Washington."  Well -- there you have it.
+L591501 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Thank you... Have you any news?
+L591500 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Good afternoon.  I'm glad to see you up and around.
+L591472 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I've been dealing in Earth's politics a good deal longer than you have.  Goodnight, sir.
+L591471 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Apparently I'm not as cynical about Earth's people as you are.
+L591470 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I will make that recommendation to the President.  I must tell you in all honesty that I'm extremely dubious about the results.
+L591468 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Believe me, you don't understand. They wouldn't sit down at the same table.
+L591467 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Then why not a meeting of all the Chiefs of State?
+L591466 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ We could call a special meeting of the General Assembly... But of course the UN doesn't represent all of the nations.
+L591465 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I intend to explain. To all the nations -- simultaneously.  How do we proceed, Mr. Harley?
+L591464 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Perhaps if you could explain a little--
+L591463 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ My mission here is not to solve your petty squabbles. It concerns the existence of every last creature who lives on Earth.
+L591462 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I was only hoping to make you understand.
+L591461 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I am not concerned, Mr. Harley, with the internal affairs of your planet. I consider that to be your business -- not mine.
+L591460 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I'm sure you recognize from our broad- casts the evil forces that have produced the tension in our world. Surely you would agree--
+L591459 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ The first two years of television we were convinced that all you did was wrestle.
+L591458 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ You must have a rather strange impression of us.
+L591457 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ We've been monitoring your radio broadcasts for a good many years. That's how we learned your languages. Lately, we've been getting your television also.
+L591456 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ You know about the United Nations?
+L591455 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I traveled 250 million miles. What about your United Nations?
+L591454 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I'm afraid that would be a little awkward. It's -- it's completely without precedent. And there are practical considerations -- the time involved -- the enormous distances.
+L591453 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I want to meet with representatives from all the nations of the Earth.
+L591452 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I -- I'm not sure I understand--
+L591451 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ This is not a personal matter, Mr. Harley. It concerns all the people on your planet.
+L591450 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Perhaps you'd rather discuss it personally with the President--
+L591449 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'd be glad to.  Not now, of course -- with you alone.
+L591448 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ We're very curious about that, too. Would you care to talk about it?
+L591447 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I mean the reasons for my coming here.
+L591446 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ The present situation?
+L591445 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'm afraid, in the present situation you'll have to learn to think that way.
+L591444 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ It's rather difficult for us to think of another planet as a neighbor.
+L591443 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ From another planet. Let's just say that we're neighbors.
+L591442 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ Naturally we're very curious to know where it is you come from.
+L591441 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ About 250 million of your miles.
+L591440 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ You must have come a long way.
+L591439 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ About five months -- your months.
+L591438 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ I'm sure I don't have to point out that your arrival was something of a surprise.  Had you been traveling long?
+L591437 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Sit down, Mr. Harley.
+L591436 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ The President asked me to convey his deepest apologies for what has happened. We all feel--
+L591435 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Just Klaatu.
+L591434 +++$+++ u3200 +++$+++ m211 +++$+++ HARLEY +++$+++ My name is Harley -- Secretary to the President  I've been told that you speak our language -- that your name is Mr. Klaatu.
+L591956 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I'm not going to marry anybody.
+L591955 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You wait and see. You're going to marry a big hero!
+L591954 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I feel different right now.
+L591953 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You'll feel different when you see my picture in the papers.
+L591952 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I don't care about the rest of the world!
+L591951 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Tom, you mustn't -- ! You don't know what you're doing! It isn't just you and Mr. Carpenter. The rest of the world, is involved!
+L591948 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Why not? Somebody's got to get rid of him.
+L591947 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Is that what you're thinking about?
+L591946 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ He told you... Don't be silly, honey -- just because you like the guy.  You realize what this'd mean for us? I'd be the biggest man in the country. I could write my own ticket.
+L591945 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ But he isn't a menace! He told me what he came here for.
+L591944 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ He's a menace to the whole world! It's our duty to turn him in.
+L591943 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ That's what I'm trying to tell you. We mustn't do anything about it. Believe me, Tom, I know what I'm talking about.
+L591942 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Important? Of course it's important. The point is we can do something about it.
+L591941 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ You don't understand. You don't realize how important it is.
+L591940 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Are you crazy? After what happened today?
+L591939 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Never mind about that.  You've got to promise me you won't say a word to anybody.
+L591938 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ How do you know?
+L591937 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ All right, Tom -- it's true. I know it's true.
+L591936 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Helen, he's the man from the space ship!  I had that diamond checked at three different places. Nobody on earth's ever seen a stone like that! After what Bobby told us, that's enough for me. Why is it nobody knows anything about him? Why hasn't he got any money?
+L591935 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ What about him?
+L591934 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I've got some terrific news about your friend, Mr. Carpenter.
+L591933 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Come on in.
+L591932 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Tom -- I've been trying to get you all afternoon--
+L591861 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I -- I'm afraid I can't -- not right now. Can I talk to you later?. Yes, that'll be fine. 'Bye.
+L591860 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I'm at Bleeker's getting an appraisal on that diamond. I thought we might have lunch together.
+L591851 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I've got a good lock on my door.  And Bobby's going to sleep in my room tonight.
+L591850 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You think it's all right for you to stay here?
+L591849 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Bobby and I have had enough excitement for tonight.
+L591848 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I wonder if we ought to--
+L591841 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Looks real to me.
+L591840 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Is it real?
+L591839 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ He's not there.  But look what I found in his room
+L591799 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I'm sorry. I guess I'm just tired of hearing about Mr. Carpenter.  I don't like the way he's attached himself to you and Bobby. After all, what do you know about him?
+L591798 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Oh, Tom, that was awful.
+L591793 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ I hope Mr. Carpenter won't think I'm intruding.
+L591792 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I was talking to Mr. Carpenter.
+L591791 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ The picture starts at eight-fifty.
+L591790 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I will be in just a minute.
+L591789 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You ready?
+L591788 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Hello--
+L591660 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ A good insurance salesman wouldn't give you time to think.
+L591659 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ You're a good salesman -- but I've got to think about it.
+L591658 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ The boss is leaving for Chicago tomorrow. If I could tell him I was getting married -- with two dependents--
+L591657 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ You know how I feel, Tom. I just want to think it over.
+L591656 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You still haven't answered my question.
+L591655 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ It was a wonderful day.
+L591562 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ There's always somebody here, but today of course they've all got plans.
+L591561 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Well, we could--
+L591560 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ There's only one thing -- I haven't been able to arrange for anyone to stay with Bobby.  I don't suppose we could take him with us?
+L591559 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ We're all set. I picked up some sandwiches and put gas in the car. And the radio's still busted, so me can forget about the space man for today.
+L591995 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I think I'm very lucky. You don't always get a chance to recognize a mistake before you make it.
+L591994 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'm sorry.
+L591993 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ No. That's all finished.
+L591992 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ He'll have you -- and Tom.
+L591991 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ We'll miss you very much -- Bobby and I.  He won't have anyone to play with.
+L591986 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ How long will I live?  That no one can say.
+L591985 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ But how -- how long--?
+L591984 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ This technique, in certain cases, can re-stimulate life for a limited period. It's a refinement of scientific principles known to your own people.
+L591983 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No -- that is a power reserved to the Almighty Spirit.
+L591982 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ You mean he has the power of life and death?
+L591981 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I was.
+L591980 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I -- I thought you were--
+L591979 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Hello.
+L591971 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Remember those words.
+L591970 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ "Klaatu barada nikto."
+L591969 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ There's no limit to what he could do. He could destroy the Earth.  If anything should happen to me, you must go to Gort. You must give him this message: "Klaatu barada nikto." Please repeat that.
+L591968 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Gort?  But he's a robot. I mean -- without you, what could he do?
+L591967 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'm worried about Gort. I'm afraid of what he might do -- if anything should happen to me.
+L591966 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ It's only a few blocks to Barnhardt's.
+L591963 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ At the ship.
+L591962 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Where is the meeting going to be?
+L591961 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I'm sure Barnhardt can arrange to hide me until the meeting.
+L591919 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Tom... He was there last night when Bobby told me what he saw.
+L591918 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Who?
+L591917 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ No, wait a minute -- there's someone else.
+L591916 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Back to the boardinghouse. I'll be safe there for the afternoon -- and I can keep an eye on Bobby. He's the only other person who knows anything about--
+L591915 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Where are you going now?
+L591914 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Yes -- Just exactly.
+L591913 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ It must be twelve-thirty.
+L591912 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I can see no other hope for your planet. If the meeting should fail, then I'm afraid there is no hope.
+L591911 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ You hold great hope for this meeting.
+L591877 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ You see -- the electricity's been neutralized -- all over the world.
+L591876 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Why not?
+L591875 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ It won't work.
+L591874 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ We could try pushing the other buttons.  I have a flashlight in my purse.
+L591873 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ We'll be stuck here for a little while -- about thirty minutes.
+L591872 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Just twelve.
+L591871 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ What time is it?
+L591870 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ What happened?
+L591869 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Before I ask you to be honest with me, perhaps I should be completely honest with you--
+L591868 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ What is it you want?
+L591866 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Did you believe what he told you?  I have a reason for asking this -- a very important reason.
+L591865 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I -- I didn't really pay much attention--  Bobby has such an active imagination.

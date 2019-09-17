@@ -1,0 +1,200 @@
+L515883 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ No, no, no. We've been looking to renovate that area of our hotel for some time now. The security team is only present to preserve floor integrity, due to the roof access.
+L515882 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ C'mon Bill... you've got some Sultan up there, one of your whales, big- spender, likes a lot of space, you cook up this "construction" thing...?
+L515880 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ So there are no guests staying on that floor?
+L515879 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ Uh -- well, yes, uh just in terms of the men up there now, my team, he's serving lunch and dinner and just doing general upkeep so --
+L515878 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ You have a butler working that floor?
+L515877 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ Right now? A six man security force, plus a member of our Butler staff. So seven men total.
+L515876 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ What kind of personnel?
+L515875 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ Yes, but no -- we have personnel stationed at both ends of that hall, twenty-four hours a day.
+L515874 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ -- so you shut them off?
+L515873 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ Well, we were worried about dust and debris from the work being done ruining the cameras, so--
+L515872 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ But with these down, doesn't that pose a major security concern if, as you say, you have to keep an eye on everything at all times?
+L515871 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ That's correct.
+L515870 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ So, Bill, if I understand this right, you currently have your penthouse floor under construction?
+L515869 +++$+++ u2840 +++$+++ m186 +++$+++ SECURITY SUPERVISOR +++$+++ And everybody, all the time. Yeah, it's a chore.
+L515868 +++$+++ u2827 +++$+++ m186 +++$+++ ACOSTA +++$+++ It's gotta be tough keeping an eye on everything.
+L516184 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Yeah.
+L516183 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ No.
+L516182 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Mortal.
+L516181 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ How bad?
+L515909 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ No.  I'm going over there. You take the car from there, get out to the lake.
+L515908 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Yeah. Have you been able to get through to the Nomad's security?
+L515907 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Maroon uniforms?
+L515899 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Get a coroner's estimate too.  -- Miss, I've been transferred and I was disconnected. No one is answering and I need someone from security to pick up that line. It's urgent.
+L515898 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Deputy, have you made any ID's?
+L515863 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Have them mobilized. I'll phone security and have the elevators locked down and stairwells secured. We need to keep Israel sequestered in that penthouse.
+L515862 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ What about the sheriff's task force?
+L515861 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ That's happening in about ten minutes. Israel's at optimum risk of flight right now, so we can't wait.
+L515860 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Did the Justice lawyers sign off?
+L515859 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ All of 'em. His entire entourage. I think we should move.
+L515858 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ He's giving them up?
+L515786 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Tampering with a witness extraction of this magnitude makes everyone indictable at the federal level.  Trust me, we won't any problems with the hotel staff. You show 'em your ID with the letters "F.B.I." in all caps and it's instant compliance. I've seen in happen a hundred times.
+L515785 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ What about the hotel staff obstructing us. Israel's obviously paid off the management.
+L515784 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ No. And I want to be in that room a half second after Mecklen calls to say the deal's done. We've got a sheriff's task force on stand-by.
+L515783 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ So he has no idea what's about to happen?
+L515781 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Yeah, but the Untouchables took down Capone. Heller got shot and killed. The bad guys beat him. Worse, Sparazza walked.
+L515780 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Heller was buried in agency lore, anytime an operative failed or was perceived to have failed, Hoover blackballed their memory. Look at Ness.
+L515779 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ But the Bureau knew Sparazza killed Heller. Why not go after him, guns blazing' for that one?
+L515777 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Based on what we had, I thought Sparazza was a mid-level player at best and it turns out he's this mob relic, running the show out west.
+L515776 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Welcome to the new Bureau. Nobody shares information anymore, it's become synonymous with job security.
+L515775 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Unreal, this guys jacket too. Wall- to-wall major felony offenses, murder, extortion, arson, grand larceny --  -- A paternity suit... I just feel like we're playing catch-up with all this and we shouldn't be.
+L515773 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ No rest for the wicked.  Why were we never shown these files? We're sitting on Sparazza for what? Six months now and we're just seeing this?  Did you know that he's has had thirty- six major medical procedures performed on him since 1953?  Elective plastic surgery, every single one --
+L515772 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Spotter on the lake confirmed Israel. Penthouse level. There was apparently a fisticuffs with some prostitutes. He wasn't involved. He's also had his people phone a local madame for another group of girls.
+L515704 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Well... This is as good a place for it as any I guess.
+L515703 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ And a very bad gamble.
+L515702 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ I tell you, engineering this kind of play against Sparazza, going to the lengths these guys are going to... they're playing some long odds.
+L515701 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Maybe.
+L515700 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Maybe he's that good. Never been caught, no criminal record.
+L515699 +++$+++ u2828 +++$+++ m186 +++$+++ CARRUTHERS +++$+++ Only the mention made in that phone call. There's no Swedish hitman of any renown, much less one with a million dollar day rate.
+L515698 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Anything on the Swede?
+L516138 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ And that didn't seem odd to you?
+L516137 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ Yeah.
+L516136 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ And when you saw him later, he was wearing one of your security jackets --
+L516135 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ Yeah, he had the badge and everything. It said "FBI" on it.
+L516134 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ You're sure?
+L516133 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ Uh, yeah.
+L516132 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ This man wearing the jacket identified himself as an Federal agent?
+L516131 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ The other agent. He said he was here to do an inspection and later, when he got on the elevator with the other guy, Carruthers, I saw him wearing one of our security jackets...
+L516130 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Who?
+L516129 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ -- he was wearing one of our jackets.
+L516128 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ -- run both those names through the D.C. database. Call San Francisco, see if they've got anybody in the field doing collateral inquiries for --
+L516127 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ Yeah, uh -- it was Spanish-somethin' Garcia, or Diego, uh --
+L516126 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Did he give you his name?
+L516123 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ Wait a minute, what other agent?  What other agent?
+L516122 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ He uh -- he asked about -- I'm -- he wanted to know whic-- what floor security was on, then I saw him get on the elevator with the other agent.
+L516121 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ -- Agent Carruthers. Do you know where is he now?
+L516120 +++$+++ u2829 +++$+++ m186 +++$+++ CASINO EMPLOYEE +++$+++ Yeah, ye-- I -- uh, there were, earlier, there was that guy Carrut--
+L516258 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ You were here huntin' a man named Israel, weren't you? Your name is Tremor.
+L516257 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Thass' right.  I got other brother's though, so it ain't so bad.
+L516256 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Two of 'em?
+L516255 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Yeah, m'brothers... They didn't make it.
+L516254 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ But there were more of you?
+L516253 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Mmm-hmm.
+L516252 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ And this is your car, isn't it?
+L516251 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Pretty much, yep.
+L516250 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ And threw us into the lake.
+L516249 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ I did. We -- yeah, I know.
+L516248 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ You shot me and murdered my friends.
+L516247 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Yeah, shit -- hell, you're right. I'm sorry.
+L516243 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Three men were ambushed and shot, two died and had their bodies tossed into the lake, the other has severe hypothermia, possible dementia and will probably be a multiple amputee by week's end... if he even lives that long.
+L516242 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Ww... uh...
+L516241 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ You investigating those murders out at the lake?
+L515817 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ You think so?
+L515816 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ I got it made in the shade Amigo. Hey, I'll see you up here some day, don't worry.
+L515815 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Man, that's great.
+L515814 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ I'm glad I'm here. I love it. I'm gonna get laid by some fine ass angels and then go hang out with Jesus and them.
+L515813 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Really?
+L515812 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ I don't mind now anyway. You know, up here in Heaven, it's beautiful. Way better than fuckin' Hawaii or any place like that.
+L515811 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Damn... alright then.
+L515810 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ Oh hell yeah. We's just in the wrong place at the wrong time. So don't feel so bad dude.
+L515809 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ You woulda?
+L515808 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ If I needed your I.D. and your car and me and my brothers were wanted by the law, I woulda killed you to get 'em too.
+L515807 +++$+++ u2830 +++$+++ m186 +++$+++ DARWIN TREMOR +++$+++ Shoot, I appreciate that man.
+L515806 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ ...I forgive you Darwin.
+L515970 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ I sent Hugo, he should be there!
+L515969 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ I'm here, where's the car?
+L515765 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ -- Fine, fuck, I got it... Lake Tahoe, Nevada. I'll have Hugo book your flight, you can be here in a couple hours. He'll meet you at the airport.
+L515764 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ No. Sorry comes later, when you're in a partial coma with ambulatory paralysis. Sorry comes when we have to decide which of your limbs have to be amputated because severely constricted blood flow has brought about a gangrenous infection, sorry --
+L515763 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Won't work, we're just gonna have to chance it man. I'm sorry.
+L515762 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ There are certain meds, certain intravenous measures that can counteract some of the damage you've done, but I'd have to administer them myself.
+L515761 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ That's not possible. I told you.
+L515760 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ -- Forget about the tissue damage you're doing to the heart itself. Sustained cocaine abuse will segue you from a very painful ventricular fibrillation into full cardiac arrest.  Buddy, nobody knows about your condition, or your drug use. Why you lied to me, knowing that I'd find out anyway, I'll never know, but it imperative now that I see you.
+L515756 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ Buddy, I'm not an ethics professor, I'm a physician, be honest, or be dead within a day... s'your choice.
+L515755 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ I'm not doing cocaine.
+L515754 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ About cocaine... and the amount you're doing.
+L515753 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ ...About what?
+L515752 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ I've got concerns.
+L515750 +++$+++ u2831 +++$+++ m186 +++$+++ DR. GILL +++$+++ Yeah, why.
+L515749 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Are you on a land line?
+L515801 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Then what --
+L515800 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ Two security levels, the one we're going in under the guise of, hotel security, has restricted access. They're mostly there to monitor the lobby, handle disturbances on the different floors and toss out drunks.  There's a thirty-five member employee rotation going from graveyard to day shift. If we split up, we can blend in and enter unnoticed. Once we're inside the hotel, we'll regroup.
+L515799 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ I been accused of worse.  What do we got...?
+L515798 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ Your attitude sucks.
+L515797 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ -- Jack, what am I doing? I'm standing here, aren't I?  Shouldn't that be enough? That I made the trip?
+L515796 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ Then quit acting like somebody shit in your cereal bowl. Reed just gave us fifty grand.
+L515795 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Yeah, we've been through that.
+L515645 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ That's already happened hoss. It's naive to think otherwise.
+L515644 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ I know his location, we've got the drop of a maybe half a day before that location gets grape-vined and the rest of the world gets hipped.
+L515643 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Shit, if you're on a crazy jag, why stop there, why not take Fort Knox with a fucking slingshot or go into Hell after Hitler... I like your chances a lot more.
+L515642 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ So I guess you're not going.
+L515641 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ Jack, if the rumors hold and Israel is really the great white whale of snitches, then the mob is looking to put all kinds of bullets into his ass and pour some serious psychotics into the mix to do just that. So what real incentive is there to track him on something as small-time as a skip trace, when it's putting you and yours in the path of severe pain and suffering and an almost certain prelude to doom.
+L515640 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ His law firm, same one that hired me. Israel walked out after he made bail and nobody's seen him since.
+L515626 +++$+++ u2832 +++$+++ m186 +++$+++ DUPREE +++$+++ The Teamsters had a reform measure going to ballot that didn't sit too well with the local syndicate. Night of the polling, big black-tie to-do downtown and the Tremor Brothers crash the party. Literally.
+L515625 +++$+++ u2833 +++$+++ m186 +++$+++ ELMORE +++$+++ What happened?
+L515844 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ That's right! RIGHT NOW!
+L515843 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ Answer your fucking pages! I've been calling for fifteen minutes, we need you up here to clean NOW!
+L515692 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I -- uh, yeah, I guess, yeah.
+L515691 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Without peer?
+L515690 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I am. Yeah.
+L515689 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Are you a fucking colossal idiot?
+L515688 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ ...I'm sorry...
+L515687 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Only if you really, truly mean it.
+L515686 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ Do you want me to say I'm sorry?
+L515685 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ I was kinda hoping, yeah.
+L515684 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ Do you want me to say I did it?
+L515682 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ ...to what? Incinerate? 'Cuz I'm almost dead certain there's not a fucking laundry detergent or dry cleaning process known to man that can ever return that jacket to its former glory! Some shit, suffice it to say, just don't wash out.  Now, the money question... To whom does that stain belong?
+L515681 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I could have it sent out...
+L515680 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Cinnamon roll? No, good guess though. No, Hugo that looks like jizz...  And I'm no forensic expert mind you, but that looks like some fuckhead shot their load on a twelve-thousand dollar calf's skin jacket. The twist? It's My twelve thousand dollar, calf's skin jacket.  So y'got semen, human ejaculate --  -- that's been allowed to soak in for what, six, seven hours now? Work it's way into the fabric-fuck'n fibers -- and while you may never see it in a Tide commercial, I think it still safely qualifies as a "tough, deep down stain."
+L515679 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I dunno... Cinnamon roll?
+L515677 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Look at the collar on that coat...
+L515676 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ About what?
+L515675 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Look at that, we didn't have to fill up the whole blackboard after all. Now, do you know anything about that?
+L515674 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I said that we were returning his call and you were real concerned, because he sounded real concerned.
+L515673 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Then why are you still looking at me like I'm asking for the square root of something! What did you say!?
+L515672 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ Okay.
+L515671 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Jesus Hugo! How is it that you can turn a simple conversation into a fucking hedge maze!? This is zero degree of difficulty man!
+L515670 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ I know you left him a message. What did you say!
+L515669 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I left him a message.
+L515668 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ No, what did you say on the machine?
+L515667 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I said I got his machine.
+L515666 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ What'd you say?
+L515665 +++$+++ u2834 +++$+++ m186 +++$+++ HUGO +++$+++ I got his machine.
+L515664 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ D'you talk to'm?
+L516081 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ GET IN HERE GODDAMMIT!
+L516080 +++$+++ u2842 +++$+++ m186 +++$+++ SIR IVY +++$+++ FUCK YOU!
+L516071 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ That's Mecklen. The deal's closing. I can pick that phone up and I can work this out.  You'll walk with me.
+L516070 +++$+++ u2842 +++$+++ m186 +++$+++ SIR IVY +++$+++ Y'ain't never had to wash another man's blood off, dig it out y'fingernails... Y'had us for that. Y'ain't ever made a real beef on y'own, shit as light in the ass as you are, I'll bet you ain't ever made anything more than a fuck'n fist your whole life.  So if you think I'mma let your lil' punk-ass, with the dirt I've done for you, in the eleventh hour, sell me off like some fucking field nigger, hand me up to the Feds like y'last chip, then you done gone straight out-your-motherfucking MIND!
+L516026 +++$+++ u2842 +++$+++ m186 +++$+++ SIR IVY +++$+++ ...See, this is one'a them rare moments when y'ass get a chance to be completely honest... and if I'm asking you what you said to Mecklen, assume the shit is rhetorical... so assume I already know.
+L516025 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ That's probably him now...
+L515746 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Alright, bag it, I'm not shelling out that kinda bread for this shithole, this is a junior suite in Vegas. Call Mecklen right now, he should have his cell on, I need an update.  Get the Russian up here, have him clean this place, floor to ceiling and get us packed.  ...And send out for some new skeeze, the sun's up, these ones are starting to stink...
+L515745 +++$+++ u2842 +++$+++ m186 +++$+++ SIR IVY +++$+++ We're hot, and they're losing a whole floor's worth of business saying it's "under construction."
+L515744 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Fifty grand gouge. South shore hayseeds, this is why I never play Tahoe, or redneck Reno...
+L516164 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ The Deputy Director, this prick Locke, he smashed the whole thing, we're done, they won't tell me why...
+L516163 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ They what? What? No. No. Why?
+L516162 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ Buddy, they revoked the deal, they pulled it...
+L515854 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ -- this isn't a swap meet Morrey, they're getting Sparazza and the west coast syndicate, giftwrapped, now if that's not good enough --
+L515853 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ -- Buddy, it's bigger than that, they want 'em all, Ivy, Beanie --
+L515852 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ I don't have to do shit! Which includes cooperating any further with these motherfuckers until I get what I want!  Alright, fuck it, if we gotta hand 'em somebody from our end and they're being hard-ons about it -- make it Hugo, him I don't mind. He needs that regimented thing that prison provides --
+L515851 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ And I vibe that kiddo, I do indeed, but it's one'a those fait accompli things, you have to --
+L515850 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ -- and you're gonna feel altogether fucked, by me, if you don't handle this. I'm the one, does the face plant, this falls apart, not you.
+L515849 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ Baby, I've been co-habitating with these people for the past thirty odd hours and in so doing, have stared into the face of hell. These are the premier prick cocksuckers of all time and I feel beaten by them, I feel bloodied --
+L515847 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ Bullshit it is. I said, about as loud as I could say it, "no jail time for my guys."
+L515846 +++$+++ u2837 +++$+++ m186 +++$+++ MECKLEN +++$+++ I dunno what to say to you sweetheart, it is what it is.
+L515845 +++$+++ u2835 +++$+++ m186 +++$+++ ISRAEL +++$+++ They're gonna give on this in the next ten seconds or the deal's off!
+L516326 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ No... It's not.  What it lacks... is an end.
+L516325 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ I'll overlook what you've done here today in light of what's taken place. You've been fully debriefed. Now I want you to return to D.C. immediately and make no further inquiry into this matter. I mean it. It's closed.
+L516323 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ I don't see it like that at all.
+L516322 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...while Carruthers and a dozen others lie dying, you debate semantics. The Bureau's betrayed us...  The way they betrayed him...
+L516321 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ -- We needed cohesion to move forward. Not conjecture.
+L516320 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...So you knew all this and yet y--
+L516319 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ No... We're trying to save Heller.
+L516318 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ You're trying to save Sparazza?
+L516316 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ But you did, and have... And now people are dead.  Did Sparazza become more valuable than Israel... and did you make another deal?
+L516315 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ I wouldn't go that far.
+L516314 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...So you made another deal?
+L516313 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ The agents of that era are all dead and gone, history had defaulted to fable... until now. You can imagine the shock this sent through the corridors of power in D.C. Heller's op predates the second world war. That's over sixty years of intel. Do you know how valuable that could be? The man's a treasure trove.
+L516310 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ Primo Sparazza was Heller's alias. He went deep cover in 1940 and stayed under for over ten years, amassing materials against the mafia and other criminal syndicates. He may have ripped the organization wide open, pre-Appalachia, but his superiors were convinced that he had gone rogue, swapped allegiances...So they gave the order to terminate his cover.
+L516309 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...holy shit... that's Heller...  Isn't it?
+L516308 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ The same year that Sparazza murdered Agent Freeman Heller...
+L516307 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...Yeah, fifty-three.
+L516306 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ It wasn't elective. It was undertaken to save his life. And it wasn't cosmetic, it was reconstructive... Look at the date of the first procedure.
+L516305 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ You realize that Sparraza has had thirty-six major medical procedures performed on him since 1953? Elective plastic surgery, every single one --
+L516304 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...Almost.  What do you mean "who Sparazza actually was..."
+L516303 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ ...Are you insane?
+L516301 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ Information was arriving all day yesterday. When we finally figured out who Sparazza actually was, we --
+L516300 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...When did you know all this?
+L516299 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ Yes. The actual contract went to Lazlo Soot, the man that plunged to his death from the Penthouse yesterday. He was to neutralize Israel's entourage and prep for the removal of his heart. Ingstrom was to handle the surgery itself on-site with the assistance of Dr. Gregory Gill, Israel's personal physician, who was also on the Sparazza payroll.
+L516298 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ So all of our intel was bogus to begin with.
+L516297 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ Sparazza was in failing health and looking for a donor. The son who had betrayed and burned him so thoroughly seemed a obvious choice.
+L516293 +++$+++ u2836 +++$+++ m186 +++$+++ LOCKE +++$+++ ...He does now...
+L516292 +++$+++ u2838 +++$+++ m186 +++$+++ MESSNER +++$+++ ...Does he know?

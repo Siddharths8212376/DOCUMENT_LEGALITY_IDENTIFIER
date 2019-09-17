@@ -1,0 +1,200 @@
+L250751 +++$+++ u1169 +++$+++ m77 +++$+++ BEN +++$+++ I've got to go.
+L250750 +++$+++ u1176 +++$+++ m77 +++$+++ MR. ROBINSON +++$+++ What?
+L250749 +++$+++ u1169 +++$+++ m77 +++$+++ BEN +++$+++ Oh no.
+L250748 +++$+++ u1176 +++$+++ m77 +++$+++ MR. ROBINSON +++$+++ Here. It looks like you need a refill.
+L250747 +++$+++ u1169 +++$+++ m77 +++$+++ BEN +++$+++ Yes, sir.
+L250746 +++$+++ u1176 +++$+++ m77 +++$+++ MR. ROBINSON +++$+++ Standing guard over the old castle, are you?
+L250745 +++$+++ u1169 +++$+++ m77 +++$+++ BEN +++$+++ She's upstairs. She wanted me to wait down here till you got home.
+L250744 +++$+++ u1176 +++$+++ m77 +++$+++ MR. ROBINSON +++$+++ Swell. I appreciate it.
+L250743 +++$+++ u1169 +++$+++ m77 +++$+++ BEN +++$+++ I drove -- I drove Mrs. Robinson home. She wanted me to drive her home so I -- I drove her home.
+L250924 +++$+++ u1178 +++$+++ m77 +++$+++ MRS. ROBINSON +++$+++ Yes, I can.
+L250923 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Can you see me now?
+L250922 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Can you look through the glass.
+L250921 +++$+++ u1178 +++$+++ m77 +++$+++ MRS. ROBINSON +++$+++ Benjamin -- where are you?
+L250920 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Benjamin Braddock.
+L250919 +++$+++ u1178 +++$+++ m77 +++$+++ MRS. ROBINSON +++$+++ Yes?
+L250918 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ It's Benjamin.
+L250917 +++$+++ u1178 +++$+++ m77 +++$+++ MRS. ROBINSON +++$+++ Yes?
+L250916 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Mrs. Robinson?
+L250915 +++$+++ u1178 +++$+++ m77 +++$+++ MRS. ROBINSON +++$+++ Hello.
+L250814 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ I'll give you ten seconds.  He is going to give us a practical demonstration of what I feel safe in saying is a pretty exciting birthday present -- and it better work or I'm out over two hundred bucks -- so let's hear it for --
+L250813 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Dad -- can you listen --
+L250812 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ -- before he does --  You're disappointing them, Ben. You're disappointing them.
+L250811 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ This boy -- I'm sorry -- this young man -- is soon to continue his education as a Frank Halpingham Award Scholar -- but before he does --
+L250810 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ I'd like to discuss this.
+L250809 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ I can't hold them much longer, Ben. You better get out here.
+L250806 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ Twenty-one-years-old, ladies and gentlemen; four of those years spent accomplishing some rather extraordinary things at one of our nation's leading seats of learning --
+L250805 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Dad -- could we just talk about this for a second?
+L250797 +++$+++ u1170 +++$+++ m77 +++$+++ BEN'S VOICE +++$+++ Could I speak to you for a second, Dad?
+L250796 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ Are you ready in there, feature attraction?
+L251464 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ That what he says. Right?
+L251463 +++$+++ u1177 +++$+++ m77 +++$+++ MRS. BRADDOCK +++$+++ I don't believe it.
+L251462 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ Ben says he and Elaine are getting married.
+L251461 +++$+++ u1177 +++$+++ m77 +++$+++ MRS. BRADDOCK +++$+++ What's happening?
+L250534 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ It's a wonderful thing to have so many devoted friends.
+L250533 +++$+++ u1177 +++$+++ m77 +++$+++ MRS. BRADDOCK +++$+++ They came all the way from Tarzana.
+L250532 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ They are?  Come on.
+L250531 +++$+++ u1177 +++$+++ m77 +++$+++ MRS. BRADDOCK +++$+++ The Carlsons' are here.
+L250530 +++$+++ u1173 +++$+++ m77 +++$+++ MR. BRADDOCK +++$+++ No! No -- we're just on our way downstairs!
+L250529 +++$+++ u1177 +++$+++ m77 +++$+++ MRS. BRADDOCK +++$+++ Is anything wrong?
+L254011 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Every glass high to life -- the splendid, dangerous, mighty, brief -- brief life -- and the courage to live it.  Baron, you know -- I've only lived since last night -- but that little while seems longer than all the time before -- all the -- 
+L254010 +++$+++ u1183 +++$+++ m78 +++$+++ A MAN +++$+++ It's a short life and a gay one...
+L254009 +++$+++ u1183 +++$+++ m78 +++$+++ A MAN +++$+++ Rejoice in life while yet the small lamp burns.
+L254008 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Life, gentlemen, is wonderful, but very dangerous. You must have courage for it, then it's wonderful. You gentlemen don't know that because you are all healthy and happy, but I -- believe me -- a man must know death and not until then does a man know anything about life.
+L254007 +++$+++ u1183 +++$+++ m78 +++$+++ A MAN +++$+++ Splendid!
+L254006 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I oughtn't to presume, but I --  I'm so grateful to you -- it's been so marvelous. The first time in my life I have gambled -- I've danced! Oh, you can laugh, gentlemen, but it's the first time in my life I've ever tasted life!
+L253998 +++$+++ u1183 +++$+++ m78 +++$+++ A MAN +++$+++ Your bank, Mr. Kringelein.
+L253997 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ I'm having luck for the first time in my life.
+L253978 +++$+++ u1191 +++$+++ m78 +++$+++ KRINGELEIN +++$+++ Oh yes -- that's right -- look! I win, don't I -- 
+L253977 +++$+++ u1183 +++$+++ m78 +++$+++ A MAN +++$+++ Turn 'em up.
+L253934 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ If you did that, you'd get nothing except the police after you. If you wait -- I'll give you your six thousand back --
+L253933 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ You might find a bullet through that head...
+L253932 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I have an idea working in my head... 
+L253931 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ How?
+L253930 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I'll pay you back.
+L253929 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ What about the money?
+L253928 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I'm not going to get those pearls and neither are you.
+L253927 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ You can't.
+L253926 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I've quit.
+L253447 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ With the pearls --
+L253446 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ With the pearls?
+L253445 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Get out and leave it to me... be ready to leave on the night train for Amsterdam...
+L253444 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ No --
+L253443 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I don't like your tone.
+L253442 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ You're no good for this business. It's just a joke to you...
+L253441 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Poor girl -- chloroform would give her a rotten headache... I know -- I had it in the war. Besides, she's very pretty -- not young but --
+L253440 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Why?
+L253439 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ No -- no -- no -- no...
+L253438 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Chloroform on a handkerchief from behind -- while you...
+L253437 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ How?
+L253436 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ I could take care of her.
+L253435 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ The floor clerk is out there in the corridor -- she sees everything ---
+L253434 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Why?
+L253433 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ No --
+L253432 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Have you got that skeleton key?
+L253431 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ No.
+L253430 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Need any help?
+L253429 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I told you I'll get the pearls tonight.
+L253428 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ You've been waiting your chance. You're too much of a gentleman -- that's the trouble with you.
+L253427 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I've been careful, I've been waiting my chance.
+L253426 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Now listen to me. The others are getting suspicious of you. I was on the telephone to Amsterdam today, they think you're scared.
+L253425 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ The pearls are in her room.
+L253424 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ And what are you going to do?
+L253423 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yes.
+L253422 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ She's gone to the theatre -- don't you know?
+L253421 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Well?
+L253420 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ You are late -- the dancer's gone to the theatre.
+L253218 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Yes, sir.
+L253217 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Not now.
+L253216 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ I want to speak --
+L253215 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I've told you a hundred times not to speak to me with a cigarette in your mouth.
+L253214 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Time's getting short.
+L253213 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ No -- I told you not to come in this lobby.
+L253212 +++$+++ u1185 +++$+++ m78 +++$+++ CHAUFFEUR +++$+++ Have you a minute now?
+L254058 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ And Baron, thanks so much for everything.
+L254057 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Well -- such is life, Flaemmchen.
+L254056 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Yes -- oh!
+L254055 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh!
+L254054 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ For tonight. 
+L254053 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ You live here?
+L254052 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Looking for my room -- one sixty- six.
+L254051 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Flaemmchen, what are you doing here in the middle of the night.
+L253965 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Yes --
+L253964 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Going?
+L253838 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Anything for you.
+L253837 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I thought that, too -- but I found that it does. Come along, dance with Kringelein.
+L253836 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- there's no real thing -- it doesn't exist.
+L253835 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I fell in love last night -- the real thing.
+L253834 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're not a bit like you were yesterday.
+L253833 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I feel sorry for him.
+L253832 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Why?
+L253831 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Then dance the next number with Kringelein.
+L253830 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Yes -- I'd love to.
+L253829 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Would you like to make a man happy?
+L253828 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I'll do anything for you.
+L253827 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Will you do me a big favor?
+L253826 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ That was lovely.
+L253816 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yesterday -- yes -- that was yesterday.
+L253815 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You were very different yesterday.
+L253814 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Money.
+L253813 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Chasing what?
+L253812 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Chasing around.
+L253805 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Sorry.
+L253804 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ I'd given you up.
+L253271 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ All right. We'll dance.
+L253270 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ We'll dance.
+L253269 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Really?
+L253268 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Of course.
+L253267 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yes? -- Tomorrow?
+L253266 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're very funny --
+L253265 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yellow Room where they dance -- 
+L253264 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Where downstairs?
+L253263 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Shall we say five o'clock -- downstairs?
+L253262 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Tomorrow? What time tomorrow?
+L253261 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Unfortunately no -- to bad -- tomorrow though.
+L253260 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Free --
+L253259 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ What?
+L253258 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Aren't you?
+L253257 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Poor child --  I wish I were free tonight -- we could --
+L253256 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Did you ever see a stenographer with a decent frock on? -- One that she'd bought herself?
+L253255 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Too bad.
+L253254 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Very little.
+L253253 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yes -- yes indeed -- but you are a...  ...a stenographer. Don't little stenographers earn little pennies?
+L253252 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Money -- Ever heard of it?
+L253251 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Lord no -- charming -- but why one meal a day?
+L253250 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ No -- why? -- should I?
+L253249 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Reducing?
+L253248 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Tea would spoil my dinner.  One meal a day, I'd hate to spoil it.
+L253247 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh... poor child. If you were free, I'd ask you to come and have some tea -- but --
+L253246 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Dictation.  You know...
+L253245 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh!
+L253244 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Oh -- work!!
+L253243 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ You?
+L253242 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ That.
+L253241 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh, my large and noisy neighbor -- really? That? 
+L253240 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Have you seen it?
+L253239 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Whoever is keeping you waiting.
+L253238 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Who?
+L253237 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ He must be very nice.
+L253236 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yes, I am rather.
+L253235 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ You're a fool!
+L253234 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Never?
+L253233 +++$+++ u1188 +++$+++ m78 +++$+++ FLAEMMCHEN +++$+++ Not with strangers.
+L253232 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Like dancing?
+L253953 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Bless you --
+L253952 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Till then.
+L253951 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Yes -- I will be on the train.
+L253950 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ On the train?
+L253949 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Don't.
+L253948 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ I'm worried about you.
+L253947 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ They've brought me such good luck -- you --
+L253946 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Why?
+L253945 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Why do you think --
+L253944 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ No! I can't explain now. Oh, look -- the pearls. You wear them now...
+L253943 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ No?
+L253942 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I can't.
+L253941 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Are you coming to the theatre? Oh -- I shall dance tonight -- How I shall dance -- I want to feel that you are in the theatre.
+L253940 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Bless you...
+L253690 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Don't worry. I'll be on the train.  He leaves.
+L253689 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Don't do anything foolish -- I'm alarmed about you.
+L253688 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I'll go. -- I love you.  I'll be on that train. I'll get the money.
+L253687 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ You must go now. Be careful on your way to your room.
+L253685 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Never mind -- I'll get it. I have a whole day. I'll be on that train.
+L253684 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Six twenty-seven in the morning... But the money?
+L253683 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh no -- that would spoil everything. I'll -- I will manage somehow -- I'll manage myself. I will go with you. When does the train leave?
+L253682 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ I'll give you what you need -- I have money.
+L253681 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I have no money now -- I must get some first -- I must get some.
+L253680 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Why later?
+L253679 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ Oh -- yes but -- later.
+L253678 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Can't -- can't you -- Couldn't you come too -- I think it would be better -- for us -- for us both.
+L253677 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ For Vienna?
+L253676 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Very early in the morning.
+L253675 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ When are you leaving Berlin?
+L253674 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Suzette will be back here any minute.
+L253673 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I --
+L253672 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Shall I see you again?
+L253671 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I'll go -- good-bye.
+L253670 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Suzette will be back here in a minute.
+L253669 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ I want to be good to you -- madly good.
+L253668 +++$+++ u1190 +++$+++ m78 +++$+++ GRUSINSKAYA +++$+++ Yes -- If I didn't believe that, I'd die after last night.
+L253667 +++$+++ u1184 +++$+++ m78 +++$+++ BARON +++$+++ You do believe that I really love you?

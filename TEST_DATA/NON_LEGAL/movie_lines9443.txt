@@ -1,0 +1,200 @@
+L587824 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ That's Lily.  Your mother, rest her soul.
+L587821 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Oh, I had Irene and Old Tim but they really couldn't help much. Broke their hearts when we closed up.  Broke mine, too.  But now that you're back, well, things will be different around here, that's for sure.  C'mon, I'll show you where we live.
+L587820 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Didn't you have any help?
+L587819 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Well, after the war, with so many of the town's boys killed, people around here didn't much feel like going to the movies, I guess.  Some of 'em moved away -- Los Angeles, Sacramento, San Francisco.  Wasn't much to keep 'em here, I expect. And now with this "television" thing -- people just aren't going out as much as they used to.
+L587818 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Why?
+L587817 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Hmmmm... after you left, it was difficult, and then Lily -- that's your mother -- she took ill and died... we haven't shown a picture since forty-eight.
+L587816 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Exactly how long has the Bijou been closed?
+L587815 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Ah.
+L587814 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ We've been closed for a while.
+L587813 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Can't wait.
+L587812 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Wait'll you see the inside!
+L587805 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Nine and-a-half years...
+L587804 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Nine and-a-half years ago.
+L587803 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ You joined up one month to the day after Pearl Harbor.  January seventh... nineteen forty-two.
+L587802 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ When did I leave?
+L587801 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ You never came back from the war. We were told you were missing and presumed dead.
+L587798 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Ah.  Luke.  Luke.  I like it.
+L587797 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Albert Lucas Trumbo.  But you've been "Luke" since you were a baby.
+L587796 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ And... what's my name again?
+L587795 +++$+++ u3150 +++$+++ m207 +++$+++ HARRY +++$+++ Harry, son.  Harry.
+L587794 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Excuse me... what's your, um, your name?
+L587662 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Pete...
+L587661 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ 'Sides, car's right outside.  I'll be seein' ya, Jer.
+L587660 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I'll save you the trouble.  I'm a cab.  There.  Did it myself.
+L587659 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Then I'll call you a cab.
+L587658 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Nope.  Can't.  We're through.
+L587657 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ I wanna close up soon.  C'mon, let's call her.
+L587656 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Sandra Sinclair.  Wanna know her real name?  Bella Iskowitz.  No one's who they really are, Jer. Everyone's someone else.  Even you. Even me.  Especially me.  I'm Peter Appleton, the communist who's not really a communist.
+L587655 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Gimmee her number, I'll have her pick you up.
+L587654 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Sandra Sinclair.
+L587653 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Pete... go home.  Come on, I'll call that girlfriend of yours, what's her name... Sandy?
+L587652 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ This is not a bender yet.  This is the start of a bender.  But I can see how you were confused, they look a lot alike.
+L587651 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Sure, I suppose.  That why you're on a bender?
+L587650 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ You know I'm not a communist, don't you, Jer?
+L587649 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ You should watch what you say.  You don't know who's listening.
+L587648 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Too bad.  He says I'm a communist.
+L587647 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Pete, if J. Edgar Hoover walked in here wearing a dress, I wouldn't know him.
+L587646 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Zackly.
+L587645 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ The G-man?
+L587644 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ You tight with J. Edgar Hoover?
+L587643 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ What.
+L587642 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Thanks, Jerry.  Tell me something.
+L587641 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Bought the bottle, didn't I?  To the United States of America. Long my she wave.
+L587640 +++$+++ u3151 +++$+++ m207 +++$+++ JERRY +++$+++ Pete.  You think maybe you've had enough?
+L587787 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ We live in a theater?
+L587786 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ That's where you live.
+L587754 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Wish I could say the same thing.
+L587753 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ ... sorry 'bout that, but you do look familiar to me.
+L587752 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Thanks.  Well, Sheriff's on his way over, and maybe we can get to the bottom of who you are...
+L587751 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ She's very pretty.
+L587750 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ That's me and my daughter Adele. My pride and joy.  Charms the fish right out of the lake, she does.
+L587748 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Well, at least you remember "Moby Dick."
+L587747 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Call me... Ishmael?
+L587746 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ What is it?
+L587745 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ It's okay, son.  We just need to call you something.  That's all.
+L587744 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I... no, I... I just can't...
+L587743 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ And you don't know your name or who you are, that right?
+L587742 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ It's possible.  I just don't remember.
+L587741 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Do you remember if you were driving a car?  Maybe you went over the bridge.  No guard rail there, it's easy to do.  It's happened before.
+L587740 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Thanks.
+L587739 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Here, one of mine.
+L587738 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Lucky you got out, that water's got quite a pull, and it empties straight into the ocean.
+L587737 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I guess I did.
+L587736 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Well, you've been wet to the skin. You must've fallen in.
+L587735 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I don't remember.  I guess so. Smells like it.  Tastes like it.
+L587734 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Been drinkin' a bit, have we?
+L587733 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ No, sir.
+L587732 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Any idea how you got here, son?
+L588235 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Even if we could, and the move didn't kill him, there'd be very little we could do there that we can't do here.  I'm sorry.
+L588234 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Can we get him to the hospital?
+L588233 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ It's a pretty massive heart attack. His lungs have filled with fluid, and, well... it seems as though his body is just... shutting down.
+L588072 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ No, I'm not much of a dancer.
+L588071 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Aren't you coming?
+L588070 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ You kids off to the dance?
+L588063 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Oh, you mean the suit.  Harry kept all my old clothes.  Fits okay, but it's a little big.
+L588062 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Uh, no... just seeing you standing there, it reminded me... there's a word for it...
+L588061 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ What's wrong?
+L588060 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Evening, Doctor Lardner.
+L588059 +++$+++ u3152 +++$+++ m207 +++$+++ LARDNER +++$+++ Evening, Luke.
+L588030 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Huh?  Oh, sure.  Just pull the door shut when you leave.
+L588029 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Take a hike.  Am-scray.
+L588028 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Huh?
+L588027 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Here's three months rent, and a ten spot for no more questions and to keep an eye on his place.  Now, I need a moment alone.
+L588026 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Thirty a month.
+L588025 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ What's his rent?
+L588024 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Well, his rent's past due and he said to call you in case of an emergency.  He lose his job or somethin'?
+L588023 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Wouldn't blame him if he was.
+L588022 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ You think he's drunk somewhere?
+L588021 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Hey, it's the best way to tell.
+L588020 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Jesus.
+L588019 +++$+++ u3161 +++$+++ m207 +++$+++ SUPER +++$+++ Don't smell nothin'.  He must not be dead in here.
+L588018 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ You smell gas?
+L588498 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Climb down off your cross.  They already knew about her.  She was subpoenaed six months ago! Who the hell do you think named you?
+L588497 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Thank me publicly?  For what?  For ruining this woman's life?
+L588496 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ So, our lawyers had a talk with the Committee's lawyers.  That Elvin Clyde fella won't be too happy about it, but we cut a deal. They cleared you -- and they're gonna thank you publicly for your testimony purging yourself.
+L588495 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Oh god, oh, god, no, I...
+L588494 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ You should keep track of your old school chums.  Turns out she eventually joined the communist party.  On top of which, she's Lucy Angstrom Hirschfeld now, and she happens to be a writer for "Studio One" on CBS.
+L588493 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Leo, she was... she was a girl I knew in college...
+L588492 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Well, that's not what they think.
+L588491 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Her name was right there in front of them.  They gave it to me, I didn't give it to them.
+L588490 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ What, all of a sudden, "Lucille Angstrom" isn't a name?
+L588489 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Leo, I didn't give them the names. I wouldn't do that.
+L588488 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Kid, you gave them what they wanted.  This committee, it feeds on names.  The more names, the better.  But for some high-profile witnesses, like yourself, any name will do.
+L588487 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ What do you mean?
+L588486 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Peter, I'm an agent.  I buy lunches and get deals made for guys like you.  That's what I do.  You're a writer.  You write pictures. That's what you do.  And trust me, you'll be back doing it again tomorrow morning.
+L588485 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ What, you're going to go back to that hick town and run the projector and marry the doctor's daughter?
+L588484 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Besides, I don't even know if I want to write anymore.
+L588483 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Not at all.
+L588482 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Leo, you were in there, you saw what I did.  You think they're gonna let me write pictures?  Hell, they're probably gonna throw my ass in jail.
+L588481 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Why not?
+L588480 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Not any more.
+L588479 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Oh, I see.  But you're not Luke. You're Peter Appleton, the picture writer.
+L588478 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Luke didn't smoke.
+L588477 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ When'd you quit smoking?
+L588476 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ No thanks.
+L588475 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Cigarette?
+L588474 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ No, of course not, why should you be sorry?  You're the new Peter Appleton.  You exercised your rights as a solid citizen, first amendment, freedom of speech, all that.  Very noble.
+L588473 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I'm not sorry for what I said.
+L588472 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ That was quite a show you gave them today.  We shoulda sold tickets.
+L588328 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Peter, don't let that stop you all of a sudden.
+L588327 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ It's wrong, Leo.
+L588326 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Lest we forget, Peter, your own military career was somewhat less illustrious than Luke's.
+L588325 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ That's not the country Luke fought for.
+L588324 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Next time, it might be the FBI. The time after that, it might be the President.  But it'll always be someone.  Count on it.
+L588320 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ So it doesn't make any difference that I'm not one now, and have never been one.
+L588319 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Exactly.
+L588318 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ And I won't be a communist anymore.
+L588317 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ However... you're gonna be subpoenaed to testify before the Un-American Activities Committee when they open hearings in Los Angeles.  Now, if you play ball and tell them what they want to hear, they'll clear you.
+L588316 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Well, that's a relief.  I understand they usually don't let that stop them.
+L588315 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ The FBI can't arrest you, because you haven't done anything wrong.
+L587620 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Yes.  Leo, goddammit... this isn't fair!
+L587619 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Don't say that.  There is no such thing as a blacklist.  Now, are you gonna play ball?
+L587618 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ So, it is a blacklist.
+L587617 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ That's the one, "Ashes To Ashes." I think it's great.  But it'll never get made with this communist business hanging over your head. You can't work until you're cleared -- and believe me, starting right now, I'm gonna do everything I can to make that happen.
+L587616 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ "Ashes To Ashes?"
+L587615 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Peter, I believe in you.  More to the point, I read your new script... um...
+L587614 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Yeah, well, that's enough.
+L587613 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ They don't want you to testify because you're not a big enough fish for them.  They just don't want you writing pictures for now. That's all.
+L587611 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Why not?
+L587610 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ You can't testify.
+L587609 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ At least I was on our side!  Look, they want me to testify?  I'll testify.  I'll tell 'em anything they want to hear!  Jesus, Leo, this is my career!
+L587608 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ You broke your arm.  You were coming out of a bar.  You were drunk.
+L587607 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Exactly.
+L587606 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ I know.  A Purple Heart.
+L587605 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I was decorated.
+L587604 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Fought?  Come on, Pete, you ran the PX at Fort Dix.
+L587603 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Leo, you're my agent.  Tell "them" to take a flyin' piss.  I didn't do anything wrong.  I fought in the war, for crissakes!
+L587602 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ They know you were at that meeting, Peter.  They've been told, and they know.
+L587601 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ What?  That I'm accused of being a communist when I don't happen to be one?
+L587600 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Kid, that cuts no ice with them.
+L587599 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I don't know who fingered me, but I'm not a communist!
+L587598 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ You should watch what you say.
+L587597 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Leo, I was trying to impress a skirt.  You know me, I'm non- political.  Republican, Democrat, Communist, there's not a dime's worth of difference between 'em anyway.
+L587596 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ So, you're saying that it's true. You went to a meeting of a known communist organization.
+L587595 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ No.  Yeah... I... I don't know. Maybe I did.  Leo, this was before Pearl Harbor.  I was in college. It was a bunch of kids, and I was just one of 'em.  I didn't believe in what they were saying.  Hell, I didn't even know what they were saying!
+L587594 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Congress, the FBI, Red Channels, it don't matter who the hell "they" is.  "They" know who "they" are, that's all that matters.  Now, did you go to any meetings?
+L587593 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Who the hell is this "they?"
+L587592 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Are you saying it's a mistake, that you didn't go to any meetings? They say you did.
+L587591 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I... I don't believe this.
+L587590 +++$+++ u3153 +++$+++ m207 +++$+++ LEO +++$+++ Peter, their hands are tied.  You see that, don't you?
+L588225 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ You've got to talk to them before they tear the theater apart!
+L588224 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ What?
+L588223 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ Luke!  Luke, something's wrong! The film broke, and I can't raise Harry on the house phone!
+L588201 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ Some of it might come back to you.
+L588200 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ No, I...
+L588199 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ Sit.  Play with me.
+L588198 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ Oh dear, yes.  You were an excellent student, before all that clarinet nonsense.  You loved Chopin.  You used to call it "heaven music."  "Teach me some heaven music," you used to say.
+L588197 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ I can play the piano?
+L588196 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ I taught you that.
+L588195 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ That was beautiful.
+L588137 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ Nineteen-oh-nine.
+L588136 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ When was that?
+L588135 +++$+++ u3155 +++$+++ m207 +++$+++ MRS. TERWILLIGER +++$+++ I haven't danced with another man since Mr. Terwilliger passed.
+L588052 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Oh.
+L588051 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ That's my r-r-rent.
+L588016 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Yeah... me too.
+L588015 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ T-t-thank you.  Thank you.  I... I always... I always wanted to wear my uniform from the Great War, but your daddy, he always said no, that's not an usher's u-u-uniform, that's an army uniform and the Bijou, she's not the army.  They give me a medal, but I lost it in the h-h-hospital.  I forget things sometimes.  Since the w-w-war.
+L588012 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Of course.
+L588011 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ We thought you was dead, you know.  It's okay that I live here?
+L588010 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Cat.  That's simple.  I like it.  Hi, Cat.
+L588009 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Cat.
+L588008 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ So I guess this fellow belongs to you.  What's his name?
+L588006 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Yeah.  I hope you don't mind.  I didn't know anyone lived here... well, besides Harry.  And me.
+L588005 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Found me.
+L587843 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Well, then, why do they call you "Old Tim?"
+L587842 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ No.
+L587841 +++$+++ u3154 +++$+++ m207 +++$+++ LUKE +++$+++ Is there a young Tim?
+L588353 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ I know more than you give me c-c- credit, that's for sure.  Don't you see, it don't m-m-matter who you are?  All that matters is what you g-g-gave us.  And you can't take that away now.  You're wrong, Peter Appleton.  You do belong here.
+L588352 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I thought you...
+L588351 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Did you think I didn't kn-kn-know that?
+L588350 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ My name isn't Luke.  It's Peter. Peter Appleton.
+L588349 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Oh...
+L588348 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ I'm... I'm not Luke.  Luke is dead. He died in the war.  He's not coming back, and I'm not him.  I don't even belong here.  This whole thing started out as an accident, and that's all it is.  An accident.
+L588347 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Oh.
+L588346 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ It's about me.
+L588345 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ Oh.
+L588344 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ Tim, I have to tell you something.
+L588343 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ They will.  They w-w-will.
+L588342 +++$+++ u3157 +++$+++ m207 +++$+++ PETE +++$+++ The customers?  I don't know...
+L588341 +++$+++ u3156 +++$+++ m207 +++$+++ OLD TIM +++$+++ They'll come back, you know. They'll all c-c-come back.

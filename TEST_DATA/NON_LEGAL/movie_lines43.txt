@@ -1,0 +1,200 @@
+L35755 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I think one of 'em's glass.
+L35675 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Must be a garrison in town. We're in occupied territory, boys.
+L35674 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ What the --
+L35609 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Soon as I hit one, the other'll know and beat us up.
+L35608 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Both would be nice.
+L35607 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Cannon or Gatling?
+L36393 +++$+++ u325 +++$+++ m19 +++$+++ TELLER +++$+++ All right, all right.  Jesse James never yelled at folk...
+L36392 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ OPEN THE DAMN SAFE!
+L36389 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ This here is the Younger Gang!
+L36388 +++$+++ u325 +++$+++ m19 +++$+++ TELLER +++$+++ Where is Jesse James?
+L36387 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ What?
+L36386 +++$+++ u325 +++$+++ m19 +++$+++ TELLER +++$+++ Of course!  Uh, sir?
+L36385 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ The safe. Now.
+L36147 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Me get heap firewater --
+L36146 +++$+++ u318 +++$+++ m19 +++$+++ MARSHALL +++$+++ Go ahead to the saloon. But don't get too drunk!
+L36144 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Ho-yah!
+L36143 +++$+++ u318 +++$+++ m19 +++$+++ MARSHALL +++$+++ East? East above the river heading for the Eagle Pass?
+L36142 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Ho-yah. Him say tell Big Lawman in Carville that badman Jesse James riding toward Rising Sun, above Great River, near Eagle Rock.
+L36141 +++$+++ u318 +++$+++ m19 +++$+++ MARSHALL +++$+++ Of St. Louis?
+L36140 +++$+++ u318 +++$+++ m19 +++$+++ MARSHALL +++$+++ The District Marshall
+L36139 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Great Chief of St. Louis send me.
+L36138 +++$+++ u318 +++$+++ m19 +++$+++ MARSHALL +++$+++ Yeah, Injun. What do you want?
+L36137 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ You 'um big lawman?
+L36015 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ I'd appreciate that.
+L36014 +++$+++ u319 +++$+++ m19 +++$+++ OLD MAN +++$+++ Fine. I'll just wait here.
+L36013 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ It's a secret.
+L36012 +++$+++ u319 +++$+++ m19 +++$+++ OLD MAN +++$+++ Oh. Why didn't you just say so?
+L36011 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ On account of we're robbing it.
+L36010 +++$+++ u319 +++$+++ m19 +++$+++ OLD MAN +++$+++ Then why can't I go in there?
+L36009 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ You're right, sir.
+L36008 +++$+++ u319 +++$+++ m19 +++$+++ OLD MAN +++$+++ I know it ain't no durned bank holiday!
+L36028 +++$+++ u324 +++$+++ m19 +++$+++ SHERRIFF +++$+++ Shit.
+L36027 +++$+++ u310 +++$+++ m19 +++$+++ DEPUTY +++$+++ I had you covered.  From back there.
+L36026 +++$+++ u324 +++$+++ m19 +++$+++ SHERRIFF +++$+++ Where the hell were you?
+L36020 +++$+++ u324 +++$+++ m19 +++$+++ SHERRIFF +++$+++ When have you ever known Old Man Tucker not to be yelling at everybody?
+L36019 +++$+++ u310 +++$+++ m19 +++$+++ DEPUTY +++$+++ So?
+L36018 +++$+++ u324 +++$+++ m19 +++$+++ SHERRIFF +++$+++ Old Man Tucker is just standing quiet outside the bank.
+L36017 +++$+++ u310 +++$+++ m19 +++$+++ DEPUTY +++$+++ What is it?
+L36016 +++$+++ u324 +++$+++ m19 +++$+++ SHERRIFF +++$+++ What the --
+L35915 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ It's fine by me, Jesse.
+L35914 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Yesss, but I was thinking, I could come by, and then take Zee out. Some place near. With other folk. Near. Here.  But out.
+L35913 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ You know you're welcome any time!
+L35910 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ Go on. You're pretty much all healed up.
+L35909 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What do you say, sir?
+L35841 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Go home, Doc.  They ain't gonna hang no more Liberty boys.
+L35840 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ Boys...
+L35710 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Died a hero.
+L35709 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ Web died fighting?
+L35706 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Pff. He jumped his horse clear over our heads, killed a dozen Union soldiers before they knew what hit them.
+L35705 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ My little Web did that?
+L35704 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ -- rode right into them, screaming like a banshee.
+L36104 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ I'm upset too, Zee, but Jesse and Cole know what they're doing. I'm sure they won't press their luck.
+L36103 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ He thinks this is some kind of game!
+L35877 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ I think he's already feeling better.
+L35876 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ Well, I hope the boy pulls through. We should know in the morning.
+L35875 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ I fooled them into thinking I was alone.
+L35874 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ They're gone. What are you --
+L35863 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ The bullet came out clean, but he lost a whole lot of blood. Praying wouldn't hurt.
+L35862 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ He's going to be fine, right Daddy?
+L35717 +++$+++ u311 +++$+++ m19 +++$+++ DOC MIMMS +++$+++ Zerelda, it's no coincidence. The railroad men come through, offering to buy up land. Nobody sells. Then they start hanging men who own farms for treason?
+L35716 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ Daddy, don't start with this again.
+L36529 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Hell, they hardly even noticed us.
+L36528 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ See you soon. Oh, and I appreciate the distraction back there.
+L36527 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I'll meet you down there in a few weeks.
+L36349 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I'm sure it seemed like a good idea at the time.
+L36348 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ A war against the railroad. What the hell were we thinking?
+L36347 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Yeah.
+L36346 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You're a piss-poor liar for the smartest man I know.
+L36345 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Railroad burned him out too. You couldn't have stopped him.
+L36344 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ He was a boy riding with the most famous outlaws in the West. How was he supposed to say no to that?
+L36343 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Jim was old enough...
+L36342 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Shoulda learned with Web. Made it look fun, made it look like an adventure. Got Web killed. Now Jim.
+L36326 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Got any ideas, little brother?
+L36325 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ They're all pinned down. Can't even get to the door.
+L36289 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ No, I --
+L36288 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You taking sides against me, now, Frank?
+L36212 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Just do me a favor. Think about what this is costing everybody. Not just the railroad.
+L36211 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Oh yeah.
+L36210 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ We're drunk.
+L36206 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ A better life than the one you could have had with Zee?
+L36205 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What do you want me to say, Frank? I was killing men when I was fifteen. I like getting shot at. I like riding out of town with a posse at my back. This is a helluva better life than farming.
+L36204 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Maybe it started out that way. But now...
+L36203 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ We're doing this for Ma.
+L36202 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I can't quit and leave you alone. I can't quit until you quit. Ma would've wanted it that way.
+L36201 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ That's a lie. You could've bought a dozen farms with the money we've stolen.
+L36200 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ If I could go back to farming --
+L36199 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You've killed your fair share of men.
+L36198 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ It got to you, didn't it. All the killing in the war. You need it now.
+L36197 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ And we're good at it.
+L36196 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Jesse, we're outlaws.
+L36195 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ This has been a good year.
+L36188 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Bob here'll kill a man for sneezing, and he's the best shot in the gang.
+L36187 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Pardon the delay, folks, but we had to get Mad Bob Younger under control!
+L36184 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ The posters?
+L36183 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Bob's upset.
+L36182 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Gents, we are in the middle of something here.
+L36112 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ It's the scientific method. It's all the rage.
+L36111 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I don't think it's counterfeit. Do you mind if I take a look at all your real bills to compare?
+L36059 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ And I do so want to shoot some Pinkerton detectives.
+L36058 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ And it's guarded by Pinkerton detectives.
+L36047 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ And that's why you both lead the gang. Two of you went into that bank together, right?
+L36046 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ And I planned getting you off the hangman's deck --
+L36023 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ We're gonna have to talk...
+L36022 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Fine. How'd it go out here?
+L36021 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ How'd it go in there?
+L35963 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Make a thousand of 'em. Still won't be enough by the time I'm through.
+L35962 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Didn't think you would.  I'm going to go make the coffin.
+L35961 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Don't care.
+L35960 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ ... We could move on. Rebuild. Make a decent life someplace else.
+L35949 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Ma.
+L35948 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Pinkertons. It's the railroad.
+L35912 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Shut up.  Uh, Doc, I was wondering if, uh, this evening, I could come by?
+L35911 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You're looking a bit more spry now that somebody --
+L35908 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Would you get in the carriage? Until Ma has you home so she can fuss over you herself, she's gonna make me miserable.
+L35907 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What do you think?
+L35906 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You ready to stop loafing around with this young lady and get back to farming?
+L35811 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Damn. All that reading paid off.
+L35810 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I went up to the courthouse and looked at the right of way documents for the rail bed. The railroad doesn't even need our land, they're just taking the land on both sides for as far as they can.
+L35784 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Heard of him.
+L35783 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You know him?
+L35765 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Your Zee? Hmm.  "From women's eyes this doctrine I derive: they sparkle still the right Promethean fire; They are the books, the arts, the academes, that show, contain, and nourish all the world."
+L35764 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ -- if you stop saying things about my Zee.
+L35752 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What worries me is that Jesus is talking back.
+L35751 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ She's still talking to Jesus.
+L35735 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Next time try "fat and haggard."
+L35734 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I swear I'll shoot you in your sleep.
+L35733 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You are a charmer.
+L35732 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You can shut up now.
+L35731 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ "Big and older"?
+L35725 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Maybe, maybe...
+L35724 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ That just might work.
+L35722 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ What kind of story are they going to believe?
+L35721 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Think about this. If we just come up with a story and stick to it, we should be all right.
+L35720 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ All we thought about was coming home. I swore I'd kill anybody who tried to get me off my farm again. If I have to go to war with the railroad to stay, fine by me.
+L35708 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Saved all our lives, Doc. None of the Liberty boys would have come home if not for Web Mimms, Doc. God's honest truth.
+L35707 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Whyyyy... he took down the Gatling gun and the cannon all by himself.
+L35702 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Zee, we got to talk to you and your father.
+L35701 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You're doing just fine.
+L35700 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Frank, don't you have something to say?
+L35684 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ We better go to Doc's, see what's going on here.
+L35683 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Looks like Web Mimms wasn't the only casualty this town's got.
+L35661 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ All this time in the saddle... We get to the farm, I'm going to shoot this damn horse just on principle.
+L35660 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Hello, Liberty Missoura!
+L35651 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I'm sure it seemed like a good idea at the time.
+L35650 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Hell of a war.
+L35649 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I reckoned.
+L35648 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Web's dead.
+L35639 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ No, Jesse, your problem is you're always doing stuff before I'm finished figuring it out.
+L35638 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ See, that's your problem, Frank. By the time you finish figuring out stuff, I'm already finished doing it.
+L35637 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I figure.
+L35636 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ That would have made an impression.
+L35635 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ You could have worn one of those big, floppy woman's Easter Sunday hats.
+L35634 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Such as?
+L35633 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Mm-hmm.
+L35632 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ So you're saying I could have done more to attract their attention.
+L35631 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Pff. They hardly even noticed you.
+L35630 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Distracting enough for you?
+L35617 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ So we got a plan?
+L35616 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Every time I put my head up to hit that Gatling, they try to shoot it off.
+L36550 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Everything but the boring parts.
+L36549 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ How much of that story is true?
+L36548 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Yeah Jimmy?
+L36547 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ Uncle Frank?
+L36545 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I think... he was just a real interestin' fella to have around.
+L36544 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ So what was he?
+L36543 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Can't argue that.
+L36542 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ But he killed a lot of men, too.
+L36541 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Saved a lot of folk from the railroad.
+L36540 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ They're making him a hero now.
+L36539 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ That he was.
+L36538 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ Sounds like he was a hell of a man.
+L36537 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Allow a man his version of the past. When you get to be my age, you've got enough painful memories, you're allowed to soften a few of the edges up.
+L36536 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ I know. But that's how it should have ended. Your Dad and Mom, riding off into a new life, growing old together, happy.
+L36535 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ ...every time you tell that story, you stop there. That's not how it ended. I was five when my dad got shot.
+L36534 +++$+++ u312 +++$+++ m19 +++$+++ FRANK +++$+++ Yeah, Jimmy?
+L36533 +++$+++ u315 +++$+++ m19 +++$+++ JIMMY +++$+++ Y'know, Uncle Frank...
+L35958 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Shush.
+L35957 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Doc Mimms will --
+L35956 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Take care of each other, boys. You say your prayers.
+L35955 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ We know, Ma. Now we got to get you to Doc Mimms.
+L35954 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Riders --
+L35952 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Boys?
+L35951 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Ma! Please!
+L35804 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Somebody's in a vengeful smiting mood today.
+L35803 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ The Lord says we can bury 'em out back in the orchard, nobody'll ever find them.
+L35780 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ We're just fine, thank you, sir.
+L35779 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Easterners.
+L35750 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ He's a good Christian and he killed Yankees. Jesus told me that made him an all right boy.
+L35749 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Ma, I'm glad to see you being nice to our Injun friend.
+L35741 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Say your prayers?
+L35740 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ A fair number, Ma.
+L35739 +++$+++ u317 +++$+++ m19 +++$+++ MA +++$+++ Did you kill Yankees?
+L36532 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ I'll explain on the way.
+L36531 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ Tennessee?
+L36514 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Yes ma'am.
+L36513 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ Don't swear.
+L36512 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ You are a hell of a woman.
+L36511 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ I can't believe I had to blow up a train for you.
+L36510 +++$+++ u313 +++$+++ m19 +++$+++ JESSE +++$+++ Yes ma'am.
+L36509 +++$+++ u326 +++$+++ m19 +++$+++ ZEE +++$+++ You get arrested again, I'll kill you.

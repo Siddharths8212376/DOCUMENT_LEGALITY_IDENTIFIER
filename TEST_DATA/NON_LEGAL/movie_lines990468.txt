@@ -1,0 +1,200 @@
+L632472 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Hey.
+L632223 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Just a car.
+L632222 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'll be back in a couple of hours. And be careful with her, will you?
+L632221 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Truck stop up a piece.  Not much, but us simple folk like it.
+L632220 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, right.  Someplace in this dust bowl I can get something to drink?
+L632219 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ You got to be more careful.  I remember one time--
+L632218 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Accident.
+L632216 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Ninety-two.  Only gonna get hotter. I remember one time . . .
+L632215 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Jesus.  Twenty-after-ten and it must be ninety already.
+L632214 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Twenty-after-ten.
+L632213 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What time is it now?
+L632212 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Time.
+L632211 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ How much time?
+L632210 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Yeah, I can fix it.  Gotta run over to the yard and see if I can find a hose like this one, or close enough. Gonna take time.
+L632209 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Hey!
+L632208 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Okay, I'm stuck.  You happy?  Now can you fix it, or not?
+L632207 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Somewhere else?  Mister somewhere else is fifty miles from here.  How you planning on getting it there? You gonna push this heap yourself?
+L632206 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ If I could do you think I'd be standing here wasting my time.  Can you fix it, or do I have to go somewhere else?
+L632205 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Well, you know so much why don't you just fix it yourself?
+L632204 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I know it's busted.  What did I just tell you?
+L632203 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ It's your radiator hose.  It's busted.
+L632202 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Look, pal, I've got places to be. Could you just take a look at my radiator hose.  It's busted.
+L632201 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ That'll make five in a row.  Never seen it so hot.  Sometimes I don't even want to get out of bed.  I'd rather just lay there and try to catch a breeze.  I was in Mexico this one time--
+L632200 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Damn.  Gonna be another hot one today.
+L632199 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You want to take a look at my car? I think the radiator hose is--
+L632198 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ So?
+L632197 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ But he's dead.
+L632196 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ 'Cause Harlin used to own it.
+L632195 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Then why do you call it Harlin's?
+L632194 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Yep.
+L632193 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You own this place?
+L632192 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Doubt it.  He's dead.  The Look Out's a cemetery.
+L632191 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Will he be back soon?
+L632190 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ He's up at the Look Out.
+L632189 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Harlin around?
+L632188 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Nope.  Darrell.
+L632187 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You Harlin?
+L632186 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ You want somethin'?
+L632664 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, I'll try.
+L632663 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Shasta!  Now why'd you go and scare the nice man like that?  Sorry about that, hon.  Enjoy your beer, and try to have a nice day.
+L632591 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, give me the Miller.
+L632590 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ No.  We got Miller.  Regular Miller. You want it, or don't you?
+L632589 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Genuine Draft?
+L632588 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ No, we ain't got no Kirin.  We got Miller.
+L632587 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Kirin?
+L632586 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ We ain't got no Beck's.
+L632585 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Let me have a Beck's.
+L632584 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ What would a truck stop be without beer?
+L632583 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You got beer?
+L632582 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Now that you're so well off, can I get you something, Hon?
+L632662 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ It'd serve you right.  Jose, run get a mop and clean this mess up.
+L632661 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ I think I burned my gun hand!
+L632660 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Ned!  Now look at what you done! Are you all right?
+L632658 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Flo, I'm just gonna help myself to a refill on the coffee.
+L632657 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Let me get your change.
+L632651 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Baby didn't die.  Just froze off all it's finger and toes.  Just a little fingerless, toeless boy now.  But the husband; he sees what the wife's done, so after he saves the baby he locks the wife in the refrigerator to see how she likes it.  Now she died.
+L632650 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Lord!  Put the baby in the icebox. Killed the poor thing.
+L632647 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ 'Cept that she lost her money and the sons of bitches stole her wedding ring.  That's when she started shooting.  Can't blame her. The ring was all Carlos left her when he died.
+L632646 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ Poor thing.  Is she all right?
+L632642 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ You pay Toby no mind.  He just likes to show off for his girl.  Give him a couple of hours, he'll cool off. Still want that beer?
+L632641 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ More like Jenny is after every man she sees.
+L632640 +++$+++ u8673 +++$+++ m588 +++$+++ FLO +++$+++ You know how that Toby is.  Thinks every man he sees is after his Jenny.
+L632639 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ What was that all about?
+L633220 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Sheriff Potter.
+L633219 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ That wasn't so bad.  What's thirty- some-thousand to rich folks like you?  It didn't hurt a bit.
+L633217 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John--
+L633216 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ There you go, Mrs. McKenna.  Just put it in there.
+L633202 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Can't I?  You're out in the desert, all alone, with a body in your trunk.  What do you think, boy?
+L633201 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Don't tell him anything.  He can't do this.
+L633200 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ . . .at the very least.  I know there was more than thirty-thousand dollars.  Now, how much did you get?
+L633194 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Same thing you want.  I want to be out of Sierra; to be able to do as I please.  But that takes money.
+L633193 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ What do you want?
+L633192 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ For the love of God would you two give it a rest?  Lord almighty.  In all my years I have never seen anything so pathetic.  How far did you think you were going to get with this?  Neither one of you can wait to slit the others throat.  Now use what little smarts you got.  If I was going to bust you I wouldn't have waited until after you killed Jake.
+L633185 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ He killed him, Sheriff!  I couldn't stop him!  He made me come with him. He told me if I said a word he would kill me too.
+L633184 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Is that the way you want it, boy?  A bullet in the head in the middle of the desert?  Ends like this and you won't be able to spend a dime of that blood money.
+L633182 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John . . .
+L633181 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ I could do that.  'Course we'd have to go back into town.  There'd be a whole crowd of people around when the trunk was opened.  A whole crowd of witnesses.  That wouldn't be too pretty, now would it?
+L633169 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I . . .
+L633168 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Is that right?  Can't say as I blame you for wanting to head out for a bit.  I know I've had my fill of this town.  Sixteen years I've been the law and order here.  So long I forgot why I ever wanted the job in the first place.  Help people, I guess.  Keep the peace.  Problem is there's so much peace around here they don't much need me.  Got a lot of speeders, but they're speeding through miles of nothing so I can't hardly blame them.  Other than that, well, there ain't much to steal.  I reckon that the last big crime we had was, what would you say Mrs. McKenna?  A murder?
+L633167 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I had a fight with Jake.  I . . . I just wanted to get away for awhile. Mr. Stewart was kind enough to take me as far as Montrose.  I'm going to take a bus to my sister's.  I thought I'd stay with her for a few days.
+L633166 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ Taking a little trip?
+L633165 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Yes.  Yes it is.
+L633164 +++$+++ u8679 +++$+++ m588 +++$+++ SHERIFF +++$+++ That yours, Mrs. McKenna?
+L633036 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Jake.  No.  No!
+L633035 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ What are you afraid of?  I'm the one's got the gun.  Stay here.
+L633034 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Oh my God, Jake, no.  If it is someone they'll go away.  Or call the police.  Don't go out there.
+L633033 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ When did you buy a gun?
+L633032 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ What does it look like?
+L633031 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Jake, what is that?
+L633030 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ The wind isn't blowing.
+L633029 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I don't hear anything.  You were dreaming.  Or maybe the wind blew something over.
+L633028 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ There's someone in the house.
+L633027 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ How could I?  I was sleeping.
+L633026 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ You didn't hear something?
+L633025 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ What's the matter?
+L633004 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Nothing, Jake.  Absolutely nothing.
+L633003 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ What the hell you looking at, girl?
+L633002 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ Uh-huh
+L633001 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I picked them out for you, Jake.  I thought you would like the colors.
+L633000 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ They look nice.
+L632999 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ You haven't even looked at them once.
+L632998 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ They look nice.
+L632997 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ You never said anything.  About the drapes.
+L632996 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ I know.  I was here when your apprentice was helping you. Remember?
+L632995 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I put up new drapes, Jake.
+L632994 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ You spent a long time talking for a wrong number.  But then you make friends so easily.  Don't you, Grace?
+L632993 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Wrong number.
+L632992 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ Who was that on the phone?
+L632376 +++$+++ u8675 +++$+++ m588 +++$+++ JAKE +++$+++ Who the hell is this!?
+L632375 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Jake.  I thought you would be at work, dear.
+L633301 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Fuck you!  Do you hear me, John!? Fuck you!  John . . . John!?
+L633300 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What do you say, Jake?  Should we trust her?  No?  I didn't think so.
+L633299 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ For Christ's sake, John!  Throw me the keys!
+L633298 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ At least I'll have company when I die.  Ain't that right, Jake?
+L633297 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ You idiot!  You'll kill us both!
+L633296 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, they'll find you.  Dried up and twice dead.
+L633295 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Someone will find me.
+L633294 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Walk to where?  We're fifty miles to the nearest town.  It's going to be over one-hundred degrees today.  How far do you think you're going to get?
+L633293 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John, if you don't throw me the keys, then I'll just walk away. Walk away and leave you here.
+L633292 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Why don't you come down and get them so I can wring your pretty little neck?
+L633291 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Throw me the keys and I'll pull you up.
+L633290 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ And you're not one to lie, are you?
+L633289 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ No.  I swear it.
+L633288 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Bullshit, Grace.  You were going to drive off and leave me here.
+L633287 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I was going to back the car to the ridge and pull you up.
+L633286 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You closed it, didn't you, Grace?
+L633285 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ It's . . . it's locked.
+L633284 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ It's not locked.  I left it open when I took out Jake's body.
+L633283 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ The trunk.  It's locked.
+L633282 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What for?
+L633281 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John, throw me the keys.
+L633280 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John, you have to throw the keys up to me.
+L633279 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Where the hell am I going to go?
+L633278 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John!  Can you hear me?  Are you still there?
+L633277 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I'll get it.
+L633276 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Grace, listen to me.  In the trunk of my car is a rope.  It should reach down here.  Got get it, throw it down and I'll climb up.
+L633275 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I'm here.
+L633274 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I can't make it.  Grace?  Grace!?
+L633273 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Can you climb back up.
+L633272 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I think I busted my leg.
+L633271 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Are you all right?
+L633270 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Grace!
+L633269 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John!
+L633262 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I think you're a lying, back stabbing bitch.  But it's nice to know you care.
+L633261 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I don't want to go to Mexico, John. I want to be with you.  Don't you think I care about you?
+L633260 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Why?  So when the cops catch up with us you can try and sell me out again?  You take your hald of the money and run.  You might want to try Mexico.  With all that dough you'll live like a queen.
+L633259 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ But I want to say with you,
+L633258 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ The police don't know that.  And it's going to be hard to explain it to them with a noose around your neck.  I'll take you as far as California.  If we can even make that.  After that I'm cutting you loose.
+L633257 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ He was a crooked bastard.  He would have killed us.
+L633256 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ <u>We</u> killed Jake.  And it's a big difference.  You kill an old man, that's one thing.  Nobody cares about an old man.  You kill a cop and they never stop looking for you. Never.
+L633255 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ What difference does it make?  You killed Jake.
+L633254 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Are you kidding?  I'm not going down with you for killing a cop.
+L633253 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ But you said we could be together.
+L633252 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Now we dump Jake, split the money, then you're on your own.
+L633251 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Now what?
+L633250 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Well, nothing.
+L633242 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You could give me the gun.
+L633241 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Is that the kind of girl you think I am?  What can I do to make you relax?
+L633238 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You killed a man for no reason!
+L633237 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ You're tense.  What are you all uptight about?
+L633236 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I know.  He was to take the fucking money.
+L633235 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ He was going to--
+L633234 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Jesus, Grace.  Did you have to kill him?
+L633230 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Just drive.
+L633229 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You're crazy, you know that!? You're fucked up!?
+L633228 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ It's our money.  He had no right to take it.
+L633227 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Thirty-thousand, that's all.  We would have been free and clear.  You didn't have to kill him.
+L633226 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ He was going to take the money.
+L633225 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You killed him!
+L633224 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I shot him.
+L633215 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ He can kill us.  I don't know about you, but my life is worth thirty- thousand dollars.
+L633214 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ He can't prove anything, John.  He can't turn us in.
+L633213 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You heard me.  Count it out.
+L633212 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ What?
+L633211 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Give him the money.
+L633210 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ It doesn't matter.  He was there and he let it happen.  He can't take us in.
+L633209 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Not me.  Us.
+L633208 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ That's all talk.  He's got nothing on us.  He let you kill Jake.
+L633205 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No, you just wanted me to keep my mouth shut so I could go to a hanging alone.
+L633204 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Damn you!  What did you do that for? He can't prove anything.
+L633203 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ One-hundred-thousand dollars.  A little more.
+L633191 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You liar!  You wanted him dead.  You seduced me into killing him!
+L633190 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Sheriff Potter, please.  I can't go to jail.  I wanted no part of it.
+L633180 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Grace!  Just . . . let me handle this.  Sheriff, I'm telling you there's nothing in that trunk.  If that's not good enough for you, then I'd be happy to open it.  Just as soon as you get yourself a search warrant.
+L633179 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John . . .?
+L633154 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Funny thing.
+L633153 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Had push it in.  Funny thing; it wouldn't start.
+L633152 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah.  Good thinking.
+L633151 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ I got the money all packed.  I put the jeep in the garage.  Figure that way people will think maybe me and Jake went away.  Might buy us some time.
+L633150 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I . . . nothing.  I just stubbed my toe on a rock.  Hurt like hell . . . that's all.
+L633149 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ John!?  What the hell's the matter with you?
+L633133 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Put some clothes on him.  When I get back We'll load him in the trunk and dump him in the desert.  It'll takes days for anybody to find him.
+L633132 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Wait.  What about . . . him?
+L633131 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ To get my car.
+L633130 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Where are you going?
+L633129 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Get it, and put the money in it. Pack up anything else you want to take with you.
+L633128 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Never needed one.  I've never been anywhere.  I've got a backpack.
+L633127 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You got a suitcase?
+L633125 +++$+++ u8674 +++$+++ m588 +++$+++ GRACE +++$+++ Let him watch.  I want him to know what he's missing.
+L633124 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What about him?

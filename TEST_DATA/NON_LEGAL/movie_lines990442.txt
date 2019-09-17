@@ -1,0 +1,200 @@
+L615974 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Not because of Ned.
+L615971 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ Don't kid yourself--you know how I stand back there.
+L615970 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ --you'd go with him!
+L615969 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ A tipoff in the right quarter to take his fingerprints and--
+L615968 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ You leave the kid alone.
+L615967 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ Thanks to me.
+L615966 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ He's all right.
+L615965 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ That's more like the old Sally--a little bit of fire.  How about Ned?
+L615964 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ You get wise to <U>yourself</U>! If you know what's good for you, you'll leave me alone. Everybody's entitled to one mistake--Well--you're mine. When the going got too rough, I pulled up stakes and quit. We stay quit!--Get that!--And what're you going to do about it?
+L615963 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ Get wise to yourself, Sally--you're no sob story.
+L615962 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I wish I could.
+L615961 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ Because I want you--will always want you--no other woman'll ever take your place.  I want you more now than I did that first night--  You've forgotten all that, I suppose?
+L615960 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Why don't you leave me alone?
+L615959 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ It wasn't smart. Even if you'd gotten away without me --I'd have found you--no matter where you were.
+L615958 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I didn't want to see you again--that's my privilege.
+L615957 +++$+++ u8470 +++$+++ m575 +++$+++ LOTHER +++$+++ You ran away because you were afraid. I don't want it to end like that.
+L615956 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ All right--but what is there to face? It's finished.
+L616478 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ This is interesting--  Why didn't you tell me you gave this kid your gun last night?
+L616477 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ I tried to borrow a gun from Chad, but--
+L616474 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ Because I was yellow, I guess--
+L616473 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Why?
+L616472 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ I wouldn't say that--  I'm glad he's dead--yes--I'd thought of killing him-- but I didn't--
+L616471 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ S'pose you've never thought of killing him--
+L616470 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ No!
+L616469 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ You didn't have a gun in your hand last night?
+L616468 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ Yes, Yes!
+L616529 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ He's a swell person. He told me he'd rather turn one guy straight than jug a million.
+L616528 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Next time I get a vacation I'll spend it at headquarters. Good-night.
+L616519 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ I hope so. Well, I guess you two can do without me. I'll be seeing you.
+L616518 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I've got a hunch you're going to win that bet, Inspector.
+L616517 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Soon as I get that bracelet back I'm going to relax. Wish the guy that borrowed it would help me out--I got to win that fifty bucks.
+L616462 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ For a very excellent reason from your own admission--  --I'm not saying you <U>did</U>--but I think you know more than you're telling. Years of experience have taught me to mistrust circumstantial evidence. Nevertheless, in your case there's plenty of it.
+L616461 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Why should <U>I</U> kill him?
+L616460 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ I sincerely hope so--
+L616459 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ That's the truth--every single word!
+L616361 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Maybe you will after you've thought it over.
+L616360 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Sure I would--but I don't get what you're driving at.
+L616359 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ And if you liked the person, you'd naturally persuade him to give it back and go straight, wouldn't you?
+L616358 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Well, of course, I wouldn't take it.
+L616357 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ I mean if you knew it were stolen.
+L616356 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Say, "Thanks very much!"
+L616355 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ He'll be back.  What would you do if anybody gave you a bracelet?
+L616354 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Exciting, wasn't it? Where's Jimmy?
+L616353 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Congratulations.
+L616233 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Good night!
+L616232 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ It's getting kind of chilly on deck. If you'll excuse me, I think I'll go to bed. Good night, Mr. McKinney!
+L616258 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Nothin--  --I just remembered the name of a guy that owes me fifty bucks.
+L616257 +++$+++ u8474 +++$+++ m575 +++$+++ PURSER +++$+++ What's the matter?
+L616256 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Well, I'll be a son of a sea cook!
+L616255 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ It all depends on what you're used to.
+L616254 +++$+++ u8474 +++$+++ m575 +++$+++ PURSER +++$+++ I mean--a lot of gentlemen would be offended if you searched them like that.
+L616253 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ "Smooth's" the word.
+L616252 +++$+++ u8474 +++$+++ m575 +++$+++ PURSER +++$+++ He's certainly good-natured.
+L615864 +++$+++ u8474 +++$+++ m575 +++$+++ PURSER +++$+++ Thirty one's and two ten's?
+L615863 +++$+++ u8472 +++$+++ m575 +++$+++ MCKINNEY +++$+++ Thank you.
+L615862 +++$+++ u8474 +++$+++ m575 +++$+++ PURSER +++$+++ There you are, sir.
+L616140 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ If he comes near you again, I'll break his neck--
+L616139 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I'll explain later--
+L616138 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ What!--are you crazy?
+L616137 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I was in his cabin--
+L616136 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ You saw him sitting out there in front, didn't you?
+L616135 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ I'm all right.
+L615941 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Aren't the roses beautiful?
+L615940 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ Sure, Sis.
+L615939 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Isn't it great to be away from it all? Aren't you happy? It seems too good to be true.
+L615397 +++$+++ u8475 +++$+++ m575 +++$+++ SALLY +++$+++ Do you think Lother could have seen it?
+L615396 +++$+++ u8473 +++$+++ m575 +++$+++ NED +++$+++ I thought I had our sailing covered up--  --and here it is.
+L616330 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ Because you ran after me.
+L616329 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ Then why did you run away?
+L616328 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ Yer crazy!--I ain't got no bracelet.
+L616327 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ I saw him take the bracelet out of that shoe.
+L616326 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ I tell yuh I ain't got no bracelet--
+L616317 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ Hey--you! Where you going?
+L616316 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ Ain't got time.
+L616315 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ Let me look at it.
+L616314 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ Nothin'.
+L615564 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ Well--get a move on yer--then get back to yer station.
+L615563 +++$+++ u8476 +++$+++ m575 +++$+++ SHORTIE +++$+++ Telegrams.
+L615562 +++$+++ u8477 +++$+++ m575 +++$+++ STEWARD +++$+++ Everything in order, sir?  What are <U>you</U> doing here, my lad?
+L616650 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Does it hurt?  A lot?  Good.
+L616649 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ Oh, my God...
+L616646 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Why Ed, what an ugly thing to Say!  Does this mean you're not my Friend anymore?  You know, Ed, if I thought you weren't my friend I Don't think I could bear it.
+L616645 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ Skinny lunger, your guns don't Impress me.  Wasn't for those guns You'd be nothin'.
+L616644 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Now Ed, are we cross?
+L616643 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ Just pick up your money and go. Sick of listening to you simper.
+L616642 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Isn't that a daisy?
+L616641 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ God damn son of a...
+L616640 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Ed Bailey, you look like you're Just ready to burst.  Well call me A fool but I guess I'll just have To call.  Cover your ears, darling.
+L616639 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ Oh, for Christ's sake!
+L616636 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ 500? Sly boots, must be a peach of a hand.
+L616635 +++$+++ u8479 +++$+++ m576 +++$+++ BAILEY +++$+++ I said that's 500 to you, Holliday.  In or out?
+L617072 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ That's not what I meant.
+L617071 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Nice voice.
+L617070 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ What d'you think of the singer?
+L616722 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Actually, you know, that's not a Bad idea, send a signal we're Growing up.
+L616721 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Fine, fine.  But I was thinkin', You know what this town really Needs is a race track.
+L616720 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ So how's Tombstone treating you?
+L616661 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Well I'm the man to see.  Besides Sheriff I'm also tax collector, Captain of the Fire Brigade, and Chairman of the Non-partisan Anti- Chinese league.  A man of many Parts.  Got a place to stay yet?  I Also sit on the Townlot Commission.  Got a couple of Lovely cottages coming up for Rent.  Here, let me show you...
+L616660 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Gave all that up.  Going into business.
+L616659 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Wyatt Earp...Dodge City, right?
+L616658 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just this minute.  I'm Wyatt Earp, These're my brothers-
+L616657 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Newcomers, eh?  Names John Behan, I'm Cochise County Sheriff.  Just Hit town?
+L617216 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ You will after tonight.  Bet on it.
+L617215 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ I don't understand.
+L617214 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Easy.  I just wanted to tell you Things're about to start changing Around here.  Lots of so-called Hard cases and tough-nuts swagger Around this town but none of 'em's got a clue about the real play.  None of 'em.
+L617184 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ You whore!  You filthy whore!
+L617183 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ My man?  You told Wyatt you'd Disarmed those men.  Do you Actually believe after that I Could see you as my man?  You're Just a dirty little fixer.
+L617182 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ I saw that look pass between you And Wyatt at the fight.  Listen to Me!  You're mine!  Understand? You're my woman and I'm your man.
+L617181 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ Not now.  I don't have time.
+L617180 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Listen, I want to talk to you.
+L617086 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ Absolutely nothing.
+L617085 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ I saw that look on your face just now. What's between you and Wyatt?
+L616906 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ Maybe even my destiny.
+L616905 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Well I guess you can see, never a Dull moment.  Maybe you should Stay around to see what happens Next.  Who know?  You might find a Future here.
+L616860 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ Oh, so that's it...
+L616859 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ Yes, very.  And very married.
+L616858 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ A peace officer... Impressive man
+L616857 +++$+++ u8480 +++$+++ m576 +++$+++ BEHAN +++$+++ That's Wyatt Earp.  Made quite a Name for himself as a peace Officer in Kansas.
+L616856 +++$+++ u8487 +++$+++ m576 +++$+++ JOSEPHINE +++$+++ The man dealing faro.  Who is he?
+L616956 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Look kid, I know what it's like, I was a kid, too.  Even stole a Horse once.  But you can't--
+L616955 +++$+++ u8481 +++$+++ m576 +++$+++ BILLY +++$+++ Come and get him.
+L616954 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Look, I don't want any trouble With you but that's my horse and I mean to have him back.  One way Or another.
+L616953 +++$+++ u8481 +++$+++ m576 +++$+++ BILLY +++$+++ Where do you think?  I stole him.
+L616952 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I asked where you got him.
+L616951 +++$+++ u8481 +++$+++ m576 +++$+++ BILLY +++$+++ Beauty, ain't he?
+L616950 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Where'd you get that horse?
+L616891 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well I'm not so go home.
+L616890 +++$+++ u8481 +++$+++ m576 +++$+++ BILLY +++$+++ He said to turn loose of him.
+L617271 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Oh, Jesus, Johnny...
+L617270 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Hey, you smell that?  Smells like Something died.
+L617210 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Easy, son.  You just need to get Your feet back under you, that's All.  Come on, boy, let's kick South.  Down to the old playground.
+L617209 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ There's no God, there's no devil, I hate the God damn world!  I want To die!
+L617208 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Easy, Johnny.  Now ain't the time.  I tell you, boys, even I'm Worried what'll happen once Ringo Runs this outfit!  God have mercy!
+L617207 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ I want them spitting blood!
+L616836 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ And you must be Doc Holliday.
+L616835 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Shut up, Ike.
+L616572 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Well now that's a little more Like it.
+L616571 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ He was quoting the bible, Revelations: "Behold a pale horse And the one that sat on him was Death and Hell followed with him."
+L616570 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ What'd the Messican mean, a sick Horse's gonna get us?  Didn't make No sense.
+L617374 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ No...
+L617373 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Let me, let me, yeah!  Die, you Bastard...
+L617372 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ No...
+L617371 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Look at that!  Yeah!  Come and get Some, boy!
+L617269 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Well... 'bye.
+L617268 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I want you to know it's over. We're leaving and we're not Coming back.
+L617163 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ I know.  Just did what you had to. That banner and stuff, that's Just Ike.  Don't worry about it.
+L617162 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I'm sorry.  If there was any other-
+L616970 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ We're gonna get along just fine.
+L616969 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ This brand.
+L616968 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Oh, we ride for a brand all right.  This brand.  How 'bout you?
+L616967 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ And how come you call yourselves Cowboys?  Cowhands ride for the brand.
+L616966 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Ain't our way.  We go all on one, One on all.  Fight one of us, you Fight us all.  That's the Cowboy way.
+L616965 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ They were all gonna jump me back There.  What ever happened to one Against one?
+L616964 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Fair enough.  You know I got to Admit, you got a lot of bark on You comin' up here like this.
+L616963 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Make you a deal.  My brother took Over the Marshal's office in Tombstone.  Got it in his head He's gonna make the place safe For widows and orphans.  You and Your boys stay out of his way, I'll make sure he stays out of yours.
+L616962 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Feel bad about ol' Fred.  Just Can't hold back when I'm feelin' Woolly.  Still, feel kinda bad. But now we're square.  Anyway no Use for holdin' a grudge.  I Deserved a rap in the head.
+L616901 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Crack me back of the head like Some stinkin' bull.  Hell, you Ain't no fightin' man, you're Just a cop.
+L616900 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Come on, you...
+L616832 +++$+++ u8482 +++$+++ m576 +++$+++ CURLY BILL +++$+++ Good.  That's real good.
+L616831 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I'm retired.
+L616583 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Already got a guilty conscience, Might as well have the money too.
+L616582 +++$+++ u8483 +++$+++ m576 +++$+++ DAKE +++$+++ I see, off to strike it rich, Huh.  All right, fine, wish you Luck.  Tell you this though, never Was a rich man yet didn't wind up With a guilty conscience.
+L616581 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ No Marshal, you don't understand. I'm through with lawing, I'm Through with the whole Proposition.  Forever.  I did my Duty, now I'd like to get on with My life.  That is if you don't Mind.  Jesus.  Good day now.
+L616580 +++$+++ u8483 +++$+++ m576 +++$+++ DAKE +++$+++ But wait, you don't understand-
+L616579 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I said forget it, answer's no, I Don't want the job and that's Final.  I'm going to Tombstone and Nothin' short of dyin's gonn Stop me.  Good day.
+L616578 +++$+++ u8483 +++$+++ m576 +++$+++ DAKE +++$+++ Excuse me?
+L616577 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Forget it.
+L617525 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Say when.
+L617524 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ All right, lunger.  Let's do it.
+L617522 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ I was kidding about that.
+L617521 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ I beg to differ.  We started a Fight we never got to finish. Play for blood, remember?
+L617520 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ My fight's not with you, Holliday.
+L617519 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Why Johnny Ringo, you look like Somebody just walked over your grave.  Oh, I wasn't quite as sick as I Made out.
+L617205 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Here it come: one-two-
+L617204 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ On three?  You call it.
+L617203 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ All right, lunger.  Have at it.
+L617202 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ That's just my game.
+L616849 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ In pace requiescat.
+L616848 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Ecentus stultorum magister.
+L616847 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Credat Judaeus Apella.
+L616846 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Age quod agis.
+L616841 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ And you must be Ringo.  Look, Darling, Johnny Ringo.  The Deadliest pistoleer since Wild Bill, they say.  What do you Think, darling?  Should I hate him?
+L616840 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Yeah, you look it.
+L616839 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Not me.  I'm in my prime.
+L616838 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ You retired, too?
+L616837 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ That's the rumor.
+L617105 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Yes, I know.  You are a good woman.
+L617104 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ I'm a good woman to you, Doc. Don't I always take care of you? Nobody cares for you like me.  I'm A good woman.
+L617103 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Not exactly...
+L617102 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ What's that mean, Doc?  You know I Don't understand when you talk up High like that.  You mean you Don't want to be my lovin' man no more?
+L617101 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ We must talk, darling.  It appears We have to... redefine the nature Of our association.
+L617100 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ That's good.  I knew it wasn't nothin'.
+L617099 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Better.
+L617098 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ How you feeling, Doc?
+L617089 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Nothing.  Not a thing.  I'm right As the mail.
+L617088 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ What's wrong, Doc?
+L616863 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Enough?  Never.
+L616862 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ That's my lovin' man.  Just can't Get enough.
+L616843 +++$+++ u8484 +++$+++ m576 +++$+++ DOC +++$+++ Yes, but there's just something About him.  Something around The eyes, I don't know, reminds me Of... me.  No.  I'm sure of it, I Hate him.
+L616842 +++$+++ u8489 +++$+++ m576 +++$+++ KATE +++$+++ You don't even know him.

@@ -1,0 +1,200 @@
+L100354 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh. How old?
+L100353 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ My husband took the kids to the Illinos State Fair. My daughter's entering a prize steer.
+L100352 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ As long as it takes, I might stay a week. No more I don't think. Where's your family?
+L100351 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ And how long are you here for?
+L100350 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ A little place with cabins. The something-Motor Inn. I haven't checked in yet.
+L100349 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Where are you staying while you're here?
+L100348 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I thought it was funny.
+L100347 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'm so sorry about that. It was rude. I think I just got nervous for some reason.
+L100346 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Sure you want to keep those in the house?
+L100345 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Not at all.
+L100344 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Mind if I smoke?
+L100342 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Sure.
+L100341 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Lemon?
+L100339 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Francesca. Robert.
+L100338 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Francesca.
+L100337 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Well, thank you for all your help, Mrs. Johnson.
+L100336 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Sure.
+L100335 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Want another cigarette?
+L100334 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh, that's nice.
+L100333 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I found this Chicago station before. Wait a minute...  Here it is.
+L100332 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Looking for something in particular? There's not much of a selection.
+L100329 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No, I'm not.  I don't know why I said that. I've been in a very... strange mood all day. I've never done anything like that before. It's... I'm just...  Well, you know, the whole world is just going nuts.
+L100328 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Are you by nature a sadistic person?
+L100325 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ WHAT!
+L100324 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No, not at all --  except those are poisonous.
+L100323 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Men sill give women flowers, don't they? I mean, as a sign of appreciation? I'm not that out of date, am I?
+L100321 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh! You caught me.
+L100320 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh there you are.
+L100319 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Would you do me a favor and go to the truck? Inside that leather bag with the pockets is a package of lens cleaners. Would you grab me one?
+L100318 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ This time of year.
+L100316 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I don't mind waiting.
+L100315 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ This won't take long. I'm shooting tomorrow morning. I just need to do some prep work.
+L100314 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Yeah.
+L100313 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Long.  You just got off the train and stayed without knowing anyone there?
+L100312 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ So, how long you've been living here?
+L100309 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Yeah. Excuse me a sec.
+L100308 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You just... got off the train because it looked pretty?
+L100307 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh, yeah. Actually, I had an assignment in Greece and I had to go through Bari to get the boat at Brindisi. But it looked so pretty I got off and stayed for a few days. Breathtaking country.
+L100306 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No, really?
+L100305 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh yeah, Bari. I've been there.
+L100304 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Small town on the Eastern side no one's ever heard of called Bari.
+L100303 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Well, from Italy to Iowa -- that's a story!  Whereabouts in Italy?
+L100302 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No, I don't mind. I'm not from here. I was born in Italy.
+L100301 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You don't look like a native, if you don't mind my saying so.
+L100300 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Uh... uh...  Umm... long time.
+L100299 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ How long you been married?
+L100298 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh.
+L100297 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ After the divorce.
+L100296 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh. When did you move back?
+L100295 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Uh-huh. Lived there till I was twenty or so and then moved to Chicago when I got married.
+L100294 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Are you from Washington originally?
+L100293 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ That must be it. It's a great smell.
+L100292 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Maybe it's because I live here.
+L100291 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I can't describe it. I think it's from the loam in the soil. This very rich, earthy kind of... alive... No. No, that's not right. Can you smell it?
+L100290 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No.
+L100289 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ There's a wonderful smell about Iowa -- very particular to this part of the country. Do you know what I mean?
+L100288 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Hmm-mmm.
+L100287 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Pretty country.
+L100284 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I was just going to have some iced tea then split the atom, but that can wait.  I just have to get my shoes.
+L100283 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ If I'm not taking you away from anything.
+L100278 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh, terrific. Which way?
+L100277 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Well, you're pretty close. It's only about two miles from here.
+L100276 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ That's it.
+L100275 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Roseman Bridge?
+L100272 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Yeah.
+L100271 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Are you supposed to be in Iowa?
+L100269 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'm very sad but Richard said that since it's Cary Grant, he completely understands. I'm also taking Mrs. Delaney away from this town. She'll be living with Cary and I in Beverly Hills.
+L100268 +++$+++ u4190 +++$+++ m279 +++$+++ REPORTER +++$+++ What about your husband?
+L100267 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I said to him Cary you're being ridiculous. You're more than half her age. He said no one had ever been that honest with him and he falls in love with me.
+L100266 +++$+++ u4190 +++$+++ m279 +++$+++ REPORTER +++$+++ What about his engagement to Dyan Cannon?
+L100265 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes. And I've accepted.
+L100264 +++$+++ u4190 +++$+++ m279 +++$+++ REPORTER +++$+++ Mrs. Johnson! Mrs. Johnson! Is it true Cary Grant has proposed to you?
+L100777 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ I just want to say... I know you had your own dreams. I'm sorry I couldn't give them to you. I love you so much.
+L100776 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Hmm?
+L100775 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Franny?
+L100762 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Okay.
+L100761 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Hmm. How about that brown sugar meat loaf you make?
+L100760 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Want anything special for dinner?
+L100230 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ It's only four days.
+L100229 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ I'm going to miss you.
+L100228 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'm positive.
+L100213 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Frannie.
+L100212 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ "I had forgotten this. I had somehow remembered it being more his fault, his decision. Then I remembered we made love in that field before we left for home. And I remembered it was my idea. I remembered tearing his shirt and biting his body, hoping he would kidnap me. I had forgotten that too. And I wondered, as I sat there... how many other things I'd forgotten."
+L100201 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'm not sick, Richard. I'm just not tired, now go back to sleep before you're up for the whole night too!
+L100200 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Again? Maybe you should see a doctor.
+L100199 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I can't sleep.
+L100198 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Now?!  It's after eleven.
+L100197 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'm not tired. I thought I might finish Carolyn's skirt.
+L100196 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Where you going?
+L100195 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Later. Go back to sleep.
+L100194 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ What time is it?
+L100076 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Well you should all go to bed early. I'll do the cleaning up.
+L100075 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ 'Bout 4:30.
+L100065 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Sure.
+L100064 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I don't know. Can we turn it off? I have such a headache.
+L100063 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ Kinda pretty. Is this uh... jazz kinda singing?
+L100062 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ It's a Chicago station. I found it the other day.
+L100059 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes. I'm fine. It's just this heat I think.
+L100058 +++$+++ u4191 +++$+++ m279 +++$+++ RICHARD +++$+++ You feeling better Franny?
+L100226 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Isn't that nice? You should bring her home to meet us!
+L100225 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Well, she's... she's real pretty and ... and she's got a cute shape... she's a good sport, ya know, for laughs and  ... she loves fried chicken wings and beer.
+L100224 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Well, what's nice about her? Tell us!
+L100223 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Uh... Yeah. Yeah. She's real nice.
+L100221 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Okay.
+L100220 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What's she like?
+L100219 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Betty.
+L100218 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What's her name?
+L100217 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Okay.
+L100072 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Nah.
+L100071 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Are you seeing Betty tonight?
+L100662 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes, they are.
+L100661 +++$+++ u4189 +++$+++ m279 +++$+++ MOTHER +++$+++ They're not going to find her!
+L100660 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ About an hour ago.
+L100657 +++$+++ u4189 +++$+++ m279 +++$+++ MOTHER +++$+++ I don't remember!
+L100656 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Think for a second. Is there someplace she said she wanted to go?
+L100654 +++$+++ u4189 +++$+++ m279 +++$+++ MOTHER +++$+++ I was paying the check. She ran outside. I told her to wait for me right here! Oh God, where is she? Rebecca!
+L100653 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What happened?
+L100652 +++$+++ u4189 +++$+++ m279 +++$+++ MOTHER +++$+++ Oh my God...!
+L100123 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Who the hell is Lucy Delaney?
+L100122 +++$+++ u4186 +++$+++ m279 +++$+++ LAWYER +++$+++ Well, it was notarized, and witnessed by a Mrs. Lucy Delaney. Maybe you can ask her.
+L100119 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ WHAT!
+L100118 +++$+++ u4186 +++$+++ m279 +++$+++ LAWYER +++$+++ Well, she was very specific. She wanted her ashes to be thrown over Roseman Bridge.
+L100117 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ I don't care what it says! Maybe Mama was delirious, you know. She didn't know what she was saying. If she wanted to be cremated, why the hell did she let dad buy two plots, huh?
+L100116 +++$+++ u4186 +++$+++ m279 +++$+++ LAWYER +++$+++ It clearly states in the will --
+L100113 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Well, that's crazy. I don't know anybody who gets cremated.
+L100112 +++$+++ u4186 +++$+++ m279 +++$+++ LAWYER +++$+++ Apparently just before her death.
+L100111 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ When did she decide this?
+L100108 +++$+++ u4188 +++$+++ m279 +++$+++ MICHAEL +++$+++ Cremated?!
+L100107 +++$+++ u4186 +++$+++ m279 +++$+++ LAWYER +++$+++ Your mother left explicit instructions that she wished to be cremated.
+L101391 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ I don't.
+L101390 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Well, close the fucking door by all means.  But don't expect me to go down there and do it.
+L101389 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ Your father was his best friend.  He loved Jeremiah.  So he must hate him the most of all now.  He'll take his time. But even if it is too late.  If your father is dead.  It's not over.  The door has to be closed.
+L101388 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ It's the only way.  It's possible your father may not be dead yet.
+L101387 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ We can't go back there.  Are you crazy? You saw --
+L101161 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ I know damn well she's there.
+L101160 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Why don't you hang on and I'll see if she's here.
+L101159 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ Outta my way, boy.  Cinnabar?  I'm coming!
+L100905 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ Some holes can't be filled.  Some hungers can't be satisfied.
+L100904 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ You people really don't like dogs.
+L100903 +++$+++ u4202 +++$+++ m280 +++$+++ PEARL +++$+++ Don't feed that dog.
+L101047 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Take my advice.  Get the hell out of there.  It's a bad place.  Always has been.
+L101046 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Yeah?
+L101045 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Hey, kid.
+L101041 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ How the hell should I know?
+L101040 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Died there?  How?
+L101039 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Yeah.  He lived there.  And died there, too.
+L101038 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Is it true?
+L100902 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Alright.  Yes sir.  Anything you say.
+L100901 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Take my advice.  And shoot that dog.  Or let me.
+L100900 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Then what do you care?
+L100899 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Hell no!
+L100898 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ He yours, sir?
+L100897 +++$+++ u4204 +++$+++ m280 +++$+++ SHOTGUN +++$+++ Hey, watcha doing with that dog?
+L101248 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Go for it.
+L101247 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Can you take a little extended solo right about now, funk soul brotha?
+L101245 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Saw Bones ol' Bones on top of the hill. Rolling fat jays outta hundred dollar bills.
+L101244 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ ...Bones ol' Bones so mean and bad, whupped his mamma, shot his dad.
+L101114 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Damn.  It's so...fresh.
+L101113 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ You think that's really him?
+L101112 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ "This is the story of Jimmy Bones/Black as night and hard as stones/Gold plated deuce, like the King of Siam/Got his switchblade loose, and a diamond on his hand..." There's the switchblade and there's the diamond.  Don't know where the deuce is parked.
+L101111 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ What the hell you talking about?
+L101110 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Boys and girls, Moms and Dads.  Children of all ages, I'd like you to meet... Jimmy Bones.
+L101105 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Maurice, man, shut the fuck up.
+L101104 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Oh yeah, I guess this would be that space that was so perfect for a recording studio.
+L101101 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Some flies?  I think this qualifies as way more than "some."
+L101100 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Just some flies.
+L101099 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Ugh.  Muchos moscos, man.  This is too much.
+L100881 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Nothing.  Contact paranoia.  Must be buggin' from hanging with you.
+L100880 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ 'S up?
+L100874 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Take who where?  What you smokin'?
+L100873 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ You didn't hear that?  "Take him... " Something.  "Bury him" or...
+L100868 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Keep smokin', fool.
+L100867 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ The man said just to use my imagination.  Let's see...yeah, I get it.  Potential. I can see it now.  The first major urban theme park.  Village Ghetto land. Kinda like Legoland, but made entirely from broken glass, hypodermic needles and crack vials.  Totally E-ticket.
+L100866 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Are you nuts?
+L100861 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Look around, this place is a dump!  Naw, it'd have to work to be a dump.
+L100860 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ What's your problem with Crippled Dick?
+L100859 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ Yeah, in the land of the blind the one eye'd are king.
+L100858 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Bones!  How baddass is zat?  This is the place for us.  Patrick, you get platinum props, man.  Platinum.
+L100831 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ So what the hell's the good news?
+L100830 +++$+++ u4200 +++$+++ m280 +++$+++ MAURICE +++$+++ We practically paying him for the privilege of playing his club.
+L101440 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Or just Hell-adjacent...
+L101439 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Is this Hell?
+L101434 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Anywhere but here.
+L101433 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Climb out to where?
+L101432 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ We can climb out.
+L101393 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Fine.  But I'm bringing a couple of friends.
+L101392 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ You ain't going down there.  Not alone. I'll go.
+L101255 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Well, go find his lazy ass.  I scratch any more tonight I'm gonna have carpal tunnel syndrome.
+L101254 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Probably stoned out of his gourd in some corner.
+L101253 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Where's the gangsta of love?
+L101164 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Damned if I know.
+L101163 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ You sure got a way with women, bro.  What happened up there?
+L101124 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Whatever, let's just get the hellout of here.
+L101123 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Yeah, we can.  Least till after this weekend.  He ain't going nowhere.  We'll deal with it then.
+L101057 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Maurice left.  Tia's taking a bath.
+L101056 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Where's the others?
+L101055 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Yeah, there is a strange vibe here.
+L101054 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ No.  Well, yeah.  Maybe just a little.
+L101053 +++$+++ u4201 +++$+++ m280 +++$+++ PATRICK +++$+++ Spooked?
+L101052 +++$+++ u4193 +++$+++ m280 +++$+++ BILL +++$+++ Shit.

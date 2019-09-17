@@ -1,0 +1,200 @@
+L55374 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Who with?
+L55373 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ I'm - afraid I have some bad news for you, Reef -  You'll have to share quarters, this trip.
+L55361 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ I met Dr. Kent, once.
+L55360 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ I did go.  Just back.  Reef, these are a couple of our passengers - Sir Ian Hunt, and Dr. Clifford Kent.  My exec, Commander Richard Holloway.
+L55359 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Thought you were going to Washington, Skipper.
+L55808 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ <u>That</u> might be a <u>little</u> <u>rough</u>!
+L55807 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ Obviously.
+L55806 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ To navigate, won't you have to... see your way?
+L55805 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ Of course.  But it is time to be- gin the return voyage --
+L55804 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ That's why no water leaked inside when we rammed you?
+L55803 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ It is a living thing.  When damaged - you would say 'wounded' - it immediately 'heals' itself.
+L55799 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ I have selected you, to return with me - along with several other specimens, for study.  We will examine you and the others, discover desirable features to incorporate in our 'earth-colonizers.'
+L55798 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Why?
+L55797 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ On the contrary.  I want you - unharmed - perfect.
+L55796 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Why not me?  What am I - the closing act?
+L55790 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ I am afraid not.  Therefore -
+L55789 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ He did!
+L55788 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ Your friend was to remain where he was!
+L55787 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Swell!
+L55785 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ - for horrors like yourself?
+L55784 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ My mission is to study various solar systems, and planets - select the most suitable for colonization -
+L55777 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Tell me something:  Why can <u>I</u> hear you, when the others couldn't?
+L55776 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ Point of view is everything. To us, <u>your</u> form of life is ugly as we appear to you.
+L55775 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ That's a <u>face</u>???
+L55765 +++$+++ u135 +++$+++ m9 +++$+++ REEF +++$+++ Come where?
+L55764 +++$+++ u136 +++$+++ m9 +++$+++ SAUCER VOICE +++$+++ Remove your weapons, Commander. And come here - alone!
+L55829 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ All right - go to it.
+L55828 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ Cyclops will have to linger at the Pole to recharge his power banks.
+L55719 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ Toward the Pole!
+L55718 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ Due north.  At five knots...no, six!
+L55555 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ But <u>answers</u> are what we need - not more questions!
+L55554 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ We've asked ourselves that - over and over - a thousand times.
+L55549 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ Or, perhaps, until he gets us?
+L55548 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ You plotted the course of Cyclops?  Then that's <u>our</u> course!  Wherever <u>he</u> goes, <u>we</u> go.....until we get him!
+L55532 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ Our 'Cyclops' throws quite a thunderbolt, itself!
+L55531 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ Just musing about our 'one-eyed adversary' and the legend of Homer.  'Cyclopes' were the Sons of Heaven, who forged the thunder- bolts thrown by Zeus.
+L55519 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ I'll be another!
+L55518 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ Well, I'll be - !
+L55482 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ The pattern.  Each incident occurred almost precisely a thousand statute miles from the Pole.  A line through the points of occurrence makes almost a complete circle...
+L55481 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ See what?
+L55367 +++$+++ u137 +++$+++ m9 +++$+++ SIR IAN +++$+++ Thank you.
+L55366 +++$+++ u138 +++$+++ m9 +++$+++ WENDOVER +++$+++ My yeoman will show you to your quarters.
+L12762 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ All the figures show is that Gordon LaRiviere is going to be a very rich man using his position as Selectman. In a year or two, you won't recognize this town.
+L12761 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ He musta found out. They had to get rid of him. And Jack'll get blamed.
+L12760 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ No.
+L12759 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Twombley involved?
+L12758 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ I went down to Concord to check it out. The president is Mel Gordon. The vice-president and treasurer is Gordon LaRiviere. Those boys are buying up the mountain, Wade. $364,000 this year. I believe that's out of LaRiviere's league.
+L12757 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What is the Northcountry Development Association?
+L12756 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ This is from three years ago. Some difference, huh?
+L12754 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ As a mater of fact, yes. LaRiviere.
+L12753 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Has anybody offered to buy it?
+L12752 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I know he's due for the last two years. I was thinking of paying it when the insurance comes in.
+L12751 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ About Jack? No. Have you checked out the tax bill on your father's farm lately?
+L12750 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You don't believe me?
+L12749 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Sometimes things are simpler than you think. Let me ask you a question.
+L12748 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ ...if Jack told the truth, he could be free by the time he's my age.
+L12747 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You know Jack Hewitt, the kid I work with?
+L12746 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Who?
+L12745 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Evan Twombley, the union boss who got shot. Somebody murdered him.
+L12744 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Who?
+L12743 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ This is maybe worse than you and I are used to.  What I'm talking about, I'm talking about murder. Among other things.
+L12742 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Always has been.
+L12741 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Alma, I think there's some dirty business going on in this town.
+L12740 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Well, you look... sad. Upset. I don't mean to pry. I'm sorry about your mother. It was a nice funeral.
+L12739 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah, sure. Why? I got this damned tooth, I got a few things bugging me, like everybody else. But I'm okay.
+L12738 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Are you alright, Wade?
+L12737 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ No. Black.
+L12736 +++$+++ u139 +++$+++ m10 +++$+++ ALMA +++$+++ Been putting my files into it. You take sugar and milk?
+L12735 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You got yourself a computer, Alma.
+L12780 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ He's a Selectman. The town. He said to tell you to turn your badge in and clean out your office. I'm supposed to pull the CB and police light out of your car. They're town property.
+L12779 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ He can't fire me. LaRiviere already did that this morning.
+L12778 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ Chub says you're fired.
+L12777 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Tell me.
+L12776 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ LaRiviere says he ain't gonna pay for the fixin' of your car. A couple hundred for the clutch. I got some more bad news. Wanna hear it?
+L12775 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah. I know about that.
+L12774 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ -- the bad news is there's a problem with Gordon's truck what somebody drove through the ice last night. Figured you'd know something about that, Wade.
+L12773 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Just tell me when you'll have it fixed.
+L12772 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ The good news is we haven't got to your car yet. The bad news --
+L12141 +++$+++ u140 +++$+++ m10 +++$+++ CHICK +++$+++ Same old shit.
+L12140 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ What are you boys up to?
+L12680 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yeah. I know. The custody suit thing was just my getting back at her. I'm not as dumb as I look. Whatever you say. I love my daughter.  I'll send you the five hundred.
+L12679 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ You might be better off legally as well as financially to just go for the --
+L12678 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Oh.
+L12677 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ Hard to say. If we go for custody, depositions, psychiatric evaluations, it could drag on. Ten or twelve thousand dollars. She could win on appeal. If we just want to get the visitation rights redrawn, assuming they're unduly restrictive, it wouldn't be more than twenty-five hundred.
+L12676 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Jesus. How much... how much will the whole thing cost?
+L12675 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ Fine. I'll need a $500 retainer. You can mail it.
+L12674 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Yes.
+L12673 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ No, not exactly. I'll look at the divorce decree, see if we can get it redrawn. Interview your daughter. Jill, right?
+L12672 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ It looks pretty hopeless, don't it?
+L12671 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ Good. It would help if there were some drug or alcohol abuse on the part of your ex-wife. Sexual problems upsetting to the child.
+L12670 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ This spring.
+L12669 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ How soon?
+L12668 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I plan to. Soon.
+L12667 +++$+++ u141 +++$+++ m10 +++$+++ HAND +++$+++ It would help if you were married, if there was someone at home while you work.
+L12666 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I screwed up the divorce. I agreed with everything she said. I wanted her to like me. I just want to be a good father.
+L12733 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ That was me.
+L12732 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ We bought you.
+L12731 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ You can't buy Wade off.
+L12730 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Maybe I can buy him off. I gotta talk to Mel.
+L12729 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Shit! What are we gonna do?
+L12728 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ He's on to us!
+L12402 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ No, of course not. Just say it, that's all.
+L12401 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Lawyer? I don't need no lawyer, do I?
+L12400 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You'll get your money. Don't talk to any newspapers about this. Twombley's a big deal down in Massachusetts, you know. Tell them your lawyer says you shouldn't comment.
+L12399 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Not exactly. I mean, he never paid me.
+L12398 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ Might as well take the rest of the day off. You look sort of fucked up. You've been paid for the day, anyhow, right?
+L12390 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ This is gonna be one fucking mess to clean up. Twombley's son-in-law and daughter are up the weekend. Didn't you say you'd seen him, Wade?
+L12389 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Nope. Heard it. We wasn't far apart. I spotted this buck, then I heard the gun go off and Twombley was gone. I looked over the little cliff we was using for a stand and there the fucker was, deader'n shit. Called it right in.
+L12388 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ You see it?
+L12381 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Yeah.
+L12380 +++$+++ u144 +++$+++ m10 +++$+++ LARIVIERE +++$+++ I hear Twombley got shot.
+L12379 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ You heard the news.
+L12300 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ You only got a little while if you want your hundred bucks.
+L12299 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Fresh tracks.  Deer shit. Big one. Here's your buck, Mr. Twombley. I'll circle around.
+L12284 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Deers have ears too.
+L12283 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Sun's gettin high.
+L12282 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ This way.
+L12281 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Yeah.
+L12280 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Safety on?
+L12278 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Ruined my arm. Brought me along too fast. Why'd it have to be my fucking arm, I used to think. Then I realized it had to be somebody's fucking arm.
+L12277 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ What happened?
+L12276 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ The only difference between me and that Clemens on TV is luck, shit luck.
+L12275 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Hmm.
+L12274 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ They said.
+L12273 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Really.
+L12272 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Pitcher. "Best ballplayer to come out of New Hampshire since Carlton Fisk."
+L12271 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Oh.
+L12270 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Double A. New Britain.
+L12269 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ You played for the Sox?
+L12268 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Drafted by the Red Sox.
+L12267 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Yeah?
+L12266 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ I used to play ball.
+L12265 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Follow close. We'll cross the next meadow.
+L12264 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ I'm okay.
+L12254 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Wonderful!
+L12253 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ And you'll get your extra hundred bucks.
+L12252 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ I get it.  No sweat. You'll get yourself a deer and you'll get him dead. And you'll have him by coffee time.
+L12251 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ You understand what I'm saying? I want a deer, a dead one, not a cripple or whatthefuck.
+L12250 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Mmm.
+L12249 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ You take care of your end, kid, I'll take care of mine.
+L12248 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ You might gut-shoot it or cripple it for somebody else to find and tag. Can't guarantee that won't happen, especially with a new gun. I may have to shoot it.
+L12247 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ You think so.
+L12246 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ You might not kill it.
+L12245 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Yeah.
+L12244 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ If you get it?
+L12243 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Tell you what. You get me close to a big buck by ten, kid, there's another hundred bucks in it.
+L12242 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Done much shooting with that rifle yet?
+L12241 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Damn straight!
+L12240 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Yep. Right about now the does are holing up in the brush piles. The bucks are right behind them and we're right behind the bucks.  This gun gets fired before ten o'clock. Whether it kills a deer or not is more less up to you. I'll put you inside 30, 35 yards of a buck the first four hours of the season. That's what you're paying me for, ain't it?
+L12239 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ Guaranteed, eh?
+L12238 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Don't worry, Mr. Twombley, I know where those suckers are. Rain or shine, snow or no snow. I know deer. We'll kill us a buck today. Guaranteed. Before ten.
+L12237 +++$+++ u153 +++$+++ m10 +++$+++ TWOMBLEY +++$+++ It's not enough snow, not for tracking the bastards. No advantage there, kid.
+L12661 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ What do you mean I got money? I'm as broke as you.
+L12660 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I mean it -- you got enough money now. Head out for California. Surf's up, Jack, and you're digging wells in the snow.
+L12659 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Open the door. We're late.
+L12658 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Why don't you quit now, you want out so bad?
+L12657 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Open the door, will ya?
+L12656 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Out of this fucking job. This job sucks. Working outside in the winter sucks.
+L12655 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Lawford?
+L12654 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ I'm fucking out of here.
+L12428 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ He sure as hell won't.
+L12427 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Twombley sure as hell won't be shooting it again.
+L12426 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Yeah.
+L12425 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ There's your old twenty-gauge, and that there's the new Browning you was showing me last night. This must be Twombley's gun. Brand new. Very fancy tooling. Probably fired one time. It's a beautiful piece of work.  But what the hell, Jack, I guess you deserve it. Right's right.
+L12424 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Let's get the fuck outta here. You're not making any sense, man.
+L12423 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You musta seen him get shot. I know you did.
+L12422 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ What the fuck you telling me, Wade? I never seen the guy get shot, I told you that.
+L12421 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Saw him do it?
+L12420 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ What?
+L12419 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Sure you did.
+L12418 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Well, I didn't actually see him do it. Like I said.
+L12417 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I never seen a man shot before. Not even in the service. Must be something.
+L12416 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Who the fuck knows? Musta slipped or something. I just heard the gun go off.
+L12415 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ I gotta make a report to Fish and Game. I was just wondering, that's all. What'd he do, to shoot himself, I mean?
+L12414 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Musta... How'd I know? What're you doing, playing cop?
+L12413 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ On your sleeve.
+L12412 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ What blood?
+L12411 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Where'd you get the blood?
+L12410 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Yeah.
+L12409 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You stayed away?
+L12408 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ The ambulance guys lugged him up.
+L12407 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ You bring him up yourself? That's a steep climb.
+L12406 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ A half mile in, along the old lumber road.
+L12405 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ No, I mean whereabouts.
+L12404 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ In the chest.
+L12403 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Where'd Twombley get shot?
+L12204 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Piece of fucking cake.
+L12203 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Aw, shit, she's here to get Jill. Me and Jill had a little argument. Jack, I got to get back, get back to town. Move this thing, will you? See if you can get back to the Town Hall before they get there, okay?
+L12198 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Shit.
+L12197 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Bastard's got his high beams on.
+L12196 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Right!
+L12195 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Yeah, he'd go broke tomorrow if you quit him.
+L12194 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Right. The sonofabitch couldn't get along without me.
+L12193 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Like you and Gordon?
+L12190 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Gordon, he's always got some angle working. He wants to keep Twombley happy, I'm his boy.
+L12189 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ How'd you get the job?
+L12188 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Don't know about lucky. The guy's a full-blown asshole. Pay's good, though. $100 a day. I got to guarantee a kill, of course. Which I can do. There's some monster bucks hiding out up there.
+L12187 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Evan. He's a mucky-muck union official from Massachusetts. You're lucky.
+L12186 +++$+++ u142 +++$+++ m10 +++$+++ JACK +++$+++ Got a job first thing in the morning, first day of season. Saturday I'll hunt for myself. Twombley something. - Er --
+L12184 +++$+++ u154 +++$+++ m10 +++$+++ WADE +++$+++ Not here.

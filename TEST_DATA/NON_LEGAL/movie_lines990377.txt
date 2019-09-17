@@ -1,0 +1,200 @@
+L565155 +++$+++ u8062 +++$+++ m546 +++$+++ RITA +++$+++ Sidney, can I talk to you a minute?
+L565154 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You're sure.  Find out for me.
+L565153 +++$+++ u8062 +++$+++ m546 +++$+++ RITA +++$+++ I don't think so.
+L565152 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I've been up to here.  Listen, honey, tell me something.  You know Susan Hunsecker...?  Has she been in?  I mean lately, in the last coupla days...?
+L565151 +++$+++ u8062 +++$+++ m546 +++$+++ RITA +++$+++ Don't you ever get messages, Eyelashes?  I called you twice.
+L565684 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ If you want me to -
+L565683 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Stay down town tonight.  Maybe we'll take in a show, etc.
+L565682 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Or what you see in me, for that matter...
+L565681 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ That's no way to talk...
+L565680 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ I swear, Sidney, I can't help it - sometimes I wonder what I see in you...
+L565678 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Don't judge a situation where you don't know what's involved...
+L565677 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ I know you do, Sidney.
+L565676 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I put a lotta trust in you, Chickie...
+L565675 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Yes.
+L565674 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Did you send my folks in Philly the check...?
+L565671 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Nothing...
+L565670 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ What's the matter?
+L565149 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ And leave a tip in every hat-check room in town?
+L565148 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Take a top coat.
+L565147 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ If that's for me, tear it up!
+L565146 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ No.  You think I'm a hero.  I'm no hero.  I'm nice to people where it pays me to be.  I gotta do it too much on the outside, so don't expect me to kow-tow in my own office.  I'm in a bind right now with Hunsecker so --  Every dog has his day!  Lock up and leave the key.
+L565145 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ I'm used to you...
+L565144 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You ought to be used to me by now.
+L565143 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Sid...you got me so...I don't know what...
+L565142 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ So what'll you do if I feel nervous? You'll open your meaty, sympathetic arms...?
+L565141 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Sidney, please, dear, if you feel nervous...
+L565140 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You mean you don't want the extra free gift of a colorful giant map of the world???
+L565139 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ Sidney, I know you by now.  Don't do a dance with me...
+L565138 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Yes, but as a new subscriber you're under no obligation to take more than three books.  And if you mail the enclosed card within ten days --
+L565137 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ I hate to see you like this --
+L565136 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Go home, Sally.  It's late...
+L565135 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Help me with two minutes of silence!
+L565134 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ I wish I could help in some way, Sidney.
+L565129 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ It won't leave much of a balance in the bank...  Mr. Robard?  Could you locate him?
+L565128 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Pay the rent.  Let the tailor wait.
+L565127 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ The renting agent and the tailor.
+L565126 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Who else phoned?
+L565124 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ May I rent you out as an adding machine.
+L565123 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ That makes five days in a row that Mr. Hunsecker's cut you out of his column.
+L565122 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ But what?
+L565121 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ But...
+L565120 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ It isn't.  I've just seen the early edition.
+L565119 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ No, an arm, he said.  I told him you were sure the item would be in Mr. Hunsecker's column in tomorrow's...
+L565118 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ He wants me to break a leg?
+L565117 +++$+++ u8063 +++$+++ m546 +++$+++ SALLY +++$+++ That's the third time he's called today.
+L565823 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Why don't we hear what Susie has to say?
+L565822 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Give him credit---the boy's gall is gorgeous!
+L565791 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Don't you think it's about time you shut yours?  Who are you to tell a man like Frank D'Angelo to shut up?!
+L565790 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Frank, you don't listen!  J.J. just told you to shut your mouth!
+L565652 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Well, I'll tell you what - excuse me for breathing, will ya?  How do you like it?  He comes to my office and -
+L565651 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ You're talking very fast.
+L565650 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ According to you, yeah.  Dallas, your mouth is as big as a basket and twice as empty!  I don't like you, comma, but neither do I go along with this column saying you smoke marijuana and belong with the Reds.  Also, since we're talking repulsive, J.J. won't like this for two cents!  Don't give me that look, Dallas - J.J. believes in fair play.  And secondly, this could splatter his sister with rotten egg by implication - your her boyfriend!
+L565649 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ It is a favor, isn't it?
+L565648 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Dallas, ask your own manager - he's standing here like a pained wolfhound - Hunsecker and Elwell are enemies to the knife.  So how do you get him doing J.J. a favor?
+L565647 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Only two men in this town could be responsible for that smear - you or Hunsecker or both.
+L565646 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ That's your idea of logic?  I tell the Judge I didn't murder the man - the Judge says, "Why not you?"
+L565645 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Why not you?
+L565644 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Why me...?
+L565641 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Frank thinks I shouldn't have come here -
+L565640 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ It's a habit with me.  So now I'm briefed.  So what?
+L565226 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Begging your pardon, I haven't been down the bowery in years!
+L565225 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I'm feeling too good to fight with you, but that isn't what I said - I said you snoop.  For instance, what were you doing around my hotel the other night?
+L565219 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Well, thanks, anyway - let's forget it.  It's cold out here, Susie.
+L565218 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Where's those glossy prints you promised?  Tonight's the latest I can place them -
+L565635 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ You tell him, I stutter!
+L565634 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ And it would cost a pretty penny, huh?
+L565631 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ See me in my office.
+L565630 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ Speak to this lad, Al, ... to Mr. Falco.
+L565629 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ If there's a funnier man in the world than Herbie Temple at the Palace...uh...pardon us for not catching the name, we were too busy laughing.  No, make that 'screaming'.  It's sweet of you, J.J., thanks. Probably see you at Twenty One tonight.  No, for supper, late. Right. 'Bye...
+L565613 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ Good!  We're all off to Utica, so excuse me, Mr. Frannis-on-the- Portisan.
+L565612 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ No, I don't mind.  I'm busy too.
+L565610 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ Cheers.  What time is it, Al?
+L565609 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ - and I just had to drop by and tell you how great I thought you were.
+L565608 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ Did you now?  On which bounce?
+L565607 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Temple, I caught your act the other night and -
+L565606 +++$+++ u8068 +++$+++ m546 +++$+++ TEMPLE +++$+++ You watch him, Al, I s...s...stutter!
+L566037 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Don't explain, Sidney... It doesn't matter now...
+L566036 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ J.J., if you think -
+L566028 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Please, Sidney, I can't stand this -
+L566027 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Don't run away - I was always the man for you!  I'm talking to you out of two years of silence - listen to what I say!  Inside of six months -
+L566026 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ ...but you did it for greed, Sidney - and that's pathetic.
+L566025 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I didn't do anything!
+L566024 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I could almost forgive you if what you did to Steve came from jealousy and love...
+L566023 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I know that bit - you're a girl; you need a man to give you strength! So what do you pick such weak sisters for?  Don't you know yet that you fight fire with fire, not with tear drops?
+L566022 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I'm not a man, Sidney, I'm -
+L566021 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Yeah!  Like me!  I don't choke on my own gall - I fight back!  Let THEM choke, not me!
+L566020 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Like you?
+L566019 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Susie, whatever problems you have with J.J. - I didn't invent them! What're you blaming me for?  If you learned to let out your hatred you would be better off!
+L566014 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ What ship?
+L566013 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ And I'm sorry for you, too, Sidney. You're going down with the ship.
+L566012 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Come on now, chickie, why don't you go to bed...?
+L566011 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I'm sorry about Steve, not myself. I'm even sorry for my brother.  To be so lonely, without one real friend in the world - to have to hang on to a worthless rag of a girl like me because she's his only real family -
+L566010 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Listen, get a good night's sleep - tomorrow's another day.  Feeling sorry for yourself won't help.
+L565282 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ But I don't need an uncle, Sidney.
+L565281 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ It's not my nature, Susie, but I'll talk to you like an uncle...
+L565278 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Why should he put on an act?  Your brother has told PRESIDENTS where to go and what to do!
+L565277 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I hope that J.J. really likes Steve, that it isn't an act.
+L565276 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Chickie, I'll have to laugh at that - an attractive girl like you...!
+L565275 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ It's given me a big lift to know that some people want me for myself, not just because I'm my brother's sister.
+L565269 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Frankly, yes, to my surprise.  He thinks he's very gifted - those boys'll go a big mile, he thinks.
+L565268 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Do you think J.J. likes Steve...?
+L565267 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Who could love a man who keeps jumping through burning hoops, like a trained poodle?
+L565266 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Where do you come off to make a remark like that?
+L565262 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Well, for one thing, he thinks J.J. is some kind of monster.
+L565261 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Yes, but why?
+L565260 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ We stick in each others craw.
+L565259 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Not to me.  Sometimes, the world feels like a cage.  Then someone comes along and opens the door...and it's never Monday night again...  I wish you and Steve could like each other.
+L565258 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Feels like a Monday night, don't it...?
+L565257 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I wasn't looking for a brawl.  I came to bring him a present.  Wanna bite to eat?
+L565256 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ You're touchy, Sidney - don't be so touchy...
+L565299 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ If you're funny, James, I'm a pretzel!  Drop dead!
+L565298 +++$+++ u8069 +++$+++ m546 +++$+++ WELDON +++$+++ He's intuitive - he knows he's getting fired!
+L565297 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ No more you don't!  What is this - You're showing off for her?  They're supposed to hear you in Korea?
+L565294 +++$+++ u8069 +++$+++ m546 +++$+++ WELDON +++$+++ That was two months ago.  Take your hand out of my pocket, thief!
+L565293 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Listen, when your band was playing at Roseland -
+L565292 +++$+++ u8069 +++$+++ m546 +++$+++ WELDON +++$+++ Joan, call a cop!  We'll arrest this kid for larceny!
+L565291 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Jimmy, I'm on my way inside right now to talk to Hunsecker.  I can promise you -
+L565290 +++$+++ u8069 +++$+++ m546 +++$+++ WELDON +++$+++ What do you do for that hundred a week.  Fall out of bed?
+L565289 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ I tried to reach you twice -
+L565288 +++$+++ u8069 +++$+++ m546 +++$+++ WELDON +++$+++ Yeah.  A coincidence you should run into the very man you've been ducking all week!  This is my press agent, Joan.
+L565287 +++$+++ u8065 +++$+++ m546 +++$+++ SIDNEY +++$+++ Jimmy!  This is a coincidence.  I am just going -
+L565936 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ You are saying goodbye, aren't you...?
+L565935 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Not what you're doing now.  At least don't ask me - don't ask him. You're fighting for your life! What do YOU want to do?
+L565934 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, I feel exhausted...what do you want me to do?
+L565932 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I told your brother I couldn't be his accomplice.  I can't be yours either, Susie, and encourage him to go on pulverizing you.  I know what type - he's my old man all over again!
+L565931 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ But, please, Steve, please - one step at a time!  I was born only yesterday!...
+L565930 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ No!  I'm saying that for your sake you have to make a clean break with your brother!
+L565928 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ But I don't care about that now. He knew what he was doing today. He was laying down the conditions under which he MIGHT consent to our marriage - if I would bend to every whim of his, like Sidney!  I couldn't do that, Susie...
+L565927 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, I...
+L565926 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Susie, I was there for OUR sake, too.  But what a world it would be if we were all afraid to learn to walk and talk because it might offend poppa!  By the way, I think your brother was completely responsible for the smears...
+L565925 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I just didn't think that I could antagonize him, Steve -- for OUR sake, I mean.
+L565924 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ But you didn't do much about it, Susie.  You walked out, and there I was...solo...and not too good at that.
+L565923 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ No one's ever stood up to my brother the way you did.
+L565922 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Well, maybe I was wrong, too... But there's no doubt, Susie, that we have to face some serious things...
+L565921 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve...what you tried to do today...you tried to take me up on a high mountain...I couldn't go all the way...I failed you...  Will you forgive me?  Have I lost you, Steve?  Have I...?
+L565914 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Would you buy me a cup of coffee? In there...
+L565913 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ Why did you call me?
+L565912 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Hello, Steve.  I'm glad you could come.
+L565222 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, stop it please...
+L565221 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I get the feeling, Falco, that you're always snooping around...
+L565216 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ No, you had me eating that Chinese food!...
+L565215 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I made you write a beautiful song...
+L565214 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ And on Tuesday - Hasenpfeffer. STEVE  How do you think I realized I love you?
+L565213 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ And on Monday, I'll take it off and stroke your light brown hair and -
+L565212 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ If the stores are open -
+L565211 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ I have a message for you; I love you.  May I dedicate the next number to you?...And the next, and the next. Every Sunday I'll buy you a new bonnet -
+L565210 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, dear, please forget all of this.  What can it matter after tomorrow?
+L565209 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ But he could be reporting back to your brother, couldn't he?
+L565208 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Darling, I don't care - really I don't.  Sidney'd had a secret crush on me for years, but nothing we do is his business -
+L565207 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ His stooge, Falco, is around - I saw him walk in.  He's been spying on me for weeks, Susie.
+L565205 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ But he isn't going to like this, Susie.  And he makes you nervous, not me.  No, I take that back - he makes me nervous, too.  But I wouldn't give him a second thought if not for you.
+L565204 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, my brother isn't as bad as he's painted.  He isn't perfect, but -
+L565201 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ I'm telling him in the morning after breakfast.
+L565200 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ You haven't told him yet...
+L565199 +++$+++ u8067 +++$+++ m546 +++$+++ SUSAN +++$+++ Steve, I'd rather you didn't say anything for a day or two...until I tell my brother...
+L565198 +++$+++ u8066 +++$+++ m546 +++$+++ STEVE +++$+++ This is big, you know.  Very big! Let's go out later, drink some firewater.  With the boys.  Fred can call Millie and -
+L567649 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ That's right!  There's no way I'm going to finish the new processor now.  Forget it.  I'm out of it.  I'm quitting Cyberdyne tomorrow... I'll sell real estate, I don't care,,,
+L567648 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ But I thought... aren't we changing things?  I mean... right now?  Changing the way it goes?
+L567552 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ Why did you marry me, Miles?  Why did we have these two children?  You don't need us.  Your heart and your mind are in here.  But it doesn't love you like we do.
+L567551 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Imagine a jetline with a pilot that never makes a mistake, never gets tired, never shows up to work with a hangover.  Meet the pilot.
+L567550 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ I'm sorry, honey, it's just that I'm thiiis close.
+L567549 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ I know.  You told me.  It's a neural-net processor.  It thinks and learns like we do. It's superconducting at room temperature. Other computer are pocket calculators by comparison.  But why is that so goddamn important, Miles? I really need to know, 'cause I feel like I'm going crazy here, sometimes.
+L567548 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Baby, this thing is going to blow 'em all away. It's a neural-net process --
+L567547 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Oh.  I can't, honey.  I'm on a roll here.
+L567546 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ Miles, it's Sunday.  You promised to take the kids to Raging Waters today.
+L567545 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ I can't
+L567544 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ You need a break.  You'll see it clear when you come back.
+L567543 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ ... but the output went to shit after three seconds.  I'm thinking now it's the way I'm matrixing the command hierarchies...
+L567542 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ I'm sorry, baby.  This thing is just kicking my ass.  I thought we had it with this one...
+L567541 +++$+++ u8076 +++$+++ m547 +++$+++ TARISSA +++$+++ You going to work all day?
+L567681 +++$+++ u8074 +++$+++ m547 +++$+++ SARAH +++$+++ NO!! We're going all the way!  You got that, Dyson?
+L567680 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ We should abort.
+L567662 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ I was scary stuff, radically advanced.  It was shattered... didn't work.  But it gave us ideas, It took us in new directions... things we would never have thought of.  All this work is based on it.
+L567661 +++$+++ u8074 +++$+++ m547 +++$+++ SARAH +++$+++ Those lying motherfuckers!
+L567660 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ They told us not to ask where they got it.  I thought... Japan... hell, I don't know.  I didn't want to know.
+L567657 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ They have it in a vault at Cyberdyne...  It's gotta be from the other one like you.
+L567656 +++$+++ u8074 +++$+++ m547 +++$+++ SARAH +++$+++ What chip?
+L567655 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Do you know about the chip?
+L567629 +++$+++ u8074 +++$+++ m547 +++$+++ SARAH +++$+++ Shut up!  SHUT UP!!  Motherfucker!  It's all your fault!  IT'S YOUR FAULT!!
+L567628 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Please... let... the kids... go...
+L567685 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ Let me try mine.
+L567684 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ No good.
+L567653 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Alright, yeah.  You're right.  We have to destroy the stuff at the lab, the files, disk drive... and everything I have here.  Everything! I don't care.
+L567652 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ No one must follow your work.
+L567651 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ Look, whatever you want me to do, I'll do.  I just want my kids to have a chance to grow up, okay?
+L567642 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ Now listen to me very carefully.
+L567641 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ My God.
+L567638 +++$+++ u8071 +++$+++ m547 +++$+++ DYSON +++$+++ In the bathroom.  Danny, can you get them for us?
+L567637 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ Do you have bandages?
+L567759 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ I order you not to!
+L567758 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ It must end here... or I am the future.
+L567757 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ Don't do it.  Please... don't go --
+L567756 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ I have to go away, John.
+L567755 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ No, no no!!  It'll be okay.  Stay with us!
+L567754 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ I'm sorry, John.
+L567753 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ No!
+L567748 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ Yes.  Throw it in.
+L567747 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ Will it melt in there?
+L567746 +++$+++ u8077 +++$+++ m547 +++$+++ TERMINATOR +++$+++ Terminated.
+L567745 +++$+++ u8072 +++$+++ m547 +++$+++ JOHN +++$+++ Is it dead?

@@ -1,0 +1,200 @@
+L545659 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ In a way, he was as close as I ever came to having a child of my own.
+L545658 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ It's only natural to feel a heightened sense of tragedy when a child dies.  But it goes deeper than that, doesn't it? I can sense that Rene meant a great deal to you.
+L545657 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ What I can't get out of my mind is the image of Rene- my nephew. I just can't believe he's gone.
+L545656 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Captain, Im sorry.  I know there were a lot of unresolved conflicts between you and your brother.
+L545654 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ All right, all right. You've made your point.
+L545653 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Very well. I suppose I could make out my weekly report to Starfleet Command without your input.  "Admiral Lusby, regarding the unusual behavior of Jean-Luc Picard: I find him increasingly irritable, remote and uncooperative. I recommend forced shore leave at a Starbase facility in order to-"
+L545652 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Well, with all due respect to your Betazoid senses, I prefer to be alone right now.
+L545651 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ You can't fool an empath, Captain. I know exactly when I'm needed.
+L545650 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ As ship's counselor, it's your duty to know not only when you're needed but also when you're not.
+L545649 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ I'm afraid I can't just leave it at that. The commanding officer of this ship is clearly distraught about something. As ship's counselor, it's my duty to-
+L545648 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Well, I appreciate your concern, but I'd rather not discuss it right now, thank you.
+L545647 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Actually, I'm here to see if there's anything I can do for you.
+L545646 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Counselor. What can I do for you?
+L545532 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Yes. Fine. If you'll excuse me.
+L545531 +++$+++ u2910 +++$+++ m191 +++$+++ TROI +++$+++ Captain, are you all right?
+L545884 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Thank you.
+L545883 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Careful, Captain. That's a fifty gigawatt forcefield. I wouldn't want to see you get hurt.
+L545880 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Time has no meaning there. The predator has no teeth.
+L545879 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ The Nexus.
+L545878 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ What if I told you I found a new truth?
+L545877 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ We're all mortal, Soran. It's one of the truths of ou existence.
+L545867 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Not if it means killing over two hundred million people.  I wonder, did your wife Leandra know that she married a man who was capable of mass murder?
+L545866 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ I've spent eighty years looking for another way, Captain. This is the only one.  Of course, you could always come with me. You fancy yourself an explorer. Here's a chance to explore something no human has ever experienced.
+L545856 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ The only possible reason you're here is because you're not entirely confident you can shoot down my probe after all. So you've come to dissuade me from my horrific plan.  Good luck.
+L545855 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ The thought had crossed my mind.
+L545854 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ You must think I'm quite the madman.
+L545604 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ We're doing the best we can. Now if you'll excuse me...
+L545603 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ The timing is very important on my experiment- if it is not completed within the next twelve hours, years of research will be lost.
+L545602 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Doctor, we're still conducting an investigation into the attack. Once we've completed our work, we'll be happy to allow you and your fellow scientists back aboard the observatory. Until then-
+L545601 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Yes. I need to return to the observatory immediately. I must continue a critical experiment I was running on the Amargosa star.
+L545600 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Nothing for me.  I understand there's something urgent you need to discuss with me.
+L545599 +++$+++ u2909 +++$+++ m191 +++$+++ SORAN +++$+++ Yes, yes, Captain. Thank you for coming.
+L545598 +++$+++ u2906 +++$+++ m191 +++$+++ PICARD +++$+++ Doctor Soran?
+L545909 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ We're only going to get one shot at this. Target their primary reactor. With any luck, their warp core should implode.
+L545908 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ Aye, sir.
+L545907 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Worf, prepare a spread of photon torpedoes. We'll have to hit them the instant they begin to cloak.
+L545905 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Right. And they'll be vulnerable for at least two seconds.  Data,lock onto that plasma coil.
+L545904 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ As their cloak begins to engage, their shields will drop.
+L545900 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ I do not see how. The plasma coil is part of their cloaking device.
+L545899 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Plasma coils...is there any way we can use that to our advantage?
+L545898 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ It is a Class D-12 Bird of Prey. They were retired from service because of defective plasma coils.
+L545894 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Lock phasers and return fire!
+L545893 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ They have found a way to penetrate our shields.
+L545708 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Lursa and B'Etor? This doesn't make any sense. A renowned stellar physicist somehow uses a trilithium probe to destroy a star, kidnaps Geordi and escapes with a pair of Klingon renegades. Why? What the hell's going on?
+L545707 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ I have spoken to the Klingon High Council, sir. They identified the Bird of Prey as belonging to the Duras sisters.
+L545674 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ The star's going to collapse in a matter of minutes.
+L545673 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ Sensor records show a solar probe was launched from the observatory a few moments ago.
+L545612 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ Aye, sir.
+L545611 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Have Geordi and Data go over with the next Away Team. Tell them to scan the observatory for trilithium.
+L545610 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Why were they looking for it on a Federation observatory? It doesn't make any sense.
+L545609 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ An experimental compound the Romulans have been working on. In theory, a trilithium-based explosive would be thousands of times more powerful than an anti-matter weapon. But they never found a way to stabilize it.
+L545608 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Trilithium?
+L545607 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ One of the dead Romulans had a tricorder. We analyzed its sensor logs and found they were scanning for signature particles of a compound called trilithium.
+L545549 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ Well, that narrows it to Klingon, Breen or Romulan.
+L545548 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ These blast patterns are consistent with Type III disruptors.
+L545542 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ There are no other ships in the system.
+L545541 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ It looks like we're too late.
+L545536 +++$+++ u2907 +++$+++ m191 +++$+++ RIKER +++$+++ You see the top yardarm, now look to the-
+L545535 +++$+++ u2911 +++$+++ m191 +++$+++ WORF +++$+++ The royal...studs?
+L535048 +++$+++ u2927 +++$+++ m192 +++$+++ STYLES +++$+++ Execute!
+L535047 +++$+++ u2912 +++$+++ m192 +++$+++ 1ST OFFICER +++$+++ Transwarp at your command, Sir!
+L535039 +++$+++ u2927 +++$+++ m192 +++$+++ STYLES +++$+++ If he tries to get away with Warp Drive, he's really in for a shock...
+L535038 +++$+++ u2912 +++$+++ m192 +++$+++ 1ST OFFICER +++$+++ Tractor beam, aye!
+L535037 +++$+++ u2927 +++$+++ m192 +++$+++ STYLES +++$+++ And we are gaining... Stand by, tractor beam!
+L535036 +++$+++ u2912 +++$+++ m192 +++$+++ 1ST OFFICER +++$+++ Enterprise maintaining full impulse power...
+L535028 +++$+++ u2927 +++$+++ m192 +++$+++ STYLES +++$+++ Incredible machine. Helmsman, one-quarter impulse power.
+L535027 +++$+++ u2912 +++$+++ m192 +++$+++ 1ST OFFICER +++$+++ All automates ready and functioning. Automatic moorings retracted. All speeds available through transwarp drive.
+L535026 +++$+++ u2927 +++$+++ m192 +++$+++ STYLES +++$+++ Status!
+L534663 +++$+++ u2931 +++$+++ m192 +++$+++ WOMAN +++$+++ Soon, Captain... Quite soon.  
+L534662 +++$+++ u2913 +++$+++ m192 +++$+++ CAPTAIN +++$+++ What's going on? When do we get paid off...?
+L534648 +++$+++ u2913 +++$+++ m192 +++$+++ CAPTAIN +++$+++ Sure - whatever games you wanna play.
+L534647 +++$+++ u2931 +++$+++ m192 +++$+++ WOMAN +++$+++ Put me on the hailing frequency.
+L534646 +++$+++ u2913 +++$+++ m192 +++$+++ CAPTAIN +++$+++ Don't give me your Klingon mumbo- jumbo -- there ain't another vessel in this whole damn quadrant.
+L534645 +++$+++ u2931 +++$+++ m192 +++$+++ WOMAN +++$+++ He has been here for some time. I can feel his presence.
+L534644 +++$+++ u2913 +++$+++ m192 +++$+++ CAPTAIN +++$+++ Steady... Steady, boys. Keep scanning...  I thought you people were reliable... Where the hell is he!
+L535160 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Scotty...?
+L535159 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Sir, the shields... Non- responsive.
+L535121 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Short range scan, Mr. Chekov... On screen, Mr. Sulu.
+L535120 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Nothing on my scanner, sir.
+L535113 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Could be Grissom.  Patch in the hailing frequency.  U.S.S. Grissom, this is Enterprise calling. Come in, please.
+L535112 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ For an instant... A scout class vessel.
+L535111 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What did you see, Chekov?
+L535110 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ I'd swear something was there sir, but I might have imagined it.
+L535093 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Bones... Can you give me a quadrant bi-scan?
+L535092 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Still no response, sir.
+L535084 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Keep trying, Chekov. At regular intervals.
+L535083 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Admiral, there is no response from the Grissom on any channel.
+L535081 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Aye, sir.
+L535080 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ What's Grissom up to?... Will they join us, or fire on us...?  Chekov, break radio  silence. Send my compliments to Captain Esteban.
+L535079 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Nothing. As before.
+L535078 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Response?
+L535077 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Sir, Starfleet calling Grissom again. A warning about us.
+L535076 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ You did great, Bones... Just great.
+L535041 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Scott, we need everything you've got now.
+L535040 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Excelsior closing to 4,000 meters, sir.
+L535019 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ No reply, Chekov... Continue on course...
+L535018 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Sir. Commander, Starfleet on emergency channel. He orders you to surrender this vessel.
+L535017 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Calm yourself, Bones.
+L534974 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Message acknowledged. All units will be informed.
+L534973 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Unit two, this is One. The Kobayashi Maru has set sail for the promised land. Acknowledge.
+L534875 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Yes. He has a long journey ahead.
+L534874 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Shall I alert Dr. McCoy?
+L534788 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ I can't get an answer. Starfleet is up to its brass in galactic conference. No one has time for those who only stand... and wait.
+L534787 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Will we get another ship?
+L534717 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ Yes, sir, I sealed the room myself. Nevertheless -- I am reading a life form there.
+L534716 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Chekov, I ordered Spock's quarters sealed!
+L534715 +++$+++ u2914 +++$+++ m192 +++$+++ CHEKOV +++$+++ An energy reading from 'C" deck -- from inside Mr. Spock's quarters...
+L534714 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ Mr. Chekov -- ?
+L534912 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ On screen.
+L534911 +++$+++ u2915 +++$+++ m192 +++$+++ COMM OFFICER +++$+++ Surge from astern, sir. Aft quarter!
+L534910 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Locate.
+L534909 +++$+++ u2915 +++$+++ m192 +++$+++ COMM OFFICER +++$+++ Sir... Something's jamming our transmission. An energy surge.
+L534682 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Wait a minute...! We don't know what we're talking about here...
+L534681 +++$+++ u2915 +++$+++ m192 +++$+++ COMM OFFICER +++$+++ Do you wish to advise Starfleet, sir?
+L534594 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Dr. Marcus, it's your planet.
+L534593 +++$+++ u2915 +++$+++ m192 +++$+++ COMM OFFICER +++$+++ Aye sir, coding now.
+L534691 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Thank you... <u>Sir</u>!
+L534690 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ All right -- get your gear. I'll put you down next time around.
+L534685 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Not from here, no.
+L534684 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Oh no you don't! Regulations specifically state: "nothing shall be beamed aboard until danger of contamination has been eliminated." Can you guarantee that?
+L534683 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Why don't we beam it up?
+L534676 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ What is it?
+L534675 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I don't believe it...
+L534613 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ In code to STARFLEET... Captain's Spock's tube located intact on Genesis surface. Will relay more data on subsequent orbits.
+L534612 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ It has to be. Gravitational fields were in flux... It must have soft landed...!
+L534611 +++$+++ u2917 +++$+++ m192 +++$+++ ESTEBAN +++$+++ Could it be Spock's?
+L535199 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I'm sorry, sir. Just don't surrender. Genesis doesn't work! I can't believe they'll kill us for it --
+L535198 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ David, I don't understand...
+L535197 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I went wrong.
+L535196 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ David!... What went wrong?
+L535195 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ It's okay -- I should have known you'd come... Saavik's right: this planet is unstable. It's going to destroy itself in a matter of hours.
+L535194 +++$+++ u2918 +++$+++ m192 +++$+++ KIRK +++$+++ David... Sorry I'm late.
+L535193 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Hello, sir. It's David.
+L535070 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ No!... I'll do it.  Give me your phaser.
+L535069 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ I'll go...
+L535068 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Whoever they are, they're getting closer.
+L535067 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I still don't...
+L535066 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Pon Farr. Vulcan males must endure it every seventh year of their adult life.
+L535065 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I don't understand.
+L535064 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ It will be hardest on Spock. Soon he will feel the burning of his Vulcan blood.
+L535063 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Days... Maybe hours... Protomatter has made the situation unpredictable.  I'm sorry.
+L535062 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ ... How long?
+L535061 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ The Genesis wave started a life clock ticking for him and the planet. But at the rate things are going now...
+L535060 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ And Spock with it. They are joined together.
+L535059 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ This planet is aging in surges.
+L534951 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ And how many have paid the price for your impatience? How many have died? How much damage have you done... And what is yet to come?
+L534950 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ If I hadn't, it might have been years -- or never!
+L534949 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ So, like your father, you changed the rules...
+L534948 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ My mother knew nothing about it. That's why I asked her to leave Genesis in my hands.
+L534947 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Did your collaborator know?
+L534946 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ It was the only way to solve certain problems --
+L534945 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Protomatter. An unstable substance which every ethical scientist in the galaxy has denounced as dangerously unpredictable.
+L534944 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I used protomatter in the Genesis matrix.
+L534943 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Why?
+L534942 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Not exactly.
+L534941 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ It's time for total truth between us.  This planet is not what you intended, or hoped for, is it?
+L534940 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ I have already made one transmission too many...
+L534939 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Why don't you just call for <u>help</u>!
+L534938 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ That may be difficult...
+L534937 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ How can you be logical at a time like this?! We have to get thee hell off this planet!
+L534936 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Logic indicates that is the case.
+L534935 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ You mean, we're stranded down here?!
+L534934 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ It would seem that Grissom was destroyed by an enemy attack.
+L534933 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Saavik... My god, what happened to them?
+L534849 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Grissom, your message acknowledged. Will advise... Out.
+L534848 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Later. Let's go...
+L534783 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Spock's burial robe.
+L534782 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ What is it?
+L534780 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ But... How could they have evolved so quickly...?
+L534779 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Well. There's your life form reading. These were microbes on the tube's surface. We shot them here from Enterprise.  They were fruitful, and multiplied.
+L534778 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ David --
+L534777 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ .          .. Spock's tube...
+L534770 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ We're not here to investigate geological aging, we're here to find life forms!
+L534769 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ My readings indicate great instability.
+L534768 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ I'll handle that later.
+L534767 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Saavik to Grissom. Request computer study of soil samples for geological aging.
+L534689 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ ... Or <u>who</u>.
+L534688 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Captain, please -- we'll take the risk. We've <u>got</u> to find out what it is...
+L534680 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Cross referenced and verified. An unidentifiable life form reading.
+L534679 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ There <u>shouldn't</u> be any. Only plant forms were built into the Genesis matrix.
+L534674 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ ... Radiation residual... Level is minimal...
+L534673 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Check for trace radiation. Infrared enhancement.
+L534672 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ As before... Metallic mass... Verifying triminium photon tube... No new data.
+L534671 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Short range scan.
+L534670 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ New orbit commencing... Coming up on sector three...
+L534610 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ A photon tube...!
+L534609 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Approximately two meters long... Cylindrical in form...
+L534608 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ There's only one thing it could be... Short range scan.
+L534607 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Negative, on surface... A manufactured object.
+L534606 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Underground deposit?
+L534605 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Same sector. Metallic mass.
+L534604 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ It's a little early to celebrate.
+L534603 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ You must be very proud of what you and your mother have created.
+L534602 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ All the varieties of land and weather known to Earth within a few hours walk!
+L534601 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ ... Fascinating.
+L534600 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ It's snow. Snow in the same sector. Fantastic!
+L534599 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Sector three... Sub-tropical vegetation... Temperature --  Temperature decreasing rapidly --
+L534598 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ Sector two... Indicating desert terrain. Minimal vegetation, temperature thirty-nine point four.
+L534597 +++$+++ u2923 +++$+++ m192 +++$+++ SAAVIK +++$+++ Like your father... so human.  All units functional, recorders are on... Scanning sector one. Foliage in fully developed state of growth. Temperature, twenty- two point two Celsius.
+L534596 +++$+++ u2916 +++$+++ m192 +++$+++ DAVID +++$+++ This is where the fun begins, Saavik!

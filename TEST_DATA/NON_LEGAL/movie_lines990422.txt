@@ -1,0 +1,200 @@
+L601428 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You know, somebody tailin' ya.  A torpedo or somethin'.
+L601427 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ What do ya mean?
+L601426 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ No signs of trouble?
+L601425 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Yeh, it was easy.
+L601424 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Everything go all right?
+L601394 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Well we got some workin' money anyway.
+L601393 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ How'd ya do?
+L601329 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ If we ever get to it.
+L601328 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You just worry about your end, kid.
+L601327 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Let him wait.
+L601326 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He's waitin' for you in the card room.
+L601294 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Neither are we.
+L601293 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He's not as tough as he'd like to think.
+L601223 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ If I can find a mob that'll risk it. But no matter what happens, I don't want you comin' back to me halfway through and sayin' it's not enough... cause it's all you got.
+L601222 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Then you'll do it?
+L601221 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Right down to my socks, turkey.  If I'da been half as scared a that lop-ear, I wouldn't a fallen asleep on 'em.  Lonnegan might kill me, but at least he won't bore me to death.
+L601220 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You're sacred of 'em, aren't ya?
+L601219 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You gotta keep Lonnegan's con, even after you spent his money.  And no matter how much you take from his, he'll get more.
+L601218 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I never played for winos.
+L601217 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ This isn't like playin' winos on the street.  You gotta do more than outrun the guy.
+L601216 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ We'll get by without 'em.
+L601215 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You can't do it alone, ya know.  It takes a mob of guys like you and enough money to make 'em look good.
+L601214 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ 'Cause I don't know enough about killin' to kill him.
+L601213 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Why?
+L601212 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I'll take him anyway.
+L601211 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ And a packing company, a chain of Savings and Loans and half the politicians in Chicago and New York. There ain't a fix in the world gonna cool him out if he blows on ya.
+L601210 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Aw right, he runs the numbers outta the south side.
+L601209 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Yeh, he croaked Luther.  What else do I gotta know.
+L601208 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You know anything about him?
+L601207 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I wanna play for Lonnegan.
+L601206 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You didn't act much like you wanted to learn it.
+L601205 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Gondorff, you gonna teach me the Big Con or not?
+L601188 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You never do, kid.
+L601187 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I don't know.  Haven't seen anybody.
+L601186 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Lonnegan after you, too?
+L601185 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I picked something up on the way.
+L601184 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ You gonna stay for breakfast, or do you already know how to eat?
+L601182 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ No, I lammed it around for a while while things cooled off.  Philly, Denver, Baltimore, nuthin' towns.
+L601181 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He didn't tell me you was a fuck- up, either.  You played the Big Con since then.
+L601180 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Luther didn't tell me you had a big mouth.
+L601179 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You mean you blew it.
+L601178 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Aw, I conned a Senator from Florida on a stocks deal.  A real lop-ear. He thought he was gonna take over General Electric.  Some Chantoozie woke him up, though, and he put the feds on me.
+L601177 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He had you down as a big-timer. What happened?
+L601176 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ I'm sorry about Luther.  He was the best street worker I ever saw.
+L601175 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Yeh, Luther said you could teach me something.  I already know how to drink.
+L601174 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Glad to meet ya, kid.  You're a real horse's ass.
+L601173 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ I can talk, can't I?
+L601172 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You sober?
+L601171 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Turn the goddamn thing off, will ya.
+L601707 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ He wants to put a half million on Syphon.
+L601706 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ What's the problem?
+L601627 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ If we're lucky, this'll bring him back stronger than ever.
+L601626 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ Looks like he's sulking.
+L601607 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Get a couple extra guys in the line, then.  We'll give him the shut-out.
+L601606 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ Not enough to cover a bet that big.
+L601605 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ He's gonna hit ya with 20 grand, Eddie.  How much cash we got?
+L601267 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ I also gotta win.
+L601266 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ All you gotta do is show up with some money and look like a fool.
+L601263 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ That's why he won't know it.
+L601262 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ The wire is ten years outa date.
+L601261 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ We'll use the wire.  Never known a gambler who wouldn't like to beat the ponies.
+L601245 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Fancies himself a gambler, huh?
+L601244 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ The porters say he runs a braced card game in one of the cars.  $100 minimum, straight poker.  Last time he pulled in here ten grand heavier than he left New York.
+L601243 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Wonder why he doesn't fly both ways.
+L601242 +++$+++ u8380 +++$+++ m568 +++$+++ NILES +++$+++ He's been taking the 8:10 Century Limited outa New York on Friday and getting in here early Saturday morning.  He usually stays a day to check on his policy operations, and then flies back.
+L601598 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ Nothin' yet.  I got a good one on the lead at Hialeah, but he's fadin'.
+L601597 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ How ya doin'?
+L601457 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ That's what I like about these guys, J.J... They always got protection against things we'd never do to 'em.
+L601456 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ Look at that.  He's got four apes with him.
+L601322 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Nice work, J.J.
+L601321 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ He usually plays with a Royal or a Cadenza.  I got you one of each.  He likes to cold deck low, 8's or 9's.
+L601320 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Yeh, I think so.  I gave the kay- ducer a C-note.  You find out the deck?
+L601319 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ You in?
+L601265 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ We'll give him the hook on the train, and play him here.  You think I can get in that poker game, Eddie?
+L601264 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ I'm not sure I know it.
+L601241 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Everybody'll sit still for somethin'. What did ya find out about the train, Eddie?
+L601240 +++$+++ u8384 +++$+++ m568 +++$+++ SINGLETON +++$+++ Lonnegan's a fast egg, Henry.  He's not gonna sit still for a standard play.
+L601713 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ You're more gutless than I thought.
+L601712 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ A half mill on an eight to one shot. You're dumber than I thought, Lonnegan.
+L601710 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ What are the odds on Syphon?
+L601709 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ If ya win it could make ya, too.
+L601708 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ I can't lay that off in time.  We lose a bet that big, it could break us.
+L601461 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Make sure you see cash from this guy, Eddie.  He's got the name for bettin' money he don't have.
+L601460 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ The name is Lonnegan.
+L601459 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Never get enough, huh pal?  I'd think you'd get tired of losin', Honnigan.
+L601391 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ What!  Don't give me that crap you little weenie.  How do I know you ain't gonna take a powder.  You come to a game like this, you bring your money.
+L601390 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ I guess I left it in my room.
+L601385 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Raise 5,000.
+L601384 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ See and raise 1,000.
+L601382 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Raise 500.
+L601381 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Raise 1,000.
+L601366 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Pass.
+L601365 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Raise 300.
+L601347 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Five and call.
+L601346 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ See and raise five.
+L601345 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ See ya and raise three.
+L601344 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Raise 500.
+L601338 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Lonnegan.
+L601337 +++$+++ u8372 +++$+++ m568 +++$+++ GONDORFF +++$+++ Yeh, that'd be real nice of ya, Mr. Lonneman.
+L601702 +++$+++ u8374 +++$+++ m568 +++$+++ GUNMAN +++$+++ Don't have much choice, do ya?
+L601701 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ How do I know you're tellin' the truth.
+L601700 +++$+++ u8374 +++$+++ m568 +++$+++ GUNMAN +++$+++ Gondorff asked me to look after ya.
+L601699 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Who are you?
+L601698 +++$+++ u8374 +++$+++ m568 +++$+++ GUNMAN +++$+++ Too many people coulda seen ya go in her room.  She was a professional. Used to work in the Dutch Schultz gang.
+L601697 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ She coulda killed me last night.
+L601140 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ Then you'll have to come up with another grand somewhere.
+L601139 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ My end was only one.
+L601137 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ Nobody can buy you a prayer, if I put the finger on ya.
+L601136 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I'll square it with the fixer.
+L601135 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ Not intentionally maybe, but that don't make no difference to Lonnegan. He'll swat you like any fly.
+L601134 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You're crazy.  I'm not stupid enough to play for rackets money.
+L601133 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ I'll tell ya what you did, smart boy.  You tied into a loaded mark on 47th across from Maxies.  You and Coleman played the switch for him and blew him off to a cab on 49th.  If he hadn't been a numbers runner for Doyle Lonnegan, it woulda been perfect.
+L601131 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Aw, find yourself a shoplifter to roll.
+L601130 +++$+++ u8385 +++$+++ m568 +++$+++ SNYDER +++$+++ You scored blood money today, Hooker.  You need a friend.
+L601129 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Hi there, Snyder.  Things a little slow down at the Bunco Department tonight, eh?  Somebody lose the dominoes?
+L601162 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Think nothin' of it.
+L601161 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ Thank you.  You don't know how much I appreciate this.
+L601160 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ All right, I'll give ya a break.  Down that hall there, there's an unmarked door on the left.  Go on in there and wait at the window. I'll take this...  ...in the back and run it through right away.  We'll have you outta there in a couple minutes.
+L601159 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ I'm sorry, really I am, but my train leaves in ten minutes.
+L601158 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ We'll get 'em!  Give us a chance. I'm not the only agent in here, ya know.  We go around advertising ourselves, how many counterfeiters do you think we'd catch, huh?  You think I'm wearin' this rag here 'cause I like it?  Christ, everybody thinks life's a holiday or somethin' when you got a badge.  I been here since three this morning, Charlie, and I never knew there was so much ugliness in people.  You try to help 'em and they spit on you.  I shoulda let ya go and gotten yourself arrested for passin' false notes.
+L601157 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ But what about all these other people?
+L601156 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ It'll only take 20 minutes or so. You can pick it up at the window down the hall.
+L601155 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ But I got a train to make.
+L601154 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Then I'm afraid we'll have to impound your money until we're sure that it's all good.  Can I see your wallet and your ticket, please?
+L601153 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ Yes, a ticket to Chicago.
+L601152 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ We don't doubt that, but there's a counterfeiting operation passing bad money in the station.  Have you made any purchases here today?
+L601151 +++$+++ u8379 +++$+++ m568 +++$+++ MAN +++$+++ What for?  I haven't done anything.
+L601150 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Excuse me, sir.  Treasury Dept... I'd like to ask you a few questions.
+L601692 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You know me.  I'm just like you... It's two in the morning and I don't know nobody.
+L601691 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ I don't even know you.
+L601690 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ If I expected somethin', I wouldn't be still standin' out here in the hall.
+L601689 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ And you expect me to come over, just like that.
+L601688 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I don't mean nothin' by it.  I just don't know many regular girls, that's all.
+L601687 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ You move right along, don't ya.
+L601686 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I, ah...thought you might wanna come out for a while.  Maybe have a drink or somethin'.
+L601684 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Yeh, this time anyway.
+L601683 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ Looks like he missed ya.
+L601647 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He'd like to kill me.
+L601646 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ What does this guy want?
+L601645 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Just do what I tell ya and everything'll be jake.
+L601644 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ What the hell for?
+L601643 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ All right, do me a favor.  Go into the bathroom, open the window and wait for me there.
+L601642 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ No.
+L601641 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Look, I don't have time to fuck around.  There's somebody out there I don't need to see.  You got a fire escape or anything?
+L601640 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ No.  What's wrong with the front?
+L601639 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You got a back door to this place?
+L601638 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ Yeh, sleepin'.
+L601637 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You doin' anything tonight?
+L601636 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ 2:00 A.M.
+L601635 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ What time you get off work here?
+L601634 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ Sixty-five.
+L601633 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Meat loaf, apple pie and a cup of coffee.
+L601542 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ I don't know.  Depends what train I get on.
+L601541 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Where you goin'?
+L601540 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ She don't work here no more.  I'm fillin' in for a couple days... till I can get a train outa here.
+L601539 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Where's June today?
+L601538 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ It isn't any better.
+L601537 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Yeh, I guess I shoulda had the meat loaf.
+L601536 +++$+++ u8378 +++$+++ m568 +++$+++ LORETTA +++$+++ You done?
+L601558 +++$+++ u8387 +++$+++ m568 +++$+++ TWIST +++$+++ Well we can't talk in here.  They're having the place painted.
+L601557 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I thought it might be good for him to see the setup.
+L601556 +++$+++ u8387 +++$+++ m568 +++$+++ TWIST +++$+++ What the hell's the matter with you. We coulda met at a club or somethin'.
+L601555 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Les, I got Mr. Lonnegan with me. He wants to see you a second.
+L601523 +++$+++ u8387 +++$+++ m568 +++$+++ TWIST +++$+++ Okay, Tootsie.
+L601522 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Tomorrow, after 4:00.  Stay inside, I'll come in and get ya.  And be hard on him for a while; he's talking money.
+L601521 +++$+++ u8387 +++$+++ m568 +++$+++ TWIST +++$+++ All right, when?
+L601520 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Twist?  I told him the tale.  He wants to see ya.
+L601229 +++$+++ u8387 +++$+++ m568 +++$+++ TWIST +++$+++ No.  They're just the only ones we know of.
+L601228 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You sure it'll be one of these two?
+L601057 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Three grand on the black, Jimmy.
+L601056 +++$+++ u8376 +++$+++ m568 +++$+++ JIMMY +++$+++ Aw, come on, Hooker, why don't you just...
+L601055 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I feel lucky tonight.
+L601054 +++$+++ u8376 +++$+++ m568 +++$+++ JIMMY +++$+++ You sure you wanna start off that big?  Bet like that could put a real dent in us.
+L601052 +++$+++ u8376 +++$+++ m568 +++$+++ JIMMY +++$+++ You gonna have a go here?  How 'bout a ten spot on the line here.  The 4-9 been lookin' good today.  Lotsa action on 28th Street down there, too.  Pay ya 10-1.
+L601051 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Naw, just a little hard times, that's all.  It's all over now.
+L601050 +++$+++ u8376 +++$+++ m568 +++$+++ JIMMY +++$+++ Ain't seen you in months, boy. Thought maybe you took a fall.
+L601049 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ How ya doin', Jimmy.
+L601048 +++$+++ u8376 +++$+++ m568 +++$+++ JIMMY +++$+++ Hooker!
+L601632 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ I don't know, figure something out.
+L601631 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ How am I gonna do that?
+L601630 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Tell your friend I'll have the money here by post-time tomorrow. We'll take the first race where the odds are 4-1 or better.  And make sure I can get to that window this time.
+L601625 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Oh, Jesus.
+L601624 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ I didn't get the bet down in time.
+L601623 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ What happened?
+L601569 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ He's right, Les.
+L601568 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ A week's a long time, friend. Anything can happen.  All of it bad.
+L601546 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Had a little fight with a raggle down on 13th.  She got me with her ring.
+L601545 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ What happened to your face?
+L601518 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ You want your money back?  Try and get it in a court of law.  C'mon, don't be a sorehead.  I'll make it worth your while.  Migth even help ya finance the big play if this one works out.
+L601517 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ No.
+L601516 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ Let me talk to him.
+L601515 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ I gotta talk to me partner first. We can't afford to expose our game too much.
+L601514 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ If your system's as foolproof as you say, you'll get even more.
+L601513 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ What is this?  That's my money. You tryin' to muscle me?
+L601512 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ I think we oughta place another bet tomorrow.
+L601511 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ Not yet, but...  Hey, there's only a grand here.
+L601510 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ You got the 400 grand yet?
+L601509 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ It's foolproof.  We got a partner downtown runs the central office of the Western Union.  Race results from all over the country come in there and go right across his desk on their way to the bookies.  All he does in hold them up a couple minutes until he can call us and get a bet down on the winner.  Then he releases the results to the bookies and we clean up on a race that's already been run.  It can't miss, unless the Western Union Dicks get onto it.
+L601508 +++$+++ u8377 +++$+++ m568 +++$+++ LONNEGAN +++$+++ I'm in.
+L601507 +++$+++ u8375 +++$+++ m568 +++$+++ HOOKER +++$+++ You stayin' in or not?

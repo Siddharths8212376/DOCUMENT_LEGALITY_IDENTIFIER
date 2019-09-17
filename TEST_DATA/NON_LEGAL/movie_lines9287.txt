@@ -1,0 +1,200 @@
+L405903 +++$+++ u2251 +++$+++ m144 +++$+++ VARLAC +++$+++ Good day to our brothers-in-arms. Have you come to join us?
+L406262 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Send him in.
+L406261 +++$+++ u2246 +++$+++ m144 +++$+++ ORDERLY +++$+++ Citizen Bourrienne to see you, sir.
+L406260 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Come in.
+L406255 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Let me have it.
+L406254 +++$+++ u2246 +++$+++ m144 +++$+++ ORDERLY +++$+++ A message from Citizen Fouche.
+L406253 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Come in.
+L406247 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Send him in.
+L406246 +++$+++ u2246 +++$+++ m144 +++$+++ ORDERLY +++$+++ Major Lavallette to see you, General.
+L406245 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Come in.
+L406005 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Show him in.
+L406004 +++$+++ u2246 +++$+++ m144 +++$+++ ORDERLY +++$+++ Yes, sir.
+L406003 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Is he alone?
+L406002 +++$+++ u2246 +++$+++ m144 +++$+++ ORDERLY +++$+++ Eugene de Beauharnais.
+L406001 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ What did you say his name was?
+L406589 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ A year ago, the whole of Europe was marching alongside of us.  Today, the whole of Europe is marching against us.
+L406588 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ On January 1st, 1814, France itself was invaded.  Now, with a small army of raw recruits, Napoleon would have to face the powerful combination of England, Russia, Prussia and Austria, operating against him together, for the first time.  The balance of numbers had tilted irretrievably against him.
+L406506 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ With his army of 400,000 men in concealed bivouacs, on a ten mile front, in the forests, bordering the banks of the Vistula river, Napoleon conducted a last minute personal reconnaissance, disguised in the uniform of a Polish lancer.
+L406505 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ I know Alexander.  His imagination must be struck by some great, bold, powerful stroke, and he will come back to me, just as he did at Friedland.
+L406362 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ If the French army had been commanded at Jena and Auerstadt by a tailor, the King of Prussia would certainly have gained the day.
+L406361 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ Led by the warlike Queen Louisa, and her fashion-minded husband, King Frederich Wilhelm, the Prussians still believed themselves cast in the mold of Frederick the Great, and more than a match for Napoleon.  The King had a special collection of 60 splendid uniforms, and was personally involved in the design of all the Prussian army uniforms.
+L406281 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Duroc, I have a bill here for 600,000 francs from Tirot, for building the Imperial throne and six decorated arm-chairs.  The amount is absurd -- and, at least twice too much.
+L406280 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ On December 2, 1804, Napoleon was made Emperor of France.  He would later say:  "I found the crown lying in the gutter and I picked it up."
+L406062 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ From that moment on, I foresaw what I might be.  Already I felt the earth flee beneath me, as if I were being carried away up to the sky.
+L406061 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ Napoleon would soon arouse the resentment of the Directory in Paris, exceeding his authority, making political decisions and treaties like a Roman Conqueror, enlarging his role to ruler of Italy.  Only his tremendous success and ever increasing popularity prevented the Directory from replacing him.
+L405873 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ It will scarcely be considered credible, perhaps, but our whole business consisted in eating cherries together.
+L405872 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ He made friends with a family called Columbier, and would later write of his first flirtation with their daughter, Caroline.
+L405871 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ Life is a burden for me.  Nothing gives me any pleasure; I find only sadness in everything around me.  It is very difficult because the ways of those with whom I live, and probably always shall live, are as different from mine as moonlight is from sunlight.
+L405870 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ His moods at this time were complex and varied.
+L405854 +++$+++ u2244 +++$+++ m144 +++$+++ NAPOLEON +++$+++ My mother has always loved me.  She would do anything for me.
+L405853 +++$+++ u2245 +++$+++ m144 +++$+++ NARRATOR +++$+++ Napoleon was born at Ajaccio in Corsica on August 15th, 1769.  He had not been a healthy baby and his mother, Letizia, lavished him with care and devotion.  In middle age, he would write about her from St. Helena.
+L412179 +++$+++ u2252 +++$+++ m145 +++$+++ BABY'D +++$+++ Go, fo' I change my mind.
+L412178 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ And I can go free?
+L412177 +++$+++ u2252 +++$+++ m145 +++$+++ BABY'D +++$+++ Just tell him to come over here and talk to me.
+L412176 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ That's it?
+L412175 +++$+++ u2252 +++$+++ m145 +++$+++ BABY'D +++$+++ Yo' cousin, Craig.  Hook us up.
+L412174 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Anything you need.
+L412173 +++$+++ u2252 +++$+++ m145 +++$+++ BABY'D +++$+++ Okay, I know what I want this time.
+L412502 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Don't move me.
+L412501 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Stretch it out.
+L412471 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Thank you.  I only got two bullets in the mothafucka, but it's better than nothing.
+L412470 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ That's a nice piece of heat right there.
+L412453 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yup.
+L412452 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Me, too.  You think they're in there?
+L412442 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Daddy, Uncle Elroy, I need your help.
+L412441 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ No.  Thought he was with you.
+L412041 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Passed out?  Can't hang, huh?  Boy, I knew you was a lightweight.  Passed out on one funky ass blunt.  They don't make 'em like they used to, baby.
+L412040 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know, I think I passed out or something.  I don't remember.
+L412036 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Suga!
+L412035 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know!
+L412034 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Negro, what the hell you doing to my woman?
+L412027 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ 'Cause your lips is getting black.
+L412026 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Why you say that?
+L412025 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ I know you smoke weed, right?
+L411965 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Good.
+L411964 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ That's okay, Unc.  I can't swim, either.
+L411963 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Never...  But me and Suga can get real nasty in that Jacuzzi, though.
+L411962 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Y'all never use it?
+L411961 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Don't need water.  We didn't have no pool in the projects...so none of us swim.
+L411960 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ It's cool, but where's the water?
+L411959 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Cash money.  They wasn't gonna stick me with no 30-year payment plan.  That's for suckas.  They got my daddy like that for a Cadillac years ago.  I got the only house on the block that's paid for. That's why I'm the king around here.
+L411958 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You paid cash?
+L411957 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Yeah, you gotta have a little money to live out here, Craig.  I never thought I'd be the kinda nigga to move to the suburbs.  But as soon as I got my check, I was gone.  Paid 230 thousand dollars cash on this house.
+L411937 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Uncle Elroy, who's that girl by Day-Day's car?
+L411936 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Well, let me in.
+L411935 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yeah.
+L411934 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Man, that girl's gonna kill me one day. Viagra ain't working.  My back keep going out... she don't never get enough.  But check this out.  I got to lay some ground rules.  Your my family and I love you.  You're welcome to anything you want in my home. But I don't wanna catch you in the refrigerator or in my Suga bowl... you feel me knocking?
+L411886 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Thanks, Unc.
+L411885 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Send Betty my love.  Boy you looking good.  I'mma take these in the house for you, man... and when you finish with this cat, come inside.  I got something to show you.
+L411880 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ You know me?  I would've shot his big ass.  Hey, Willie, how's it going?  Still steppin' in dog shit every day?
+L411879 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Alright, I'll remember that.
+L411878 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ If you see that boy again, bite off his ear off like Mike Tyson.
+L411877 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Naw, it ain't like that.
+L411876 +++$+++ u2267 +++$+++ m145 +++$+++ UNCLE ELROY +++$+++ Hey, Debo, heard you running from a ass- whippin'?
+L412154 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ Ain't the rest room this way?  I gotta pee.
+L412153 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Where you going?
+L412143 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ Can I look for myself?
+L412142 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know... I think he went out the back.
+L412141 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ Where's that boy that told me Day-Day was here?
+L412139 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ No we didn't.  We came to buy a CD.
+L412138 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yes you did.
+L412137 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ We didn't come here for Day-Day.
+L412134 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I'm his cousin.
+L412133 +++$+++ u2255 +++$+++ m145 +++$+++ D'WANA +++$+++ Who are you?
+L412324 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Cheeco.
+L412323 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Fuck, what's his name?
+L412322 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Well get along with this one.  Go ahead of us.  Don't get seen and don't let that mutt out of your sight.
+L412321 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Dude, dogs hate me.  I don't know why. Me and K-9's just don't get along.
+L412311 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ What about the dog?
+L412310 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ It's about to work, just come on.
+L412292 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ It's something in that hydraulic pump.
+L412291 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Me neither.
+L412210 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Black magic.
+L412209 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Sorry, bro, reflexes.  How did you do that?
+L412205 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Come on, Day, try it.  For moms.
+L412204 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Naw, I already ate.
+L412203 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ That's cron-don, sir.  My mom hates for me to smoke, so she made me bud-brownies. Wanna bite?
+L412202 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What's the green stuff poking out?
+L412201 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ That's fuckin' poetic, Craig.
+L412200 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yeah it is...the best day before the weekend.
+L412194 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Not me.
+L412193 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ For sure.  That's how I like 'em.
+L412185 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I'm gone.
+L412184 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ You know what he mean, dude.
+L412183 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What you mean talk to her?
+L412181 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What happen?
+L412180 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ Great moves, Day-Day.
+L412127 +++$+++ u2265 +++$+++ m145 +++$+++ ROACH +++$+++ I'll do it.
+L412126 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ No I'm not.
+L412248 +++$+++ u2264 +++$+++ m145 +++$+++ PINKY +++$+++ Whatever you say, man.  I didn't see shit.  The safe combination is 34-5-27. Just take it all.
+L412247 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Shut up.  I been trying to tell yo' ass that... Day-Day is my cousin.  They're right there in the back.
+L412239 +++$+++ u2264 +++$+++ m145 +++$+++ PINKY +++$+++ If you say another word, it's over.  I'm not playing!
+L412238 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Nobody!
+L412237 +++$+++ u2264 +++$+++ m145 +++$+++ PINKY +++$+++ I said shut up!  Now who sent you?
+L412236 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Man, Day-Day is my people!
+L412235 +++$+++ u2264 +++$+++ m145 +++$+++ PINKY +++$+++ Shut up!  Fo' I pump this Glock in yo' ass!  What did you do wit Day-Day and Roach?
+L412234 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I ain't trying to rob you...
+L412573 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know.  Probably next Friday.
+L412572 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I will.  When can I come visit?
+L412571 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Naw, I'm got live ghetto fabulous.  make sure you get that car fixed.
+L412570 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You sure you don't wanna stay?
+L412549 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ What about me?
+L412548 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You're welcome, Unc.
+L412352 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ No, man, just wait.
+L412351 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Wait here?  So Cheeco can bite my ass off?  Tell me where it is I'll do it.
+L412350 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ That pump was full of money.  I saw where they put it.  Stay right here, I'mma climb in and go get it.
+L412349 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ What you see?
+L412341 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Wait for what?
+L412340 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Wait.
+L412338 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Me too.
+L412337 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I hope to God that dog is happy.
+L412335 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I ain't scared of you.  We ain't little no more.
+L412334 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Day-Day, if you don't hop that fence I'mma throw you over.
+L412333 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ No.
+L412332 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You go first.
+L412331 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Naw, you go first.
+L412330 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You go first.
+L412320 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ It is easy. You know why?  'Cause they're not expecting it. Now, Roach, you gotta occupy Cheeco. Long enough for me and Day-Day to take a good look.
+L412319 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You make it sound so easy.
+L412315 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ The bubble guts.  I'm so nervous it feels like I'mma shit on myself.
+L412314 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What's the B-G's?
+L412313 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Man, I don't think I can do this, Craig. I got the B-G's.
+L412296 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know, and it could be anything. But I just say we go take a look.
+L412295 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ How you know?  It could be anything.
+L412294 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Naw.  I bet'cha it's something better than air.
+L412293 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Yeah, air.
+L412290 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I didn't see nothing.
+L412289 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You see that?
+L412275 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Sorry about today, man.
+L412274 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Alright, Roach, see you around.
+L412272 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know yet.
+L412271 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ What we gonna do?
+L412250 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Nothing.
+L412249 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Craig, what the hell are you doing?
+L412231 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Out the door and to the left.
+L412230 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ This vacuum don't work.  Where's the restroom?
+L412225 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Still gonna smell it.
+L412224 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ It works.
+L412222 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ That ain't gonna work.
+L412221 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Blow.
+L412219 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Ain't no windows in here.
+L412218 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You better open up a window or something before the smell gets out.
+L412214 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I don't.
+L412213 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I didn't think you smoked bud that much.
+L412192 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Big bitches need love, too, Craig.
+L412191 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I know we cousins and all, but don't try an' hook me up with the big little sisters.
+L412190 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Thanks a lot, Craig.
+L412163 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Fuuuuuuck -- U!
+L412162 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You better stop running from that girl.
+L412125 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You already in.
+L412124 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I ain't trying to get in it.
+L412121 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ D'Wana brought Baby'D up here.
+L412120 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What's the matter?
+L412117 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Okay, plan B.
+L412116 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ $247.
+L412115 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Damn...how much money ya'll got left from the lottery?
+L412114 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ It says we owe $3,900...by tomorrow.
+L412107 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I don't know.  Did ya'll forget to pay it or something?
+L412106 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ How can they do this?
+L412104 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yeah, that's why I walked down here.
+L412103 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You know what this is?
+L412099 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yeah, ya'll got a notice today.  It came certified mail.
+L412098 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You walked?
+L412097 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ I walked.
+L412022 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ If you 'get into it' with them S.A.'s and start a feud, you can always go back to home.  I gotta live here.  Just remember that.
+L412021 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ What you mean, so?
+L412020 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ So.
+L411999 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Because, it's been a little tension between us ever since they got out the joint and ran their momma crazy.  And I'm just trying to keep the peace.  We moved out here to get away from that shit.
+L411998 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Why?
+L411997 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I know what 'cha thinking.  I thought the same thing.  But it can't happen.
+L411996 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Yo know what?  I'm starting to like Rancho Cucamonga.
+L411995 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ That's the sister.
+L411994 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Who is that?
+L411991 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ You don't know Baby D.
+L411990 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ You got a restraining order on a little girl named Baby D?
+L411989 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ That ain't the worst part.  Her little sister, Baby D.  She's the one that gets real physical.  But I got a restraining order on her, too.
+L411988 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Damn, you got a stalker.
+L411987 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ I went back to Watts to sell my old car and met her on the way.  Worst day of my life.
+L411986 +++$+++ u2253 +++$+++ m145 +++$+++ CRAIG +++$+++ Restraining order?  Where the hell you meet this girl?
+L411985 +++$+++ u2256 +++$+++ m145 +++$+++ DAY-DAY +++$+++ Yeah, I broke up with her two Fridays ago and she's been harassing me ever since. She don't care about the restraining order or nothing.

@@ -1,0 +1,200 @@
+L86739 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ No. That's not why...  Why we always gotta do this? I mean, you and me been at each other as far back as I can remember. Wasn't no love between us. And I'm your daughter. I'm the only family you got.
+L86738 +++$+++ u518 +++$+++ m32 +++$+++ SANDY +++$+++ You need money again?
+L86737 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Since you workin' on the square now, maybe we could get some coffee in the morning, if you want.
+L86736 +++$+++ u518 +++$+++ m32 +++$+++ SANDY +++$+++ Yeah.
+L86735 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Got in a little accident.
+L86734 +++$+++ u518 +++$+++ m32 +++$+++ SANDY +++$+++ What happened to your face?
+L86193 +++$+++ u518 +++$+++ m32 +++$+++ SANDY +++$+++ I just like dressin' up in these goddamn blue vests.  Your money ticket get shipped today?
+L86192 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Didn't know you was workin' here now?
+L86185 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ Eh, if the bootie fits...
+L86184 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ The hell you call me?
+L86183 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ Alright. How much you need, ho?
+L86182 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Just a cough. Sugar and a spoonful of Jack'll do it.
+L86181 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ Mobile technology is the new fix for these niggaz, I'm tellin' you. I'm just lookin' ahead.  Anyways, ain't no money in drugs no more with these rednecks popping cough pills like they's Skittles. Hey, that's what you need, girl. Get you some cough medicine. What, you sick?
+L86180 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Stolen phone cards and two-ways is what you sayin'.
+L86179 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ What'd I tell you?  I don't do none of that shit no more. I'm in communications now.
+L86178 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ Save that hustle talk to them field ballers you sell crack to.
+L86177 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ What we just did, you askin' for money, make a man stop. I ain't callin' you no ho. But I ain't gonna be played like no trick, neither. Remember... you called me.
+L86176 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ I said we wasn't gonna talk about him.
+L86175 +++$+++ u519 +++$+++ m32 +++$+++ TEHRONNE +++$+++ Thought you had a man for that.
+L86174 +++$+++ u515 +++$+++ m32 +++$+++ RAE +++$+++ You got any money?
+L87249 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Nick, how we gonna bag this guy without any help?  Maybe I should work on that girl Joyce, she speaks the language.
+L87248 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Sure, a rice burning crotch rocket...
+L87247 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Now that's the kind of motorcycle I want to see you on.
+L87246 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ He couldn't find his ass with both hands.
+L87245 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ ... He's a sorry old guy, but I like him.
+L87220 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I don't think he'd feel it.
+L87219 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ It's incredible.  Hit him or something.
+L87204 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Maybe we should bail?
+L87203 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I'd feel better if we had some heat.
+L87202 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Getting very weird.
+L87200 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I hope not.
+L87199 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ This the right place?
+L87196 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ You said that in the last two places.
+L87195 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ This should be it...
+L87193 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ First decent idea you've had.
+L87192 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Let's grab some food.
+L87191 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ ... Detective Ich-iro Matsu-moto. Hey, we're getting Mr. Moto on our side.
+L87188 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I said let's go, Charlie.
+L87187 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Nick, we can't just --
+L87186 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Let's go.
+L87164 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ In Rome, I'll bow.
+L87163 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Hey, when in Rome --
+L87162 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Givin' you a book is like givin' a baby a gun.
+L87152 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ The lieutenant was on the pad along with the rest of the squad.  I was new, didn't know shit.  When the feathers flew, I got called in front of the special prosecutor.  It's on the top of my personnel file.  They think I'm dirty or I cut a deal. Doesn't leave you with a lot of friends either way.
+L87151 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I didn't know.
+L87150 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I worked the three nine in Queens, Charlie.
+L87149 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ You didn't take, did you...?  You hear things.
+L87148 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Go to sleep, Charlie.
+L87147 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I just want you to know... I mean anybody who says you ever took has got to deal with me.
+L87146 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Number five with a bullet.
+L87145 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Nick, have I been a good partner?
+L87144 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ No.
+L87143 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Nick... You up?
+L87141 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Where is the subway station, please.
+L87140 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ What'd you say?
+L87137 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Hey, come on, big guy like you, cop from New York.  You're gonna be the biggest thing to hit town since Godzilla.
+L87136 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Not a prayer.
+L87135 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I call, right?  I say I got the dreaded thirty six-hour Asian shits from some raw clam and we stretch it into three days.  You and I become a driving force on the local Geisha scene.
+L87134 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ They say we got to turn around and come right back.  That's what they say.  I got a plan.
+L87133 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Beats forty hours on a plane.
+L87132 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What are you missing?  Riding your motorcycle to the nurse's house. That shit is sadder than Ethiopia.
+L87131 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I was thinking the Poconos, Charlie. Maybe Vegas.
+L87130 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ ... Nick, you're the one that's always saying you never go anywhere.
+L87082 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Saving your life.
+L87081 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What are you doing?
+L87078 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Charlie, take your gum, stick it under your ass and keep it warm.
+L87077 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Maybe we should do something?
+L87076 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Some party.
+L87075 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ The Wolf?
+L87074 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Frank Abolofia.
+L87073 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What?
+L87072 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Charlie, don't do anything.  Promise me?
+L87070 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I don't blame you for being sore. It'll pass when we bag him.
+L87069 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Maybe Cavello's buying a Subaru. How would I know?
+L87068 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Who do you think the Jap is?
+L87067 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Eating Scungilli, just like the last time you asked.
+L87066 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What are they doing now?
+L87063 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ -- Hey, I got a better chance of being hit by a bus then moving up.
+L87062 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Whoa, I knew you were going to say that.  I absolutely anticipated that, Nick.  But I said to myself, Charlie, Charlie, we can move up on this, so go find Nicklaus... He'll be pissed for a moment, but then it'll dawn on him --
+L87061 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ -- I should tear your head off.
+L87060 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ ... I found the goombah... Cavello. He's --
+L87046 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Charlie...
+L87045 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Nick, let's go hunting.  Bag Cavello.
+L87044 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I'll get rid of it when you get rid of the egg-beater.
+L87043 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ It's not regulation.  And the only way you're gonna stop anybody with it is to show it to him, and while he's laughing, you can shove it down his throat.
+L87042 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Why?
+L87041 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Get rid of it.
+L87040 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Back-up.
+L87039 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Let go...
+L87038 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ What's this?
+L87037 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ So why dive through the glass for a nickel and dime bust?
+L87036 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ He works for Frank Abolofia. Atlantic City.  Casinos.
+L87034 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ -- Cavello.  Ronnie Cavello.
+L87033 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Wait up.  You know the guy who did the Weismuller through the window --
+L87032 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Home.
+L87031 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Hey, hey, where you goin'?
+L87030 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Thanks.
+L87029 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ ... It's not like you were slow or anything... I think you did just fine.  I think you did great.
+L87020 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Still, you gotta wonder how she'd look in handcuffs.
+L87019 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ You want a popsicle, go to Good Humor.  And don't call me 'pappy.'
+L87018 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ I think she got to you, pappy.
+L87278 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Hey, all right.
+L87277 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ What does Charlie mean?
+L87276 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What does Ichiro mean, anyway?
+L87275 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ You all right?  You okay?
+L87274 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Cool?
+L87273 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ You cool, Ich?
+L87238 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ That I should let you pay for the drinks.  Kampai.
+L87237 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ What'd she say?
+L87236 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Joyce can be nice.
+L87226 +++$+++ u520 +++$+++ m33 +++$+++ CHARLIE +++$+++ Pussy, ass, soft personnel.
+L87225 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Squid?
+L87058 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ I wasn't expecting you.
+L87057 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Are you expecting anyone?
+L87056 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ If you give me one.
+L87055 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Give me a break, would you?
+L87054 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ You'll take care of that.
+L87053 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ High spirits, desire, commitment.
+L87052 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ All right, how's the new partner?
+L87051 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Connie...
+L87050 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ It's getting too cold even for me, Nick.
+L87049 +++$+++ u521 +++$+++ m33 +++$+++ CONNIE +++$+++ Yeah... I came to save you.  If you're hopeless, I'll pull the plug.
+L87048 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Short shift?
+L87652 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ How can you be so sure?
+L87651 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ We can't lose.
+L87650 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Think we'll get him, Nick?
+L87641 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Joyce, give the assistant Chief Inspector a drink, would you?
+L87640 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Louder, pal, louder.
+L87628 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Call for help.
+L87627 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Yes...
+L87626 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ You all right?
+L87621 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Because we're the biggest things to hit this town since Godzilla.
+L87620 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Why's that?
+L87619 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ You know, Nick, we can't lose.
+L87617 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Luck.
+L87616 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ What's that for?
+L87614 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Me too.
+L87613 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I'm sorry.
+L87612 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ A wife.  She left.
+L87611 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Thank you.  You have one?
+L87609 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Now we've got nothing to negotiate with.
+L87608 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Someone attacked him.
+L87605 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ We need the plate to negotiate with.
+L87604 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I don't know.
+L87603 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Joyce?
+L87602 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I couldn't tell.
+L87601 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ How many men?
+L87600 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I followed them.  An hour from the train station.
+L87599 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I was ready to have your ass for taking off on me.
+L87567 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I called Ohashi, he'll be waiting.  I like him waiting.
+L87566 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ You did great, Ichiro.
+L87564 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Kampai.
+L87563 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Just one, compadre... Kampai.
+L87531 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I can't...
+L87530 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Start it.
+L87528 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Not now, man, okay, not now.  Work with me.
+L87527 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ No.
+L87526 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Grab the keys, Ich, and get inside.
+L87524 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ It's done.  You don't have to come.
+L87523 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Nick, you can't do this.
+L87522 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Let's go.  Him first.
+L87521 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ No...
+L87486 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ So I bring some cheese?
+L87485 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ For Sugai.  Caviar, French cheese, ham... If you come to apologize for interrupting his meeting, Sugai may feel obligated to see you.
+L87484 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ What's in the box?
+L87449 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Sugai's not going to be impressed with your gun, Nick.  No.  I won't put myself in danger for you anymore.
+L87448 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ It's a new deal.  ... coming with me tomorrow?
+L87447 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ It's illegal, Nick.
+L87446 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Big enough.
+L87445 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ It's very small.
+L87443 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I'll be a nice Gaiijin.
+L87442 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ He'll never speak to a Gaiijin.
+L87441 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Because he knows how to get to our man.
+L87440 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ What...?  Why?
+L87439 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I want to go talk to him.
+L87438 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ A resort city, Beppu.
+L87437 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Where does this Sugai live?
+L87424 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ A few minutes faster, we might've nailed him.
+L87423 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Nick!
+L87412 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ San is an honorable title.
+L87411 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Ich, my name is Nick.  Not Nicklaus, not Nicklaus-san, not Nick-san. Nick.
+L87410 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Not without a small army, Nicklaus- san.
+L87409 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ I want to yank Kobo.
+L87408 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ ... A Godfather.  His man was killed at the printing plant.
+L87406 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Shut-up.
+L87405 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Nick --
+L87404 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ We're through.  I mean it.  This is the end of the line, Matsumoto.
+L87403 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I'm not drunk...
+L87398 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ You can trust me.
+L87397 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ If I smell one drop of Scotch on your breath, my friend --
+L87396 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ I'll check it out.
+L87395 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Gaiijin.
+L87394 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ You can't come in.  They don't want --
+L87390 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ You were too far behind.
+L87389 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ She disappeared... shit!
+L87388 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Good.  Very good...
+L87387 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Yakuza.
+L87381 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Smells like Bayonne at low tide.
+L87380 +++$+++ u522 +++$+++ m33 +++$+++ ICH +++$+++ Broiled fish paste cake, Kelp roll, soybean curd, devils tongue --
+L87379 +++$+++ u525 +++$+++ m33 +++$+++ NICK +++$+++ Ichiro --

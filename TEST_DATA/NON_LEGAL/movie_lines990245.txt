@@ -1,0 +1,200 @@
+L476039 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Oh, that's ok, a lot of men feel uncomfortable when they come in here.
+L476038 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I'm just not very good...with all of this stuff.
+L476037 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Sure.
+L476036 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well...I should have done a little homework, getting all the sizes, and what not.
+L476035 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ No I don't.  You sure you haven’t seen her?
+L476034 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Do you know...34 C?  32 C?
+L476033 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Yeah I'd say C...C.
+L476032 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ C?
+L476031 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Uh...C?
+L476030 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Let's see...do you know her cup size?
+L476029 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Oh.
+L476028 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ No, I can't say that I have.
+L476027 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Shopping here?
+L476026 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Have I seen her?
+L476025 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I don't suppose you've seen her.
+L476024 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Hmmm...
+L476023 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Yeah, she is.  She comes up to about here on me.
+L476018 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ We are having a sale on some items over here --
+L476017 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Sixty five...  Jeez Louise!
+L476014 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well I don't know...
+L476013 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Anything...specific?
+L476012 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I have an anniversary coming up, thought I'd buy her something special.
+L476011 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well I just uh, you know...
+L476010 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Anything I can help you with?
+L476009 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Hi.
+L476008 +++$+++ u7332 +++$+++ m495 +++$+++ SALESPERSON +++$+++ Hello.
+L475826 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Well, I just got a lot of things on my mind is all.
+L475825 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ You walked in here looking like you just ate a shit sandwich.
+L475824 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ No.  Something wrong with you Dwayne?
+L475823 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Something wrong, Jesse?
+L475805 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Well I'm here now.
+L475804 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Nice of you to join us.  I did say three o'clock, didn't I?
+L475763 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Yeah...see you at three.
+L475762 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ I  have complete faith in you. But don't you go speeding.
+L475761 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I'll do my best...that doesn't give me much time.
+L475760 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ So be here at three.
+L475759 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Uh, sure.  I hear you.
+L475758 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well they really didn't go into any details on the phone, but they did ask for you, and I figure we should try to help them out as best we can.
+L475757 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ About what?
+L475756 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well, we got the DEA coming down here again, I don't know, sounds to me like they got some more questions they want to ask us.
+L475755 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Why?
+L475754 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Vegas!  Can you hightail it back here by three o'clock?
+L475753 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I'm at a payphone in Vegas.  What's up?
+L475752 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Yeah whaddya want?.
+L475751 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Jesse?
+L475316 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Yeah.  That's all I need, to become one of your in-laws.
+L475315 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ She's not his type.
+L475312 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Sort of.
+L475311 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Do you even have a girlfriend, Jesse?
+L475304 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Take it or leave it.
+L475303 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Aw, now that’s gonna take time to clear!
+L475302 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Dammit you’re persistent.  I don’t want to listen to this anymore.  No more bets with you.
+L475301 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ No.  But what I would like is the forty dollars you owe me, and I’m a busy man.
+L475300 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ All right you’re the super sleuth, what do you want, a medal?
+L475299 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Very clumsy, very clumsy.  I’d have found it in a minute.
+L475297 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ He probably figured she was on her way out anyhow, no drugs in her system, no foul play.
+L475296 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Damn it’s hot in here...
+L475295 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I mean at least pick a more discreet place, the scalp, under the armpit, under the tongue, someplace where the trained eye won’t immediately look.
+L475294 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Just goes to show you.
+L476129 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Calm down --
+L476128 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Dwayne please calm down!
+L476119 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ You'd do this to me!
+L476118 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Dwayne -
+L476117 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ You'd do this to me?!
+L476116 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Shut up!!!  Slut!!!
+L476115 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Dwayne put the gun down --
+L476114 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ You shut your mouth you son of a bitch!
+L475930 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ It certainly is...
+L475929 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Save me the sermon.  I've heard it all before, it's boring.
+L475928 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ No, Dwayne, you go ahead and relax, have a six pack and fall asleep in front of the TV, and come upstairs and pass out.  And do it all over again tomorrow!
+L475927 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Look I worked all day, I'm tired as hell and I want to sit and eat in peace!  Is that asking too much?
+L475926 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Whatever...
+L475923 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Well I got the tires rotated, I went shopping, and I made dinner.
+L475922 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Yeah let's hear about your day.
+L475921 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Don't you want to hear about my day?
+L475920 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ Just trying to be civil Dwayne.
+L475919 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Well you might as well say it. Mister Small Time...
+L475918 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I didn't say that.  You did.
+L475917 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Suppose I'm not exciting enough for you.
+L475915 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ That hasn't stopped you before.
+L475914 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Not much to tell.  Nothing really happened.
+L475913 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Nothing.  Nothing's the matter. SALLY Aren't you going to tell how your day went?
+L475700 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Watch that.  Watch that tone.
+L475699 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I'm saying you're about as romantic as a bag of sand.
+L475698 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What are you saying?
+L475696 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ A surprise huh?  Well I don't like any surprises, especially if I'm forking over the loot for them!
+L475695 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ It was going to be a surprise!
+L475688 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Forget it.
+L475687 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I can't hear a word you're saying!
+L475686 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Where's the hot back -- the therapeutic pad thing?
+L475685 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ What?
+L475684 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ Hey where's the hot pad?
+L475679 +++$+++ u7333 +++$+++ m495 +++$+++ SALLY +++$+++ I don't know...
+L475678 +++$+++ u7327 +++$+++ m495 +++$+++ DWAYNE +++$+++ What's this?
+L475969 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Stop!  Stop!  I don't need the money.  You can have it all.
+L475968 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Easy to purchase, hard to detect. Too much potassium can kill a man.  Just have to...pick a discreet spot.
+L475967 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ We gotta, Jesse.  It's tough, but you didn't leave us any choice.  We gotta know where the tapes are.
+L475966 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Don't hurt me.
+L475945 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Well it's not here -- you're wasting your time and you're pissing me off!
+L475944 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ I don't suppose you'll tell us where the tape is.
+L475943 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ We're gonna talk.
+L475942 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ What the hell are you doing, you crazy some bitches --
+L475873 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I think I am.
+L475872 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ You're never getting that much.
+L475871 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ You want to see how more unglued I can get?  Try me.
+L475867 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Well you can't have it.
+L475866 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ So I want the money and I want it now.
+L475865 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Oh Jesus Christ...
+L475864 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I was on a roll!  I’m a little overextended now.
+L475863 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ What do you mean?  You gambled it?
+L475857 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Listen -
+L475856 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Well you're not getting, either.
+L475855 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I'm not asking.
+L475850 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Just do it!  Meet me there, now.
+L475849 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ What?
+L475848 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Meet me at the Tumbleweed Diner.
+L475836 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Right behind you.
+L475835 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ We're out of here.
+L475664 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ True, but neither is attempted murder. In fact I'd say that's considerably worse, wouldn't you, Earl?
+L475663 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ And if we refuse?  Your tampering with evidence isn't exactly a misdemeanor, did you ever consider that?
+L475662 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ I'll settle for a third of that.
+L475656 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Then what the hell are you all about?
+L475655 +++$+++ u7330 +++$+++ m495 +++$+++ JESSE +++$+++ Hey we're all friends, right? Friends don't squeal on friends, that's not what Jesse Segundo is all about.
+L475800 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Absolutely positively.
+L475799 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Thank you honey.  are you sure you don't want it?
+L475796 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ You've done without it long enough, ma.
+L475795 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Well I don't know --
+L475794 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Ah, hell I'll get one soon enough.  Besides, I want you to have it.
+L475793 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Don't you want it?
+L475792 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Yeah.  Figured you could have it.
+L475791 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ This whole place?
+L475790 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Yep, fifteen thousand BTU's, enough to cool off this whole place.
+L475789 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ That's great Earl!
+L475788 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ And not just any air conditioner. This baby sells for over six hundred dollars retail.
+L475787 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Well what do you know!  An air conditioner.
+L475785 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Well basically I forgot about it, you know, you never win these things, but this time, well...
+L475784 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ And what happened?
+L475783 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ There was this raffle going on at the station, some charity or church was running it, I forget, so I figure what the hell put in my five bucks...
+L475780 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ You do?
+L475779 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Yeah sure I'll grab something before I go...  Hey -- I've got a surprise.
+L475778 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Are you hungry?
+L475777 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ At least around here it does.
+L475776 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ I tell you this world just keeps getting more and more violent.
+L475775 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Nope. If you're a criminal you don't carry ID, and if you do you're a damn fool.
+L475774 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Did they ever find out who they were?
+L475773 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ It was pretty gory ma, let me tell you.  But you have to turn all that off, and do your job, just like pop used to say.
+L475772 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ People have been asking me about that story in the paper.  I told them you were the first person on the scene.  They were asking me for all the details.
+L475771 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Well, same ol' same ol'.
+L475770 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ How's work?
+L475769 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Yeah.
+L475768 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Is that the mail?
+L475767 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ I was in the neighborhood.
+L475766 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ I didn't know you were coming.
+L475765 +++$+++ u7329 +++$+++ m495 +++$+++ EARL'S MOTHER +++$+++ Hi.
+L475764 +++$+++ u7328 +++$+++ m495 +++$+++ EARL +++$+++ Hi ma.
+L476078 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Not getting an answer?  For Christ's sake!  Call 911!  Let's get it locked down here!
+L476077 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ I'm not getting an answer.
+L476076 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ This isn't right...
+L476073 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ What do you think?  Heart attack?
+L476072 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Yeah.
+L476057 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ We're going to find out.
+L476056 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ You think he skipped town?
+L476055 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ I knew it, I knew it all along - shit!
+L476054 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ He didn't make it into work, and he's not home.
+L475647 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ We're doing a check on the manufacturers'	serial number, see if there were other defective tapes in the bunch.  What's your take on these local boys?  Are they providing any answers?
+L475646 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ No, it doesn't.  Neither does his blank tape.  Any news on that?
+L475645 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ I don't know how else you'd explain it.  The coroner's estimated time of death for everyone there was long before this fire started, unless of course Denning started it, and that doesn't make much sense.
+L475644 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ So someone did get away.
+L475643 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ That fire was set.  Deliberately. And probably not by anyone found at the scene.
+L475641 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ So...what's the good news?
+L475640 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Yeah, we did.  It was unleaded, high octane.
+L475639 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ That doesn't tell us much. Did you run a check on the gas like I told you?
+L475638 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Not in the trunk.
+L475637 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ There was more than that.
+L475636 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ But nowhere near three million dollars worth.  I would say maybe twenty thousand.
+L475635 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ Money.
+L475634 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Anything in it?
+L475633 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ We retrieved a few things from the trunk, including a steamer trunk, or the remnants of a trunk, the brass clips and so forth.
+L475632 +++$+++ u7331 +++$+++ m495 +++$+++ MARTIN +++$+++ Give me the bad news.
+L475631 +++$+++ u7334 +++$+++ m495 +++$+++ WALLACE +++$+++ You want to hear the good news first, or the bad news?
+L478251 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Sir, I'm working on a big case over here -- and by the time I get back they're gonna make you Governor.  Captain, you there?  Hello?  Shit!
+L478250 +++$+++ u7336 +++$+++ m496 +++$+++ CAPTAIN DIEL +++$+++ No, Carter.  The reason I'm screwed is because the entire department is about to find out the stolen credit cards we impounded were used to buy two first class upgrades to Hong Kong.  And what the hell is Heaven on Earth?
+L478249 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Is it because of the hookers, sir?  You tell them there's no crime in being lonely.
+L478248 +++$+++ u7336 +++$+++ m496 +++$+++ CAPTAIN DIEL +++$+++ I've waited my whole life for this job, but I don't have a shot in hell of getting it.  Do you know why?
+L478247 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Two hundred cops?  Was Mario Sanchez there?  He owes me money.
+L478246 +++$+++ u7336 +++$+++ m496 +++$+++ CAPTAIN DIEL +++$+++ Do you know what happened yesterday, Carter?  I was officially nominated for the Commissioner's post for the LAPD. There was a dinner last night, two hundred LAPD officers were there.
+L478245 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Did I say dinner?  I meant diner. Biscuits and gravy, you love that shit.
+L478244 +++$+++ u7336 +++$+++ m496 +++$+++ CAPTAIN DIEL +++$+++ It's nine-thirty in the morning.
+L478243 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Hong Kong?  I'm not in Hong Kong.  I'm in Hollywood -- right at Sunset and Vine, two minutes from the station.  How about I pick you up right now and take you to dinner?
+L478242 +++$+++ u7336 +++$+++ m496 +++$+++ CAPTAIN DIEL +++$+++ Is it true, Carter?  Are you in Hong Kong right now?
+L478723 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ I'm up a hundred and fifty-grand. That's a Ferrari.  Do they sell those here in the gift shop?  Somebody cash me out!
+L478722 +++$+++ u7338 +++$+++ m496 +++$+++ CRAPS DEALER +++$+++ Winner!  Four, winner!
+L478701 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Two-hundred thousand dollars?  Who wants a hundred dollars?
+L478700 +++$+++ u7338 +++$+++ m496 +++$+++ CRAPS DEALER +++$+++ Two-hundred thousand!
+L478699 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ How much is that?
+L478698 +++$+++ u7338 +++$+++ m496 +++$+++ CRAPS DEALER +++$+++ Winner six!
+L478686 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ Everyone else at the table has thousand dollar chips, but the black man gets the nickel, is that it?  Did my people survive two-hundred years of slavery so you could send us back to the cotton fields with five-hundred dollar chips? Do I look like Chicken George to you?
+L478685 +++$+++ u7338 +++$+++ m496 +++$+++ CRAPS DEALER +++$+++ No, sir.
+L478684 +++$+++ u7337 +++$+++ m496 +++$+++ CARTER +++$+++ You assumed a brother coming in here can only afford five-hundred dollars a roll, is that right?  Are you a racist?
+L478683 +++$+++ u7338 +++$+++ m496 +++$+++ CRAPS DEALER +++$+++ No, I just assumed...

@@ -1,0 +1,200 @@
+L326004 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ No.
+L326003 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Hamlet. Have you read it?
+L326002 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ What are you reading?
+L326001 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ It was probably the wind.
+L326000 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ I'm sorry, someone slammed the door on me. I couldn't get out.
+L325998 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Of course I would ..
+L325997 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ If I came to the diner with you, would you bring me back?
+L325996 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Well, some cars sound fat and some cars sound thin, and this kind of car sounded "hollow" ..
+L325995 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ I gotta admit, you're one of them. Just wish I knew what you meant by a "hollow car?"
+L325994 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ I suppose I'm the worst witness you've ever had?
+L325992 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ No problem. I'm not in a hurry.
+L325991 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ I'm sorry. I'll get my things.
+L325990 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ No, just a minute or two .. I knocked on your door - no one home, so I followed the music ..
+L325989 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Have you been here long?
+L325944 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ I don't know.
+L325943 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ What color was it?
+L325942 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Yes.
+L325941 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Did Amber have a dog?
+L325939 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Sometimes I look after friends dogs, if they go to dances, or something?
+L325938 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Lotta scratch-marks on your door?
+L325937 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ No.
+L325936 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ D'you have a dog? Seeing Eye Dog?
+L325935 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Yes, I could smell it on his breath, like I can on your's.
+L325934 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Me?
+L325933 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ No. Except he smoked. Like you.
+L325932 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Is there anything else you can tell me? Anything about him or her? Doesn't matter how small?
+L325931 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ My hands?
+L325930 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Can I see your hands?
+L325929 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ No, it has a mind of its own.
+L325928 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ The elevator wasn't working?
+L325922 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ I don't know. I guess she must have called him John? I'm mak- ing tea. Would you like some?
+L325921 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ John? .. You never said that on the phone? .. What makes you think his name was John?
+L325920 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Why not? You heard my voice?
+L325919 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ No.
+L325918 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ When we spoke on the phone, did you know I was blonde?
+L325917 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ You must have some idea about him.
+L325915 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ What kind of friend? Was he a boy friend? An old friend? New friend?
+L325914 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Well, I think I told you on the phone .. I went up to her room to say good-bye, and we just sat on the bed and chatted a while, while her friend was coming in and out collecting her things ..
+L325913 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ I'm Mr Berlin.  Mr Ross is right here. And Mr Ross is maybe gonna take a few notes, if that's O.K.?  O.K. .. I'd like you to tell me in what ever way you want, what you can remember about the time you spent with Amber on the aft- ernoon she left? Take your time, and nothing's too trivial, O.K.
+L325912 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ What d'you wanna ask, Mr Ross?
+L326308 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ The man from the F.B.I.
+L326307 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Who sought the warrant?
+L326306 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ Yes, Sir.
+L326305 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ You got a warrant for this?
+L326304 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ I dunno, Sir. Brought you up a Chevy.
+L326303 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ Why?
+L326302 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ I been told to take your car in, Sir.
+L326301 +++$+++ u6121 +++$+++ m407 +++$+++ BERLIN +++$+++ What are you doing, Travis?
+L325786 +++$+++ u6123 +++$+++ m407 +++$+++ CITRINE +++$+++ Come on, Michael, outta here, the guys trying to move in. I told you what we know, something else, you- 'll be the first to hear about it ..
+L325785 +++$+++ u6122 +++$+++ m407 +++$+++ BLATTIS +++$+++ Wasn't frozen, was it, Sergeant?
+L325784 +++$+++ u6123 +++$+++ m407 +++$+++ CITRINE +++$+++ Then do me a favor, and keep this outta the newspaper - that dump serves a dozen different communities, we don't even know if it's ours? Till we do I don't want no one worrying about ..
+L325783 +++$+++ u6122 +++$+++ m407 +++$+++ BLATTIS +++$+++ Grateful for your candor, Sir.
+L325782 +++$+++ u6123 +++$+++ m407 +++$+++ CITRINE +++$+++ .. we got a body part. We don't know what it is - probably some kind of hospital debris - we're gonna try and check it out. O.K. Now you know as much as we do ..
+L325781 +++$+++ u6122 +++$+++ m407 +++$+++ BLATTIS +++$+++ C'mon, Chief, if it's sensitive, tell me .. I'm not taking notes ..
+L325780 +++$+++ u6123 +++$+++ m407 +++$+++ CITRINE +++$+++ Interview over, Blattis ...
+L325905 +++$+++ u6124 +++$+++ m407 +++$+++ GOODRIDGE +++$+++ No, Sergeant, I got <u>no</u> <u>idea</u> with who. And I might add, that in another six weeks, a hundred and fifty students will be leaving here, & driving away for their Christmas holidays with pe- ople whose name I-won't-know-either ..
+L325904 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ And you got <u>no</u> <u>idea</u> with who?
+L325903 +++$+++ u6124 +++$+++ m407 +++$+++ GOODRIDGE +++$+++ Then let me put your mind at ease .. Firstly, Amber isn't "blind" - she has some useful vision - and second, this isn't a prison, it's a college of higher education - a severe vis- ual disability doesn't mean my stud- ents don't value their independence as much as anybody else - and Amber was a very independent young woman - She decided to leave - so she left ..
+L325902 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Yeah, I guess I do.
+L325901 +++$+++ u6124 +++$+++ m407 +++$+++ GOODRIDGE +++$+++ You find something curious in that?
+L325900 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ A blind girl can just walk out of here, and you don't know who with?
+L326289 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ I'm here, honey. I'm right here.
+L326288 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Is that Margie?
+L326237 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ Don't mix very well with beer.
+L326236 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ How you doing on those shoes?
+L326222 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ I think John, would <u>love</u> it ...
+L326221 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ You think John would like it?
+L326220 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Sure you can. Anyway, parties are all about standing still ..
+L326219 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ I haven't worn heels since I was 16. I don't think I could walk in these?
+L326218 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Think he still thinks about her. But not like then. Then was an obsession.
+L326217 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ You think he still loves her?
+L326216 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ You know, he crashed. He just couldn't come to terms with it .. John hates to lose, and he hated losing her .. Every spare minute, he's driving down to San Diego, having a terrible time with her, getting drunk, and driving back .. you just don't believe the amount he drank ..
+L326215 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ What does that mean?
+L326214 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Suzanne? Very pretty. She was a semi- professional model. But a policeman's wife she wasn't. So one day, she just packed it and left. And his whole life went straight down the nearest toilet.
+L326213 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ What was she like?
+L326212 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Two or three years ago.
+L326211 +++$+++ u6125 +++$+++ m407 +++$+++ HELENA +++$+++ When did John divorce?
+L326083 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Got a handshake like a partially excited penis.
+L326082 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ He's not that bad of a guy ..?
+L326081 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ She married some English prick.
+L326077 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ I wouldn't mind another B.E.E.R.
+L326076 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ You want something, darling?
+L326075 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Well, that's who she is. Cept she can't run away.
+L326074 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Except for the hair color, she looks just like Suzanne?
+L326073 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ I'm sure he is. But gettin in- to the "element" is a bad idea.
+L326072 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ He's happy, darlin ..
+L326071 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ She's a doll. But I wish he hadn't brought her out here.
+L326070 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Such a shame .. She's a really sweet kid ..
+L325808 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Even better.
+L325807 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ No it isn't .. It's Californian ..
+L325804 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Tonight I'm feeling lucky ..
+L325803 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ So tonight she confesses?
+L325800 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Freddy's new obsession ..
+L325799 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Friday night at City Hall. Got a great chance to frighten the fat.
+L325798 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ Bobby's out .. What's the hurry?
+L325797 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Dinner's another night, darlin .. This is a drive-by. I got an hour ..
+L325796 +++$+++ u6126 +++$+++ m407 +++$+++ MARGIE +++$+++ I'm not giving him <u>Pizza</u>. I haven't seem him for a year? I'm gonna cook him a dinner.
+L326174 +++$+++ u6128 +++$+++ m407 +++$+++ TAYLOR +++$+++ No, c'mon, Freddy, let's have this out & over. You know what everyone thinks? They think you're making a case coz you found yourself a nice piece of ass. And no one's blaming you for it, I hear she's worth the flowers. But don't come in here get- ting holy over us. Sure I put it in the paper. Coz I wanted to <u>stop</u> this bullshit. I don't want you drunk out- ta your head searching my office ag- ain. it's pissing <u>me</u>, & <u>everyone</u> off.
+L326173 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Shut up, King Jay ..
+L326172 +++$+++ u6128 +++$+++ m407 +++$+++ TAYLOR +++$+++ He tells her, "bye-bye," and she gets "attacked." Well, give me a fucking break! There <u>is</u> no "Ser- ial Killer." Stick her name up in neon, there's still no Serial kil- ler! And I ain't the only one say- ing it. Everyone in this building is saying it. And I mean <u>everyone</u>.
+L326171 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Alright, guys. We stop this <u>now</u>.
+L326170 +++$+++ u6128 +++$+++ m407 +++$+++ TAYLOR +++$+++ You think you're the only guy ever worked a homicide? I was a big-city cop too. And I bust- ed the clock on fucken Jennifer. I know more about this man than you'll over know - and that's how I know it ain't him - you- 're investigating a soap-opera ..
+L326159 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Whass going on here?
+L326158 +++$+++ u6128 +++$+++ m407 +++$+++ TAYLOR +++$+++ Just easy on the words you're putting in my face, Sergeant ..
+L326127 +++$+++ u6128 +++$+++ m407 +++$+++ TAYLOR +++$+++ No one's gonna make that Gent. Six months investigation, & the nearest we got, we thought he was a sailor.
+L326126 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Hey, we're not talking "talk" tonight.
+L325760 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Ask him.
+L325759 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ The coroner wants to know if we can release the derelict?
+L325748 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ I think I've found a hand.
+L325747 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Whatta you mean, "horrible?"
+L325746 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ I think I found some- thing horrible, Sir
+L325722 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ No, Sir.
+L325721 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Don't annoy me, Travis.
+L325720 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ I wonder what would make him do a thing like that?
+L325711 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ His father's the manager, Sir. The kid was up there shooting vermin, and he found the body.
+L325710 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Where do you fit in, Trimble?
+L325706 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ A derelict.
+L325705 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ Damn A, it's O.K. With a bit of luck I'm goin home. What we got?
+L325704 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ He was waiting for you, Sir. Wait- ed a good while. Said he'd go down and take a look. I hope that's O.K.
+L325703 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ He has? .. What's he doing here?
+L325702 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ On the infill. The guy from L.A.'s just gone down there ..
+L325701 +++$+++ u6127 +++$+++ m407 +++$+++ ROSS +++$+++ I'm already walking. Where is it?
+L325700 +++$+++ u6129 +++$+++ m407 +++$+++ TRAVIS +++$+++ You can drive down there, Sir ..
+L326969 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ You know I didn't ever want to hurt you.
+L326968 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Oh Jerry.
+L326967 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ No.
+L326966 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ I did the 23 hour nose-route to the top of El Capitan in 6 hours! I can make this work.
+L326965 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ I'm not trying to make history. _ 67.
+L326964 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ No one has ever dumped me.
+L326963 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Listen to me, it's over.
+L326962 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ You've never been alone and you can't be alone --
+L326961 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ There is something missing here.
+L326960 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Didn't hear it.
+L326959 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ It's over --
+L326958 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ No.
+L326957 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Listen to me!
+L326953 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ -- stop --
+L326952 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Don't say it.  We're both ragged out right now.
+L326949 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ I think you added the "brutal."
+L326948 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ What was our deal when we first got together?  Brutal truth, remember?
+L326947 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Tell you what -- I'd prefer loyalty..
+L326945 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Go ahead.  Jump right on into my nightmare.  The water's warm. _ 65.
+L326944 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ It's not "love me."  It's not "trust my handshake."  It's make the sale. Get it signed.  There shouldn't be "confusion" about that.
+L326943 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Look, I don't want a --
+L326942 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Jerry.  You and I are salespeople. We sell --
+L326941 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Everything's on the fucking run! Everything --
+L326940 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ I have to finish my job --
+L326939 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Could you just stop moving?
+L326938 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ It's all about you, isn't it? Soothe me, save me, love me --
+L326936 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Oh honey.  It's spun.
+L326935 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ What do I do?  How do I spin this?
+L326934 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ I just heard.
+L326862 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Jerry!  Do something --
+L326861 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ This can't be happening to me.
+L326837 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ It's a plan --  -- _ 51.
+L326836 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ You lost your head, it happens.  I'm so fuckin jazzed!  Listen. I'm going to have to fly to Chicago tomorrow, how 'bout if we meet in the Dallas airport and we all fly into New York together for the draft?
+L326835 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Well, no you didn't --
+L326834 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Don't worry about it -- I never told you what I thought of that memo either --
+L326833 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ I know.  Sorry I threw a scare into our lives there --
+L326786 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Let's go.  I'll drive you. _ 45.
+L326785 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Now.
+L326784 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ I'm sorry.  I was on a roll.  I meant something else.  When do you want to leave?
+L326783 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Who said anything about "loser?" Where do you get this word "loser?"
+L326782 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ You are not a loser.
+L326781 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Okay, this is working.
+L326780 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ King of the Housecalls! Master of the Living Room!
+L326779 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ That's right.
+L326778 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Well, it worked, and I will not let you fail.  You are Jerry Ma- fuckin-guire.
+L326777 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ I think I was trying to sleep with you at the time.
+L326776 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Good.  They're all heatseekers!  All of them, everybody. You keep one superstar and they'll all follow. There's no real loyalty, and the first person who told me that, Jerry Maguire, was you.
+L326775 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Seventy-two clients.  ONE stayed.  Jacket on, tie in pocket. _ 44.
+L326774 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Ugh!
+L326773 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ "Dad says we gwan sleep on it.
+L326772 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ And the egyptian cotton shirt that works with or without the jacket.  Tell me again, how was it left with Cush?
+L326771 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ The power move is to go unannounced.  Black suit, right?
+L326621 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ One of the accountants.
+L326620 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Who told you?
+L326619 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ I know about the bachelor party.
+L326618 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Oh -- don't forget tomorrow we have dinner with Wade Cooksey.
+L326617 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Jerry, this is what intimacy is!
+L326616 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ You know.  I don't think we need to do the thing where we tell each other everything!
+L326613 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Oh Gawd, oh yes, it's never been better. Never BETTER!!
+L326612 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Sooner... or later... I'll have to stop.
+L326611 +++$+++ u6130 +++$+++ m408 +++$+++ AVERY +++$+++ Don't ever stop fucking me!
+L327182 +++$+++ u6134 +++$+++ m408 +++$+++ DOROTHY +++$+++ Still going.
+L327181 +++$+++ u6131 +++$+++ m408 +++$+++ CHAD +++$+++ Yeah, how'd it go with Sportboy?
+L327180 +++$+++ u6134 +++$+++ m408 +++$+++ DOROTHY +++$+++ He's asleep, right?
+L327142 +++$+++ u6134 +++$+++ m408 +++$+++ DOROTHY +++$+++ Good, that'll put him to sleep early. No offense.
+L327141 +++$+++ u6131 +++$+++ m408 +++$+++ CHAD +++$+++ Hey, man, tonight I'm going to teach Ray about jazz.
+L327140 +++$+++ u6134 +++$+++ m408 +++$+++ DOROTHY +++$+++ Don't let him stay up too late.
+L326829 +++$+++ u6131 +++$+++ m408 +++$+++ CHAD +++$+++ Yeah, Dotty. You did. _ 50.
+L326828 +++$+++ u6134 +++$+++ m408 +++$+++ DOROTHY +++$+++ Wait.  Did I just say "hon" to him?
+L326908 +++$+++ u6132 +++$+++ m408 +++$+++ CUSH +++$+++ Talking and saying nothing, man, it's an art I have not mastered.
+L326907 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Just be friendly and say "no comment."
+L326906 +++$+++ u6132 +++$+++ m408 +++$+++ CUSH +++$+++ Reporters, Jerry.  They been callin' all night.
+L326898 +++$+++ u6132 +++$+++ m408 +++$+++ CUSH +++$+++ "Something in the way.  Yeah."
+L326897 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Okay. San Diego just came in with a last-minute scenario.  It's big.
+L326896 +++$+++ u6132 +++$+++ m408 +++$+++ CUSH +++$+++ "It's okay to eat fish, 'cause they Don't have any feelings...
+L326895 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Cush, Matt -- we have a decision to make.
+L326855 +++$+++ u6136 +++$+++ m408 +++$+++ JERRY +++$+++ Wait.  What do you mean?

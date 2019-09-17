@@ -1,0 +1,200 @@
+L100664 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Where was she?
+L100648 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You're right, you know. We don't have much time.
+L100647 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Uh-huh. And?
+L100646 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Just that it's been a perfect day and that I'd like to skip my fancy dessert and go home after this.
+L100645 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You're somewhere else, where?
+L100643 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Try and live a lifetime before Friday. Cram it all in. 
+L100642 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What?
+L100641 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I can't do this, honey.
+L100640 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What were your parents like?
+L100639 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I had a temper.
+L100638 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I just wondered. Why were you trouble?
+L100637 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Trouble. Why?
+L100636 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What were you like when you were younger?
+L100635 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No, I don't mind.
+L100634 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ But you don't mind.
+L100633 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Because I already tried once.
+L100632 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Why do you say that?
+L100631 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No. I couldn't.
+L100630 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I bet you could do a book.
+L100629 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ He's a genius. They're not photographs -- they're stories, entire histories captured in moments.
+L100628 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ On that one is beautiful. Look at their expressions. As if the camera weren't on them at all. As if they had no strength left to hide what they were feeling.
+L100598 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I sat there once. It was hot. Like today. I'd been shopping. I had all these bags around my feet I kept having to move every time the waiter came by...
+L100597 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Near the church.
+L100596 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Where? Near the doorway or the near the front of the church?
+L100595 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I sat outside and had coffee.
+L100594 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ And arraccinos and zeppolis. Yes! I know it!
+L100593 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Nobody's asking you to.
+L100592 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Why!? Because, I'm having thoughts I hardly know what to do with. I... can't seem to... stop them.
+L100591 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Why?
+L100590 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I just feel like I'm getting a little ... out of control that's all. It's kind of frightening.
+L100589 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ It's okay. It's not that hot anymore. Thanks God.
+L100588 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh, I'm sorry.
+L100586 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You know that little place nearby with the striped awning that sells sandwiches and little pizzas...
+L100585 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes.
+L100584 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Have you ever been to that station?
+L100583 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes. Tell me about the day you got off the train.
+L100582 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ How about Bari?
+L100581 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes.
+L100580 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ How about Italy?
+L100579 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Right now. Tell me someplace you've been -- someplace on the other side of the world. Anywhere but here.
+L100578 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ What?
+L100577 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Take me somewhere.
+L100576 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No.
+L100575 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Are you hungry?
+L100574 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You want to eat something?
+L100573 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I can't. Not yet.
+L100572 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Are you comfortable?  Do you... want to move to the bedroom?
+L100563 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes, that'd be nice.
+L100562 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Would you like a beer for your bath?
+L100561 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Sure.
+L100560 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ How about if I set the table?
+L100559 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Actually, no. I've got everything under control. I'd like to clean up myself a bit. I'm going to take a bath. Dinner'll be ready in about a half hour.
+L100558 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Can I help?
+L100556 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Couple. Want to help?
+L100555 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Fine. They're all having a good time. How many more shots do you have?
+L100554 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Oh, how is he?
+L100553 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Sorry I'm late. Richard called.
+L100551 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I want you to come.
+L100550 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Yeah?
+L100549 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I understand.  That's very kind of you.
+L100548 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I now know more about their affair than I remember about my marriage.  Francesca, the last thing I want to do is put you in any kind of situation that would... even though we know it's just -- I mean, it's nothing like that, but if anybody saw us or... 
+L100547 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I think he's running for town crier next year.
+L100546 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ The cashier at the general store was very dangerous.
+L100545 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh. I guess you got the whole story.
+L100544 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I uh... I had lunch in town today. Happened to cross paths with "that Redfield woman." I apologize. I thought you were half-joking about that.
+L100543 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh.
+L100542 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Listen, don't take this the wrong way but, I'm wondering if this is such a good idea.
+L100541 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh, hi. Look, I'm running a little late, but I'll still...
+L100540 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ It's Robert.
+L100519 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yeah. See you later.
+L100518 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Okay. See you later.
+L100517 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I'll drive myself. I have a few errands. I'll meet you there.
+L100516 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'll pick you up.
+L100515 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh, sure. Great.
+L100514 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Listen, I have to shoot Cedar Bridge until a little after sunset. I want a few night shots. Would you like to come with me? If you're interested...
+L100513 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Wonderful. Uh...
+L100512 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I would love to come for dinner.
+L100511 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ The light was fading. Huh-huh.
+L100510 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'm sorry I didn't call sooner, but I just read your note. I stuffed it into my pocket. The light was fading and I had to get my shot.
+L100509 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I was just... No.
+L100508 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Am I interrupting anything?
+L100507 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes! Hi.
+L100506 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Francesca?
+L100497 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ ... I feel like something's been spoiled now.
+L100496 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No, no. Forgive me. I made a mistake. It was an inappropriate thing to ask.
+L100495 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Listen, I'm sorry I --
+L100494 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I already apologized.
+L100493 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I thought we were just having a conversation. You seem to be reading all this meaning into it. Meanings I must be too simple to, uh... interpret or something.
+L100492 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I thought that's what we were doing -- asking questions.
+L100491 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What made you ask such a question?
+L100490 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ My mistake. I apologize.
+L100488 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Do you want to leave your husband?
+L100487 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Just because someone chooses to settle down and have a family doesn't necessarily mean they're hypnotized. Just because I've never seen a gazelle stampede doesn't mean I'm asleep in the world.
+L100486 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'm a little sick of this American Family Ethic everyone seems to be hypnotized by in this country. I guess you think I'm just some poor displaced soul doomed to roam the earth without a self-cleaning oven and home movie.
+L100485 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No, I'm just saying --
+L100484 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ That's not what you're saying. I know it's not the same. What you're saying is, it's not as good. Or it's not as normal or proper.
+L100483 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ But it's not the same.
+L100482 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No. But I love them just the same.
+L100481 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ But no one in particular.
+L100480 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I told you, I love other people.
+L100479 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ But -- how can you just live for what you want? What about other people?
+L100478 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Not everybody's supposed to have a family.
+L100477 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Do you ever regret not having a family?
+L100476 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No.
+L100475 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Do you ever regret it? The divorce, I mean.
+L100474 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I embrace Mystery. I don't know what's coming. And I don't mind.
+L100473 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Why doesn't it scare you?
+L100472 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No, I think I need everyone! I love people. I want to meet them all! I just think there are too many out there saying "This is mine." or "She's mine." Too many lines have been drawn. World's breaking apart because of man's weakness for some testosterone conquests over territory and power and people. He wants control over what deep down he knows he has no control over whatsoever and it scares him silly.
+L100471 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You really don't need anyone?
+L100470 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'm a loner, I'm not a monk.
+L100469 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Woman friends, too?
+L100468 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Never touch the stuff. I've got friends all over the world. Good friends I can see when I want, if I want.
+L100467 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You must get lonely at times.
+L100466 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I never got lost. For some reason, I'm more at home everywhere than at one place. So I decided I'll think of myself as some kind of world citizen. I belong everywhere and nowhere. I'm kin to everyone, and no one in particular. See, once you get into the habit of not needing anyone, it's kind of hard to break.
+L100465 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ So what happened?
+L100464 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Not at all. I wasn't around much... So why did I get married? Well, I thought it was a good idea at the time. Have a home base. Roots. You can get lost moving around so much.
+L100463 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Do you mind if I... ask you why you got divorced?
+L100452 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ We're not doing anything wrong, do you.
+L100451 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What?
+L100450 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Francesca?
+L100449 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes.
+L100448 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Are you all right?
+L100447 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What?
+L100446 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Francesca?
+L100445 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I'll do them later.
+L100444 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You sure you won't let me help you with those dishes?
+L100441 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'd appreciate it. I like knowing who I'm stealing from. If you can't create art I think the least you can do is recognize it around you, don't you think? There is...  ... so much beauty.
+L100440 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Umm, I don't know. I can look it up.
+L100439 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ This "... Of what I call God and fools can Nature." Who wrote that?
+L100438 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What?
+L100437 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You've got it all right here, you know. It's just as beautiful as any other place I've seen. God, it knocks me out.
+L100436 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I'm all right. It's working.
+L100435 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You want to go back in?
+L100434 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ When?
+L100433 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You get used to it.
+L100432 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Smells like dirt.
+L100431 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No, you rub it on you. I have some in the truck. Don't go away.
+L100430 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You drink bug repellent?
+L100429 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Have no fear. This Shoshone Medicine Woman taught me how to make bug repellent tea out of tree root.
+L100428 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Well, it's kind of buggy out there.
+L100427 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ They have safaris for tourists now. Maybe you can convince your husband.
+L100426 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ My God. How I'd love to see that.
+L100423 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ This is your home. It's not nowhere. And it's not dull.
+L100422 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. It's all right. I just meant, it might be a little dull for you, telling all this to some housewife in the middle of nowhere.
+L100421 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'm sorry. That was...
+L100420 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You're asking a man if he's too tired to talk about himself? You don't get out much, do you?
+L100419 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I don't know. I've never thought about it... what was the most exciting place you've ever been to? Unless you're tired of talking about it.
+L100418 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Do you miss it?
+L100417 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ My children. And Richard didn't like my working.
+L100416 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Why did you stop?
+L100415 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I'd like to think so. I know one of them went on to Medical school.
+L100414 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ And did you?
+L100413 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Well, let's just call it a compliment and move on.  Did you love teaching?
+L100412 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I didn't mean that the way it sounded.
+L100411 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I don't think you're normal.
+L100410 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No. I wouldn't say that. National Geographic isn't exactly the hub of artistic inspiration. They like their wild life in focus and without any personal comment. I don't mind really. I'm not artist. I'd faced that a long time ago. It's the course of being well-adjusted. I'm too normal.
+L100409 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You sound like an artist.
+L100408 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I don't know if obsessions have reasons. I think that's why they're obsessions.
+L100407 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Why, do you think?
+L100406 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I'm kind of obsessed by it, actually.
+L100405 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ "Making pictures." I like that. You really love what you do, don't you?
+L100404 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Nah. I've tried. My writing's too technical, I think. Problem of being a journalist too long is you stop giving yourself permission to invent. I better just stick to making pictures.
+L100403 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ You ought to write these stories down.
+L100401 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh you!
+L100400 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ We got engaged.
+L100399 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Then what happened?
+L100398 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ It's still a very sensitive memory for me.
+L100397 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh my God...  You're blushing.
+L100396 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ She starts sniffing me.
+L100395 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ What?
+L100393 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Okay.
+L100392 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Sure. Men cook. We don't all eat bananas with our feet, ya know.
+L100391 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Help cook?
+L100388 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ That's very nice of you. I don't get many dinner invitations on the job. It would be a welcome change. Thanks.
+L100387 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Would you like to stay for dinner?  There aren't many choices in town and ... anyway, you'd have to eat alone. So would I.
+L100386 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ You have no reason to feel ashamed. You haven't said anything you don't have a right to. And if anybody tells you different -- you just send them to me.
+L100385 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ But I... We don't even know each other.
+L100384 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Why? You uncorked a bottle. From what I can tell, I got here just in time. Any later and you'd have made the front page, running down Main Street naked, smoking Camels out of your butt.
+L100383 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I feel so embarrassed.
+L100382 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I better go. You sure you're all right?  It's been a pleasure. Sincerely.
+L100381 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I think so.
+L100380 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Is the dizziness gone?
+L100379 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Much.
+L100378 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Feeling better?
+L100372 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Yes. Very clean.
+L100371 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ And clean.
+L100370 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ No. I mean yes, he's clean but he's also other things. He's a very hard worker. Very honest. Very caring. Gentle. Good father.
+L100369 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Clean?
+L100368 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ He's very... clean.
+L100366 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ What's he like?
+L100365 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Richard was in the army. I met him while I was living in Naples. I didn't know where Iowa was. I only cared that it was America. And of course, being with Richard.
+L100364 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Italy to Iowa? I'd call that a change.
+L100363 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Why?
+L100362 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ I doubt that.
+L100361 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ I guess. Except I'm one of the people it frightens.
+L100360 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Everything does. One of the laws of nature. People are always so afraid of change. But if you look at it like it's something you can count on happening, it's actually a comfort. Not many things you can count on for sure.
+L100358 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ Must be nice having kids.
+L100357 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ Oh. Michael's 17 and Carolyn's 16.
+L100356 +++$+++ u4192 +++$+++ m279 +++$+++ ROBERT +++$+++ No, your kids.
+L100355 +++$+++ u4183 +++$+++ m279 +++$+++ FRANCESCA +++$+++ About a year and a half.

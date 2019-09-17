@@ -1,0 +1,200 @@
+L17170 +++$+++ u164 +++$+++ m11 +++$+++ KC-135 PILOT +++$+++ Ga get it.
+L17169 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ That's affirmative.
+L17166 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Roger.
+L17165 +++$+++ u164 +++$+++ m11 +++$+++ KC-135 PILOT +++$+++ Air Force One, please reduce speed to 250 knots.
+L17164 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Air Force One, acknowledged.  tNT. EMERGENCY PARACHUTE LAUNCH RAMP.
+L17163 +++$+++ u164 +++$+++ m11 +++$+++ KC-135 PILOT +++$+++ Please change course to Zero Seven Four and drop to eighteen thousand feet. Over.
+L17162 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ About goddamn time.
+L17161 +++$+++ u164 +++$+++ m11 +++$+++ KC-135 PILOT +++$+++ Air Force One, this is AF-135-RA. We have been instructed to refuel your plane.
+L17095 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ No! If we land this plane anywhere else, we will end up another Entebe.  The Americans built a super plane that flies through mushroom cloud, evades missiles and...  refuels in mid-air. Call the White House.
+L17094 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Over the Black Sea. I can probably get us to Turkey or Georgia.
+L17093 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Where are we now?
+L17092 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Not even close. Hell, we can't even make Syria or Iraq.
+L17091 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ We're not going to make it.
+L17090 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ We've stopped dumping... but we've only got about twenty minutes of fuel left.
+L17083 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Go! Take Serge.. and watch your backs.
+L17082 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Avionics compartment! It's the only place. You better get Zedeck down there fast Unless, of course, you'd rather be a martyr than a savior.
+L17081 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ How?
+L16995 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Well it worked.
+L16994 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Psychology. They're trying to unnerve us.
+L16993 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ why did they do that?
+L16992 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Remarkable aircraft. Remarkable.
+L16890 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ A secret service agent. It must be.
+L16889 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ We checked the manifest. Everyone was accounted for.
+L16888 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Who did this?
+L16791 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Any of us?
+L16790 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Nine.
+L16789 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ How many others killed?
+L16788 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Dead.
+L16787 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ The rest of the secret service?
+L16573 +++$+++ u162 +++$+++ m11 +++$+++ GIBBS +++$+++ Sir, this plane carries the President of the United States.
+L16572 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ We've already been inspected.
+L17451 +++$+++ u176 +++$+++ m11 +++$+++ TOWER +++$+++ Copy, Air Force One.
+L17450 +++$+++ u165 +++$+++ m11 +++$+++ KC-LO PILOT +++$+++ This is Romeo Tango Zulu changing call signs.  Tower, alert air traffic, Romeo Tango Zulu is now Air Force One.  This is Air Force One... The President is safe onboard.
+L17449 +++$+++ u176 +++$+++ m11 +++$+++ TOWER +++$+++ Tower, here.
+L17448 +++$+++ u165 +++$+++ m11 +++$+++ KC-LO PILOT +++$+++ We copy. Stand by...  Tower?
+L17446 +++$+++ u176 +++$+++ m11 +++$+++ TOWER +++$+++ Romeo Tango Zulu1 this is Tower.
+L17445 +++$+++ u165 +++$+++ m11 +++$+++ KC-LO PILOT +++$+++ Stand by.
+L17444 +++$+++ u176 +++$+++ m11 +++$+++ TOWER +++$+++ Romeo Tango Zulu, do you have the President? Over.
+L17413 +++$+++ u176 +++$+++ m11 +++$+++ TOWER +++$+++ Romeo Tango Zulu, copy One the television, graphics of the First Family against the Presidential Seal.
+L17412 +++$+++ u165 +++$+++ m11 +++$+++ KC-LO PILOT +++$+++ Tower, Air Force One has been boarded.
+L17036 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Very good. Thank you, Ms. Mitchell.
+L17035 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ You're pointing a gun at me.
+L17031 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ Scared. We're scared.
+L17030 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ How are your fellow hostages feeling, Ms. Mitchell?
+L17029 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ I'm responsible for Press Relations for the Flight Office.
+L17028 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ And what is it you do, Ms. Mitchell.
+L17027 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ Maria... Maria Mitchell.
+L17026 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ *                     Please tell me your name.
+L16617 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Thank you.
+L16616 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ Here's a press kit.  I'll let you guys get comfortable and once we're airborne I'll be able to schedule the interviews.
+L16614 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ Conference rooms, though some have other functions.  The one up front doubles as an emergency medical center.
+L16613 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ And all these rooms here?
+L16612 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ I guess it depends on your perspective.
+L16611 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ A dubious distinction, no?
+L16610 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ You don't know the half of it.  Did you know this entire plane is shielded from radiation?  We could fly through a mushroom cloud completely unharmed if necessary.
+L16609 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ This is a remarkable aircraft.
+L16608 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ Up on the upper deck is the cockpit and the Mission Communication Center. The MCC, as we call it, can place clear and secure phone calls to anywhere on earth.  We're linked to a network of military and civilian satellites and ground stations.  We could run the country or run a war from there if we had to.
+L16585 +++$+++ u170 +++$+++ m11 +++$+++ MITCHELL +++$+++ The President and I were delighted that we could accommodate you.  Now if you're all cleared?  You can follow me then.
+L16584 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Ms.  Mitchell.  So nice to finally meet you in person.
+L17248 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ You're very valuable. And our nation needs so many things.
+L17247 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ You got what you wanted. You going to release us now?
+L17225 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Three...
+L17224 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Jim...
+L17223 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Four...
+L17210 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Please. You can kill me but leave my daughter alone.
+L17209 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ The world is such a dangerous place and we can't always protect our children.
+L17154 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ You will be the first to pay for that mistake.
+L17153 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Nor will there be. My husband does not negotiate with terrorists.
+L17105 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Say something dear.
+L17104 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ No.
+L17103 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Shall I begin by executing the President's daughter? She's right here.
+L17059 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ So is this.  Come now, you're upsetting the little one.
+L17058 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ That was war.
+L17057 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ But they are not ny people. You look at me as if I am a monster, but answer me this -- when your planes bombed the oil fields of Iraq, did You cry for those dark skinned men whose names you do not know and who's faces You will never see? Did You cry for their wives and children. They were people too, yes... but they were not your people.
+L17056 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ How can you? I mean they're people.
+L17055 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ I neither enjoy nor dislike. I do what is necessary.
+L17054 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Why? Do you enjoy it?
+L17053 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Yes
+L17052 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Do you have to be so brutal?
+L16913 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Your husband is a coward. He sends soldiers half-way around the world to steal a man from his home in the middle of the night.
+L16912 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ My husband is a very courageous man.
+L16911 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ I know he left you behind.
+L16910 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ What do you know of my husband?
+L16909 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Or you will do what, Mrs. Marshall?  But I admire your courage. Your husband, on the other hand...
+L16908 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Leave my daughter alone.
+L16895 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Come on, Alice.
+L16894 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Now, or he dies, please.
+L16817 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Cooperation. If you try to escape, you will be met with automatic gunfire and a barricade of your comrade's bodies will prevent you from exiting. Good day.
+L16816 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ What do you want with us?
+L16815 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Fear will keep you alive. Any one who is not afraid is bound to do something foolish, and bound to die.
+L17298 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Hold on, Alice.
+L17297 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ No you won't. You'll compromise... like always.
+L17295 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ If you put down the gun, I promise not to drop her on the way down.
+L17294 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Let my daughter go or I'll take you out!
+L17293 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ There goes your ride.
+L17251 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ One thing I've learned as
+L17250 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ The taste of defeat is bitter, no?
+L17235 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ You don't like seeing people get hurt. Now in morality, that is a virtue. In politics, however, that is weakness.  You were a hostage to everyone else *                    long before you were a hostage to
+L17234 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Someday, you'll regret my nature.
+L17232 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Good. Good.
+L17231 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Yes, I'll do it.  Just leave my family alone.
+L17230 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ You'll do it?
+L17229 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Stop.
+L17214 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Pity. Mr. Gibbs.
+L17213 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ This administration does not negotiate with terrorists.
+L17212 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Call up Petrov and order Stravanavitch' S release.
+L17211 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ She isn't a part of this. This is between you and me.
+L17208 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ No. But since I only have a few of your staff left to kill, perhaps I will start with your family instead... Gibbs.
+L17207 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Over my dead body.
+L17206 +++$+++ u166 +++$+++ m11 +++$+++ KORSHUNOV +++$+++ Now since we've had very little luck getting Washington or Moscow to cooperate, I wondered if you would be so kind.
+L17100 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ I'm sure we can strike some sort of arrangement. Land the plane and we'll trade you hostages for fuel.
+L17099 +++$+++ u167 +++$+++ m11 +++$+++ LEE +++$+++ Finally, we can bargain.
+L16873 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ Yes. You've made yourself quite clear.
+L16872 +++$+++ u167 +++$+++ m11 +++$+++ LEE +++$+++ Madame Vice president. We have an options paper.  chandler takes the options paper, waves off Lee, and reads it as she talks.
+L16807 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ You heard me.  You. Congress and cabinet heads.
+L16806 +++$+++ u167 +++$+++ m11 +++$+++ LEE +++$+++ Twenty minutes?
+L16805 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ Okay, Gentlemen, we'll take no action until we confirm that the president is off the plane... Lee, go huddle with the D.O.D. I want an options paper on this in 20 minutes.
+L16804 +++$+++ u167 +++$+++ m11 +++$+++ LEE +++$+++ Our only policy assumes the plane is on the ground. Our hands are completely tied while they're in the air.
+L17174 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ That isn't necessary.
+L17173 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ Sir, we stay with the President.
+L17159 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ Yes, sir.
+L17158 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ I'll not going without my family.
+L17140 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Got it.
+L17139 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ Eighteen thousand feet, sir. And two hundred knots... otherwise it's suicide.
+L17138 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Get `em ready.  You... come with me.
+L17132 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ They've cut communication, and I spent a good bit of time looking for alternatives. My only solution ran out of batteries.
+L17131 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ We can't jump from here or at this speed. But if we could get a message out - tell the refueling plane...
+L17130 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ We've already played our cards, Major. There's no turning back.
+L17122 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ Gravity.
+L17121 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Mr. Caidwell, the ground's a few miles away. How do you propose getting us from here to there?
+L16720 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Tell our boys to cool their jets. I don't need `em creating policy for me.
+L16719 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ The northern border's gotten a bit hairy. Their MiGs are playing tag with our Tomcats and our boys are just itching to engage.
+L16716 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ They've gotta be joking.
+L16715 +++$+++ u168 +++$+++ m11 +++$+++ MAJOR CALDWELL +++$+++ Our KH-ll's took this one at 0100 hours. What you see here is the mobilization of two mechanized brigades.
+L17331 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ You haven't even driven a car since you took office.
+L17330 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Flying the plane.
+L17329 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ What are you doing?
+L17262 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Both of you.
+L17261 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Call Petrov...  I'll be back.
+L17241 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Please... don't start with me.
+L17240 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ I don't know why you stayed.
+L16709 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Shall I ask the Chief of Staff to schedule your daughter in?
+L16708 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Look on the bright side, hon. Shep here thinks I'll be a one termer.
+L16706 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Well, they aren't burning me in effigy. That's always a good sign.
+L16705 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ How did your speech go?
+L16704 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ This promise isn't subject to Congressional approval.
+L16703 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ I should trust that promise? Because you know the voters are still waiting for that middle class tax cut.
+L16702 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ I'll make it up to you, I promise.
+L16701 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ I wish it were that easy...
+L16700 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ But that's the point, Jim. We're right here.
+L16699 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ I miss you. And I miss her.
+L16698 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ What?
+L16697 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ You know what?
+L16694 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ And when have I had five minutes? When I wake up in the morning and I'm already three hours behind Schedule.  What do you want me to do, Rose, tell the G7 to fuck off because I'm a family man?
+L16693 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ How do you know she understands? You haven't spent more than five minutes with her, or me, in weeks.
+L16692 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ She's a big girl.  She understands.
+L16691 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ For godsakes, Jim, slow down and stop acting like the little dutch boy.  Not even you can plug all the world's leaks.  Don't you think it's a sign you're pushing too hard when your daughter sees more of you on MTV news than in person.
+L16690 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Rose, I don't have time for this.
+L16689 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ Don't.  I know spin control when I feel it.
+L16688 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ No, Mr. President.  It can't.
+L16687 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Can't it wait?
+L16686 +++$+++ u171 +++$+++ m11 +++$+++ ROSE +++$+++ May I speak to you for a moment?
+L17150 +++$+++ u173 +++$+++ m11 +++$+++ SECRETARY +++$+++ Actually, sir, you could be that someone.
+L17149 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Someone should give you a raise.
+L17148 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ White House Situation room.
+L17147 +++$+++ u173 +++$+++ m11 +++$+++ SECRETARY +++$+++ Where are we sending it?
+L17137 +++$+++ u173 +++$+++ m11 +++$+++ SECRETARY +++$+++ No. I thought about this, Mr.
+L17136 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ No good. I said they disabled the communications system.
+L17135 +++$+++ u173 +++$+++ m11 +++$+++ SECRETARY +++$+++ The fax machines.
+L17134 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Excuse me?
+L17133 +++$+++ u173 +++$+++ m11 +++$+++ SECRETARY +++$+++ The fax machines.
+L17010 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Freeing Stravanavitch is gonna get tens of thousands killed. I can't live with that.  I'm not royalty. I'm an elected official and the integrity of the office of the President is infinitely more important than the man who holds that office.  We don't negotitate. Not as long as I'm President. Is that understood?
+L17009 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ Please, Mr. President. You're going to get yourself killed. Is that your solution?
+L17008 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ But this is different, sir. You're the President.
+L17007 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ You know my policy. We don't negotiate with terrorists. If we start now, all of America becomes a target.
+L17006 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ and if that means negotiating...
+L17005 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Then tell me there's a rescue operation underway.
+L17004 +++$+++ u177 +++$+++ m11 +++$+++ V.P. CHANDLER +++$+++ They're still alive, but the loyalists plan to start killing hostages in forty minutes.
+L17003 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Did they say anything about my family?
+L16766 +++$+++ u172 +++$+++ m11 +++$+++ SECRET SERVICE AGENT +++$+++ Two... THREE. GO!
+L16765 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ But...
+L16764 +++$+++ u172 +++$+++ m11 +++$+++ SECRET SERVICE AGENT +++$+++ One.
+L16738 +++$+++ u172 +++$+++ m11 +++$+++ SECRET SERVICE AGENT +++$+++ We're handling it, sir.
+L16737 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Where's my family?
+L16736 +++$+++ u172 +++$+++ m11 +++$+++ SECRET SERVICE AGENT +++$+++ We're under attack.
+L16735 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ What's going on?
+L16934 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ No. no. no. Wait. Wait.
+L16933 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ Thank you for calling the white House...
+L16932 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Look lady, I don't have time for games. Just put the....
+L16931 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ Okay... if you're the President, when's your wife's birthday?
+L16930 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ You don't understand. This is an emergency. Let me talk to anyone.
+L16929 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ Sir, the President does not call this particular number. So whoever you are get a life, before I have this call traced.
+L16928 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Don't cut me off. This is an emergency.
+L16927 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ Yeah, right.
+L16926 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ This is the President.
+L16925 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ who can I say is calling?
+L16924 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ Okay listen, listen carefully. This is an emergency call from Air Force One. Who's there? Is the Vice- President there?
+L16923 +++$+++ u175 +++$+++ m11 +++$+++ SWITCHBOARD +++$+++ White House switchboard. How may I direct your call.
+L17404 +++$+++ u169 +++$+++ m11 +++$+++ MARSHALL +++$+++ We're hooked. Hove into position.
+L17403 +++$+++ u174 +++$+++ m11 +++$+++ SHEPHERD +++$+++ WE'RE HOOKED!

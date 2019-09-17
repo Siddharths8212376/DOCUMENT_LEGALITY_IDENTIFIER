@@ -1,0 +1,200 @@
+L473200 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ But you hate each other!
+L473199 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ What am I doing here?  Why, I'm here to see my partners, Gregor, the boys in the Russian Mafia.  See, your bosses had hoped to screw me by hiring you to pull your thieving double cross.  But they only just found out that what's in the briefcase is completely useless without me.  I can't fight them, and they can't kill me -- that means we're gonna have to do business together.
+L473140 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ You've told me a lot of things, boyo...
+L473139 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ It is, I'm telling you it is!!
+L473138 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ This better be the real thing or you're a dead man!
+L473036 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I swear, it has to come here!  It has to...
+L473035 +++$+++ u7320 +++$+++ m494 +++$+++ SEAMUS +++$+++ If you're lying to me you poor excuse for a human being, I'm gonna blow your brains all over this car.
+L472933 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ A post office box.
+L472932 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Sent it where?
+L472931 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I sent it to myself in Paris.
+L472930 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Then where is it?
+L472929 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I swear...
+L472928 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Bullshit!
+L472927 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I don't have it with me...
+L472926 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Don't talk to me unless you tell me what I want to hear, understand?!?  You have no choice in this, don't think about winning, think about staying alive.  I want the item, and if you don't give it to me, I'm gonna kill you.
+L472580 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Now that is an interesting proposition.
+L472579 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ So none of us knows who's paying the freight, this is just some anonymous job. For all we know, we're working for different people.
+L472578 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I got this gig through a contractor. And he most definitely didn't know who was doing the hiring, only that they were paying a lot of money...
+L472577 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Whoever hired us.
+L472862 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ What I do is none of your concern.  What you should do is wait for my next phone call.  I'm going to find a place where I can tilt the field in my favor.  When I'm ready, I'll call you and tell you what I want you to do.
+L472861 +++$+++ u7318 +++$+++ m494 +++$+++ PHONE VOICE +++$+++ So what do we do?
+L472860 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I'm in the middle of saving you people a great deal of money -- the least you could do is have the decency to pay me!
+L472859 +++$+++ u7318 +++$+++ m494 +++$+++ PHONE VOICE +++$+++ It was a mistake, it shouldn't have happened.
+L472858 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Much to your disappointment, no doubt.
+L472857 +++$+++ u7318 +++$+++ m494 +++$+++ PHONE VOICE +++$+++ Gregor, is that you?
+L472856 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ It's done.
+L472855 +++$+++ u7318 +++$+++ m494 +++$+++ PHONE VOICE +++$+++ Is it done?
+L472759 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I do, I do...
+L472758 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ I just wanted to make sure you knew who you were dealing with.
+L472757 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I need you, Swede, I can't do this without you!
+L472756 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ Really?
+L472755 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Nobody's going to do that!
+L472754 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ Don't cross me...
+L472753 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ What are you doing?
+L472752 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ What's that?
+L472751 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ There is one other thing...
+L472750 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Then I guess we're set.
+L472749 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ That's it.
+L472748 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ A means to an end, is that it?
+L472747 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ I hadn't thought about it.  Understand me, Gregor -- I take no pleasure in killing.  It doesn't bother me one bit, but I don't get off on it.
+L472746 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ I would imagine that the great satisfaction in all of this will be killing the American.
+L472582 +++$+++ u7314 +++$+++ m494 +++$+++ GREGOR +++$+++ Because if there's more than one party involved, if we really are working for different people, then perhaps some of us are on different sides.  Your orders might be different from mine.
+L472581 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ How so?
+L473001 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ If he hadn't you'd have put a bullet in his head a long time ago.
+L473000 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ How did you know?
+L472999 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Not exactly?  But close enough, eh?  So he saved your life, then?
+L472998 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Not exactly.
+L472997 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ I've never seen a man who could have taken what he just went through.  He's a cop?
+L472996 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Of course.  Don't you?
+L472995 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ And you respect him.
+L472994 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Yes, Sam's tough alright.
+L472993 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ He's tough, your American friend.
+L472975 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Hello, my friend.  He doesn't look French to me, Vincent.
+L472974 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Hello, Jean-Pierre.
+L473027 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ A Samurai has honor, a Samurai live by the code of Bushido, the way of the warrior.  I'm just a killer for hire.  The world isn't about honor, anymore. It's about survival.
+L473026 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ You seem one to me.
+L473025 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Vincent's life is his own burden; he'll have to carry it for himself.  And I'm not any kind of Samurai.
+L473024 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Perhaps forged is a better word.  Like steel.  Like a sword.  You're a modern Samurai.  I've spent my life around extraordinary men -- men like Vincent. But I've never seen anyone like you.  I'm afraid Vincent will die if he goes with you.
+L473023 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Created?
+L473022 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ I suppose I want to know how a man like you is created.
+L473021 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ So what is it you want to know?
+L473020 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Perhaps.  But you are not healthy, and if you try I'll kill you.
+L473019 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ If I was healthy, I could take that away from you.
+L473018 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Call it a reckoning of character.
+L473017 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ So this is what, a test?
+L473016 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Not a word.  But no ordinary criminal would have the extensive military and medical expertise you do.  And so I place the pieces of the puzzle together in a way that makes sense to me.  You work for some government agency and you carry a gun, and in my world, that makes you a cop.
+L473015 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Vincent told you that I'm a cop?
+L473014 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ You suffered through an agonizing pain last night, pain you could have avoided by declaring yourself an agent of the law.
+L473013 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I didn't expect that he would.
+L473012 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ He sees this differently, as you well know.
+L473010 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Forgive my intrusion into your affairs, but I am the one who connected Vincent to this job, his agent, if you will.  He is one of my oldest friends and I owe him a great debt, much like the debt I suspect he owes you.
+L473009 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It gets done now or not at all.  Another couple of days and the parties concerned are gone where I can't get them.
+L473008 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Something important?  A thing that cannot wait?
+L473007 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Yeah.
+L473006 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ But first you have something to take care of?
+L473005 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Soon.
+L473004 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ You should really let a doctor look at that.
+L473003 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Some, thanks.  Enough to move on, for now.
+L472992 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Then if you don't mind...  I'm gonna pass out.
+L472991 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Don't worry, we'll take care of it.
+L472990 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You think you can stitch me up on you own?
+L472980 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ No booze...Pain's in the mind, and the mind I can control.  Alright, let's do it.
+L472979 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Are you sure you won't have a drink?
+L472977 +++$+++ u7315 +++$+++ m494 +++$+++ JEAN-PIERRE +++$+++ Well, Vincent's American friend, shall we see what we can do for you?
+L472976 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ American.
+L472832 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Did he bring that with him?
+L472831 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ What are you gonna do, call him up and ask him to give us back our shit?
+L472807 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Fine with fucking me, we got work to do. I don't care what it takes, we are getting our property back and putting it into the hands of the people who are gonna pay us a great deal of money when we do.  I don't know about the rest of you guys, but I'm not the kind of guy to just sit back and take it in the ass.  I don't mean that in, like, a literal way...
+L472806 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's a cocktail.  Mostly demerol, cut with a little crank because we might need you awake in the real near future.
+L472622 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ My way is better.
+L472621 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Yeah, well...  My way works too.
+L472620 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Why don't you go do better, then...
+L472619 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's been known to happen.
+L472618 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Is that right?
+L472617 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Long enough to shoot back.
+L472616 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Not for long.
+L472615 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ All in the stomach, though.  Your man might live.
+L472614 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Gets the job done.
+L472613 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You shoot alright.
+L472590 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Anybody tries to unpleasant me I'll put two between his eyes -- one to do the job and the other to make sure it takes.
+L472589 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ The point remains: we could be working for different people.  There's a chance for one of us...  Maybe more than one of us -- has been paid to cross the others.  I don't know about you guys, but I like to know who I'm working for.  It can help prevent a great deal of...  ...unpleasantness.
+L472802 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ I don't think so.
+L472801 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ I don't particularly like killing, tubby, but I want you to know that this one I'm going to enjoy.
+L472796 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Not in mine.
+L472795 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ It's consider a virtue in some corners of the world.
+L472794 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Is that right?
+L472793 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ You should learn a little patience.
+L472792 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Where is this broad?
+L472778 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ I blast the lead car into oblivion...
+L472777 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ After we stop the target car I get out and use the heavy artillery to kill the driver and his bodyguard.
+L472776 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Eat shit and die slowly...
+L472775 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ I ride with fat-boy...
+L472635 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ Who you calling dumb, dickless?
+L472634 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ And you could stand to get a little smarter, ain't that right you dumb blonde fuck?
+L472633 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ I'm just worried about your health, Larry.  You could stand to shed a few pounds.
+L472632 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Who the fuck died and appointed you food czar?
+L472631 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ You should watch what you eat.
+L472610 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ Everybody.
+L472609 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ Who's they?
+L472608 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ They call me Swede.
+L472585 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ I got a surprise for you, blondie...
+L472584 +++$+++ u7321 +++$+++ m494 +++$+++ SWEDE +++$+++ What a surprise...
+L472583 +++$+++ u7316 +++$+++ m494 +++$+++ LARRY +++$+++ What're you talking about, man?  I don't understand.
+L473276 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Just to keep me company, Sam -- I hate smoking alone.  How about you?  I thought all you IRA types smoked.
+L473275 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I told you, I quit.
+L473271 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I guess that's for the best.
+L473270 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Gone.  Destroyed.
+L473269 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ What happened to it?
+L473268 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I don't know.  Nobody knows, except a bunch of people who are too dead to tell us.  There's probably a couple of guys back at the Company who know, but I don't think they plan to tell me anytime soon.
+L473267 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Tell me something first.  The package: what was it?
+L473266 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You better get some sleep, alright?
+L473265 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I know.
+L473264 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You don't owe me a goddamned thing, Vincent, and you know it.  You stepped in front of a bullet for me.  I owe you a heavy debt.
+L473263 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ "Your field dressing saved his life." That's three I owe you.
+L473262 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Nothing...
+L473261 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What of it?
+L473260 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You speak French.
+L473259 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ What?
+L473258 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You son-of-a-bitch...
+L473237 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Finish it!
+L473236 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ And now...
+L473235 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Finish the job...
+L473234 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Let's get him out of here...
+L473223 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I'll work on it...
+L473222 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You have to stop doing that!
+L473189 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ No, I don't.
+L473188 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Do you have a good answer?
+L473187 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ That's a good question.
+L473186 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ And when you finish?  What then?  This package, whatever it is, do you give it to the CIA?  Do you really think they deserve it?
+L473185 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ And yet you would have killed him to save my life.  You have a sense of honor, Vincent, that I can't even remember anymore.  I don't know that I ever even had it to begin with.  All I know to do, Vincent, is to finish my job.
+L473184 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Closest and oldest.
+L473183 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It's the one thing I've got left to hold onto.  Jean-Pierre is one of your closest friends, is he not?
+L473182 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Why not?
+L473181 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Because I don't walk away.
+L473180 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Why then, Sam, don't you act like this is a job like any other?  Surely, if you are a hired gun, you realize that some times you just have to walk away without getting what you came for.
+L473179 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ The mark of a true Samurai.  What I do for the Company, Vincent, is no different than what you do.  We're both hired guns, and this is a job -- like any other job.
+L473178 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Why?  You've got more force of will than anyone I've ever seen.  You handle a gun like it's a part of you, you perform surgery on yourself without anesthesia...  And most amazing of all, you quit smoking, just like that.
+L473177 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Would you stop with that...
+L473176 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ What of it?  Samurai pain in the ass.
+L473175 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Not just like that... Just before I turn around and it's six months from now and the first thing I do when I wake up in the morning is light a cigarette.
+L473174 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Just like that?
+L473173 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Time to quit.
+L473172 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ If I'm going to die for the CIA, I'm going to go out smoking.  Besides, there's half a forest between us and them, they can't see a goddamned thing.
+L473171 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Not here.  They might see it.
+L473164 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Yeah.  We need out fucking heads examined.
+L473163 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Do we need anything else?
+L473162 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I think not.
+L473161 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ In a minute.
+L473160 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ If our positions were reversed, would you leave me?
+L473159 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ No you don't, and you know it.
+L473158 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ So I do it.
+L473157 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I know I don't need to say this to you, but I need to say it to you.  This is my job, I have to do it.
+L473156 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Something like that.
+L473155 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Business keeps you on the road?
+L473154 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I'm not here very much.
+L473147 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Why are you driving?  You're not French, you don't live here, you don't know these roads.  Why are you driving?
+L473146 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Gimme a goddamn cigarette!!!!
+L473145 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Right now?
+L473144 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Give me a cigarette.
+L473122 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You don't know?  Bullshit, you had her, there was no way out.
+L473121 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I don't know...
+L473120 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ What the fuck happened?
+L473107 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You said it yourself: Gregor's not dead. If they had the package, they'd have killed him.
+L473106 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ You think?
+L473105 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ They don't have the package.
+L473102 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Because I owe you.  Look at that...
+L473101 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ How could you have done that?
+L473100 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I would have tried not to.  But yes, if it would have kept him from shooting you, I would have.
+L473099 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You would have done that?
+L473098 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I was waiting to see what would happen. I didn't want to kill him if I didn't have to.
+L473097 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ You were behind the door?
+L473096 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ I know.  Jean-Pierre did.
+L473095 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I never made that claim.
+L473094 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Not very zen of you, huh?  Not so much the modern Samurai after all.
+L473093 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ It is at that.
+L473092 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Very ugly.
+L473091 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ Dark operations.  Wet work.  Kidnaping. Assassination.
+L473090 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ Dark ops?
+L473089 +++$+++ u7319 +++$+++ m494 +++$+++ SAM +++$+++ I'm a field agent -- last of an already extinct breed.  I do dark ops.
+L473088 +++$+++ u7323 +++$+++ m494 +++$+++ VINCENT +++$+++ It's a cover, then.  A cover within a cover, a feint within a feint.  You work for the CIA, it's the only possible answer.

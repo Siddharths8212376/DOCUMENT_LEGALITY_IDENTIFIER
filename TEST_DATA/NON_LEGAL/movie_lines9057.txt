@@ -1,0 +1,200 @@
+L208750 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Well, thank you.
+L208749 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Don't worry about a thing, sir. Just enjoy your stay.
+L208748 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Oh, and could I get a quart of Wild Turkey, two fifths of Baccardi, and a night's worth of ice delivered to my room, please?
+L208747 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ My bags are out there in that white Cadillac convertible. Can you have someone drive it around to the room?
+L208746 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Certainly, Mr. Duke!
+L208744 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Listen, you fuzzy little shithead -- I've been fucked around, in my time, by a fairly good cross-section of mean-tempered rule-crazy cops and now it's MY turn. "Fuck you, officer, I'm in charge here, and I'm telling you we don't have room for you."
+L208743 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Of course, I could hear what the Clerk was really saying...
+L208692 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Righto!
+L208691 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Let's have lunch!
+L208690 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Not for me.
+L208689 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ There's no hurry! The race is over!
+L208688 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Look. That telegram was all scrambled. It was actually from Thompson, not to him. Western Union must have gotten the names reversed. I have to get going. I have to get out to the track.
+L208687 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ But he will be available? Perhaps later this morning?
+L208686 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Of course. But if I were you, I'd leave the Doctor alone until after he's eaten breakfast. He's a very crude man.
+L208685 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Well... the manager, Mr. Heem, would like to meet him. Nothing unusual. Mr. Heem likes to meet all our large accounts... put them on a personal basis... just a chat and a handshake, you understand.
+L208684 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Awake? What do you mean?
+L208683 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Tell me. When will the doctor be awake?
+L208682 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ You did the right thing. Never try to understand a press message. About half the time we use codes -- especially with Dr. Gonzo.
+L208681 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ What confused us was Dr. Gonzo's signature on the telegram from Los Angeles. When we knew he was right here in the hotel.
+L208680 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ He is. Don't worry, I'll get it to him.
+L208679 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ I checked the register for this man Thompson. We don't show him but I figured he might be part of your team.
+L208678 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Yes... It makes sense.
+L208677 +++$+++ u918 +++$+++ m60 +++$+++ CLERK +++$+++ Sir?  This telegram came for you. Actually, it isn't for you. It's for somebody named Thompson, but it says 'care of Raoul Duke'. Does that make sense?
+L208877 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ What?
+L208876 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Dobermans don't talk.
+L208875 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Hell, no. We'd never hear the goddamn end of it.
+L208872 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ WHAT?
+L208871 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Cut their goddamn heads off. Every one of them. That's what we're doing in California.
+L208847 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Naked.
+L208846 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Naked!?
+L208836 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Not where we operate.
+L208835 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Naw! That's science fiction stuff!
+L208832 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Witchcraft? Shit, you can't mean it!
+L208831 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ They're everywhere. Nobody's safe. And sure as hell not in the South. They like warm weather... You'd never believe it. In L.A. it's out of control. First it was drugs, now it's witchcraft.
+L208830 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ You're another one of these California boys. Your friend here's been tellin' us about dope fiends.
+L208829 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Rum and ice, please.
+L208870 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You know what I mean. We've done it before and we can damn well do it again!
+L208869 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ What do you mean by that?
+L208868 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You're going to need to take the bull by the horns -- go to the mat with this scum.
+L208867 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Hell, I really hate to hear this. Because everything that happens in California seems to get down our way, sooner or later. Mostly Atlanta. But that was back when the goddamn bastards were peaceful. All we had to do was to keep 'em under surveillance. They didn't roam around much... But now Jesus, it seems nobody's safe.
+L208857 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ That's how he got so big. When he quit the Marines he was just a little guy.
+L208856 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Really?
+L208855 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ He wanted the pineal gland.
+L208854 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Naw! Not a major.
+L208853 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ We know where he lives, but we can't get near the house.
+L208852 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ A major!
+L208851 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Yeh. The big guy used to be a major in the Marines.
+L208841 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ And nobody did anything?
+L208840 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Do? Jesus Christ, man. They chopped her goddamn head off right there in the parking lot! Then they cut all kinds of holes in her head and sucked out the blood!
+L208839 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ What happened? What did they do to her?
+L208828 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Not down in my parts.
+L208827 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ They'll climb right into your bedroom and sit on your chest with big Bowie knives. They might even sit on your wife's chest. Put the blade right down on her throat.
+L208826 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ Naw!
+L208825 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You will. One of these nights you'll wake up and find a junkie tearing your bedroom apart.
+L208824 +++$+++ u919 +++$+++ m60 +++$+++ DA +++$+++ I'm a whiskey man myself. We don't have much trouble from drugs where I come from...
+L209098 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Don't worry...  ...and I'm actually the District Attorney from Ignoto County.  Just another good American like yourself.
+L209097 +++$+++ u925 +++$+++ m60 +++$+++ PROPRIETOR +++$+++ This is my granddaughter...
+L209096 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Oh, my God!...
+L209095 +++$+++ u925 +++$+++ m60 +++$+++ PROPRIETOR +++$+++ That's a fine combination. You can't lose.
+L209094 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I know. I'm a triple Scorpio.
+L209093 +++$+++ u925 +++$+++ m60 +++$+++ PROPRIETOR +++$+++ A great town, that Vegas. I bet you had good luck there. You're the type.
+L209092 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Las Vegas.
+L209091 +++$+++ u925 +++$+++ m60 +++$+++ PROPRIETOR +++$+++ Where ya comin' from, young man?
+L208400 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Wait a minute! Come back and have a beer!
+L208399 +++$+++ u923 +++$+++ m60 +++$+++ HITCHHIKER +++$+++ Thanks for the ride. Thanks a lot. I like you guys. Don't worry about me.
+L208353 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Never mind. Let's get right to the heart of this thing. Twenty-four hours ago we were sitting in the Pogo Lounge of the Beverly Wills Hotel...
+L208352 +++$+++ u923 +++$+++ m60 +++$+++ HITCHHIKER +++$+++ What?
+L208351 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I didn't think so. Because in spite of his race, this man is extremely valuable to me. Hell, I forgot all about this beer. You want one?  How about some ether?
+L208350 +++$+++ u923 +++$+++ m60 +++$+++ HITCHHIKER +++$+++ Hell, no!
+L208349 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I want you to understand that this man at the wheel is my attorney! He's not just some dingbat I found on the Strip. He's a foreigner. I think he's probably Samoan. But it doesn't matter, does it? Are you prejudiced?
+L209077 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Yeah... Explaining my Position. Some asshole wrote a poem about that once...
+L209076 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Don't take any guff from those swine. Remember, if you have any trouble you can always send a telegram to the Right People.
+L209074 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Why not? But for Christ's sake, just do it fast!
+L209073 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Ridiculous! Just say you were hitchhiking to the airport and I picked you up. You never saw me before. Shit, this town is full of white Cadillac convertibles. I plan to go through there so fast that nobody will even glimpse the goddamn license plate. You ready?
+L209072 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ No! I can't get out! They'll crucify me. I'll have to take the blame!
+L209070 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Never missed a plane yet.
+L209069 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ The airport is over there!
+L209066 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ We had abused every rule that Vegas lived by -- burning the locals, abusing the tourists, terrifying the help. The only chance now, I felt, was the possibility that we'd gone to such excess that nobody in the position to bring the hammer down on us could possibility believe it.
+L209065 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ What are you doing? You were supposed to turn back there!
+L209059 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Her eyes were turgid with fear, but her brain was functioning on some basic motor survival level.
+L209058 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ How much is the lemon meringue pie?
+L209057 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I was stupid with shock -- not knowing whether to run or start laughing.
+L209044 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Two glasses of ice water with ice.
+L209043 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ There was nothing in the atmosphere of the North Star to put me on my guard...
+L208999 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Yeh... This foreign made crap -- is sucking our dollar balance dry!
+L208998 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Fuck the car. They should make these things with a goddamn FM radio.
+L208983 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Inspector Rock will pay you. In cash. A thousand dollars on the ninth of every month.
+L208982 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Alright, Alice... you'll be contacted by Inspector Rock. Arthur Rock. He'll be posing as a politician.
+L208976 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Do you think you can handle it?
+L208975 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I think we should put her on the payroll. See what she comes up with.
+L208974 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ So do we, lady.
+L208941 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ FINISH THE FUCKING STORY! What happened?! What about the glands?
+L208940 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Man I'll try about anything; but I'd never touch a pineal gland.
+L208936 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ ...then you'd notice about six huge hairy tits swelling up on your back...
+L208935 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Yes!
+L208934 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ ...grow claws... bleeding warts.
+L208933 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Right!
+L208932 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Man, your head would swell up like a watermelon, you'd probably gain about a hundred pounds in two hours...
+L208931 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Sure. That's a good idea. One whiff of that shit would turn you into something out of a goddamn medical encyclopedia.
+L208930 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Extract of pineal!
+L208929 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Some of what?
+L208928 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Why not? We should get some of that. Just eat a big handful and see what happens.
+L208925 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I could already feel the stuff working on me -- the first wave felt like a combination of mescaline and methedrine -- maybe I should take a swim, I thought...
+L208924 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I know, but the guy didn't have any cash to pay me. He's one of these Satanism freaks. He offered me human blood -- said it would take me higher than I've ever been in my life.  I thought he was kidding, so I told him I'd just as soon have an ounce or so of pure adrenochrome -- or maybe just a fresh adrenaline gland to chew on.
+L208923 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Jesus... what kind of monster client have you picked up this time? There's only one source for this stuff -- the adrenaline gland from a living human body!
+L208922 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Never mind, it's absolutely pure.
+L208921 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Where'd you get this?
+L208920 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I remember slumping on the bed, his performance had given me a bad jolt. For a moment I thought his mind had snapped -- that he actually believed he was being attacked by invisible enemies. But the room was quiet again.
+L208917 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I remember thinking, "Jesus, what a terrible thing to lay on somebody with a head full of acid."
+L208916 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Hi, Lucy?  Yeah, it's me. I got your message... what? Hell, no, I taught the bastard a lesson he'll never forget... what?  No, not dead, but he won't be bothering anybody for a while. Yeah. I left him out there, I stomped him, then pulled all his teeth out...
+L208915 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Adrenochrome...
+L208914 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You won't need much. Just a little tiny taste, that stuff makes pure mescaline seem like ginger-beer. Adrenochrome.
+L208913 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What is this?
+L208912 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Relax. Let me handle this.  You'd make a piss-poor lawyer... Room 1600, please.  As your attorney, I advise you not to worry.  Take a hit out of that little brown bottle in my shaving kit.
+L208911 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ It's gone too far.
+L208910 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ OK, goddamnit!... Look... I'll call her. I'll get her off our backs. You're right. She's my problem.
+L208905 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ She really flipped over you. The only way I could get rid of her was by saying you were taking me out to the desert for a showdown -- that you wanted me out of the way so you could have her all to yourself.  I guess she figures you won. That phone message wasn't for me, was it?
+L208904 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Me?
+L208903 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ No, she's looking for you.
+L208902 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Lucy is looking for you.
+L208901 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Good work.  They'll treat us like goddamn lepers after that.
+L208879 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ They'll fight like hell if you try to take the head without the dogs.
+L208878 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Sometimes it's easier to just rip out the backstraps.
+L208874 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ We keep it quiet. It's not the kind of thing you'd want to talk about upstairs. Not with the press around.
+L208873 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Sure. It's all on the Q.T., but everybody who matters is with us all the way down the line.
+L208866 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Hurry up with those drinks. We're thirsty. Only two rums. Make mine a Bloody Mary.
+L208865 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What's wrong with you? Hell, somebody has to do it.
+L208849 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ They were all veterans.
+L208848 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Yeh, naked!... except for the weapons.
+L208845 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ ...and every one of them stacked naked...
+L208844 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Like big lizards.
+L208843 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ They just ran back out into Death Valley -- you know, where Manson turned up...
+L208842 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What could they do? The guy that took the head was about six-seven, and maybe three-hundred pounds. He was packing two Lugers, and the others had M-16s.
+L208838 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Just the other day we had a case where they grabbed a girl right out of a McDonald's hamburger stand. She was a waitress, about sixteen years old... with a lot of people watching, too!
+L208837 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Hell, in Malibu alone, these goddamn Satan worshippers kill six or eight people every day. All they want is the blood. They'll take people right off the street if they have to.
+L208834 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Man, you don't know trouble until you have to face down a bunch of these addicts gone crazy for human sacrifice!
+L208833 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Read the newspapers.
+L208804 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Right. Sure as hell some dope-dealing bomb freak is going to recognize you and put the word out that you're partying with a thousand cops.
+L208803 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ This is a fucking nightmare.
+L208802 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Don't mention that word around here. You'll get them excited.
+L208801 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Man, I know these people in my goddamn blood!
+L208800 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ They're actually nice people when you get to know them.
+L208799 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I saw these bastards in Easy Rider, but I didn't believe they were real. Not like this. Not hundreds of them!
+L208794 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Right. Let's find a good seafood restaurant and eat some red salmon. I feel a powerful lust for red salmon...
+L208793 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Maybe we should take it easy tonight.
+L208792 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ As your attorney, I advise you to tell me where you put the goddamn mescaline.
+L208791 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ That's good. You can't be subtle in this town.
+L208790 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I gave the cabbie an extra ten bucks to make sure she gets there safe. Also, I told him I'd be there myself in an hour, and if she wasn't, I'd come back out here and rip his lungs out.
+L208787 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I felt like a Nazi, but it had to be done.
+L208786 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Okay, Lucy, it's time to go meet Barbra...
+L208784 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Us?
+L208783 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ It just occurred to me, that she has no witnesses. Anything that she says about us is completely worthless.
+L208782 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What?... What kind of goddamn monster are you?
+L208781 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ We have to cut her loose. She's got two hundred dollars. And we can always call the cops up there in Montana, where she lives, and turn her in.
+L208780 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ The only alternative was to take her out to the desert and feed her remains to the lizards. But, it seemed a bit heavy for the thing we were trying to protect: My attorney.
+L208778 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ You'll go straight to the gas chamber. And even if you manage to beat that, they'll send you back to Nevada for Rape and Consentual Sodomy. She's got to go.
+L208777 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ NO! I felt sorry for the girl, I wanted to help her!
+L208776 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ In a few hours, she'll probably be sane enough to work herself into a towering Jesus-based rage at the hazy recollection of being seduced by some kind of cruel Samoan who fed her liquor and LSD, dragged her to a Vegas hotel room and savagely penetrated every orifice in her body with his throbbing, uncircumcised member.
+L208775 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You filthy bastard. I should cave your fucking head in.
+L208774 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ I figure she can do about four at a time. Christ, if we keep her full of acid that's more like two grand a day. Maybe three.
+L208773 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ NO! Stop talking like that.
+L208772 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ It's straight economics. This girl is a god-send. Shit, she can make us a grand a day.
+L208771 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Jesus Christ. I knew you were sick but I never expected to hear you actually say that kind of stuff.
+L208770 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ She's perfect for this gig. These cops will go fifty bucks a head to beat her into submission and then gang fuck her. We can set her up in one of these back street motels, hang pictures of Jesus all over the room, then turn these pigs loose on her... Hell she's strong; she'll hold her own.
+L208769 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Listen, she's running away from home for something like the fifth time in six months. It's terrible.
+L208768 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Well... It'll probably work out. We can keep her loaded and peddle her ass at the drug convention.
+L208767 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Shit. I met her on the plane and I had all that acid.  You know, those little blue barrels. I gave her a cap before I realized... she's a religious freak... Jesus, she's never even had a drink.
+L208766 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Lucy.
+L208765 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Plans?
+L208764 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ WELL? What are your plans?
+L208753 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ It can't be helped. This is Lucy.  You know -- like "Lucy In The Sky With Diamonds."
+L208752 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ You degenerate pig!
+L208724 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You're supposed to be in Vegas. We have a suite at the Flamingo. I was just about to leave for the airport.
+L208723 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What? Fuck telegrams. I'm in trouble. You worthless bastard. I'll cripple your ass for this! All that shit in the car is yours! You understand that? When I finish testifying out here you'll be disbarred!
+L208722 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ What are you doing in Baker? Didn't you get my telegram?
+L208721 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ You bastard! I need a lawyer immediately!
+L208645 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Who said anything about slicing you up? I just wanted to carve a little Z on your forehead. Nothing serious.
+L208644 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ There's no choice. I wouldn't dare go to sleep with you wandering around with a head full of acid and wanting to slice me up with that goddamn knife!
+L208643 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ The cops?
+L208642 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Why not? Hell, just a minute ago, you were asking me to kill you! And now you want to kill me! What I should do, goddamnit, is call the police!
+L208641 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You cheap honky sonofabitch...
+L208640 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Why worry? You'll like it. Nothing in the world like a Mace high. Forty- five minutes on your knees with the dry heaves...
+L208639 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ You bastard! You'd do that, wouldn't you?
+L208635 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Are you ready?
+L208634 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Fuck yes. I was beginning to think I was going to have to go out and get one of the goddamn maids to do it.
+L208632 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Do it! I want to get HIGHER!
+L208631 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Jesus.
+L208630 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ BULLSHIT! Don't make me use this.
+L208629 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Not me. It would blast you through the wall -- stone dead in ten seconds and they'd make me explain it!
+L208628 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Back the tape up. I need it again! Let it roll! Just as high as the fucker can go! And when it comes to that fantastic note where the rabbit bites its own head off, I want you to THROW THAT FUCKING RADIO INTO THE TUB WITH ME!
+L208627 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ Don't touch it! Get back in that tub!
+L208626 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I want that fucking radio!
+L208623 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Whatever's right.
+L208622 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ How about a check?
+L208621 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Of course, I'm your attorney, I'll give you all the time you need, at my normal rates: $45 an hour -- but you'll be wanting a cushion, so, why don't you just lay one of those $100 bills down there beside the radio, and fuck off?
+L208620 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ OK. But do me one last favor, will you. Can you give me two hours? That's all I ask -- just two hours to sleep before tomorrow. I suspect it's going to be a very difficult day.
+L208619 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ I dig my own graves. Green water and the White Rabbit. Put it on.
+L208618 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ You're doomed. I'm leaving here in two hours and then they're going to come up here and beat the mortal shit out of you with big saps. Right there in that tub.
+L208617 +++$+++ u921 +++$+++ m60 +++$+++ GONZO +++$+++ Jefferson Airplane. "White Rabbit." I want a rising sound.
+L208616 +++$+++ u920 +++$+++ m60 +++$+++ DUKE +++$+++ What tape?

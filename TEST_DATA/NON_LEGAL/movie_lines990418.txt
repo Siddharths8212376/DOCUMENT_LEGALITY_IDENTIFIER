@@ -1,0 +1,200 @@
+L597937 +++$+++ u8330 +++$+++ m565 +++$+++ LA HIRE +++$+++ Hey, my friend!  I'm glad to see your ugly damn face again!
+L597936 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ So who gave the order to bring me to this side of the river??
+L598613 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ And you look pretty wealthy for a servant of God, wouldn't you say?
+L598612 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ Still, pretty wealthy for a peasant girl wouldn't you say?
+L598611 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes, I was given a few, but I never had time to wear them...
+L598610 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ What about all those dresses you were given... silk dresses weren't they?
+L598609 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No.
+L598608 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ As much as for a Lord?  What an honor!  Did your king give you other wealth apart from horses?
+L598607 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Five steeds and a few hackneys...
+L598606 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ How many did he give you?
+L598605 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ My king.
+L598604 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ Who gave you that horse?
+L598603 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes... a half-steed... white.
+L598602 +++$+++ u8331 +++$+++ m565 +++$+++ MAITRE MAURICE +++$+++ When you were taken prisoner at Compiegne, did you have a horse?
+L598812 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Let's see.
+L598811 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes, my lord.
+L598810 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ You think you are ready now?
+L598788 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No...
+L598787 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ You know what you just signed, Jeanne?  You just signed away my existence... For you I'm a lie, an illusion.  You see?  In the end, you were the one who abandoned me...
+L598743 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ ... to love your enemy as much as you love yourself?
+L598742 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes...
+L598741 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Are you willing to follow all His commandments?
+L598740 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes I am.
+L598739 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Do you think you are ready?
+L598738 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ There's nothing for me to do here anymore... I don't belong here I want to be with Him now...
+L598734 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Are you sent by God?
+L598733 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Yes... of course... when you don't need me anymore.
+L598732 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Are you going to leave me too?
+L598731 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I don't think so.
+L598730 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ My voices... my voices... do you think they will ever come back?
+L598729 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Good.  But "love your enemies"... body and soul.
+L598728 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ "Love your enemies"...
+L598725 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, I...
+L598724 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Do you think this cross will protect you?
+L598723 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Because... because I don't know what else to do to please him.
+L598722 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ What for?
+L598721 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I'm trying to make my cross look more beautiful...
+L598720 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ What are you doing on the wall?
+L598719 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I -- I cleaned up my room, look... and I said my prayers... all of them... and...
+L598692 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Really?
+L598691 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I never took pleasure in hurting anyone?
+L598690 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Ah, pleasure... that's a difficult word to define.  When does the pain end and the pleasure begin...? When did your pleasure begin with that sword in your hand...?
+L598689 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Why are you doing this to me??  Do you get pleasure from hurting me?
+L598688 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I don't agree.  Why do you have to keep changing your mind all the time?
+L598686 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I agree...
+L598685 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, I do not think so.  I don't think that killing each other will ever bring peace.
+L598684 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ No, no, you did fine.  I'd even say well done.  Besides, most of the ones you killed probably deserved it, don't you think?
+L598683 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I... I was defending myself as best I could!  Everyone has the right to defend themselves, don't they?  Or should I have let myself be killed?
+L598682 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ "Let all who love me follow me"... Where does God get mentioned?  Come on Jeanne, be honest.  You fought for yourself, in your name.
+L598680 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Really?
+L598679 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes!  We fought and killed in His name... the King of Heaven!
+L598678 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ In His name??
+L598677 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, but... why didn't he stop it? Or did he get pleasure, watching us killing each other in his name?
+L598676 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Is he the one who spread all this blood and misery?
+L598675 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes... yes!  And now you tell me why God let all these battles happen in the first place... if he's so powerful... he said he's "the creator of heaven and earth, the source of all life..." he could have easily stopped all this blood and misery?  Why didn't he?
+L598674 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ So your memory's coming back?
+L598673 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Stop, stop... I can't remember!  The battles were all so confusing... there was so much smoke, dust, noise... I was being attacked on all sides, so... maybe... perhaps I fought back but it was only to defend myself...
+L598671 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Oh no?  How about this one?
+L598670 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No!  I don't want to know anymore! Leave me alone!  I didn't kill that man!
+L598669 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Oh?  You can't remember?  Let me help your memory...
+L598668 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I'm not lying, I... I can't remember... leave me alone!
+L598531 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ True -- every event has an infinite number of causes -- but why pick one rather than another?  There are many ways a sword might find itself in a field...
+L598530 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ But... it didn't just get there by itself.
+L598529 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ No.  That was a sword in a field.
+L598528 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Like... like the wind... and the clouds... and... the bells... and what about that sword lying in the field... that was a sign...!
+L598527 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ What signs?
+L598526 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, but... he sent me so many signs!
+L598525 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ You mean God said, "I need you, Jeanne?"
+L598524 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes... lots of things!
+L598523 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ God asked you to do something?
+L598522 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Because!  Because I've always been faithful to God, and I've followed everything he said... and I've done everything he asked me...
+L598521 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Why would they?
+L598520 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ What do you mean, they won't come?
+L598519 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ They won't come anyway.
+L598518 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Because... I have to be alone!
+L598517 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Why not?
+L598516 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, no -- you can't stay or they won't come!
+L598515 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I want to see that.  Do you mind if I stay... on the side?  I won't bother you.
+L598514 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes... that's what I pray for...!
+L598513 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ They're going to come and visit you in here?
+L598512 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ My... visions...
+L598511 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Who?
+L598510 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes!
+L598509 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Why?  Are you waiting for someone else?
+L598508 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ What are you doing here?  Please... leave... you can't stay here...
+L598507 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Why were you yelling like that?!
+L598431 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I told you already... I'm here to set you free...
+L598430 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't understand.  What do you want from me?
+L598429 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Oh, so you don't want war anymore? You want to be at peace?  You want to be able to change your mind anytime you feel like it and expect everyone to go along with it?
+L598428 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't know -- I don't care anymore -- I just want to be at peace!
+L598427 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Oh?  And just because you realize now, everybody else should forgive you?!
+L598426 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No, no... I'm just so tired, and lost, and... I didn't realize what I was doing!
+L598425 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ That's too easy.  One minute you want to die, the next you want to live...  Do you think that life is a toy that can be played with and then broken when you don't want it anymore?
+L598423 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ How can you pretend that you love God when you're about to throw away the most precious thing he gave you? Life is a gift, you should know that by now Jeanne -- a gift from God. You know what He'd say to you, if He was here?  "What are you doing to me, Jeanne?"
+L598422 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I am true -- to my Lord, the King of Heaven.  He knows how much I love him -- that's all that matters to me...
+L598421 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ If you were true to yourself... if your faith was firm, you wouldn't need to run away from yourself like this...
+L598420 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I... I never lied!
+L598419 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ You'll be dead soon enough anyway, so why be in such a hurry?  Why not face up to your lies?  It's your lies you can't stand anymore...
+L598418 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Everything!  Prison -- humiliation -- being abandoned and betrayed by everyone -- I can't stand it anymore -- I'd rather die!
+L598417 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ And what exactly is it that you can't take anymore of?
+L598416 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I... I'm leaving... I can't take anymore...
+L598415 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I might ask you the same question.
+L598414 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ What are you doing out here?
+L598366 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Nothing.  I'm here to set you free...
+L598365 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I... don't know... what do you want from me?
+L598364 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ WHO ARE YOU TO DECIDE IF YOU SHOULD LIVE OR DIE?
+L598363 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't know... please... tell me I'm dead...
+L598362 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ YOU THINK GOD ISN'T BIG ENOUGH TO DELIVER HIS OWN MESSAGES?
+L598361 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't know... I thought...
+L598359 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ No... no... I'm just a messenger... He needs me... a higher calling...
+L598358 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Who are you to even think you can know the difference between good and evil?  Are you God?
+L598354 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ I am that I am.  You don't like my face?  Maybe you prefer this one...
+L598353 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Who... who are you...?
+L598146 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I -- I -- I...
+L598145 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ What have you done to me?
+L598142 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Playing...
+L598141 +++$+++ u8332 +++$+++ m565 +++$+++ MAN +++$+++ Jeanne... what are you doing?
+L597735 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I want to be at one with Him now.
+L597734 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Soon you'll be able to take the Holy Mass, and as you eat of his flesh and drink of his blood, you will be at one with him.
+L597733 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I want to be with him always...
+L597732 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Jeanne, be patient.
+L597731 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I don't want to wait for his call.
+L597729 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Jeanne... calm down...!  Calm down, Jeanne!
+L597728 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Then what will?  And what will bring her back?  And why did she have to die in the first place instead of me?  Why didn't he take my life instead of hers?  It was my fault -- I was late -- she gave me her hiding place...!!
+L597727 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ I realize your anger, Jeanne, but we must learn to forgive.  It's hard, but revenge will never bring about peace.
+L597726 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I know Jesus says to love our enemies but I can't -- I just want the English to burn in hell for ever and ever!
+L597725 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Only God knows the answer to that.
+L597724 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Why did she have to die?
+L597723 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ I heard about your sister, and I... understand your pain...
+L597683 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Perhaps... but wherever he comes from, I think you should listen to him, because it sounds like he's giving you very good advice.
+L597682 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ He says... he says I must be good... and help everyone... and take care of myself.  Do you think he's coming from the sky?
+L597681 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ And what does he say to you?
+L597680 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Beautiful.
+L597679 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ What... does he... look like?
+L597678 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ He never says his name.
+L597677 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Who is this "he"?
+L597676 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Well, I try and talk to him, but mostly he's the one who does the talking.
+L597675 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Him?
+L597674 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I feel safe here.  And it's where I can talk to him.
+L597673 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Then... why are you here so often?
+L597672 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Yes, it is.
+L597671 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ So... everything sounds... wonderful?
+L597668 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Oh yes, I play with them... lots...
+L597667 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ And what about your other friends... you don't like playing with them?
+L597666 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Oh yes, my sister's just... she's... wonderful.
+L597665 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Good, good.  And your sister... Catherine -- she's still your best friend?
+L597664 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Oh yes, she's... wonderful.
+L597663 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ And your mother -- everything's fine with her?
+L597662 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Oh yes... very.
+L597661 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Well no, but... Jeanne, are you happy at home?
+L597660 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ Is that bad?
+L597659 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Jeanne -- if we were to ask forgiveness all the time, we'd spend our whole life in church.
+L597658 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ He already did, but I want God to forgive me too.
+L597657 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ I'm sure he'll forgive you.
+L597656 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ My father's.
+L597655 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ Whose were they?
+L597654 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ They weren't my shoes.  Mine were too small.
+L597653 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ There's no sin in charity, Jeanne.
+L597652 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I saw a poor monk without shoes so I gave him some.
+L597651 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ So... alright.  What terrible sin have you committed since then that can't wait till tomorrow to be forgiven?
+L597650 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I need to confess again.
+L597649 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ But you already confessed this morning...
+L597648 +++$+++ u8329 +++$+++ m565 +++$+++ JEANNE +++$+++ I need to confess.
+L597647 +++$+++ u8333 +++$+++ m565 +++$+++ PRIEST +++$+++ You know I'm always happy to see you, Jeanne, but to keep coming here twice, three times a day...
+L599191 +++$+++ u8339 +++$+++ m566 +++$+++ BENEK +++$+++ Don't forget, Mr. Wladek, they hang them for helping Jews.
+L599190 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ A singer. Her husband's an actor. I knew them well. Good people. I'd like to talk to her.
+L599189 +++$+++ u8339 +++$+++ m566 +++$+++ BENEK +++$+++ A beauty. Who is she?
+L599188 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Yes.
+L599187 +++$+++ u8339 +++$+++ m566 +++$+++ BENEK +++$+++ Someone you know?
+L599179 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ It's like this... I...we...all of them.
+L599178 +++$+++ u8339 +++$+++ m566 +++$+++ BENEK +++$+++ Why are you here, Mr. Wladek?
+L599007 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Who wants me to stop?
+L599006 +++$+++ u8339 +++$+++ m566 +++$+++ BENEK +++$+++ I'm sorry, Mr Wladek, he wants you to stop.
+L599347 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ He's still a doctor.
+L599346 +++$+++ u8351 +++$+++ m566 +++$+++ MICHAL +++$+++ Dorota, don't be ridiculous, he's a pediatrician.
+L599345 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ I'll get Dr Luczak, we can trust him.
+L599344 +++$+++ u8351 +++$+++ m566 +++$+++ MICHAL +++$+++ You can't, it's too dangerous.
+L599343 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ I'm going to get a doctor.
+L599314 +++$+++ u8351 +++$+++ m566 +++$+++ MICHAL +++$+++ Oh, yes. I remember.
+L599313 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ This is my husband. Wladyslaw Szpilman. Marek Gebczynski sent him.
+L599312 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Christmas.  This is not a good time to have children. But then...
+L599311 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ When's your baby due?
+L599310 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Dead.
+L599309 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ And how's Yurek?
+L599308 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Just over a year.
+L599307 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ How long have you been married?
+L599306 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ He'll be here soon.
+L599305 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I've been in hiding. I need somewhere to stay.
+L599304 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ He'll be back before curfew.
+L599303 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I need help.
+L599302 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Michal Dzikiewicz. He's my husband.
+L599301 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I'm sorry - I was given this address. I'm looking for a Mr--  -- a Mr Dzikiewicz.
+L599300 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Sit.
+L599299 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Come in! come in!
+L599298 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Dorota.
+L599297 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Wladyslaw Szpilman.
+L598968 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ I'll see you...soon.
+L598967 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ That's what I said, it's so - it's too absurd!
+L598966 +++$+++ u8355 +++$+++ m566 +++$+++ SZPILMAN +++$+++ Don't worry, it won't last long.
+L598965 +++$+++ u8340 +++$+++ m566 +++$+++ DOROTA +++$+++ Fine, no, not really, they arrested my cousin, but Jurek says they'll let him out.  This is disgraceful.

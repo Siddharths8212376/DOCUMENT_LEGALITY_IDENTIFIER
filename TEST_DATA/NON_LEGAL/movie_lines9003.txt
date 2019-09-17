@@ -1,0 +1,200 @@
+L103813 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Right. Freezers. Imported foods.
+L103812 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What exactly is this place? Freezers?
+L103805 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You'll meet him this afternoon. He's helping us set it up.
+L103804 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Who's Mr. Henry?
+L103803 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Mr. Henry has an inside source. We call him Steve. That's where we get our information.
+L103802 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What's Hinckley Cold Storage?
+L103801 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ It's big, Anthony. Real big. It's called Hinckley Cold Storage.
+L103800 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What is it?
+L103799 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I want you to look at this.
+L103797 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ You really hit a guy with a bottle?
+L103796 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Applejack would of got him anyway. This was just the quicker way.
+L103789 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Sure.
+L103788 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That's Applejack. You want to meet him?
+L103787 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Who's in the car?
+L103785 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Ah. Couple days ago.
+L103784 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ When'd you get back?
+L103724 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ What are you going to do, get married? Have a bunch of little idiot janitor brats! And go around scrubbing the --
+L103723 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Shut up!
+L103722 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You're in love with the fucking housekeeper!
+L103721 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I know that. But --
+L103720 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That's what she is!
+L103719 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Her name's Inez. Stop calling her the housekeeper.
+L103718 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ A $500 tip! For the housekeeper!
+L103717 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ She needed it.
+L103716 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You gave $383 to the goddamn housekeeper! What the fuck is your problem?
+L103714 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ $383.
+L103713 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ How much?
+L103712 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I had to give some to Inez.
+L103711 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Where's the rest?
+L103710 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I know.
+L103709 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Sixteen dollars.
+L103707 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That's not correct.
+L103706 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ We've got sixteen dollars.
+L103705 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You're so spoiled. What is "not good" to you? Only a few hundred --
+L103704 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Our money situation is not good.
+L103703 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You can't just run home every time things get tough. First of all, we've got enough dough to --
+L103702 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I'm not. But there's --
+L103701 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Don't panic, Anthony.
+L103700 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I think we better go home.
+L103694 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No, I'm serious. He made me a diagram.
+L103693 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Bob taught you how to get electrocuted.
+L103692 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Yes, I do. Bob taught me.
+L103691 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You don't know how to hotwire.
+L103690 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I don't think we need any keys, Dignan. I think I can hotwire a car for us.
+L103685 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Dignan. I can't do that. All right? I just can't.
+L103684 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ No one to back me up. Now I have a good idea. So unless you come up with something better --
+L103683 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Shh.
+L103682 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Look. I'm ready to get the fuck out of here. It's real torture for me to be here. Getting the shit kicked out of me by Mexicans.
+L103681 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I don't know, Dignan. I just --
+L103680 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ She doesn't need to know.
+L103679 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What I'm saying is she wouldn't go for that.
+L103678 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I know we can. It's real simple. We go into a room, grab some car keys and --
+L103677 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I don't think we can do that.
+L103676 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Inez has a master key to all these rooms, doesn't she?  Doesn't she?
+L103675 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What?
+L103674 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I have an idea for that.
+L103673 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ We need a car.
+L103672 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I don't really feel like talking about it. The only thing I feel like is getting the fuck out of this place.
+L103671 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Man. I'm sorry. We just went for a walk --
+L103670 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Would of been nice.
+L103669 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I wish I'd been there.
+L103668 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Can you hand me those french fries.
+L103667 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I can't believe he just jumped you.
+L103643 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ OK.
+L103642 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Why don't you come with us.
+L103641 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ No. I'm going to swim. I'll see you later.
+L103640 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ We're going over to this bar if you feel like going.
+L103636 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Well, the world is a little bit colder today.
+L103635 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I didn't realize you had such an incredible ability to feel sorry for yourself, Dignan.
+L103634 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ If you'd gone with Bob you'd probably be in Weatherford by now. Of course I'd be here frantically worrying thinking you must of got kidnapped.
+L103633 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ If you say so.
+L103632 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I understand that if I had a few more friends like you and Bob I'd be dead.
+L103631 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Bob went to help his brother. I understand that and I can't help it if you don't.
+L103630 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ So when you were saying Bob's at the store and acting real surprised, that was just an act. You were just --
+L103629 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Well, I didn't do it, did I?
+L103628 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ If you wanted to go? What were you going to do? Just leave me here by myself?
+L103627 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ He told me because he wanted to know if I wanted to go.
+L103626 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ He told you and you let him do it.
+L103625 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ You were asleep.
+L103624 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Where was I?
+L103623 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ This morning.
+L103622 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ When'd he tell you?
+L103618 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ That's a long time to be in jail.
+L103617 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ We said 48 hours.
+L103616 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ He went back for his brother.
+L103615 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ He took his stuff. He's gone.  I should of seen this. I should of expected it. Bob doesn't have any character.
+L103614 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Maybe he just went to the store.
+L103613 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That coward. Son of a bitch.
+L103612 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Right here.
+L103611 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Where was it parked?
+L103610 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ He's gone. He stole the car.
+L103608 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Yes... It's true.
+L103607 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ But if it wasn't for Dignan I probably would of died.
+L103606 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ They blamed my family for everything. They always said Mr. Langston saved Anthony's life.
+L103605 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ After that my parents never let me go to Dignan's again.
+L103604 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Mr. Langston performed cardiopulmonary recitation. CPR. I've never said this before, but frankly I thought Anthony was dead. The veins in his face were all sticking out. His skin was blue. He truly did look dead.
+L103603 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ This was in fourth grade.
+L103602 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ See, one day we were playing hot box over at my next door neighbor Mr. Langston's house and Anthony fell in the pool and got knocked unconscious. I had to dive in and save him.
+L103594 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Don't worry about it, Bob.
+L103593 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ See, now we've got a plan.
+L103589 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Bob?
+L103588 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Obviously. That's a given.
+L103587 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ As long as he gets out OK.
+L103586 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Now that makes sense. We'll hang out for a couple of days. Get a little R&R. Make sure Future Man's OK and then get back on the road.
+L103583 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No, no. Look. OK. Let's stay here until we find out what's going on.
+L103582 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ He needs to hire an attorney.
+L103577 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ No kidding.
+L103576 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ She's from Cuba.
+L103575 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ On the left.
+L103574 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Which one was that?
+L103573 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No. Not really. Inez speaks a little.
+L103572 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ They don't?
+L103571 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No. I didn't. Dignan, they don't speak English.
+L103570 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Anthony, we're on the run from the law here. Did you tell these people your real name?
+L103569 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What. What's the matter?
+L103568 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ What the fuck is going on here?
+L103567 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Sure.
+L103566 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ May I have a word with you, please?
+L103565 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Jerry.  And this is my associate Cornelius.
+L103564 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Inez, this is --
+L103563 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Hi.
+L103562 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ This is Inez. Carmen. Anita.
+L103560 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ No. We didn't.
+L103559 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I thought you guys went to get your hair cut.
+L103477 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Even if it's the difference between some trooper recognizing us and throwing us in prison or not?
+L103476 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No, Dignan. I'm sorry. I can't do that.
+L103475 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Then you're going to have to dye it, Anthony. We've got to hide our identities. Especially after Bob crashed the car.
+L103474 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Dignan, I can't get my hair cut. That's just not possible, all right?
+L103458 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ True.
+L103457 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Yeah, but you wouldn't have the truck if you blew it up.
+L103456 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Actually. If you knew the exact route, you could plant explosives under a manhole cover and blow it up as it went over.
+L103455 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ It's not a plan. It's just --
+L103454 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Right. Get back to me on that one. Once your plan is worth a shit.
+L103453 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I know. But once you get inside you're home free.
+L103452 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Armored trucks are very difficult to steal, Anthony.
+L103451 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ It's a great shirt. Don't worry about it.
+L103450 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ No, I'm not saying her. I'm just saying, I don't know.
+L103449 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Look, man. She didn't know anything about shirts.
+L103442 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Bob?
+L103441 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You owe me fifty bucks.
+L103440 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ On your marks...  Get set go.
+L103439 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ OK. Go ahead.
+L103438 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I'll say it.
+L103437 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I'll just say it.
+L103434 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You were spoiled rotten.
+L103433 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Don't call me spoiled, Dignan.
+L103432 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That's real cool, Anthony. Yeah, I wore boots. My parents wouldn't buy me any $200 running shoes like yours. I wasn't spoiled.
+L103431 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ You've never had a pair of fast shoes in your life, Dignan.  In fifth grade Dignan used to wear cowboy boots for P.E.
+L103430 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Really. OK, Dad. But seriously, Anthony. These are fast shoes.
+L103427 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Well, those treads stink. You'd blow a knee out racing on those.
+L103426 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ They obviously weren't designed for racing.
+L103425 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ What about them?
+L103424 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Look at the treads on those.
+L103423 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Yes, they are.
+L103422 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Dignan, those aren't running shoes.
+L103421 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ See if mine are in there.
+L103419 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Anthony, we're on the run. This is an emergency. It's only fair that...
+L103418 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I keep it for emergencies.
+L103417 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Well, then cut it in half.
+L103416 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I don't want to use it.
+L103415 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ She's not going to notice, Anthony.
+L103414 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Because my mom gets the bill.
+L103413 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Why not?
+L103412 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ I don't like to use that credit card, Dignan.
+L103411 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Can I get that credit card from you?
+L103343 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Don't even say it, man.
+L103342 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I didn't realize you were so sensitive to Bob's feelings. Considering I did the plans, you're actually lucky you got --
+L103341 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ He was the driver, Dignan. He did what he's supposed to do.
+L103340 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Anthony, he sat in the car and watched a 4-11 in progress. He got what he deserved.
+L103339 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What do you think?
+L103338 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ What's wrong with him?
+L103330 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Like I'm going to hunt you down and kill you.
+L103329 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Like he would find Dignan. One day.
+L103328 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Yeah.
+L103327 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Like he meant it.
+L103326 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ I swear to God. In a very quiet voice.
+L103323 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Oh, shit. That was scary. In the middle of the robbery. The manager looks at me. Right in the eye. And goes, I'm going to remember you.
+L103322 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ What about what that guy said?
+L103317 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ We got it. We got it.
+L103316 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Holy shit.
+L103297 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Unlock that door.  Check the aisles.
+L103296 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Is that the manager?
+L103290 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ We know there's another stocker.
+L103289 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ There's another stocker, right?
+L103288 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Where's the other stocker?
+L103287 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Where's the manager?
+L103249 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You're right. You're right.
+L103248 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Calm down. Take a deep breath.
+L103247 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Dignan! Stop!
+L103246 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ You're out! I'm not working with either one of you!
+L103245 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Dignan, calm down.
+L103241 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ No, Dignan. It's not your gun. It's all of ours.
+L103240 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Anthony, give me the fucking gun!
+L103234 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Nothing. Go ahead.
+L103233 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Now. One thing we need to discuss is timing. Timing is absolutely crucial. What are you doing? Anthony!
+L103227 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ That's a good question. No. I don't. I'm just being hypocritical here. However, I will say --
+L103226 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ You think we're going to be chased?
+L103225 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ OK. Escape route. The most important thing you can have is an escape route. Just in case somebody's tailing us. Or even chasing us, as the case may be --
+L103214 +++$+++ u599 +++$+++ m38 +++$+++ ANTHONY +++$+++ Just turn right here.
+L103213 +++$+++ u603 +++$+++ m38 +++$+++ DIGNAN +++$+++ Loop around real fast.

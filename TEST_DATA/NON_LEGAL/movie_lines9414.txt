@@ -1,0 +1,200 @@
+L540153 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Hold that thought.
+L540152 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ I have to admit there was a moment there when --
+L539980 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ I think Mister Worf is suggesting that we go outside for a little stroll...
+L539979 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ What are you suggesting?
+L539978 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ I remember it made me sick.
+L539962 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Deflector dish... why the deflector dish...?
+L539961 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ To do what? If they wanted a weapon, they could've taken over a phaser bank or torpedo bay...
+L539925 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Where the hell are they going?
+L539924 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ They're bypassing Engineering...
+L539869 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Do we have any idea how many Borg we're dealing with?
+L539868 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ All right... we've lost control of eight decks... three Cargo Bays... one Shuttlebay.
+L539737 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Mister Worf... find Data if you can, but your top priority is isolating the Borg.
+L539736 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Wil... Data was down there.
+L539735 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ The Borg.  Some of them must've beamed over before we destroyed their ship.  Seal off that entire deck with emergency force fields.
+L539734 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Someone...?
+L539728 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ We just lost main power... and we've got Class-Three alerts all over the ship. I'm not sure what's --
+L539727 +++$+++ u2999 +++$+++ m196 +++$+++ RIKER +++$+++ Report.
+L539838 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Commander... we have a problem.
+L539837 +++$+++ u3000 +++$+++ m196 +++$+++ RIKER'S COM VOICE +++$+++ What the hell happened down there, Worf?
+L539832 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Something is very wrong, Commander. We're falling back.
+L539831 +++$+++ u3000 +++$+++ m196 +++$+++ RIKER'S COM VOICE +++$+++ Worf? Is something wrong?
+L539828 +++$+++ u3000 +++$+++ m196 +++$+++ RIKER'S COM VOICE +++$+++ Any sign of Data, or the Borg themselves?
+L539827 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Worf to Bridge. We're about to enter the Environmental Control Room.
+L539824 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ There's a dampening field in place on this deck. Our tricorders are useless.
+L539823 +++$+++ u3000 +++$+++ m196 +++$+++ RIKER'S COM VOICE +++$+++ Riker here.
+L539822 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Worf to Bridge.
+L539970 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ What kind of message?
+L539969 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ They may be trying to send a message to the other Borg...the Borg in this time period...
+L539873 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Data's positronic net contains classified information on the Enterprise. Command codes, security protocols...
+L539872 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Even Data?
+L539725 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ There were no planetary defense systems in this era. Their weapons were designed to fight each other... not extraterrestrials.
+L539724 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Are we in any danger of being detected by Earth defense systems?
+L539632 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ Target...
+L539631 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Captain, they're firing at a nuclear missile silo... in central Montana.
+L539597 +++$+++ u3003 +++$+++ m196 +++$+++ TROI +++$+++ Captain, I've scanned the planet. The atmosphere contains a high concentration of methane, carbon monoxide and fluorine. The oceans have been chemically altered, as well.
+L539596 +++$+++ u3005 +++$+++ m196 +++$+++ WORF +++$+++ No response.  I'm not reading any Starfleet com traffic in this entire sector.
+L538174 +++$+++ u3017 +++$+++ m197 +++$+++ PRESIDENT +++$+++ I'll bear it in mind, Admiral. I think that's all.
+L538173 +++$+++ u3006 +++$+++ m197 +++$+++ ADMIRAL DONALD +++$+++ The longer we wait, the less accessible the hostages will be, Mr. President.
+L538172 +++$+++ u3017 +++$+++ m197 +++$+++ PRESIDENT +++$+++ I'd prefer not to be the President to push the button if I can avoid it.
+L538167 +++$+++ u3017 +++$+++ m197 +++$+++ PRESIDENT +++$+++ At present I'm awaiting a full report from Enterprise. Pending that I am constrained to observe Interstellar Law.
+L538166 +++$+++ u3006 +++$+++ m197 +++$+++ ADMIRAL DONALD +++$+++ Mr. President we cannot allow Federation citizens to be abducted.
+L538165 +++$+++ u3017 +++$+++ m197 +++$+++ PRESIDENT +++$+++ Admiral Donald...Bill...
+L538164 +++$+++ u3006 +++$+++ m197 +++$+++ ADMIRAL DONALD +++$+++ Mr. President.
+L538792 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ That's the question -
+L538791 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Or not to be -
+L538749 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ We WERE beginning to hit our stride together, doctor...
+L538748 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Pity they're retiring us just as I was starting to understand you, Spock...
+L538747 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Thank you, nurse. Jim, she's ready! Lock and load!
+L538746 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Calm yourself, doctor, the operation is almost complete...
+L538738 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ We DO sleep lying down.
+L538737 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Spock, that was actually funny.
+L538736 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Vulcans sleep lying down...
+L538735 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Bet you wish you'd stood in bed...
+L538731 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Fascinating...
+L538730 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ You may need assistance, doctor...
+L538729 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I'm going to perform surgery on a torpedo - you never know...
+L538582 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ The charge is murder.
+L538581 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I believe the operation is over.
+L538104 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I'm going too. They may need a doctor.
+L538103 +++$+++ u3020 +++$+++ m197 +++$+++ SPOCK +++$+++ Good luck, Captain.
+L538790 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ To be -
+L538789 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ And the good news is they're not going to prosecute.
+L538788 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Time we got underway ourselves, gentlemen.  Once again, we've saved civilization as we know it.
+L538557 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Come on...
+L538556 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ ABSOLUTELY NOT!
+L538545 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Killed trying to escape - it's a classic...
+L538544 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Damned clever if you ask me...
+L538526 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ She didn't need our help getting anywhere... where did she get these convenient clothes? And don't tell me that flare is standard prison issue...
+L538525 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ ARE YOU CRAZY?
+L538515 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Spock's looking for us...
+L538514 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ If they're even looking for us...
+L538513 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Once we're beyond the shield they should be able to pick it up two sectors away.
+L538512 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ That cunning little Vulcan...
+L538511 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ It's the viridium patch Spock slapped on my back right before we went aboard Gorkon's ship.
+L538510 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ No way.  You see this?
+L538509 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Jim, leave me - I'm finished...
+L538489 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Don't remind me.
+L538488 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ What kind of creature is this? Last night you two were spooning -
+L538470 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ More than ever.
+L538469 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Still think we're finished?
+L538468 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ What is it with you, anyway?
+L538456 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Well, if you've got any bright ideas, now's the time to -
+L538455 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Uh uh. Somebody felt much worse. And I'm starting to understand why.
+L538454 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Well, don't be too hard on yourself - we all felt exactly the same -
+L538453 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ No more neutral zone. I was USED to hating Klingons... that's why I failed in our assignment.  It never even occurred to me to take Gorkon at his word. Spock was right.
+L538452 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Specifically of...?
+L538451 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Some people ARE afraid of the future; of what MIGHT happen;  I was frightened, really frightened.
+L538450 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Are we playing multiple choice?
+L538449 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I didn't mean this future.
+L538448 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ That was the general idea I intended to convey.
+L538447 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Bones, are you afraid of the future?
+L538446 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ - <U>Kobayashi Maru</U>...
+L538445 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Speak for yourself. One day... one night...
+L538444 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We're not finished.
+L538443 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Three months till retirement. What a way to finish.
+L538432 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Suppose HE'S holding a grudge?
+L538431 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Bones, why don't you see what you can do? Let them know we're not holding a grudge.
+L538396 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ We've been set up all along.
+L538395 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Figures.
+L538390 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ What's the Brotherhood of Aliens?
+L538389 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Thanks...
+L538129 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Chancellor Gorkon, can you hear me? Chancellor...?
+L538128 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ No!
+L538125 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Jim, I don't even know his anatomy.
+L538124 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Can you - ?
+L538123 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Sweet Jesus...! He's lost a lot of whatever this stuff is...
+L538097 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I wish I knew. Uhura?
+L538096 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ What the Hell's going on?
+L537921 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ You heard the order, Lieutenant.
+L537920 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Uh, Jim...
+L538777 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ If they did we'd all have to turn ourselves in. How CAN we rely on them?
+L538776 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ They don't arrest people for having feelings.
+L538722 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ In space, no one can hear you sweat.
+L538721 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Too bad we can't SMELL her.
+L538698 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Captain, shall we attempt to return fire?
+L538697 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ This is fun...
+L538672 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Now there's a poser.
+L538671 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Captain, when we get to Camp Khitomer, how will we defend ourselves? I mean, if this new Bird of Prey can fire while she is invisible...?
+L538031 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Starfleet's killed an awful lot of natural phenomena in the name of "exploration"...
+L538030 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ We're explorers not diplomats!
+L538010 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ And perhaps with a large step or two. Like a peace treaty.
+L538009 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Perhaps with a few small steps at a time. Like this one.
+L538283 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ The Chancellor herself will testify that the defendant's hands shook.
+L538282 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I tried to save him! I was desperate to save him! He was the last best hope in the universe for real peace.
+L538281 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You were incompetent! - whether deliberately or as a result of age combined with drink this court will determine.
+L538280 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I was nervous -
+L538277 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You say you are due for retirement. May I ask: do your hands shake?
+L538276 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I didn't have the knowledge of Klingon anatomy I needed.
+L538275 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Have you saved patients as "barely" alive as he was?
+L538274 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Barely.
+L538273 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Was Chancellor Gorkon alive when you first examined him?
+L538268 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Ah. I believe you also consumed Romulan ale at the officers' mess on the night of question, Doctor?
+L538267 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Retire.
+L538266 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Stand...?
+L538265 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ For 27 years I have been Ship's Surgeon and later Chief Medical Officer aboard the USS Enterprise. In three months I'm due to stand down.
+L538264 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Aside from a touch of arthritis, I'd say pretty good.
+L538263 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Doctor McCoy, what is your current medical status?
+L538121 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Then let me help!
+L538120 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ We were until your torpedoes!
+L538119 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ Are you carrying a surgeon?
+L538523 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ I thought I would assume a pleasing shape.  We're outside the shield. Now it's your turn, Kirk.
+L538522 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I don't wonder. Stop me if I'm wrong but do we really have any way of knowing if this is the real you?
+L538521 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ It takes a lot of effort.
+L538427 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ That's a comfort...
+L538426 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ They'll respect him now...
+L538403 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ I don't mind. Smuggling. Guilty. I come from Arc. Smuggling is an ancient and respected trade there.
+L538402 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ What are you in for, if you don't mind me asking?
+L538401 +++$+++ u3014 +++$+++ m197 +++$+++ MARTIA +++$+++ They'll make it look like an accident...
+L538400 +++$+++ u3007 +++$+++ m197 +++$+++ BONES +++$+++ I don't believe we can get more out of the way than this.
+L538324 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Your honors, the State rests.
+L538323 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ As Captain I am responsible for the conduct of the crew under my command.
+L538320 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ So if it should prove members of your crew did in fact carry out such an assassination - ?
+L538319 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I am.
+L538318 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Captain Kirk, are you aware that under Federation law, the Captain of a Starship is considered responsible for the actions of his men?
+L538317 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I cannot confirm or deny actions which I did not witness.
+L538316 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You deny that your men beamed aboard KRONOS One and shot the Chancellor?
+L538315 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Well, I -
+L538314 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You deny Enterprise fired on KRONOS One?
+L538311 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ And you were obeying or disobeying orders the night you arranged the assassination of Chancellor Gorkon?
+L538310 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I have on occasion disobeyed orders.
+L538309 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ For insubordination.
+L538308 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Yes.
+L538307 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You were demoted...
+L538296 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Those words WERE spoken by me.
+L538295 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Louder, please. We cannot hear you.
+L538294 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Yes...
+L538293 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Spoken by you?
+L538292 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Yes.
+L538291 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Are those your words?
+L538286 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ That, either as an instrument of Federation policy or acting on your own drunken initiative, you and your fellow conspirators crippled KRONOS One and cold-bloodedly assassinated the Chancellor of the High Council. Then you and Doctor McCoy went aboard to make certain the job was complete.
+L538285 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ That isn't true...!
+L538284 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ And now we come to the architect of this tragic affair, Captain James Tiberius Kirk. I put it to you, Captain, that you were seeking revenge for the death of your son.
+L538250 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ That we fired two photon torpedoes. But -
+L538249 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ And what did they tell you?
+L538248 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I checked the data banks, yes.
+L538247 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Did you have occasion to refer to your ship's data banks during that night?
+L538246 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ There... were no other ships in the sector.
+L538245 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ And you still maintain your ship did not fire on Kronos One? Would you have known if she had? Come now, Captain. The record clearly there were no other ships in the sector.
+L538244 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ The drink WAS served...
+L538243 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Isn't it a fact that you served Romulan ale, a beverage illegal in the Federation because of its overwhelming potency?
+L538242 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ What?
+L538136 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Take them away.
+L538135 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ He just tried to save him!
+L538134 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Under article 184 of Interstellar Law, I place you both under arrest. You are charged with assassinating the Chancellor of the High Council.
+L538118 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ How can I trust --
+L538117 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ He's a DOCTOR!
+L538115 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You crippled our gravitational field with a direst torpedo hit, and two Starfleet crewmen beamed aboard in magnetic boots and did this! WE HAVE WITNESSES!
+L538114 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ WHAT HAPPENED?
+L538113 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ You feign ignorance?
+L538112 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ My God, what happened here?
+L538001 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I beg your pardon?
+L538000 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ "To be or not to be, that is the question" which preoccupies our people, Captain Kirk. We need BREATHING room...
+L537992 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ Very much.
+L537991 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Would you care to go topside?
+L537981 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ I'm not sure how to take that.
+L537980 +++$+++ u3008 +++$+++ m197 +++$+++ CHANG +++$+++ I've always wanted to meet you, Captain.
+L538794 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Second star to the right - and straight on till morning...
+L538793 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Course heading, Captain?
+L538733 +++$+++ u3009 +++$+++ m197 +++$+++ CHEKOV +++$+++ Aye, sir; thrusters...
+L538732 +++$+++ u3012 +++$+++ m197 +++$+++ KIRK +++$+++ Mr. Chekov, slow down. Take us forward, thrusters only, one quarter impulse power.

@@ -1,0 +1,200 @@
+L617125 +++$+++ u8488 +++$+++ m576 +++$+++ JOYCE +++$+++ Those Cowboys're tellin' Everybody in town they're gonna Clean you out.  They're down in That lot right now behind the OK Corral.
+L616683 +++$+++ u8488 +++$+++ m576 +++$+++ JOYCE +++$+++ Well sure, neighbor, easy to say.
+L616682 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Why don't you get rid of him and Get yourself straight dealer?
+L616681 +++$+++ u8488 +++$+++ m576 +++$+++ JOYCE +++$+++ You see that bird at the faro Table?  That's Johnny Tyler.  He Barged in here one day, said he Was takin' over the game, started Slappin' customer, wavin' his Gun around, scarin' off all the High-class play.  Only trade comes In here now's just bummers and Drovers, just the dregs.
+L616680 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well, excuse me for askin', Milt, But isn't it kinda dead in here?
+L616679 +++$+++ u8488 +++$+++ m576 +++$+++ JOYCE +++$+++ Milt Joyce, owner-operator.
+L616678 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Let me have one of those cigars.  Kinda nice in here.  You run it?
+L616677 +++$+++ u8488 +++$+++ m576 +++$+++ JOYCE +++$+++ What can I get you?
+L617178 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Will you go to her and tell her Right in front of me she's Nothing to you?  Right out loud so I can hear?  Tell her she's Nothing, tell her she's nobody, Just dirt?  Will you do that?
+L617177 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ All right, look.  I can make it Right, I can make this up to you, Mattie.  I can, I swear.
+L617176 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ You know nothing.  What you don't Know would fill a book.  Jesus, I Feel like it's when you're around I need it most.  You're never Yourself, you never relax.  Never. Everything's so stiff and dead. You always have to keep a rein on Everything, ever yourself.  Oh, You smile sometimes, I've even Seen you laugh.  But there's no Light in your smile for me, Wyatt, nothing to keep me warm. And I get cold, Wyatt.  I get so cold.  What's between you and that Jew woman?
+L617175 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Look, Mattie, I know you're-
+L617174 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Admit what, I'm an opium fiend? No, Wyatt, I just said I need it. I need something to keep me warm At night.
+L617173 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ 'Least you admit it.
+L617172 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ I need it.
+L617171 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Mattie.  What about this?
+L617115 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah, well, I swore a lot of things.
+L617114 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Thought you swore you'd never Carry that thing again.
+L617059 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just thinkin' out loud.  Forget it.
+L617058 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Wyatt, what're you talkin' about?
+L617057 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well, I was thinking, we've Already made a pile of money. Maybe we should just pull up Stakes and move on.  And we could Stay on the move, you know?  Just Keep going, see the world.  Live On room service the rest of our Lives.  How'd that be?
+L617056 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Sure I'm sure.  What is this?
+L617055 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Really?  You sure?
+L617054 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ I don't know.  I'm all right.
+L617053 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Out ridin'.  So... how you doin'?
+L617052 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ I know what I'm doing.  Where have You been?
+L617051 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ That the bottle Lou gave you? Better go easy on that stuff.
+L616796 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ All right, well, good night.
+L616795 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Just go.  It's all right.  Wyatt, Really.  Work well.
+L616794 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ No really, I can stay a while.
+L616793 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ No, no, I don't want to keep you.
+L616792 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well I guess I don't have to go Right now.  I guess I could stay a little while.
+L616791 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Oh, all right.
+L616790 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Honey, I gotta start makin' money.
+L616789 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ No, stay.  Please stay with me.
+L616613 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ You get lonely?
+L616612 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ They're just lonely is all.  Hell, I howl myself sometimes.
+L616611 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Long as I live I'll never Get used to that sound.
+L616610 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ I think I'll just lie down awhile
+L616609 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Come up to the fire, honey.
+L616592 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Mattie, they're here!  Folks this Is Celia Ann but you can call her Mattie.  Or even Mrs.  Earp if you Prefer.
+L616591 +++$+++ u8490 +++$+++ m576 +++$+++ MATTIE +++$+++ Wyatt, I couldn't find a single Store that had laudanum any-
+L617477 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ You're the boss.  One thing, though.
+L617476 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ 'Least they don't scare women.
+L617475 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Isn't there anything I can say That'll change your mind?  You're Gonna stay with your new friends?
+L617474 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Forget it, Ringo.
+L617473 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ You're a Cowboy, you're a Brother.  Come back, no hard Feelings.
+L617472 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ That what you got me up here for?
+L617471 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Yeah, kinda, wanted to see if you'd join back up with us.
+L617470 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ You wanted to talk?
+L617469 +++$+++ u8493 +++$+++ m576 +++$+++ RINGO +++$+++ Well hello, Sherm.
+L617468 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Might as well hear him out. Anyways, what choice we got?  But no matter what happens, see It through to the end.  If you don't I'll curse the day I ever laid eyes on you.
+L617467 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I don't like it.
+L617356 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ We'll go around that way, come up on foot.
+L617355 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ There they are.  No herd though.
+L617354 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ They're wise by now.  Which is Next, Iron Springs?  Yeah, let's Try there, Iron Springs.
+L617353 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Next waterhole's Black Draw.  We Could be there by mid-morning.
+L617340 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ So he can tell the story.
+L617339 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ What'd you do that for?
+L617330 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ We'll see about that.
+L617329 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ But this time they'll be ready.
+L617328 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I know that cut.  You mean there's A waterhole near there?
+L617320 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Drop his horse.
+L617319 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Florentino!  He's getting away!
+L617314 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ All right, run 'em off.
+L617313 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ I ain't your brother, I ain't None of your damn brothers.  Move!
+L617240 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Not anymore, not after this.
+L617239 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ No?  Brothers to the bone, right?
+L617238 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ No, wait.  Please.  I know nothin' I say'll fix things but I want You to know it wasn't me.
+L616946 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ There's all kinds of horses, Ain't there?  Same with Cowboys. What they do's their affair.  I Don't preach and I don't judge.  I Ain't no dog-catcher.
+L616945 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah, but some of the things they Say your brothers've done...
+L616944 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ If I had to explain it you Wouldn't understand.  Just say We're brothers to the bone.
+L616943 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ So what about you Cowboys anyway?
+L616942 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Well in that case, I saw your Horse.  Billy Clanton was takin' Him up to the Cut to show him Off.  The boys're all up there Right now, branding.  And in a Mood.  Still want your property Back, Mr. Private Citizen?
+L616941 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I'm not a lawman, I'm just a Private citizen getting' my Property back
+L616940 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Look, I got a rule.  I don't talk To lawmen.  Dog-catchers neither.
+L616939 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ McMasters, isn't it?  Listen, you Seen a black stallion with-
+L616938 +++$+++ u8491 +++$+++ m576 +++$+++ MCMASTERS +++$+++ Run for your lives, boys!  It's That great two-gun dog-catcher From Kansas!
+L617260 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Isn't true.  I can't see a damn thing.
+L617259 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Easy Morg, don't think about that now.
+L617258 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Remember about the light you're Supposed to see when you're dyin'?
+L617257 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Will somebody get the damn dog out-
+L617256 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ You were right, Wyatt.  They got Me good.  Don't let 'em get you Too.
+L617250 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ You're on.
+L617249 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I just got it fixed.
+L617247 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Listen to yourself, Wyatt.  Lie Down and crawl or you might get Hurt?  What kinda talk is that? That's Virgil lyin' over there, Wyatt.  Our own brother.  Ruined For life.  No sir, I ain't going No place.  You want to go, fine. I'm stayin' right here and have It out with those bastards.
+L617246 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I know, I was wrong.  But Morg, Look, we got to get out.
+L617245 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ I am usin' it, Wyatt.  Been Wonderin' how the hell we got in This tangle.  You know they hit Clum's house, too?  Shot up his wife. His wife.  Who ever heard of That?  Men sneakin' around in the Dark, back-shootin', scarin' Women?  They're bugs, Wyatt.  You Know all your smart talk about Live and let live?  Ain't no live And let live with bugs.
+L617244 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Morg, use your head.
+L617243 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ What's it look like?  They want a Piece of me they can come and get It, I'm not crawlin' into my hole.
+L617242 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Morgan, are you crazy?  They're Out gunning for us!  What the Hell're you doin'?
+L617241 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Get down, boy.
+L617226 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ That didn't sound like thunder.
+L617225 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ That thunder's sure somethin'.
+L617189 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I'm the one made a mess.  Made a Right fair mess of the whole thing.
+L617188 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Dropped him, that was it.  Sorry If I made a worse mess for you.
+L617168 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I know, kid.  I know.  Me too.
+L617167 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ You were right.  It's nothin' like I thought.  I almost wish...
+L617166 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Fine.  Better.
+L617165 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ How you doin', boy?
+L617062 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I know.  And nobody can make him.
+L617061 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Doc won't quit, been up 36 hours. Clanton came in an hour ago, they Switched over to poker.  Tried to Get him to bed but he just won't Let go.
+L616931 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ What're you talkin' about?
+L616930 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ All right, say you're right, say You don't get yourself killed. There's something else.  It's too late for Virge, he Already rolled his bone.  But it's Not too late for you, Morg.
+L616929 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Like you said, just gotta know How to handle 'em.  Old Fred Wasn't up to it.  We know that We're doin', Wyatt.
+L616928 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah?
+L616927 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Come on, we're not about pickin' Fights.  Just gonna keep a little Order, that's all.
+L616926 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Listen to me, both of you.  This Is no good.  This is trouble we Don't need.  For the first time in Our lives we got a chance to stop Wandering and finally be a Family.  Do this and you throw it All away.  You saw what happened To Fred White.
+L616807 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just his style, Morg.  Doesn't Mean anything.
+L616806 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Hey Doc!  Come on now.
+L616783 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I'll be damned...
+L616782 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ It's that woman from the coach!
+L616666 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Lotta law around here.  Just met the Sheriff.
+L616665 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Wyatt, meet Fred White, he's town marshal.
+L616627 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Hey, Wyatt, God damn it, I'm serious!
+L616626 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Really?  What about hell?  They got A sign or what?
+L616623 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ I read this book, book on Spiritualism...
+L616622 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Got me.  Somethin'.  Nothin'.  I Don't know.
+L616621 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Well what do you think happens When you die?
+L616620 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Maybe, yeah.  Hell, I don't know.
+L616619 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Boy, look at all those stars.  Bet You can see every star there is. Practical touch 'em.  Kinda makes You think, you know?  I mean you Look up and you think God made All that but he still remembered To make a little speck like me. Kinda flattering really.  Hey, Wyatt, you believe in God?  No, Come on, really, do you?
+L616605 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Hope so.  Clean up with this boy.
+L616604 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Give him some good exercise?  Sure Some stud.  Some string in fact. What're you gonna do, race 'em?
+L616586 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Hey!  Virgil!  My God!  Morgan!  Hey, Boy!  You look great!  Both of you!
+L616585 +++$+++ u8492 +++$+++ m576 +++$+++ MORGAN +++$+++ Well how do we look?
+L616695 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ Listen Mister, I'm getting' tired-
+L616694 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Go ahead.  Skin it.  Skin that Smoke wagon and see what happens.
+L616692 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ Well I'm real scared.
+L616691 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah.  It's a fact.
+L616690 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ That a fact?
+L616689 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Don't need to go heeled to get The bulge on a dub like you.
+L616688 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ For a man that don't go heeled You run your mouth kinda reckless.
+L616687 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah.  It's a fact.
+L616686 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ That a fact?
+L616685 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just wanted to let you know You're sitting in my chair.
+L616684 +++$+++ u8494 +++$+++ m576 +++$+++ TYLER +++$+++ You back that Queen again, you Son of a bitch, I'll blow you Right out of that chair!  Somethin' on your mind?
+L617462 +++$+++ u8495 +++$+++ m576 +++$+++ VERMILLION +++$+++ Doc's just in no kinda shape.
+L617461 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ We should get moving.
+L617394 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Sure...
+L617393 +++$+++ u8495 +++$+++ m576 +++$+++ VERMILLION +++$+++ Talked it over.  We decided we Don't need the money.  Took out 13 Dollars each, though.  Federal Posseman's fee.  That all right?
+L617287 +++$+++ u8495 +++$+++ m576 +++$+++ VERMILLION +++$+++ 500... Year's wages.  And I never even saw a horse like that.
+L617286 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Got a sheaf of federal warrants. Being in the Territories it's up To our discretion how they're Served.  That means we got the Cowboys without quarter.  The Black flag, brother.  No Prisoners, no mercy, amen.
+L617283 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ They're nothing.  They're nobody. I want the Cowboys.  All of 'em.  I Mean to break 'em up, drive 'em Out of the territory.
+L617282 +++$+++ u8495 +++$+++ m576 +++$+++ VERMILLION +++$+++ Way ahead of you, Wyatt.  You want Us to help you get Ike Clanton And Johnny Behan.  Everybody knows They're the ones to blame for Your brothers.
+L616731 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Jack...
+L616730 +++$+++ u8495 +++$+++ m576 +++$+++ VERMILLION +++$+++ Easy, gents. Private affair...  Wyatt! Doc! Hey!
+L617228 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Wyatt...
+L617227 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Virgil?
+L617224 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Bundle up, Virge.  Cold out there.
+L617223 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Getting late.  Guess I'll turn in.
+L617142 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Look at 'em all.  They love it. How in the hell'd we get Ourselves into this?
+L617141 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Wyatt, I know what I'm doin'.
+L617140 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Virge, you're makin' the arrest. You make contact, I'll back you Up.  Morgan'll back me up, Doc'll Keep an eye out for trouble.  And Keep your hands on your guns. They even look like they're gonna Start something, buffalo 'em. Right over the head.
+L617135 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ All right, Virge, your call.  But Give Doc the shotgun.  They'll be Less apt to get nervy if they see Him on the street howitzer.
+L617134 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ No, damn it, it's wrong, they're Breakin' the law.
+L617133 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Virge, that's a misdemeanor.  You Go down there to arrest 'em, Something goes wrong, maybe this Time somebody gets his head Broke, suddenly it's a mess and It won't end there, you'll have Cowboys comin' around lookin' for Trouble from here to Christmas. You gonna risk all that over a Misdemeanor?
+L617132 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ They're carrying guns in town.
+L617131 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ You'll never make that stick.
+L617130 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Wyatt, they're threatening our lives.
+L617129 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Wait till the liquor wears off. Once they start getting headaches They'll lose interest.
+L617118 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Easy, Virge, they're just tryin' To egg us on.
+L617117 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Here they are again.  Look at 'em.
+L617113 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just stay calm, use your head. It'll be all right.  Just the Same, though...  Guess you better swear me in.
+L617112 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Billy Clanton, Wes Fuller, and Billy Claiborne.  Now there's six Of 'em.  This is like a bad dream.
+L616976 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ You are the one, Wyatt.  You sure are.
+L616975 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Business is business.  Don't have To love 'em to work with 'em.  Not If there's money in it.
+L616974 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Wait a minute, you thinkin' of Getting in bed with the Cowboys?
+L616973 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Maybe I jumped the gun.  Maybe Those Cowboys aren't near as bad As they're painted.  You know I Was thinkin', there's a lot of Money in the cattle business...
+L616924 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Nothing to do with me?  I'm your Brother for Christ's sake.  God, I Don't believe this.  Talk to him, will you?  Or hit him.  Oh no, don't tell me...
+L616923 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ It's got nothin' to do with you, Wyatt.  It's-
+L616922 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Virgil, please.  Don't do this to me.
+L616921 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ I couldn't help it, Wyatt.  I Looked at that woman and it was Just like somebody slapping me in The face.  I mean these people're Afraid to even walk down the Street and I'm trying to make Money off it like some kind of God damn vulture.  That's not me, That's somebody I don't even know.
+L616917 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Kinda, actually, yeah.  I gotta admit.
+L616916 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Pretty fun too, isn't it?
+L616915 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ I can't hardly believe it.  It's Working out just like you said, Wyatt.  We're lootin' this burg Six ways through Sunday.
+L616914 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ You know, I was thinkin', maybe We ought to open our own place. That's the real money.  Build it Up, milk it for all it's worth, Then sell it off for a bundle and Breeze out of this burg with more Money than Croesus and ready to Live like kings.  Let's you and me Take a walk around town, Virge, See if we can scout us out a Couple of nice lots.
+L616904 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ I know, I need a keeper.
+L616903 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Keep your eye on that brass ring. Don't let anything side-track you.
+L616788 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Better go with 'em, honey.  Here's Where I leave you.
+L616787 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Her maiden name was Sullivan.
+L616704 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ So to speak.
+L616703 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Acquired?
+L616702 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well we're off and running.  Just Acquired us a quarter-interest in The game at the Oriental.
+L616671 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Just like any other hard cases. Gotta know how to handle 'em.
+L616670 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Look pretty rough.
+L616629 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Hit a streak when we left.  Him And Kate.
+L616628 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Well that's your problem.  Hey Virge, see anything of Doc while You were in Prescott?
+L616618 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ We're gonna do it, boys.  Gonna Get ours.  Feel it in my bones. All we have to do is keep our Eyes on that brass ring.
+L616617 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ Well here we are a family again. Been so long plain forgot how Good it feels.  Want to thank you For that, Wyatt.  All your doin'.
+L616616 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Look at that.  Busted.  Brand new Money Ward, too.  33 years old And I don't even have a decent Watch.  'Bout time I started Lookin' out for myself.
+L616590 +++$+++ u8496 +++$+++ m576 +++$+++ VIRGIL +++$+++ But she doted on the frowner
+L616589 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Allie-girl...And Louisa!  You're So lovely.  I'm at your feet, Darlin'.  Just at your feet.  Guess it's only right.  Ma always Said you were the prettiest.
+L616879 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ None of my business, Fred.
+L616878 +++$+++ u8497 +++$+++ m576 +++$+++ WHITE +++$+++ No, I gotta do something.  I don't Suppose you'd card-
+L616877 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Why don't you just leave it alone?
+L616855 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Yeah, and dangerous.
+L616854 +++$+++ u8497 +++$+++ m576 +++$+++ WHITE +++$+++ Ike Clanton, Old Man's eldest Son.  Know he ain't got the stuff, Makes him miserable.
+L616853 +++$+++ u8498 +++$+++ m576 +++$+++ WYATT +++$+++ Curly Bill, huh?  Who was that Other idiot?
+L616852 +++$+++ u8497 +++$+++ m576 +++$+++ WHITE +++$+++ See what I mean about it getting Spooky?
+L616676 +++$+++ u8497 +++$+++ m576 +++$+++ WHITE +++$+++ Ah, now that's the real mother- Lode in Tombstone.  Up and down Allen Street, full-blast 24 hours A day, liquor, hostesses, Gamblin', makin' money hand over Fist.  All except the Oriental.  On Account of the element.  Have a Man for breakfast in there most Days.  Regular slaughter house. High-rollers won't go near it. Too bad, nice place.

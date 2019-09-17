@@ -1,0 +1,200 @@
+L400017 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ You're concerned that maybe I can't be trusted with a secret.
+L400016 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Hey, maybe that's all right! I don't know all that much about psychology or therapy or... ethics, so maybe there's something I missed... or something...
+L400014 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ It's just a thought.
+L400013 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ You're a shrink, Doc. Aren't I supposed to be able to tell you everything?
+L400012 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Sometimes it's best to keep a few things just for ourselves.
+L400011 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I want to tell you something, Doc, but before I do, I need to ask you a question... Because, for me to tell you this thing -- well, I haven't told anybody about this. It's the biggest secret I've got.
+L400008 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Yep.
+L400007 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ How many sessions have we had now, Doc?  Six. And it's been good... like we were two buddies hanging out. Just shootin' the shit.
+L400006 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ That's all right. What's on your mind?
+L400005 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Doc. I know we're not supposed to get together till Wednesday...
+L400004 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Hey, Skip.
+L399815 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I wondered what happened to her...
+L399814 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Problem is, his fantasy life's a lot better than his real one. Nothing can live up to it. His wife got sick of it and left him. Took his kids with her.
+L399813 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Uh-huh.
+L399812 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Pretty good, too. Lots of detail. Nothing hard core. Old-fashioned ones, from back when people cared about atmosphere and character.
+L399811 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Yeah.  Guy's got some serious sex fantasies.
+L399810 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ So I guess Henry Follett is a patient of yours. He's my pharmacist.
+L399808 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ This --
+L399807 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ What?
+L399806 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ What kind of person do you have to be to do this?
+L399805 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Unbelievable...  ...And Lily named her dog after him? Far out.
+L399804 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Amazing.
+L399803 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Did you know that Danny Ainge was drafted by the Blue Jays? Do you know what kind of athlete you have to be to play in the NBA and in the bigs?
+L399802 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Well, there's Lily.
+L399801 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Really? I'm the only person I know that likes Danny Ainge, outside of Celtic fans. Maybe Phoenix.
+L399800 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Lives downstairs from me. She's got a great dog named for Danny Ainge.
+L399799 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Good-looking woman.
+L399798 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ She's probably ten years older than you.
+L399797 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ No... I've seen her. Good-looking woman.
+L399796 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Lily and I talk a bit. You know Lily, runs the coffee shop?
+L399795 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Okay then.  Have you got a lot of friends?
+L399794 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Hell yes, I like it. What's better than this? Most guys would kill just to have someone do this with them whenever they like.
+L399793 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Don't you like this?
+L399792 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ So, would you say we're out here... let me think how to put this... Is your problem really that you're... lonely?
+L399791 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Well, you know... that's the thing. Like I said, just about everybody in town works for me. And it's just not the same asking someone to throw a ball when they work for you. It's like an order or something... And no one -- no one -- asks me.
+L399790 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Skip, you're the head of the whole deal here. Are they busier than you?
+L399789 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ You'd be surprised. Most guys have kids or wives or girlfriends. They're busy. It's not as easy as you think.
+L399788 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Skip, you must have lots of people you can throw a ball with.
+L399787 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ This is exactly what I wanted.
+L399786 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ This is great!
+L399720 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ No, no... I have three billion dollars.
+L399719 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I'm impressed. I couldn't make three million dollars if I lived three lifetimes.
+L399718 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I've got three big ones.
+L399717 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Don't tell me, 'cause I'm not going to tell you what I've got.
+L399716 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I have a lot of money. Do you know how much money I've got?
+L399715 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I understand.
+L399714 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I hope you don't think I want you to do this for free. Just because we're gonna play it like we're friends, doesn't mean I won't pay you like a doctor.
+L399713 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ You moved here from back East and your name is the same as this town. Is that right?  Far out.
+L399712 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Is that the question?
+L399711 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ I gotta pee.  Can I ask you something? This town is called Mumford... Been that way since... 18... 18-0... 18-0...  ...thirteen! Right?  Now here's the question -- Your name is Mumford, too.
+L399709 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Have you thought about getting a wife?
+L399708 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Of course! That's exactly what I want.
+L399707 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Can I ask you a personal question?
+L399704 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Far out. Single malt?  Can I pick it?
+L399703 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Nah... scotch.
+L399702 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Would you like another beer?
+L399699 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Panda? I've always liked giant pandas... I've been to China and seen them in the wild. That's the kind of thing I can do if I want... now. I can do pretty much anything I want to do these days.
+L399698 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ No kidding... Panda. Where'd that come from?
+L399697 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ ..."Find the need and fill it" my dad used to say -- I guess a lot of dads say that -- but I did and it just took off.
+L399695 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ Fine. Okay. Pretty good. I've been hoping we'd meet. I've heard a lot about you.
+L399694 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ How are you?
+L399693 +++$+++ u2199 +++$+++ m141 +++$+++ SKIP +++$+++ You're Doc Mumford.  Skip Skipperton.
+L400253 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I don't have one really. Most of the time I'm faking it. See, I think there's not much that can be done about most problems... they're too complicated, too deep-rooted by the time I hear about them. The most I can do, usually, is look and listen real closely, try to catch some glimpse of the secret life everybody's got. If I can get a sense of that, well then, maybe... just maybe, I can help them out a little.
+L400252 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ Yes... your particular approach.
+L400249 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ I don't even know why hang-gliding is considered a legitimate sport.
+L400248 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ That was a terrible thing.
+L400247 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Wallace Franklin... from Greensburg.
+L400246 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ Which examiner did you have? I probably know him.
+L400245 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Oh, yeah, very tough. But I guess that's good... to keep out the quacks.
+L400244 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ I trained in the east, myself -- Cornell -- and I don't care what anyone says, there really are regional differences. I found the state certification exams out here quite harrowing... Did you?
+L400241 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Lots of institutions. My graduate advisor believed we should experience as many environments as possible -- prisons, clinics, half-way houses. For a while I was chief therapist in a shopping mall. Had a little spot next to the yogurt place.
+L400240 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ I suppose your extended training was at an institution in that area?
+L400239 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ It's possible. I don't know about that.
+L400228 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Why don't I call you when I've got my calendar in front of me?
+L400227 +++$+++ u2198 +++$+++ m141 +++$+++ SHEELER +++$+++ When?
+L400226 +++$+++ u2196 +++$+++ m141 +++$+++ MUMFORD +++$+++ Forgive me, please. What a gracious thought. We must do that.
+L401318 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Well, okay then.
+L401317 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ They are evil, cursed, they matter not.
+L401316 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ I never killed a priest before.
+L401315 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ Priests. Imhotep's priests.
+L401314 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Who the hell are these guys?
+L401267 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ Yes. To Hamunaptra. To perform the ritual.
+L401266 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ You know where he's taking her?
+L401083 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Are we talkin, about the same creature? The walking corpse? Really big mouth? Really bad breath?
+L401082 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ No mortal weapons can kill this creature. He is not of this world.
+L401081 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Relax, I got him.
+L401080 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ I told you to leave or die, you refused, and now you may have killed us all. For you have unleashed the creature that we have feared for more than four thousand years.
+L401278 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ Did you say 'kill' my sister?
+L401277 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ If he arrives before us, it will be too late.
+L401274 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ Excuse me?
+L401273 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ And then killing your sister.
+L401272 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ Oh yes, of course.
+L401271 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ By reading the Book Of The Dead.
+L401270 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ And how does one do that?
+L401269 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ The ritual to bring the body of Anck- su-namun back to life.
+L401268 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ And what ritual would that be?
+L401091 +++$+++ u2208 +++$+++ m142 +++$+++ JONATHAN +++$+++ You're not going to kill us?
+L401090 +++$+++ u2201 +++$+++ m142 +++$+++ ARDETH RAY +++$+++ We saved him! Saved him before the creature could finish his work. Now leave, all of you, quickly, before he finishes you all.
+L401195 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Something about bringing his dead girly-friend back to life. He needs the book...  And your sister.
+L401194 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ What does he want the book for?
+L401193 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ The book! The black book they found at Hamunaptra! Imhotep wants it back. Said to me it would be worth it's weight in diamonds.
+L401192 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ What are you looking for? Lie, and I'll slit your throat.
+L401191 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ You shall see.
+L401190 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Immune from what?
+L401189 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ It is better to be the right hand of the Devil,... than in his path. As long as I serve him, I am immune.
+L401188 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Then you got no excuse for living. What the hell you doin, being buddies with this creep, Beni? What's in it for you?
+L401187 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ What friend? You're my only friend.
+L401186 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Where's your new friend?
+L401125 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Do you know where I can steal some?
+L401124 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Don't gimme that, you never had any scruples.
+L401123 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ He has come to help Mister Burns. Somehow I feel responsible.
+L401122 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Yeah, well, we all got our little problems today don't we?
+L401121 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ The Prince does not like to be touched by other humans. A Silly eastern superstition, I'm afraid.
+L401120 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Oh, hey, how ya doin'?
+L401119 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ This is Prince Imhotep, High Priest of Osiris.
+L401118 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Oh yeah,... sorry bout that.  So who's this guy?
+L401117 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ You left me! You left me in the desert to rot.
+L401116 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Beni ya little stinkweed, where did you slink off to?
+L400968 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ 'Cause I look good doin, it.
+L400967 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Why do you like to fight so much?
+L400966 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ C'mon, friend.
+L400965 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Just looking for you, O'Connell! I wanted to be with my friend!
+L400964 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Goin' somewhere?
+L400915 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ I've had worse.
+L400914 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Ten to one, O'Connell, your odds are no-so-good.
+L400856 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Hey Beni! Looks to me like your on the wrong side of the river!
+L400855 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Hey O'Connell! Looks to me like I got all the horses!
+L400836 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Sounds familiar.
+L400835 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ O'Connell! I am going to kill you for this!
+L400834 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Even?
+L400833 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Let's make us even, shall we?
+L400832 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ You always did have more balls than brains.
+L400831 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ The girl saved my life, figured it was the least I could do, keep her out of trouble.
+L400829 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Unfortunately no, these Americans are smart, they pay me only half now, half when I get them back to Cairo, so I must go all the way.
+L400828 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ So you're the one leading the Americans, I shoulda figured. So what's the scam? You get 'em out in the middle of the desert then leave 'em to rot?
+L400827 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ You never were any good with the ladies, O'Connell.
+L400826 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Why if it ain't my little buddy, Beni. I oughta kill you.
+L400825 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ My very good friend! What a surprise.
+L400645 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Then what the hell are you doing here!?
+L400644 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ None of the above, thank you.
+L400643 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ What then? Robbery? Extortion? Kidnapping!
+L400641 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Exactly! I speak seven languages, including Hebrew, so my specialty was synagogues. How about you? Kill somebody?
+L400640 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Altar boys?
+L400639 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ I got caught robbing a synagogue. Lots of good stuff in them holy places; churches, temples, mosques, and who's guarding them?
+L400638 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ How'd a guy like you end up in the Legion anyways?
+L400636 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ In the desert? What for?
+L400635 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Now go find me a big stick.
+L400631 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Shut-up and gimme your bandolier.
+L400630 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Personally, I would like to surrender. Why can we not just surrender?
+L401311 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Yeah! Them.
+L401310 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ Intestines.
+L401309 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ ...and how do you say? Those slimy things, in your stomach?
+L401302 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ Oh yes, always.
+L401301 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Yeah?
+L401290 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ All I remember is him turning into a blast of sand,... and then I remember nothing.
+L401289 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ What just happened?
+L401050 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ That's one way of putting it.
+L401049 +++$+++ u2202 +++$+++ m142 +++$+++ BENI +++$+++ Like what that Moses guy did to that Pharaoh guy?
+L401221 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ Exactly --
+L401220 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ -- then perhaps, the golden Book Of The Living can return them to the underworld.
+L401219 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ I'm thinking that if the black Book Of The Dead can bring people back to life --
+L401168 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ It is because it was you who read from the Book. He has chosen you to be the human sacrifice needed to regenerate the body of Anck-su-namun.
+L401167 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ In the necropolis, when I saw him, - alive,... walking, he called me Anck- su-namun. And then in Mister Burns' quarters he tried to kiss me.
+L401161 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ To have stopped this creature? Yes!
+L401160 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ And you think this justifies killing innocent people!?
+L401153 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Do you truly wish to know? Or would you prefer to just shoot us?
+L401152 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ What is he doing here?
+L401151 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Miss Carnavon. Gentlemen.
+L400684 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Perhaps.
+L400683 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ See the cartouche there, it's the official royal seal of Seti the First, I'm sure of it.
+L400665 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Who needs smart women? I put up with you because your mother and father were our finest patrons, Allah rest their souls. Now straighten up this mess!
+L400664 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ You put up with me, because I can read and write ancient Egyptian, decipher hieroglyphs and hieratic, and I'm the only person within a thousand miles who knows how to properly code and catalogue this library.
+L400663 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ When Ramesses destroyed Syria, it was an accident. You are a catastrophe! Why do I put up with you?
+L400662 +++$+++ u2205 +++$+++ m142 +++$+++ EVELYN +++$+++ I'm sorry, it was an accident.
+L400779 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Forget the bumbling Americans, they will be like all the others. Without the map to guide them, how can they possibly find Hamunaptra?
+L400778 +++$+++ u2207 +++$+++ m142 +++$+++ HOOK +++$+++ It will be done. But what of the American expedition? They leave tomorrow as well.
+L400777 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ And burn the map and retrieve the key.
+L400776 +++$+++ u2207 +++$+++ m142 +++$+++ HOOK +++$+++ Then we will kill her, we will kill her and all those with her.
+L400775 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Yes. No one has ever had so much, been so close. We must stop her, or it will be the end of us all.
+L400774 +++$+++ u2207 +++$+++ m142 +++$+++ HOOK +++$+++ The key!? She has the lost key!?
+L400772 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ No! She has seen too much. She knows too much.
+L400771 +++$+++ u2207 +++$+++ m142 +++$+++ HOOK +++$+++ She is like all the others. She will die in the desert.
+L401237 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ If we want to kill the creature, yes.
+L401236 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Don't tell me we gotta go back out there?
+L401235 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Which would be located not far to the east of the Anubis statue.
+L401225 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ Correct, And that's when --
+L401224 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ You think it'll send this guy back to hell?
+L401223 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ -- And read the sacred incantations contained inside it.
+L401222 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ So your sayin', if we find the book made outta gold --
+L401163 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ According to the ancients, cat's are the guardians at the gates of the underworld. Imhotep will fear them until he is fully regenerated, and then he will fear nothing.
+L401162 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Okay, let's cut to the chase. He's afraid of cats, what's that about?
+L401157 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ Try me.
+L401156 +++$+++ u2203 +++$+++ m142 +++$+++ CURATOR +++$+++ You will not believe it.
+L401155 +++$+++ u2209 +++$+++ m142 +++$+++ O'CONNELL +++$+++ I'm willin, to go on a little faith, here.
+L401203 +++$+++ u2206 +++$+++ m142 +++$+++ HENDERSON +++$+++ Yeah, get me a glass of bourbon, a shot of bourbon and a bourbon chaser.
+L401202 +++$+++ u2204 +++$+++ m142 +++$+++ DANIELS +++$+++ The hell with this. I'm goin, downstairs to get me a drink. You want somethin'?
+L401180 +++$+++ u2204 +++$+++ m142 +++$+++ DANIELS +++$+++ Yeah, I'm not leavin, this fort for nothin'.
+L401179 +++$+++ u2206 +++$+++ m142 +++$+++ HENDERSON +++$+++ The hell with that! I'm not goin' nowhere! We're safe here.
+L401089 +++$+++ u2206 +++$+++ m142 +++$+++ HENDERSON +++$+++ What did you do to him!?
+L401088 +++$+++ u2204 +++$+++ m142 +++$+++ DANIELS +++$+++ You bastards!

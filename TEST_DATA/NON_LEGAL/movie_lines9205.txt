@@ -1,0 +1,200 @@
+L338768 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Yes. To keep her from you. But now that we are inside the Fortress, you will be able to contact her.
+L338767 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The Beast will kill her.
+L338766 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ They will hold Lyssa in the Center of the Vortex, the place of the Beast, where its power is greatest. No man can match it there. Lyssa must try to move toward us. For as we enter the Vortex and move closer ...
+L338721 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Let us wish him peace.
+L338720 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ He ran a great risk, helping us today. If he opposes his fate, his death will be terribly painful.
+L338560 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You must never know her name.  If more than one approaches, she will certainly kill them. Alone I may have a chance.
+L338559 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You will tell me her name and we will go together.
+L338558 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ From here, I must go alone.
+L338551 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ He sees betrayal everywhere. He will attack us so long as he is conscious.
+L338550 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I will melt that gold and pour it down your throat, old man!
+L338548 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ He thinks you betray him with Lyssa.  Colwyn! The waters deceive you!
+L338547 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Traitor! She'll marry you in hell!
+L338525 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Yes.
+L338524 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Then we must reach her before she feels that pain.
+L338523 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You are young. You don't understand the attraction of great power, and you forget the pain of long waiting.
+L338522 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Never.
+L338521 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ No. She must agree of her own free will.
+L338520 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Can she be forced?
+L338519 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Like you, she has extraordinary powers. He would make her his Queen.
+L338518 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Lyssa? <u>Why</u>?
+L338517 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ He has come for Lyssa.
+L338516 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Yes.
+L338515 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ There is no other way. You asked me why the Beast had come this time.
+L338514 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ No. We will find another way to locate the Fortress.
+L338458 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You will know, in good time.
+L338457 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ But you suspect.
+L338456 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ I'm not sure.
+L338455 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ <u>Why</u>?
+L338454 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ No. Then they were led by his underlings. But I knew he had come this time, from the ferocity of their onslaught, from their use of The Fortress. They use up much of their strength to do these things. They are taking great risks.
+L338453 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The first time, when they attacked long ago, was The Beast here?
+L338450 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ She is too deep. The curved tunnel we saw is part of the Vortex, the place of The Beast.
+L338449 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I cannot reach her.
+L338390 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I will find her!
+L338389 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ The deeper she goes, the harder it is to contact her. Once she is below the second level, you will not be able to reach her at all.
+L338388 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ She was very faint. I was barely able to reach her.
+L338387 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Yes, they knew of your first contact, so they drove her below.
+L338386 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ She can't see out. She can't tell us where the Fortress is.
+L338377 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Darkness. Tunnels and corridors.  Wait.
+L338376 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ What do you see?
+L338375 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I can't reach her.
+L338367 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Everyone of his race is born knowing the day of his death.
+L338366 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ They know when they're going to die?
+L338325 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Yes. They will be more help than high-born barons.
+L338324 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You choose these?
+L338294 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Nor will I, till my bride is beside me.
+L338293 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You have not slept in two days.
+L338292 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Then we must be ready. Five leagues from here is the Eastern Tower. I know the Barons who hold it. Good men, and brave. They will help us.
+L338291 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ No. They occupy the Fortress, but they cannot control its movement. It is moved by Fate. And, sooner or later, Fate will place it near us.
+L338290 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Then even if Lyssa tells us where she is, we'll never be able to reach her, for they will never allow the Fortress to rise near us.
+L338289 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Yes. Each dawn it rises in a different land: sometimes in the mountains, sometimes in the jungle, sometimes the desert, sometimes the sea. Never in the same place twice.
+L338288 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The Fortress moves?
+L338287 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ It is the Fortress of Krull. I know it only from the stories of wars on other worlds. They did not use it on our world in the first great war, for it costs them enormous power. This time they mean to conquer, at all costs.
+L338286 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ She was in a great fortress, first in the mountains, then in the jungle. How is that possible?
+L338285 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ You must break when the strain becomes too great, or you will harm yourself. And you must concentrate your powers for when they are needed most. What did she answer?
+L338274 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Lyssa ... Lyssa ...
+L338273 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Reach out farther. Call to her.
+L338272 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ There is nothing.
+L338269 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You won't have to.
+L338268 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ I am too old to climb down a rope.
+L338267 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You have rope?
+L338266 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ But it opens onto the sheer wall of the Needle. There's no way down.
+L338264 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ But there is another entrance to this place.
+L338263 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ There is no other way.
+L338262 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Two or three days! While Lyssa is in their hands?
+L338261 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ With two or three days' practice, you'll be able to use it as well as I can. Then we'll have a chance of fighting our way out of here.
+L338259 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ In the old books. It's called a glaive.
+L338258 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Your powers are greater than you know.  Have you ever seen one of these?
+L338257 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I have no extraordinary powers.
+L338256 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ This is not the first time the Dark Ones have attacked our world. They came once before, a thousand years ago. A young king and queen, with extraordinary powers, were given to us then, to lead the struggle. My fore-father was their Councilor, as I will be yours.
+L338254 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ I have lived in this place, like my fathers before me, guarding the old knowledge. I knew, when I had no son, that the Great War would come in my time, and that I would be the one to pass on the old knowledge to a new king. Come.
+L338253 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ We were married. Then she was taken by the Slayers. You must help me.
+L338252 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Turold's son was to marry her.
+L338251 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The new Queen lives.
+L338250 +++$+++ u1725 +++$+++ m113 +++$+++ YNYR +++$+++ Does the Queen live?
+L338249 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The White Castle has fallen.
+L338719 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ Each to his fate.
+L338718 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Each to his fate.
+L338714 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ Yes. It is today.
+L338713 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ It is today?
+L338705 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Saddles.
+L338704 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ I road them often in my youth.
+L338703 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You have done it?
+L338702 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ They can be saddled.
+L338542 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ What will happen?
+L338541 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ Do not let the waters touch you.
+L338537 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ We must enter the swamp.
+L338536 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Slayers!
+L338501 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ I found the body of the Seer in the stream.
+L338500 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ How did you know?
+L338689 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I cannot.
+L338688 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ You will not, then?
+L338687 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I feel your pain, but I cannot betray her.
+L338686 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ One night is no betrayal. Have pity on me.  Please, I beg you, do not refuse me. You do not know the price.
+L338685 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I cannot betray my bride.
+L338684 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Then give me comfort. Sleep with me tonight.
+L338683 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I cannot take comfort when she has none.
+L338682 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Let me comfort you.
+L338681 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I ache with it.
+L338680 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ You too are lonely.
+L338668 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Yes.
+L338667 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Even by you?
+L338666 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Yes.
+L338665 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Am I not beautiful enough to be loved?
+L338664 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Yes.
+L338663 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Am I not worth returning to?
+L338662 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I don't think that.
+L338661 +++$+++ u1722 +++$+++ m113 +++$+++ VELLA +++$+++ Perhaps you think no man would return to me.
+L338660 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I know the cruelty of such a fate.
+L338576 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ What else is left for a man without friends.
+L338575 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You and I will guard the fire.
+L338574 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Try your tricks on me and I'll turn myself back into a snake and bite you.
+L338411 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ <u>What</u>? Oh no! Better it was me. There isn't another good tomato within a hundred leagues.
+L338410 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Not yet, my friend. It's your tomato that's dying.
+L338408 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ No more, my lord - my friend. With Ergo the Magnificent by your side, your enemies are dead men.
+L338407 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I have need of friends.
+L338406 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ My <u>friend</u>.
+L338405 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I was hoping I might be your friend.
+L338404 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Your kingship ... your lord high mightiness ... when I called you a ... a ... whatever I called you, I didn't realize that you were ... were ...
+L338371 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ He saved our lives.
+L338370 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Once is enough, thank you.
+L338309 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Staying alive.
+L338308 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ What business?
+L338307 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ I just remembered I have urgent business in this direction.
+L338302 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ For that rudeness, peasant lout, I am going to leave you hanging by your heels when I depart. Which is right now.
+L338301 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Perhaps he expected to eat it.
+L338300 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Blast! A thousand miles off course. Well, I was rushed. There was a certain difference of opinion concerning a venison pie. The foolish man left it sitting on his windowsill. What did he expect?
+L338299 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ A forest near the Valley of Needles.
+L338298 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ It could have been quicksand! I might have been sucked to my death.  Where is this place?
+L338297 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I doubt it. The water is only an inch deep.
+L338296 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Help! Help! I'm drowning!
+L338824 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ There's no way to outrun it. You know that. This is what Ynyr was preparing me for. It's what he died for.
+L338823 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Colwyn, don't be a fool. You can't do battle with that thing.
+L338822 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Make for the wall. I'll catch up.
+L338744 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Perhaps. If the pay is good.
+L338743 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I intend to keep you alive, your majesty. So you can abdicate your throne and become my Warlord.
+L338742 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ A good thrust, my friend. Another second and there'd have been nothing between my head and shoulders but bad memories.
+L338741 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Naturally.
+L338740 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Subject to the King, no doubt.
+L338739 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ You're resourceful, my lad.  I tell you, one year under my tutelage and I could make you the Prince of Thieves.
+L338723 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ At the gallop!
+L338722 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ We must cover a hundred leagues before sunrise.
+L338701 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Those beasts cannot be saddled by mortal men.
+L338700 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ We could reach it on fire-mares.
+L338573 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Yes, my lord.
+L338572 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Go. I command you.
+L338571 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Well, it is true that if I received a royal command I couldn't very well disobey it, could I?
+L338570 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ The best. But my unhappiness is not made lighter by adding your's to it.
+L338569 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ What kind of friend do you think I am?
+L338568 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Go, join them.
+L338557 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ They do not exist, except in the waters of the Swamp, where they will remain.
+L338556 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Forgive me, my friends. I saw terrible things.
+L338484 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ A flicker of talent.
+L338483 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Hand over your dinner.
+L338482 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Lad, you have an unnatural desire to pay for things. It stunts the mind and shrivels the imagination.
+L338481 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ These we'll pay for.
+L338480 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Yes. It will double our range.  I know at least a dozen ways to get horses. All cheap.
+L338479 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ We must try to get horses.
+L338478 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ You've eaten nothing.
+L338416 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I knew you would not be. That's why I chose you.
+L338415 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Well, I'm not impressed.
+L338394 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Those are not child's tear. A child cries for himself, a man cries for those he loves.
+L338393 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Forgive me. It's childish to cry.
+L338352 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ No.
+L338351 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Not sleepy, either?
+L338350 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I'm not hungry.
+L338347 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Why do they burn the villages? There's nothing to gain.
+L338346 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ They burn many villages. Even walled cities fall to them.
+L338345 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I'm all right.
+L338344 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ When did you last sleep, boy?
+L338334 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ I compel no man to follow me on this journey.
+L338333 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ That I promise you.
+L338332 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ It should be an interesting journey, then.
+L338331 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ To the place where Death lives.
+L338330 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ And where do you lead, boy?
+L338329 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ So your sons will speak of you to your grandsons, and your grandsons to their grandsons.
+L338328 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ And in the few seconds before I dice you to crow-food, tell me why I am going to follow you.
+L338327 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ You will follow me.
+L338326 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ They stand at the edge of the grave and make jokes.  Do you know who I am, sprout? I am Torquil, Lord of the forest. My men follow no man but me, and I follow no man at all.
+L338323 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I know you.
+L338322 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Hah! You don't know me, boy.
+L338321 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Because you would not rob if you had no children to provide for.
+L338320 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ How did you know I had sons?
+L338319 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Fame is what you leave to your sons.
+L338318 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Fame?  Thank you, no. Fame is the burial ground of contentment. Eat it and go hungry; count it and go broke; seek it and grow mad. Fame is what fools yearn for and wise men shun.
+L338317 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ Fame.
+L338316 +++$+++ u1720 +++$+++ m113 +++$+++ TORQUIL +++$+++ Smart as well as quick. Now what do you have to give us?
+L338315 +++$+++ u1712 +++$+++ m113 +++$+++ COLWYN +++$+++ I don't think you'll grow careless.
+L338716 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ And mine goes with you.
+L338715 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ My heart stays here.
+L338712 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ I cannot go with you, my friend.
+L338711 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Quell?
+L338632 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ And what do you think a small person lives in, you one-eyed fool? Leaving me here to mope while you and the boy were arranging my assassination.
+L338631 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ A small house.
+L338630 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ A venison pie as big as a house.
+L338566 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ No.
+L338565 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Can't I come, too?
+L338564 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ We'll meet you at the inn.
+L338563 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ Where are you going?
+L338535 +++$+++ u1714 +++$+++ m113 +++$+++ ERGO +++$+++ I'm glad.  I'm very glad.
+L338534 +++$+++ u1713 +++$+++ m113 +++$+++ CYCLOPS +++$+++ The Swamp of Betrayal. Be glad we don't have to cross it.

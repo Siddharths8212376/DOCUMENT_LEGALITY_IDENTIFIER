@@ -1,0 +1,200 @@
+L14052 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ The one up on the third floor?
+L14051 +++$+++ u3558 +++$+++ m234 +++$+++ SISTER ANNE +++$+++ Oh that one there, in the corner.
+L14050 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Sister Anne, which was Agnes' room?
+L14049 +++$+++ u3558 +++$+++ m234 +++$+++ SISTER ANNE +++$+++ No. We work the land alone. No-one but Sister Marguerite and I are permitted contact with the public.
+L14048 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Well that's a lot of land. You must have help. Do you have field hands that help you?
+L14047 +++$+++ u3558 +++$+++ m234 +++$+++ SISTER ANNE +++$+++ Oh, we own the land around here. But we rent it out. We keep a few acres for ourselves,  some wheat, corn, some vegetables.
+L14046 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ How do you survive?
+L14045 +++$+++ u3558 +++$+++ m234 +++$+++ SISTER ANNE +++$+++ The convent was built for over fifty. Not many of us left... just us and the chickens.
+L14309 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ Well somone's got to suffer for this Doctor. You've got to be merciful and quick. Excuse me.
+L14308 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I don't understand. Are you expecting me to..?
+L14307 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ But what you believe makes no difference to us whatsoever Doctor. But it does make all the difference to Agnes.
+L14306 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Look, Father, ah... just because I don't subscribe to the... to the beliefs you subscribe to...
+L14305 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ Oh, we just wonder if you can be very objective about this case.
+L14304 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What business is it of yours..?
+L14303 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ Do you still go to church?
+L14302 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who told you this?
+L14301 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ And you had a sister who died in the convent.
+L14300 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What does this have to do with..?
+L14299 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ Your mother was a resident of Saint Catherines home before you moved her.
+L14298 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Why do you call it an investigation? I never have.
+L14297 +++$+++ u3556 +++$+++ m234 +++$+++ MONSIGNOR +++$+++ Well you're probably right about that. It certainly can't help Sister Agnes to have this investigation continued for any length of time.
+L14296 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ No.
+L14742 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Wasn't it!
+L14741 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh, don't do this!
+L14737 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What happened to the baby?
+L14736 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She can't remember.
+L14735 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Agnes, what happened to the baby?
+L14734 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That's enough.
+L14685 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Then she's a liar.
+L14684 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I doubt that's what she'd say.
+L14683 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I left it with her and I went for help.
+L14682 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Before or after you killed the child?
+L14681 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I wanted her to have it when no-one else was around, they would have taken the baby to a hospital and left it with them, but it was such a difficult birth, there was so much blood and I panicked.
+L14680 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You tied the cord around its neck.
+L14679 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ No!
+L14678 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ And the baby.
+L14677 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I didn't hide it. I put it there for the blood and the dirty sheets.
+L14676 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You hid the wastepaper basket in her room.
+L14675 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That's a lie.
+L14674 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You wanted that child out of the way.
+L14673 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She didn't want any help.
+L14672 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You went to the room to help with the birth.
+L14671 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ The scandal...
+L14670 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ The baby?
+L14669 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I don't know... too late to stop it.
+L14668 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Too late for what?
+L14667 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh, don't be ridiculous.
+L14666 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ For what?  An abortion?
+L14665 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I didn't guess until it was too late.
+L14664 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ And you didn't send her to a doctor.
+L14663 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes.
+L14662 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Did you know she was pregnant?
+L14661 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Is it because she's a nun?
+L14660 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Was it you?
+L14659 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why do you insist upon pressing...
+L14658 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who knew she was pregnant?
+L14657 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ My God, but you're determined.
+L14656 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I have a few more questions to ask her.
+L14655 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Hasn't she had enough?
+L14654 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Where is she?
+L14653 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ This is permission to take her apart.
+L14636 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ If you believe this is murder, it is the Crown attorney you have to talk to, not me. And definitely not Agnes.
+L14635 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who was that person Mother?  Was it you?
+L14634 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I'm concerned about her health.
+L14633 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Because it's murder we're talking about. Aren't you concerned about what she told us about the other person in her room.
+L14632 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why would I lie?
+L14631 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Oh, would you stop lying Mother!
+L14630 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who?  That tun... that tunnel hasn't been used in fifty years.
+L14629 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Somebody told her.
+L14628 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That's crazy. How could she find out about it?
+L14627 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ There's a tunnel out of the crypt into the barn. Did you know about that? There's an answer Mother. That's how she got out.
+L14626 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Then why are you so obsessed with her? You're losing sleep over her?  You're thinking about her all the time. You're bent on saving her. Why?
+L14625 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ That's what I have to believe...
+L14624 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ That's what you believe she is?  The sum of her psychological parts?
+L14623 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ But she is not an enigma Mother. Everything that Agnes has done is explainable from modern psychiatry. One, two, three, right down the line.
+L14622 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She is an innocent.
+L14621 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ But what you are choosing to believe is a lie because you won't face the fact that she was raped... or seduced... or that she did the seducing.
+L14620 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ But I want the opportunity to believe. I want the choice to believe.
+L14619 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I thought you didn't believe in miracles today Mother?
+L14618 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ You'll never find the answer for everything God did.
+L14617 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ But how did it happen?
+L14616 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You're saying God did it?
+L14615 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ There as no man in the convent on that night and no way for any man to get in or out.
+L14614 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ This is insane.
+L14613 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ A miracle is an event without an explanation. If she's capable of putting a hole in her hand without benefit of a nail, why couldn't she split a cell in her womb?
+L14612 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Well give me a reasonable explanation
+L14611 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Don't be ridiculous.
+L14610 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ How  ?
+L14609 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Stop laughing, I don't say it's the truth, I'm saying...
+L14608 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ My God, you're as crazy as...
+L14607 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Why must he be anybody?
+L14606 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Who is he?
+L14605 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ The father!
+L14604 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ How?  How?  She hallucinates, stops eating and bleeds spontaneously. Is that supposed to convince me she shouldn't be touched. Give me a miracle.
+L14603 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She's been touched by God, yes.
+L14602 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You think she's a saint?
+L14601 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ For Agnes.
+L14600 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ For the Church?
+L14599 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ One that will approach this matter with some objectivity and respect.
+L14598 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ One that will ask the questions you want asked.
+L14597 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ If we want to hire a psychiatrist for Agnes. we'll find our own, thank you. 
+L14596 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You're what?
+L14595 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I've just met with the bishop. We're taking you off the case.
+L14573 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ NO... no... I said leave her alone.
+L14572 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Stop this, she'll hurt herself  I'm not going to allow this.
+L14489 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Then let's begin.
+L14488 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Of course.
+L14487 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ May I be present?
+L14486 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ No.
+L14485 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Would it stop you if I did?
+L14484 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ The hypnotism. Do you still disapprove?
+L14483 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Begin what?
+L14482 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I'd like to begin.
+L14481 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Listen to her singing.
+L14480 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Do you think Agnes is still attached to God?
+L14479 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes, but goodness has very little to do with it. Not all the saints were good, in fact some of them were a little crazy. But... they were still attached to God. Agnes has that birth.  No more... we're born, we live, we die. No room for miracles.  Oh my dear, how I miss the miracles.
+L14478 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Well you can try, can't you, to be good?
+L14477 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Become?  One is born a saint.
+L14476 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Do you want to become one?
+L14475 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes I do.
+L14474 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Do you think they ever existed?
+L14473 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ There are no saints today. Good people yes, but extraordinarily good people... those I'm afraid we are sorely lacking.
+L14472 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Right.  What do you suppose today's saints are smoking?
+L14471 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ And Saint John would chew tobacco.
+L14470 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Oh, you've come a long way baby.
+L14469 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Mary Magdelen?
+L14468 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Right...
+L14467 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Pipe!
+L14466 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Saint Peter?
+L14465 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Even Christ would partake socially.
+L14464 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Hand rolled.
+L14463 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Saint Ignatius would smoke cigars and stub them out on the soles of his bare feet.  And of course 
+L14462 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Long, thin and filtered.
+L14461 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Undoubtedly. Not the ascetics of course but, well Saint Thomas More...
+L14460 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Do you suppose the saints would have smoked if tobacco had been popular back then?
+L14459 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Fine thanks...
+L14458 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ All right?
+L14457 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I'm out of prac...  ... practice. 
+L14456 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I'd love one.
+L14455 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Would you like one?  Huh?
+L14454 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ No, it reminds me.
+L14453 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ My sister died in a convent. And it's her voice I hear.  Does my smoking bother you?
+L14451 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ No, because I... yeah, yeah I left the Church cause I had freckles.
+L14450 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ So you left the Church because you had freckles?
+L14449 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I wasn't. I wasn't. She was the pretty one. She died, why not me?  I never said my morning prayers. And I was ugly, I was scrawny, I had buck teeth and freckles all over my face, do you know what the nun called me, Sister Mary Clitus, called me Polkadot Livingston.
+L14448 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ And what has that to do with it?
+L14447 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ That's all?  That's enough!  She was a beautiful little girl.
+L14446 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Stupid woman... and that's all?
+L14445 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ It wasn't sex. It was a lot of things, but it wasn't sex. You know when I was in the first grade my best friend was run over on the way to school, you know what the nun said?  She died because she hadn't said her morning prayers.
+L14444 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ What have we done to hurt you?  And don't deny it, I can smell an ex-Catholic a mile away. What did we do?  Burn a few heretics, sell some indulgences? That was in the days when the Church was a ruling body. We let governments do those things today. So what did we do to you eh?  You wanted to neck in the back seat of a car when you were fifteen and you couldn't because it was a sin?
+L14443 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Nothing...
+L14442 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ What the hell has the Catholic Church got to do with you?
+L14441 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You just said...
+L14440 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Who said anything about the Catholic Church...
+L14439 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Catholic Church doesn't have a corner on morality...
+L14438 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Bullshit yourself!
+L14437 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Bullshit!
+L14436 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Because I am a moral person.
+L14435 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Then why did you call the police in the first place Mother, huh?
+L14434 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She's happy with us and she could go on being happy if she was left alone.
+L14433 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ An unhappy woman...
+L14431 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I know you don't.
+L14430 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I don't give a damn about her spiritual health.
+L14429 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Her spiritual health.
+L14428 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ The woman's health is at stake.
+L14427 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I haven't decided yet.
+L14426 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Don't deny it!
+L14425 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ We'll see about that.
+L14424 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ I'd like yours too.
+L14423 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ And my permission?
+L14403 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Oh, God.
+L14402 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Because I didn't know... 
+L14401 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Why didn't you do anything to stop her?
+L14400 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I knew that after the fact.
+L14399 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Why didn't you?  You knew she was keeping her home from school. You knew she was an alcoholic.
+L14398 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh God, if only I'd known.
+L14397 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ There is more here than meets the eye isn't there?  Lots of dirty little secrets.
+L14396 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh, dear God.
+L14395 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ She molested her!
+L14394 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I don't think I care to know.
+L14393 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Do you know what she did to her?
+L14392 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ She drank too much. That's what killed her.
+L14391 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Listening to angels?
+L14390 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes.
+L14389 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Like keeping her home from school?
+L14387 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ And Agnes' father?
+L14386 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I never saw Agnes until she set foot in this convent. My sister ran away from home. We lost touch with her. And when my husband died and I came here, she wrote to me and asked me if I would take care of Agnes in case anything happened.
+L14385 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ No, it just makes you doubly responsible doesn't it?
+L14384 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ I didn't tell you because I didn't think it was important.
+L14383 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Your niece!
+L14382 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ About what?
+L14381 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ You lied to me
+L14295 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Yes. I don't remember where Agnes was. I was needed in the sick room.
+L14294 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ Sister Paul?
+L14293 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ The twenty third of January. On that night one of our elder nuns passed away.
+L14292 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ When was that?
+L14265 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ Oh, Dear God, I should have guessed...
+L14264 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What sheets?
+L14263 +++$+++ u3557 +++$+++ m234 +++$+++ MOTHER MIRIAM +++$+++ The sheets...
+L14262 +++$+++ u3555 +++$+++ m234 +++$+++ MARTHA +++$+++ What is it?

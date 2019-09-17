@@ -1,0 +1,200 @@
+L368046 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Did you have sexual intercourse with the woman in question?
+L368045 +++$+++ u6469 +++$+++ m430 +++$+++ JIM +++$+++ What?
+L368044 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Did you have sex with her?
+L368043 +++$+++ u6469 +++$+++ m430 +++$+++ JIM +++$+++ No - that's not it!  She said her boyfriend stranded her up there! I didn't ask her to come with me!
+L368486 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Nahhh...
+L368485 +++$+++ u6474 +++$+++ m430 +++$+++ TUBBS +++$+++ Yeah, and that's all I'm going to say. If you want to arrest me, go ahead...
+L368484 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Oh yeah?  You're a smart man?...
+L368483 +++$+++ u6474 +++$+++ m430 +++$+++ TUBBS +++$+++ I asked him not to tell me where he was going.  I told him I don't want any part of it.
+L368482 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Long gone, huh?
+L368472 +++$+++ u6474 +++$+++ m430 +++$+++ TUBBS +++$+++ Long gone... MARVOSA Well you won't mind if I don't take your word for it, right?
+L368471 +++$+++ u6471 +++$+++ m430 +++$+++ MARVOSA +++$+++ Where is he?
+L368470 +++$+++ u6474 +++$+++ m430 +++$+++ TUBBS +++$+++ Don't you guys ever knock?
+L369119 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ I don't recommend it.
+L369118 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Could he handle a direct contact?
+L369117 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ If he pushes too deep into our boy's mind-set, he may destroy himself.  What are you planning, Jack?
+L369116 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ What's the bottom line?
+L369115 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ No. It happened when Graham went to see Hobbs' daughter four months later in the hospital. She saved her carotid artery.., but lost three fingers and her larynx. She was connected up to a voice box.  When Graham went to see her, she asked him -- through the speaker: 'Why did you have to kill my daddy?'  That's when Graham had his nervous breakdown.
+L369114 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ That's when it happened?
+L369113 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ I'll tell you the events. The psychology's none of your business. Hobbs was trying to cut his eleven- year-old daughter's throat. Graham shot him with his .38 six times. Hobbs still didn't go down. He had to wade in...
+L369112 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ His nervous breakdown followed Hobbs. Could he kill again if he had to save his life? Or would he hesitate?
+L369111 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ Because I'm professionally concerned about him. And he'd pick up on that. He's fast. He hates being prodded and poked.  So do I.  What do you want?
+L369110 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Why aren't you ever alone with him?
+L369109 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ He's an eideteker. He has almost total recall.  But I don't think he's psychic.  What he has it empathy and projection.  He can assume your point of view and mine.., and some other points of view that scare and sicken him.
+L369108 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ You're never alone in a room with Graham, are you? You're smooth about it, but you're never one-on-one with him. Why's that? Do you think he's psychic?
+L369107 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ I wouldn't presume to try.
+L369106 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ He doesn't think you run mind games on him.
+L369105 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ It was you who did the asking.
+L369104 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ That was Peterson upstairs.
+L369103 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ Remember when you asked for a study on him, I refused. Same goes for now.
+L369102 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I need to ask you questions of a psychological nature.
+L369101 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ What about him?
+L369258 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Kevin and Molly are on their way to Montana.  Who the hell is he to do this to my family, Sidney? Answer me that...!
+L369257 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ How are Molly and the boy?
+L369256 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ And do what? Read about the next family in the morning paper?  In my Monkey Ward safehouse 'cause I can't take my family home?  This ends when I make it over.
+L369255 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ The usual motivation doesn't apply to him, nor the way he uses them.  I don't have an answer for you.  Listen to me, my friend: leave this.
+L369254 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Sidney: I don't understand him.  We know he re-arranges the kids and husbands into a dead audience.  To witness the act. We know he thinks the act is making him into something different. His 'becoming'... but I don't know what it is he thinks he's becoming.  The answer is something to do with how he uses the mirrors. That's what's missing for me.  Why the mirrors?
+L369129 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ He may have an unconscious homosexual conflict. A fear of being gay. He objects to the word 'fairy.' Plus smeared bloodstains indicate that he put the shorts on Charles Leeds after he was dead.  I believe he did this to emphasize his lack of interest in Mr. Leeds.
+L369128 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What have we missed?
+L369122 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ If the Tooth Fairy listens to Lecktor, he'll come for me. So we're going to set me up as bait to draw him out. Give him a clean shot.  That's what you were thinking, isn't it?
+L369121 +++$+++ u6477 +++$+++ m431 +++$+++ BLOOM +++$+++ Crawford has a proposition. I don't think it's a good idea.
+L369019 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He'd know it from articles he's read about Lecktor...
+L369018 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ It has to be a book the Tooth Fairy would know Lecktor has in his cell.
+L369017 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ They tried sodium amytal on him three years ago to find where he buried a Princeton student.  He gave them a recipe for potato chip dip.
+L369016 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ Right.  What about sweating Lecktor?
+L369015 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Then the Tooth Fairy named the book in the part Lecktor tore out.
+L368986 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ Christ!
+L368985 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ In thirty-five minutes.
+L368974 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He doesn't have anything to cut with.
+L368973 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ That's probably in the part Lecktor tore out.  At the top it says: 'I hope we can correspond.' And then the hole begins.  It looks like Lecktor went over it with a felt tip pen and then folded it and pinched most of it away.
+L368972 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ The main thing is: how was Lecktor to reply.
+L369023 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ Library of Congress.
+L369022 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Where?
+L369021 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ Have him meet me with pictures of Lecktor's books...
+L369020 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Willingham, when he tossed his cell, took Polaroids so they could get everything back in place...
+L369014 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ No. Galatians 15:2? Galatians has only six chapters. The same with Jonah 6:8 -- Jonah has four chapters. Lecktor wasn't using a Bible.
+L369013 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Not the Bible?
+L369012 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ 'One hundred prayers' could be the page number. The paired numbers and the scriptural references could be line and letter. But what book?
+L369011 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Book code?
+L369010 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ No.  The numbers aren't right for a jailhouse alphabet code. It's a book code.  And your message has to go out in it, or he'll know it's not Lecktor talking to him.
+L368998 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Issue the toilet paper tear as a...
+L368997 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ If there's any doubt, we matched the indents of the bitemark on the note against the Smithsonian teeth. This is your boy...  He folded the bottom part, including what Lecktor tore out. In this enlargement of the back side, oblique light revealed impressions.  We can make out: 'six-six-six'.  I didn't spot it until I had this high-contrast print. I advised Chicago as soon as I saw it.
+L368984 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ When do they go to press?
+L368983 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ The Chicago office is running through all the personal ads in the Tattler right now.
+L368979 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ At the end is the tail of what could be an 'r.
+L368978 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ That could be the tip of a 't.  Here and here. And here.
+L368977 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ Aniline dyes in the inks in felt-tip pens -- which is what Lecktor has -- are transparent to infrared. The Tooth Fairy's ballpoint isn't...
+L368971 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Twenty minutes max.
+L368970 +++$+++ u6478 +++$+++ m431 +++$+++ BOWMAN +++$+++ How long do I have?
+L369005 +++$+++ u6479 +++$+++ m431 +++$+++ CHESTER +++$+++ 'You're very beautiful.
+L369004 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ That's it. Lecktor called him a Pilgrim when he was talking to me...
+L369003 +++$+++ u6479 +++$+++ m431 +++$+++ CHESTER +++$+++ 'Dear Pilgrim, you honor me.'
+L369002 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Read it.
+L369001 +++$+++ u6479 +++$+++ m431 +++$+++ CHESTER +++$+++ We got an ad order in tonight's "Tattler" with 'six-six-six' in it. It's being Telexed to you right now.
+L369000 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Will Graham, Jack Crawford...
+L368999 +++$+++ u6479 +++$+++ m431 +++$+++ CHESTER +++$+++ This is Chester here. Who am I talking to?
+L369100 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I need to talk to you about Will Graham.
+L369099 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ Let's go to bed. I'll rub your back.
+L368635 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I'll try to keep him as far away from it as I can...
+L368634 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ No.  I don't like people who park in the 'handicapped zone'...
+L368633 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Talking about 'like,' you don't like me very much, do you?
+L368632 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ You wouldn't like it, either if you had it.
+L368631 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Nobody's better with evidence. But he has the other thing, too. He doesn't like that part of it...
+L368630 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ He thinks you want him to look at evidence.
+L368629 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Because it's his bad luck to be special.
+L368628 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ You're his friend, Jack. Why can't you leave him alone?
+L368627 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I have to.
+L368626 +++$+++ u6490 +++$+++ m431 +++$+++ MOLLY +++$+++ Whatever I say, you'll take him away, won't you?
+L369492 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ It's happening again, Jack...
+L369491 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Wait for the back-up! Will?
+L369490 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ There's somebody in the house, Jack...
+L369489 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Stay in the trees.
+L369488 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ I'll cover the back.
+L369487 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Three minutes.
+L369486 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ How far away's the back-up?
+L369485 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Get the roadblocks set on Route Three! There's an access road to the back of the house. That ought to be a second team's approach.  Will Graham and I are in an orchard due west of the house.
+L369482 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ You're not going to need that. Because we're going in careful and slow and secure a perimeter and a St. Louis PD Swat team is going to take him. Not us.
+L369481 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What?
+L369480 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Will...?
+L369475 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ This is our boy...!
+L369474 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Fogel has four more names. He knows two: both dark hair. Third's a woman. Fourth's a handicapped parking permit...
+L369459 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Are your parking permits in the computer? He drives a van.
+L369458 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Parking permits...
+L369443 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I want a chopper on the roof in three minutes. To Meigs Field.  At Meigs have them warn up and flight- prep the Gulf Stream.
+L369442 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ It does, doesn't it?
+L369441 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ See if there's another label underneath.
+L369440 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Have him peel the top label back.
+L369439 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ No. It's Bob's Photo Store in...
+L369438 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Is there a label on the Jacobi can that says what lab processed it?
+L369437 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What it's going to say on the Jacobi film can is the same as it says on the Leeds' film can: Gateway Lab, St. Louis, Missouri.
+L369435 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ There's some film cans in the far corner of the room underneath one of the windows.
+L369434 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ We want the cans the Jacobi home movies came in.  They're in the far corner of the room under the windows.
+L369433 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ It's the guard in the storeroom.
+L369422 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Don't talk to me!!
+L369421 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ It's getting late and...
+L369418 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ He had to.
+L369417 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ You mean Jacobi put it in between when this film was made and when he was murdered?
+L369416 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Because a steel door and deadbolt were there when they were killed.
+L369415 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He used a boltcutter to trim the branch out of his way. When he was watching from the woods. Why didn't he use it to go through the basement door?
+L369414 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ What's that?
+L369413 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ That's why the boltcutter.
+L369412 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ You wanna watch this or what?!
+L369411 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Will?
+L369410 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ It's a foregone conclusion. For Christ's sake, it's eleven PM.  The full moon is tonight.
+L369409 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ It's not over yet.
+L369408 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Let's admit we struck out this month. The Gulf Stream's standing by. The basic lab stuff is on it.  You, Zeller, Jimmie Price, a photographer. Anywhere he hits, we can be there in an hour and fifteen minutes. We get the call, we roll. The scene'll be very fresh...
+L369407 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Something Lecktor said.
+L369406 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ What?
+L369405 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He's a very shy boy...
+L369404 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ There is none! We've run it through the computer a dozen times.
+L369403 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ There has to be.
+L369402 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ There's no connection between the families.
+L369401 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He's very careful, very... designed when he chooses.  If we find out how he finds them, then we'll find him.
+L369400 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ How do I know?!
+L369399 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ VTR, film, Polaroid, stills, what?
+L369398 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ It's a word. Killing them...  His delusion is: if he sees himself accepted enough times, he will become as one who has the power to be accepted all the time.  And he would record it somehow. So he can see himself received over and over again...
+L369397 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ 'Changes?'
+L369396 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He changes them into beings that accept him... And he needs to see the acceptance, In the mirrors.  I didn't understand the mirrors before.  It's very important.
+L369337 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ When I'm done.
+L369336 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ When are you coming back?
+L369335 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ That's narrow?
+L369334 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Milwaukee, Madison, Dubuque, Peoria, St. Louis, Indianapolis, Cincinnati, Toledo and Detroit.
+L369333 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What's it narrow down to?
+L369332 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ From the lip wound, which happened seven hours before he got burned, we've narrowed it down to those cities within the seven-hour driving radius that also would've caught the 'Tattler' early Tuesday morning.
+L369331 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ I arranged for him to have a phone. I have to call him in a few minutes.
+L369330 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ You got the message Lecktor called...
+L369138 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ No.
+L369137 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Asian studies at Langley said the mark you found on the tree is a Chinese character considered a positive or a lucky sign in gambling. The character also appears on a mah- jongg piece.  It means Red Dragon.  That mean anything to you?
+L369043 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ I won't be here.
+L369042 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I'll pick you up in...
+L369041 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Get me a plane!
+L369040 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Wait, Will...
+L369039 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Get me a plane...
+L369038 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ It says: 'Graham home, 3860 DeSoto Highway, Marathon, Florida. Save yourself. Kill them all.  It's your home address, Will. The bastard gave him your home address.
+L369037 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Tell me now.
+L369036 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I'll tell you in a second. Now listen to me: everything is okay, I'm taking care of it, so stay on the phone when I tell you.
+L369035 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What'd it say?
+L369034 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Will, Bowman just broke the code. It was a James Beard cook book. You need to know what it says right now.
+L369033 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Who is it?
+L369032 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ We will feel sick for a very long time.
+L369031 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ What if it encourages the Tooth Fairy to do something besides write?
+L369030 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Run it.
+L369029 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ It's your call, Will. What do we do?
+L369028 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ And if we pull it, we lose a week... We only have two to the next full moon.
+L369027 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Yes. And I'm leery of running Lecktor's message without knowing what it says.
+L369026 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Can we still get Lecktor's message out of the paper?
+L369025 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ We let Lecktor's message run as is and decode it after. Or we pull it, work our the code and put ours in next week.
+L369024 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Twenty-five minutes. We won't make it in time.
+L368982 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Personal ads?
+L368981 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ ...there's three 't's' and an 'r' in Tattler.
+L368980 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ We know the Tooth Fairy reads the Tattler. The stuff about me and Lector? I don't know any other paper that carried it...
+L368954 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ After we've worked the note we want to replace it in Lecktor's cell. I don't want him to know we found it.  Where's Lector now?
+L368953 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Sarah, order a chopper. I want the next thing smoking and I don't care whose. Ours. DCPD.  Or the Marines. Then call Documents. Tell them to scramble a team. I want everybody moving in five minutes.  Dr. Chilton, please do not handle the note. I have a Documents team on the way to you by helicopter to pick it up.
+L368944 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ What is it?
+L368943 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ How'd you know 'broken mirrors?' Bribe a cop?  Tell it to the U.S. Attorney, Lounds!
+L368888 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ You.
+L368887 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Who did he ask for?
+L368881 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Did Price get anywhere with the single prints off the Leeds?
+L368880 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ If the Documents section can't do it... I'll send it up to Langley...
+L368879 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ The mark? Yes.
+L368878 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Is it weird?
+L368728 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ To recover the mind set.
+L368727 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ For Christ's sake, why?
+L368726 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ ...I'm going to see Lecktor.
+L368725 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ See? You do know something about him.
+L368724 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Because he has a genuine taste for it, Jack.
+L368723 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Why?
+L368722 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ You think I'm gonna spot him 'across a crowded room?'  That's Ezio Pinza you're thinking about.  The Tooth Fairy will go on until we get smart or get lucky. He won't stop.
+L368721 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ No other possibilities?
+L368720 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ He makes noise going in and the husband gets to a gun in time.
+L368719 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ We're running it through the computers now. So far there's no event or service that doubles back into both families. Plus they were big consumers: snowmobiles, fishing trips, scuba, videogames, lots of routine medical and dental. It's a haystack.  What's the other?
+L368718 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ We find an event that connects both families. Same vacation hotel; same hospital, different times. Then we check employees and come up with a male nurse, hairdresser, whatever...  If we find out how he found them, then we'll find him.
+L368717 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ What's one way?
+L368716 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Don't expect too much from me, Jack, all right?  We'll get him one way or the other.
+L368715 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ You can tell something about him or we wouldn't have found the finger print...
+L368714 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ I don't know, Jack. He's got no face for me.
+L368713 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ Say we've arrested a good suspect. You walk in and see him. What is there about him that doesn't surprise you?
+L368712 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Atlanta and Birmingham can run the thumb print against known sex offenders. Five will get you ten they don't come up with an identification. Jimmie may in the Finder program... if he's ever been printed and in his Index.
+L368711 +++$+++ u6480 +++$+++ m431 +++$+++ CRAWFORD +++$+++ I know...
+L368710 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ ...snuck in the hospital while I was sedated, flipped back the sheets and shot pictures. The only decent thing he did was run a black square over my balls...
+L368695 +++$+++ u6484 +++$+++ m431 +++$+++ GRAHAM +++$+++ Why don't you get Birmingham P.D. a methane probe out of D.C. and have them cover the backyard...  maybe the cat's dead and the kids buried it.

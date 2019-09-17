@@ -1,0 +1,200 @@
+L545114 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ The third one is moving off too -- a fourth one is forming...
+L545015 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Confirm, Captain. Lunar beacons indicate Intruder on a course into Earth orbit...
+L545014 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ Starfleet signals, sir, growing in strength...  They -- have Intruder on their monitors -- it's decelerating -- powerfield cloud beginning to dissipate...
+L544706 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ Subspace frequencies are jammed by Wormhole effect!
+L544705 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Negative helm control, Captain! Going reverse on impulse power...!
+L544670 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Helm ready, sir.
+L544669 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ Dock control reports ready, sir.
+L544634 +++$+++ u7854 +++$+++ m531 +++$+++ SULU +++$+++ Dock signals clear, Captain.
+L544633 +++$+++ u7855 +++$+++ m531 +++$+++ UHURA +++$+++ Transporters Room and Chief Engineer Scott report trans- porter system fully repaired and now functioning normally, sir.
+L548816 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You bet your life.
+L548815 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ Go you Huskies?
+L548814 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ He'll eat potroast and like it.
+L548813 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ He have any special dietary requirements...?
+L548812 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Sure plan to.
+L548811 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ You bringing your new friend?
+L548810 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I'll be there.
+L548809 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ Mom's expecting you for dinner tonight.
+L548490 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ I'm goin off-shift.  Come on...I'll walk you home.
+L548489 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Then you'll be wet.
+L548488 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ I'll walk you home, you can have my coat.
+L548487 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Nope.
+L548486 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ Annie...got an umbrella...?
+L548485 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Cal...
+L547803 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Evening, Cal.  Would you tell me about it?
+L547802 +++$+++ u7861 +++$+++ m532 +++$+++ CAL +++$+++ Evening, Annie.
+L548793 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I'll knit you a sweater.
+L548792 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ If I go to jail...?
+L548791 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I'll wait for you...I'm proud of you. I'll <u>be</u> waiting.
+L548748 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I'm going to tell the truth.
+L548747 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What are you going to do?
+L548702 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...you think that's right...
+L548701 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I...I <u>think</u> that's right...
+L548700 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Carla was in the car, right?
+L548699 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ They'll...they'll <u>blackball</u> me...
+L548698 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Maybe they'll be <u>other</u> movies.
+L548697 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ But it'll stop the movie.
+L548696 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ But that's what happened.
+L548695 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I can't do that.  If I tell them, they'll, if I <u>tell</u> them, they'll try Bob for rape, they'll...it'll ruin his career...
+L548694 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You got to tell em that you saw the accident.  Don't you?
+L548693 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What am I gonna do?
+L548675 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I saw...
+L548674 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What is it all about?
+L548649 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ That's why we filmfolk get along so well with you farmers.  Both up with the chickens.
+L548648 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Lookit that, up already.
+L548647 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Well ain't you amazing.
+L548646 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Happen to know where there's one for sale.
+L548645 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Well, I could <u>get</u> a rolltop desk.
+L548644 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Not without a rolltop desk.
+L548643 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ To print the newspaper.  And I'd come to <u>write</u>.  To write.  To write.  Right here in the office.
+L548642 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...the better to eat me with, your dear?
+L548641 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ And come to the printshop.  You know <u>why</u>...?
+L548640 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...well, we do that <u>anyway</u>...
+L548639 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...and we could get up every morning...
+L548638 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Now you're talking...
+L548637 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ We could live up here, live up in the country.
+L548636 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Yes...
+L548635 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I've been thinking: look at this: we live up here...
+L548634 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Oh yeah.
+L548633 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Yeah, you?
+L548632 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Sleep well?
+L548631 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Good morning.
+L548482 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ People might be better off.  They thought about it, spent the evening back in the...
+L548481 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Pelting down out there.
+L548479 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What?
+L548478 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You know what else a man can do?
+L548477 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ That's something a man could do...?
+L548476 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You'd do the newspaper right here.
+L548475 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Best way I know to get ink on your hands.
+L548474 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Did as of last week.
+L548473 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ It does?
+L548472 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Press still works.
+L548467 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Start back up the Waterford Sentinel. Town newspaper.  Show you the plans...
+L548466 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What would you do with it, the printshop...
+L548465 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...what...?
+L548464 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Gosh, you look nice.
+L548463 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ How's your star?
+L548462 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I'd love to.
+L548461 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Would you like to <u>see</u> it?  I've got the key back at my store...
+L548460 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Yep.  N'it's for sale.  One of the few things money can buy.
+L548459 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Is it...
+L548458 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Yessuh.  Joseph Knights printshop. Vacant for thirty years.
+L548457 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ No.  You, I told them, you can't betray with the picture what you're saying with the words.  And, I don't know, the movies, I don't know.  They should be socially uplifting, why does she have to show her br...what is this...?
+L548456 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ No, that's true.
+L548455 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...how <u>else</u> can you talk?
+L548454 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I didn't say anything special, I was just talking out loud.
+L548453 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I told them what you said about the script...
+L548452 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What?
+L548451 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Going home, yeah.  I told them what you said...
+L548450 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Going home.
+L548449 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Where you going?
+L548448 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Hi.
+L548447 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Hi.
+L548324 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...take <u>any</u> two people...
+L548323 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ That's right...
+L548322 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ That's...that's <u>exactly</u> what it's about. Take...
+L548321 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Because it's about <u>purity</u>...
+L548318 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Has been wounded by <u>her</u> heat...by her <u>infidelities</u>...
+L548317 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...yes.
+L548316 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...her unbridled sexuality.  That he...
+L548315 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...yes.
+L548314 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ She <u>realizes</u> -- it was not the fire which <u>hurt</u> him...that the <u>true</u> hurt was her. Was her...
+L548313 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...he stuck a fishhook in it. 
+L548306 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I hurt you?
+L548305 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Ah.  Ah.  Ah...
+L548304 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ How about, he sees her on the street, he wipes the soot from his eyes.  He goes up to her.  "What happened to the horse?" She looks at him.  She takes his hand...
+L548303 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ <u>Please</u>...
+L548302 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What about...what about...it's so presumptuous of me, to be, to be telling <u>you</u> how to wr...
+L548297 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ They meet on Main Street.  Her horse has just died.  He's coming from the fire.
+L548296 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What've you got?
+L548295 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ It used to be the Old Mill.
+L548294 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What's the scene...
+L548293 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I can't get it to come out right.
+L548292 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Good morning to <u>you</u>...whatsa matter?
+L548246 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Go you Huskies!
+L548245 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Yes.
+L548244 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Time for a change.  Keep your margins straight.
+L548243 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Why?
+L548242 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Sure did.
+L548241 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You used to go out with him, you broke up with him?
+L548240 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I used to go out with a politician.
+L548239 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Do you truly believe the electoral process is absurd?
+L548238 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ So is our electoral process.  But we still vote.
+L548237 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ But it's absurd.
+L548236 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I do if you do.
+L548235 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You believe that?
+L548234 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Oh <u>okay</u>.
+L548233 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Because I'd met someone else.
+L548232 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You can do it.
+L548226 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ No, I just broke up with him.  I'll see you tomorrow.
+L548225 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You, um, you, um, you going out with your fiance?
+L548224 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Then I'll come back, then.
+L548223 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Later on.
+L548222 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Oh.  That's alright.  Then I'll come back at a better time.  What would be a better time?
+L548221 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Start?  This isn't a good time.
+L548219 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...because if you don't, they die...
+L548218 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Why?
+L548217 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Don't you think you should put them in water?
+L548216 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Oh.
+L548215 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ The other side.
+L548214 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ "To the love of my life, Love, Doug"?
+L548213 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Read the card.
+L548212 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Thank you.
+L548210 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You going to ask me in?
+L548209 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Hi.
+L548202 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ One moment.
+L548201 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ It's for your finger.
+L548200 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I don't drink.
+L548199 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ And here's some hydrogen peroxide.
+L548198 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Oh, God...
+L548197 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ I'm gonna be your typist for this evening.
+L548196 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You have to sign for it.
+L548195 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Would you put on your cl...  Just leave it outside.
+L548194 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Would you go in...
+L548193 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ "Room Service!"
+L548192 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Great.  Who is it...?
+L548090 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Better'n new, cause it's got a <u>story</u>. Want to do the other part?
+L548089 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Gonna' be good as new.
+L548088 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Better idea...
+L548087 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Fix my glasses.
+L548086 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Paperclip?
+L548085 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Me, too.  You have a paperclip?
+L548084 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Never saw the point of 'em.
+L548083 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You like kids?
+L548078 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ You got a paperclip?
+L548077 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ ...lost the screw...
+L548076 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ My glasses fell apart.  I lost the...
+L548075 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ What are you doing down there?
+L548074 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What?
+L548073 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ "Rise, one need not bend the knee before the throne of justice."
+L548072 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ They're all preparing for the auditions - your movie.
+L548071 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Uh huh.
+L548070 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Cast stood me up.
+L548069 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What happened?
+L548068 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ That's for sure.
+L548067 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Well, then, it don't look good for the Huskies...
+L548066 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Don't look good for "Trial of the Heart."
+L548065 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I thought you had Play Practice.
+L548064 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Hello.
+L548020 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...oh...oh.  Well.  That's very important.
+L548019 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Tonight, tonight, I...I have play practice...
+L548018 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ Yes.
+L548017 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Me?
+L548016 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What are you <u>doing</u> tonight?
+L548015 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ This is, look:  Go you Huskies.  ...what <u>I</u> see you saying, is:  you have the two elements, Fire and <u>Water</u>.  The Firehouse, and the <u>Old Mill</u>...Do you know, you could...
+L548013 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ He doesn't go back to the <u>mill</u>, he gets a second chance to go back to the <u>firehouse</u>...
+L548012 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ No, I don't...
+L548011 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Wait wait wait wait wait he gets a second chance, do you see?  And <u>you</u> get a second chance!
+L548010 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ <u>How</u>...?
+L548009 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ But but but but but it's better <u>without</u>...
+L548008 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I...
+L548007 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ The <u>Firehouse</u>...
+L548006 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ ...the, the, the symbol of the fire...
+L548005 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ That's why you didn't want to take the <u>Mill</u> out...you've...
+L548004 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ About <u>conflict</u>...
+L548003 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ <u>Yes</u>...
+L548002 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ What I need to <u>say</u>...
+L547924 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ Well, first, you got to change the title...
+L547923 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ But how do I...how do I do a film called "The Old Mill," when I don't have an old mill?
+L547922 +++$+++ u7856 +++$+++ m532 +++$+++ ANN +++$+++ You bet your life.  "The mill wheel goes around...some times it's even under water -- then it rises up, as high as it can go..."
+L547921 +++$+++ u7869 +++$+++ m532 +++$+++ JOE +++$+++ I <u>can</u>?

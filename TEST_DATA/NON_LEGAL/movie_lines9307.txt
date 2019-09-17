@@ -1,0 +1,200 @@
+L421622 +++$+++ u2363 +++$+++ m151 +++$+++ PROPRIETOR +++$+++ I didn't mean nothin' by it.
+L421621 +++$+++ u2352 +++$+++ m151 +++$+++ CHIGURH +++$+++ What business is it of yours where I'm from, friendo?
+L421620 +++$+++ u2363 +++$+++ m151 +++$+++ PROPRIETOR +++$+++ I seen you was from Dallas.
+L421619 +++$+++ u2352 +++$+++ m151 +++$+++ CHIGURH +++$+++ What way would that be?
+L421618 +++$+++ u2363 +++$+++ m151 +++$+++ PROPRIETOR +++$+++ Y'all getting any rain up your way?
+L421617 +++$+++ u2352 +++$+++ m151 +++$+++ CHIGURH +++$+++ This. And the gas.
+L421616 +++$+++ u2363 +++$+++ m151 +++$+++ PROPRIETOR +++$+++ Sixty-nine cent.
+L421615 +++$+++ u2352 +++$+++ m151 +++$+++ CHIGURH +++$+++ How much?
+L422150 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ No sir, it's unusual.
+L422149 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ You get a lot of people come in here with no clothes on?
+L422148 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Okay.
+L422147 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Good. I need everything else.
+L421943 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ There's somebody lookin' for me. Not police. Just call me if anyone else checks in tonight.
+L421942 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ I'm waitin' to hear your description of that.
+L421940 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Yessir, be here til ten tomorrow morning.
+L421939 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ You on all night?
+L421938 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ That's twenty-six dollars.
+L421937 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ One room, one night.
+L421891 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Let me have that one. Where's the nearest hardware store?
+L421890 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Well I guess that'd be our ten-foot backyard Per-Gola. You can stand up in it. Well, some people could stand up in it. Six foot clearance at the ridge. You might just could.
+L421889 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ The kind with the most poles.
+L421888 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ What kind of tent?
+L421887 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Never mind.  I want a tent.
+L421886 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Well you give me the model number of the tent I can order you the poles.
+L421885 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Somethin' like that.
+L421884 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ You already have the tent?
+L421883 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Uh-huh.
+L421882 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Tent poles.
+L421880 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ They'll give you a wallop.
+L421879 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Uh-huh. Double ought.
+L421878 +++$+++ u2353 +++$+++ m151 +++$+++ CLERK +++$+++ Twelve gauge. You need shells? Moss looks the gun over.
+L421858 +++$+++ u2354 +++$+++ m151 +++$+++ DRIVER +++$+++ Let's just call it square.
+L421857 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I want you to take me to another motel.
+L421856 +++$+++ u2354 +++$+++ m151 +++$+++ DRIVER +++$+++ Why don't I set you down here and we won't argue about it.
+L421855 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ It's all right.
+L421854 +++$+++ u2354 +++$+++ m151 +++$+++ DRIVER +++$+++ I don't want to get in some kind of a jackpot here, buddy.
+L421853 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ ...Keep going. Don't stop.
+L421851 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Just drive me around. I want to see if someone's here.
+L421850 +++$+++ u2354 +++$+++ m151 +++$+++ DRIVER +++$+++ What room?
+L421849 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Don't stop. Just ride me up past the rooms.
+L421936 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ Goodbye, Mr. Wells.
+L421935 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ I'm sorry.
+L421934 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ ...An attempt at humor, I suppose.
+L421933 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Can I get my parking ticket validated?
+L421932 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ Yes?
+L421931 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...I'm wondering...
+L421929 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ You seem pretty sure of yourself. You've led something of a charmed life haven't you Mr. Wells?
+L421928 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Okay. We can stop that.
+L421927 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ He killed three men in a motel in Del Rio yesterday. And two others at that colossal goatfuck out in the desert.
+L421925 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ I'd just like to know your opinion of him. In general. Just how dangerous is he?
+L421924 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ What do you want to know?
+L421923 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ That's not an answer.
+L421922 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Well enough.
+L421921 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ How well do you know Chigurh.
+L421920 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Okay.
+L421919 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ If your expenses run higher I hope you'll trust us for it.
+L421918 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Yessir.
+L421916 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Yessir. I understand that.
+L421915 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ We got a loose cannon here. And we're out a bunch of money, and the other party is out his product.
+L421914 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ No sir but you struck me as a man who wouldn't want to waste a chair. I remember dates. Names. Numbers. I saw him on November 28th.
+L421913 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ You seem pretty sure of the date. Did I ask you to sit?
+L421912 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ November the 28th, last year.
+L421911 +++$+++ u2357 +++$+++ m151 +++$+++ MAN +++$+++ When did you last see him.
+L421910 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Yessir, that's correct. I know 'em when I see 'em.
+L422241 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ I do like you.
+L422240 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Then you'll like me.
+L422239 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ Yeah but no one ever sees that. I like a man that'll tell you he's married.
+L422238 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Lookin' for what's comin'.
+L422237 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ What else then?
+L422236 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Half.
+L422235 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ Oh. That's who you keep lookin' out the window for?
+L422234 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Waitin' for my wife.
+L422233 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ I got beers in my room.
+L422232 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ That's me.
+L421901 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ That's got two double beds.
+L421900 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No, one forty-two.
+L421899 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ You can have the one next to yours if you want. One twenty.  It ain't took.
+L421898 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ What about one forty-two.
+L421896 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Uh-huh.You got a map of the rooms?
+L421895 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ Another additional.
+L421894 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No, I want to keep my room, and get another one.
+L421893 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ You want to change rooms?
+L421892 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Could I get another room.
+L421836 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I'm just one person. Don't matter the size of the bed.
+L421835 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ ...You pick the option with the applicable rate.
+L421834 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ The option.
+L421833 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ The what?
+L421832 +++$+++ u2367 +++$+++ m151 +++$+++ WOMAN +++$+++ You tell me the option.
+L422037 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ He don't talk as much as you, I give him points for that.
+L422036 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ No no. No. You don't understand. You can't make a deal with him. Even if you gave him the money he'd still kill you. He's a peculiar man. You could even say that he has principles. Principles that transcend money or drugs or anything like that. He's not like you. He's not even like me.
+L422035 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ If I was cuttin' deals, why wouldn't I go deal with this guy Chigurh?
+L422034 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...I'm across the river. At the Hotel Eagle. Carson Wells.  Call me when you've had enough. I can even let you keep a little of the money.
+L422033 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ No. You don't.
+L422032 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No I don't have it.
+L422031 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ The heroin. You don't have it.
+L422030 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ What product.
+L422029 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...You didn't take the product, did you?
+L422028 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ He isn't. You're not cut out for this. You're just a guy that happened to find those vehicles.
+L422027 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Maybe he should be worried. About me.
+L422026 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ To kill your wife.
+L422025 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Why would he go to Odessa?
+L422023 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Too late. I spent it -- about a million and a half on whores and whiskey and the rest of it I just sort of blew it in.
+L422022 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Look. You need to give me the money. I've got no other reason to protect you.
+L422021 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ So what does that make me? Your buddy?
+L422020 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ So was I.
+L422019 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Yeah. I was in Nam.
+L422018 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Were you in Nam?
+L422017 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ What did I say?
+L422016 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Pot metal?
+L422015 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I didn't say braze.
+L422014 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ I don't mean braze.
+L422013 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Yes.
+L422012 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Cast iron?
+L422011 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Any of it. If it can be welded I can weld it.
+L422010 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Acetylene? Mig? Tig?
+L422009 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I'm a welder.
+L422008 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ What did you do?
+L422007 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I'm retired.
+L422006 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...What do you do?
+L422005 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ No. You don't understand.
+L422004 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I been immobile.
+L422003 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Took me about three hours.
+L422002 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Not any way.
+L422001 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Not that way.
+L422000 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I know what it is. He won't find me again.
+L421999 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ It's called a transponder.
+L421998 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I know how he found me.
+L421997 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ Chigurh. Anton Chigurh. You know how he found you?
+L421996 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Sugar?
+L421995 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ I guess I'd say... that he doesn't have a sense of humor.  His name is Chigurh.
+L421994 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ How would you describe him?
+L421993 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ I don't think that's how I would describe him.
+L421992 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ What is he supposed to be, the ultimate bad-ass?
+L421991 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...But that won't last.
+L421989 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I know, I've seen him. Sort of.
+L421988 +++$+++ u2365 +++$+++ m151 +++$+++ WELLS +++$+++ ...Don't worry. I'm not the man that's after you.
+L422142 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Twelfth Infantry Batallion. August seventh nineteen and sixty-six to July second nineteen and sixty-eight.
+L422141 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ What outfit.
+L422140 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Yes sir. Two tours.
+L422139 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Nam?
+L422138 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No sir. I'm a veteran.
+L422137 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Are you in the service?
+L422136 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ Yes sir.
+L422135 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Don't jack with me.
+L422134 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No sir.
+L422133 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Are you jackin' with me?
+L422132 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I got an overcoat on.
+L422131 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Then I ask you again how you come to be out here with no clothes.
+L422130 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ No sir.
+L422129 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ I ask questions. If I get sensible answers then they get to go to America. If I don't get sensible answers they don't. Is there anything about that that you don't understand?
+L422128 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I don't know.
+L422127 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ That is correct. And how do I decide?
+L422126 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ You do, I reckon.
+L422125 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Some American citizens. Who do you think decides?
+L422124 +++$+++ u2360 +++$+++ m151 +++$+++ MOSS +++$+++ I don't know. American citizens.
+L422123 +++$+++ u2362 +++$+++ m151 +++$+++ OFFICIAL +++$+++ Who do you think gets through this gate into the United States of America?
+L423659 +++$+++ u2375 +++$+++ m152 +++$+++ DOCTOR +++$+++ Well, you should find out. She keeps talking about them...
+L423658 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ No... Friends from the diner maybe?
+L423657 +++$+++ u2375 +++$+++ m152 +++$+++ DOCTOR +++$+++ I was saying that it seems probable that she witnessed the murder, but her memory of it is gone, at least for the time being. I also think you ought to have her stay with someone tonight.  Any idea who Chloe or Lonnie are?
+L423656 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Sorry you had to see that. You were saying?
+L423649 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ So she did witness it?
+L423648 +++$+++ u2375 +++$+++ m152 +++$+++ DOCTOR +++$+++ It's a type of altered state... it allows a traumatized person to continue functioning.
+L423647 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Could I have that in American?
+L423646 +++$+++ u2375 +++$+++ m152 +++$+++ DOCTOR +++$+++ She's in a kind of shock. I see all the signs of a post-traumatic reaction with possible dissociative symptoms.
+L423645 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ How is she?
+L424469 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ C'mon, Betty, open up! I got some questions for you about...
+L424468 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ Sheriff, I don't...
+L423718 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ I'M THROUGH TALKING NOW! GOODBYE!
+L423717 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ GODAMMIT, BETTY!... WHO'S CHLOE?
+L423716 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ IF THIS IS ABOUT DEL, FORGET IT! I'M NOT COMING BACK!
+L423715 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ BETTY, I NEED TO TALK TO YOU... IN PERSON! WHERE'RE YOU AT?
+L423714 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ I'm in a motel. Has something happened to Del? Did he do something stupid?
+L423344 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Oh, right... 's fine. Thanks.
+L423343 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ ...I meant your food.
+L423342 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Oh, you know, the usual... keeping the world safe.
+L423341 +++$+++ u2369 +++$+++ m152 +++$+++ BETTY +++$+++ Hey, Sheriff. How's everything?
+L424554 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ I've got the working gun, Elden, me! You wasted all your bullets so you crawl out there.
+L424553 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ No, no, no... you don't know shit about procedure! You don't send your best...
+L424552 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ You wanna see if he has more shells, go ahead. I say we wait...
+L424549 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ You gotta go, we're pinned down!
+L424548 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ I'm not going out there! Let's wait for the real police...
+L424547 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ We need ammo... Go check his jacket, I'll cover you.
+L424538 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ YOU shut up!  They're beautiful, but get them some water.
+L424537 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ We're in a shootout, Roy! Shut up about the damn fish!
+L424504 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ -- small-time, pissant, Barney Fife --
+L424503 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Fuck you, Roy Ostrey!
+L424502 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ That's a lie! I figured it out! I've been trying to tell this dumbass --
+L424248 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ I know plenty.
+L424247 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ I just got something off the wire. The woman who owns it was murdered last night.  Now, I'm not saying I agree with you or nothing, but... what else do you know?
+L424246 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ Little place called "Williams," why?
+L424245 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Any idea where it is?
+L424244 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ What about it?
+L424243 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ Just shut up a second and listen... That, uh... that bar in Arizona? Where you said Betty was?
+L424242 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ Come on, I have to get this dressing off... it itches! And what about my fish? Who is taking care of them?
+L424241 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ That's a nice name for what you need...
+L424240 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ Elden, let me out of here. Now! This is ridiculous, I need medical attention!
+L424091 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ No, I didn't have to.
+L424090 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ Oww... Did you have to make these things so tight?
+L424089 +++$+++ u2368 +++$+++ m152 +++$+++ BALLARD +++$+++ You watch your mouth when you're in a goddamn county vehicle... You don't think I see what's going on? Del, now this Cooley fella, both of 'em mixed up with Joyce... 'S not no conspiracy, not some episode off the X-Files... 's just a crime of passion, plain and simple. Betty's on some kind'a pre-minstral rampage, that's what is going on here.
+L424088 +++$+++ u2387 +++$+++ m152 +++$+++ ROY +++$+++ Well, do something, then, damnit!

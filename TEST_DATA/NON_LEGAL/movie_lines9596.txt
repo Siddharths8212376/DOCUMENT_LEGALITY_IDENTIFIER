@@ -1,0 +1,200 @@
+L81433 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ To exchange our thoughts - what does a Russian know about business? On the other hand, what does an American know about diplomacy?
+L81432 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I agree, I think so too.
+L81431 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ ... Mr. Gardiner, I wish to be quite candid - considering the gravity of your economic situation, shouldn't we, the diplomats, and you, the businessman - get together more often?
+L81430 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Yes, so I've heard, a shame... As you know, we in the Soviet Union have the keenest interest in developments of the First American Financial Corporation... We are pleased to hear that you may fill Benjamin's place should he fail to recover.  Be seated, please, Mr. Gardiner.
+L81429 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Ben is very ill.
+L81428 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ I'm sorry we haven't met sooner, Mr. Gardiner. I had the pleasure of seeing you on television last night and I listened with great interest to your down-to-earth philosophy. I'm not surprised that it was so quickly endorsed by the President.  ... Tell me, Mr. Gardiner, just how serious is Benjamin's illness? I did not want to upset Mrs. Rand by discussing it in detail.
+L81426 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Eve. I shall yield too.
+L81425 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ Regretfully, Mrs. Rand - I shall yield the pleasure of your company to others.
+L81419 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ How is my dear friend Benjamin feeling?
+L81418 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I agree.
+L81417 +++$+++ u4013 +++$+++ m266 +++$+++ SKRAPINOV +++$+++ You must sit with us, my friend, we have much to discuss.
+L81588 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... I've worked very hard and enjoyed my life... I've known success... and I've felt love... My associates, Chauncey - I've talked with them about you... They're eager to meet you... very eager to meet you... I'm very fond of you, Chauncey... And I understand Eve... Tell her that... tell her I'm madly in love with her...
+L81587 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I would like to do that.
+L81586 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ She cares for you and she needs your help, Chauncey... there's much to be looked after...
+L81585 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ A flower...
+L81584 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Let me feel the strength in your hand, Chauncey... Let me feel your strength...  Yes, that's good... I hope, Chauncey - I hope that you'll stay with Eve... Take care of her, watch over her, she's a delicate flower, Chauncey...
+L81583 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh, I see.
+L81582 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... I'm about to surrender the Horn of Plenty for the Horn of Gabriel, my boy...
+L81581 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Ben - are you going to die now?
+L81580 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... Chauncey... Chauncey...
+L81319 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Good. Together, the two of you should create quite a stir - I can already hear the gossip.
+L81318 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I would like to escort Eve.
+L81317 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Senator Rowley's widow, Sophie, is hosting an evening reception tomorrow evening honoring Ambassador Skrapinov of the Soviet Union... I think it's rather obvious that Robert won't allow me to attend, so - would you go in my place, and escort Eve?
+L81316 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Certainly, Ben.
+L81131 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ And now, Chauncey, I'm afraid you must excuse me - I'm very tired all of a sudden.
+L81130 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Ben.
+L81129 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ And, please, Chauncey - don't rush your decision. I know you're not a man to act on the spur of the moment.
+L81128 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I understand.
+L81127 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Oh, sure you do, the financial assistance program. I think you might be just the man to take charge of such an undertaking. I'd like you to meet with the members of the Board, we'll be able to discuss the matter at greater length at that time.
+L81126 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Ben.
+L81125 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... You know, Chauncey, there's something about you... You're direct, you grasp things quickly and you state them plainly. You don't play games with words to protect yourself. I feel I can speak to you frankly... You know what I was talking to you about last night?
+L81120 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I'm glad he came, Ben. It was nice talking to the President.
+L81119 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ He was quite impressed with your comments, Chauncey - he hears my sort of analysis from everyone, but yours, unfortunately - seldom if ever at all.
+L81118 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Ben - he is.
+L81117 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ He's a decent fellow, the President, isn't he?
+L81102 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. That is correct.
+L81101 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ I think what my most insightful friend is saying, Mr. President, is that we welcome the inevitable seasons of nature, yet we are upset by the seasons of our economy.
+L81048 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... Maybe one day you shall find yourself in a similar position, Chauncey... Maybe one day...
+L81047 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see, Ben.
+L81046 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Yes, when I was younger I had thoughts about public office... But I found, Chauncey - that I was able to contribute more as a private citizen... of course, my wealth provided me with considerable influence, but I've tried, believe me, not to misuse that power... It's extremely important, Chauncey, when one is in a position of eminence, that he does not allow himself to become blinded to the needs of the country... The temptations are strong, and I've been labeled a 'kingmaker' by many, but I have tried to stay open to voices of the people... I have tried to remain honest to myself...
+L81040 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Ben.  ... The nurse did a very good job, Ben.
+L81039 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ No one likes a dying man, my boy - because few know what death is. All we know is the terror of it. But you're an exception, Chauncey - that's what I admire in you, your marvelous balance. You don't stagger back and forth between fear and hope - you're a truly peaceful man.
+L81038 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I understand.
+L81037 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Hah! It's all make-up, Chauncey... I asked nurse Teresa to fix me up, I didn't want the President to think I was going to die during our talk.
+L81036 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ You're looking much better today, Ben.
+L81035 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Well, that's good news, my boy.
+L81034 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Ben. My leg is not very sore.
+L81033 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Chauncey, up and around this morning, are you?
+L80980 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... Oh?  Robert, take a look, would you?
+L80979 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I could give it some thought, Ben, but my leg is very sore.
+L80978 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Reluctant to speak, eh, Chauncey? Well, I can understand that. When a man loses everything, anger has a tendency to block out reason for a time. Just give it some thought, work with the idea, I'm sure you'll have plenty to say in a few days.
+L80977 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, Ben.
+L80968 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Yes, I'm sure it is. That's what they say, anyway.
+L80967 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ It's a very pleasant room, Ben.
+L80966 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Now, wait a minute, Chauncey you are young, you are healthy, for God's sake don't give up on yourself! You have to fight! You can't let those bastards keep you down! I don't want to hear any more from you about the 'Room Upstairs'. That's where I'm going soon.
+L80965 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ But I don't have that any more...  ... All that's left for me now is the room upstairs.
+L80964 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Bravo!
+L80963 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you, Ben. The garden that I left was such a place. Everything which grew there was with the labor of my own hands. I planted seeds and watered them and watched everything grow.
+L80962 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ A gardener! Well put, Chauncey excellent! Isn't that what a businessman is? A gardener? A person that makes flinty soil productive with the labor of his own hands, who waters it with the sweat from his own brow, and who creates a place of value for his family and community? Yes, Chauncey, what a brilliant metaphor -- yes, indeed, a productive businessman is a laborer in his own vineyard.
+L80959 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see. I would like to work in your garden.
+L80958 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Do we have a garden? Hah! Tomorrow, Chauncey, you will see our gardens.
+L80953 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ And I'm Ben.
+L80952 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Chauncey is fine.
+L80951 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ That's good, Mr. Gardiner. Or may I call you Chauncey?
+L80948 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ What'd I tell you? Kid-lawyers! The S.E.C.! Damn them!
+L80947 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Shut down and locked by the attorneys.
+L80946 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Oh. When you say 'Your house has been closed', you mean to say that your business was shut down?
+L80945 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No, thank you. My house has been closed.
+L80935 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... So am I, my boy - so am I.
+L80934 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I am very hungry.
+L80933 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... You will join us for dinner, won't you, Mr. Gardiner?
+L80932 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I agree.
+L80931 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ ... We're prisoners, Mr. Gardiner - we're prisoners of tubes and technology.
+L80925 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. You look very sick.
+L80924 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Failure of the bone marrow to produce red blood cells... Not a damn thing they can do about it. Oh, they can make me comfortable, prolong my life with steroid therapy and transfusions... And what makes my blood boil, what little I have left, that is, Mr. Gardiner - is that it's generally a young person's disease... Here I am, getting on in years and about to die of a young person's disease...
+L80915 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I like that very much.
+L80914 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Sure you do. This ward is air tight, I have a little extra oxygen pumped in, keeps my spirits up.
+L80913 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I feel very good in here.
+L80912 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... I see.
+L80911 +++$+++ u4012 +++$+++ m266 +++$+++ RAND +++$+++ Welcome to Rand Memorial Hospital, Mr. Gardiner.
+L81503 +++$+++ u3995 +++$+++ m266 +++$+++ DENNIS +++$+++ Oh, you can tell her later. She'll never miss you in this crowd.
+L81502 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81501 +++$+++ u3995 +++$+++ m266 +++$+++ DENNIS +++$+++ Tell Eve? You mean Mrs. Rand?
+L81500 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I want to tell Eve.
+L81499 +++$+++ u3995 +++$+++ m266 +++$+++ DENNIS +++$+++ Well, if that's what you want, then I want it too.  We can go this way.
+L81498 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I like to watch very much.
+L81497 +++$+++ u3995 +++$+++ m266 +++$+++ DENNIS +++$+++ Watch? You mean just watch me? Doing it alone?
+L81496 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I like to watch.
+L81495 +++$+++ u3995 +++$+++ m266 +++$+++ DENNIS +++$+++ We could do it now, we can go upstairs.  ... Please, it's time for us. Come upstairs.
+L81488 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ What sort of bed is it?
+L81487 +++$+++ u4016 +++$+++ m266 +++$+++ STIEGLER +++$+++ Sure you do! No one reads!... Listen, book publishing isn't exactly a bed of roses these days...
+L81486 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I like to watch.
+L81485 +++$+++ u4016 +++$+++ m266 +++$+++ STIEGLER +++$+++ Of course not! No one has the time to read! One glances at things, watches television...
+L81484 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I can't read.
+L81483 +++$+++ u4016 +++$+++ m266 +++$+++ STIEGLER +++$+++ Of course, who can nowadays? I have trouble writing a post card to my children! Look, we could give you a six figure advance, provide you with the very best ghostwriter, research assistants, proof readers...
+L81482 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I can't write.
+L81481 +++$+++ u4016 +++$+++ m266 +++$+++ STIEGLER +++$+++ Mr. Gardiner, my editors and I have been wondering if you'd consider writing a book for us? Something on your political philosophy. What do you say?
+L81480 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Hello, Ronald.
+L81479 +++$+++ u4016 +++$+++ m266 +++$+++ STIEGLER +++$+++ Mr. Gardiner, I'm Ronald Stiegler, of Harvard Books.
+L81032 +++$+++ u4014 +++$+++ m266 +++$+++ SMYTHE +++$+++ Oh, Mr. Rand, of course. Right this way, sir.
+L81031 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I would like to see Ben.
+L81030 +++$+++ u4014 +++$+++ m266 +++$+++ SMYTHE +++$+++ ... Did you wish to see someone, sir?
+L81029 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81028 +++$+++ u4014 +++$+++ m266 +++$+++ SMYTHE +++$+++ ... Sir?
+L81027 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I would like to go to Rand Memorial Hospital.
+L81026 +++$+++ u4014 +++$+++ m266 +++$+++ SMYTHE +++$+++ May I help you, Mr. Gardiner?
+L80757 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Good day, Sally.
+L80756 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ Good day, Mr. Chance.
+L80737 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I have seen styles on television.
+L80736 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ It is quite amazing how those clothes have come back into style.
+L80735 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I am allowed to go to the attic and select any of the Old Man's suits. They all fit me very well. I can also take his shirts, shoes and coats.
+L80727 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No.  That's where Joe fixed the bricks.
+L80726 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ Might you have a birth certificate, Mr. Chance?
+L80722 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No.
+L80721 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ How about taxes, Mr. Chance, surely you must have paid taxes?
+L80712 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ ... Oh.
+L80711 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. Of men and women.
+L80710 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ Some pictures...?
+L80701 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I never needed money.
+L80700 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ What about money?
+L80693 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Oh. Thank you.
+L80692 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ Your appearance doesn't suggest that at all, Mr. Chance.
+L80691 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L80690 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ ... Then you really are a gardener?
+L80673 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L80672 +++$+++ u4001 +++$+++ m266 +++$+++ HAYES +++$+++ Mr. Chance, I'm very pleased to meet you.
+L80803 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ Yes sir. I'll take care of that.
+L80802 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... My suitcase.
+L80801 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ Very good.
+L80800 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... Yes. You can take me.
+L80799 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ I assure you, sir, David is a very careful driver. Please, won't you let us take you?
+L80798 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I've never ridden in an automobile.
+L80797 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ Please, sir.
+L80790 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L80789 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ It's starting to swell, is it painful?
+L80788 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Of course. I would like to look.
+L80787 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ Let's have a look, do you mind?
+L80786 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I agree.
+L80785 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ I don't think we should call anyone just yet, it may not even be all that serious.
+L80781 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ It's very sore.
+L80780 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ Can you walk? It's not broken, is it?
+L80779 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I'm not badly injured. But my leg is very sore.
+L80778 +++$+++ u4003 +++$+++ m266 +++$+++ JEFFREY +++$+++ This is terrible, sir -  I hope you're not badly injured...
+L80986 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ ... Yes sir - elevator!
+L80985 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... Hmmm... Elevator.
+L80910 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It seems to be.
+L80909 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ Yes sir, I guess that's true smallest room in the house.
+L80908 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... That is a very small room.
+L80851 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ How long? I don't know, see what the doctor says ...
+L80850 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ How long do we stay in here?
+L80849 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see.
+L80848 +++$+++ u4017 +++$+++ m266 +++$+++ WILSON +++$+++ No - but Mr. Rand does have one with an electric motor, that way he can get around by himself.
+L80847 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Does it have a television?
+L80661 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ You're gonna need somebody, someone's gotta be around for you, boy...  ... You oughta find yourself a lady, Chance...  But I guess it oughta be an old lady, 'cause you ain't gonna do a young one any good, not with that little thing of yours...  ... You're always gonna be a little boy, ain't you?  ... Goodbye, Chance...
+L80660 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L80659 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ ... Well, ain't you the gentleman this mornin'...  ... gotta go now, Chance...
+L80657 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I'm going to work in the garden.
+L80656 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Well, no more stewin' those prunes every mornin', that's somethin', I guess...  ... what are you goin' to do now, Chance?
+L80655 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I'm very hungry.
+L80654 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Oh, Lord, Chance - I don't know what I was expectin' from you... I'm sorry for yellin' like I did... No sir, I just don't know what I was expectin' ...  ... I 'spose I'd better gather up some breakfast for you...
+L80653 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. It is.
+L80652 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Well, ain't that the truth...
+L80651 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, Louise. I have seen it often. It happens to old people.
+L80650 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Dammit, Boy! Is that all you got to say? More gobbledegook?  That Old Man's layin' up there dead as hell and it just don't make any difference to you!
+L80649 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... Yes, Louise, it's snowing in the garden today. Have you looked outside and seen the snow? It's very white.
+L80648 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Then I got the hell out of that room and called the doctor and I think I woke him probably, he wasn't any too alert. He just said, 'Yeah, he's been expectin' it and said he'd send somebody over...' Lord, what a mornin'!
+L80647 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I've seen that done.
+L80646 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ Must of happened durin' the night, I don't know... Lord, he wasn't breathin' and as cold as a fish. I touched him, just to see, and you believe me, Chance - that's doin' more than I get paid to do... Then I just covered him up, pulled the sheet over his head...
+L80645 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... I see.
+L80644 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ He's dead, Chance! The Old Man's dead!
+L80643 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Good morning, Louise.
+L80641 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Is his back feeling better?
+L80640 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ ... Back up those stairs - damn... That Man's needin' me more and more just before he never needs me again...
+L80639 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ I'm afraid he's slippin' a bit with every hour that goes by...
+L80638 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I see.
+L80637 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ ... The Old Man is getting weaker, Chance.
+L80636 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ ... Good evening, Louise.
+L80635 +++$+++ u4008 +++$+++ m266 +++$+++ LOUISE +++$+++ ... Evening, Chance.
+L81286 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I am a very serious gardener.
+L81285 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ I'm sorry to say that our time is running short, but before we close, I'd like to ask one final question. What sort of gardener, sir, would you be?
+L81284 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Thank you.
+L81283 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Well, Mr. Gardiner, from the sound of our audience, I'd say that your words are a most welcome respite from what we've been hearing from others...
+L81269 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. We need a very good gardener.
+L81268 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Don't we need a leader capable of guiding us through the seasons? The bad as well as the good?
+L81254 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes, I know the garden very well. I have worked in it all my life. It is a good garden and a healthy one; its trees are healthy and so are its shrubs and flowers, as long as they are trimmed and watered in the right seasons. The garden needs a lot of care. I do agree with the President; everything in it will grow strong, and there is plenty of room in it for new trees and new flowers of all kinds.
+L81253 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Well, let me rephrase the question; the President compared the economy of this country to a garden, and stated that after a period of decline a time of growth would naturally follow. Do you go along with this belief?
+L81252 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes.
+L81251 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ I know that, Mr. Gardiner.
+L81250 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. I was there with Ben.
+L81249 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Come now, Mr. Gardiner, before his speech at the Financial Institute the President consulted with you and Benjamin Rand, did he not?
+L81248 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Which view?
+L81247 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Fine, then let's get started. The current state of our country is of vital interest to us all, and I would like to know if you agree with the President's view of the economy?
+L81246 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ No. I don't object.
+L81245 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ Yes... Of course, you know, Mr. Gardiner, that I always prefer an open and frank conversation with my guests, I hope you don't object to that.
+L81244 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ I hope so.
+L81243 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ ... Well, your anonymity will be a thing of the past from now on.
+L81242 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ Yes. That is surprising.
+L81241 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ I always find it surprising, Mr. Gardiner, to find men like yourself, who are working so intimately with the President, yet manage to remain relatively unknown.
+L81240 +++$+++ u3993 +++$+++ m266 +++$+++ CHANCE +++$+++ You're welcome.
+L81239 +++$+++ u3997 +++$+++ m266 +++$+++ DUPONT +++$+++ I'd like to thank you for filling in on such short notice for the Vice President.

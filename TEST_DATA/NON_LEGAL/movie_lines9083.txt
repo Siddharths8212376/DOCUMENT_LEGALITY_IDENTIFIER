@@ -1,0 +1,200 @@
+L236058 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ What?!
+L236057 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ You smashed it!
+L236056 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Take it easy, willya? What about the radio?!
+L236055 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ The radio. Oh, yeah, the radio.
+L236054 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ The radio!
+L236053 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Maybe you can tell me then.
+L236052 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I think you know.
+L236051 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I don't know what you're talking about?
+L236050 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Just what the hell do you think you're doing?!
+L236048 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ With all due respect, skipper.  Part of that up there's mine. I'd kinda like to have a little say in what happens to it.
+L236047 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ There's no way we're gonna hide a few thousand pounds of gold from the Coastguard here. Besides, it'll be safer where it is.
+L236046 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ For starters, getting that gold off the ship. What they don't know about isn't gonna bother them.
+L236045 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What do you propose?
+L236044 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Yeah, well. The truth is one thing. When there's more than a few hundred million dollars involved, that's a whole new deal.
+L236043 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I guess the best strategy's just to tell them the truth.
+L236042 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Well, they're gonna be asking a lot of questions. About us. About those bodies. About the gold. Seems like we oughta be prepared is all.
+L236041 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How do you mean?
+L236040 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ So. I got a question. Just from a, you know, purely technical standpoint. We call the Coastguard.  Coastguard shows up. What exactly is the plan?
+L236035 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ If they knew what they were carrying.
+L236034 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ On a passenger ship in 1953?
+L236023 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Not me.
+L236022 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It was a man's voice. Repeating some sort of children's rhyme. I don't know, it didn't make any sense. You didn't hear it?
+L236008 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I think you better see this for yourself.
+L236007 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What is it?
+L236006 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ You better get down here quick, skipper. I'm on "C" deck. Cabin 400.
+L236005 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Murphy.
+L236004 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Dodge to Murphy.
+L235989 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Right.
+L235988 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Do what you need to do. Just do it fast.
+L235987 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I might be able to find something on the ship. But it's gonna take time.
+L235986 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Can't you use something else?
+L235978 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ So whoever did this might still be around.
+L235977 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ That'd be my guess.
+L235974 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Could be meant as a warning.
+L235973 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Damn barbaric is what it is.
+L235970 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Fresh ain't the first word that comes to mind.
+L235969 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Bodies're too fresh.
+L235950 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Yeah, reconsider fucking his shit up.
+L235949 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ If he's reasonable, maybe we can make some kind of deal. If not. We'll have to re-consider our options.
+L235943 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ We'll stand a watch. Four on, eight off. Low man first.
+L235942 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ What if that fucker finds it before we're ready to go?
+L235931 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Why not? Why the fuck not?
+L235930 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ And what do you propose? That we knock this guy off?
+L235929 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I say fuck the motherfucker. We're a professional salvage crew going about our business. What's some yahoo doing way out here by himself anyway?
+L235926 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Not in the eyes of the law.
+L235925 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Bullshit. That boat hasn't made steam for fifty years. We found her. She's ours.
+L235924 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ If somebody's aboard her already, she ain't ours. She's theirs.
+L235900 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Warm water current maybe, making the metal expand.
+L235899 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Sounds like the hull.
+L235895 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Yeah, yeah.
+L235894 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Dreamin's all any of you're gonna be doing if we don't get this boat running.
+L235882 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How about you Epps?
+L235881 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I'm buyin' me a nice outrigger. Spend my time hauling rich Seattle business men through the Puget.
+L235855 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ The sooner we get under way, the sooner we are to spending what's ours.
+L235854 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Yeah, yeah. I'm on it.
+L235845 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ So we get a little more for the boat. Besides, the gold'll be safer where it is.
+L235844 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ You gotta be kidding? What the hell we need that tub for, we got fifty million bucks?
+L235841 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It looks like it.
+L235840 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Then we're rich. We're damn, filthy stinking rich.
+L235839 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ A salvage claim to a vessel's cargo's as valid as a claim to the vessel itself. It's ours.
+L235838 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ So what're we gonna do. That's the big question, right?
+L235836 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Either way, they must've had a pretty good reason.
+L235835 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Or somebody stopped them.
+L235829 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Then it happened before they scuttled her.
+L235828 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Didn't happen yesterday, I'll tell you that. Torn parts rusted bad as the rest of the boat.
+L235821 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ A ship with fifty million dollars in gold aboard, adrift? And nobody seems to care enough to come looking for it?
+L235820 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ What, you think there's something funny about it?
+L235819 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It's a hell of a lot of money.
+L235810 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ She take a radio?
+L235809 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Went aboard.
+L235796 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Man, it gives me the creeps. We got no business towing a ship that size anyway. I say we fix the turbines and hit the highway.
+L235795 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Obviously it's some kind of screw up. The shipping records aren't a hundred percent accurate.
+L235782 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ What do you want me to tell you, that we can throw this sucker back in and start pulling her like nothing happened? Can't do it, skipper.
+L235781 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Goddamit, Dodge.
+L235780 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Three, four days.
+L235779 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How long?
+L235778 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I gotta pull the blades and re-seat everything in a new rotor -- .
+L235777 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How long, then?
+L235776 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ It's a full 2500 horses down. We couldn't drag that boat down hill on ice with it.
+L235775 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What about running number two by itself?
+L235774 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ I'm telling you, you don't want to be running that fan like it is.
+L235773 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ We gotta get outa here, Dodge. A storm blows up and we're history.
+L235772 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Hard to say.
+L235771 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ But how long?
+L235770 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ The right way and the wrong way.
+L235769 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I know I know, two ways to do anything --
+L235768 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Like I always say --
+L235767 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How much longer's that gonna take?
+L235766 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Metal's crystallized. Gotta replace the whole deal.
+L235765 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I thought you said it was just a blade.
+L235764 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Turbine rotor's shot.
+L235763 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What's this?
+L235728 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Hard to say. I gotta get in there and have a look. At least a couple days. Depending.
+L235727 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ How long to fix?
+L235726 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ The number one turbine's pretty well trashed. Number two runs, but it's way underpowered.
+L235724 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Threw a turbine blade.
+L235723 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What is it?
+L235722 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Mother fucker!
+L235711 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Sounds reasonable.
+L235710 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ With a little extra fuel, weather permitting, we should make Sitka in five days without another stop.
+L235677 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ The damn thing's been floating around for God knows how long and it hasn't hit anything yet. So we take it easy. A little of the old push pull.
+L235676 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ It's a bloody navigation hazard. One boat can't control a ship that size.
+L235673 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It's a risk I'm willing to take.
+L235672 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ If you get it back in one piece.
+L235671 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ You have any idea how much a ship like that could be worth in salvage? The fittings alone could go for a few million.
+L235670 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Yeah, from one side of the harbor to the other. But we got half the Bering Sea and the whole Alaskan gulf to drag her over.
+L235637 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Smugglers maybe.
+L235636 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What the hell would a freighter be doing up here? It's way out of the lanes. There's not a port for 800 miles.
+L235577 +++$+++ u1086 +++$+++ m71 +++$+++ DODGE +++$+++ Are you kidding me? Jealous? Epps? Gimme a break.
+L235576 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ You aren't jealous, are you Dodge?
+L236263 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ I didn't sign up to go home empty handed. And I sure ain't gonna roll over for the freaky motherfucker did this.
+L236262 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ I can't believe you. Dodge's dead and all you can think about is cashing in your share.
+L236251 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Nothing. Let's get outa here.
+L236250 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ What?
+L236249 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Yeah. Fine. I just thought I heard something is all.
+L236248 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ You okay?
+L236231 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Better than starving to death.
+L236230 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ I don't even want to know what that's gonna taste like now.
+L236078 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ I feel fine.
+L236077 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Sudden flashes of light.
+L236076 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Lights?
+L236075 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Headache, nausea, lights?
+L236074 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ No.
+L236073 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Any dizziness?
+L235976 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Because of the gold.
+L235975 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Stay away. Or else.
+L235956 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ You're a pal.
+L235955 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Coffee.
+L235919 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Maybe six feet. Lanky. I didn't get a good look. He was far away. But I saw him. I saw him as sure as you're standing there.
+L235918 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ What'd he look like?
+L235891 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Hell, yeah. I like it cold. Colder the better.
+L235890 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ That's a good thing?
+L235859 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Hell yeah.
+L235858 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ That's what I call a payday.
+L235857 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Two hundred twenty two kilograms of solid gold.
+L235834 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Probably didn't have time.
+L235833 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Then why didn't they take it.
+L235831 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Cargo like this could make a crew think twice.
+L235830 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ You mean, before she sank.
+L235740 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ He'd let you off at the nearest port, that's for sure.
+L235739 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Looks like one hell of a stick up his ass.
+L235635 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Too big. More like a freighter.
+L235634 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Could be a fishing boat.
+L235603 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ I bet you did.
+L235602 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Showed him a hell of a lot more than that.
+L235601 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ Show your tatoos to that coxswain last night, did you Epps?
+L235600 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Morning everybody.
+L235545 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Maybe twenty gallons an hour.
+L235544 +++$+++ u1088 +++$+++ m71 +++$+++ GREER +++$+++ What's slow?
+L236333 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I wish I could believe that. Either way, you know what I've done. I've got no choice.
+L236332 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ I don't give a damn about the gold.
+L236331 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I think maybe you been on this boat a little too long, with all that supernatural mumbo jumbo. There's nothing supernatural about greed. And that's what it comes down to, pure and simple.
+L236330 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ It's a trap. There was no way we were gonna get away with that gold. Nobody ever does. It's just the bait. This ship sucks people in and it never lets them out.
+L236329 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I know a little bit about human nature and what I've seen only confirms that.
+L236328 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ It's the ship. The ship's making you think this way.
+L236327 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I think I see it pretty well.
+L236326 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Murphy, don't you see what's happening?
+L236325 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ I didn't want it to turn out this way.
+L236324 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ And now you're gonna kill me, is that it?
+L236323 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ The way I figure it, it was them or me. I thought putting Dodge up on that pipe was a nice touch? Bought a little time. Made it look like whoever killed those Greeks was still around. But it's just us on this ship. Us and your... spirit friends.
+L236322 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ So you killed them?
+L236321 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It was only a matter of time before somebody killed somebody.  You saw it coming as well as I did. Dodge had his plans, starting with scuttling the boat. And Greer too, except he went nuts. Couldn't take it, I guess. Could've happened in the middle of downtown Anchorage. But did it make him any less dangerous? I don't think so.
+L236320 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ You killed them.
+L236313 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Greer's gone. He broke out of the tank.
+L236312 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ We're in an island chain. It's only a matter of time before we hit another one.
+L236311 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ What?
+L236310 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ We hit land.
+L236309 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ What happened?
+L236283 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ It's not the weather I'm worried about. The wrong current could drag us as far as the Aleutians before we come across another boat.
+L236282 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ If the weather holds it might not be so bad.
+L236281 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Hard to say which is worse, staying here or taking our chances in open water.
+L236279 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Crazy with greed. Not crazy. Not like him.
+L236278 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ They went crazy.
+L236277 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Maybe it was more than that.
+L236276 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Over the gold.
+L236275 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Could be a stroke. Who knows?  The general log said the crew were fighting among themselves. "Like wild dogs."
+L236274 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What do you think?
+L236256 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Leave him till we can get some help.  From now on, nobody comes down here.
+L236255 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ What do we do with him?
+L236243 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Right here.
+L236242 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Epps? You there?
+L236236 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ He's not on deck and I can't raise him on the radio.
+L236235 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Nope.
+L236234 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Either of you seen Dodge?
+L236233 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Epps, over.
+L236232 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Murphy to Epps.
+L236207 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Just lucky I guess.
+L236206 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Why you? How come the rest of us haven't seen these people?
+L236205 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ I don't know.
+L236204 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ What's that supposed to mean?
+L236203 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ She said the ship was evil. That we had to leave right away. That if we didn't, we might never leave.
+L236202 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ More than just a mutiny. More than just the gold.
+L236201 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ That much I think we've already established.
+L236200 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Something bad happened here, Murphy.
+L236199 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Victims of what?
+L236198 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ No. I think they are, were, just passengers. Innocent victims.
+L236197 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Maybe it was one of them did the handy work on those Greeks.
+L236196 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ What happened.
+L236195 +++$+++ u1089 +++$+++ m71 +++$+++ MURPHY +++$+++ Showing you what?
+L236194 +++$+++ u1087 +++$+++ m71 +++$+++ EPPS +++$+++ Maybe hallucination is the wrong word. It was more than that. As though they were showing me.

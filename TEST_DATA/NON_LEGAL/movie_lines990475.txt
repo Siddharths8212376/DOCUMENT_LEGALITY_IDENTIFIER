@@ -1,0 +1,200 @@
+L633640 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ No, we ain't got no Heineken.  We got Miller.
+L633639 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Heineken?
+L633638 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ No Beck's. A-1, Coors...
+L633637 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ Beck's.
+L633636 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ What kind?
+L633635 +++$+++ u8683 +++$+++ m589 +++$+++ BOBBY +++$+++ You got a beer?
+L633710 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ I think I burned my gun hand!
+L633709 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ Virgil!  Now look at what you done!  Are you all right?
+L633708 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Son of a bitch!
+L633706 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Flo, I'm just gonna help myself to a refill on the coffee.
+L633705 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ Let me get your change.
+L633693 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ More like Jenny is after every man she sees.
+L633692 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ You know how that Toby is.  Thinks every man he sees is after his Jenny.
+L633691 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ What was that all about?
+L633690 +++$+++ u8686 +++$+++ m589 +++$+++ FLO +++$+++ My lord, that little baby of yours Virgil, has gotten cuter'n a bunny's nose.
+L634228 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ ...But I bet the story she <u>didn't</u> tell you was the best story of all. How old crazy Jake <u>was really her Papa</u>. And she <u>liked</u> fucking Papa! And now she's killed the sonufabitch! Just like she's gonna kill you!
+L634227 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Goddamnit Virgil, stop!  Don't!
+L634224 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ You sound just like Jake... I did see into the future, Virgil, but you weren't in it. Go back to your family. They love you.
+L634223 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ I don't want the fuckin' money! I'm not gonna give up everything I got for a lousy 50,000 dollars. It's <u>you</u>. You <u>Grace</u> or nothing. The whole thing... I want you to be my wife.... What do you way Grace?
+L634219 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ This road don't go to Globe, Grace -- where were you going to meet me?
+L634218 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ No baby, you got it wrong.
+L634217 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ You fuck this guy -- get him to do your dirty work and you think you can take the money and dump me?
+L633431 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Hell, no. That Wayne can't shoot when he's sober, much less drunk. He's lucky he didn't kill his own danged self.  Well, anyhow, you stay cool. Nice meeting you, son.
+L633430 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Anybody hurt?
+L633427 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Oh?
+L633426 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Well, he offered, and I just couldn't refuse. His car overheated.
+L633425 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Well it's about time. Looks like you found yourself a helper too.
+L633424 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Morning Sheriff. Got my drapes.
+L633423 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Morning Grace.
+L634158 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Like you helped her, Jake?
+L634157 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ Help me, Grace, help...
+L634111 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ Shhhh! Just like your Mama, always scared of things...
+L634110 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Jake, don't go out there. Call the sheriff.
+L634108 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ There's someone in the house.
+L634107 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Yeah, I heard a key slapping against my ass.
+L634106 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ You didn't hear something?
+L634105 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ What's the matter?
+L634102 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ No! No! Please!
+L634101 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ You broke her heart! You broke your Mama's heart. You stole me! That's right. Fuck it away. But it ain't ever goin' away, cause your Mama -- she's like a hungry ghost baby, she won't go away, she won't leave ya alone.
+L634100 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Oh no! Oh please forgive me, Papa!
+L634099 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ You been a bad girl, Grace. You took my heart from your Mama, didn't ya? You betrayed her! Like you did me. There ain't no forgivin' ya, girl!
+L634098 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Yes, yes, hit me...beat me, please.
+L634097 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ Ya little bitch, you like it don't you! You like it this way -- rough and hard. Gotta go fuck around on me, like your Mama, but you always gotta come home to Daddy, don't you, cause you know Daddy's the best.
+L634073 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Nothing, Jake.  Absolutely nothing.
+L634072 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ What the hell you looking at, girl?
+L634071 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ I picked them out for you, Jake.  I thought you would like the colors.
+L634070 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ They look nice.
+L634069 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ You haven't even looked at them once.
+L634068 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ They look nice.
+L634067 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ You never said anything.  About the drapes.
+L634066 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ I know.  I was here when your apprentice was helping you.  Remember?
+L634065 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ I put up new drapes, Jake.
+L634064 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ You spent a long time talking for a wrong number.  But then you make friends so easily.  Don't you, Grace?
+L634063 +++$+++ u8687 +++$+++ m589 +++$+++ GRACE +++$+++ Wrong number.
+L634062 +++$+++ u8688 +++$+++ m589 +++$+++ JAKE +++$+++ Who was that on the phone?
+L634030 +++$+++ u8693 +++$+++ m589 +++$+++ TOBY +++$+++ You stay away, Jenny.  I aim to mess him up, and that ain't a thing for a woman to see.
+L634029 +++$+++ u8689 +++$+++ m589 +++$+++ JENNY +++$+++ Toby!  Toby Tucker, leave him alone!
+L633937 +++$+++ u8693 +++$+++ m589 +++$+++ TOBY +++$+++ I said come on!
+L633936 +++$+++ u8689 +++$+++ m589 +++$+++ JENNY +++$+++ I want to stay.
+L633672 +++$+++ u8693 +++$+++ m589 +++$+++ TOBY +++$+++ Stay out of this, Jenny.  We got man's business to take care of. I ain't never taken no drugs, mister, and ...
+L633671 +++$+++ u8689 +++$+++ m589 +++$+++ JENNY +++$+++ Honest, Toby.  I just axed him for a quarter for the jukebox.
+L633667 +++$+++ u8693 +++$+++ m589 +++$+++ TOBY +++$+++ You shut your mouth, girl, and get back over to our table.  Now, I'm not going to axe you again, Mister.  What were you doing with my girl?
+L633666 +++$+++ u8689 +++$+++ m589 +++$+++ JENNY +++$+++ Aw, Toby, we weren't doing nothing.  We was just talking.
+L633665 +++$+++ u8693 +++$+++ m589 +++$+++ TOBY +++$+++ I axed you a question.
+L634023 +++$+++ u8691 +++$+++ m589 +++$+++ SERGEI +++$+++ I want my lawyer!
+L634022 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Get out of the car, spread them. You can jawbone all you want or you have the right to <u>shut the fuck up</u>! You commie motherfucker. Either way you're goin' to the can.
+L634021 +++$+++ u8691 +++$+++ m589 +++$+++ SERGEI +++$+++ What fuckin grocery store, you fucking shithead idiot! You call yourself a police...
+L634020 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ What's that?  ..."concealed" is a definite no no in this town, Ivan. You know anything about Jamilla's grocery store?
+L634019 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ What? You trying to bribe me, mister? Just cause you Russians ain't commies anymore, don't think money can buy everything...
+L634018 +++$+++ u8691 +++$+++ m589 +++$+++ SERGEI +++$+++ I am Russian, da! I am also <u>rich</u> Russian, da? Maybe we work something out, my friend Sheriff?
+L634017 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Whoa, what kind of accent you got there? You one of them Russians?
+L634016 +++$+++ u8691 +++$+++ m589 +++$+++ SERGEI +++$+++ Vat? I am going 5 miles an hour! I am looking town. I not even moving.
+L634015 +++$+++ u8692 +++$+++ m589 +++$+++ SHERIFF +++$+++ Where's the fire sweetheart? Don't know how they work things in Nevada, but we got speed limits in this state.
+L634416 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Yes.
+L634415 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ Is that the entire message?
+L634414 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Ask if he can check how many sick days I've taken since I've worked here?
+L634413 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ Proceed.
+L634411 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ I had to put him down.
+L634410 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Wow.
+L634409 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ I was in an accident once too. A horse almost trampled me to death.
+L634408 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Oh.
+L634407 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ No sir he is not.  I read about you in the paper.
+L634406 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Is Noel in?
+L634405 +++$+++ u8695 +++$+++ m590 +++$+++ ANCIENT SECRETARY +++$+++ Yes?
+L634487 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ I have a lock on the door.
+L634486 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ What about Jeb?
+L634485 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ I'll keep it in my office room.
+L634484 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ I'm listening.
+L634480 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Do you see any Telletubbies around here?... Do you see a slender plastic tag clipped to my shirt with my name printed on it?... Do you see a little Asian child with a blank expression sitting outside in a mechanical helicopter that shakes when you put a quarter in it?... No?... Well that's what you see at a toy store? Any you must think this is a toy store, cause you're in here shopping for an infant named Jeb. One of us has made a gross error and wasted the other person's valuable time...
+L634479 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ What did I say?
+L634478 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ No, no, no, no no... You need to go now.
+L634477 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ No.
+L634476 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ Four.
+L634475 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ How old is Jeb?
+L634474 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ My son Jeb. It's a gift for him.
+L634473 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Once again please?
+L634471 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ You've made a considerably wise decision.
+L634470 +++$+++ u8696 +++$+++ m590 +++$+++ BUSINESS MAN +++$+++ Wrap it up.
+L634858 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ It's like you resent us David. Resent the life you have.
+L634857 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I don't know Megan.
+L634856 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Why?
+L634853 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ That counts.
+L634852 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I had a nightmare one night and I didn't wake you up so you could tell me it was okay.  I think that was the first time.  Does that count?
+L634851 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Maybe it wasn't a specific moment, maybe it--
+L634850 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ It's finished. I won.
+L634849 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ What about the game?
+L634848 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Think carefully?
+L634847 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I'm not sure.
+L634844 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ My turn.  When was the first time the thought popped into your head that we might not make it?
+L634843 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Soft and Wet. That's very interesting.
+L634842 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ We're supposed to be honest.
+L634841 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ What was that?
+L634840 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Soft and Wet, by the Artist Formerly Known as Prince.
+L634839 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ My turn. What's your favorite song?
+L634838 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ I didn't know that. Mine's still brown.
+L634837 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ As a color, not as rust. You know, a rust colored paint or wood?
+L634836 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Rust?
+L634835 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ ...I think rust.
+L634780 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Jeremy what the hell are you doing?
+L634779 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ He didn't do anything. He just told me his theory... It's sad when patients get like that. They loose reality.
+L634778 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Jesus.
+L634777 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Oh. Elijah Price came to visit me at the center today.
+L634775 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ out again?
+L634774 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Yes.
+L634773 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Would you like to try going--
+L634771 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ He's dealing with a lot of things.  I think he needs to find answers himself.
+L634770 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ He's just laying in bed. He's pretty upset. He won't talk.
+L634669 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ You use your sleeve.
+L634668 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ What do I do when I'm around someone I know?
+L634664 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Not often, but it is possible. Most people get scared when they see the shadow of their limits. They don't know how long the shadow really is. They don't know how far away the real limits are standing... They stop out of fear.
+L634663 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ ...When you work with clients on machines, do they sometimes just jump up a level or two? Do something they didn't know they were capable of?
+L634660 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ I was hoping you would call me, but... Anyway I decided not to wait.  I was thinking, it might be nice to go to dinner together.
+L634659 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I remember you.
+L634658 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ My name is Megan Inverso. We went to college together.
+L634657 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Yeah? Megan where are you calling from?
+L634656 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Yes. Is this David?
+L634655 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Megan?
+L634538 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Oh.
+L634537 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ I've come to a decision.
+L634449 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Matching shirt and shorts. It was brutal.
+L634448 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Oh shit...
+L634447 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ The Mitchell barbecue three years ago.
+L634446 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ When was the last time I wore pink?
+L634443 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ No that's it.
+L634442 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Is there anything else you wanted to ask me while I'm up?... When was the last time you wore pink? When was the last time you drank soup standing up? Final call for strange questions at two in the morning.
+L634441 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Yes.
+L634440 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Is that what you wanted to ask me?
+L634439 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ It means we're probably to tired to remember.
+L634438 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ That's strange isn't it? Not remembering one fever... Or a cold... Or a sore throat. What do you think that means?
+L634437 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ ...I can't remember.
+L634435 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Megan, do you ever remember me getting sick?
+L634434 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Not a specific day. What's this about?
+L634433 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Do you remember me getting sick?
+L634432 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Okay.
+L634431 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I haven't been sick this year. I know that.
+L634430 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ I don't know. It's been a while.
+L634427 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Oh.
+L634426 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ He's asleep.
+L634425 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ Is Jeremy okay?
+L634372 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I know.
+L634371 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ I don't want to drag this out too long for Jeremy.
+L634370 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I'm still going to New York. Just not this second.
+L634369 +++$+++ u8702 +++$+++ m590 +++$+++ MEGAN +++$+++ What does that mean?
+L634368 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I don't think I got the job in New York.
+L634819 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ No. And I have been sick. I spent a week in a hospital when I was a boy recovering from pneumonia and almost drowning. Two skinny eight year old kids were playing around the pool. They were dunking me. I swallowed water. They didn't know it and they almost killed me.  Heroes don't get killed like that. Normal people do.
+L634818 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Are you finished?
+L634817 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ You have a problem, Elijah. My wife is right. Somewhere along the line one of your bones broke and your mind just broke with it.
+L634816 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ I never said you couldn't be killed. I never said that.
+L634815 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Stop messing with my life Elijah. My son almost shot me last night. He wanted to prove you were right.
+L634814 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ That's not what I witnessed David.
+L634813 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I must have felt some lump in his back when I bumped him. Most guns have a black or silver handle. I had a fifty-fifty shot at the color.
+L634593 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ The car accident you were in... Was there anyone else involved?
+L634592 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Quick.
+L634591 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ One last question.
+L634590 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I have to go now.
+L634589 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Or he might have been carrying a silver handled gun tucked in his pants.
+L634588 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ The guy might not have been carrying anything.
+L634587 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ It's an exaggeration of the truth. Maybe it's based on something as simple as instinct. Like being able to touch someone and tell whether they've done something wrong... Or the level of what they've done wrong.
+L634586 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Okay, I don't want to play this game anymore.
+L634585 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Characters in comic books are often attributed special powers. X-ray vision, things of that sort.
+L634584 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Listen. I got to be on the sidelines during the game... You can get to your seat by taking the stairwell at--
+L634583 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ You're skill.
+L634582 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I don't know what you're asking?
+L634581 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Have you ever tried to develop it?
+L634580 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Yes.
+L634579 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Telling when people have done something wrong?
+L634578 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Like what?
+L634577 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ You have good instincts when it comes to things like that?
+L634576 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I got this picture of a silver handled gun tucked in his pants.  Like on t.v.
+L634575 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ But not a knife?
+L634574 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I thought he was carrying something.
+L634573 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ You thought he was carrying a knife?
+L634572 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Probably the army jacket. Those guys carry hunting knives and stuff for show.
+L634571 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ How did you know that man you bumped was carrying a weapon?
+L634570 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ I got you a seat in the seven hundred level.  It's nose-bleed territory, but at least you won't get spit on.
+L634568 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ That guy in green. Sometimes people carry weapons in here. Then they drink too much. They're team isn't doing so well, bad things happen... We do random pat downs of the crowd to discourage people from carrying.  If he's carrying, he'll step out of line.
+L634567 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ Is there a problem?
+L634566 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Just give me a minute.
+L634559 +++$+++ u8698 +++$+++ m590 +++$+++ ELIJAH +++$+++ You could have poured coffee in Starbucks, you could have learned to install track lighting in office buildings, you could have told people their horoscopes on the internet... You could have been one of ten thousand things... but in the end, you chose to protect people. You made that decision... and I find that very, very interesting.  Now all I need is your credit card number.
+L634558 +++$+++ u8697 +++$+++ m590 +++$+++ DAVID +++$+++ Are you for real?

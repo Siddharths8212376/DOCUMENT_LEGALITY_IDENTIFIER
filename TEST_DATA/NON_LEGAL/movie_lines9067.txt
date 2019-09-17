@@ -1,0 +1,200 @@
+L225122 +++$+++ u992 +++$+++ m64 +++$+++ SANDY +++$+++ Aw.
+L225121 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ I got to.
+L225120 +++$+++ u992 +++$+++ m64 +++$+++ SANDY +++$+++ You can't go back there tonight. Not in that stuff. 'Less you wanta get drownded.
+L225119 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ No, thanks. I'm fine. Sandy.
+L225118 +++$+++ u992 +++$+++ m64 +++$+++ SANDY +++$+++ Anything else you want?
+L225184 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ Yeah.
+L225183 +++$+++ u994 +++$+++ m64 +++$+++ TIERNEY +++$+++ Another coincidence.
+L225182 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ Good luck.
+L225181 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ Sure.
+L225180 +++$+++ u994 +++$+++ m64 +++$+++ TIERNEY +++$+++ Have to drop you here, Steve.
+L225171 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ You've made a science out of coincidence.
+L225170 +++$+++ u994 +++$+++ m64 +++$+++ TIERNEY +++$+++ Bad enough we got a full moon; it's Friday the 13th. They keep statistics. We get more accidents, more robberies, more rapes, more homicides, more of everything when there's a full moon. It affects people. Makes 'em nuts.
+L225151 +++$+++ u994 +++$+++ m64 +++$+++ TIERNEY +++$+++ Why not?
+L225150 +++$+++ u993 +++$+++ m64 +++$+++ STEVE +++$+++ I think water got into the electrical system. You ride me back to camp? I'll get one of my counselors to drive me back tomorrow morning.
+L225149 +++$+++ u994 +++$+++ m64 +++$+++ TIERNEY +++$+++ I told you not to buy that hunk of junk!
+L227821 +++$+++ u995 +++$+++ m65 +++$+++ BORDER GUARD +++$+++ Open the door. I'm coming aboard.
+L227820 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I meant me, my son and my daughter.
+L227819 +++$+++ u995 +++$+++ m65 +++$+++ BORDER GUARD +++$+++ You said it was just you and your son.
+L227818 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Oh, that's just my daughter in the bathroom.
+L227817 +++$+++ u995 +++$+++ m65 +++$+++ BORDER GUARD +++$+++ What was that?
+L227813 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Vacation. I'm taking him to see his first bullfight.
+L227812 +++$+++ u995 +++$+++ m65 +++$+++ BORDER GUARD +++$+++ What is your purpose in Mexico?
+L227811 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Just my son and I.
+L227810 +++$+++ u995 +++$+++ m65 +++$+++ BORDER GUARD +++$+++ How many with you?
+L228156 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ Vamanos!
+L228155 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ So let's do it.
+L228154 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ Yeah, follow us.
+L228153 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ So do I just follow you?
+L228152 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ It's hardly been used at all. I got it from a drug dealer who only drove it 5 times in as many years. Swear to God. That's like new.
+L228151 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I said new, this is an '90.
+L228150 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ You like the car?
+L228148 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Jesus Christ, Carlos, my brother's dead and he's not coming back, and it's all your fault. Twenty.
+L228147 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ Twenty-eight.
+L228146 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ You can't, but fifteen percent instead of thirty for my stay at El Ray is a good start.
+L228145 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ Oh, Seth, how can I ever make it up to you?
+L228144 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Did they look like psychos? They were fuckin' vampires. Psychos don't explode when sunlight hits 'em, I don't care how crazy they are.
+L228143 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ I'm sorry to hear that. What were they, psychos?
+L228142 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Well, because you picked that place out of a hat, my brother's dead now. And this girl's family's dead.
+L228141 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ No, but I passed by it a couple of times. It's out in the middle of nowhere. It seems like a rowdy place, so there wouldn't be a lot of police. And it's open from dusk till dawn. You said meet you in the morning.
+L228140 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Have you ever been there before?
+L228139 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ I don't know, one place's as good as another.
+L228138 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Why the fuck, outta all the god forsaken shit holes in Mexico, did you have us rendezvous at that place?
+L228137 +++$+++ u996 +++$+++ m65 +++$+++ CARLOS +++$+++ Whatsamatter with you? Are you crazy?
+L228113 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ To keep the daylight out! This is where they sleep! Get to the door!
+L228112 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Why did they block the door again?
+L228109 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Thank you, son.
+L228108 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Okay, I'll kill you when you change, I swear to God in Jesus Christ's name.
+L228107 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ It's not suicide if you're already dead. Two...
+L228106 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ You don't believe in suicide.
+L227809 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I'm running the show. I make the plays, and you back the plays I make. Stop thinking with your fucking balls. Kate in a room with a couple of desperate men with nothing to fucking lose ain't the time to "go for it." I need your cover. Cover my ass.
+L227808 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ He's running the show.
+L227807 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Now, you listen to me. You ain't gonna do a goddamn fucking thing, you hear me! Nobody cares what you think, I'm running this show, I make the decisions.
+L227806 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ If trusting you means trusting those fuckin' killers, I can't do that. If you don't tell the cops, I will.
+L227805 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Son, I have this situation under control. I know exactly what I'm doing. You're going to have to trust me on this.
+L227804 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ They're gonna kill her anyway. At least now with all these cops we've got a fighting chance.
+L227803 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ What about Kate?
+L227802 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Dad, I watch those reality shows. They never let anybody go. Any cop will tell you, in a situation like this, you get a chance, you go for it. This is our chance.
+L227801 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ If they get over the border, they're gonna let us go.
+L227800 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ They're gonna kill us. They get us across the border, they're gonna take us out in the desert and shoot us.
+L227799 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Have you forgotten about your sister?
+L227781 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ No, dad, you gotta tell 'em that they're back there.
+L227780 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I'm gonna try and get us across the border.
+L227779 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ What are you gonna do?
+L227646 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I have no idea.
+L227645 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ What's this guy's problem?
+L227508 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Lie in the back, Dad, I'll drive us into Mexico.
+L227507 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I'm exhausted.
+L227506 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Why do you want to stop?
+L227502 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ The truth hurts.
+L227501 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Unless you two wiseacres wanna be introduced to the joys of hitchhiking, what say we drop this?
+L227492 +++$+++ u1004 +++$+++ m65 +++$+++ SCOTT +++$+++ Stop? We're not going to actually stop at a motel, are we?
+L227491 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ We got about two more hours of day light left. That'll get us into El Paso, which is right next to the border. We'll stop at a motel --
+L228096 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Kate, Scott?
+L228095 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I promise.
+L228093 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Amen.
+L228092 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I don't give a shit about living or dying anymore. I just want to send as many of these devils back to hell as I can.
+L228091 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Well, I say lets tear this place apart for weapons. So when they burst through that door, we'll make 'em wish they never did.
+L228090 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ My guess is that this little dive's been feeding on nomad road waifs like bikers and truckers for a longtime. This is probably some of the shipments they stole off the trucks.
+L228089 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ What's this stuff?
+L228085 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ You bet your sweet ass you are, and I'm gonna help you do it. But we ain't got much time.
+L228084 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ You all are gonna fuckin' die! I'm gonna fuckin' kill every last one of you godless pieces of shit!
+L228082 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yep.
+L228081 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Did he...?
+L228029 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Okay, I'll buy that. So we got crosses covered, moving right along, what else?
+L228028 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ What's an official cross? Some piece of tin made in Taiwan? What makes that official? If a cross works against vampires, it's not the cross itself, it's what the cross represents. The cross is a symbol of holiness.
+L228027 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I don't know about that. In order for it to have any power, I think it's gotta be an official crucifix.
+L228024 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ In other words, no.
+L228023 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ In the Winnebago.
+L228022 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Good for you. Now, since we all believe we're dealing with vampires, what do we know about vampires? Crosses hurt vampires. Do you have a cross?
+L228021 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I'm like you. I don't believe in vampires, but I believe in what I saw.
+L228020 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ You too, preacher?
+L228019 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Yeah, I know what's going on. We got a bunch of fuckin' vampires outside trying to get inside and suck our fuckin' blood! That's it, plain and simple. And I don't wanna hear any bullshit about "I don't believe in vampires" because I don't fuckin' believe in vampires either. But I do believe in my own two fuckin' eyes, and with my two eyes I saw fuckin' vampires! Now, does everybody agree we're dealin' with vampires.
+L228018 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Okay, does anybody here know what's going on?
+L227947 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Forever together.
+L227946 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Now, is your shit together?
+L227945 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ To yours.
+L227944 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ To your family.
+L227942 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Nothing. I didn't make a statement. I asked a question. Would you like me to ask it again? Very well. Are you such a loser you can't tell when you've won?  The entire state of Texas, along with the FBI, is looking for you. Did they find you? No. They couldn't. They had every entrance to the border covered. There's no way you could get across. Did you? Yes, you did. You've won, Seth, enjoy it.
+L227941 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ What did you call me?
+L227940 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Are you so much a fucking loser, you can't tell when you've won?
+L227939 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I never said do what I do, I said do what I say.
+L227938 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Before we stepped in here, you told all of us to be cool. That means you, too.
+L227937 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I'm gonna just sit here and drain this bottle. And when I've drunk the last drop, if I still feel then, the way I feel now, I'm gonna take this bottle and break it over his melon head.
+L227936 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ What are you going to do?
+L227935 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ He's smilin' at us. But behind his smile, he's sayin', "Fuck you Jack." I hear that loud and clear.
+L227934 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ He backed down.
+L227933 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I'm still stewing about that ape laying hands on me. And that fuckin' bartender sticks a weed up my ass, too.
+L227932 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Why are you so agitated?
+L227924 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Suit yourself, more for me.  Scotty?
+L227923 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ No, I do drink, I'm just not drinking now.
+L227922 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Why not, against your religion?
+L227921 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Pass.
+L227920 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Who else?
+L227868 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Shit, I been to bars make this place look like a fuckin' 4-H club.
+L227867 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Out of the stew pot and into the fire.
+L227839 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Then stop, 'cause that's where we're going.
+L227838 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Then?
+L227835 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Pops, when you're right, you're right, and you are right.
+L227834 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ We did our part, we gotcha in Mexico. Now it's time for your part, letting us go.
+L227778 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Well, you just keep thinkin' of that gun next to Kate's temple.
+L227777 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I don't have the slightest idea.
+L227776 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ As long as you're cool, she'll be cool. What're ya gonna say?
+L227775 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I'm telling you, don't hurt her.
+L227760 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ You best better get it done, Pops.
+L227759 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I swear to God I won't try to escape and I'll do my best to get you into Mexico.
+L227758 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Swear to God, on the Bible, you won't try to escape and you'll get us across the border.
+L227752 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Fair enough. You break your word, I'll kill all of you.  Kate, honey!
+L227751 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ If he touches her, I'll kill him. I don't give a fuck how many guns you have, nothing will stop me from killing him.
+L227748 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I can handle Richie, don't worry.
+L227747 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ You won't let him touch her?
+L227746 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Didn't think so. So, as I was saying, I'm willing to make a deal. You behave, get us into Mexico, and don't try to escape. I'll keep my brother off your daughter and let you all loose in the morning.
+L227745 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ No, I didn't.
+L227744 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Didn't like it, did ya?
+L227743 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes.
+L227742 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Look, dickhead, the only thing you need to be convinced about is that you're stuck in a situation with a coupla real mean motor scooters. I don't wanna hafta worry about you all fuckin' night. And I don't think you wanna be worrying about my brother's intentions toward your daughter all night. You notice the way he looked at her, didn't ya?
+L227741 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ You want me to sit here and be passive. The only way being passive in this situation makes sense is if I believe you'll let us go. I'm not there yet. You have to convince me you're telling the truth.
+L227740 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Jesus Christ, Pops, don't start with this shit.
+L227739 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ How do I know you'll keep your word?
+L227738 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I thought so. You help us get across the border without incident, stay with us the rest of the night without trying anything funny, and in the morning we'll let you and your family go. That way everybody gets what they want. You and your kids get out of this alive and we get into Mexico. Everybody's happy.
+L227737 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes.
+L227736 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I seem to have touched a nerve. Don't be so sensitive, Pops, let's keep this friendly. But you're right, enough with the getting to know you shit.  Now, there's two ways we can play this hand. One way is me and you go round an' round all fuckin' night. The other way, is we reach some sort of an understanding. Now, if we go down that first path at the end of the day, I'll win. But we go down the second, we'll both win. Now, I don't give a rat's ass about you or your fuckin' family. Y'all can live forever or die this second and I don't care which. The only things I do care about are me that son-of-a-bitch in the back, and our money. And right now I need to get those three things into Mexico. Now, stop me if I'm wrong, but I take it you don't give a shit about seeing me and my brother receiving justice, or the bank getting its money back. Right now all you care about is the safety of your daughter, your son and possibly yourself. Am I correct?
+L227735 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I think I've gotten about as up close and personal with you as I'm gonna get. Now if you need me like I think you need me, you're not gonna kill me 'cause I won't answer your stupid, prying questions. So, with all due respect, mind your own business.
+L227734 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Why'd ya quit?
+L227733 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes.
+L227732 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Was? As in not anymore?
+L227731 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ I was a minister.
+L227730 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ You're a preacher?
+L227729 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Real McCoy.
+L227728 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ I've seen one of these before. A friend of mine had himself declared a minister of his own religion. Away to fuck the IRS. Is that what you're doing, or are you the real McCoy?
+L227727 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes.
+L227726 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Is this real?
+L227725 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes, they do.
+L227724 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Whewww! Those acts of God really stick it in and break it off, don't they?
+L227723 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Not quite. She was trapped in the wreck for about six hours before she passed on.
+L227722 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Died instantly?
+L227721 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ No. It was a rainy night, the brakes on the car weren't great. She had to stop suddenly. She slid on the road, she crashed, she died.
+L227720 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Come on, gimme some more details. How'd it happen? Some fuckin' drunk kill her?
+L227719 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Auto wreck.
+L227718 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ How'd she die?
+L227717 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes, she is.
+L227716 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ She's dead?
+L227715 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ In heaven.
+L227714 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Where is the little lady?
+L227713 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ My wife.
+L227712 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Who's this?
+L227710 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Scott and Kate.
+L227709 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Jacob Fuller. Jacob, that's biblical, ain't it? What am I askin' for, of course it is.  What are their names?
+L227700 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Good.  Your old man's all right, he just saved your life.
+L227699 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Yes.
+L227697 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ That's not fuckin' that...  this is fuckin' this.  Go sit over there.
+L227696 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ My children are not going with you, and that's that.
+L227695 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Sorry, I need everybody.
+L227694 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ If you're taking people, take me. But my kids aren't going anywhere with you.
+L227693 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Come again?
+L227692 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Not a chance.
+L227678 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Richie, take the keys. Start that big bastard up, and drive it up front.
+L227677 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ On the dresser.
+L227676 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Where are the keys to the motor home?
+L227675 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Just listen to daddy, sugar, and don't do nothin' stupid.  You two, Simon says sit the fuck down!
+L227674 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ It's okay, honey. Everything's going to be all right.
+L227670 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ It's about money, all right, but not yours. You see, me and my brother here are in a little hot water and we need your assistance.
+L227669 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ What's this about, money?
+L227668 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Oh, well, excuse me all to hell.
+L227667 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Neither does he. He looks Vietnamese.
+L227666 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ How does that happen? You don't look Japanese.
+L227665 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ He's my son.
+L227664 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ What's the story with you two? You a couple of fags?
+L227661 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ Okay, Jacob, get up and sit your ass down on the bed. Make a wrong move and I'll shoot you in the face.
+L227660 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Jacob.
+L227659 +++$+++ u1005 +++$+++ m65 +++$+++ SETH +++$+++ What's your name?
+L228118 +++$+++ u998 +++$+++ m65 +++$+++ KATE +++$+++ Everybody goes home!
+L228117 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ No!
+L228116 +++$+++ u998 +++$+++ m65 +++$+++ KATE +++$+++ I'm going for 'em!
+L228105 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Good girl. Now, Scott, we have even less time, so I'm only giving you the count of three. One...
+L228104 +++$+++ u998 +++$+++ m65 +++$+++ KATE +++$+++ I swear to God, our father, that when you change into one of the undead, I will kill you.
+L228103 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Not good enough, swear to God.
+L228102 +++$+++ u998 +++$+++ m65 +++$+++ KATE +++$+++ Okay, okay, I promise I'll do it!
+L228101 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Kate, we don't have all day, so I'm only gonna count to five. One...two... three... four...
+L228098 +++$+++ u997 +++$+++ m65 +++$+++ JACOB +++$+++ Scott?
+L228097 +++$+++ u998 +++$+++ m65 +++$+++ KATE +++$+++ I promise.

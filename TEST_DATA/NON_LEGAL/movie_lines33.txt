@@ -1,0 +1,200 @@
+L30371 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You already commissioned an opera from Mozart.
+L30370 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Yes?
+L30369 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ An interesting idea, Majesty. But -
+L30368 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ I'm thinking about Herr Mozart. What is your view?
+L30367 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Oh, Your Majesty, it would be such a tremendous honour!
+L30365 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Your Highness.
+L30364 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Good morning, Court Composer. This is my niece, the Princess Elizabeth.
+L30204 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Cattivo again, Court Composer. Well, tell him, Mozart. Name us a German virtue.
+L30203 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Excuse me, Sire, but what do you think these could be? Being a foreigner, I would love to learn.
+L30202 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, I'm glad to hear that.
+L30179 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, there it is. Now to business. Young man, we are going to commission an opera from you. What do you say?
+L30178 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ My pleasure.
+L30170 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Finally! Such an immense joy. Diletto straordinario!
+L30169 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ And here is our illustrious Court Composer, Herr Salieri.
+L30156 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah-ha!
+L30155 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ A-flat, Majesty.
+L30154 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Let's have some fun.  Bring in Herr Mozart, please. But slowly, slowly. I need a minute to practice.
+L30153 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ You do me too much honour, Sire.
+L30152 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Delightful, Court Composer. Would you permit me to play it as he comes in?
+L30151 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Majesty.
+L30150 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ May I try it?
+L30149 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ It's just a trifle, of course.
+L30148 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ What a charming idea. May I see?
+L30124 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ You are cattivo, Court Composer.  I want to meet this young man. Chamberlain, arrange a pleasant welcome for him.
+L30123 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ I think it is an interesting notion to keep Mozart in Vienna, Majesty. It should really infuriate the Archbishop beyond measure - if that is your Majesty's intention.
+L30833 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sire, the whole opera is finished. Do you know how much work went into it?
+L30832 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ You are passionate, Mozart! But you do not persuade.
+L30831 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Forgive me, Majesty. I'm a vulgar man. But I assure you, my music is not.
+L30821 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Twenty, sire! How about twenty? Twenty minutes of continuous music. No recitatives.
+L30820 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, six or seven minutes! maybe eight!
+L30819 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Guess! Guess, Majesty. Imagine the longest time such a thing could last, then double it.
+L30818 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ I have no idea.
+L30817 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But it's new, it's entirely new. It's so new, people will go mad for it. For example, I have a scene in the second act - it starts as a duet, just a man and wife quarreling. Suddenly the wife's scheming little maid comes in unexpectedly - a very funny situation. Duet turns into trio. Then the husband's equally screaming valet comes in. Trio turns into quartet. Then a stupid old gardener - quartet becomes quintet, and so on.  On and on, sextet, septet, octet! How long do you think I can sustain that?
+L30816 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah, love again.
+L30815 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But, Majesty, this is just a frolic. It's a piece about love.
+L30814 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ I think you are rather innocent, my friend. In these dangerous times I cannot afford to provoke our nobles or our people simply over a theatre piece.
+L30813 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Sire, I swear to Your Majesty, there's nothing like that in the story. I have taken out everything that could give offense. I hate politics.
+L30812 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Mozart, I am a tolerant man. I do not censor things lightly. When I do, I have good reason. Figaro is a bad play. It stirs up hatred between the classes. In France it has caused nothing but bitterness. My own dear sister Antoinette writes me that she is beginning to be frightened of her own people. I do not wish to see the same fears starting here.
+L30809 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, Majesty, it is only a comedy.
+L30808 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Would you tell me why?
+L30807 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well, yes, I admit it is.
+L30806 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ It is not your place to ask questions. Is it true?
+L30805 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Who told you this, Majesty?
+L30804 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Yet we hear you are making an opera from it. Is this true?
+L30803 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes, Sire.
+L30802 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Mozart, are you aware I have declared the French play of Figaro unsuitable for our theatre?
+L30768 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah! By all means.
+L30767 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ May I introduce my father? He is on a short visit here and returning very soon to Salzburg. He would so much like to kiss your hand. It would make his whole stay so memorable for him.
+L30766 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ What is it?
+L30765 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Majesty, may I ask you to do me the greatest favour?
+L30762 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Thank you, Sire!
+L30761 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Bravo, Mozart. Most charming. Yes, indeed. Clever man.
+L30296 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, my advice is to marry this charming young lady and stay with us in Vienna.
+L30295 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Twenty-six.
+L30294 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Excuse me, but how old are you?
+L30293 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Well - Well we haven't quite received my father's consent, Your Majesty. Not entirely. Not altogether.
+L30292 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Really? How delightful. May I ask when you marry?
+L30290 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Enchanted, Madame.
+L30289 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Majesty, this is Madame Weber. She is my landlady.
+L30285 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Which few did you have in mind, Majesty?
+L30284 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ My dear, young man, don't take it too hard. Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Cut a few and it will be perfect.
+L30281 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ My dear fellow, there are in fact only so many notes the ear can hear in the course of an evening. I think I'm right in saying that, aren't I, Court Composer?
+L30280 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I don't understand. There are just as many notes, Majesty, as are required. Neither more nor less.
+L30277 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, I mean occasionally it seems to have, how shall one say?  How shall one say, Director?
+L30276 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What do you mean, Sire?
+L30275 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Of course I do. It's very good. Of course now and then - just now and then - it gets a touch elaborate.
+L30274 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ So then you like it? You really like it, Your Majesty?
+L30273 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Oh, yes. Absolutely. German. Unquestionably!
+L30272 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ And German?
+L30271 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Yes, indeed.
+L30270 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It is new, it is, isn't it, Sire?
+L30213 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I think so, Sire, yes.
+L30212 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ What? On one hearing only?
+L30211 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Keep it, Sire, if you want to. It is already here in my head.
+L30195 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah-ha.
+L30194 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ In a Pasha's Harem, Majesty. A Seraglio.
+L30193 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Yes, where?
+L30192 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's actually quite amusing, Majesty. It's set - the  whole thing is set in a - in a -
+L30191 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, what is it about? Tell us the story.
+L30187 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Because I've already found the most wonderful libretto!
+L30186 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Why so?
+L30181 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Did we vote in the end for German or Italian?
+L30180 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Majesty!
+L30177 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Really? Oh, grazie, Signore! Sono commosso! E un onore per mo eccezionale. Compositore brilliante e famossissimo!
+L30176 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ And now he has returned the compliment. Herr Salieri composed that March of Welcome for you.
+L30168 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh sir, yes! The honour is mine. Absolutely.
+L30167 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ The Director of our Opera. Count Orsini-Rosenberg.
+L30166 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, thank you.
+L30162 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ No, no, please! It is not a holy relic.  You know we have met already? In this very room. Perhaps you won't remember it, you were only six years old.  He was giving the most brilliant little concert here. As he got off the stool, he slipped and fell. My sister Antoinette helped him up herself, and do you know what he did? Jumped straight into her arms and said, Will you marry me, yes or no?
+L30161 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Your Majesty!
+L30146 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah-ha. Well. There it is. Good.
+L30145 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ He's here.
+L30144 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Yes, what about him?
+L30143 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Your Majesty, Herr Mozart -
+L30142 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well, what do you have for me today?
+L30126 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Well. There it is.
+L30125 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ Yes, sir.
+L30119 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ In my opinion, it is time we had a piece in our own language, sir. Plain German. For plain people.
+L30118 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah-ha. What do you say, Chamberlain?
+L30115 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Very small pay, I imagine. I'm sure he could be tempted with the right offer. Say, an opera in German for our National Theatre.
+L30114 +++$+++ u267 +++$+++ m16 +++$+++ VON STRACK +++$+++ I agree, Majesty, but I'm afraid it's not possible. The young man is still in the pay of the Archbishop.
+L30113 +++$+++ u251 +++$+++ m16 +++$+++ JOSEPH +++$+++ Ah-ha. Well then, we should make some effort to acquire him. We could use a good German composer in Vienna, surely?
+L30775 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Hush! I'm talking to His Majesty. Your Majesty, I wish to express only one thing - that you who are the Father of us all, could teach our children the gratitude they owe to fathers. It is not for nothing that the Fifth Commandment tells us: 'Honour your Father and Mother, that your days may be long upon the earth.'
+L30774 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Father -
+L30735 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ She does. She says I sleep all day.
+L30734 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ No one calls you that.
+L30733 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Don't worry, I'm not staying here to be a burden.
+L30732 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Papa!
+L30731 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Never mind. You won't have to do anything for me ever again. I'm leaving!
+L30716 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ I never saw this girl in my life.  Is this a kind of joke?
+L30715 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Are you playing a trick on me?
+L30714 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Mine?
+L30713 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Papa, is this your idea?
+L30683 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ But my penalty. I've got to have a penalty.
+L30682 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ I'm tired of this game. Please play without me.
+L30679 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ I want you to come back with me to Salzburg, my son.
+L30678 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes, Papa, name it. Name it. I'll do anything you say!
+L30673 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ This is just a game, Papa.
+L30672 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ No, really!
+L30669 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Why not? Oh, come, Papa! What better way could I spend it than on you? My kissable, missable, suddenly visible Papa!
+L30668 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Thank you. That'll be fine. Don't spend any money on me.
+L30662 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Didn't I? I thought I did. I'm sure I did.
+L30661 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Why didn't you mention it in your letters?
+L30660 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Isn't that marvelous? We're delighted.
+L30652 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's too dangerous, Papa. But they're going to love it. Ah, there she is!
+L30651 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ You don't have secrets from me.
+L30650 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It's a secret.
+L30649 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Why not?
+L30648 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, let's not talk about it.
+L30647 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ What's that?
+L30646 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ This one will.
+L30645 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Composition doesn't pay. You know that.
+L30644 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I don't know. It's not important. I mean, I don't want pupils. They get in the way. I've got to have time for composition.
+L30643 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ How many?
+L30642 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Yes.
+L30641 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Yes.
+L30640 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Pupils?
+L30639 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ How many pupils do you have?
+L30638 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Who? Who says that? Now that's a malicious lie!
+L30637 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ They say you're in debt.
+L30636 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What do you mean? It's wonderful. Really, it's - it's marvelous! People love me here.
+L30635 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ That's not what I hear.
+L30634 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ It couldn't be better.
+L30633 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ How is your financial situation?
+L30632 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh we could, if we wanted to, but Stanzi won't hear of it. She wants to do everything herself.
+L30631 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Don't you have a maid?
+L30630 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ She's very tired, poor creature. You know me: I'm a real pig. It's not so easy cleaning up after me.
+L30627 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Oh, yes. Oh, I mean no - not exactly like this. I mean today - just today, Stanzi - I remember now. She had to go - yes! She had to help her mother. Yes, she's like that. Her mother's a very sweet woman, you'll see.
+L30626 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Do you always live like this?
+L30625 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I don't know. Stanzi? Stanzi!
+L30624 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Is she not here?
+L30623 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Feed? Well, of course she feeds me. She stuffs me like a goose all day long. She's the best cook in the world. I mean, since Mama. Just wait, you'll see.
+L30621 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Of course, welcome! Welcome ten thousand times. Papa! my Papa!
+L30620 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ Am I not welcome?
+L30619 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Why are you here?
+L30359 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ I will.
+L30358 +++$+++ u252 +++$+++ m16 +++$+++ LEOPOLD +++$+++ I write to you with urgent news. I am coming to Vienna. Take no further steps toward marriage until we meet. You are too gullible to see your own danger. As you honour the father who has devoted his entire life to yours, do as I bid, and await my coming.
+L31131 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Are you sure it's an opera?
+L31130 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Please don't ask me to go back again. I'm frightened! I'm very, very frightened.
+L31129 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Opera? Opera!
+L31128 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I suppose so. He sits there all he time, doing some silly opera.
+L31127 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Is he working?
+L31126 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I'm frightened, sir. Really! When he speaks, he doesn't make any sense. You know he said he saw - he said he saw his father. And his father's dead.
+L31125 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Is he working?
+L31124 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Here, in his stomach. They bend him right over.
+L31123 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Where?
+L31122 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I don't know. He has pains.
+L31121 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What medicine?
+L31120 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ You don't know what it's like. Herr Mozart frightens me. He drinks all day, then takes all that medicine and it makes him worse.
+L31119 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Why? What has happened?
+L31118 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I'm leaving. I'm not working there anymore. I'm scared!
+L31117 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Now calm yourself. Calm. What's the matter with you?
+L30760 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ In there, sir.
+L30759 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Where does he work?
+L30757 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Yes what?
+L30756 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I think I've found out about the money, sir.
+L30754 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Of course not. You're a good girl. You're very kind to do this. Next time you're sure they'll be out of the house, let me know, will you?
+L30753 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Oh, I wouldn't know that, sir.
+L30752 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Really? What is it he's writing?
+L30751 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Oh, yes, sir, all day long. He never leaves the house until evening. He just sits there, writing and writing. He doesn't even eat.
+L30750 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Then how does he pay for all this? Does he work at all?
+L30749 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Not that I've seen.
+L30748 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Do any pupils come to the house?
+L30747 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Oh, thank you, sir.
+L30222 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Bene.
+L30221 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Madame Cavalieri is here for her lesson, sir.
+L30135 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Bene! Bene!
+L30134 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Yes, thank you, sir.
+L30133 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Thank you. Are you well today, Fraulein Lorl?
+L30132 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ I will, sir.
+L30131 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Ah-ha! Siena macaroons - my favourites. Give my best thanks to the baker.
+L30130 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ What have you got for me today? Let me see.
+L30129 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Good morning, sir.
+L30128 +++$+++ u260 +++$+++ m16 +++$+++ SALIERI +++$+++ Ah! Here she comes. Fraulein Lorl, good morning.
+L30712 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ Yes. I can live in or out just as you wish.
+L30711 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ Are you saying that someone is paying you to be our maid and doesn't want us to know who he is?
+L30708 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ They'll be paid for by a great admirer or yours who wishes to remain anon - anonymous.
+L30707 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ What?
+L30706 +++$+++ u253 +++$+++ m16 +++$+++ LORL +++$+++ My name is Lorl, sir. I'm a maidservant. I was asked to come here and offer my services to you.
+L30705 +++$+++ u255 +++$+++ m16 +++$+++ MOZART +++$+++ That's right.

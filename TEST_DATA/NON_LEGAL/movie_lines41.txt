@@ -1,0 +1,200 @@
+L35438 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ He's just confessed. He's been mixed up with the toughest gangsters in town.
+L35437 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Why, you must be crazy. I've known this man for years.
+L35436 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ You were right, Mr. Dickson! Brown didn't have anything to do with it. Here's your man.
+L35298 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Listen, Matt. If you don't tell the truth, I can't help you. Where were you last night?
+L35297 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Of course it's true - and he knows it.
+L35241 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ So have you. So have I. So's everybody got a record. What difference does that make? You can't go around pinning crimes on people just because they—
+L35240 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Maybe. But I'm taking no chances.  Why, this kid's got a record.
+L35239 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What are you talking about? He had no more to do with it than you did.
+L35238 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ All I know is the bank's been robbed and a murder's been committed. The way I see it, Brown here looks guilty.
+L35175 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Good.  You've got nothing to worry about. Soon as the report comes in, you'll be released.  And listen, don't talk so loud. Take it easy. Coast a little.
+L35174 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ That's what he says. I got a man from headquarters checking up on it now.
+L35171 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Why, certainly he can.  Matt, now all you've got to do is tell them where you were last night, between twelve and twelve-thirty, and everything will be all right.
+L35170 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ If he can do it, yes.
+L35169 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ All right. If the boy proves an alibi, he's all right, isn't he?
+L35168 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ The clock opposite the vault was stopped by a bullet at 12:09.
+L35167 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What time did this thing happen?
+L35159 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Yes.
+L35158 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ It's an inside job. That's a cinch. Whoever did it had a pretty good picture of the layout. Now Brown, here, is in charge of the vaults, isn't he?
+L35157 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Why pick on him ?
+L35156 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ I'm afraid I must, Mr. Dickson.
+L35155 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What's the matter? What's going on here?  This is ridiculous! You can't hold this boy on a vague suspicion.
+L35348 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I hate to do this, but I've got to have time to dig up some help. I think I know where I can get some real cash. Snap into it, Sampson. We will lick this thing yet.
+L35347 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Yes, sir.
+L35346 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Get all the big bills in the place. Take them out and get them changed. Get nothing but ones and fives. Distribute them among the tellers. Tell them to take their time. Stall as much as possible. Count and recount the money.
+L35345 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Mr. Dickson! Mr. Dickson!
+L35327 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Don't you think I know it?
+L35326 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ We can't keep open till four o'clock. We haven't cash enough to last an hour.
+L35317 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ I'll talk to them. Listen, go back and tell the boys to stall as much as possible. Tell 'em not to pay any attention to what I said. Tell 'em to verify every signature.
+L35316 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ What'll we do?
+L35315 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ The fools! If they only knew it, they're making things worse for themselves. Somebody starts a silly rumor, and they lose their heads.
+L35314 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Yes, sir. But soon as our money runs out, they'll mob the place.
+L35313 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Mine too?
+L35312 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Yes, sir.
+L35311 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Did you get the case for the securities?
+L35310 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Look at them, Mr. Dickson. They're going crazy.
+L35253 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Yes, sir.
+L35252 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ The bank's reputation wouldn't be worth a nickel after that. This is just a flurry, that's all. They've heard about the robbery and got panic-stricken. Listen, get a hold of our available securities and have them turned into cash. Wait a minute. Get my personal stuff and have that turned into cash too. Tell the boys anyone caught arguing with a depositor will be fired on the spot.
+L35251 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ We haven't much on hand, you know. If it gets any worse, I hope we don't have to close the doors.
+L35250 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ All right. Send down to the vaults and have our reserve cash sent up here right away.
+L35249 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ They've been coming in steady all morning. I have called for some extra police.
+L35247 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ What are you talking about?
+L35246 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ The lobby's half filled now.
+L35026 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Yes, sir.
+L35025 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ How about his nights? He's too busy running around. Tell him to keep tomorrow night open, come in and sign this thing, or I'll call this whole deal off.
+L35024 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ He says he can't get away in the daytime.
+L35023 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ That's just exactly what he has been doing. This deal should have been closed weeks ago. Tell him to keep tomorrow open . . .
+L35022 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ I'm afraid he's been stalling.
+L35021 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Good. I'll take this along with me. Tell Clyde I'll see him tomorrow. I'm sick and tired of the delay.
+L35020 +++$+++ u304 +++$+++ m18 +++$+++ SAMPSON +++$+++ Here's the data on the Clyde deal.
+L35019 +++$+++ u288 +++$+++ m18 +++$+++ DICKSON +++$+++ Well, Sampson, what is it?
+L35395 +++$+++ u291 +++$+++ m18 +++$+++ GUARD +++$+++ Please, lady. Please be quiet. Everything will be all right.  Open up here, folks. All right, folks, please!
+L35394 +++$+++ u296 +++$+++ m18 +++$+++ LADY +++$+++ But you said it would be safe! It's his life insurance money. Oh, please, I'll go to the Old Ladies' Home if you don't do something, please!
+L35393 +++$+++ u291 +++$+++ m18 +++$+++ GUARD +++$+++ Quiet down, please! Take it easy, folks. Everything will be all right.
+L34809 +++$+++ u296 +++$+++ m18 +++$+++ LADY +++$+++ It's his life insurance money, you know.
+L34808 +++$+++ u291 +++$+++ m18 +++$+++ GUARD +++$+++ Absolutely.
+L34807 +++$+++ u296 +++$+++ m18 +++$+++ LADY +++$+++ Is it safe?
+L34806 +++$+++ u291 +++$+++ m18 +++$+++ GUARD +++$+++ Yes, ma'am, you can deposit your money here.
+L34877 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ All right.
+L34876 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Oh, well. I guess the only other thing for me to do is to go out and buy myself a few sticks of dynamite. When he comes out, you tell him I'll be back. He hasn't gotten rid of me!
+L34875 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Hardly.
+L34874 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Well, take my word for it, and don't try it. It's useless!  If it were some other woman, I could handle her, but after all, you can't scratch a bank's eyes out now, can you?
+L34873 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ No.
+L34872 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Helen, did you ever try competing with a bank?
+L34871 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ I'm afraid so.
+L34870 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Board meeting. Oh, that means hours, I suppose.
+L34869 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ He's at a board meeting.
+L34868 +++$+++ u299 +++$+++ m18 +++$+++ MRS. DICKSON +++$+++ Is that busy husband of mine busy?
+L34867 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ How-do-you-do, Mrs. Dickson.
+L35523 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Matt, look! There's Mr. Jones!
+L35522 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ The big guys have got the screws on him. You've got to come through for him, Mr. Conway. He came through for you a hundred times. If his friends don't help him, who is going to help him?
+L35521 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Mr. Williams . . .
+L35520 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Dickson's in a jam I tell you. The run's getting worse.
+L35507 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yeah.  I got an idea. Come on, let's get to a telephone.
+L35506 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Did you talk to him?
+L35493 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Sure, they'd turn him down. He ought to know that. I'm going in there and talk to him.
+L35492 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes. He called some of the biggest people in town.
+L35491 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ They must have turned him down.
+L35490 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Something's happened. He isn't trying anymore.
+L35489 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ What's he doing, honey? Is he getting any help?
+L35369 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Don't cry, honey. Everything's gonna be all right.
+L35368 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Oh, Matt . . .
+L35042 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ All right, dear.
+L35041 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Shh . . . !  I'll wait for you upstairs.
+L35040 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Okay, honey - but just the same I'd like to take a crack at that—
+L35039 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Now you've got me worried, dear.  Promise me you won't butt in.
+L35038 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Can you imagine that guy? He was kissing her.
+L35037 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Oh now, don't be silly.
+L35036 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Who? Cluett? No, not yet. But I'd like to take a crack at that stiff- necked, horse dollar.[6]
+L35035 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Say Matt, you haven't done anything about what you saw today, have you?
+L35034 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Oh, Charlie again.
+L35033 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ What's keeping you?
+L34981 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yes, right in his office, the rat. I'd like to take a crack at that guy.
+L34980 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ In Cluett's office?
+L34979 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ I tell you, I saw them!
+L34978 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Oh Matt, you must be mistaken.
+L34977 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Well, he was making love to her.
+L34976 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Well . . . ?
+L34975 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Come here.  You know, a few minutes ago I was in Cluett's office and Mrs. Dickson was there.
+L34974 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ What's the matter, Matt? Gee, I thought you'd be thrilled to death.
+L34973 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yeah.
+L34972 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ What happened? What did he say? Did you get the job?
+L34955 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yeah, swell.
+L34954 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Say, I just heard the merger isn't going thru. Isn't that grand?
+L34704 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Oh, Matt.
+L34703 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ All right, I'm lying. Don't forget you called me a liar.
+L34702 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes.
+L34701 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Oh, you think I'm lying?
+L34700 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ No.
+L34699 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ A friend of mine - yeah, really - his mother was terribly sick and she was dying, would you believe it?
+L34698 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes.
+L34697 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Oh, ten dollars—
+L34696 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ The ten dollars.
+L34695 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ With what?
+L34694 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ What did you do with it?
+L34651 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Oh, is that so?
+L34650 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Hey, look out, somebody's likely to see us!
+L34649 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Come here, honey!
+L34648 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Why?
+L34647 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Matt, come here!
+L34646 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Hello, Helen!
+L35385 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Yes, sir.
+L35384 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Are you sure?
+L35383 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ He came to see Mr. Cluett.
+L35382 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ He was here?
+L35381 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ He was in the bank yesterday.
+L35380 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Yes, why?
+L35379 +++$+++ u292 +++$+++ m18 +++$+++ HELEN +++$+++ Did you say Dude Finlay?
+L35376 +++$+++ u298 +++$+++ m18 +++$+++ MIKE +++$+++ Yes, sir.
+L35375 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Dude Finlay?
+L35374 +++$+++ u298 +++$+++ m18 +++$+++ MIKE +++$+++ He left here about an hour ago and went down to Dude Finlay's joint.
+L35373 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Never mind all that. What did you find out?
+L35372 +++$+++ u298 +++$+++ m18 +++$+++ MIKE +++$+++ I've been trailing the cashier like you told me. You're right about that guy, chief. There's something screwy somewhere.
+L35371 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What did you find out, Mike?
+L35294 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ That's all, Mrs. Halligan. Thanks.
+L35293 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ Listen here, young man - nobody ever called me a liar yet and got away with it—
+L35290 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ There you are!
+L35289 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ No - because me clock struck four, and when it strikes four, it's one.
+L35288 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Yes, I know. Cause the Dooley sisters weren't in yet.
+L35287 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ No. It wasn't earlier because...
+L35286 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ It couldn't have been earlier?
+L35285 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ Yes, I guess it was one, 'cause...
+L35282 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Was it twelve o'clock?
+L35281 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ That's just what I'm trying to tell you, sir. It was a half hour after the Dooley sisters . . .
+L35280 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ I don't care about the Dooley sisters - what time did he get in?
+L35279 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ Now, let me see - a half hour after the Dooley sisters - and the Dooley sisters never get home until after—
+L35278 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What time did Matt Brown get in?
+L35277 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ Huh?
+L35276 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What time was it?
+L35275 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ It was late, I know. The Dooley sisters was already in. They work at a show, you know.
+L35274 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What time was it, Mrs. Halligan?
+L35273 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ —for the rheumatism, you know.
+L35269 +++$+++ u300 +++$+++ m18 +++$+++ MRS. HALLIGAN +++$+++ Sure I do. He has the best room in me house. The one with the fancy wallpaper.
+L35268 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Do you know this young man, Mrs. Halligan?
+L35301 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Then where were you?
+L35300 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ But I wasn't here, Mr. Dickson. Honest I wasn't . . .
+L35266 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yes.
+L35265 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Eleven o'clock, eh? Are you sure it was that?
+L35264 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Well, about - uh - eleven o'clock.
+L35263 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ What time did you get in?
+L35262 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Yes.
+L35261 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ So you were home last night?
+L35165 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ I don't know.
+L35164 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Then who changed it?
+L35142 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ You used to carry a gun, didn't you?
+L35141 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ I didn't do it! I haven't got a gun!
+L35140 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ Sit down! When the watchman surprised you, you shot him - what'd you do with the gun?
+L35139 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ wasn't anywhere near this place—
+L35138 +++$+++ u294 +++$+++ m18 +++$+++ INSPECTOR +++$+++ You turned off the burglar alarm, you set the time clock, came back at twelve and emptied the boxes, didn't you?
+L35527 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ They're starting to come in already. Yeah. Yeah. Well, listen. Don't waste any time. Get all the money you can lay your hands on, and bring it down here right away. Step on it.
+L35526 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ Certainly, Mr. Jones! Certainly! Charlie!
+L35031 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ Charlie's upstairs as sore as a pup. He's out fourteen cents, and he can't find it.
+L35030 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Where's Charlie?
+L35029 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ I guess so.
+L35028 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Everybody in?
+L34645 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ Bought himself a pocketbook!
+L34644 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ Yeah, what did he do with his first one?
+L34643 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ That mug reminds me of a guy with his second dollar.
+L34620 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ You've got enough?
+L34619 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ I'm okay, Matt.
+L34618 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ How are you fixed?
+L34617 +++$+++ u305 +++$+++ m18 +++$+++ TELLER +++$+++ Okay, Matt.
+L34616 +++$+++ u297 +++$+++ m18 +++$+++ MATT +++$+++ You're carrying too much money on you, Hank. You better turn some in tonight.
+L36304 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Now you tell us.
+L36303 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ Sometimes a wound will kill.
+L36302 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ This is healing?
+L35843 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Jim Younger, I told you--
+L35842 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ I couldn't lose him.
+L35692 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Tom, I'm this close to coming with you...
+L35691 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ I think I may just go on to the reservation.
+L35643 +++$+++ u309 +++$+++ m19 +++$+++ COMANCHE TOM +++$+++ I said like a Comanche, not this Comanche.
+L35642 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ You can ride like that?
+L36521 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ It's tougher than it looks.
+L36520 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ He's not bad at it.
+L36519 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Things changed when you quit the gang. For example, I'm now the one who says "Let's ride."
+L36427 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ You're just upset about Jesse. We all are.
+L36426 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ I'm sorry, Cole.
+L36424 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Swear on Jimmy's grave.
+L36423 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ I swear --
+L36422 +++$+++ u306 +++$+++ m19 +++$+++ BOB +++$+++ Swear.
+L36421 +++$+++ u308 +++$+++ m19 +++$+++ COLE +++$+++ Bob. I didn't...

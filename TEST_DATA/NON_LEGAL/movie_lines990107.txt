@@ -1,0 +1,200 @@
+L370204 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ If I find out you're behind this, I'll kill you.
+L370192 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ FORGET IT.  It's in terrible taste! I want nothing to do with this.
+L370191 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ Hey, that's good!  We can make that play.  And we'll really drag it out.  You get better, you get worse... you die...
+L370180 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ I used to think you were original.
+L370179 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ Why...?  Andy, why...?
+L370097 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ Wow, you can't BUY this kind of publicity!
+L370096 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ Yeah, he's just laying low, waitin' for his comeback.  God, listen to this!  "It was morally wrong to take advantage of such an unstable individual..."
+L369912 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ But what's the POINT?  How will any of this make you the biggest star in the world?
+L369911 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ Sure!  But WE think it's kickass! Now I get to be Tony.  I get to dump the glass of water on someone else's head!
+L369910 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ So you've got this big elaborate joke, which is really only funny to two people in the universe.  You... and you.
+L369810 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ Bob, Andy needs to RELAX.  See if you can get him away from all this. Take him to Hawaii, or Bali... Find something special.  Something nice...
+L369809 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ Isn't Tony Clifton going on Taxi soon?  Maybe that'll chill him out.
+L369808 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ I'm worried about Andy.  His stress level is affecting his work.
+L369708 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ Don't believe everything you hear.
+L369707 +++$+++ u6502 +++$+++ m432 +++$+++ GEORGE +++$+++ So your name's not Gorsky.
+L369706 +++$+++ u6515 +++$+++ m432 +++$+++ ZMUDA +++$+++ That was a really hot house!
+L370067 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ Why isn't he MOVING??
+L370066 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ JESUS CHRIST!!!!!
+L370054 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ They're gonna lynch him!
+L370053 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ Why is he saying these things?!
+L370049 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ Who knows?!  That kid is totally meshuga.
+L370048 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ What's in Memphis?
+L370017 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ He said he's coming back!
+L370016 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ Hmph!  They sure didn't give Andy much to do.
+L370011 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ There!
+L370010 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ Where?
+L370009 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ I saw Michael!
+L369542 +++$+++ u6504 +++$+++ m432 +++$+++ JANICE +++$+++ Of course he's in his room.  All his "friends" are in there.
+L369541 +++$+++ u6512 +++$+++ m432 +++$+++ STANLEY +++$+++ Is he in his room?
+L369698 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ See, that's EXACTLY what I'm talkin' about!  Here!  I'LL give you a little humor!
+L369697 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ A -- a tourist.
+L369696 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ SHUT UP!  I hate them Polish jokes!
+L369695 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ It's my name.
+L369694 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ Are you tryin' to do some of that Polack humor?  Well if that's so, you can just get the hell out of this restaurant!
+L369693 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ Yes.
+L369692 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ "Gorsky"?  What is that, Polish?
+L369691 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ Bob Gorsky.
+L369690 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ "Bob"?  BOB!  Bob bob bob.  Bob what?
+L369689 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ Bob.
+L369688 +++$+++ u6513 +++$+++ m432 +++$+++ TONY CLIFTON +++$+++ What's your name?
+L369687 +++$+++ u6511 +++$+++ m432 +++$+++ SAD SACK +++$+++ Sure...
+L373507 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Know what?
+L373506 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ You don't know.
+L373444 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ We have no choice but to continue as planned.  Deploy the sentinels. Immediately.
+L373443 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ They are dead.  In either case --
+L372816 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ It's already begun.
+L372815 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ We'll need a search running.
+L372814 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ Their next target.  The name is Neo.
+L372813 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Expect it.  Did you get anything from the room?
+L372812 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ He'll be contacting us again.
+L372811 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Does that surprise you?  It was inevitable.
+L372810 +++$+++ u6516 +++$+++ m433 +++$+++ AGENT JONES +++$+++ Then the informant is real.
+L373358 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ You all look the same to me.
+L373357 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Smith.  I am Agent Smith.
+L373356 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ And you are?
+L373355 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ The great Morpheus.  We meet at last.
+L373350 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ They won't make it.
+L373349 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Hurry!
+L373348 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ The sewers.  Of course.
+L372797 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ No, Lieutenant, your men are already dead.
+L372796 +++$+++ u6521 +++$+++ m433 +++$+++ LIEUTENANT +++$+++ I sent two units.  They're bringing her down now.
+L372794 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ The orders were for your protection.
+L372793 +++$+++ u6521 +++$+++ m433 +++$+++ LIEUTENANT +++$+++ I'm just doing my job.  You gimme that Juris-my-dick-tion and you can cram it up your ass.
+L372792 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Lieutenant, you were given specific orders --
+L372791 +++$+++ u6521 +++$+++ m433 +++$+++ LIEUTENANT +++$+++ Oh shit.
+L372790 +++$+++ u6517 +++$+++ m433 +++$+++ AGENT SMITH +++$+++ Lieutenant?
+L373397 +++$+++ u6525 +++$+++ m433 +++$+++ SWITCH +++$+++ Oh, God.
+L373396 +++$+++ u6518 +++$+++ m433 +++$+++ APOC +++$+++ What?!
+L373310 +++$+++ u6518 +++$+++ m433 +++$+++ APOC +++$+++ Should Tank I.D. it?
+L373309 +++$+++ u6525 +++$+++ m433 +++$+++ SWITCH +++$+++ That's the third white van I've seen.
+L373308 +++$+++ u6518 +++$+++ m433 +++$+++ APOC +++$+++ What?
+L373307 +++$+++ u6525 +++$+++ m433 +++$+++ SWITCH +++$+++ Weird.
+L373109 +++$+++ u6518 +++$+++ m433 +++$+++ APOC +++$+++ No way.  Not possible.
+L373108 +++$+++ u6525 +++$+++ m433 +++$+++ SWITCH +++$+++ He's gonna make it.
+L372833 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ All the time.  It's called mescaline and it is the only way to fly.
+L372832 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ You ever have the feeling that you're not sure if you're awake or still dreaming?
+L372831 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ I don't know... My computer...
+L372830 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ Something wrong, man?  You look a little whiter than usual.
+L372829 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Right...
+L372828 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ I know, I know.  This never happened.  You don't exist.
+L372827 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ If you get caught using that --
+L372826 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ Hallelujah!  You are my savior, man! My own personal Jesus Christ!
+L372824 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ Two grand.
+L372823 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ You got the money?
+L372822 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ I know.  It's her fault.
+L372821 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ You're two hours late.
+L372820 +++$+++ u6519 +++$+++ m433 +++$+++ CHOI +++$+++ It's Choi.
+L372819 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Who is it?
+L373413 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ No!
+L373412 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ ... yes.
+L373408 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Don't hate me, Trinity.  I'm just the messenger.  And right now I'm going to prove it to you.
+L373407 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Goddamn you, Cypher!
+L373405 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ That's what you think.  They've promised to back me, Trinity. They're going to reinsert my body. I'll go back to sleep and when I wake up, I'll be fat and rich and I won't remember a goddamn thing. It's the American dream.
+L373404 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ But you're out, Cypher.  You can't go back.
+L373402 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Oh, I disagree, Trinity.  I disagree.  I think the Matrix is more real than this world.  I mean, all I do is pull a plug here.  But there, you watch a man die.
+L373401 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ The Matrix isn't real!
+L373400 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Yes.  You see, the truth is, Trinity, that we humans have a place in the future.  But it's not here. It's in the Matrix.
+L373399 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ My God.  Morpheus.  You gave them Morpheus.
+L373398 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ I'm tired, Trinity.  I'm tired of this war, I'm tired of fighting. I'm tired of this ship, of being cold, of eating the same fucking goop every day.  But most of all, I'm tired of this jagoff and all of his bullshit.
+L373395 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ You killed them.
+L373394 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ You are a beautiful woman.  Too bad things had to work out like this.
+L373392 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ An accident?!
+L373391 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ He had an accident.
+L373390 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Cypher?  Where's Tank?
+L373389 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Hello, Trinity.
+L373128 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Morpheus will take him when he's ready.
+L373127 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ I just keep wondering if Morpheus is so sure, why doesn't he take him to the Oracle?  She would know.
+L373126 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Don't tell me you're a believer now?
+L373125 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ There's something about him, isn't there?
+L372786 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Yeah, 'course I'm sure.
+L372785 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Are you sure this line is clean?
+L372784 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Hear what?
+L372783 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Did you hear that?
+L372782 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ I intend to, believe me.  Someone has to.
+L372781 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ If you have something to say, I suggest you say it to Morpheus.
+L372780 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ You don't, do you?
+L372779 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ I... it doesn't matter what I believe.
+L372778 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Do you?
+L372777 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Morpheus believes he is the One.
+L372776 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ We're going to kill him.  Do you understand that?  He's going to die just like the others.
+L372775 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Don't be ridiculous.
+L372773 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ I know but I felt like taking a shift.
+L372772 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ You weren't supposed to relieve me.
+L373187 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Any time.
+L373186 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Thanks... for the drink.
+L373184 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Honestly.  Morpheus.  He got them all amped up believing in bullshit. I watched each of them take on an agent and I watched each of them die.  Little piece of advice:  you see an agent, you do what we do; run.  Run your ass off.
+L373183 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ How?
+L373182 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Dead.  All dead.
+L373181 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ What happened to them?
+L373180 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Five.  Since I've been here.
+L373179 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ How many were there?
+L373178 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ You bet your ass.  It keeps him going.  Maybe it keeps all of us going.
+L373177 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Really?
+L373176 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ I'm going to let you in on a little secret here.  Now don't tell him I told you this, but this ain't the first time Morpheus thought he found the One.
+L373175 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Gee-zus!  What a mindfuck.  You're here to save the world.  You gotta be shitting me.  What do you say to something like that?
+L373174 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ ... Yeah.
+L373173 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Why you're here?
+L373168 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Have to.  The image translators sort of work for the construct programs but there's way too much information to decode the Matrix.  You get used to it, though.  Your brain does the translating.  I don't even see the code.  All I see is blonde, brunette, and redhead.  You want a drink?
+L373167 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Do you always look at it encoded?
+L373166 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ The Matrix?  Yeah.
+L373165 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Is that...?
+L373164 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Midnight watch.
+L373163 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ What are you doing?
+L373162 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ No, it's all right.
+L373161 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Sorry.
+L373160 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Whoa!  Shit, Neo, you scared the Bejeezus out of me.
+L373057 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ He's going to pop!
+L373056 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ I don't believe it!  I don't believe it!
+L373370 +++$+++ u6526 +++$+++ m433 +++$+++ TANK +++$+++ Nearest exit is Franklin and Erie. An old appliance store.
+L373369 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ Just get me outta here.
+L373368 +++$+++ u6526 +++$+++ m433 +++$+++ TANK +++$+++ I got you.
+L373367 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ There was an accident.  A fucking car accident.  All of a sudden. Boom.  Jesus, someone's going to make a believer out of me.
+L373366 +++$+++ u6526 +++$+++ m433 +++$+++ TANK +++$+++ Cypher?
+L373365 +++$+++ u6520 +++$+++ m433 +++$+++ CYPHER +++$+++ I need an exit!  Fast!
+L373364 +++$+++ u6526 +++$+++ m433 +++$+++ TANK +++$+++ Operator.
+L373589 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ I know, Trinity.  Don't worry.  He's going to make it.
+L373588 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ You can't use that until Neo is out!
+L373585 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Five minutes.  Maybe six.
+L373584 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ How long?
+L373569 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ He's beginning to believe.
+L373568 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ What is he doing?
+L373333 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ We have no choice.
+L373332 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ They'll be able to track it.
+L373331 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Give me your phone.
+L373007 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ What if he isn't the One, Morpheus? How can you be so sure?
+L373006 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ We found him, Trinity.  We finally found him.
+L373000 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Shit!  Apoc?
+L372999 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ I got a fibrillation!
+L372807 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Go.
+L372806 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ All right --
+L372805 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ You have to focus.  There is a phone.  Wells and Lake.  You can make it.
+L372804 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Goddamnit!
+L372803 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Yes.
+L372802 +++$+++ u6527 +++$+++ m433 +++$+++ TRINITY +++$+++ Are they any agent?
+L372801 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ I know.  They cut the hardline. This line is not a viable exit.
+L373544 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ She told you exactly what you needed to hear.  That's all.  Sooner or later, Neo, you're going to realize just like I did the difference between knowing the path and walking the path.
+L373543 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Morpheus, the Oracle... she told me --
+L373347 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Trinity!  Go!  Get to the basement. Find the catch basin!
+L373346 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ No.  No!  Morpheus!  Don't!
+L373250 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ I know.  That is why it is so important for you to go.  Please, Neo, I'm asking you to find whatever respect you may have for me and trust me.
+L373249 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Morpheus, I don't know --
+L373248 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Listen to me, Neo.  I know why you're afraid to go through that door.  You can't get free of thinking that I could be wrong.  You must believe me.  There is a greatness inside of you, Neo.  A greatness that is going to lift you to unimaginable heights and that in time will change the world.
+L373245 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ No.  I did not.  I have never told anyone this, Neo.  After I saw the Oracle I thought... no, I misunderstood what she told me.  I believed that it was all about me. That I would find the One, not that he would find me.
+L373244 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Did you believe in them too?
+L373243 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Yeah?  What about the other five guys?  The five before me?  What about them?
+L373242 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Yes I do.
+L373241 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ And you still believe I'm the One?
+L373240 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Faith is beyond the reach of whys and why nots.  These things are not a matter of cause and effect, Neo. I do not believe things with my mind.  I believe them with my heart. In my gut.
+L373239 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Why?  So I can hear some old lady tell me, what?  That I'm this guy that everybody's been waiting for? The one that's supposed to save the world?  Come on.  How do I respond to that?  I can't.  It's ridiculous. I mean who am I?  I'm nobody, I'm just a guy.  What did I do, Morpheus?  Why me?
+L373238 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ That's why we're here.
+L373237 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ What do I believe it?  Are you kidding me?  What do you think?  I'm still trying to deal with the fact that everything I believed was real, wasn't.  The whole world, my entire life was a lie.  I don't know anything anymore, Morpheus.
+L373236 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ What do you believe in?
+L373235 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ I told you I don't believe in this stuff.  No matter what she says I'm not going to believe it, so what's the point?
+L373234 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Why?
+L373233 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ Morpheus, I don't think this is a good idea.
+L373231 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ That I would find the One.
+L373230 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ What did she tell you?
+L373229 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Yes.
+L373228 +++$+++ u6523 +++$+++ m433 +++$+++ NEO +++$+++ She helped you?
+L373227 +++$+++ u6522 +++$+++ m433 +++$+++ MORPHEUS +++$+++ Don't think of it in terms of right and wrong.  She is a guide, Neo. She can help you find the path.

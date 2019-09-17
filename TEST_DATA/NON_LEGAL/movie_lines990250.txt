@@ -1,0 +1,200 @@
+L477643 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Yes.
+L477642 +++$+++ u7357 +++$+++ m497 +++$+++ SANG'S VOICE +++$+++ Ambassador Han.
+L477641 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Hello.
+L477891 +++$+++ u7355 +++$+++ m497 +++$+++ MAN'S VOICE +++$+++ Pack it into black garbage bags. Throw the bags into a garbage dump in the alley behind the Fang Shan Restaurant in China Town.  You have twenty-nine minutes left.
+L477890 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ I do.
+L477889 +++$+++ u7355 +++$+++ m497 +++$+++ MAN'S VOICE +++$+++ You have what I asked for?
+L477888 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Yes.
+L477536 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Griffin?  Where are you.
+L477535 +++$+++ u7355 +++$+++ m497 +++$+++ MAN'S VOICE +++$+++ It's Griffin.
+L477534 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Yes.
+L477533 +++$+++ u7355 +++$+++ m497 +++$+++ MAN'S VOICE +++$+++ Han?
+L477532 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Hello.
+L477823 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ Don't worry, he's with Carter.
+L477822 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ And Mr. Lee?  Where is he?
+L477821 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ Yes sir, me too. The State Department has authorized release of the funds. We'll have to make the first drop at 7.  As soon as they pick up the money, we've got Œem.
+L477820 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ I am so sorry about your men.
+L477634 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ Carter, can I have a moment?
+L477633 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ Come on. Let's get you some dry clothes.
+L477433 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ He is already on the plane.  I hope you will treat him with the same respect you have shown me.
+L477432 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ I understand, sir. But you are an honored guest of the United States...
+L477431 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ I am not an American, Mr. Russ.  My daughter is not an American.
+L477430 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ As I said, sir, we've got all the people we need.
+L477429 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ He is very good.
+L477428 +++$+++ u7356 +++$+++ m497 +++$+++ RUSS +++$+++ Ambassador, let me assure you that the FBI has made this a top priority. We have plenty of manpower on the case.
+L477427 +++$+++ u7351 +++$+++ m497 +++$+++ HAN +++$+++ I would like one of my people to help.
+L477378 +++$+++ u7354 +++$+++ m497 +++$+++ LEE +++$+++ Soon Young, don't worry.  You will have many friends very soon.  You will see.  America is a very friendly place.
+L477377 +++$+++ u7358 +++$+++ m497 +++$+++ SOON YOUNG +++$+++ I will not have friends in America.
+L477375 +++$+++ u7358 +++$+++ m497 +++$+++ SOON YOUNG +++$+++ After I left?
+L477374 +++$+++ u7354 +++$+++ m497 +++$+++ LEE +++$+++ I was trying to find the right time.
+L477373 +++$+++ u7358 +++$+++ m497 +++$+++ SOON YOUNG +++$+++ I don't believe you.  My father was explaining to Mr. Griffin.  That is how I found out.
+L477372 +++$+++ u7354 +++$+++ m497 +++$+++ LEE +++$+++ I still have work to do here.
+L477371 +++$+++ u7358 +++$+++ m497 +++$+++ SOON YOUNG +++$+++ When were you going to tell me you were not going with us?
+L480093 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Let me take you back inside, okay?
+L480092 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Yes.
+L479933 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ I lead Maggie through a visualization exercise.  All the sports shrinks use this head stuff.  Visualize the end zone, if you catch my drift.
+L479932 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Right.
+L479729 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ I've got news for you.  No amount of sugar and water is going to turn like Graham into something you want to take on a picnic.
+L479728 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ So if you're not running and Ike Graham is there to see it, then any article he writes has got to have a happy ending, right?  All we're doing is turning lemon into lemonade.
+L479727 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ I'm not running.
+L479726 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Let him come to the wedding.  You're not running, right?  Say it. "I'm not..."
+L479725 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ You don't understand this guy.
+L479724 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Sure I do.  But the bet defense is a good offense, right?  You're not going to let your opponent throw you off your game.
+L479723 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ At the wedding?  You invite him?  Bob, don't you realize he's writing another article about me?
+L479719 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ I'm just bragging about how great you are.  I'm the luckiest man alive.
+L479718 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Bob -- are you making friends with this man?
+L479716 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Ike just came by to check out the team.
+L479715 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ What is he up to now?
+L480192 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Maintain eye contact.
+L480191 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Got any last minute advice?
+L480190 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ I didn't want to find out I wasn't for her in the fourth quarter.
+L480189 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Really?
+L480187 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Thank you.
+L480186 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ You look awful.
+L480126 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ How about -- "I hope you'll be very happy together"?
+L480125 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ What do you expect me to say to this?
+L480116 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ Hold it!  Hold it!  I think we're taking this too fast.
+L480115 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ At this pace, it could be an evening wedding.
+L479722 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ You bet ya, Coach.
+L479721 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ See you at the wedding.
+L479675 +++$+++ u7360 +++$+++ m498 +++$+++ BOB +++$+++ I'm the town's unofficial fitness trainer.  Big advocate of the mind and body combining for success.  You could say or you can quote me, I'm a glass half full king of guy.
+L479674 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Ahh.
+L479762 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Of course.
+L479761 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ Could your confess to Father Patrick from now on?
+L479760 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Of course.
+L479759 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ I'm happy here, where I'm supposed to be.  But if you ever become a Catholic, may I ask you a favor, Maggie?
+L479758 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ I'm really sorry that I hurt you, Brian.
+L479756 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Weird.  Like after all those years you would remem--
+L479755 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ He wanted to know how you used to like your eggs.
+L479753 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ God bless you, Maggie.
+L479752 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ God... Of course.  I'm sorry -- I mean, I'm...  Brian -- I've got to go.  The man's a lunatic, but I know exactly where he's going next.
+L479751 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ It happens to be how I feel.
+L479750 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Good one!  Thanks.
+L479749 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ How could I be angry at you when clearly what has happened to me is as God intended?
+L479748 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ And what did you say?
+L479747 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ Only respectful things.  What did we have in common back then... What kind of music did you like... Did you ruin my life when you left me standing at the altar...
+L479743 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ What did he ask?
+L479742 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ Yes, yes, I'm sure I only did you good, Maggie.
+L479741 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ What?  You talked to him!  Did you tell him we dated before you were a priest?
+L479740 +++$+++ u7361 +++$+++ m498 +++$+++ BRIAN +++$+++ Actually, he only asked me one ridiculous question.  The rest weren't so bad.
+L480171 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ He's here!... He's here!
+L480170 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ I'll get the dress.
+L480168 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ We'll rub.
+L480167 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ It's hurting.
+L480166 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ We do it to our dog.
+L480163 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Eight is good... "V" could be Victory.
+L480162 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ And in a "V".
+L479579 +++$+++ u7367 +++$+++ m498 +++$+++ MAGGIE +++$+++ Okay -- have a seat... gently, carefully.
+L479578 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ That's it.  Back to obedience school.
+L480165 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ Yes, rubbing your ears is very soothing. Cory does that to me when I hyperventilate.
+L480164 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ Rub your ears.
+L480150 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ His hair... any color.
+L480149 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ I love his eyes.  I just believe they're listening to you.
+L480112 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ "Never say die."
+L480111 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ "Nothing but net."
+L480110 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ "Make the shot."
+L480109 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ "Sink the putt."
+L480108 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ Don't be nervous, Maggie.  Let us visualize.  Remember what Bob said? "Be the ball."
+L480107 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ Bob's in a hurry.
+L480096 +++$+++ u7370 +++$+++ m498 +++$+++ PEGGY +++$+++ Bob is making her visualize the ceremony.
+L480095 +++$+++ u7362 +++$+++ m498 +++$+++ CINDY +++$+++ Tell me, why does Maggie need another wedding rehearsal and two days before the wedding?  She's already done this.
+L480226 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Where do you think she's going?
+L480225 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Maggie!
+L480030 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ I'm sorry, too.  Wow.  That only took us between years to say.
+L480029 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Well -- I'm sorry, I'm really sorry, Ellie.
+L480028 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ No.  No, you didn't.
+L480027 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Is that what I did to you?  Is that what happened?  Did I just not see you?
+L480024 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ But one of those guys -- not one of them -- knew her at all.  Each one was convinced that she was perfect for them, but they didn't see her.  And she never showed up so they couldn't see her. It's a very symbolic thing happening. She becomes what she thinks they wanted to be.
+L480023 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Fisher, let him talk.
+L479554 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ I'm sorry, Ike.  This is permanent.
+L479553 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ See?  You want custody of my job? ... Why not just consider my wrist slapped and call me when you feel I've served my time?
+L479552 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ I already made an appointment for later today.
+L479551 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Lawyers.  I don't know, Ellie -- Firing me is going to be very tough on you.  It's going to be hard to get over.  There will be therapy bills for you.
+L479549 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I merely write the stuff.  You're the one that serves it up.
+L479548 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ No, that's what makes you unemployed.
+L479545 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Someone reliable, I'm sure.  A booze- hound in a bar?
+L479544 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I didn't cook up a story.  I had a source.
+L479543 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ That's not nothing to do with it.  You cooked this story up and you know it.
+L479542 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Lesson number two.  Never work for your former spouse.
+L479541 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Journalism lesson number one.  If you fabricate your facts, you get fired.
+L479540 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ What?
+L479539 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ -- It's for you, Ike.
+L479536 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ So?  I never returned your calls, even when we were married.  And what's Fisher doing here anyway?
+L479535 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ I left four messages.  You don't return my calls.
+L479534 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Fully.  I like her.  She has wit.
+L480224 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Poor Ike.
+L480223 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Look, he's in pretty good shape.
+L480222 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Look, he's running after her.
+L480020 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ Or does she pick "NGB'S" -- "Nice Guys, But..."  Nice guys, but I'm cheap. Nice guys, but he lives with his mom... Nice guys, but he just out of prison.
+L480019 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Or a vegetarian?
+L480018 +++$+++ u7363 +++$+++ m498 +++$+++ ELLIE +++$+++ ... Just call me when you have it.  Ike, how is the story coming?  Is she a man-eater?
+L480017 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Overpriced nice apartment and Chinese takeout.  That's New York living.
+L480196 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ I just found out I'm best man!  I'm lucky I have a suit... What's wrong?
+L480195 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Your job is... the ring.  Do you have the ring?!
+L480194 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ I have no idea what I'm doing.
+L480184 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Go talk to the pastor and he'll tell you what to do.  And someone will tell me what to do.
+L480183 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Well, I'm good, I don't know if I'm best.
+L480182 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Then you'll be my best man.
+L480181 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Of course we are.  Of course.
+L480022 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Whoa, Ike.  Getting a complex, buddy?
+L480021 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ No... They're interesting guys.  Each one of these guys has something going for him.  I mean, one's been up Everest. Another's become a priest.  One's a pretty good guitar player.  And this guy today tried to end world hunger, if you can believe that...
+L479993 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Order out like a Philistine, when you got the Galloping Gourmet here?...
+L479992 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Okay, we'll order out.
+L479991 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Then come for dinner.
+L479990 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Yeah.
+L479989 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ You're coming here?
+L479988 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Look -- I'll be in there later today. I'll come by and tell you all about it.
+L479987 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I don't know.
+L479986 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ No, I'm paying for the dress.  Do you think she's still gonna run?
+L479985 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ This is about her negative attention, not mine.  Did you get the reimbursement for the dress yet?
+L479984 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Yes, well, my theory was that she may be running because she gets attention... Negative attention is attention. Like when women whack you on the street because of your column, that's negative attention.
+L479575 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Oh yeah!  I happen to know from reliable sources that Nietzche got expenses and a rental car.
+L479574 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Don't say "spec" like it's a dirty word. Nobody ever paid Shakespeare to write a play!  Plato never got a book advance...
+L479572 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ But I'll get my normal fee, right?
+L479571 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Justice, yes.  Paid, I don't know. They like the idea, but my hands are tied with budget restraints.
+L479570 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ "Paid vindication"  That's what I call justice.
+L479569 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Then you've got it.  If you leave tomorrow for the hinterlands, you'll have plenty of time before her next wedding trot.
+L479568 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Okay, you were right.  I hated my column, but I can do this assignment.
+L479567 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ If she runs, then it's a cover story. All true.  All accurate.
+L479566 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ This is good.  It is a good story, Fish.
+L479565 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ It wouldn't be a bad way to get you back into writing feature pieces again.
+L479564 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ The anatomy of the black widow spider of Maryland.
+L479563 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ All the gory details.
+L479562 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ The real story on Miss Carpenter.
+L479561 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Vindication.  How would you like to get some?  A chance to prove that, though your facts weren't entirely straight, your theory was correct.
+L479560 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ What are you trying to say to me, Fish?
+L479559 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Ike, I really liked the Runaway Bride piece, and since I do freelance stuff for G.Q., I'm in a different position now...
+L479547 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Don't knock drunk guys in bars.  Drunk guys in bars are good.  It means they're not driving.
+L479546 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ In vino veritas.
+L479538 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Since when does Ellie need moral supp--
+L479537 +++$+++ u7364 +++$+++ m498 +++$+++ FISHER +++$+++ Ellie asked me to come down to offer moral support.
+L480013 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Oh, please!
+L480012 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Unbelievable, she got to you.
+L480011 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ No.  I call it like I see it.  I'm a journalist.  I'm a truth teller.
+L480010 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ And you defending her?
+L480009 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I don't know.  I'm working on it.  I was on the wrong track.
+L480008 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Why do YOU think she ran?
+L480007 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I don't think that's why she ran.
+L480006 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Same as you said.  What did you call her?  A "man-eater", "a devouring death goddess."
+L480004 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Neuter a locust, feed the world.
+L480003 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Not bad.  I was traveling around studying the reproductive and migratory patterns of locusts when Maggie met me.
+L480002 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Guess you'd know about that.  You're an entomologist, right?  How's business?
+L480001 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Ah, can't stay away from her, can you? Like a moth to a flame.
+L480000 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Well, I'm writing another article on the cacophony.
+L479999 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ She's a cacophony of contradictions.
+L479998 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Thanks.
+L479997 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ And end up in the papers?  I've been humiliated enough already to last a lifetime, thank you.  I'm sorry she got you canned.
+L479996 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ You could have told me you were fiance number three.
+L479995 +++$+++ u7365 +++$+++ m498 +++$+++ GEORGE +++$+++ Splendid dissection of Maggie Carpenter, very professional job.
+L479994 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Get this man a Kamikaze.
+L480179 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ No, I'm not.
+L480178 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ It's okay.  There's no microphone. You're no fun.
+L479937 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ Tootaloo.
+L479936 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Well, I'm off.  A reporter's work is never done.  Mrs. Pressman, thank you.
+L479612 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ Oh, I will.
+L479611 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Good fact.  Well, you let me know.
+L479610 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ I'm not sure.  Mr. Schullian runs the newsstand, he's our local bookie, you know, he's giving eight to one odds she won't.  He says she's so famous now, maybe Vegas will give odds on her.  I'm going to wait to hear what the pros say.
+L479608 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ I know.  Tell me something.  Do you think she's going to make it all the way this time?
+L479607 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ It's her fourth time to the altar, you know.  Not seven like they said.
+L479606 +++$+++ u7366 +++$+++ m498 +++$+++ IKE +++$+++ Yes, Mrs. Pressman.
+L479605 +++$+++ u7368 +++$+++ m498 +++$+++ MRS. PRESSMAN +++$+++ Excuse me, sir.  I have an actual fact for you.

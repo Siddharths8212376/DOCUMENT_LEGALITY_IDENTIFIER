@@ -1,0 +1,200 @@
+L457395 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ Yes!
+L457394 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ Your father?
+L457376 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ What did it say?
+L457375 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ That called ... commanded ...
+L457374 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ That spoke to you?
+L457373 +++$+++ u7195 +++$+++ m484 +++$+++ LÉONE +++$+++ A voice ...
+L457372 +++$+++ u7198 +++$+++ m484 +++$+++ NURSE +++$+++ What were you dreaming about?
+L457332 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ No!  Good night!
+L457331 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ No?
+L457330 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ There's no child here, and no dogs either.
+L457329 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ But ... the dogs...
+L457328 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ There's no child here.
+L457327 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes.
+L457326 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ The child!
+L457325 +++$+++ u7197 +++$+++ m484 +++$+++ NIKOLAS +++$+++ Yes, the child ...
+L457324 +++$+++ u7196 +++$+++ m484 +++$+++ MARC +++$+++ Did you hear?
+L457434 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion is completed. While Marc himself is looking after the patient, the nurse leads Nikolas into an adjoining room, where she makes him sit down and prepares his bandage. The doctor stands bending over Léone.
+L457433 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Another fragment of the diary is shown [having to do with vampires].
+L457432 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion continues. Marc has positioned himself outside the circle of light from the lamp, so that he can see Nikolas in bright light, while he himself sits in the dark. Nikolas watches Léone's face anxiously and closely during her struggle with death. Life slowly seems to return to her, and her breathing becomes more peaceful. She opens her eyes and looks at the people round her, but she is much too enfeebled to speak, and closes her eyes again. Marc keeps a close watch on Nikolas, who grows paler and paler. His eyes swivel slowly from Nikolas to the patient and back to Nikolas again.
+L457431 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Joseph is reading the diary, which arouses his interest more and more. It is as if he finds a connection between what he reads and the fearful events that have taken place around him. An extract from the diary is shown.
+L457430 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ The blood transfusion is now in progress. The only words are curt orders like: 'Now! - Quickly! - That's enough! - Give it to me! - Sit still!' etc.
+L457429 +++$+++ u7199 +++$+++ m484 +++$+++ THE DRAWING-ROOM +++$+++ Joseph returns from the room where Gisèle is. He has evidently succeeded in calming her. He goes and sits in the chair where Nikolas sat. He rests his head in his hand. He sees the open diary and begins reading it.
+L457428 +++$+++ u7200 +++$+++ m484 +++$+++ THE SICK-ROOM +++$+++ By the time we return there, all the preparations for the blood transfusion are completed.
+L458287 +++$+++ u7212 +++$+++ m485 +++$+++ SPARROW +++$+++ It's Igor at the Wax Museum! You'll find your judge embalmed in wax! He's a statue of Voltaire, with all the other corpses! The whole place is a morgue -- do you hear? -- a morgue! 
+L458286 +++$+++ u7201 +++$+++ m485 +++$+++ CAPTAIN +++$+++ You lie!
+L458285 +++$+++ u7212 +++$+++ m485 +++$+++ SPARROW +++$+++ No -- the only thing I did for him was to keep track of the man named Worth that runs the place where you arrested me tonight.
+L458284 +++$+++ u7201 +++$+++ m485 +++$+++ CAPTAIN +++$+++ But you were in on it -- you worked for him.
+L458283 +++$+++ u7212 +++$+++ m485 +++$+++ SPARROW +++$+++ No -- I didn't. It was Igor at the waxworks.
+L458282 +++$+++ u7201 +++$+++ m485 +++$+++ CAPTAIN +++$+++ You killed him!  Come on with the rest of it. You killed him!
+L458010 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Well, thank goodness, that's settled.
+L458009 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I think so.
+L457999 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Yeah, but they leave you plenty.
+L457998 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ If you're going to be indiscreet, I wish you'd be a little more discreet about it. Rich men, like Winton, love you and leave you.
+L457997 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ No? Give me a chance, baby. Money is music in my ears, and when his old man kicks off there'll be a million dollar tune.
+L457996 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ You wouldn't get mixed up with that little rotter, would you?
+L457995 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I'm hungry. I'll eat the first child I see. And I've an appointment with young Winton at 8:30.
+L457994 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ What's the rush? There's no first act. They'll all be there and we don't have to appear at any particular time.
+L457993 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Ouch! Eat? You can do a solo if you don't step on it. I'm going to bow out on you.
+L457992 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Why didn't you eat last night?
+L457991 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I can't convince the inner woman that we can wait. She's howling for a bit of ground beef before we drop in on Santa Claus and the other dummies. I've only had a cup of coffee since last night.
+L457990 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ There's no hurry. It's early.
+L457924 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I'll have it for supper.  So long.
+L457923 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ But what about lunch?
+L457876 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Then marry Ralph ... you'll be the happiest couple in the world.
+L457875 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ You think money is the only requisite. It happens that the poor people are happier.
+L457874 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ He can look like a chimpanzee and act like an igorot but he must have dough -- plenty of dough.
+L457873 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ You would.
+L457872 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ All right, you raise the kids -- I'll raise the roof. I'd rather die with an athletic heart from shaking cocktails and bankers, than expire in a pan of dirty dish water.
+L457871 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I don't agree with you.
+L457870 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I've been in love so many times my heart is calloused ... but I've never hit one with dough. This love-in-an-attic isn't my idea of a way to spend a pleasant afternoon.
+L457869 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I don't think you could have a real affair. You couldn't care for anyone.
+L457868 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I don't have any affairs. What do you mean?
+L457844 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ In the can.  The hoosegow! Mrs. Winton's little boy. The Pawk Avenue Wintons, you know ... and plenty of do-re-mi.  He's in the jail-house now ...
+L457843 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Did you? Where?
+L457842 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I met one last night ... all the money this side of Peoria.
+L457841 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I don't see any big-moneyed boys running after you.
+L457840 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I just had a picture of you telling a landlady some day that you didn't have the rent, but Ralph is awful sweet.
+L457839 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ What are you laughing at?
+L457838 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I wish you wouldn't be so sarcastic about Ralph. He's the sweetest kid I know.
+L457837 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I wondered. Did he invite you to lunch, or did you invite him?
+L457836 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Yes, why?
+L458071 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I'm glad you told me. Good night, Mr. Burton.
+L458070 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ That's the way I feel about it.
+L458069 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ So that's the way it is?
+L458068 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ Well, that's just how stupid I am. When you go riding, it will be with me. And if it's with someone else, you can make it a permanent arrangement.
+L458067 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I'd call it stupid at any time.
+L458066 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ You wouldn't have said that before you met her.
+L458061 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ I'm not quarreling, only ...
+L458060 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Are we going to have the same quarrel over again?
+L458059 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ Don't kid yourself -- she means it.
+L458058 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ She thinks it's funny to talk the way she does, but--
+L458057 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ Well, I do say it.
+L458056 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I won't let you say that!
+L458055 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ What's nice about her? ... a hard-boiled little gold digger.
+L458054 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Nonsense. She's one of the nicest girls I know.
+L458053 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ She isn't anybody's friend, and I don't like you living with her. She's a bad influence.
+L458052 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ But why? She's the best friend I've got.
+L457911 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Delighted, I'm sure. 
+L457910 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ Why, certainly, sir. My fiancée. Charlotte, may I present Mr. Igor.
+L457892 +++$+++ u7210 +++$+++ m485 +++$+++ RALPH +++$+++ Well, you see, the old chap is pretty anxious to open on schedule. All of his advertising announced the opening tonight.
+L457891 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Disappoint me? Why, what do you mean, dear?
+L458291 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ And I have no desire to hurt you. You will always be beautiful. Think, my child, in a thousand years you will be as lovely as you are now.
+L458290 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Please, oh, please, I haven't done anything to hurt you.
+L458258 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Ralph! Ralph!
+L458257 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ We have found immortality, you and I. You must not be afraid.
+L458256 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Let me go! Let me go!
+L458250 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ It is no trouble at all, my child. This is the strange, vicarious pleasure that remains for me -- to see others enjoy the beauty I used to create.  My footing is not too secure.
+L458249 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Oh, please, Mr. Igor, I'm terribly ashamed. I shouldn't have put you to so much trouble.
+L458248 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I'd love to.
+L458247 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ And he will probably demand the life of anyone who agrees with you. Let him think it was his fault ... He should be along very shortly .. . But be very stern before you forgive him, especially if it is your fault  ...  While you're waiting for your friend, would you like to see some new figures I have downstairs?
+L458246 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ But it was really my fault.
+L458245 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ Oh, you children, you happy children. You've quarreled and now you're going to be friends again. And that is as it should be. Never let any stupid misunderstandings come between you.
+L458244 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ No -- I -- wanted to speak to Ralph. We had a silly argument last night and I said something unkind.
+L458243 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ Oh! So, my little friend, you have honored me by accepting my invitation of last night.
+L458242 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Oh! Mr. Igor! -- I'm so glad you're here -- I don't know why I should be, but I was a little bit afraid.
+L458022 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ They are.  My boy, I think you are right. Everyone is tired out today and now that we have seen my doors open in a new country, I am beginning to realize that I am a little tired myself. You can call that fellow in from the front. I think we'll close for the night.
+L458021 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ But I think these things are beautiful.
+L457918 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ At any time. You will always be welcome.
+L457917 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ We'll be coming to the opening.
+L457915 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ I'd love to, at any time.
+L457914 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ Although you would be amused if I were to tell you that I knew you before you were born. Before this terrible thing happened to me ...  ... I made a very beautiful statue. Even if I had not met with this disaster, I could never have hoped to do anything finer, probably nothing quite so fine. And, my child, you are that figure come to life. I wonder, some time, would you pose for one of my sculptors who does very excellent work?
+L457913 +++$+++ u7202 +++$+++ m485 +++$+++ CHARLOTTE +++$+++ Thank you.
+L457912 +++$+++ u7208 +++$+++ m485 +++$+++ IGOR +++$+++ If you will forgive this poor, crippled stump, my dear, I am very happy to know you.
+L458162 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Nothing doing. This is my percentage. You birds are going to get yours. And anyhow, I found this dump.
+L458161 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ Hey, what do you think you're doing? Put that stuff back!
+L458133 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I don't know what he was, but he made Frankenstein look like a lily!
+L458132 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ You mean he was colored?
+L458131 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Not a very good one, I guess. He wasn't like anything human. He hobbled and swayed like a monkey, and the face, from the glimpse I got of it in the light from the street, was like an African war mask.
+L458122 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ How quaint. But I can go any place you can. 
+L458121 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ It happens that I'm the law.
+L458120 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Whatever you are, you're the only one of it.
+L458119 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ What do you think I am?
+L458118 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Listen, copper, get a load of this. While you're chinning yourself on a bar rail, I run down this story ... my story. Consider yourself my assistant.
+L458113 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Don't take my word for it. Get down there yourself and give a look.
+L458112 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ Are you giving me this straight?
+L458111 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I'm not kidding. Joan Gale's body is packed in the box in the basement, and I saw the most horrible thing down there.
+L458110 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ Hello, Express. What's the idea, trying to outsmart the police?
+L458109 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ The body of Joan Gale!
+L458108 +++$+++ u7203 +++$+++ m485 +++$+++ DETECTIVE +++$+++ What! What are you talking about?
+L458337 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I'm going to get even with you, you dirty stiff! I'll do it!
+L458336 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ That's what I said.
+L458332 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Yes, you could. Cut out this rotten business and act like a lady. Marry me.
+L458331 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Listen, stupid, could I do anything that would possibly meet with your approval?
+L458218 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I'm going to make you eat dirt, you soap bubble! I'm going to make you beg for somebody to help you let go!
+L458217 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ What goofy idea have you got now? Don't tell me you suspect Judge Ramsey of stealing the body.
+L458216 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Was there any art on Judge Ramsey?
+L458215 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Go on, little girl, take your troubles somewhere else. I don't feel like talking to you.
+L458214 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Say, you're always razzing everything I do, but this is one time I'm in.
+L458213 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ What do you mean -- haywire? You start out after murderers and come back with three-for-a-dime bootleggers. You start to solve murder mysteries and break up crap games. You're grand! I'm for you! Stupendous!
+L458212 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ This one's a story, but I'm not going to tell you what it is. Every time I tell you anything it goes haywire.
+L458211 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ You here again like an evil spirit to mar my happiness?
+L458210 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Mit me, kid. I've got a classic.
+L457971 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Almost! I'll still bet I'm right, and let you write your own ticket.
+L457970 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Almost certain.
+L457969 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ No kiddin'?
+L457968 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ That dear, innocent Judge Ramsey that you were so sure got bumped off for knowing too much has been located in South America.
+L457967 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ What do you mean?
+L457966 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Oh, by the way, another pet theory of yours just blew up.
+L457965 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ All right, Master Mind.  But there's something cockeyed about that joint and I'm going to find out what it is. 
+L457964 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Come down to earth. Do you think they would dare do anything like that? Don't you think they'd know that figure would be recognized? Shake your head real hard -- you'll be all right.
+L457963 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Let it go.
+L457962 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Work that up into a comic strip and syndicate it.
+L457961 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ And it came to life and divorced you. I know all about that. Now my idea is this: Somebody swipes the girl's body, takes impression, makes a mold, produces wax figure ... Bingo! ... Peddles it to this old skate down there!
+L457960 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ I used to be married to one.
+L457959 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Listen, Jo-jo. Does this mean anything to you? Joan Gale's body swiped from the morgue -- Did you ever hear of such a thing as a death mask?
+L457958 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ About the Gale girl, I mean. Where do we go from there? What of it?
+L457957 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ What!
+L457956 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ We'll grant that.
+L457955 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Just this -- I got a look at that dump a little while ago and if they haven't got a wax figure of Joan Gale in that line-up, then I'm crazy.
+L457954 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ No kiddin'. What's your idea?
+L457953 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ All right, you poor baboon, you can guess the rest of it!
+L457952 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Well, you can't blame a guy for getting a little breathless with a scoop like that.
+L457951 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I asked you to keep your trap shut!
+L457950 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Now don't that call for an extra!
+L457949 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Jim, there's a little hokey-pokey wax museum opening up down on 14th Street.
+L457948 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ All right, wise guy. Go ahead. Spill it.
+L457947 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Listen, Jim -- and if you wisecrack while I'm talking I'll crown you with the inkwell.
+L457946 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Well, no one would ever suspect it. You don't sound right.
+L457945 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I am right! I know I'm right!
+L457942 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ So you can give me an argument and tell me I'm wrong. Don't be sil, Kid.
+L457941 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Well, why so mysterious! Come on, spill it.
+L457938 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Hey, Mattie, dig into the morgue and send up all the art you have on Joan Gale.
+L457937 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I want to see the original pictures of Joan Gale.
+L457936 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Come in, Prussic Acid. What's on your mind?
+L457790 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Get out of here.
+L457789 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Which one is me? The horse?
+L457786 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Sleep on it ... we'll get it tomorrow.
+L457785 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ No, there's another point I want to iron out.
+L457784 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Great! ... If he's worthless we'll give him away as a bridge prize. Come on -- beat it. It's five o'clock. You need some sleep.
+L457783 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ On the square, Jimmy, if you'd seen Winton down there -- I'm not holding a brief for him -- maybe he's a dirty pup, but he's scared and hysterical -- and so kinda dumb and worthless ...
+L457781 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Nope, I'm through!
+L457780 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Hey, come here, Sob-sister!
+L457779 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ All right, you said I was fired. Well, I quit! Give the assignment to somebody else. 
+L457778 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ You cannot. I'm still editor of this sheet.
+L457777 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Well, that's got nothing to do with this case. Can I handle this my way?
+L457776 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Whooey -- he took a run-out powder.
+L457775 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Or was bumped off by someone who was afraid of him.
+L457774 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Except that he disappeared when things got too hot.
+L457773 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ And they never proved anything against him.
+L457772 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Oh, you won't -- you were pretty tough about Judge Ramsey -- a little while ago --
+L457771 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Well, I won't work on it from that angle.
+L457770 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ You don't think he'd be sap enough to do the job himself. I hope they give him the works. Even if he didn't kill the kid, he's responsible for her death, and they can fry him any time without making me sore.
+L457769 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Well, anyway, he couldn't have copped that body -- he was in jail.
+L457768 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ I'm glad to hear it. When did you go in for crusading in the cause of justice? This lousy mug, with all the money in the world, has had two or three nasty affairs. He's kept out o' print because his great- grandfather was smarter than the Indians.
+L457767 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ You give me a pain!
+L457766 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ He's getting a break, ain't he? He's front page.
+L457765 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ No, I mean it. I think this kid's entitled to a break.
+L457764 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ And ruin a perfectly good story? Don't be silly.
+L457763 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ I wouldn't be trying, beloved. I would hang him! And another thing, all this gaga about the body disappearing. Eight bodies have been stolen in New York within the last eighteen months. Doesn't it seem more reasonable to hook this up from that angle?
+L457762 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Why the goose pimples? If he wasn't social register -- if it was somebody like me, you'd be trying to hang him.
+L457761 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ If this kid was some unknown soda jerker, they wouldn't have pinched him. But he's George Winton and they're playing him up. It's a Roman holiday for every paper hat editor in New York.
+L457760 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ Well, ain't that a shame. Nice little chappie that wouldn't harm a fly ... everybody picking on the little fellow.
+L457635 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Quick, Watson, the cookbook!
+L457634 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ That is none of our business.  But you bring me something for the next edition if it's only a recipe for spaghetti! 
+L457633 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ And how does one go about getting these human documents, may I inquire?
+L457631 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ Well, is it my fault if nothing happens?
+L457630 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ All right, what about it? We get out a paper just the same. Did you ever stop to think of that?
+L457629 +++$+++ u7206 +++$+++ m485 +++$+++ FLORENCE +++$+++ What do you mean, you poor ham! This is New Year's!
+L457628 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ I'm through clowning. You're all washed up. Get out!
+L457625 +++$+++ u7204 +++$+++ m485 +++$+++ EDITOR +++$+++ That you're a sure bet to place in the bread line. There's no room on this rag for the purely ornamental. You're easy on the eyes and pretty conceited about it.

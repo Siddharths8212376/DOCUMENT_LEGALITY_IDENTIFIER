@@ -1,0 +1,200 @@
+L637881 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ Before he can get there here comes this Federal Marshal, and Franky's indicted for Jury tampering, they throw him in jail, he's gonna be disbarred, his life is over.   Jimmy, gimme another drink.    How are you?
+L637880 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Huh.
+L637879 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ That Frank was working on.  Yeah. He thought Franky needed some help, so they bribed a juror.  So Franky finds out.  He comes to me in tears. He thinks that anybody who knows what a 'spinnaker' is got to be a saint.  I told him ' Franky, wake up.  These people are sharks. What do you think they got so rich from?  Doing good?'  He can't be comforted.  He tells the boys at Stearns and Harrington they've disappointed him, he's going to the Judge to rat them out.
+L637878 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ The Big Boy did...?
+L637877 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ ...and he's making a billion dollars every minute working for Stearns, Harrington, and he bought a dog, and everything is rosy.   Then Mr. Stearns, he tried to fix a case.
+L637876 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Yes.
+L637875 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ A huge law firm.  Okay?  They put him in the firm, he's married, everything's superb.  Franky, he's starting to talk like he comes from Dorsetshire, some fuckin' place, 'You must drop by with Pat and me...'  Okay...?
+L637874 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ Should I?
+L637873 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ Stearns, Harrington, you know who that is?
+L637857 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ So far you're great.  You got a cigarette?
+L637856 +++$+++ u8749 +++$+++ m593 +++$+++ LAURA +++$+++ How'm I doing so far?
+L637855 +++$+++ u8752 +++$+++ m593 +++$+++ MICKEY +++$+++ Franky can't make it.  He had an appointment he forgot, he's going to see you later.  I'm Mickey Morrissey, we're supposed to get to know each other.
+L639008 +++$+++ u8764 +++$+++ m594 +++$+++ MIDGE +++$+++ I'll give you another complication: he still is.
+L639007 +++$+++ u8758 +++$+++ m594 +++$+++ DOCTOR +++$+++ Ah? That complicates the problem.
+L639006 +++$+++ u8764 +++$+++ m594 +++$+++ MIDGE +++$+++ I can give you one thing: he was in love with her.
+L639005 +++$+++ u8758 +++$+++ m594 +++$+++ DOCTOR +++$+++ No. We have ways of digging out knowledge. But it takes longer. He is suffering from acute melancholia, together with a guilt complex. He blames himself for what happened to the woman. And we know little of the background.
+L639004 +++$+++ u8764 +++$+++ m594 +++$+++ MIDGE +++$+++ He won't talk.
+L639003 +++$+++ u8758 +++$+++ m594 +++$+++ DOCTOR +++$+++ It is hard to say. Six months, at least. Perhaps a year. It depends to a certain extent on him.
+L639002 +++$+++ u8764 +++$+++ m594 +++$+++ MIDGE +++$+++ Doctor, how long is it going to take you to pull him out of this?
+L638990 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ No, there's nothing you have to say to me. I'm getting out, Scottie. For good. I can't stay here. I'm winding up her affairs, and mine. I'm going to get as far away as I can. Probably Europe. And I'll probably never come back.  Good-bye, Scottie. If there's anything I can do for you before I go...
+L638989 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I -- I --
+L638988 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ He had no right to say that. It was my responsibility. You didn't know her. I shouldn't have got you involved.
+L638659 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Natural fear. Her grandmother went insane and took her own life. And the blood is in Madeleine.  Scottie, I ask you to watch her closely.
+L638658 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Why did she never tell her daughter?
+L638657 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Her mother told me most of then before she died. I dug out the rest for myself, here.
+L638656 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How do you know all these things she doesn't know?
+L638655 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ She is not my wife.
+L638654 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And when she goes to those places...
+L638653 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Nothing.
+L638652 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Knows nothing of a grave out at Mission Dolores, or an old house an Eddy Street, or a portrait at the Palace of the Legion of Honor?
+L638651 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ But she doesn't know, about her background.  She never heard of Carlotta Valdes.
+L638650 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Well, that explains it. Anyone could develop an obsession for the past, with a background like that.
+L638649 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Great-grandmother. The child who was taken from her whose loss drove Carlotta mad and to her death - was Madeleine's grandmother.
+L638648 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Carlotta Valdes was what: your wife's grandmother?
+L638647 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Something else. My wife, Madeleine, has several pieces of jewelry that belonged to Carlotta. She inherited them. Never wore them, they were too old-fashioned... until now. Now, when she is alone, she gets them out and looks at them handles them gently, curiously... puts them on and stares at herself in the mirror... and goes into that other world... is someone else again.
+L638646 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Oh, yes. You noticed the way she does her hair.
+L638645 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ But you knew about this.
+L638644 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I didn't know where she was going to lead you.
+L638643 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ There are things you didn't tell me.
+L638642 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Yes.
+L638641 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ That's Carlotta Valdes.
+L638640 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ You've done well, Scottie. You're good at your job.
+L638553 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ All right.  You won't know what to look for at first, Scottie. Even I, who know her so well, cannot tell, sometimes, when the change has begun. She looks so lovely and normal...
+L638552 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Ernie's.
+L638551 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ We're going to an opening at the opera tonight. We'll dine at Ernie's first.  Which is easier?
+L638550 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How can I see her, to know her?
+L638549 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Scottie, I need a friend!  Someone I can trust! I'm in a panic about this!
+L638548 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ It's not my line.
+L638547 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I want you.
+L638546 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I can get you a firm of private eyes to follow her for you. They're dependable, good boys --
+L638545 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Yes, but carefully. I'd want to know more before committing her to that kind of care.  Scottie --
+L638544 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Have you talked to the doctors at all?
+L638543 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ The speedometer of her car showed she had driven 94 miles that day. Where did she go?  I have to know, Scottie. Where she goes and what she does, before I got involved with doctors.
+L638542 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Well?
+L638541 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Watched her come out of the apartment, someone I didn't know... walking in a different way... holding her head in a way I didn't know; and get into her car, and drive out to...  Golden Gate Park. Five miles. She sat on a bench at the edge of the lake and stared across the water to the old pillars that stand an the far shore, the Portals of the Past. Sat there a long time, not moving... and I had to leave, to got to the office. That evening, when I came home, I asked what she'd done all day. She said she'd driven to Golden Gate Park and sat by the lake. That's all.
+L638540 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Where'd she go?
+L638539 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ More and more in the past few weeks. And she wanders. God knows where she wanders. I followed her one day.
+L638538 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How often does this happen?
+L638537 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I'm not making it up. I wouldn't know how. She'll be talking to me about something, nothing at all, and suddenly the words fade into silence and a cloud comes into her eyes and they go blank... and she is somewhere else, away from me... someone I don't know. I call to her and she doesn't hear. And then with a long sigh she is back, and looks at me brightly, and doesn't know she's been away... can't tell me where... or why...
+L638536 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No.
+L638535 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ No, it sounds idiotic, I know. And you're still the hard-headed Scot, aren't you? Always were. Do you think I'm making it up?
+L638534 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I didn't mean to be that rough.
+L638533 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Then you're of no use to me. I'm sorry I wasted your time. Thank you for coming in, Scottie.
+L638532 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I'd say you'd better take her to the nearest psychiatrist, psychologist, neurologist, psychoanalyst, or plain family doctor. And have him check you both.
+L638531 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ If I told you I believe that his happened to my wife, what would you say?
+L638530 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No.
+L638529 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Scottie, do you believe that someone out of the past, someone dead, can enter and take possession of a living being?
+L638528 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Someone dead.
+L638527 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ From whom?
+L638526 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I'm afraid some harm may come to her.
+L638525 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Then?
+L638524 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Not what you think. We're very happily married.
+L638521 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No... no, thanks. A bit early in the day for spirits.  Well, I guess that about covers everything, doesn't it? I never married; I don't see much of the "old college gang"; I'm a retired detective -- and you're in the shipbuilding business.  What's on your mind, Gavin?
+L638520 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Would you like a drink now?
+L638519 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No, Acrophobia isn't a crippling thing. It just means I can't climb steep stairs or go to high places, like the bar at the Top-of-the-Mark. But --  -- there are plenty of street-level bars In this town.
+L638518 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I was sorry to read about that thing in the papers.  And you've quit the force.  A permanent physical disability?
+L638517 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No, I'm all right.
+L638516 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Shouldn't you be sitting down?
+L638515 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I'd like to have lived here then. The color and excitement... the power...  the freedom.
+L638514 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Like all this.
+L638513 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ San Francisco's changed. The things a that spell San Francisco to me are disappearing fast.
+L638512 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And you like it.
+L638511 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ Almost a year.
+L638510 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How long have you been back?
+L638509 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ No. But one assumes obligations. My wife's family is all gone; someone has to look after her interest. Her father's partner runs the company yard in the East -- Baltimore -- so I decided as long as I had to work at it, I'd come back here. I've always liked it here.
+L638508 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ You don't have to do it for a living.
+L638507 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ No, to be honest, I find it dull.
+L638506 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Interesting business.
+L638505 +++$+++ u8759 +++$+++ m594 +++$+++ ELSTER +++$+++ I married into it.
+L638504 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How'd you get into the shipbuilding business, Gavin?
+L638735 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No. She's in fine shape. Nothing to worry about. But she doesn't know. You understand that. She doesn't know what she did.
+L638734 +++$+++ u8760 +++$+++ m594 +++$+++ ELSTER'S VOICE +++$+++ Did she hurt herself?
+L638733 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Hello?
+L638732 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ She... went into the Bay.
+L638731 +++$+++ u8760 +++$+++ m594 +++$+++ ELSTER'S VOICE +++$+++ What happened?
+L638730 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No, she's all right. She's still here. But I'll get her home soon.
+L638729 +++$+++ u8760 +++$+++ m594 +++$+++ ELSTER'S VOICE +++$+++ Scottie, what happened? She's not home, yet.
+L638728 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Hello.
+L639285 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Too late... too late... there's no bringing her back.
+L639284 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Love me... keep me safe...
+L639283 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I was safe when you found me, there was nothing you could prove! But when I saw you again I couldn't run away, I loved you so! I walked into danger and let you change me again because I loved you and wanted you!  Scottie, please! You love me now! Love me! Keep me safe!
+L639282 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I loved you, Madeleine.
+L639281 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ What are you going to do?
+L639280 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And the necklace. Carlotta's necklace. That was your mistake, Judy. One shouldn't keep souvenirs of a killing. You shouldn't have been that sentimental.
+L639279 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Some money.
+L639278 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Oh, Judy!! When he had all her money, and the freedom and the power...  he ditched you? What a shame! But he knew he was safe. You couldn't talk. Didn't he give you anything?
+L639274 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Look at the scene of the crime. Go on in.
+L639273 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ What are you going to do?
+L639272 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I made it.
+L639271 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ We'll find him.
+L639270 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I don't know... Switzerland?
+L639269 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Ah, yes! I was a set-up. I was the made-to-order witness. Where is he now?
+L639268 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Your accident...
+L639267 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And you were such an apt pupil! What fun you two must have had, playing games with me! Why me? Why did he pick on me?!!
+L639266 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Yes!
+L639265 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Did he train you? Rehearse you? Teach you what to say and what to do?
+L639264 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Why? Since you'd tricked me so well up to then?!! You played his wife so well, Judy! He made you over, didn't he? Just as I've done. But better! Not just the hair and the clothes! the look! the manner! the words! Those beautiful phony trances! That jump into the Bay! I'll bet you're really a strong swimmer, aren't you! Aren't you!!
+L639263 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I wanted to stop it, I ran up to stop it --
+L639262 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Took no chances, did he?  And when you got there, he pushed her off the tower, was that it? But you were the one who screamed. Why did you scream?
+L639261 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Dead. He'd broken her neck.
+L639260 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And she was the one who died. Not you.  The real wife.  You were the copy, you were the counterfeit. Was she dead or alive when you got there?
+L639259 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Yes!
+L639258 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ But you knew, that day, that I wouldn't be able to follow you didn't you. Who was at the top when you got there? Elster? With his wife?
+L639257 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Scottie, please...!
+L639256 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I'm going to. It's my second chance.
+L639255 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ You can't. You're afraid!
+L639254 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ We're going up the tower.
+L639253 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No! Let me go!
+L639252 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ We're going up the tower, Madeleine.
+L639249 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Go up the stairs, Judy.  I'll follow.
+L639248 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No!
+L639247 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ You look like Madeleine, now. Go up the stairs.
+L639246 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Take me away...
+L639245 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ And I couldn't follow her.  God knows I tried.  One doesn't often get a second chance. I want to stop being haunted. You're my second chances, Judy.
+L639238 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ -- and wanted to go on loving you." And I said, "I won't lose you."  But I did.
+L639237 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Scottie --
+L639236 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ ...We stood there and I kissed her for the last time. And she said, "If lose me, you'll know that I loved you --
+L639234 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ So am I, But it has to be done. I have to tell you about Madeleine, now.
+L639233 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I'm scared.
+L639232 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I can't do it alone. I need you, to be Madeleine for a while. Then, when it's done, we'll both be free.
+L639231 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Why?
+L639230 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I need you.
+L639229 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No, I don't want to go. I want to stay here.
+L639228 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Madeleine died here.
+L639227 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ But why? Why here?
+L639226 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I told you. I have to go back into the past. Once more. For the last time.
+L639225 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Scottie, why are we here?
+L639223 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ To complete my cure.
+L639222 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Where are you going?
+L639221 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No, it's all right.
+L639220 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I feel like driving. Are you terrible hungry?
+L639219 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ We're going awfully far.
+L639213 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Oh, yeah. There.
+L639212 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Can't you see?
+L639211 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ How does it work?
+L639210 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Scottie!
+L639209 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ All in good time.
+L639208 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Oh! You're supposed to fasten it!
+L639207 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ I've got it.  He bends down and bites the back of her neck.
+L639205 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I'm going to have one of those big beautiful steaks.  And... let's see... to start...
+L639204 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No, Ernie's is fine.
+L639203 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I'm suddenly hungry. Would you rather go somewhere else?
+L639202 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Too late. I've got my face on.
+L639201 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ That's what I had in mind.
+L639200 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Oh, no. You'll muss me.
+L639199 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Come here.
+L639198 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Is that the best you can do?
+L639197 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Mmmm.
+L639195 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Well, after all, it's "our place."
+L639194 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ You've got a thing about Ernie's, haven't you?
+L639193 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Ernie's?
+L639192 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Wherever you'd like...
+L639191 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Where shall we go for dinner?
+L639188 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ We tried it. It didn't suit me.
+L639187 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ It should be back from your face -- with a bun at the neck. I told them. I told you.
+L639186 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Well?
+L639177 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ All right. Then I'll do it. Because I don't care about me anymore. I just want you to love me.
+L639176 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Yes.
+L639175 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ The trouble is, I'm gone now. For you. And I can't do anything about it. I want you to love me. If I let you change me, will that do it? If I do what you tell me, will you love me?
+L639174 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy, please it can't matter to you...
+L639173 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Ah, no!
+L639172 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ The color of your hair...
+L639170 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Yes. Yes, I do.
+L639169 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ You don't even want to touch me.
+L639168 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ No, it's you too, Judy. Something in you.
+L639167 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I know. Because I remind you of her. The one that's dead. And not even that, very much.
+L639166 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy, I want to tell you: these few days have been the first happy days I've had in a year.
+L639165 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No, you wouldn't let me.  And I don't want to go...
+L639164 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ You can.
+L639163 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I wish you'd leave me alone. I want to go away.
+L639147 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ We'll take it! Will it fit?
+L639146 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ I don't like it!
+L639143 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy, you've got to do this for me! Please!
+L639142 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ No, I don't want any clothes! I don't want anything! I want to get out of here!
+L639141 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy, it can't make much difference to you. I just want to see how you'd look and I know it won't be the same, but --
+L639136 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ It's a horrible idea! Is that what I'm here for? To make you feel that you're with someone that's dead?
+L639135 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy --
+L639134 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ Ah, no!!! I don't want to be dressed like someone dead!
+L639133 +++$+++ u8767 +++$+++ m594 +++$+++ SCOTTIE +++$+++ Judy, I just want you to look nice. And I know what kind of suit would look well on you.
+L639132 +++$+++ u8761 +++$+++ m594 +++$+++ JUDY +++$+++ You want me to dress like her?

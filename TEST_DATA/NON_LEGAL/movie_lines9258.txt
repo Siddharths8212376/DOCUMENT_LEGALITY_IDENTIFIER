@@ -1,0 +1,200 @@
+L374822 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ I gotta figure some way out of this thing!
+L374676 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ You bet I will! As fast as I can! Gonna get some canned goods—a fishing rod, and the rest I'm gonna give away.
+L374675 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ You win, Colonel. Here's the fifty. Go on out and get rid of it.
+L374647 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ I seen plenty of fellers start out with fifty bucks and wind up with a bank account!
+L374646 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Hey, stop worrying, Colonel. Fifty bucks ain't going to ruin me.
+L374633 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Stop worrying, Colonel. I'm gonna get my arm fixed out of this.
+L374632 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ Aw, Long John . . . I tell you—it's no good. You're gonna get used to a lotta stuff that's gonna wreck you. Why, that fifty bucks in your pocket's beginning to show up on you already. And don't pull that on me neither! 
+L374631 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Sure. I remember . . . Say, did your ears pop coming up in the elevator? Mine did.
+L374630 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ Gimme mine. I ain't staying! You know we were headed for the Columbia River country before all this John Doe business came up. You remember that, don't yuh?
+L374627 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ No, sir. That spot under the bridge where we slept last night's good enough for me.
+L374626 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Sure, you are.
+L374625 +++$+++ u2040 +++$+++ m132 +++$+++ COLONEL +++$+++ You ain't gonna get me to stay here.
+L374624 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Hey, pretty nifty, huh?
+L375259 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Shut up! If you weren't drunk I'd—
+L375258 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Don't write 'em? Why, that gold- grabbin' dame would double-cross her own mother for a handful of Chinese yen!
+L375256 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ They can't, huh?  Who do you think writes 'em? My Aunt Emma? I know she writes them.
+L375255 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ You're all wet. Miss Mitchell writes those speeches and nobody can make her write that kind of stuff.
+L375254 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Is that so? Then what's a big political boss like Hammett doing in town? And a labor leader like Bennett? And a lot of other big shots who are up at D. B.'s house right now? Wolves, John, wolves waiting to cut up the John Does!  Wait till you get a gander at that speech you're gonna make tonight!
+L375253 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Nobody's gonna do that, Mr. Connell. They can't use the John Doe Clubs for politics. That's the main idea.
+L375252 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ All right! Now, supposing a certain unmentionable worm, whose initials are D. B., was trying to use that to shove his way into the White House. So he could put the screws on, so he could turn out the lights in those lighthouses. What would you say about that? Huh?
+L375250 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Sure. I don't blame you. So am I.
+L375249 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Sure.
+L375248 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Yeah?  Say, you're sold on the John Doe idea, aren't you?
+L375247 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ You must be wrong, Mr. Connell, 'cause he's been marvelous about the John Doe Clubs.
+L375243 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ And you'd feel like an awful sucker if you found yourself marching right in the middle of it, wouldn't you?
+L375242 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah. It certainly is.
+L375241 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Listen, pal—this fifth column stuff's pretty rotten, isn't it?[11]
+L375240 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah, you bet!
+L375239 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ I get mad for a lot of other guys besides myself—I get mad for a guy named Washington! And a guy named Jefferson—and Lincoln. Lighthouses, John! Lighthouses in a foggy world! You know what I mean?
+L375235 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ You betcha.
+L375234 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Now, that's all right, isn't it?
+L375213 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Uh-huh. That's exactly what I thought. Beany, go on down to the office, tell Pop to give you the speech. There's a copy on my desk.
+L375212 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ No, I never read the speeches before I make them. I get more of a kick out of it that way.
+L375209 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Hiyah, John.  John, I want to have a little talk with you.  What's the matter—are you falling? Come here.
+L375208 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Hello, Mr. Connell.
+L374607 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Okay, Bone-Setter Brown goes. Here, sign it. Meanwhile, here's fifty dollars for spending money. That's fine. Beany!
+L374606 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah, but it's got to be by Bone- Setter Brown.
+L374600 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Oh, you trust him, eh? Well, that's fine. I suppose he trusts you, too?
+L374599 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ I trust him.
+L375087 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Yes. Sure.
+L375086 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ I think maybe you'd better. And Connell—I'd like to have the John Doe contract, all the receipts for the money we have advanced him and the letter Miss Mitchell wrote, for which I gave her a thousand dollars.
+L375085 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ I see. I'd better stick to running the paper, huh?
+L375083 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Why—uh—
+L375082 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Well, I'm stuck with two and two—but I'm a sucker if I can make four out of it.  Where do you come in?
+L375081 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Well?
+L375080 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Look, D. B. I'm supposed to know my way around. This John Doe movement costs you a fortune. This convention's gonna cost plenty.
+L375079 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Huh? Get what?
+L375078 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Well, I don't get it.
+L374729 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Okay. I just came in to get warm, myself. Come on, let's go.
+L374728 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ I want it as soon as possible.
+L374727 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Why, D. B., you're not going to fall for—
+L374726 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Go down to the office and arrange for some radio time.
+L374542 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Okay, Beany, bring 'em in one at a time.  Wipe to: Montage: Half a dozen different types of hoboes appear—and in each instance ANN shakes her head, negatively.
+L374541 +++$+++ u2050 +++$+++ m132 +++$+++ POP +++$+++ Show me an American who can keep his mouth shut and—I'll eat him.
+L374530 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ No, no, no, the gal's right. We can't let the Chronicle get the laugh on us! We've got to produce a John Doe now.  Amateur journalism, huh!  I'll show those guys.
+L374529 +++$+++ u2050 +++$+++ m132 +++$+++ POP +++$+++ If you ask me, Hank, you're playing around with dynamite.
+L374511 +++$+++ u2050 +++$+++ m132 +++$+++ POP +++$+++ Better get that story in, Hank, it's getting late.
+L374510 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Miss Mitchell, do me a favor, will you? Go on out and get married and have a lot o' babies—but stay out o' newspaper business!
+L374486 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ That's right. You got it! Sure! He came in here and I made him change his mind. "Bulletin editor saves John Doe's life." Why, it's perfect. I'll have Ned write it up.  Oh, Ned!
+L374485 +++$+++ u2050 +++$+++ m132 +++$+++ POP +++$+++ Run a story. Say John Doe was in here, and is sorry he wrote the letter and—
+L374484 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ How?
+L374483 +++$+++ u2050 +++$+++ m132 +++$+++ POP +++$+++ Only one thing to do, Hank. Drop the whole business quickly.
+L374565 +++$+++ u2053 +++$+++ m132 +++$+++ TALL CHAP +++$+++ Willoughby. John Willoughby, Long John Willoughby they called me in baseball.
+L374564 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ What's your name?
+L374558 +++$+++ u2053 +++$+++ m132 +++$+++ TALL CHAP +++$+++ Yeah. Me and a friend of mine. He's outside.
+L374557 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Oh, just traveling through, huh?
+L374556 +++$+++ u2053 +++$+++ m132 +++$+++ TALL CHAP +++$+++ No.
+L374555 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ How about family? Got any family?
+L374546 +++$+++ u2053 +++$+++ m132 +++$+++ TALL CHAP +++$+++ Well, the paper said there were some jobs around loose. Thought there might be one left over.
+L374545 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ What are you doing up here then?
+L374544 +++$+++ u2053 +++$+++ m132 +++$+++ TALL CHAP +++$+++ No, I didn't.
+L374543 +++$+++ u2041 +++$+++ m132 +++$+++ CONNELL +++$+++ Did you write that letter to Miss Mitchell?
+L375376 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ There! You see? He admits it! You're a fake, John Doe! And for what you've done to all these good people—they ought to run you out of the country—and I hope they do it!
+L375375 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Listen, folks, it's a fact that I didn't write the letter, but this whole thing started—
+L375374 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Ah, you bet your life you didn't! You look in your papers, ladies and gentlemen, and you'll find Miss Mitchell's signed confession that she was the one that wrote it!
+L375373 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ No, I didn't write it, but—
+L375372 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Did you write it—or didn't you?
+L375371 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ What difference does that make?
+L375370 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ And what about the suicide note? You didn't write that, either!
+L375369 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yes! I was paid! But the—
+L375368 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Were you paid for it—or weren't you?
+L375367 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ That's got nothing to do with it!
+L375366 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Let go of me!  This man had no intention of jumping off of the top of a building! He was paid to say so!  Do you deny that?
+L375365 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ That's a lie! Listen—don't believe what he says . . .
+L375364 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ It's not a lie! Nickels and dimes! To stuff into their own pockets! You can read all about it in the newspapers there!
+L375363 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ That's a lie!
+L375307 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ No you won't! You're through deciding anything!
+L375306 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Now, hold on a minute, young man! Hold on! That's rather big talk! I started the John Doe clubs with my money and I'll decide whether or not they're being properly used!
+L375305 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Oh, no. Nothing's wrong. Everything's fine!  So there's gonna be a new order of things, huh? Everybody's gonna cut himself a nice, fat slice of the John Does, eh?  You forgot one detail, Mr. Big Shot—you forgot me, the prize stooge of the world. Why, if you or anybody else thinks he's gonna use the John Doe clubs for his own rotten purpose, he's gonna have to do it over my dead body!
+L375304 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Is there anything wrong?
+L374997 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Say, let's get something straight here. I don't want any part of this thing. If you've got an idea I'm going around lecturing to people, why you're crazy! Baseball's my racket, and I'm sticking to it. Come on, Colonel, let's get out of here.
+L374996 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ Why, certainly. With your ability to influence people, it might grow into a glorious movement.
+L374984 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Well, if there's nobody holding us here, let's get going. Incidentally, my name isn't Doe. It's Willoughby.
+L374983 +++$+++ u2042 +++$+++ m132 +++$+++ D. B. +++$+++ There's nobody holding you here, Mr. Doe.  It's only natural that people—
+L374982 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Look, Mr. Norton, I think you've got a lot of nerve having those people hold us here.
+L375198 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Well, I was thinking that—Yeah, you know, sort of break the ice.
+L375197 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ You mean you'd like me to do it, huh?
+L375196 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ I bet you he'd know how to say it all right. And me, I get up to it and around it and in back of it, but, but I never get right to it. Do you know what I mean? So the only chance I've got is, well, if somebody could kinda give her a warning sort of, sorta prepare her for the shock!
+L375194 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah, yeah, but look, Mrs. Mitchell, you know I love Ann and it's gonna be awfully hard for me to say it because, well, you know, she's so wonderful, and, well, the best I ever was was a bush-league pitcher.
+L375193 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ Uh-huh.
+L375192 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Oh, yeah. That's what I mean. See? It was easy as all that, huh?
+L375184 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ Good night, John.
+L375183 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Thanks. Good night, Mrs. Mitchell.
+L375182 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ Yes, of course. I'll see that she gets the flowers.
+L375181 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Well, I guess I'll see her at the convention later.
+L375179 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah. I, uh, well . . . No. It'll wait.  Say, he's a nice man, isn't he? Mr. Norton, I mean. He's, er, he's done an awful lot for the—
+L375178 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ Did you want to see her about something important?
+L375177 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Oh!
+L375176 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ No, she just left. I'm surprised you didn't run into her. She went over to Mr. Norton's house.
+L375175 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ She isn't?
+L375174 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ I'm terribly sorry she isn't here.
+L375173 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Flowers.
+L375172 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ Oh, how nice! Thank you very much.
+L375171 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ It's for Ann . . .
+L375170 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Thanks.
+L375169 +++$+++ u2049 +++$+++ m132 +++$+++ MRS. MITCHELL +++$+++ It's good to see you. Sit down.
+L374857 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Okay.
+L374856 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Now, look. I'll give this money to the Colonel just as soon as you get started. We'll have a car waiting at the side entrance for you.
+L374855 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah.
+L374854 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Have you got the speech I gave you?
+L374833 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Feller runs the Chronicle .  Here's the speech you make—and it's all written out for you.
+L374832 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Say, who's putting up this dough?
+L374828 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Well, that's a cinch. I know somebody that'll give you five thousand dollars just to get up on the radio and tell the truth.
+L374827 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yeah, but how am I gonna get my arm fixed?
+L374826 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Well, when you get up on the radio, all you have to do is say the whole thing's a frame-up. Make you a hero sure as you're born!
+L374825 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ How?
+L374824 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ I know one way you can do it.
+L374820 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ And another thing, what about all the kids in the country, the kids that idolize ball players? What are they gonna think about you?  Close shot: Of the COLONEL. He has dropped his glove—flopped into a chair—and has taken out his ocarina.
+L374819 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Y-yeah. Gee, doggone it, I never thought about that. Gosh!
+L374818 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Well, I was just thinking about this John Doe business. Why, as soon as it comes out it's all a fake, you'll be washed up in baseball, won't you?
+L374817 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Racket? What do you mean?
+L374816 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Well, you know how they are in baseball—if a guy's mixed up in a racket—
+L374815 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Well, what are you talking about? I just told you I was gonna get a—
+L374814 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Huh? Oh, that you'll never be able to play again.
+L374813 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ What do you mean, too bad?
+L374812 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ That's too bad.
+L374811 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Yep. There was a major league scout there watching me, too. And he came down after the game with a contract. Do you know what?  I couldn't life my arm to sign it. But I'll be okay again as soon as I get it fixed up.
+L374810 +++$+++ u2047 +++$+++ m132 +++$+++ MIKE +++$+++ Nineteen!
+L374809 +++$+++ u2045 +++$+++ m132 +++$+++ JOHN +++$+++ Pretty good?  Say, I was just about ready for the major leagues when I chipped a bone in my elbow. I got it pitchin' a nineteen-inning game!
+L374444 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ I-it's all right, Mrs. Brewster. It was just a sea-gull.  Er. nothing's happened yet! No, I'm watching. Don't worry. Ju-just leave it all to me!
+L374443 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ Oh, n-no, sir. The sea-gull is a lovely bird.
+L374442 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ A sea-gull? What's a sea-gull doing around the city hall? That's a bad omen, isn't it? 
+L374441 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ I think it must have been a sea- gull.
+L374440 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Then he may be caught on a ledge! Look again!
+L374439 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ No, sir.
+L374438 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Is there a crowd in the street?
+L374437 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Well, don't stand there, you idiot. Go and look. Open the window. Oh, why did he have to pick on my building?
+L374436 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ I didn't see anything.
+L374435 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Out the window! Something just flew by!
+L374434 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ What?
+L374433 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ What are you doing? Get Connell at the Bulletin !  Why, he's liable to go right past my window,  What was that?!
+L374432 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ Shh!
+L374431 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Yes, Spencer. Who? The Governor? Well, what about me? it's my building he's jumping off of! And I'm up for re-election, too!
+L374429 +++$+++ u2046 +++$+++ m132 +++$+++ MAYOR +++$+++ Hold him.  Yes, Mrs. Brewster, I'm listening.
+L374428 +++$+++ u2051 +++$+++ m132 +++$+++ SECRETARY +++$+++ Spencer of the Chronicle .
+L378604 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ I'll take half of your action.
+L378603 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ It was Warriors plus 6 this morning.
+L378602 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ What's the line?
+L378600 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Good. I don't want to be late.
+L378599 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Nah, It probably won't turn up anything. I'm just gonna talk to him.
+L378598 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ You want me to go up with you?
+L378597 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Apartment 306.
+L378596 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Come on. Just get in. We gotta go.
+L378595 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Fuck the stereo. What's that smell?
+L378594 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Where's the stereo?
+L378589 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Don't give up on her. You're getting to the age when you ought to be thinking about these things.
+L378588 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Fuck him. He swings at anything in the dirt. I could strike him out.
+L378587 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ No shit! He's good!
+L378586 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ It's not me. It's her. She's going out with this baseball player -- Greg Barnett.
+L378585 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Speaking of which. I saw you talking to Ronnie this morning. Why can't you get it back together with her. You've gotta be out of your mind not to get with that one.
+L378584 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ You worried about me, too? The chief's worried about me. Solis is worried about me. Maybe you guys should start some kind of organization.
+L378583 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ This SWAT guy might be a good idea. He may be able to take a little pressure off you. I worry about you.
+L378582 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Yeah, okay.
+L378581 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ I still gotta do it. Wasting time is half my job.
+L378580 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ "Phoney Frank"? Don't waste your time. He'd tell you his granny was in on the Kennedy assassination if he could dodge a collar.
+L378579 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Mind if we make a stop on the way? We busted Frank Antonucci on possession. He gave us a lead on that Polk Street jewelry heist.
+L378519 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Deal.
+L378518 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Dinner's on you.
+L378517 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ You're my hero.
+L378516 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Floor seats.
+L378433 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Maybe we can get a throw phone in there.
+L378432 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ We don't know how much time we have. If I can get in to talk to him -- maybe we won't lose anyone.
+L378431 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Not that we know of.
+L378430 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ He's never offed anybody. His rap doesn't show any violence.
+L378429 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ I don't know.
+L378428 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ You got 7 hostages in there, 1 of them's wounded -- We don't know how bad it is -- The guy ripped the phone out -- SWAT said he's got a gun to the head of a female hostage. If SWAT makes entry now, you're gonna lose 1 hostage, maybe 2. I gotta go in. Maybe I can see what's going on in there.
+L378427 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ No -- you can't do that.
+L378423 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ What's the rush? They haven't killed anybody yet this week?
+L378422 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ SWAT wants to go in.
+L378421 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ They're not usually graduate students.
+L378418 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Hello, Roper. Glad you could join us.
+L378417 +++$+++ u2065 +++$+++ m133 +++$+++ ROPER +++$+++ Hello, guys.
+L378624 +++$+++ u2060 +++$+++ m133 +++$+++ KORDA +++$+++ Clarence Teal.
+L378623 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ This cousin of yours... What's his name?
+L378622 +++$+++ u2060 +++$+++ m133 +++$+++ KORDA +++$+++ Perhaps for his own reasons he entangled me in this... situation.
+L378619 +++$+++ u2060 +++$+++ m133 +++$+++ KORDA +++$+++ Of course.
+L378618 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ Could I please have a little water?
+L378615 +++$+++ u2060 +++$+++ m133 +++$+++ KORDA +++$+++ You mean Frank who owns the bakery down the street?
+L378614 +++$+++ u2054 +++$+++ m133 +++$+++ BAFFERT +++$+++ I've got to stop in there... Mr. Korda, do you know Frank Antonucci?
+L378613 +++$+++ u2060 +++$+++ m133 +++$+++ KORDA +++$+++ Used record shop down on Turk Street. I was in there looking for some Robert Johnson.  Memories... Memory Lane or something...

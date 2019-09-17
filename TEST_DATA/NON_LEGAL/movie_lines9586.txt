@@ -1,0 +1,200 @@
+L73741 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Not the Jaguar. The _other_ car.
+L73740 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ He boosted the Jag?  Is that all?
+L73739 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Actually, he took the car.
+L73738 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ He ran away?
+L73737 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ I'm afraid Master Dick has... gone traveling.
+L73736 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Is he all right?
+L73735 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Sorry to bother you, sir. I have some rather distressing news about Master Dick.
+L73621 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Don't be ridiculous.
+L73620 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ No. You said I. I killed them.
+L73619 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ He killed them. Two-Face. He slaughtered that boy's parents.
+L73618 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ What did you say?
+L73617 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ It's happening again. Just like my parents. A monster comes out of the night. A scream. Two gunshots. I killed them.
+L73604 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Take any three you like. After you get settled we can...
+L73603 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Ninety-three, including the sauna.
+L73602 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Gee, I'm not sure.  Alfred? How many rooms? Total?
+L73508 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I remember the bat, though. His scream. Those eyes. i was sure the fear would kill me.  In time I came to believe that if I became a monster, that if I was feared, I wouldn't be scared anymore. I was wrong.  They think I became Batman to fight crime. I became Batman to fight the fear. And instead I became the fear.
+L73507 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ I don't know, sir. Your dear parents.  Suddenly gone. So much loss...
+L73506 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ ...The night Batman was born.  What was I doing in the fields that night, Alfred? What sent me running out into that storm? I keep dreaming about it but I just can't remember.
+L73505 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Your parents' wake. Rain fell like tears.
+L73504 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Do you remember the night I fell into that cave and the bat chased me?
+L73502 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Apology hastily retracted.
+L73501 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I wonder if she'd go out with me.
+L73500 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ If I misinterpreted your interest in the lady, I humbly apologize--
+L73499 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ She has an excellent mind.
+L73498 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Scholarly research?
+L73497 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ I believe you said the same thing about the Batmobile.
+L73496 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ It'll never work.
+L73495 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ A few hitches sir, but I'm confident we'll have a prototype in no time.
+L73494 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ How's the sonar coming, Alfred?
+L73457 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Hardly a worry, sir.
+L73456 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Then you'd have nothing to complain about.
+L73455 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ ...Would it be a terrible imposition to ask you to take better care of your equipment?
+L73452 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ It's a wonder you sleep at all.
+L73451 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I think they're getting worse.
+L73450 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ The dreams again, sir?
+L73709 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ Four seconds from...
+L73708 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Just checking, young sir.
+L73707 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ Up here, Al.
+L73682 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Master Wayne's dead wives.
+L73681 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ How come this is the only locked door around this museum? What's back there?
+L73680 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ May I help you, Master Grayson?
+L73601 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ Big house. How many rooms?
+L73600 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Al?
+L73599 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ How ya doin', Al?
+L73598 +++$+++ u3932 +++$+++ m261 +++$+++ ALFRED +++$+++ Welcome, Master Grayson. I'm Alfred.
+L74010 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Did Two-Face call him Bruce?
+L74009 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Help Chase. I'll be back.
+L73643 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Maybe you just haven't met the right woman...
+L73642 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ I haven't had much luck with women...
+L73641 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ You like strong women. I've done my homework. Or do I need skin-tight vinyl and a whip?
+L73640 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ You are direct, aren't you?
+L73639 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ We could give it a try. I'll bring the wine, you bring the scarred psyche.
+L73638 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ I'm not the kind of guy who blends in at a family picnic.
+L73637 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ My life's an open book. You read?
+L73636 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ We all wear masks.
+L73635 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I don't mind the work. Pity I can't see behind the mask.
+L73634 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Try a fireman. Less to take off.
+L73633 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Now black rubber.
+L73632 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What is it about the wrong kind of man? In grade school it was guys with earrings. College, motorcycles and leather jackets.
+L73631 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ It's the car, right? Chicks love the car.
+L73630 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ A girl cannot live by psychoses alone.
+L73629 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Are you trying to get under my cape, Doctor?
+L73628 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I wish I could say my interest in you was purely professional...
+L73626 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Last night at the circus. I noticed something about Dent. His coin. He's obsessed with justice. It's his Achilles' heel. It can be exploited.
+L73625 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ What's wrong?
+L73624 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ He's home. I sent the signal.
+L73403 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I didn't know that. See? You _are_ interesting. And call me Chase. By the way, do you have a first name? Or do I just call you bats?
+L73402 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Bats aren't rodents, Dr. Meridian.
+L73401 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Let's just say I could write a hell of a paper on a grown man who dresses like a flying rodent.
+L73400 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Why's that?
+L73399 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I'm flattered. Not every girl makes a super-hero's night table.  You might have some interesting insights into Two-Face.
+L73398 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ ...dual personalities. Abnormal psychology. Washington's poster child for the criminally insane. I read your work.
+L73394 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ And you are?
+L73393 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ _Two_ million dollars waiting to be transferred from the _Second_ Bank of Gotham on the _22nd_ How could Harvey? _Two_-Face resist?
+L74003 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Exactly!
+L74002 +++$+++ u3939 +++$+++ m261 +++$+++ RIDDLER +++$+++ Oh please. You're blind as a bat.
+L74001 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ I see without seeing. To me, darkness is as clear as daylight. What am I?
+L74000 +++$+++ u3939 +++$+++ m261 +++$+++ RIDDLER +++$+++ For _me_? Really? Tell me.
+L73999 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Wait. I have a riddle for you.
+L73998 +++$+++ u3939 +++$+++ m261 +++$+++ RIDDLER +++$+++ Excellent. See. Who says a guy in a rubber suit can't be smart? Well, it's been grand. Sorry you all have to die now.
+L73997 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ Death.  Death. Without taste, sound and all around us.  Because there is no way for me to save them or myself. This is one giant death trap.
+L73983 +++$+++ u3933 +++$+++ m261 +++$+++ BATMAN +++$+++ No more tricks, Edward. Release Chase and Dick. This is between you and me.
+L73982 +++$+++ u3939 +++$+++ m261 +++$+++ RIDDLER +++$+++ Welcome to my parlor said the Riddler to the Bat. How's tricks?
+L73794 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Actually, I like to divest just before a major re-capitalization.
+L73793 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ I notice you've sub-divided your B coupons. Feeling a little light on principle?
+L73791 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Banzai.
+L73790 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Rinka.
+L73789 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Slanta.
+L73788 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ La'chiem.
+L73787 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Nostrovia.
+L73786 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ No grape could be more intoxicating than you, my dear. But we make due. To your charms.  Skol.
+L73785 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Gracious even in defeat. How vaguely disappointing. When all this could have been ours together.
+L73784 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ What? Oh, it's very impressive.
+L73781 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ The press were just wondering what it feels like to be outsold, outclassed, and generally outdone in every way...  And what light through yonder window breaks? `Tis the east. And you are...
+L73780 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ What? Oh, Edward. Hi. Congratulations. Great party-
+L73779 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ So glad you could come.
+L73359 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ No. Don't leave me! My invention! I need you!
+L73358 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ We'll talk some other -
+L73357 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Wait. You can't go.
+L73356 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Call my secretary, she'll set something up.  Factory looks great, folks.  Keep up the good work.
+L73340 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Precisely. What's on all our minds? Brainwaves. The future of Wayne Enterprises is Brainwaves!
+L73339 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Mr. Nygma, you'll forgive me for being rude. But what exactly is on your mind?
+L73338 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ What? Ah yes. Of course. I'm sorry. It's just that...you're my idol.  And some people have been trying to keep us apart.
+L73337 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I'm gonna need that hand back, Ed.
+L73336 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Nygma. Edward Nygma. You hired me. Personally. Just like I tell everyone.  Well, we've never actually met, but your name was on the hire slip.
+L73335 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Um...I'm pretty sure I'm Bruce Wayne. And you are?
+L73334 +++$+++ u3937 +++$+++ m261 +++$+++ EDWARD +++$+++ Bruce Wayne. In the flesh.
+L73333 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Mr...?
+L73885 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Chase. There's something I need to tell you--
+L73884 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What are you talking about?
+L73883 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I always thought it was the bat that scared me that night that changed my life. But it wasn't. The real fear was hiding underneath: what I read in the journal, that my parents' deaths were my fault. That's what I couldn't remember. That's the crime I've been paying for all these years.
+L73882 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What?
+L73881 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ ...Not the bat?
+L73880 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Oh God, Bruce, you were a child. You weren't responsible.
+L73879 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ The last entry read, Bruce insists on seeing a movie tonight.  Bruce insists. I made them go out. I made them take me to the movie. To that theater...  It was my fault. I killed them.
+L73878 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ You do know. Try.
+L73877 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I don't-.
+L73876 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What does it say? What hurts so much, Bruce? What does the book say?
+L73875 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ My parents are laid out in the library. Their skin smells like talcum powder. I'm so small. My father's diary is on his desk like always. I'm opening the book. Reading. I'm running out into the storm. The book is in my hands. I can't hear my screams over the rain. I'm falling...
+L73874 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Stop fighting.
+L73873 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I don't want to remember!
+L73872 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Your memories are repressed. They're trying to break through. Relax. Try to remember-.
+L73868 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Okay, tiger, take it slow. You going to give me your pin or something?
+L73867 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ There's something I want to talk with you about. It's...Well, we.. I...
+L73796 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Excuse me, boys. I'd hate to stop this testosterone flood on my account-
+L73795 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ And the beast slouches towards Bethelem.
+L73774 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Spare me the diagnosis, okay? You're being ridiculous. I can't be jealous of Batman.  Can I?
+L73773 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Oh God, Bruce. You're still jealous.
+L73772 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ So how goes your `scholarly' pursuit of Batman?
+L73771 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Touchy, touchy.
+L73770 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Keep me off the couch, Doc. Your fees are a little rich for me.
+L73769 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ If I didn't know better, I'd say you were sulking.
+L73734 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Rage. Anger. Passion. Pain.
+L73733 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ In a sense we are all two people. The side we show in daylight. And that side we keep in shadow.
+L73732 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ You want me close but you won't let me near. What's the terrible, dark secret you're protecting everyone from?
+L73731 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I'm not-
+L73730 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Throw up that ridiculous superficial mask. If you're jealous...
+L73729 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ What?
+L73728 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Why do you do that?
+L73724 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What do you want me to say? That I'm not attracted to him?
+L73723 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I'd say this goes a little beyond taking your work home.
+L73722 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Come on, Bruce. This is what I do for a living.
+L73721 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Why do I feel like the other man, here?
+L73720 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Find anything interesting?
+L73718 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ They've changed. The dreams, I mean. There's a new element I don't understand. A book. Black. Covered in leather....
+L73717 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ And now....
+L73716 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ A lot of what happened is jagged. Pieces missing. I can't really remember. I just get flashes. Usually in my dreams. I'd kind of gotten used to them. At least accepted them....
+L73712 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Sorry. I haven't even had time to unpack. Instant coffee okay?
+L73711 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ The style of the letters I'm getting matches those found at the crime sites. Why would The Riddler be sending me riddles?  Who's your decorator? U-Haul?
+L73580 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I said I'm sure he did.
+L73579 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What?
+L73578 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ He sure did.
+L73577 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ You could say he kind of dropped out of the sky and bang-. I think he felt it too.
+L73576 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Fast work. You just moved here.
+L73575 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Well, I met someone...
+L73574 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ But...
+L73573 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Bruce, much to my surprise, you seem like a really great guy...
+L73572 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Look, I'm rock climbing Sunday. How about coming along?
+L73571 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Don't believe it. I'm just skin deep.
+L73570 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ The glib, cavalier routine, it really is an act, isn't it?
+L73569 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Me? I'm easy. Especially after a couple of martinis.
+L73568 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I don't get you Bruce Wayne.
+L73567 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ That kid is amazing.
+L73565 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ What? This isn't normal?
+L73564 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Like normal folks.
+L73561 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ I'm sorry. Who are you?
+L73560 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I'm surprised you aren't blind by now.
+L73557 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ And into a black dress.
+L73556 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Excuse me.
+L73555 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ But I'm going to have to get you out of those clothes.
+L73554 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Would you? I'm not so sure.
+L73553 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Look, I'd love to keep chatting-
+L73552 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ That's usually my line.
+L73551 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ No insights here, doc. Just trying to get comfortable on your couch.  Oops. Times up.
+L73550 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ You understand obsession better than you let on.
+L73549 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ To kill me.
+L73548 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ The letter writer is obsessed with you. His only escape may be...
+L73547 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ It's a stretch but I'll manage.
+L73546 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Not much.
+L73545 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ What do you know about obsession?
+L73544 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ So, this Riddler, he's dangerous?
+L73543 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ I think the question would be, do you have a thing for bats?
+L73540 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Exactly.
+L73539 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ So what you're saying, this guy's a total wacko, right?
+L73538 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Patient apparently suffers from acute obsessional syndrome with potential homicidal styles. Work better for you?
+L73537 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Wacko? That a technical term?
+L73536 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ My opinion. This letter writer is a total wacko.
+L73535 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Me? No. Only things that need calming in my dreams are the Rockettes.
+L73534 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ She's a Malaysian dream warden. She stands sentry while you sleep and calms your dreams.  Need one?
+L73533 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Still play with dolls, Doctor?
+L73532 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ On occasion. Usually at night.
+L73531 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ The infamous Wayne charm. Does it ever shut off?
+L73530 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Just ones this beautiful.
+L73529 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ Psychiatrists make you nervous?
+L73528 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Somebody's been sending me love letters. Commissioner Gordon thought you might give me your expert opinion.
+L73527 +++$+++ u3935 +++$+++ m261 +++$+++ CHASE +++$+++ How can I help you, Mr. Wayne?
+L73864 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Chase is coming for dinner. Why don't you join us.
+L73863 +++$+++ u3936 +++$+++ m261 +++$+++ DICK +++$+++ Bruce, you can't.
+L73862 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ Exactly. And once you'd killed him you'd be lost. Like me.  All this has to be a choice. Otherwise...it's a curse.
+L73861 +++$+++ u3934 +++$+++ m261 +++$+++ BRUCE +++$+++ And when you finally get Two-Face?

@@ -1,0 +1,200 @@
+L3627 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Please, it really doesn't matter.
+L3626 +++$+++ u58 +++$+++ m3 +++$+++ MILLER +++$+++ Well, thank you very much for being so understanding.
+L3623 +++$+++ u58 +++$+++ m3 +++$+++ MILLER +++$+++ I'm terribly sorry. I was just on my way down to meet you. I saw your ship dock and I knew I had plenty of time, and I was on my way out of the office when, suddenly, the phone rang.
+L3622 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ How do you do, Mr. Miller?
+L3773 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Dr. Smyslov... I'm not permitted to discuss this.
+L3772 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ This epidemic could easily spread to our base, Dr. Floyd. We should be given all the facts.
+L3768 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Quite frankly, we have had some very reliable intelligence reports that a quite serious epidemic has broken out at Clavius. Something, apperently, of an unknown origin. Is this, in fact, what has happened?
+L3767 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Certainly.
+L3766 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Dr. Floyd, at the risk of pressing you on a point you seem reticent to discuss, may I ask you a straightforward question?
+L3763 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Well, I'm glad about that.
+L3762 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Fortunately, they did.
+L3761 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Yes... Well, I hope the crew got back safely.
+L3760 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Yes, and I'm afaid there's going to be a bit of a row about it. Denying the men permission to land was a direct violation of the I.A.S. convention.
+L3754 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ I see.
+L3753 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ That's right.
+L3752 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ You mean you haven't been able to get anyone at the base for ten days?
+L3751 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Yes, well at first we thought that was the explanation, but it's been going on for the past ten days.
+L3748 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Yes. Well, for one thing, whenever you phone the base, all you can get is a recording which repeats that the phone lines are temporarily out of order.
+L3747 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Really?
+L3746 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Well, it's just for the past two weeks there have been some extremely odd things happening at Clavius.
+L3745 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ I'm sorry, but I'm not sure I know what you mean.
+L3740 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Yes,as a matter of fact, I am.
+L3739 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Are you, by any chance, going up to your base at Clavius?
+L3738 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Well, as it happens, I'm on my way up to the moon
+L3726 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Yes, really, thank you very much.
+L3725 +++$+++ u61 +++$+++ m3 +++$+++ SMYSLOV +++$+++ Are you quite sure?
+L3724 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Oh, I really don't have time for a drink. If it's all right I'll just sit for a minute and then I've got to be off.
+L3907 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ I don't think it has, but I'd like to check that. Simpson, what's the log on that?
+L3906 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Has it been exposed to any sun before now?
+L3905 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ Well, not really. At first glance, black would suggest something sun-powered, but then why would anyone deliberately bury a sun- powered device?
+L3904 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Any ideas about the colour?
+L3897 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ Tomb, shine, survey-marker spare part, take your choice.
+L3896 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ But you don't have any idea as to what it is?
+L3893 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ Not really. It's completely inert. No sound or energy sources have been detected. The surface is made of something incredibly hard and we've been barely able to scratch it. A laser drill
+L3892 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Any clue as to what it is?
+L3891 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ By the deformation between the mother rock and the fill.
+L3890 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ How can you tell it was deliberately buried?
+L3889 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ Yes, it does. The sub-surface structure shows that it was deliberately buried about four million years ago.
+L3869 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ I'm afraid it can and it will be kept under wraps as long as it is deemed to be necessary by the Council. And of course you know that the Council has requested that formal security oaths are to be obtained in writing from every- one who had any knowledge of this event. There must be adequate time for a full study to be made of the situation before any con- sideration can be given to making a public announcement.
+L3868 +++$+++ u57 +++$+++ m3 +++$+++ MICHAELS +++$+++ Dr. Floyd, how long do you think this can be kept under wraps?
+L3839 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Well, thank you very much, and please let us know if there is anything we can do to make your trip more comfortable.
+L3838 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ No, of course, Captain, I can understand your concern.
+L3837 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Well, fine. Thanks very much, anyway, and I hope you don't mind me asking?
+L3834 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Yes, well, I wouldn't have been too concerned about it, except I've heard these stories about the epidemic and, as a matter of fact, I've heard that ten people have died already.
+L3833 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ I see. Well, I'm sorry about that. I wouldn't think there's any cause for alarm.
+L3832 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Well, I'll tell you why I ask. You see, I've got a girl who works in the Auditing Department of the Territorial Administrator and I haven't been able to get her on the phone for the past week or so, and with all these stories one hears, I'm a little concerned about her.
+L3829 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ I take it this is something to do with the trouble they're having up at Clavius?
+L3828 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ I see.
+L3827 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Well... the crew is confined to the ship when we land at Clavius. We have to stay inside for the time it take to refit - about twenty-four hours. And then we're going to back empty.
+L3826 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ What do you mean?
+L3825 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ Incidentally, Dr. Floyd, I wonder if I can have a word with you about the security arrangements?
+L3824 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Thank you.
+L3821 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Oh, no, thank you. The two girls have taken wonderful care of me. I'm just fine.
+L3820 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ We're scheduled to dock in about seven hours. Is there anything we can do for you?
+L3819 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ When do we arrive at Clavius?
+L3818 +++$+++ u59 +++$+++ m3 +++$+++ PILOT +++$+++ There's nothing like weightless sleep for a complete rest.
+L3817 +++$+++ u55 +++$+++ m3 +++$+++ FLOYD +++$+++ Oh, marvellous. It's the first real sleep I've had for the past two days.
+L4183 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ All right, Hal. We'll take care of it. Let me have the hard copy, please.
+L4182 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ Not really, Frank. I think there may be a flaw in the assembly procedure.
+L4181 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Do you have any idea of what is causing this fault?
+L4175 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Let me see the tracking alignment display.
+L4174 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ I know you did, Frank, but I assure you there was an impending failure.
+L4170 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ It looks like we have another bad A.O. unit. My FPC shows another impending failure.
+L4169 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Yes, Hal, what's up?
+L4119 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Opening pod bay doors.
+L4118 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ Pod Bay is decompressed. All doors are secure. You are free to open pod bay doors.
+L4113 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Hal, check all airlock doors secure.
+L4112 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ Roger.
+L4111 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Hal, maintain normal E.V.A. condition.
+L4110 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ I understand.
+L4109 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Hal, I'm going out now to replace the A.O. unit.
+L4108 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ Five by five, Frank.
+L4097 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ Roger.
+L4096 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Hal, have pod arms secure the component.
+L4033 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Thank you very much, Hal.
+L4032 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ That's true.
+L4031 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ There is no other purpose for this mission than to carry out a continuation of the space program, and to further our general knowledge of the planets. Is that true?
+L4030 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ That's true
+L4029 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Approximately five years after we go into hibernation, the recovery vehicle will make rendezous with us and bring us back. Is this true?
+L4028 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ That's true.
+L4025 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ That's true.
+L4024 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Our transit time is 257 days. Is that true?
+L4023 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ True.
+L4022 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Our Mission Profile calls for Discovery going to Saturn. True or false?
+L4021 +++$+++ u56 +++$+++ m3 +++$+++ HAL +++$+++ I will if I can, Frank.
+L4020 +++$+++ u60 +++$+++ m3 +++$+++ POOLE +++$+++ Right. Hal, tell me whether the following statements are true or false.
+L5048 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Great, just great.
+L5047 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ That we do. And we put air in the tires. I'll even sell you some gas if you need it.
+L5046 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ How about chargin' the battery?
+L5045 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ We don't wash 'em, ya know.
+L5044 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Yeah, I've been busy.
+L5043 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ This is three years old.
+L5042 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Hammond.
+L5041 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ Name?
+L5040 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I want to pick up my car.
+L5039 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ Yeah?
+L4925 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Try obeyin' the law once in awhile, and I won't have to hassle you...
+L4924 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ I'm tellin' ya, I'm giving you all I know.
+L4923 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Look, give me a break, you're going to have to settle for her place.  It's the only thing I know.
+L4922 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I don't give a damn about his girl...
+L4906 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ I don't give a shit who you ask.
+L4905 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Maybe I better ask around, see what your pals think.
+L4904 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Fuck off.  I don't know what the hell you're talkin' about.
+L4903 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Now how's your memory doin'?
+L4900 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, man, I think I'll have a vodka.
+L4899 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Maybe you better have a Black Russian.
+L4898 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Vodka.
+L4897 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Yeah.
+L4568 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ And I need one more for my pal. Yeah. Make her an Indian. No, not a turban, you know, a squaw.
+L4567 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Hey, what about me?
+L4563 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ He's just kiddin', you just keep doin' what I tell ya, you'll be okay.
+L4562 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe that's where I'm gonna cut your throat.
+L4511 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Just do what I say, okay? We'll pay for the girls and have a good time... Don't you trust me?
+L4510 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ They always let me do anything. I don't want to pay for it.  I never paid for it in my life.
+L4509 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ It's better when you pay... they let you do anything.
+L4508 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ I never paid for it in my life.
+L4507 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Yeah, dummy.  Money.
+L4506 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Pay money?
+L4505 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Pros.
+L4504 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Whaddya mean, buy?
+L4503 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe after we get done with him I'm gonna buy us some girls.
+L4502 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ I ain't tired yet.
+L4501 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I want to drive awhile.
+L4454 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ You got a real big mouth, convict.
+L4453 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe you shoulda stole a better truck, Tonto.
+L5371 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Now you're talkin'. See ya...
+L5370 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?
+L5368 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, no, I'm tryin' to be nice. Buy yourself something pretty. I'd do it, but I got to go.  I got this cop waitin' for me...
+L5367 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, don't do that.  I said I wasn't a pro, remember?
+L5366 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here you go, baby.
+L5216 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I just struck it rich... I think we can do a little business.  As a matter of fact, I think we can have a party.
+L5215 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hello, again.
+L5194 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here's hoping, baby...
+L5193 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Well, maybe I'll see you later ...
+L5188 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, it's gotta be here and now. Believe me. Only I don't have the damn money for a room...
+L5187 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ What's the matter with my place?
+L5186 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, baby, nothin' like that. Look, there's a place across the street. We can go right over there...
+L5185 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ You just quit bein' a priest or somethin'?
+L5184 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, i been waiting three years.
+L5183 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ You're in a hurry.
+L5182 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here you go sweetheart, throw it my way.
+L5181 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, don't you think a hair stylists got any interest in gettin' it on?
+L5180 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Goodbye.
+L5179 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ No, I go to a school to learn how to do hair. It's a government program. But really I want to be a model - and I am definitely not sellin'.
+L5178 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Oh ... You're a schoolteacher...
+L5177 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, what kind of talk is that?
+L5176 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Excuse me, baby, but if i don't get some action tonight, I'm gonna bust.  You interested?
+L5175 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ I'm candy...
+L5329 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ In the back.  Down the other corridor.
+L5328 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Where's ganz?
+L5325 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He can live or die ... You let us in and he's got a chance to make it.  Otherwise, he gets ventilated.
+L5324 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ No chance.
+L5323 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You're gonna help us take him.
+L5322 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Yeah.  Sure, i'm crazy in love with him, who wouldn't be...
+L5321 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You and the other one, you're still Billy's girls. You always were his girls...
+L5318 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ No time for any of that crap any more, lady... I'll rip your lungs out if you don't answer fast.
+L5317 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Would you guys...
+L5316 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I hear you've got visitors.
+L4960 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ I used to go with him...I don't know where the hell he is.  I haven't seen him for two weeks. And I don't think I will.  He owes me money...
+L4959 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ How about it?
+L4945 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Don't give me that police shit. You drop it.
+L4944 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I said police.  Now drop the goddamn gun.
+L5348 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I ain't gonna beg for my life. It ain't cool.
+L5347 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You're done.  End of story.
+L5346 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I got hit.  I can't believe it. I got shot.
+L5340 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Whaddya mean...I got your gun ... I got his money... I got everything...
+L5339 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't think you're gonna make it.
+L5338 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ After I get outta this, cop...I'm gonna live forever...
+L4629 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ What are you talking about? We didn't kill her ...
+L4628 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You lying son of a bitch...
+L5384 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No trouble, Jack. But, listen, suppose I stay a crook?  Where'd you get the idea that you could catch me?
+L5383 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Thanks.
+L5382 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Spare met Jack. I'm into legit investments from here on in.
+L5381 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ No, you don't. If I ever get word of you steppin' over the line again, I'm gonna ventilate that suit of yours.
+L5380 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You are an awesomely weird cop. Sure wish there were more like you runnin' around out here.
+L5379 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's right. Not my style, Reggie..
+L5378 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ And you're tellin' me you don't want any of this cash?
+L5377 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ It's your money.  It'll be here in six months when you get out.
+L5376 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ There's nothin' to talk about.
+L5375 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Wait a minute, Cates.  I've been waitin' three years for that.  I don't think it's fair, man. What about the merit system.? You were gonnna give me a few thousand.
+L5373 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, Jack, real men don't have to go in for that macho bullshit ... but I was fantastic.
+L5372 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Okay, reggie, start bustin' my chops... Tell me how great you were with that chick.
+L5353 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You did pick a real strange time to go and be brave all on your own...
+L5352 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah.  But I wasn't there for a second.
+L5351 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You okay?
+L5314 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Well, you got to admit we come a long way.
+L5313 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Partnership?
+L5312 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, and I know Ganz sure ain't no sweetheart... I wouldn't like it if this partnership ended before it gets started.
+L5311 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Sure, I'll give you a shot at it, but Ganz is mine.  You know, that big Indian plays it for keeps...
+L5310 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ If we run into Billy first, let me try and talk him in.
+L5309 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Whatever play I maker just back me up.
+L5308 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, there she is...
+L5307 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I've got to play it rough with them. If they know anything, I'm gonna know it.
+L5306 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What if your girl's theory turns out to be bullshit?  I mean, they could be in Rio de Janeiro.
+L5305 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ If she's right, and if you don't screw up.
+L5304 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Do I get to kiss her too?
+L5291 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, too bad.  They were real nice lookin' too...In bed together, hardly any clothes one watching TV...
+L5290 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, well the only woman of the Indian's we ran into was shacked up with her dyke girlfriend.  I guess she went with him before she came outta the Closet ... They both looked mad enough to kill him...
+L5257 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Don't worry about it.
+L5256 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ It's late, they're closing...

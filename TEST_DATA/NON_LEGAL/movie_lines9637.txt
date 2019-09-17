@@ -1,0 +1,200 @@
+L111410 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Mother? ... What ... what's ... you've got to help me ...
+L111409 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Sam!!! 
+L110889 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Actually, I've decided ...
+L110888 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ It seems you're the first person ever to turn down a promotion. He thinks you should see a doctor.
+L110887 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I want to talk to him.
+L110886 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Yes he is - he wants to talk to you.
+L110885 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Is Mr Helpmann here?
+L110884 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Of course. Isn't it wonderful? The bandages came of this afternoon. Come and join the fun. Everybody's here.
+L110883 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Mother? Is that you?
+L110659 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Don't be childish, Samuel. Of course you want something. You must have hopes, wishes, dreams.
+L110658 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I'm sorry. I don' t want dessert. I don't want promotion. I don't want anything.
+L110657 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Sam ... you haven't had dessert.
+L110650 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Mother!
+L110649 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Actually, Alma, that's one of the little things I was dying to tell you ... Sam's been promoted to Information Retrieval.
+L110641 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ By the way, I saw a wonderful idea for Christmas presents at the chemists. Gift tokens. Medical gift tokens.
+L110640 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ This isn't rare!
+L110639 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ What were we saying?
+L110598 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ It's something for executives.
+L110597 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What is it?
+L110596 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ I hope you like it. It's very exclusive.
+L110594 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ You're not listening, mother.
+L110593 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ Mr Helpmann was very close to your poor father. He was very close to me. Still is. He'll take you under his wing at Information Retrieval. You'll like it when you get there.
+L110581 +++$+++ u4244 +++$+++ m283 +++$+++ MOTHER +++$+++ No you're not. Jack Lint is a lesson to you - he never had your brains but he's got the ambition. You haven't got the ambition but luckily you've got me. And Mr Helpmann. Mr Helpmann was very close -
+L110580 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I just wish you would stop interfering, mother! I don't want promotion. I'm happy where I am.
+L110809 +++$+++ u4245 +++$+++ m283 +++$+++ MRS BUTTLE +++$+++ He hadn't done anything ... He was good ... What have you done with his body?
+L110808 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Uh ...
+L110806 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Um ...
+L110805 +++$+++ u4245 +++$+++ m283 +++$+++ MRS BUTTLE +++$+++ What have you done with his body?
+L110804 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Er ... I assure you Mrs Buttle, the Ministry is always very scrupulous about following up and eradicating error. If you have any complaints which you'd like to make, I'd be more than happy to send you the appropriate forms.
+L110803 +++$+++ u4245 +++$+++ m283 +++$+++ MRS BUTTLE +++$+++ My husband's dead, isn't he?
+L110802 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Yes. Not my department ... I'm only records. It seems that Mr Buttle was overcharged by Information Retrieval. I don't think they usually make mistakes ... but, er ... I suppose we're all human.
+L110801 +++$+++ u4245 +++$+++ m283 +++$+++ MRS BUTTLE +++$+++ Mistake?
+L110800 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ It's a refund ... I'm afraid there was a mistake.
+L111233 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ Shirley and I come here regularly. I love romantic lingerie.
+L111232 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Er, yes ...
+L111231 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ My complication had a complication, but Dr Chapman says I'll soon be up and bouncing about like a young gazelle. Are you buying a Christmas present for your mother?
+L111230 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I think that'll hold it.  Hello Shirley. Just helping someone tie up a Christmas present. How are you?
+L111229 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Ah ... hello, Mrs Terrain. SAM lets go of the parcel and pushes JILL away. She moves off.
+L110908 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I ... uh ...
+L110907 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ Here we are! I'm going to leave you two lovebirds in peace.
+L110906 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ I know, I know ...!
+L110905 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Actually, there's someone I want to meet ...
+L110904 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ There was a slight complication. Dr. Chapman says it often happens with a delicate skin like mine. Nothing to worry about. He's promised me I'll have these bandages off in a ...
+L110903 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Whatever happened to you?
+L110648 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What? Now? It's my lunch hour.
+L110647 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ Really, Sam - when are you going to do something about these terrorists?
+L110635 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Numero trois, steak.  Monsieur, Mesdames, Bon appetit.
+L110634 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ That's all right Ida ... it's just that he's such an artist. To him, cutting is so crude ... so primitive.
+L110629 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Numero deux, duck a l'orange. 
+L110628 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ It's too exciting. I've left Dr Jaffe and gone to Dr. Chapman.
+L110627 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Numero huit, braised veal in wine sauce. 
+L110615 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ Thank you, Spiro. Shirley, what are you going to have?
+L110614 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Between you and me, Madam, today the number two.
+L110613 +++$+++ u4246 +++$+++ m283 +++$+++ MRS TERRAIN +++$+++ I can't make up my mind whether to have a number one or a number two. What do you recommend, Spiro?
+L110686 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What? Who is this?
+L110685 +++$+++ u4247 +++$+++ m283 +++$+++ PHONE VOICE +++$+++ Put the phone down and your hands up.
+L110684 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Who's that? 
+L110683 +++$+++ u4247 +++$+++ m283 +++$+++ PHONE VOICE +++$+++ Hello. Mr Lowry?
+L110682 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Hello ... hello ...
+L110668 +++$+++ u4247 +++$+++ m283 +++$+++ PHONE VOICE +++$+++ Thank you for calling Cen -
+L110667 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Yes, but. I've got to have a heating engineer
+L110666 +++$+++ u4247 +++$+++ m283 +++$+++ PHONE VOICE +++$+++ Thank you for calling Central Services. I am sorry, due -
+L110665 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ This is an emergency!
+L110664 +++$+++ u4247 +++$+++ m283 +++$+++ PHONE VOICE +++$+++ Thank you or calling Central Services. am sorry, due to temporary staff shortage, Central Services cannot take service calls centrally between 2300 and 0900 hours - have a nice day - this has not been a recording, incident-
+L110663 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Hello - Central Services - I'm at 579B Block l9, Northwestern Section D - that's exit 1 on Green Pastures Highway at the Orange Blossom Flyover - and I've got trouble with the air- conditioning
+L111328 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Thank you, Dawson.
+L111327 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ I'm glad to see the Ministry's continuing its tradition of recruiting the brightest and best, sir.
+L111326 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ And you can't tell me what the proper channels are, because that's classified information?
+L111325 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ I'm afraid I can't, sir. You have to go through the proper channels.
+L111324 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Excuse me, Dawson, can you put me through to Mr Helpmann's office?
+L110951 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ No you couldn't, sir. This is Information Retrieval.  the lift's arrived, sir.
+L110950 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ But I could be anybody.
+L110949 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ No need, sir
+L110948 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ My I.D. cards.
+L110947 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ No, sir.
+L110946 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Er, don't you want to search me?
+L110945 +++$+++ u4248 +++$+++ m283 +++$+++ PORTER +++$+++ Thirtieth floor, sir. You're expected.
+L110944 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ My name is Sam Lowry. I have to report to Mr Warren.
+L111408 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Madam ... CUT to WOMAN turning, half in flirtatious conversation. It is SAM's MOTHER, but miraculously another twenty years younger and ... a parody of SAM's Dream Girl.
+L111407 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ what? ... Oh ... 
+L110623 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Numero, trois.
+L110622 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I don't know which numero.
+L110621 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Monsieur. Quel numero.
+L110620 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ A steak, please. Rare.  Mother, I need to ...
+L110606 +++$+++ u4250 +++$+++ m283 +++$+++ SPIRO +++$+++ Ah yes, the lady is waiting.
+L110605 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Are we?
+L111295 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ It's a 27B/6 of course.
+L111294 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What is it?
+L111289 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Thermostat's gone. And then some.
+L111288 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ For God's sake, what's happened?
+L110868 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Why not? All you've got to do is blow yer nose and fix it, haven't you?
+L110867 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Hang on! Wait a minute! You can't just go and leave it like this!
+L110860 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Who fixed your ducts?
+L110859 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What?
+L110850 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ It's a 27B/6, what did you think it was?
+L110849 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What is it?
+L110848 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Sign here please.
+L110845 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Emergency procedures.
+L110844 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What the - ? How did you - ?
+L110741 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ We'll be back.
+L110740 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I'm sorry, but I'm a bit of a stickler for paper work. Where would we be if we didn't follow the correct procedures?
+L110739 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ It's all right, Terry, it's all right, everything's all right.
+L110738 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ But we can get one.
+L110737 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Not ... as such ...
+L110736 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Have you got one or haven't you?
+L110735 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Now look what you've done to him.
+L110723 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Fixed itself.
+L110722 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ I mean it fixed itself.
+L110720 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Fixed?
+L110719 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ No, not at all. I mean, it's all right. It's fixed.
+L110712 +++$+++ u4251 +++$+++ m283 +++$+++ SPOOR +++$+++ Central Services.
+L110711 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Yes?
+L110750 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ On the house. You did me a favor. Check the corridor.
+L110749 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Thank you very much. How much will it...?
+L110748 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Time to go.
+L110747 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What do they want you or?
+L110746 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ My friends call me Harry. Information Retrieval, eh? Interesting!
+L110745 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Listen .. um ... I don't want to get involved in any of this. But I work at the Ministry of Information, and I happen to know that Information Retrieval have been looking for an Archibald Tuttle, Heating Engineer. You wouldn't by any chance be -
+L110710 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ No. Wait here.
+L110709 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Are you expecting anyone?
+L110707 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ No. But I can bypass it with one of these
+L110706 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Can you fix it?
+L110705 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Why? I came into this game for adventure - go anywhere, travel light, get in, get out, wherever there's trouble, a man alone. Now they've got the whole country sectioned of and you can't move without a form. I'm the last of a breed. Ah ha! Found it!  There's your problem.
+L110704 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Well I suppose one has to expect a certain amount
+L110703 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ The paperwork, couldn't stand the paperwork.  Over to the left please, if you don't mind sir. Hold it there. Yes, there's more bits of paper in Central Services than bits of pipe - read this, fill in that, hand in the other - listen, this old system of yours could be on fire and I couldn't even turn on the kitchen tap without filling in a 27B/6.... Bloody paperwork.
+L110702 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ The pace?
+L110701 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Couldn't stand the pa - ah - we're getting warm -
+L110700 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Sorry. wouldn't it be easier just to work for Central Services?
+L110699 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ ... but, with all the new rules and regulations ... unncgh, c'mon, c'mon ... they can't get decent staff any more ... so ... they tend to turn a blind eye ... as long as I'm careful.  ... Mind you, if ever they could prove I'd been working on their equipment ... well, that's a different matter ... up a bit with the torch, sir.
+L110698 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Well, yes ... and no. Officially, only Central Service operatives are supposed to touch this stuff ... Could you hold these.
+L110697 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Are you saying this is illegal?
+L110696 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ A little precaution, sir. I've had traps set for me before now. There are people in Central Services who'd love to get their hands on Harry Tuttle.
+L110694 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What?
+L110693 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ They're a bit overworked these days. Luckily I intercepted your call.
+L110692 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ But ... I called Central Services.
+L110691 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Ha!!
+L110690 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ Tuttle! Are you from Central Services?
+L110689 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Harry Tuttle. Heating engineer. At your service.
+L110688 +++$+++ u4249 +++$+++ m283 +++$+++ SAM +++$+++ What is this?  Who the hell are you?
+L110687 +++$+++ u4252 +++$+++ m283 +++$+++ TUTTLE +++$+++ Nice and easy now. Keep your hands where I can see them.
+L112739 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ Go on, get outta here, Pierce, before I give you a big hug.  I love this guy.
+L112738 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ What if there is no tomorrow?
+L112737 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ I got some forms here to fill out about that accident when you get the time.  I'll fire you tomorrow. I promise.
+L112736 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ No ...
+L112735 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ You're late, Pierce. I know, but I can't fire you. I've got nobody to work sixteen XRay with Walls.
+L112440 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ I'm sorry, Pierce.  You're going out with Marcus. Duty calls. The City needs you.
+L112439 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ I don't think a week's gonna do it.
+L112438 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ I'll fire you tomorrow. Hell, better than that, I'll forward you some sick time. A week, two weeks off-- how about that?
+L112437 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ You swore you'd fire me if I came in late again.
+L112436 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ I feel for you, but we got an emergency here. It's a weekend of full moons.  Everyone's called in sick. Larry, Veeber, Stanley too. We need bodies out there. I had to put Marcus on Twelve Young. You know he's not supposed to work two nights in a row.
+L112435 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ You know they won't do it. It's up to you. You gotta be strong.
+L112434 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ Nobody tells me to fire anyone. I told them: shove it up the big one.  Sorry.  I said, you want to fire him, come over and do it yourself.
+L112433 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ I'm sorry Captain. Don't take it too hard.
+L112432 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ I've never fired anyone in my life.
+L112431 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ It's okay. I'll just get my things out of the locker.
+L112430 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ You're killing me, you know that? You got no sick time according to Command. I've been told to terminate.
+L112429 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ I'm sick. That's what I've been telling you.
+L112428 +++$+++ u4253 +++$+++ m284 +++$+++ CAPT. BARNEY +++$+++ What am I going to to do with this guy?  Pierce, I was just on the phone with Borough Command. Out of twelve shifts this month, you've been late for nine, sick four and that includes the shift where you came late and went home early.
+L112609 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ It's a miracle.
+L112608 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ You can trust me on this one.
+L112607 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ Es impossible.
+L112606 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ She's having a baby. Twins.
+L112605 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ Is she dying?
+L112589 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Thanks for the translation.  What's your name? Nombre?
+L112588 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ She say she in great pain.
+L112587 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Can you walk? Puedes caminar?
+L112586 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Are you pregnant? Estas embarazada?
+L112585 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ No, no, that's impossible.
+L112584 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Pregnant.
+L112583 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ No English. She has terrible pain in her belly.
+L112597 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ We are virgins.
+L112596 +++$+++ u4262 +++$+++ m284 +++$+++ MARCUS +++$+++ No underwear?
+L112595 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ Never. No cigarettes, no drugs, no booze.
+L112594 +++$+++ u4262 +++$+++ m284 +++$+++ MARCUS +++$+++ In that time, you ever have sex?
+L112593 +++$+++ u4254 +++$+++ m284 +++$+++ CARLOS +++$+++ Two years. Ever since we left island.
+L112592 +++$+++ u4262 +++$+++ m284 +++$+++ MARCUS +++$+++ You know each other a long time?
+L112717 +++$+++ u4260 +++$+++ m284 +++$+++ KANITA +++$+++ Stressed? He's psycho.
+L112716 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ Be cool, man. You're having a paradoxical reaction. It can happen.  Didn't I tell you this guy was stressed out?
+L112715 +++$+++ u4260 +++$+++ m284 +++$+++ KANITA +++$+++ He flipped out.
+L112714 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ Frank, take it easy. what happened?
+L112674 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ He's not a cop, he's a medic.  I'm CY Coates.
+L112673 +++$+++ u4260 +++$+++ m284 +++$+++ KANITA +++$+++ He looks like a cop.
+L112672 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ It's okay, Kanita. Come on in.
+L112667 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ Mary ...
+L112666 +++$+++ u4260 +++$+++ m284 +++$+++ KANITA +++$+++ Hey Cy, guess who's here?
+L112837 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ Boy can't shoot for shit, either. Goddamn that's hot.
+L112836 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ No.
+L112835 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ That's too bad. Get some money, a nice looking girl on your arm, and everyone wants to take a piece. Some kid I wouldn't let wash my Mercedes is in my house, shooting at me. Damn, I thought I could make it onto the balcony like Tiger. He's fat, that's why, falls faster. I'm trying to watch my weight, and look what happens. Am I shot, Frank?
+L112834 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Dead.
+L112833 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ What about Kanita?
+L112832 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ I was tired. I needed a coffee.
+L112831 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ I've been thinking about things. Meditating on my financial future. You guys gave me plenty of time to meditate on the future. Whatja do, stop for Chinese on the way over? There's plenty of food in my place.
+L112830 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ You're going to live.
+L112829 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ So, Frank, am I going to live?
+L112828 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ I can't hold up my head anymore.
+L112827 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ They're gonna torch the fence. You're gonna feel the metal getting warm, maybe very warm.
+L112825 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ No!
+L112824 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ Does that hurt?
+L112700 +++$+++ u4255 +++$+++ m284 +++$+++ COATES +++$+++ Just take it easy.
+L112699 +++$+++ u4258 +++$+++ m284 +++$+++ FRANK +++$+++ I guess I'll be going.

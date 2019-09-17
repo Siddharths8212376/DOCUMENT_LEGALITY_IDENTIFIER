@@ -1,0 +1,200 @@
+L450995 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You don't know anything about me.
+L450994 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ I see.  Well.  Maybe that means you'd have lunch with me sometime then.
+L450993 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ It's... it's not like that.
+L450992 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ Hope to be?
+L450991 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ No.
+L450990 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ Hey, big guy, you getting tired, yet?  I am.  This is Vivian.  You two been together long?  You and Edward?
+L450989 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ Thunder's a horse.  Come on.
+L450988 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Please, we hardly know each other.
+L450987 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ Let's not talk about it, it's too depressing.  Come on, I'll show you Thunder.
+L450986 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Huh?  Oh... yeah.  S'okay?  Uhm... how're... business things going.
+L450985 +++$+++ u7132 +++$+++ m479 +++$+++ DAVID +++$+++ I like your hat.
+L451190 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Who indeed...
+L451189 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ Who are you going after next, sir?
+L451188 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ Mr. Kross is just getting off the phone with his stock broker. It's finished.  You've won.
+L451187 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What?
+L451186 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ Congratulations, sir.
+L450735 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ I talked to some developers about the land.
+L450734 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You what?
+L450733 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ The real estate possibilities are endless.  Most of the yard we'll just level.  I talked to a couple of developers, under the table, of course, and they said --
+L450731 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Not with those smokestacks it's not.
+L450730 +++$+++ u7134 +++$+++ m479 +++$+++ JAKE +++$+++ Storage, I think.
+L450729 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What's that long building over there?
+L451215 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You're very right.  I think the best thing we could all do is go home.
+L451214 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ You'd be initiating a financial battle you'd ultimately lose, Mr. Harris.
+L451213 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ This time I imagine you would, yes.  Hmm...  With all this in mind, Mr. Kross, I can't logically make a formal bid on your company, can I?
+L451212 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Quiet.  Would I get the loans?
+L451208 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I suppose you'd find out soon enough that you have assets you presently don't seem aware of, wouldn't you?  The waste processing licenses at that abandoned shipyard of yours, you'd certainly find out about that.
+L451207 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ I... I don't know.  There... there wasn't time...
+L451206 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ How?
+L451205 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ I... I would take advantage of it.
+L451202 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ If you had a... reprieve, what would do?
+L451201 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Yes.
+L451200 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Stop.  For just a moment.  Mr. Kross, I'd like to ask you a few questions <u>before</u> you sign. You realize that you're a target. If you weren't mine, you'd be someone elses, correct?
+L451136 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You're making the right decision, sir.
+L451135 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Of course, yes.  After the <u>expected</u> filing period is over, I'm going to recommend to the board that we accept your bid.
+L451134 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ <u>Expected</u>... offer.
+L451133 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Yes.  I'm here to tell you that I've reconsidered my position on your acquisition offer.
+L451128 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Not bad for a man who hasn't slept in four nights.  I'll get used to it.
+L451127 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ How are you, Mr. Kross.
+L451126 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ Mr. Harris.
+L450860 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It is <u>not</u> your company.  It's a public company.  And I <u>am</u> going to acquire it.  Either I buy from the other stock holders, or I buy from you.
+L450859 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ I don't question the legality of what you do.  It's your morality that makes me sick.  I will not allow my company to be raped by a man like you.
+L450858 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What I did with those companies was perfectly legal.
+L450857 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ I know all about you, Mr. Harris. When you buy companies, they have a way of disappearing.  Even the pension funds are stripped clean. The last three companies you took over were cut up in so many pieces, widows were left without their retirement checks.
+L450856 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ No.  What I have is a lot of money.
+L450855 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ You've got a lot of nerve.
+L450854 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Mr. Kross, I'm not here to sell you my stock.  On the contrary, I'm here to buy yours.
+L450846 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ To get me in a mood to sell -- double what I paid.  But your company doesn't have enough capital right now to buy anything.
+L450845 +++$+++ u7136 +++$+++ m479 +++$+++ KROSS +++$+++ What would it take to buy our stock back?  Name your price.
+L451256 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ It's not your fault.  You're right.  Kit's right.  But I want the fairy tale.
+L451255 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian...
+L451254 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I didn't think so.
+L451253 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I do.  I do want to.  That's why I'm leaving.  That's what you given me, see? I know what I want now.  I want a guy like you for real.  Not because you buy me things and give me money.  The nicest thing you ever done for me is hold my hand. You gonna give me that?
+L451252 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Stay with me tonight.  Not because you're being paid to. Stay with me because you want to.
+L451251 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Aw, don't... no...
+L451250 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I'm leaving.  Don't ya see?  If I stay with you like you want me to, there'll always be some guy, your friends eve, treatin' me like that... thinkin' they're allowed to.  What are you gonna do, fight'm all? No.  I'll take my money now, please.
+L451249 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You're packing.
+L451248 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It felt good.
+L451247 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ It was good.
+L451246 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I got tired of hating my father.
+L451245 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It was a business decision.
+L451244 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Right.  You're quite the Sir Galahad today, aren't ya'?  I heard what you did with Kross.
+L451243 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Not all men hit.  And no one is going to hit you anymore.
+L451242 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Why do guys always know how to hit a woman?  Right across the cheek, wham, so it feels like your eye is gonna explode.  What do they do, take you all aside in high school and show you how? It pisses me off!
+L451153 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It's what I do for a living. It's how I make money.
+L451152 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ It's all just business to you. Him.  Me.  Your life. Everything's business.
+L451151 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Yes.  The man made a business decision.
+L451150 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Business.
+L451149 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It's not your concern.  It's... business, that's all.
+L451148 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Right.
+L451147 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, I want you to listen to me.  The man realized that it would be better for his future and his son's future, if he cooperated.
+L451146 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Last time I saw him he was this strong guy.  Now he's beaten. And you <u>liked him</u>.
+L451145 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What do you mean?
+L451144 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What did you do to him?
+L451125 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You just did.
+L451124 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I've never treated you like a whore.
+L451123 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I know.  Hey, don't mind me.  I'm being stupid.  I'll think about it, okay?  It's a real good offer for a whore.
+L451122 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, life's not a fairy tale.
+L451121 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ When I was a little girl, my mother locked me in the attic when I was bad, which was pretty often. I'd stare out the window up there and make believe I was a princess trapped in the tower by the wicked queen.  Then suddenly a knight on a white horse with his bright colors flying would ride up. Rescue me from the tower, and then we'd ride off... but never, ever in all the times I had that dream did the knight say, "Come on baby, I'll put you up in a great condo."
+L451120 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, I've thought about this a lot.  This is the best solution.
+L451119 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I'm sorry.  That's very sweet, Edward, and I know you mean it...
+L451118 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ It wouldn't be like that.  I want to get you off the street.  You'll have a different kind of life. What's wrong with that?
+L451117 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What else?  You gonna leave some cash by the bed when you pass through town?
+L451116 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I have to go to New York tomorrow.
+L451115 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Yeah, you've been pretty tough to take.
+L451114 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ One more night and you're finally rid of me.
+L451101 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Yes.  I've never enjoyed it more. Thank you.
+L451100 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Did you?
+L451099 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I know.  I'm glad.
+L451098 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I more than liked it.
+L451097 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ If you'd gone on about how much you liked it, I'm not sure I'd have believed you.
+L451091 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, don't be afraid of what you don't know.  That's the fun of it.
+L451090 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ But don't they have it in English?
+L451089 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'll whisper some of the main parts of the story to you.  But you'll be surprised how much you understand.  The music conveys the story more powerfully than any words.
+L451088 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ If it's in Italian, how will I know what they're saying?
+L451082 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What happened to him?
+L451081 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You mean, besides Elvis?  I'm a human being.  Sure.  Once. First time I ever ran away from home, I got as far as Atlanta. I met this boy.  He'd been with his parents on their way to Chicago.  They stopped at a gas station.  He went to the john. When he came back they'd split. We sorta started looking out for each other.  Aw, he was sweet. And boy, was he good looking, y'know, dark hair and eyes. The chicken hawks were on him all the time.  He hated that. Sometimes we'd find a safe place to crash nights and we'd curl up together and we'd talk about all these crazy things.  The two of us getting married someday. Having kids.  Stupid stuff.
+L451080 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian.  I'm paying you to be you.  Be you.  Have you?  Ever been in love with anyone?
+L451079 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Sorry.  You're not paying me to ask you question like that.
+L451075 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'm glad you like it.  Now be quiet, I've really got to read these.
+L451074 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I've never been on a plane before.
+L451073 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ The opera.
+L451072 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Huh?
+L451071 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ To meet some friends.  Rudolpho, a poet... Benoit, a landlord... Mimi, a flower maker...
+L451070 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Where are you taking me!?
+L451069 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You don't want to go all the way to San Francisco in a limousine, do you?  I don't.
+L451065 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'll guard them and you with my life.
+L451064 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What if someone tries to steal it?
+L451063 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ You won't.
+L451062 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What if I lose it?
+L451061 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Shush.  Of course you can.
+L451060 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Edward, I can't.
+L451058 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I don't want you to get too excited... these are on loan... however...
+L451057 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What's that?
+L451056 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Hmm... let's see... no, there's something missing.
+L451055 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Do I look okay?
+L451044 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I really am sorry.
+L451043 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I'm not hurt.  It doesn't hurt you when somebody pisses on you, it just pissed you off.
+L451042 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian... I'm sorry.  I wasn't prepared for questions about us. It was an idiotic and insensitive thing I did.  I should have known that it would hurt you.
+L451041 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'll call you a cab.  If you want the clothes, pack them up.
+L451040 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Fuck off.
+L451039 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Fine.  I'm only here a couple of more days and I'm not going to spend them fighting with you.
+L451038 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Pay me!  Before I pick up this chair and smash your face in.
+L451037 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian...
+L451036 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Well, it's true.  Just pay me what you owe me and I'm gone.
+L451035 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Your goddamned friend, he thinks the only reason I'm with you is for the money.
+L451034 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Can we talk about this?  Can you just try to calm down?
+L451033 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I want my fucking money.  I'm getting out of here.  I don't want anything more to do with you.
+L451032 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ What was I supposed to do?  I told the truth.  Why should the truth upset you?  It's not as if you're from a convent.
+L451031 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Stuckey!  He wants an "appointment" with me after you leave.  You my pimp now or did he think that up on his own?
+L451030 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Would you please calm down.  Tell me what happened.
+L451029 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I've been with stinking old men who've made me want to puke but I've never had anyone make me feel as dirty as you did tonight.
+L451028 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I don't know what you're talking about.
+L451027 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Clean the slut up, take her out, huh?!  What are you trying to prove!?  I'm not a piece of meat for you to offer to your friends!
+L451026 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, what the --
+L451025 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You asshole!  I can't believe what a --!
+L450982 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Ready to stomp sod?
+L450981 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I thought I was the pro.  These women make me feel like an amateur.
+L450980 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'm sure that's true for some of them.
+L450979 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Edward, these women here, I don't think any of'm like the guys they're with.  They're just into it for the money.
+L450966 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Shall we mingle?
+L450965 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You could freeze ice on his wife's ass.  She anything like your ex?
+L450964 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ He's good at what he does.
+L450963 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Real genuine guy.
+L450955 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You did.
+L450954 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I really doubt anyone here frequents Hollywood Boulevard.
+L450953 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What id we run into someone I know?
+L450952 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I think it's exciting.
+L450951 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You're really pushing it, bringing me here.
+L450946 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ He died a long time ago.
+L450945 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You still mad at'm?
+L450944 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Not much to tell.  I went to public school.  Went to university on scholarship.  Went to work for an investment firm. In eight years I owned it.  My father was chairman of the board of the third company I ever went after.  I swallowed that company and shit out the pieces. One of the pieces was him.
+L450943 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Keep talkin'.  I like hearin'.
+L450942 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Easier than learning how to be poor.  My father's family was wealthy. When I was young there were cars and houses, private schools, nannies.  But then my father divorced my mother to marry another woman.  And he took his money with him.
+L450941 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Seems like it.  I guess it's easy to get used to, huh?
+L450940 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ No.
+L450939 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You always been rich?
+L450938 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Dinner can wait.
+L450937 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ What about dinner?
+L450936 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Please.
+L450935 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Wait till you see what I have on underneath.
+L450934 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Thank you.  I would.  Nice.
+L450933 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I thought maybe you'd like dinner.
+L450896 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Come with me?
+L450895 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Good.
+L450894 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Okay.
+L450893 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Vivian, you belong wherever you are.  I don't care how you were dressed, they were the ones who were wrong, not you.
+L450892 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I had a little problem in one store.  I wasn't dressed right. I don't know what to say.  I don't belong there.  Maybe I'll just go back to Bridget.  She was cool.
+L450891 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Was someone rude to you?
+L450890 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Well, you know those cold bitches that work in those stores and try to intimidate you?  It works.
+L450889 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Why not?
+L450888 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ I wasn't as much fun as I thought it was going to be.
+L450887 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I still don't understand why you only bought one dress.
+L450885 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Uh-uh.  No work.
+L450884 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I have work to do.
+L450883 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Yeah, it's this box, it has pictures, sound.  You don't have to use your brain at all.
+L450882 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Television?
+L450881 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Know what we're gonna do in a little while then?  We're gonna call Domino's and have'm deliver a bigass pizza.  We're gonna eat it in bed.  We're gonna veg' out and watch television.
+L450879 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ We're the exactly the same!  Kit keeps telling me don't get emotional when you turn tricks -- that's why no kissing -- it's too personal. The key is like you're saying, stay numb, don't get involved -- when I'm with a guy, I'm a robot, I just do it.  Except with you.  At your price I give my all...
+L450878 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Whether I liked him or not is irrelevant.  It's business. There's no emotion involved in business... if you want to survive.
+L450877 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You liked the guy, though.
+L450876 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Upset.  No.  I never get upset about business.
+L450875 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You're upset, huh?
+L450870 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Some game.  Screwin' some poor slob out of his retirement.
+L450869 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ And that's the way the game is played.
+L450838 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ You're forgiven.
+L450837 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I'm sorry.
+L450784 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Oooh!
+L450783 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I thought I told you not to answer the phone.
+L450782 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Hello?
+L450781 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Thank you <u>very much</u>.
+L450780 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ ... all right.  I'll meet you in the lobby.  But only cause you're paying me to.
+L450779 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ I think you'll approve.
+L450778 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Any good?
+L450777 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ The Rex.
+L450776 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ Go by yourself then.  Where you taking me anyway?
+L450775 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ This isn't a date.
+L450774 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ No, I don't "got it".  Even the farmboys back in Georgia come to the door when they're taking you on a date.
+L450773 +++$+++ u7133 +++$+++ m479 +++$+++ EDWARD +++$+++ Let's hope so.  You'll get some more clothes tomorrow.  I'll be pushed for time so meet me in the hotel lobby at seven forty-five sharp.  Got it?
+L450772 +++$+++ u7142 +++$+++ m479 +++$+++ VIVIAN +++$+++ It's very tasteful.  I think you'll especially like the zipper in the crotch.  I'm -- joking.

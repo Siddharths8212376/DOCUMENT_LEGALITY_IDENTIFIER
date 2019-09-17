@@ -1,0 +1,200 @@
+L48048 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Look -- we got in a little trouble -- they rudely took our helicopter for MedEvac work on this -- uh Operation Brute Force -- They just brought it back this morning.
+L48047 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Captain Willard -- go ahead.
+L48046 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Oh -- I see -- Well, girls, this is Captain -- eh --
+L48045 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah, I caught your show at Hau Fat.
+L48044 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Look -- you know the girls -- Thta's Terri -- she was playmate of --
+L48043 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ What's it matter? Get to the point.
+L48042 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ Where are you headed?
+L48041 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah --
+L48040 +++$+++ u3742 +++$+++ m247 +++$+++ AGENT +++$+++ You came in on that boat, didn't you?
+L48405 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ What is this?
+L48404 +++$+++ u3743 +++$+++ m247 +++$+++ AUSTRALIAN +++$+++ Moonby, 4th battalion, Royal Australian Regiment, Task Force. Ex-Corporal Moonby, deserted.
+L48403 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Moonby what?
+L48402 +++$+++ u3743 +++$+++ m247 +++$+++ AUSTRALIAN +++$+++ Moonby. Got any Winstons?
+L48401 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Who the hell are you?
+L48396 +++$+++ u3743 +++$+++ m247 +++$+++ AUSTRALIAN +++$+++ I know, I know, it's all right. Come in this way. It's mined over there. This way. It's all right.
+L48395 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We've been attacked.
+L47660 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Who are you ?
+L47659 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Headquarters 11 Corps -- 405th A.S.A Battalion -- S-2 -- Com-Sec -- Intelligence -- Nha Trang.
+L47655 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I go up on missions. Listen Captain, buy me all the beer you want, but you better tell that asshole over there you're not going to find out anymore about me.
+L47654 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ A year ? Waiter another beer.
+L47653 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ A long time.
+L47652 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ How long were you up there ?
+L47651 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We do.
+L47650 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ I didn't know we had units up there in North Vietnam.
+L47649 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ You know, I can remember once, getting back below the DMZ -- and the first Americans we ran into were a track squadron. I just couldn't believe how much water they had. We'd been chewing bamboo shoots for almost a week, and before that, for two weeks, we'd been drinking anything -- rain water, river shit, stuff right out of the paddies. And there were these guys standing by their trucks spilling water all over. I could've killed them.  I swear to God I would have, too, if ...
+L47648 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Thirty -- sometimes fifty.
+L47647 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ At least you always have enough water. How many gallons does each one of those damn things carry ?
+L47646 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Sometimes.
+L47645 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Fat. That's real fat.
+L47644 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Yeah.
+L47643 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Tracks ?
+L47642 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ I was an FO for the 25th.
+L47641 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Let's talk about you.
+L47640 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ That's quite an array of ribbons...
+L47639 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ No -- I worked too far north for LRRP.
+L47638 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Were you Longe Range Recon --
+L47637 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Sort of.
+L47636 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Rangers, eh?
+L47635 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ None.
+L47634 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ What unit were you with ?
+L47633 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah. Way north.
+L47632 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ North ?
+L47631 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ No.
+L47630 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Delta ?
+L47629 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I'm sure it is, but I had hepatitis.
+L47628 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ That's good gin.
+L47627 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ My part.  Beer, with ice and water.
+L47626 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Which part is that ?
+L47625 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Part.
+L47624 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ Winning the war by yourself.
+L47623 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Sure, thanks.
+L47622 +++$+++ u3744 +++$+++ m247 +++$+++ CAPTAIN +++$+++ How about a drink ?
+L48350 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ What did you put in all those ammo boxes?
+L48349 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Holy shit.
+L47769 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Then went too far -- he sat there and starts mutilating the centerfold. Poking pins in her an' all that. Sergeant says, don't do her like that. You leave your shitty little hands off that girl. Gook Lieutenant says Fuck you in Vietnamese -- Sergeant says, don't do that again. You'll wish you hadn't. Then he stood up, flicked his iron to rock and roll and gave the little zero a long burst through the Playboy mag. Man, it blew him clean off the dock -- Hell, just the magazine was floatin' there all full of holes.
+L47768 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Yeah -- typical A.R.V.N.
+L47767 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ He was working A.R.V.N. patrols and had one a them little cocky gook asshole Lieutenants -- anyhow, the Lieutenant took his new Playboy one day, sat on the end of the dock, and wouldn't give it back.
+L47766 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ So what happened ?
+L47761 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Yeah -- you can really get hung up on them like the cat in the Delta.
+L47760 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ It's really too much -- I mean I've collected every picture of her since she was Miss December.
+L48477 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ You got to kill this sonuvabitch -- Lance and me, we don''t understand none of this -- Jesus, Captain -- I don't wanna die here -- Do it quick.
+L48476 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ ... he's an amazing officer.
+L48475 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ I don't get it -- You said your mission was to kill him. Let's do it, an' get our asses outta here. This  Kurtz is ruining the war; I mean, this don't look good for America !
+L48474 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah, I know.
+L48473 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ This is evil -- evil, Captain. We're all gonna die here.
+L48470 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Sure.  Recoil... I feel the recoil of my rifle.
+L48469 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ When you kill Cong, don't you feel something.
+L48468 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Not a thing.
+L48467 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ He killed that guy without feeling anything.
+L48464 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Kurtz. I'm supposed to kill him, just like he said.
+L48463 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ What are we doing here?
+L48462 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I know.
+L48461 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Captain -- they've been probed all this week -- Cong and NVA regulars. There's gonna be a big offense any time.
+L48400 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ God knows.
+L48399 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Who's he?
+L48398 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Looks that way.
+L48397 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Charlie?
+L48223 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Yeah, it is.
+L48222 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ That's a light down there --
+L48220 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Still got a lot of that stuff from Nha Trang. But we're running low on the other.
+L48219 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ And the grass?
+L48218 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Less than half -- sure is a mess down there.
+L48217 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ How much is left?
+L48216 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ There's some bad holes, man, and the cracks -- water's coming through the cracks. Food's shot to hell.
+L48204 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ That we're dumber than we look.
+L48203 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Whatdoya think it thinks.
+L48202 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Probably is.
+L48201 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ I know it sounds stupid, but I feel like the goddamn jungle's watching us.
+L48199 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ I don't know.
+L48198 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ What do you see?
+L48098 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ I don't believe you --
+L48097 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Chef -- since you're such a fan of Miss December's I think you should be detailed with Lance and Clean to take the first drum up there.
+L48096 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ No shit.
+L48095 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I've arranged with those people we saw at Hau Fat to give us some 50 caliber in trade for a couple a drums of fuel --
+L48007 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ They lined us all up in front of a hundred yards of prime rib -- magnificent meat, beautifully marbled.. Then they started throwing it in these big cauldrons, all of it -- boiling. I looked in, an' it was turning gray. I couldn't stand it. I went into radio school.
+L48006 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ How?
+L48005 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Cook school -- that did it.
+L48004 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ What are you doing out here?
+L48003 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ That's right, sir -- I come from New Orleans -- I was raised to be a sauciere.. a great sauciere. We specialize in sauces; my whole family. It's what we do. I was supposed to go to Paris and study at the Escoffier School; I was saving the money. They called me for my physical so I figured the Navy had better food.
+L48002 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ A sauciere --
+L48001 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ No, sir -- I'm a real chef, sir -- I'm a sauciere --
+L48000 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Chef -- is that 'cause you like mangoes an' stuff?
+L47999 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Call me what, sir?
+L47998 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Why they call you that?
+L47997 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Yes, sir --
+L47996 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Chef.
+L47732 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ I hate that -- Every time I hear that noise something terrible happens.
+L47731 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Arch light.
+L48356 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ No -- most of 'em are still standing -- might've been disease.
+L48355 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Flood.
+L48238 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Said I speak French like a Spanish cow.
+L48237 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ What'd he say?
+L48208 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Thirty meters up, Lance; I saw the fucking flash.
+L48207 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Elevate Lance, in the tree. No, I saw another.
+L48021 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Mangoes? There as a fucking tiger in the woods -- I could've been eaten alive. I'm never going into that jungle again. I gotta remember never get out of the boat; never get outta the boat.
+L48020 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ You forgot the mangoes, didn't you?
+L47982 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I'll go with you in a while -- judt hold tight awhile --
+L47981 +++$+++ u3745 +++$+++ m247 +++$+++ CHEF +++$+++ Can I go get those mangos now?
+L48382 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Looks pretty shallow.
+L48381 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Who knows? Right.
+L48380 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Which way? Right or left?
+L48379 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Two hours after the fog lifted, we moved slowly to a spot we thought was roughly a mile and a half below Kurtz's camp. We approached a long sand-bank stretching down the middle of the river.
+L48374 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ If they have boats ... or canoes... they'd get lost in the fog. We can't move either -- we'll end up on the shore.
+L48373 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Will they attack?
+L48369 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Listen.
+L48368 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ What is it?
+L48367 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Listen.
+L48365 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Yeah -- like keep out --
+L48364 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Signs?
+L48363 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Whoever put'em there didn't do it to kill people -- They put 'em up as signs --
+L48362 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Thta's not Charlie's work --
+L48361 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Why -- Charlie put it there to kill --
+L48353 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ While you were sleeping.
+L48352 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ When'd you do it?
+L48351 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Rocks, sand -- those two men who deserted.
+L48249 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I am -- I'm Captain B.L. Willard. This is Chief Warrant Officer Phillips -- it's his boat. We were shot up bad downriver and need repairs and food -- we can pay you in gold.
+L48248 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I --
+L48228 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ We're Americans.
+L48227 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ They're not Cong.
+L48225 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ In the middle of the jungle -- a goddamn light.
+L48224 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ What the hell is it?
+L48195 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Get in there now or I'll bury you in this river.
+L48194 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ This is my crew and my fucking boat, and I'm the responsible party.
+L48193 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Get in there !
+L48192 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ This whole area is lousy with V.C. -- We don't stand a chance. Lemme turn around and we'll be in Hau Fat in six minutes.
+L48191 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Well, get in there.
+L48190 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I think this river wants to take us home fast. I'm practically goin' in reverse.
+L48189 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Can't be any worse than this. What do you think?
+L48188 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Who knows what's up there?
+L48187 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ What about ducking into one of those tributaries till this river slows down?
+L48184 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We found some bodies -- let's get out a here.
+L48183 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Wow, you must a found the C.O., eh?
+L48101 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ No shit -- hot damn --
+L48100 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ You'll see soon enough -- get going, sailor --
+L48099 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ What're you trying to say, Captain --
+L48094 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ All right I got a little surprise for you --
+L48093 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Careful,  Captain, they've been known to charge.
+L47994 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I'll go with him --
+L47993 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Yeah, Chef -- go ahead -- take Lance with you --
+L47844 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ The draft of that river might be too shallow on the point.
+L47843 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We could go in tomorrow at dawn -- there's always off-shore wind in the morning.
+L47778 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ First Air Cavalry. They're the ones gonna get us into the River.
+L47777 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Yeah -- fishing village -- helicopters over there. Hueys, lots of 'em.
+L47775 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Where ?
+L47774 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Smoke !
+L47730 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Beats me -- the sun was too much for him, or the mud. Who knows ?
+L47729 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Shot himself. What for ?
+L47728 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ 'Bout six months ago I took a man up to Lo Mung Bridge. He was regular Army too. Shot himself in the head. I brought his body back down.
+L47727 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ We're gonna have some help to get in the river. You know these waters, Chief ?
+L47726 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ The Delta closes off to us about ten  miles out of Hau Fat. We'll be able to pick up some supplies -- bit I think there are only two points we can draw enough water to get into the Nung River. It's all Charlie's turf from there on out.
+L47725 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Let's go.
+L47724 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ All right with me, I used to drive a taxi.
+L47723 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Chief, try to keep out of where we're going -- Why we're goin' and what's gonna be the big surprise.
+L47722 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ I met the P.B.R. crew; they were pretty much all kids, except for Phillips, the Chief -- Gunner's Mate Third Class L. Johnson -- Lance Johnson; Gunner's Mate Third Class J. Hicks -- The Chef -- Radio Operator Second Class T. Miller; they called him Mr. Clean.
+L47991 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I wonder if that was the same copter.
+L47990 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Jesus -- that guy's too damn much.
+L47930 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I saw that Colonel's Huey on the point --
+L47929 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Clear on starboard -- Where's Lance an' the Captain?
+L47928 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Forget that extra drum -- it's too damn hot.
+L47771 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ He's in the L.B.J. -- didn't give him no medals or nothing --
+L47770 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ They nail him for it bad ?
+L47765 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Yeah -- he really dug his Playboy mag, man -- I mean like he was there when it arrived -- He just knew.
+L47764 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ I never heard about that.
+L47763 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ One that went up for murder -- he was an Army Sergeant.
+L47762 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ What cat  ?
+L47734 +++$+++ u3748 +++$+++ m247 +++$+++ CLEAN +++$+++ Too far inland.
+L47733 +++$+++ u3746 +++$+++ m247 +++$+++ CHIEF +++$+++ Anybody see some smoke ?
+L47721 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ Terminate with extreme prejudice.
+L47720 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Terminate ?
+L47719 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ Exactly -- you'll go up the Nung River in a Navy P.B.R. -- appear at Nu Mung Ba as if by accident, re-establish your acquintance with Colonel Kurtz, find out what's happened -- and why. Then terminate his command.
+L47718 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ You want me to clean it up -- simple and quiet.
+L47717 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ You can see, of course, the implications, if any of this -- even rumours leaked out.
+L47716 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Touchy.
+L47715 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ Ours.
+L47714 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Our Recon flight ?
+L47711 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Maybe it's not Kurtz. I don't believe he's capable of that. I just don't believe it.
+L47710 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ What does that mean ?
+L47700 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Anyone got a cigarette.
+L47699 +++$+++ u3747 +++$+++ m247 +++$+++ CIVILIAN +++$+++ You didn't like him.
+L47697 +++$+++ u3763 +++$+++ m247 +++$+++ WILLARD +++$+++ Maybe.

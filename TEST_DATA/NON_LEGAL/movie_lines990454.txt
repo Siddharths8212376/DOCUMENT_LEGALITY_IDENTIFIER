@@ -1,0 +1,200 @@
+L622425 +++$+++ u8574 +++$+++ m581 +++$+++ SHERIDAN +++$+++ I see where you're going with that, but if I could just say something, which is basically that a guy like Landry is so autocratic he doesn't know how to let himself be helped; it's a point of pride to take every bullet, no matter who fired it, or whether it was even aimed at him, which personally I think it very self-defeating.  Now, don't get me wrong, he's a man of enormous integrity, but there's a political component to this job that the General just didn't have any patience for.
+L622424 +++$+++ u8570 +++$+++ m581 +++$+++ ROBERT +++$+++ Like you protected Landry?
+L622423 +++$+++ u8574 +++$+++ m581 +++$+++ SHERIDAN +++$+++ I just want to be clear about one thing.  I used to work for him, but now I work for you.  I'm not a partisan person, I'm an issue person. In the next few weeks, if you allow me, we'll get you well-versed on an incredible array of issues.  The most important of which, in my opinion, being Mexico.  I know everybody that you're gonna meet. It's important that they like you. It's not important that they like me.  That's why I can help protect you.
+L622855 +++$+++ u8577 +++$+++ m581 +++$+++ SPECIAL-AGENT-IN-CHARGE +++$+++ I don't know.  I don't think there's any one person.  See the problem is the Juarez cartel owns everything and everybody, all the property on the Mexican side, sometimes all the property on both sides.  Warehouses, transportation, even tunnels.  It's very organized.
+L622854 +++$+++ u8570 +++$+++ m581 +++$+++ ROBERT +++$+++ I mean, who runs interdiction on the Mexico side?
+L622853 +++$+++ u8577 +++$+++ m581 +++$+++ SPECIAL-AGENT-IN-CHARGE +++$+++ What do you mean?
+L622852 +++$+++ u8570 +++$+++ m581 +++$+++ ROBERT +++$+++ Who do we interface with on their side?
+L622851 +++$+++ u8577 +++$+++ m581 +++$+++ SPECIAL-AGENT-IN-CHARGE +++$+++ Right.  Now it's used by somebody from the Juarez Cartel, one of his lieutenants...  Who knows?  Every damn day there's birthday party. At first I thought they must have three hundred children, then I realized they're taunting us.  Three miles away and we can't touch them. Ha, ha, ha.
+L622850 +++$+++ u8570 +++$+++ m581 +++$+++ ROBERT +++$+++ He died in a liposuction surgery, right?
+L622848 +++$+++ u8577 +++$+++ m581 +++$+++ SPECIAL-AGENT-IN-CHARGE +++$+++ Agents who died in the field.
+L622847 +++$+++ u8570 +++$+++ m581 +++$+++ ROBERT +++$+++ Who are these guys?
+L622621 +++$+++ u8578 +++$+++ m581 +++$+++ VANESSA +++$+++ It's three a.m.  I'm not supposed to be here.  I snuck out --
+L622620 +++$+++ u8573 +++$+++ m581 +++$+++ SETH +++$+++ Mapping the fucking pig genome. We'll call your dad, he's a neurosurgeon --
+L622619 +++$+++ u8578 +++$+++ m581 +++$+++ VANESSA +++$+++ What kind of research?
+L622618 +++$+++ u8573 +++$+++ m581 +++$+++ SETH +++$+++ He's a research doctor.  You're dad's a doctor, too --
+L622617 +++$+++ u8578 +++$+++ m581 +++$+++ VANESSA +++$+++ Your dad's a doctor.  Call him --
+L622616 +++$+++ u8573 +++$+++ m581 +++$+++ SETH +++$+++ What do we do?  Okay.  Fucked-up Bowman's turning blue.  Doctor.  We need a doctor.
+L623820 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ You'll never catch us, you flabby bastard. Right, see, when I come back --
+L623819 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ I'll be right after you.
+L623817 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ I'm off for a pish. When I come back, that money's still here, OK?
+L623816 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ OK. Same again?
+L623792 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ Christ.
+L623791 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Because I fucking told you to do that, you doss cunt.
+L623790 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ Well, why didn't you bring them?
+L623789 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Bit fucking late, like.
+L623788 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ I'm sorry.
+L623787 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ It's fucking boring after a while without the cards.
+L623786 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ Well, I've not brought them.
+L623785 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ It's fucking boring after a while without the cards.
+L623784 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ Well, I've not brought them.
+L623783 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ The cards. The last thing I said to you was mind the cards.
+L623782 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ What?
+L623740 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ No. On you go.
+L623739 +++$+++ u8588 +++$+++ m582 +++$+++ SICK BOY +++$+++ Did you tell him?
+L623840 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ You were in my way.
+L623839 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ You've stabbed me, man.
+L623838 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Shut you mouth or you'll be next.
+L623812 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ You daft cunt. If you're going to waste it like that, you might as well leave it all to me. Now get the drinks in.
+L623811 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ No, I don't mean like that -- I mean something nice, like, that's all --
+L623810 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Shag her senseless.
+L623809 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ I don't know, maybe I'll buy something for my ma, and then buy some good speed, no bicarb like, then get a girl, take her out like, and treat her -- properly.
+L623761 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ If everyone keeps their mouth shut, there'll be no one going to jail.
+L623760 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ I want the money, Mark, that's all.
+L623832 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Sorry's no going to dry me off, you cunt.
+L623831 +++$+++ u8584 +++$+++ m582 +++$+++ MAN +++$+++ Look, I'm sorry, I didn't mean it.
+L623830 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ All down my fucking front, you fucking idiot.
+L623829 +++$+++ u8584 +++$+++ m582 +++$+++ MAN +++$+++ Sorry, mate, I'll get you another.
+L623828 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ For fuck's sake.
+L623803 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Ninteen.
+L623802 +++$+++ u8584 +++$+++ m582 +++$+++ MAN +++$+++ But it's not worth more than fifteen.
+L623801 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Twenty thousand.
+L623834 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Not sorry enough for being a fat cunt.
+L623833 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Cool down, Franco. The guy's sorry.
+L623823 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ I guess you would, Franco.
+L623822 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ I'd fucking kill you.
+L623821 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ We'll be half-way down the road with the money.
+L623808 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ For four fucking grand?  One palm tree, a couple of rocks, and a sewage outflow.
+L623807 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Buy yourself that island in the sun?
+L623781 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Did you bring the cards?
+L623780 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ This was his nightmare. The dodgiest scam in a lifetime of dodgie scams being perpetrated with three of the most useless and unreliable fuck-ups in town. I knew what was going on in his mind: any trouble in London and he would dump us immediately, one way or another. He had to. If he got caught with a bagful of skag, on top of that armed robbery shit, he was going down for fifteen to twenty. Begbie was hard, but not so hard that he didn't shite it off twenty years in Saughton.
+L623759 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Four kilos. That's what -- Ten years' worth? Russian sailors? Mikey Forrester? What the fuck are you on these days? You've been to jail, Spud, so what's the deal -- like it so much you want to go back again?
+L623758 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Two thousand, one hundred and thirty- three pounds.
+L623757 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Jesus.
+L623756 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Yes, you fucking do. I've seen your statement.
+L623712 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Let's face it, it could have been wonderful.
+L623711 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ I'm no a fucking buftie and that's the end of it.
+L623705 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ I'm a fugitive from the law. I can't be seen on the fucking streets. Now watch my lips. Kempton Park. Two-thirty. Five pounds to win. Bad Boy.
+L623704 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Can you not go yourself.
+L623703 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Hey, I'm wanting a bet put on.
+L623700 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ I've no fucking cigarettes.
+L623699 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What?
+L623696 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ Too right it is. Now look, have you got anything to eat, 'cos I'm fucking Lee Marvin, by the way.
+L623695 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ It's a scandal, Franco.
+L623551 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Aye, OK, Fr.  But the good times couldn't last for ever.
+L623550 +++$+++ u8579 +++$+++ m582 +++$+++ BEGBIE +++$+++ And remember, Rents: no skag.
+L623775 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Well, he's young and he's healthy.
+L623774 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ So, what's he like?
+L623773 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ What do you think -- I should be carrying a torch for you?
+L623772 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Happy birthday.
+L623771 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Sixteen next month.
+L623770 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ And what age are you? Thirteen? Fourteen?
+L623769 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ That's right: 'going steady' for four weeks now.
+L623768 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What? Steady like?
+L623767 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ I've got a boyfriend, Mark.
+L623766 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Well, you're not going to tell anyone, are you, and besides, I thought we could meet up afterwards, maybe go somewhere together.
+L623765 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ So why have you told me about it?
+L623764 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ So long as everyone keeps their mouths shut, we'll not be getting caught.
+L623763 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Unless you get caught.
+L623762 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ It's so simple. We buy it at four grand, we punt it at twenty to this guy that Sick Boy knows, and he punts it at sixty. Everyone's happy, everyone's in profit. I put up two. I come away with six.
+L623685 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ The point is, you've got to find something new.
+L623684 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Iggy Pop is not dead. He toured last year. Tommy went to see him.
+L623683 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Whatever. I mean, the guy's dead anyway.
+L623682 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ It's Iggy Pop.
+L623681 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ You're not getting any younger, Mark. The world is changing, music is changing, even drugs are changing. You can't stay in here all day dreaming about heroin and Ziggy Pop.
+L623680 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Too young for what?
+L623679 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ You're too young.
+L623678 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Smells like it.
+L623677 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Well, it isn't.
+L623676 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ I wouldn't mind a bit, if it is.
+L623675 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ No.
+L623674 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Calm down, I'm just asking. Is that hash I can smell?
+L623673 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Yes, as a matter of fact, it is.
+L623672 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Is that a promise, then?
+L623671 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Yes.
+L623670 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Are you clean?
+L623669 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What do you want?
+L623521 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Certainly not.
+L623520 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Can I see you again?
+L623519 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Easy for you to say.
+L623518 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Calm down. You're not going to jail.
+L623517 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ And that's what's illegal. Do you know what they do to people like me inside? They'd cut my balls off and flush them down the fucking toilet.
+L623516 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ In that case you can do it. You were quite happy to do a lot more last night.
+L623515 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ No, not holding hands.
+L623514 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Holding hands?
+L623513 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Because it's illegal.
+L623512 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ I don't see why not.
+L623485 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ And don't make any noise.
+L623484 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Jesus.
+L623483 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ No argument. You can sleep on the sofa in the living room, or go home. It's up to you.
+L623482 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Come on.
+L623481 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Out.
+L623480 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What?
+L623479 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Right. You can't sleep here.
+L623478 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Christ, I haven't felt that good since Archie Gemmill scored against Holland in 1978.
+L623469 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Shut up.
+L623468 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Sorry.
+L623467 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Ssshh!
+L623466 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Diane.
+L623463 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ think I left something back at the -
+L623462 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Well, what's wrong, boy? Cat got your tongue.
+L623461 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Eh-
+L623460 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Do you find that this approach usually works, or, let me guess, you've never tried it before. In fact, you don't normally approach girls, am I right? The truth is that you're a quite, sensitive type but if I'm prepared to take a chance I might just get to know the inner you: witty, adventurous, passionate, loving, loyal, a little bit crazy, a little bit bad, but, hey, don't us girls just love that?
+L623459 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ I'll come back if you like, but I'm not promising anything.
+L623458 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ What?
+L623457 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Great.
+L623456 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ It's where I live.
+L623455 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Where's that?
+L623454 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ I'm going home.
+L623453 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Where are you going, Diane?
+L623452 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Diane.
+L623451 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What's your name?
+L623450 +++$+++ u8580 +++$+++ m582 +++$+++ DIANE +++$+++ Thanks.
+L623449 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Excuse me, I don't mean to harass you, but I was very impressed by the capable and stylish manner in which you dealt with that situation. I thought to myself: she's special.
+L623435 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ He forgot. Useless motherfucker.
+L623434 +++$+++ u8581 +++$+++ m582 +++$+++ GAIL +++$+++ What happened?
+L623433 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ What, and deny myself the only pleasure I get from him? Did I tell you about my birthday?
+L623432 +++$+++ u8581 +++$+++ m582 +++$+++ GAIL +++$+++ Actually it's a nightmare. I've been desperate for a shag, but watching him suffer was just too much fun. You should try it with Tommy.
+L623431 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ It's an interesting theory.
+L623430 +++$+++ u8581 +++$+++ m582 +++$+++ GAIL +++$+++ I read it in Cosmopolitan.
+L623735 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ I didn't either. What the fuck is it?
+L623734 +++$+++ u8582 +++$+++ m582 +++$+++ GAV +++$+++ Exactly. I'm not wanting a cat, she says. Get to fuck, right. So there's Tommy stuck with this kitten. You can imagine what happened. The thing was neglected, pissing and shitting all over the place. Tommy was lying around fucked out of his eyeballs on smack or downers. He didn't know you could get toxoplasmosis from cat shit.
+L623733 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ I bet Lizzy told him where to put it.
+L623731 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Eh? How's that?
+L623730 +++$+++ u8582 +++$+++ m582 +++$+++ GAV +++$+++ No, toxoplasmosis. Sort of like a stroke.
+L623729 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ What was it, pneumonia or cancer?
+L623728 +++$+++ u8582 +++$+++ m582 +++$+++ GAV +++$+++ Tommy knew he had the virus, like, but never knew he'd gone full-blown.
+L623488 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ Returned it? Where? To the video shop, Tommy? To the fucking video store? So every punter in Edinburgh is jerking off to our video? God, Tommy, I feel sick.
+L623487 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ It'll be here somewhere. I might have returned it by mistake.
+L623486 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ What do you mean, it's 'gone'? Where has it gone, Tommy?
+L623477 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Fuck, OK.
+L623476 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ Yes, I want to watch ourselves while we're screwing.
+L623475 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Now?
+L623474 +++$+++ u8583 +++$+++ m582 +++$+++ LIZZY +++$+++ Tommy, let's put the tape on.
+L623387 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Exactly. Those very words have been my guiding light in what is, after all, a dark and often hostile world.
+L623386 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ Strive, hope, believe and conquer.
+L623385 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Of course, the motto, the motto --
+L623384 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ Do you recall the school motto?
+L623383 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Oh, really?
+L623382 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ I'm an old boy myself, you know?
+L623381 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Oh, yes, indeed. I look back on my time there with great fondness and affection. The debating society, the first eleven, the soft know of willow on leather --
+L623380 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ One of Edinburgh's finest schools.
+L623379 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Indeed, yes, those halcyon days.
+L623378 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ Well, Mr. Renton, I see that you attended the Royal Edinburgh College.
+L623406 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ The pleasure was mine. Best interview I've ever been to. Thanks.
+L623405 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ Thank you, Mr. Murphy. We'll let you know.
+L623396 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ Hey. Right. No problem. Whatever you say, man. You're the man, the governor, the dude in the chair, like. I'm merely here. But obviously I am. Here, that is. I hope I'm not talking too much. I don't usually. I think it's all important though, isn't it?
+L623395 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ You were referred here by the Department of Employment. There's no need for you to get you "foot in the door", as you put it.
+L623394 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ Only to get my foot in the door. Showing initiative, right?
+L623393 +++$+++ u8585 +++$+++ m582 +++$+++ MAN 1 +++$+++ Mr. Murphy, do you mean that you lied on your application?
+L623392 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ No, actually I went to Craignewton but I was worried that you wouldn't have heard of it so I put the Royal Edinburgh College instead, because they're both schools, right, and we're all in this together, and I wanted to put across the general idea rather than the details, yeah? People get all hung up on details, but what's the point? Like which school? Does it matter? Why? When? Where? Or how many O grades did I get? Could be six, could be one, but that's not important. What's important is that I am, right? That I am.
+L623510 +++$+++ u8586 +++$+++ m582 +++$+++ MOTHER +++$+++ Spud, they're my sheets.
+L623509 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ I'd really rather take care of it myself.
+L623508 +++$+++ u8586 +++$+++ m582 +++$+++ MOTHER +++$+++ No problem for me either.  Honestly, it's no problem.
+L623507 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ It's no problem.
+L623506 +++$+++ u8586 +++$+++ m582 +++$+++ MOTHER +++$+++ There's no need.
+L623505 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ No, I'll wash them. I'll take them home and bring them back.
+L623504 +++$+++ u8586 +++$+++ m582 +++$+++ MOTHER +++$+++ I'll put the sheets in the washing machine just now.
+L623499 +++$+++ u8589 +++$+++ m582 +++$+++ SPUD +++$+++ Sorry about last night -
+L623498 +++$+++ u8586 +++$+++ m582 +++$+++ MOTHER +++$+++ Morning, Spud. Sit down and have some breakfast.
+L623640 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ No problem.  No problem -- easy to say when its some other poor cunt with shite for blood.
+L623639 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Thanks, Mark.
+L623638 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Well, sub us, then, mate. I'm expecting a rent cheque.
+L623637 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ No, I'm clean.
+L623636 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Have you got any gear on you?
+L623635 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ I'm sorry, Tommy.
+L623634 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ That's nice.
+L623633 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Aye.
+L623632 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ Clear?
+L623631 +++$+++ u8587 +++$+++ m582 +++$+++ RENTON +++$+++ Aye.
+L623630 +++$+++ u8591 +++$+++ m582 +++$+++ TOMMY +++$+++ You take the test?

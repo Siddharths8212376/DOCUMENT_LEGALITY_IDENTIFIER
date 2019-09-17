@@ -1,0 +1,200 @@
+L391667 +++$+++ u2127 +++$+++ m138 +++$+++ MARIAN +++$+++ Are you sure you got my bag in?
+L391666 +++$+++ u2129 +++$+++ m138 +++$+++ MISCHA +++$+++ Where to?
+L393280 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Swell. Thanks very much.  Good luck, Senator. Keep your left up.
+L393279 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Here--let me give you a Boy Ranger button.
+L393278 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ I'll take your hat into the cloak room.
+L393277 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Thanks very much, sonny--
+L393276 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ All the ex-vice-Presidents. You can get ten-to-one around here if you think you can remember their names. The Vice-President presides over the Senate--you know that. It's how he earns his pay. Oh--over there, Senator-- on the east side of the Chair we still have the old snuff boxes with real snuff in them if you like snuff.
+L393275 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Those busts up there--all around the wall--who are they, sonny?
+L393274 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Look out for those fellows--they tell the truth about you--sometimes. That corner over there is reserved for guides and sightseers who come in for five minutes to rest their feet. That section over there is reserved for Senator's friends. The front row--the empty one--is for the President and White House guests-- see that old couple over there-- they've attended every session for the last twenty years. Over the clock back here is the Diplomatic section. They and the page boys are the only real class we have in this place. The rest are mostly people who come here like they go to the zoo--
+L393273 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Oh, yes--they're fine people--regular people.
+L393272 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Right up there over the Vice- President's chair--the four in the front row represent the four big news services. You've met the press bunch, haven't you?
+L393271 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Uh-huh. And where's the Press Galery?
+L393270 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ The Majority Leader? Right over there. And that's [           ] the Minority Leader. They're both pretty good in the clinches.
+L393269 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Where's the Majority Leader?
+L393268 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Calendar for the day. You'll find the Senate Manual in the drawer. Anything else you want, just snap for a page.
+L393267 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Not me, sonny. I'm just going to sit around and listen.  What's this?
+L393266 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Give you something to shoot at, Senator--if you figure on doing any talking.
+L393265 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Daniel Webster? Sat here? Say--that man was a great orator.
+L393264 +++$+++ u2131 +++$+++ m139 +++$+++ BOY +++$+++ Here you are, Senator. Not a bad desk, either. Daniel Webster used to use it.
+L393873 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ I'm saying I didn't sign it!
+L393872 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ You are saying, in effect, that this is a forgery?
+L393871 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ It couldn't be.
+L393870 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ But it *isn't*?
+L393869 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Looks like it, but--
+L393868 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ Then--this is *not* you signature, Senator?
+L393867 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ I--I discussed it with him--yes-- because I--you see, I've always had this camp in mind--but I made no contract with him!
+L393866 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ But you did *talk* to Mr. Allen about that and--?
+L393865 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Never.
+L393864 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ You've never *seen* this contract.
+L393863 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ I did not--
+L393862 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ And you say you never signed this contract with Mr. Allen?
+L393857 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ Yes! This was how I could be put out of the Senate and out of the way! They even *promised* me that if I--
+L393856 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ It was?
+L393855 +++$+++ u2138 +++$+++ m139 +++$+++ JEFFERSON +++$+++ It was done to stop me from talking about a section of the Appropriations Bill!
+L393854 +++$+++ u2132 +++$+++ m139 +++$+++ CHAIRMAN +++$+++ --what possible explanation can you offer for this charge being--as you say--"trumped up" against you!
+L393059 +++$+++ u2141 +++$+++ m139 +++$+++ MCGANN +++$+++ Blow a bugle!
+L393058 +++$+++ u2133 +++$+++ m139 +++$+++ COOK +++$+++ Let's send out a pigeon!
+L393057 +++$+++ u2141 +++$+++ m139 +++$+++ MCGANN +++$+++ And while you're at it, get me a bed!
+L393044 +++$+++ u2141 +++$+++ m139 +++$+++ MCGANN +++$+++ I'll brain that guy! Well--call Paine-- call Saunders--
+L393043 +++$+++ u2133 +++$+++ m139 +++$+++ COOK +++$+++ Positively not in the station! Gone!
+L393040 +++$+++ u2141 +++$+++ m139 +++$+++ MCGANN +++$+++ What for? Why, suppose there's a storm--all lines are down--how you gonna get a message to Ma?
+L393039 +++$+++ u2133 +++$+++ m139 +++$+++ COOK +++$+++ What's he bringing pigeons for?
+L393036 +++$+++ u2141 +++$+++ m139 +++$+++ MCGANN +++$+++ Yes, sir.  All right, boys--let's go.
+L393035 +++$+++ u2133 +++$+++ m139 +++$+++ COOK +++$+++ Yes, sir--big as life. Been there some time now.
+L394128 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Freedom of the press! Mr. James Taylor blindfolding a whole State--  Wait a minute! If that's how he wants to play *I'll* get through to that bunch--I'll get plenty of words into that, State--!  Come on, Diz, get that stuff you've written--let me have it--
+L394127 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Not a word! Taylor's sewed up every paper. They're tossing out everything that comes in over the wires!
+L394126 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ What!
+L394125 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Kid--he thinks he's talking to that mob at home, but not a line we've written--not a word he's said from that floor has gotten into that home State.
+L394124 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Diz!
+L394036 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Diz--get what he says to the people back in that State. It's up to you and the boys. Keep those wires hot. Fire away, pal!
+L394035 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ He's a house-afire!
+L394034 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ The war's on!
+L393892 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Well, then, that's great! And that's a great place to leave it! It's no use *my* barging into this now and--
+L393891 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ All I know is--he said to me tonight-- "What does your wife think?" My wife. Thinks we're married--
+L393890 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ You don't think he'd want *me* within fifty miles, do you?--after the exhibition he saw me give! Did you see his *face*--?
+L393889 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Come on--don't pull that. You know you'd give your right--. What are you staying away from him for?
+L393888 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Why me?
+L393887 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Then--in the name of kindness to dumb animals--we can't let him walk into that Senate tomorrow and take a terrible punch in a nose! A couple of us went up there--told him all he could do was beat it--resign--clear out. But--he's in a daze--he's been hit by a ton of bricks. Just says, "I haven't done anything. Why should I resign?" He might *listen* to *you*--
+L393886 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I've told you ten times--if I had anything they couldn't bat down in a second, don't you suppose I'd've been up in that hearing yelling murder! Sure--he was cooked the night I sounded off like a fool and spilled the whole works!
+L393885 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ He's cooked! They'll drum the poor lug out of that chamber tomorrow as sure as I'm--! And now they're all down on him. Yeah--my press pals, too--he's a bad egg--still water running deep. Boloney! It's the frame of all time! When I see a phoney like this--my journalist blood boils-- I wanna *fight*!  Look, kid--rack your brains, will you? Haven't you got any confidential stuff on that mob? I'll write my arm off--I'll blow Taylor and his--
+L393736 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Take me home, Diz.
+L393735 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ You know, we're getting married.
+L393734 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Huh?
+L393733 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well--let's dig up the preacher, kid.
+L393719 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Right now--everything I own--!
+L393718 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Hey! We're gettin' married--!
+L393717 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I'm getting out of there. Right now, Diz. Right now. Bonus or no bonus. I'm gonna clear outa that office-- everything I own--my extra hat-- everything--
+L393716 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ You said it!
+L393715 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I won't take it! See? I won't be party to murder. See? Steering a poor dope up blind alleys for that grafting Taylor mob is low enough. But helping that dame cut him up in little pieces besides--nobody's gonna make me do that. No, sir.
+L393714 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Susan? Nah!
+L393713 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Nothing like--uh--Susan--or anything like that, huh?
+L393712 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ No--not offhand--
+L393711 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ You don't know a name off-hand you like better, do you, Diz?
+L393710 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Okay--I mean--
+L393709 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Don't say "okay," Diz. Say you think it's beautiful.
+L393708 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Yeah, I know. That's okay.
+L393707 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ My first name's--Clarissa.
+L393706 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ What?
+L393705 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I case you don't know--I want to give ya a chance to back out if you don't like it--
+L393704 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ What?
+L393703 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Yeah--that's right. Diz--
+L393702 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ We're gonna get married.
+L393701 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Where?
+L393700 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well, let's get going.
+L393699 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ No! I can't think of anything more sappy!)
+L393698 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Do we *have* to?
+L393697 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ No.
+L393696 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Have *you*?
+L393695 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Or angry little mountain streams-- and cattle moving against the sun. You haven't seen any of that, have you, Diz?
+L393694 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Is the wind tired out there?
+L393693 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ You've never seen prairie grass with the wind leaning on it, have you, Diz?
+L393692 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Tunnel?
+L393691 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ You--you've been a good egg, Diz. Maybe we could clear out of this town--get to feel like *people*--get the habit of lifting up our eyes-- live like we just got out of a tunnel.
+L393690 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ I'll cherish ya.
+L393689 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Okay. You don't mind?
+L393688 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Tonight?
+L393687 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Any time.
+L393686 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Good idea. When?
+L393685 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ How about getting married?
+L393684 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Yeah.
+L393683 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Diz--
+L393682 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Again? Good idea.
+L393681 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ *All right*, then. After all, what's it to me? So they *drop* him out of a balloon. All I care is--I don't want to be around. See? Squeamish. See? That's what I am. No, sir. I don't have to take it. Won't be a party to no murder. I'm gonna quit. I'm through.
+L393680 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ I apologize.
+L393679 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Well--cut it out. See? Who *cares* anyway?
+L393678 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ *I'm* just waiting for a street car--
+L393677 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Like a mother sending her kid off to school for the first time--watchin' the little fella toddling off--in his best bib and tucker--and you sink in the middle--hoping he can stand up to the other kids--won't get his feeling hurt--and--if you could only spare him the knocks he's gotta take--  Say--who started this?
+L393676 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ No. How'd you feel? Quick.
+L393675 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Do you know how I felt, Diz?
+L393674 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Now--how'd Humpty-Dumpty get in here?
+L393673 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ And I got him all dressed up, too-- to go way up in a balloon--so they can drop him a long way--make sure they break his heart. Why, not all the Boy Rangers in the world, working night shifts, 'll be able to put Humpty-Dumpty together again--
+L393672 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Mind, now! Keep Don Quixote out of here!
+L393671 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Shut up, Diz.
+L393670 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Now, you've gone and let Don Quixote in here again. I told you to keep him out!
+L393669 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ --followin' Miss Susan Fass-Pass around--his little heart poundin' away--the sound of angels' wings in his ears.
+L393668 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Waiter!
+L393667 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Old Don Quixote--man of the people Smith--
+L393666 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ My friends?
+L393665 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Every time I think of it, I get a laugh, Diz.
+L393664 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Yeah. Some of my best friends are funny.
+L393663 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Yeah.
+L393662 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Yeah. Funny--
+L393661 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Drunks are funny--
+L393660 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ "There's more light here," he says--
+L393659 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Why do I always laugh at that?
+L393657 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ And to Don Quixote!
+L393656 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Now, look, kid--if we're gonna wonder, let's go down and do it over a hunk of steak.  Come on, snap out of it. Diz Moore-- that rarest of companions--is here at your side.  To genteel crime, kid.
+L393655 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I've wondered, Diz--maybe this Don Quixote's got the jump on all of us. I've wondered--maybe it's a curse to go through life wised up like you and me--
+L393654 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Okay. So what? Stop worrying. I've told you--the dopes are gonna inherit the earth anyway--
+L393653 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Nothing. I'm just saying--I might be able to lie, cheat, steal--and I'd still tear into a guy I saw kicking a dog. Not that *he* is, by a long shot--
+L393652 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Forget it, kid. What's it *to* you?
+L393651 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ He isn't going to hurt enough as it is. *She* has to twist a knife in him, too--the regal jackass! "I'll turn my glamour on him," she says--
+L393650 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Oh--yeah--
+L393649 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Paine.
+L393648 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ What dame?
+L393647 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I don't mind *who* gets licked in a *fair* fight, Diz. It's these clouts below the belt I can't take. Sicking that horrible dame on him--when he's goofy about her--
+L393646 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well, well--  Yeah--I got smart and thought I'd slip one over on the old man in the press meeting. I said, "Mr. President, about the monopoly investigation--" And he jumps right in and says, "Diz, if you were sitting in my chair, would you answer the question you're about to ask?" He had me.
+L393645 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ They decoyed the little General off to a tea party to keep him out of the Senate.
+L393644 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well--I stuck my foot in it again at the President's press conference today--  How come so early? Get the day off?
+L393577 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ That's taking place outside now.
+L393576 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Yeah. What about the second act?
+L393575 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Did you like the first act?
+L393559 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Diz--Don Quixote with bill is going to get to his feet in a minute and speak two important words--*Willet Creek*. When that happens--if my hunch is right--the Silver Knight will fall off his tightrope and Puss will jump out of his boots.
+L393558 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Frankly, kid--are you goofy?
+L393557 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ You play--left field.
+L393556 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ What do I play?
+L393555 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ The Silver Knight. Soul of Honor--on a tight-rope.
+L393554 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Yes. Mostly "Puss."  Oh, the *other* prominent character in the play.
+L393553 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Oh, you mean--Puss in Boots.
+L393552 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ That gorilla in Man's clothing-- McGann.
+L393551 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Who?
+L393550 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Ah. One of the supporting characters.
+L393548 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Certainly.  Now there's the principal actor in our little play.
+L393547 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ What show? Would you mind telling me what's coming off here?
+L393546 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Sit tight, Diz. The show commences in just a minute.
+L393186 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Wait--wait. Let's see--watchdog McGann-- he's bound to move right in--get him out of the way first--  Pardon me, friend--I've got some telephoning to do--! 
+L393185 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Now, you've got more sense than to put Nosey onto this guy--!
+L393184 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Get my *whole* fall outfit--and quit this job in style!
+L393183 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Kid--wait--what do you think you're going to do?
+L393173 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Whadaya mean--*right*?
+L393172 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Will you go chase an ambulance!
+L393167 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Sure--sure--wait a minute now--simmer down--
+L393166 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I'm still asking myself--what is he-- animal, vegetable, or mineral? A Senator! A United States Senator! I thought I'd seen everything but-- why, he doesn't know what time it is, Diz! When I think of myself sitting around--playing straight for all that phoney, patriotic chatter-- *me*, carrying bibs for an infant with little flags in his fists--no, I can't take it, Diz--I'm through--I quit!
+L393103 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Yeah. Should have seen me seven years ago--when I came to this town. *Now* what am I?--chambermaid to the Pied Piper of Jackson City; *Honorary* appointment! Scratch this thing an you'll find they wanted a dope here for two months.
+L393102 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ You know--little worms--ambition.
+L393101 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ What! Who?
+L393100 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ You got worms.
+L393099 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ No--don't do it. I'm sure. The truth is, Diz--there's no man I've seen yet or--must be something wrong with me. I've been feeling low for weeks.
+L393098 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well, if you're sure it wouldn't--no use combing my hair for nothing.
+L393097 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Diz, you're a swell playmate--but--. Maybe if I saw you once with your hair combed, or something--or--no, no--I don't think even that would do it--
+L393096 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ I would cherish you--and stay sober.
+L393095 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Oh--that again. Yeah.
+L393094 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ You know--Mrs. Diz Moore.
+L393093 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Huh?
+L393092 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ That old standing offer from Diz Moore--Poet of Washington Correspondents.
+L393091 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ What's this, Diz?
+L393090 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Would you settle for a husband?
+L393089 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ When Foley died, why didn't I clear out? How many times, did you hear me say I was fed up on politics and--? But *no*--I let 'em talk me into staying. Secretary to a leader of little squirts. Why? Because I need the job and a new suit of clothes.
+L393088 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Well, because you're doing all right at the minute.
+L393087 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Tell me why!
+L393083 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Well, why don't they try the police-- get some blood hounds--or Indian guides--
+L393082 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Eight to five Little Boy Blue is plastered.
+L393081 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ No, not yet, Senator Paine--not hide nor hair of the man. You mean to say the boys haven't--?
+L393080 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Okay. For the dollar, I give you McGann *and* Bill and Carl. I got Paine.  Hello... Oh, yes.
+L393079 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Hey--you're into me for a buck already. I say--McGann. Shoot the whole dollar.
+L393078 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Well--who d'you take this time--Paine, Bill, Carl--or McGann?
+L393077 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ I give that Trail Blazer five more minutes to show up--  --*five more minutes*!
+L393076 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ Getting on to dinner, isn't it, pal?
+L393055 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Sure--sure. He must have a compass with him.
+L393054 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ That--or he's out blazing trails. He'll show up.
+L393053 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ How do you *like* this! You don't suppose that ranger met up with some kids--and took 'em for a hike!
+L393050 +++$+++ u2134 +++$+++ m139 +++$+++ DIZ +++$+++ No!
+L393049 +++$+++ u2147 +++$+++ m139 +++$+++ SAUNDERS +++$+++ Sure. Sure. I'll hang a light in the steeple. One if by land--two if by sea!... Okay!  Diz--you won't believe it. Daniel Boone's *lost*!
+L392885 +++$+++ u2135 +++$+++ m139 +++$+++ EMMA +++$+++ Well, your children are very bright-- and *they* say Jefferson Smith.
+L392884 +++$+++ u2137 +++$+++ m139 +++$+++ HUBERT +++$+++ Emma, which is it--Horace Miller or Henry Hill?
+L392883 +++$+++ u2135 +++$+++ m139 +++$+++ EMMA +++$+++ No wonder--without your dinner.
+L392882 +++$+++ u2137 +++$+++ m139 +++$+++ HUBERT +++$+++ Emma! I'm a man at the end of his rope.
+L392879 +++$+++ u2137 +++$+++ m139 +++$+++ HUBERT +++$+++ That settles it! I will not be attacked and belittled by my own children in my own home! My nerves are strained to the breaking point!
+L392878 +++$+++ u2135 +++$+++ m139 +++$+++ EMMA +++$+++ Otis!
+L392862 +++$+++ u2135 +++$+++ m139 +++$+++ EMMA +++$+++ Why, I think it's very sweet of the children--

@@ -1,0 +1,200 @@
+L147978 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I wish there were something more I could do to help you.
+L147977 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I thought by giving away the sword, I could escape the Giang Hu world. But the cycle of bloodshed continues.
+L147976 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ It's not our affair.  Even if Wudan accepts her, her husband might object.
+L147975 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ For her, they might make an exception.  If not, I'm afraid she'll become a poisoned dragon.
+L147974 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ But Wudan does not accept women.
+L147973 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ That's not for her.  She should come to Wudan and become a disciple.
+L147972 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ She's an aristocrat's daughter. She's not one of us.  In any case, it will all be over soon.  You'll kill Fox, and she'll marry.
+L147971 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ She needs direction... and training.
+L147970 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I knew she would intrigue you.
+L147969 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ You did your job well.  But, this girl... I saw her last night.
+L147968 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ My job was to get the sword back, without embarassing anyone.  I wasn't about to ruin her life, or her father's.
+L147967 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ True.  But I must borrow it for one last mission.  Jade Fox must die at its edge.  Did you know what you were hiding when you covered for that girl?
+L147966 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ But it's not your sword anymore. You gave it to Sir Te.
+L147965 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I admit, getting it back makes me realize how much I'd missed it.
+L147861 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Well, we had talked...
+L147860 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Then, why did you come?
+L147859 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I don't know it was stolen until I got here.
+L147858 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ What do you mean?  Didn't you come back here for it?
+L147857 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ That's not what I meant.  I don't care about the sword.
+L147856 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ No, I'd already sent them home. You can blame me for losing the sword, but please trust that I'll get it back soon using my own methods.
+L147855 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ But your men are watching over Yu's compund?
+L147854 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ No, not yet...
+L147853 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Have you questioned him yet?
+L147852 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ It was Bo, Sir Te's man.  I hear he followed the thief to the Yus'.
+L147851 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ It says Jade Fox is hiding at Yu's. On the night of the theft there was a brawl near Yu's.  Were you involved?
+L147850 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ No.
+L147849 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Did you see who posted it?
+L147848 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Be careful.  Sir Te requires discretion.  Official business is difficult enough.  Don't let personal feelings make it worse. And I don't know... even this poster... could be some sort of trap.
+L147847 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ So I shall avenge my master's death after all.
+L147846 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Is there any place safer than under the nose of Governor Yu?
+L147845 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I didn't think she'd dare come back to Peking!
+L147844 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You always suspected she'd fled to the West.
+L147843 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Jade Fox?  Impossible.
+L147842 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ What have you discovered?
+L147841 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ But something is going on at the Yu household.
+L147840 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Sir Te believes it's a ploy cast suspicion on Governor Yu.
+L147694 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Perhaps.
+L147693 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Join me once you have finished.  I can wait for you in Peking.
+L147692 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ First I must visit my master's grave.  It's been many years since Jade Fox murdered him.  I have yet to avenge his death.  And yet I'm thinking of quitting.  I must pray for his forgiveness.
+L147691 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Come with me to Peking.  You can give the sword to Sir Te yourself. It'll be just like old times.
+L147690 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ So what will you do now?
+L147689 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ It's time for me to leave it behind.
+L147688 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You use it justly, you're worthy of it.
+L147687 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Too many men have died at its edge. It only looks pure because blood washes so easily from its blade.
+L147686 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I don't understand.  How can you part with it?  It has always been with you.
+L147685 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I am.  He has always been our greatest protector.
+L147684 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ The Green Destiny Sword?  You're giving it to Sir Te?
+L147683 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Perhaps I could ask you to deliver something to Sir Te for me.
+L147682 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ We're preparing a convoy for a delivery to Peking.
+L147681 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Something I can't let go of.  You are leaving soon?
+L147680 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ What was it?
+L147679 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ No.  I didn't feel the bliss of enlightenment.  Instead... I was surrounded by an endless sorrow.  I couldn't bear it.  I broke off my meditation.  I couldn't go on. There was something... pulling me back.
+L147678 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You were enlightened?
+L147677 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ During my meditation training... I came to a place of deep silence... I was surrounded by light... Time and space disappeared.  I had come to a place my master had never told me about.
+L147676 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Why?  You're a Wudan fighter. Training is everything.
+L147675 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ I left the training early.
+L147674 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ The mountain must be so peaceful... I envy you.  My work keeps me so busy, I hardly get any rest.
+L147673 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Yes.
+L147672 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Monk Zheng said you were at Wudan Mountain.  He said you were practicing deep meditation.
+L147671 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ Fine.
+L147670 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Good.  And how are you?
+L147669 +++$+++ u4682 +++$+++ m310 +++$+++ LI +++$+++ It has.  How's business?
+L147668 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Mu Bai...It's been too long.
+L147917 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I doubt it.  This thief... it very unusual...
+L147916 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ Maybe the murderer and the thief are one and the same.
+L147913 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ A female criminal!  Now that's news!
+L147912 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Yes.  The very killer of Li Mu Bai's own master.  Last night, she killed a policeman who had tracked her down.
+L147911 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ A murderer?
+L147910 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ No mercy will be shown toward the murderer who turned up in Peking.
+L147909 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ But don't be too lenient.
+L147908 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Sir Te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
+L147907 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ That's good.  Sometimes the help can't keep their hands to themselves. It's very embarassing.
+L147906 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ We know who stole the missing item. If the thief returns it, I'm sure Sir Te will pursue the matter no further.
+L147905 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ I heard Sir Te lost something.  And now Madame Te's not feeling well...
+L147904 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I'm sorry she's not feeling well enough to receive you today.
+L147903 +++$+++ u4684 +++$+++ m310 +++$+++ MADAM YU +++$+++ Madam Te is certainly spoiling us with these wedding gifts.  She's being so considerate.
+L147869 +++$+++ u4685 +++$+++ m310 +++$+++ MAY +++$+++ Father!  Let me avenge my mother's death.
+L147868 +++$+++ u4687 +++$+++ m310 +++$+++ TSAI +++$+++ If you surrender now, you'll suffer less.  But if you resist, I won't stop until you're dead.
+L147838 +++$+++ u4687 +++$+++ m310 +++$+++ TSAI +++$+++ "We'll settle this at midnight on Yellow Hill."  Good, the fox is out of her hole.
+L147837 +++$+++ u4685 +++$+++ m310 +++$+++ MAY +++$+++ What does it say?
+L147836 +++$+++ u4687 +++$+++ m310 +++$+++ TSAI +++$+++ They're gone.
+L147773 +++$+++ u4685 +++$+++ m310 +++$+++ MAY +++$+++ Father!
+L147772 +++$+++ u4687 +++$+++ m310 +++$+++ TSAI +++$+++ You're mistaken.  We're just street performers.  We were rehearsing.
+L147768 +++$+++ u4685 +++$+++ m310 +++$+++ MAY +++$+++ We must avenge mother!
+L147767 +++$+++ u4687 +++$+++ m310 +++$+++ TSAI +++$+++ It's Jade Fox!
+L147902 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ The best way to trap a fox is through her cubs.
+L147901 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ What do you have in mind?
+L147900 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Sir Te, can you find some excuse to invite Madam Yu and her daughter?
+L147899 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ This is a delicate matter.
+L147898 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ We must be careful.  Governor Yu is a court official, and in charge of security.  Any disturbance will cast suspicion on him.  It might get Sir Te in trouble.
+L147786 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ Then someone's trying to set him up. We should inform Li Mu Bai.
+L147785 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ But the sword could be in his compound.
+L147784 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ Yes, though I doubt he's involved in this.
+L147783 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Has Governor Yu ever seen the sword?
+L147714 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ When it comes to emotions, even great heroes can be idiots.  Tell me if Li Mu Bai is not more open the next time you see him.  I'll give him an earful!
+L147713 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I beg your pardon.  Li Mu Bai and I aren't cowards.
+L147712 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ Don't be coy.  I've always known about your feelings for each other. All these years, it's a shame... neither of you is brave enough to admit the truth to the other. You're both wasting precious time.
+L147711 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ I don't know...
+L147710 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ Li Mu Bai giving up his sword and his warrior days... maybe he's trying to tell you something?
+L147709 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Please, Sir Te, what is it?
+L147708 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ Please do not be such a stranger. You'll stay the night as my guest. Now, Shu Lien... tell me something. And forgive me for prying.  Your father was a great friend to me, and I think of you as my own daughter.
+L147707 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ You've always been so good to Li Mu Bai and me.  Please accept our thanks.
+L147704 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ All right.  I'll act as the sword's custodian.
+L147703 +++$+++ u4688 +++$+++ m310 +++$+++ YU +++$+++ Sir Te!  It has brought him as much trouble as glory.  Help him to leave these troubles behind. Otherwise, he'll never be able to start anew.
+L147702 +++$+++ u4686 +++$+++ m310 +++$+++ SIR TE +++$+++ This is Li's personal sword, a great hero's weapon!  He is the only one in the world worthy of carrying it.  It's too fine a gift. I cannot accept it.
+L149159 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ I call it blood, Detective.  If you want, you can call it graffiti.
+L149158 +++$+++ u4703 +++$+++ m311 +++$+++ TORRES +++$+++ What in the hell... do you call that?
+L149157 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Who ever made that.
+L149156 +++$+++ u4703 +++$+++ m311 +++$+++ TORRES +++$+++ And you're gonna tell me who.
+L149155 +++$+++ u4703 +++$+++ m311 +++$+++ TORRES +++$+++ Was. ALBRECHT  This isn't Top Dollar's style anyway.  This was somebody else. Somebody new.
+L149154 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ He was a runner for Top Dollar. Just muscle.
+L149153 +++$+++ u4703 +++$+++ m311 +++$+++ TORRES +++$+++ Don't any of your little pals have real, grown up names?
+L149152 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ This sack of shit is called Tin- Tin.
+L149151 +++$+++ u4703 +++$+++ m311 +++$+++ TORRES +++$+++ You know, you sure got a hard-on for a guy that's guilty of zip on paper.  Top Dollar runs Showtime; what's the matter, don't you like adult entertainment?
+L149150 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Sure it coulda.  Funboy's not here, neither is T-Bird -- none of Top Dollar's number ones.
+L149028 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ They make you fart.
+L149027 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ No onions?
+L149026 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ No onions though, okay?
+L149025 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ I'm buying.
+L149024 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ You buying?
+L149023 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Care for a hot dog?
+L149022 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ Talent. Hi.
+L149262 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Thanks, babe.
+L149261 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ Don't thank me.
+L149260 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Well, hello there...chocolate,
+L149259 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ You gonna wind up working at a school crosswalk.   that doughnut's chocolate you, know.
+L149258 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Could be.
+L149254 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ I knew that.
+L149253 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ Don't thank me.  Your ass is already in enough trouble for this shit.
+L149233 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Double homicide.  A year ago. Las Halloween.
+L149232 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ Just don't tell me you "owe me one."  What file?
+L149231 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ This is special, darlin'.  Please?
+L149230 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ Speak up.  Clear it with the Captain if you need a file.
+L149229 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Annie, I need a file.
+L149228 +++$+++ u4690 +++$+++ m311 +++$+++ ANNABELLA +++$+++ Whatever it is, the answer's no, Eddie.  I'm too busy tonight.
+L149524 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You're bleeding, man.  You can't make it.
+L149523 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Don't interfere.
+L149522 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ The hell you say.  This isn't just about you any more.
+L149521 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Leave here.  Don't do this.  I don't want you here.
+L149520 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You're welcome.
+L149519 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ This isn't your place.  This isn't your fight.  And I don't need your help.
+L149518 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You sorta looked like you might need my help.
+L149437 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ No.  I have one more thing to do.
+L149436 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ How 'bout the morgue?
+L149435 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ They couldn't do anything for me.
+L149434 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Right.  You sure I can't just take you to the emergency ward?
+L149433 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I mean, I've done what I came to do.  It shouldn't hurt this much. But it will pass...
+L149429 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ It's only fourteen or fifteen flesh wounds.
+L149428 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ It's only a flesh wound.
+L149427 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Yeah, among others.  Hey, man -- you're hit.
+L149426 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Funboy had to leave this mortal coil.
+L149425 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ It's done. ALBRECHT I figured as much.  Did you cap off Funboy.
+L149323 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ My pleasure. ERIC Don't smoke these.
+L149322 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Thank you.  For giving a damn.
+L149321 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ I should be trying to stop you.
+L149320 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Halloween is coming, soon.  You will have Top Dollar if you watch for me at the Showtime, tomorrow night.
+L149319 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Thirty hours.  A day of life, plus change...
+L149318 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ I'm sorry as hell, man.
+L149317 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ My name.
+L149315 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ The venom of bad memories.  You were there; you saw her.  I saw you seeing her.
+L149314 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You okay, man?  I mean, what just happened.
+L149312 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You went out the window.  She was beaten and raped.  She died in the hospital.
+L149311 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I need you to tell me what you remember.  What happened to us?
+L149310 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You died, man.  I can't believe it but here you are.  Last year, you and your girlfriend --
+L149308 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I saw it, too.
+L149307 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You, my friend, are dead.  I saw your body.  You got buried.
+L149197 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ The others are called Skank, T- Bird.  Street names.  Funboy.  Watch me, office Albrecht.
+L149196 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Fucking A, my friend.
+L149195 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I know Top Dollar has turned your streets into his hell.
+L149194 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ You don't say.
+L149193 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Listen:  Top Dollar.  He "owns the street here."  He will "erase my ass."
+L149191 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ You must listen carefully:  the Fire Department will be here soon. There is an injured man in the alley who needs assistance.  As Shelly Webster once needed your assistance, and as you are shortly going to need my assistance.
+L149190 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ Are you nuts, walking into a gun?
+L149188 +++$+++ u4689 +++$+++ m311 +++$+++ ALBRECHT +++$+++ No further.  I'm serious.
+L149187 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ And I say I'm dead... and I move.
+L149551 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ It can't rain all the time.
+L149550 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ At least it finally stopped raining.
+L149476 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ We'll discuss this later. Obviously.  You left the door open.
+L149475 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ He was a present.  Besides, we're moving anyway.  You said.
+L149474 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ I was wonderin' where you'd gotten to --  Oh, Elly, honey, a cat.  Here?
+L149093 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ I lost my key.
+L149092 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ I told you you're not supposed to come in here.
+L149091 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ Mom --?
+L149273 +++$+++ u4694 +++$+++ m311 +++$+++ FUNBOY +++$+++ Not me.
+L149272 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ Fun, he's not going away; he's scaring the piss outta me!
+L149271 +++$+++ u4694 +++$+++ m311 +++$+++ FUNBOY +++$+++ It's just the dope, don't worry
+L149270 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ Fun -- look at that guy...
+L149269 +++$+++ u4694 +++$+++ m311 +++$+++ FUNBOY +++$+++ Oh wow, oh wow, don't fucking do that, man.  I nearly had a fucking heart attack.
+L149095 +++$+++ u4691 +++$+++ m311 +++$+++ DARLA +++$+++ Out.  Now.  I gotta work.
+L149094 +++$+++ u4694 +++$+++ m311 +++$+++ FUNBOY +++$+++ Hey, Darla -- before we die of old age, how about it --?
+L149545 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ You mean you'll, like' dig your way out of the grave?  Euww.
+L149544 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I don't know if I can.  But you have this... and you know where to come.
+L149543 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ You're not gonna come back, are you?
+L149542 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ In a better place.  I hope.
+L149541 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ Now do you get to see her? Shelly, I mean.
+L149472 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ And she'll be alive.  Up here.
+L149471 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Shelly would've wanted you to have it.  This way, you'll think of her every time you see it...
+L149468 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ I think he's yours, now.
+L149467 +++$+++ u4692 +++$+++ m311 +++$+++ ELLY +++$+++ I remember him!  Here, Gabriel... here kitty... Gabriel... Is he still yours?
+L149462 +++$+++ u4693 +++$+++ m311 +++$+++ ERIC +++$+++ Elly...

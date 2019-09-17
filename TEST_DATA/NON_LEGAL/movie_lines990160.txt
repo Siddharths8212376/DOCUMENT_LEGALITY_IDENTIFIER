@@ -1,0 +1,200 @@
+L409905 +++$+++ u6821 +++$+++ m455 +++$+++ DRIVER +++$+++ Boy - you hear me?!
+L409903 +++$+++ u6821 +++$+++ m455 +++$+++ DRIVER +++$+++ No, boy. Thirty-eight cents worth of gas. And watch you don't make it thirty-nine.
+L409902 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Fill her up?
+L409761 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ Then do like I said.  Men - this boy here's got something to tell you-all.  Well, how about it?
+L409760 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ What d'you think?
+L409759 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ Want to keep your job, boy?
+L409758 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ All right, then. All I want you to do is tell these boys here you didn't mean what you said about stickin' together an' all.
+L409757 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ No. You got the wrong idea.
+L409756 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ Look, boy, we got a smooth operation here, and I aim to keep it that way. Now I got an idea you're plannin' trouble.
+L409755 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, what d'you know?!
+L409754 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ Uh-huh. Well, this ain't the railroad. Now what's all this talk about stickin' together?
+L409753 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Used to be. On the railroad.
+L409752 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ You a union man?
+L409751 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I still don't know what you're talkin' about.
+L409750 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ That's no way to talk, boy. Now we had one of them union men 'round here coupla years ago. Stirred up a lot of trouble. They're always after you colored boys.
+L409749 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I don't know what you're talkin' about.
+L409748 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ I hear you're tryin' to organize this place!
+L409747 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay.
+L409746 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ Want to talk to you.
+L409745 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ That's right.
+L409744 +++$+++ u6834 +++$+++ m455 +++$+++ SUPERVISOR +++$+++ 'You Duff Anderson?
+L409786 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Anderson.
+L409785 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ What did you say your name is?
+L409784 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Walker and Williams.
+L409783 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ Where was that?
+L409782 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah.
+L409665 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ You' new here, man!  See you, boys.
+L409664 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I know.
+L409659 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ So it wasn't funny, huh? Well, I thought it was. What d'you say, Barney? Wasn't it funny?!
+L409658 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I'll smile when it's funny.
+L409657 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ What's the matter, boy? Never smile?
+L409362 +++$+++ u6836 +++$+++ m455 +++$+++ WHITE +++$+++ Don't start no trouble, boy!
+L409361 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I said: Cut it out!
+L409501 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ I don't know.
+L409500 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Where's he at?
+L409499 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ People seen him 'round.
+L409498 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ 'That right? I thought he was up North.
+L409497 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ They say your dad's 'round town.
+L409496 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Make sure he gets those shots.
+L409495 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ Okay.
+L409494 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah. Look, I'll be sendin' you the money from now on.
+L409486 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I ain't so sure of that. If I was, maybe I'd feel different.
+L409485 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ I don't know. He's your boy.
+L409484 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Like where?
+L409483 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ Well, she never gave me none. Look, you better find him a place pretty quick.
+L409482 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I been sendin' her money.
+L409481 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ She got herself a husband now. They don' want him 'round. And I tell you, man, I got no use for him neither.
+L409480 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Ain't she goin' to take the boy?
+L409479 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ She done moved to Detroit.
+L409478 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Where's Wilma?
+L409477 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ James Lee, you come in here and meet your daddy.
+L409476 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ 'Bout time you showed. Door's open.
+L409475 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Guess you must be lookin' after my boy. I'm Duff Anderson.
+L409474 +++$+++ u6823 +++$+++ m455 +++$+++ EFFIE +++$+++ What d'you want?
+L409649 +++$+++ u6824 +++$+++ m455 +++$+++ FOREMAN +++$+++ Just so you do your work.
+L409648 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Guess I don't.
+L409647 +++$+++ u6824 +++$+++ m455 +++$+++ FOREMAN +++$+++ Don't say much, do you?
+L409646 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Thanks.
+L409645 +++$+++ u6824 +++$+++ m455 +++$+++ FOREMAN +++$+++ Looks like you're doin' a good job.
+L409644 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay.
+L409643 +++$+++ u6824 +++$+++ m455 +++$+++ FOREMAN +++$+++ How 'you doing?
+L409642 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Name's Duff.
+L409641 +++$+++ u6824 +++$+++ m455 +++$+++ FOREMAN +++$+++ Hey, boy - I'm talkin' to you.
+L410000 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay, thanks very much.
+L409999 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ Well, I guess that's all till tomorrow.
+L409998 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ No. Just me.  Me an' her.
+L409997 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ Any other family?
+L409996 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I don't know. Forty-eight, I guess.
+L409995 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ And his age?
+L409994 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, he worked around.
+L409993 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ His profession?
+L409992 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I don't know.
+L409991 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ Where was your father born?
+L409990 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ No. What you usually say, I guess.
+L409989 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ Have anything in mind?
+L409988 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Guess so.
+L409987 +++$+++ u6835 +++$+++ m455 +++$+++ UNDERTAKER +++$+++ Would you like me to say anything tomorrow?
+L409986 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Thanks.
+L409876 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay, I will.
+L409875 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ Why don't you come over for a beer when you get through?
+L409874 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ That's two bucks, Joe.
+L409798 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Oh yeah? That's good.
+L409797 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ It's just that we're not used to seein' anyone stand up 'round here. Kinda took us by surprise.
+L409796 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah, I been there.
+L409795 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ Been over to the other mill?
+L409794 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ You know, over at the mill, there's just one guy that talked. It's kinda late to say it, but we shoulda acted different.
+L409793 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Oh yeah?
+L409792 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ Cup of coffee.  I 'been meanin' to talk to you.
+L409791 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay.
+L409790 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ How 'you doin' man?
+L409671 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ Like hell they wouldn't.
+L409670 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Like hell. You know, if you fellows stuck together 'stead of letting them walk all over you, they might not try it.
+L409667 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ That ain't my idea of friendliness.
+L409666 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ You know, man, that guy was trying to be friendly.
+L409623 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ That's right. How' you doin', Barney?
+L409622 +++$+++ u6827 +++$+++ m455 +++$+++ JOE +++$+++ Hard to get up in the morning, huh?
+L409951 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Like I said, baby - I'll write you.
+L409950 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Duff--
+L409949 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay.
+L409948 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ You don' know nothin' 'bout it, baby. Nothin'! And don't kid yourself - you did your bit.
+L409947 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You're not a man because of a job, Duff.
+L409946 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ You'll be better off without me. I ain't fit to live with no more. It's just like a lynchin'. Maybe they don't use a knife on you, but they got other ways.
+L409945 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I don't think that'll happen.
+L409944 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ When I get set, I'll send for you.
+L409943 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Where're you going to go?
+L409942 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, that'll be the first time.
+L409941 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ There's nothing to say.
+L409940 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Ain't you goin' to say something?
+L409937 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, that don't do me one bit of good!
+L409936 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Duff, I love you.
+L409935 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Nothin. Quit lookin' at me like that!
+L409934 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ What d'you mean?
+L409933 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Hell, if they don't blow up his place, they'll get him some other way. Don't make no difference no-how.
+L409873 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Jesus, baby, you're so full of talk! Well, you ain't never really been a nigger, have you - livin' like that in your father's house! So just shut your mouth.
+L409872 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Not if you see them for what they are, Duff.
+L409871 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Like hell they can't.  They can reach right in with their damn white hands and turn you off and on.
+L409870 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Just of getting hurt. They can't touch me inside.
+L409869 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ You were plenty scared that night in the car.
+L409868 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I don't know. I guess I'm not afraid of them.
+L409867 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ How come you don't hate their guts?
+L409846 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Stop bein' so damn understandin'.
+L409845 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I can't stand to see you like that. I know you can't help it.
+L409844 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ You heard me!
+L409841 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Watch out!
+L409840 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Don't do that!
+L409839 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ What're you going to do?
+L409838 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ No point fixin' it!
+L409837 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ 'You kiddin'? You ain't goin' to no white home. I seen the way they look at you when you go down the street.
+L409836 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Day work.
+L409835 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ What the hell could you do?
+L409834 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I could work even after the baby comes. A few hours a week, anyway.
+L409833 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah!
+L409832 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I'm trying to help, Duff.
+L409831 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Sure, baby. 'Fact, I don't ever have to work no more. When that baby comes, I can just stay home and send you back to school. How about that?
+L409830 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You know - we do have enough money. Especially now.
+L409825 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You can have what I've got. It's right there.
+L409824 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Water pump's busted. I don't know if it's worth fixin', but I need that car.
+L409823 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ About ten dollars.
+L409822 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Don't ask, baby - huh!  How much money you got with you?
+L409821 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Hi.
+L409779 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah. Yeah, I know. I'm not really thinkin' about it. Anyway, don't want those white guys laughin' up their sleeve at me when they see me pull out.
+L409778 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ We can always do that, Duff.
+L409777 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I'm telling you, baby, maybe we better get out of here.
+L409776 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ They won't.
+L409775 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Pay is so damn low. I don't want my kids to grow up like Barney's.
+L409774 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You will.
+L409773 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah. But just how're we goin' to make out? I got to get me a job.
+L409771 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Hell, baby - I met this beautiful chick and she's just dyin' for me, okay?
+L409770 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Don't deny me, Duff.
+L409765 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah.
+L409764 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Don't, Duff.
+L409740 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, he ain't mine, so skip it.
+L409739 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I keep thinking about him.
+L409738 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ How come you keep askin'?
+L409737 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ What about your boy?
+L409736 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Man, we sure hit the jackpot fast around here.
+L409735 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ We'll be all right.
+L409734 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Ain't that something?!  That's just fine, baby.
+L409733 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Well, I haven't come around.
+L409732 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ You jivin' me?
+L409731 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Don't look so scared.
+L409730 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Huh?
+L409729 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ How would you like to have a baby, Duff?
+L409702 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ My father's never done a thing for any of them.
+L409701 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ It sure scares you, a guy like that - settin' out on his porch, doin' nothin'. I seen hundreds of them - all my life.
+L409698 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Go on - hit me!
+L409697 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ I don't want to hurt you.
+L409696 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Like so. There you go. Okay, hit me!
+L409695 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Okay. Come on. Put 'em up!
+L409694 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ My kids want me to teach them.
+L409693 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Uh-huh. Why?
+L409692 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You know how to box?
+L409691 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Well, if you don't know I can't tell you.
+L409690 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You still didn't answer my question.
+L409689 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Baby, you're the best thing that ever happened to me.
+L409688 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ You didn't answer my question.
+L409687 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Hmmm - good coffee.
+L409686 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Am I as good as they?
+L409685 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ What about them?
+L409684 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Duff - you know those women you used to know--
+L409683 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Everything you cook is good.
+L409682 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Come here, baby.
+L409681 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Oh really? I thought it was pretty good.
+L409680 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Smells like something crawled in there and died.
+L409679 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ What's wrong?
+L409678 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Yeah, that's so.
+L409677 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Is that so?
+L409618 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Let's just see how the two of us make out first, huh?
+L409617 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ He could live with us.
+L409616 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ What about him?
+L409613 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ That's all right with me. Always liked kids.
+L409612 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Don't call them that.
+L409611 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Hey, watch out! Guess you want a house full of pickaninnies too, huh?
+L409610 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ Yeah?
+L409609 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ That's Bessie Hall. Barney works at the mill.
+L409604 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ It'll be fine when we get done with it.
+L409603 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ It's okay with me, baby. But how' you goin' to like it?
+L409602 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ Well, what d'you think?
+L409601 +++$+++ u6822 +++$+++ m455 +++$+++ DUFF +++$+++ I can see why.
+L409579 +++$+++ u6829 +++$+++ m455 +++$+++ JOSIE +++$+++ No. But a small one.

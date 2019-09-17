@@ -1,0 +1,200 @@
+L591864 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I want to know what he told you last night.
+L591863 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Yes--?
+L591862 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I saw Bobby this morning before he went to school--
+L591858 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ May I walk out with you?
+L591857 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I -- I was Just going to lunch.
+L591856 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ May I see you for a minute?
+L591855 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Oh -- hello--
+L591805 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Goodnight, my dear.
+L591804 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Mr. Carpenter, I--  Goodnight.
+L591795 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Goodnight, Mr. Carpenter.
+L591794 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Excuse me. I was just going up to my room.
+L591787 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Oh -- they just wanted to ask me a few questions. Bobby and I tried to see Professor Barnhardt in the afternoon, but he wasn't in. Apparently they thought I was looking for secrets of some kind.
+L591786 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Mr. Carpenter -- this is none of my business, but -- why did that detective come here last night?
+L591785 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Warm and friendly and intelligent--  You know -- he's the only real friend I've made since I've been here.
+L591784 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Naturally I think so.
+L591783 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ He's a fine boy, Mrs. Benson.
+L591782 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ He has his homework to keep him occupied.
+L591781 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Bobby's the only person I know who isn't -- Jittery.
+L591780 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ Jittery is the word.
+L591779 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ Everyone seems so-- 
+L591671 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I enjoyed every minute of it.
+L591670 +++$+++ u3201 +++$+++ m211 +++$+++ HELEN +++$+++ I don't know how to thank you.
+L591620 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ You might keep this.  I think the professor will want to get in touch with me.
+L591619 +++$+++ u3202 +++$+++ m211 +++$+++ HILDA +++$+++ Well, he's not here. And he won't be back till this evening.  I think you'd better leave now. Unruffled, Klaatu turns to the desk and scribbles something on a scratch pad. He tears off the piece of paper and hands it to Hilda.
+L591618 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ We came to see Professor Barnhardt.
+L591617 +++$+++ u3202 +++$+++ m211 +++$+++ HILDA +++$+++ How did you get in here? And what do you want?
+L591616 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ He'll catch on to it in no time now.
+L591615 +++$+++ u3202 +++$+++ m211 +++$+++ HILDA +++$+++ How dare you write on that blackboard!  Do you realize the Professor has been working on that problem for weeks?
+L591908 +++$+++ u3203 +++$+++ m211 +++$+++ JEWELER +++$+++ I'd give you a very good price.
+L591907 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ No -- no, thanks.
+L591906 +++$+++ u3203 +++$+++ m211 +++$+++ JEWELER +++$+++ Would you like to sell it?
+L591905 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ You sure about that?
+L591904 +++$+++ u3203 +++$+++ m211 +++$+++ JEWELER +++$+++ There are no diamonds like this -- any place in the world.
+L591903 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ That's what I wanted you to tell me.
+L591902 +++$+++ u3203 +++$+++ m211 +++$+++ JEWELER +++$+++ I have never seen such a stone. Will you please tell me where it came from?
+L591901 +++$+++ u3207 +++$+++ m211 +++$+++ TOM +++$+++ Is it worth anything?
+L591714 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ Get going, will you, Brady -- before I get mad!
+L591713 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ May I suggest that you call the Professor?
+L591710 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ They can tell right away. They've got a couple of doctors who saw this man in the hospital.  Take him over to G2.
+L591709 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ How long will that take?
+L591708 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ People get hysterical enough, they do anything.  Look, Mr. Carpenter -- if you can't identify yourself, I got to send you over to the Army.
+L591707 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ They would have killed this man?
+L591706 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ Okay -- book him and get him fixed up.  Looks like everybody's goin' nuts.
+L591702 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ You don't.
+L591701 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ Well, how do I know who you are?
+L591700 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ No -- I'm afraid not.
+L591699 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ Your name's Carpenter -- that right?  Any identification, Mr. Carpenter? Driver's license -- social security number?
+L591698 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ It's really quite simple... The three- body problem, you know.
+L591697 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ But I suppose you know the answer.
+L591696 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ In this case the secret wouldn't be worth much. He doesn't know the answer himself.
+L591695 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ I suppose you know that Barnhardt does a lot of secret work for the Army.
+L591694 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ That's right.
+L591693 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ Oh, I see. He was having trouble and you were helping him out.
+L591692 +++$+++ u3204 +++$+++ m211 +++$+++ KLAATU +++$+++ I was only trying to be helpful. He was having difficulty with a problem.
+L591691 +++$+++ u3205 +++$+++ m211 +++$+++ LIEUTENANT +++$+++ The Professor's secretary says she found you in Barnhardt's room, making marks on his blackboard.
+L596498 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ What's Plan B?
+L596497 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Time to activate Plan B.
+L596496 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Well... we blew Plan A.
+L596483 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ You gotta drive!
+L596482 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ They're gaining on us!
+L596471 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ We blew it, Edgar!  We lost it!
+L596470 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Burn rubber does not mean <u>warp</u> <u>speed</u>!
+L596468 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Fine!  Stay here!
+L596467 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ We don't ride with vampires.
+L596466 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ <u>I'll</u> have to drive!
+L596334 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Exactly how many vampires have you actually destroyed?
+L596333 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ They wouldn't be out in the daytime.
+L596274 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ You better get a garlic T-shirt, buddy.
+L596273 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ He's my brother.
+L596272 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Why not?
+L596269 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ He's a vampire alright.
+L596268 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Yeah.
+L596267 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Salt sticks to the bottom of his feet.
+L596264 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Wears sunglasses in the <u>house</u>.
+L596263 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Can't stand light?
+L596262 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ All day.
+L596157 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I'm gonna pray that I never need to call you.
+L596156 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Think of this more as a survival manual... there's our number on the back, and pray that you never need to call us.
+L596155 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I don't like horror comics.
+L596153 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ You better get some fresh air.
+L596152 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ We're fighters for Truth, Justice, and the American Way.
+L596149 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ This isn't a comic book store, right.  It's a bakery.
+L596148 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Yeah, you think we just work in a comic book store for our dad, huh?
+L596144 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ It's a pretty cool place if you're a Martian.
+L596143 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ How do you like Santa Carla?
+L596008 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ This one could save your life.
+L596007 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I don't like horror comics.
+L596005 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ No, I'm a resident as of today and you'll probably be seeing a lot of me... I've been collecting comic books all my life... perhaps you'd like to see my collection?
+L596004 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Just passing through Santa Carla?
+L596552 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ The baddest!
+L596551 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ The meanest!
+L596550 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ We are awesome monster-bashers!
+L596549 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Maximum body-count.
+L596548 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Death to all vampires!
+L596547 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ You know what?  You're absolutely right.
+L596546 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Those two we brought back with us. The girl and the kid.  I don't trust 'em.  I say we terminate 'em while we can.
+L596545 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Whattaya mean?
+L596544 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ <u>Four</u> to go.
+L596543 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Two down and two to go.
+L596542 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Man, we totally annihilated his night-stalkin' ass!
+L596541 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Did you see that sucker burn?!
+L596516 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ That's just the way we like it.
+L596515 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Good.
+L596487 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ They're gonna book us.
+L596486 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ They're looking at us.
+L596474 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ They pulled a mind-scramble on us, man!  It wasn't our fault! They opened their eyes and talked!
+L596473 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ We unraveled in the face of the enemy!
+L596472 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Shut up!
+L596433 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ I've only got one question for you, and I want an honest answer.  Have you taken any human victims yet?
+L596432 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Should I run him through?
+L596429 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ El Vampiro.
+L596428 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ The nightcrawler.  The bloodsucker.
+L596427 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ The Prince of Darkness.
+L596426 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Okay.  Where's Nosferatu?
+L596336 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Zero.
+L596335 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ All together?
+L596326 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ As a matter of fact, we're almost certain that ghouls and werewolves occupy high positions at City Hall.
+L596325 +++$+++ u3208 +++$+++ m212 +++$+++ ALAN +++$+++ Santa Carla has become a haven for the undead.
+L596324 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ We've been aware of some very serious vampire activity in this town for a long time.
+L596396 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ You're one of us, now -- aren't you?
+L596395 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ What is this, David?
+L596394 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ If you ever want to see Star again, then you better come with us.
+L596393 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Where's Star, David?!
+L596392 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Hey, take it easy.
+L596391 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Where is she?!
+L596194 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ What's goin' on, Marko?
+L596193 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ What's going' on?
+L596178 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Get your bike.  We're going someplace.
+L596177 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ I'm my own man.
+L596108 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Why?  They're only noodles.
+L596107 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Don't!  Stop!
+L596102 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ You're eating maggots.  How do they taste?
+L596101 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ What?...
+L596100 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ So how do you like those maggots, Michael?
+L596074 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Good idea.  Marko.  We're hungry.
+L596073 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ We were gonna grab some food.
+L596066 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ You don't have to beat me, Michael.  Just try to keep up.
+L596065 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ I can't beat a Triumph.
+L596063 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Star?...
+L596062 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ C'mon, Star.  Climb on.
+L596061 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ That's right.
+L596060 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Honda 250, huh?
+L596059 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ We still going?
+L596565 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ No, Star.  Put it down.  Put it down.
+L596564 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ I will, David!
+L596563 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ You can't kill me, Star.
+L596176 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ You're almost one of us now, Michael.
+L596175 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ Look.
+L596104 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Sorry, Michael.  No hard feelings, huh?  Here.  Try these noodles.
+L596103 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ Leave him alone.
+L596072 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ No.  Stick around.
+L596071 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ C'mon, Michael.  I want to go.
+L596055 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ Yeah.
+L596054 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ With him?
+L596053 +++$+++ u3217 +++$+++ m212 +++$+++ STAR +++$+++ For a ride.
+L596052 +++$+++ u3209 +++$+++ m212 +++$+++ DAVID +++$+++ Where you going?
+L596501 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ The dun goes down and they'll be comin' for us.
+L596500 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ What happens in tow and a half hours?
+L596499 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ We don't have one yet.  And we only have two and a half hours to come up with one.
+L596490 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Your dog knows flesh-eaters when he smells 'em!
+L596489 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ No, Nanook!  Quiet!
+L596477 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ There's a cop behind us.
+L596476 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ What?
+L596475 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Oh, no...
+L596463 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ That's exactly what this place is. One great big coffin.  Let's stake 'em.
+L596462 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I thought they'd be in coffins.
+L596461 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Vampires, my friend.  Vampires.
+L596460 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ What's that smell!?
+L596447 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Chill out Edgar.
+L596446 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Just so you know:  If you try to stop us, or vamp-out in any way, I'll stake you without thinking twice about it.
+L596437 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ To free you, we must destroy the leader of the vampires.
+L596436 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ He's telling the truth!  Aren't you, Michael?
+L596378 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Hit the lights again.
+L596377 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ He's not glowing.
+L596332 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ How do you know they're not?
+L596331 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ I wish they were vampires so I could nuke them in their hearts.
+L596329 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Well... he only shows up at the store after dark.  And today, his dog attacked my mom.  Listen to this.  From <u>Vampires</u> <u>Everywhere</u>...  'Vampires require a daytime protector -- a <u>Guardian</u> -- to watch over them as they sleep. For it is during the day that the vampire is most vulnerable. Since they hold sway over animals, <u>fierce dogs -- the hounds of Hell</u> <u>-- are often employed for this</u> <u>purpose</u>.'
+L596328 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ That is very probable.  What's your reasoning?
+L596327 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I have something to tell you guys.  Not only is my own brother showing systems of being a vampire... but now I'm convinced my mother's <u>dating</u> one!
+L596271 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ I can't do that!
+L596270 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Get yourself a good sharp stake and drive it through his heart.
+L596266 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ His fingernails are longer, but he always has bad breath.
+L596265 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Bad breath?  Long fingernails?
+L596151 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Now I get it... you're like those people in the airport trying to get you to give them money. You're part of a cult.
+L596150 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ This is just our cover.  We're dedicated to a higher purpose.
+L596147 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ You think you're cool, don't you? You think you know what's really happening, don't you?  Well, you don't know shit, buddy.
+L596146 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Are you guys sniffing old newsprint or something?
+L596145 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Or a vampire.
+L596003 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ Phoenix actually and these Bullwinkle and...
+L596002 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Where the hell are you from, Kryton???
+L596001 +++$+++ u3216 +++$+++ m212 +++$+++ SAM +++$+++ And these Archies should be over here with the Richie Rich's.
+L596533 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Sam, don't --
+L596532 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Don't go out there!  Stop him!
+L596443 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ Okay, okay.
+L596442 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ I said, <u>I'll take you there</u>. Nobody's going near Star without me.
+L596440 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ I'll take you there.
+L596439 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ I don't want names!  Just lead me to him.  Where's their nest?
+L596438 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ David.
+L596435 +++$+++ u3210 +++$+++ m212 +++$+++ EDGAR +++$+++ If you're telling the truth, it means we can save you.
+L596434 +++$+++ u3215 +++$+++ m212 +++$+++ MICHAEL +++$+++ Of course not!

@@ -1,0 +1,200 @@
+L179898 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ And who might you be, sir?
+L179897 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Are you the proprietor?
+L188218 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well, my dear, I think you'll find it's all a question of what you want to believe in.... I have slightly more experience of these matters than you...
+L188217 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ It's sinking! Hy-Brasil is sinking!
+L188210 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ But, Father, it IS!
+L188209 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ It's all right! It isn't happening!
+L187976 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ But one day I'll catch you... Like I caught her...
+L187975 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ It's your fantasy...
+L187974 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ She did, I tell you! She could blind me as easily as the night the day.
+L187973 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ There is no magic, Father... My mother had no magic...
+L187972 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ I don't know how you do it, Aud... I sometimes think you've got some of your mother's magic...
+L187971 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ It's all in your own mind, Father... It's YOU who imagine that I'm always up here with some man or other....
+L187967 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ You're losing your temper!
+L187966 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Ah! So you admit there IS someone!
+L187964 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ There's nobody here, Father. Look for yourself.
+L187963 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well... where is he?
+L187959 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ There IS no one.
+L187958 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Who? Who? Whoever you've got in here of course!
+L187957 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Who, Father?
+L187956 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Right! Where is he?
+L187952 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Open up! I know you're in there!
+L187951 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Ah! It's my father!
+L187950 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Open up! I know you're in there!
+L188310 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ But, Aud... I... I came to find someone...
+L188309 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ I don't want to live WITHOUT you.
+L188308 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No... no...
+L188307 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Then I shall come too.
+L188304 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No living man has ever set foot in the Halls of Asgaard... The Gods will never let you return.
+L188303 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ There is something I must ask the Gods...
+L188302 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Blow the third note! The note to take us home!
+L188301 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Not quite...
+L188300 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Erik! You've done what you came to do!
+L188298 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ The second note to wake the Gods...
+L188297 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ The second note.
+L188282 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Then let go!
+L188281 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Yes -- I believe you do.
+L188280 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ You don't have to love me. Just: do you believe I love YOU?
+L188279 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I... but I...
+L188278 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Do you believe I love you?
+L188277 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Of course.
+L188276 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ YOU still want to go to Asgaard?
+L188272 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I MUST look! Keitel! Hold this!
+L188271 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No. Don't look... The abyss will suck away your strength.
+L188258 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ That's right!
+L188257 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No! No! We are in the spell of the Horn! Hatred will destroy us.
+L188052 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No! WAIT! ERIK! The Cloak! The Cloak Invisible! It only seems to work on my father!
+L188051 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ And thanks for the Cloak Invisible!
+L188049 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Goodbye, Aud...
+L188048 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ But you don't realize....
+L188047 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No. It's YOU who doesn't understand, Aud. Halfdan has come to kill and destroy. We brought him here. We must stop him.
+L188046 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Erik. You don't understand.
+L188045 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I'll bring it back.
+L188044 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No!
+L188041 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Why?
+L188040 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Where's the Cloak Invisible?
+L188039 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ I mean, you could have killed yourself.
+L188038 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Just give me a hand.
+L187989 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ But, Erik...
+L187988 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Halfdan the Black.
+L187987 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Who?
+L187986 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ We mustn't let him land!
+L187984 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ And the week before that?
+L187983 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ You're as bad as my father.
+L187982 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Five this week; how many the week before?
+L187981 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ That's just what I was trying to tell you. You ARE...
+L187980 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ And I thought you said it was something special...
+L187979 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Oh, for goodness' sake!
+L187978 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ "The fifth one this week"!
+L187977 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ The Cloak Invisible. It was my mother's parting gift.
+L187949 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I've never been to bed with anybody!
+L187948 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ I've never LOVED anybody!
+L187947 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ You've been to bed with somebody else, haven't you?
+L187946 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Why do you go on about that? What does it matter?
+L187945 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ We never went to bed together.
+L187944 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ But you LOVED her all the same...
+L187943 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Oh... oh, I didn't know her very well...
+L187942 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ What was she like?
+L187941 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ It was different...
+L187940 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ What does that matter? But you've... you've... FELT like this before...
+L187939 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ HAVE you ever been to bed with anyone else?
+L187938 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No, I mean have you ever felt that for the first time in your life you'd met somebody you could believe in with your whole heart... someone whose goals suddenly seem to be YOUR goals... whose dreams seem to be YOUR dreams?
+L187937 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ You mean... you HAVE got into bed with somebody else?
+L187936 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ No, of course not, silly -- I mean FELT like this about them?
+L187935 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ What... you mean "got into bed with" them?
+L187934 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Have you ever felt like this about anyone else?
+L187853 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ But surely you know...?
+L187852 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Yes.
+L187851 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ WHY?
+L187848 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Put them down!  PLEASE make them put them down.
+L187847 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ What?
+L187846 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ PLEASE! You don't know what you're doing!
+L187845 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ What's the matter?
+L187843 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ These? What are THESE? They're swords.
+L187842 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Those things in your hands.
+L187841 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ What are what?
+L187840 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Please! Please! What are those?
+L187836 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Well, EVERYONE is friends here on Hy- Brasil.
+L187835 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ How d'you KNOW we're "friends"?
+L187834 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ Well, of course. We always welcome friends.
+L187833 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ WELCOME?
+L187832 +++$+++ u839 +++$+++ m54 +++$+++ AUD +++$+++ I said welcome.
+L187831 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ WHAT did you say?
+L188245 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ SHE blew the Horn Resounding.
+L188244 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ We blew the Horn Resounding.
+L188243 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ How do we know this is the way?
+L188122 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ What d'you mean?
+L188121 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ But... How is it you can see me?  You can all see me?
+L188118 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ It was my master Keitel's idea.
+L188117 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ But --
+L188115 +++$+++ u851 +++$+++ m54 +++$+++ LOKI +++$+++ Halfdan wanted to stop you waking the Gods... so... I disguised myself to sabotage their plans.
+L188114 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ LOKI! Where did YOU come from?
+L187468 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ That I cannot tell you.
+L187467 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ And will the dead ever return, Freya?
+L187464 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I will go and wake them up!
+L187463 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ The Gods are asleep, Erik.
+L187462 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Is there nothing men can do?
+L187458 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ The sky WAS blue, Erik... once.
+L187457 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Of course not... but... when I was a child... I remember a dream.... it was as if the whole sky was blue...
+L187456 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ But have you ever seen it? Think back...
+L187455 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ The sun is up beyond the clouds -- where it always is.
+L187454 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ Have you ever seen the sun, Erik?
+L187452 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ Is it summer or winter, Erik?
+L187451 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ It is day, of course, Freya.
+L187450 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ Is it night or day, Erik?
+L187449 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I see the world.
+L187448 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ What do you see, Erik?
+L187445 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ They will make fun of you for listening to an old woman's stories?
+L187444 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I shouldn't have come.
+L187443 +++$+++ u841 +++$+++ m54 +++$+++ FREYA +++$+++ Now what CAN you want with me, Erik the "Viking"?
+L188187 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ The important thing is not to panic.
+L188186 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ But it IS! Look!
+L188140 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Then I expect you'll be leaving first thing in the morning.
+L188139 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Yes... oh, yes...
+L188138 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well, it's not called the Horn Resounding for nothing.  You DO know how to play the horn, don't you?
+L188137 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Oh! No! No... of course not... it's just I hadn't expected it to be quite so big.
+L188136 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Is there something the matter with it?
+L188011 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ I know that the Great Blessing has kept the peace for a thousand years, and will keep it for the next thousand.
+L188010 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ You don't know Halfdan the Black.
+L188009 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Not when we explain about the Great Blessing.
+L188008 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ He wants to kill US!
+L188007 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Don't talk nonsense.
+L188006 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Because that's how he makes his money, by war and plunder!
+L188005 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Why?
+L188004 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ He's trying to stop us waking the Gods.
+L188001 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ They'll be more than "hurt" if Halfdan the Black lands! Ow!
+L188000 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ It's all part of our safety regulations. You see if someone were to get hurt they might get angry and then... well...
+L187997 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ You've got to let me go!
+L187996 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Careful!  They're not supposed to hurt you.
+L187932 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Yes?
+L187931 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ I'll tell you what...
+L187928 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ YOU try to be nice to people, when they're rude about your singing...
+L187927 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ The Gods are asleep, King Arnulf.
+L187926 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well, how d'you think I feel?
+L187925 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Your Majesty! We come from a world where there IS no music. Where men live and die by the axe and by the sword...
+L187924 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ They didn't like it! Oh God! I want to die!
+L187923 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No.
+L187922 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Now I want you to be ABSOLUTELY, totally, genuinely honest with me. Did you really, truly, honestly like it?
+L187921 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No, no... It was very... er, nice.
+L187920 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ We're just not a very musical nation...
+L187901 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Right! Summon the musicians! We'll do the one that goes "TUM-TUM-TUM- TUM-TI-TUM-TUM"
+L187900 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No. 
+L187899 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ And you're not just saying it because you think we want you to?
+L187898 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Really.
+L187897 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ REALLY?
+L187896 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Of course we're not; we'd genuinely like to hear you sing.
+L187893 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ You're just saying that.
+L187892 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Er... well... we... we... would be TERRIBLY grateful if you... all... would sing for us.
+L187889 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No... no...  We'd love to hear it. Wouldn't we?
+L187888 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ But you don't want to hear it.
+L187887 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I'm sure it's lovely.
+L187886 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ A lot of people like our singing.
+L187885 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Oh, no no no! It's just the Horn Resounding is...
+L187884 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ You don't think our singing's going to be good enough for you?
+L187883 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Oh... well, yes, of course; it's just we're looking for the Horn Resounding and --
+L187882 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ What's the matter, don't you WANT to hear our singing?
+L187881 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ That's very kind of you, but we're in rather a hurry... We're...
+L187880 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Would you like us to sing to you?
+L187869 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well... isn't it great?
+L187868 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Well, OBVIOUSLY there's no killing.
+L187867 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ Well... for a start... er... there's no killing...
+L187866 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ How?
+L187858 +++$+++ u849 +++$+++ m54 +++$+++ KING ARNULF +++$+++ The Gods decreed that if ever a sword spills human blood upon these shores, the whole of Hy-Brasil will sink beneath the waves.
+L187857 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ No... we don't...
+L188390 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I don't know! I just did!
+L188389 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ Why should you care?
+L188341 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Odin!
+L188340 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ You'll have to wait till he's finished his game.
+L188339 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Is THAT Odin?
+L188332 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Well... no...
+L188331 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ Have you tried to ask the God for anything?
+L188330 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I'll ask the Gods to give you life again!
+L188329 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ What's the point of being dead in the land of the living?
+L188328 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Why?
+L188327 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ What a stupid idea.
+L188326 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ I've come to take you back to the land of the living.
+L187409 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Tell me your name?
+L187408 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ Why... should YOU care?
+L187407 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ Why should you care?
+L187406 +++$+++ u846 +++$+++ m54 +++$+++ HELGA +++$+++ I dunno... you looked so... so vulnerable...
+L187405 +++$+++ u840 +++$+++ m54 +++$+++ ERIK +++$+++ You told them I raped you -- why?

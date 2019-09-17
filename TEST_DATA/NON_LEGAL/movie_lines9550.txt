@@ -1,0 +1,200 @@
+L47210 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yes, I've got it.  Don't you think we'd better destroy it? So it won't fall into the wrong hands -- ?
+L47209 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh. Did you find something here -- an envelope -- ?
+L47208 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, I don't mind. As a matter of fact, I'm sort of flattered -- that anybody should think a girl like you -- would do a thing like this -- over a guy like me.
+L47207 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ She doesn't seem to like you very much.
+L47188 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ He's a liar. But that's not the worst part of it -- the worst part is -- I still love him.
+L47187 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, you're wrong. He told me --
+L47186 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ He doesn't give a damn about me.
+L47185 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I didn't mean it that way -- I was just talking to him on the phone -- he's very concerned about you.
+L47184 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Thanks for reminding me.
+L47183 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That's why we have to be careful -- we don't want to involve anybody -- after all, Mr. Sheldrake is a married man --
+L47182 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ But they'll be worried about me -- my brother-in-law may be calling the police --
+L47181 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik, I don't think you ought to call anybody -- not till that chewing gum is out of your head. 
+L47180 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ They had to pump it out.
+L47179 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Your stomach?
+L47178 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No -- it's my stomach.
+L47177 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Something wrong with your legs?
+L47176 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ As soon as I can walk.
+L47175 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ When are you coming home?
+L47174 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Miss. 
+L47173 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What's her first name?
+L47172 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Baxter.
+L47171 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What's your friend's name?
+L47170 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I mean -- her apartment.
+L47169 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ His apartment?
+L47168 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ In his apartment.
+L47167 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ And where are you now?
+L47166 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Someone from the office.
+L47165 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Who?
+L47164 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'll tell her I spent the night with a friend.
+L47163 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You better figure it out -- exactly. Suppose she asks you why you didn't come home last night?
+L47162 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Well, I haven't figured it out, exactly.
+L47161 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Wait a minute -- let's talk this over first.  Just what are you going to tell her?
+L47160 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ My sister -- she'll want to know what happened to me.
+L47159 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Who are you calling, Miss Kubelik?
+L47151 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'll fix you some coffee.
+L47150 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No -- I don't want anything.
+L47149 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Here. How about some breakfast?
+L47147 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh -- of course. I think there's a new toothbrush somewhere.
+L47146 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I just want to go brush my teeth --
+L47145 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik, I'm stronger than you are --
+L47144 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Sure I do. It's always nice to have company for Christmas.
+L47143 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You don't want me here --
+L47142 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You're in no condition to go anywhere -- except back to bed.
+L47141 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Where's my dress? I have to go home.
+L47140 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Two o'clock.
+L47139 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ My head -- it feels like a big wad of chewing gum. What time is it?
+L47138 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What kind of talk is that?  So you got a little over- emotional -- but you're fine now.
+L47137 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm so ashamed. Why didn't you just let me die?
+L47136 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Let me help you.
+L47135 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I didn't know -- I had no idea this was your apartment --
+L47134 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik --  -- you shouldn't be out of bed.
+L47133 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm sorry, Mr. Baxter.
+L47071 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm so tired -- DR. DREYFUSS Here -- drink this.
+L47070 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's not important, Fran -- the main thing is that I got here in time -- and you're going to be all right --  -- isn't she, Doc?
+L47069 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't understand --
+L47068 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That's right.  I told you we had a fight -- that's what it was about -- Miss Olsen -- you know that other girl you saw --
+L47067 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh, yes -- office party -- Miss Olsen --
+L47066 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Don't you remember? We were at the office party together --
+L46921 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ All right. Have a nice Christmas.
+L46920 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh.  Yes?  Just a minute.  If you don't mind -- this is sort of personal
+L46919 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Your phone.
+L46918 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I know. I like it this way -- makes me look the way I feel.
+L46917 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ The mirror -- it's broken.
+L46916 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ What is it?
+L46915 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ After all, this is a conservative firm -- I don't want people to think I'm an entertainer --
+L46914 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Here.
+L46913 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You don't think it's tilted a little too much --
+L46912 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I think so.
+L46911 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No problem. Why don't we discuss it sometime over the holidays -- I could call you and pick you up and we'll have the big unveiling --  -- you sure this is the right way to wear it?
+L46910 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm afraid there are too many other girls around here with seniority over me.
+L46909 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I thought maybe I could put in a word for you with Mr. Sheldrake -- get you a little promotion -- how would you like to be an elevator starter?
+L46906 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ He and I are like this.  Sent me a Christmas card. See?
+L46905 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why?
+L46904 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, you don't have to worry about that. I have quite a bit of influence in Personnel. You know Mr. Sheldrake?
+L46903 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'd better get back to my elevator. I don't want to be fired.
+L46902 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I understand. Christmas -- family and all that --
+L46901 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ This is a bad day for me.
+L46900 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, as long as you wouldn't be ashamed to be seen with me -- how about the three of us going out this evening -- you and me and the bowler -- stroll down Fifth Avenue -- sort of break it in --
+L46899 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Much better.
+L46898 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Maybe if I wore it a little more to the side --  is that better?
+L46897 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Of course not.
+L46896 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Really? You mean you wouldn't be ashamed to be seen with somebody in a hat like this?
+L46895 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No -- I like it.
+L46894 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Guess I made a boo-boo, huh?
+L46891 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Why don't we step into any office? There's something I want your advice about, anyway.  I have my own office now, naturally. And you may be interested to know I'm the second youngest executive in the company -- the only one younger is a grandson of the chairman of the board.
+L46890 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Nothing.  There are just too many people here.
+L46889 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You all right? What's the matter?
+L46876 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I thought so.
+L46875 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Three.
+L46874 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How many of those drinks did you have?
+L46873 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Don't you believe it. Later on there will be human sacrifices -- white collar workers tossed into the computing machines, and punched full of those little square holes.
+L46872 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why not?  They seem friendly enough.
+L46871 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ By the power vested in me, I herewith declare this elevator out of order.  Shall we join the natives?
+L46870 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You're so right.
+L46869 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I shouldn't drink when I'm driving.
+L46868 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ One more?
+L46867 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Cheers.
+L46866 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik, one doesn't get to be a second administrative assistant around here unless he's a pretty good judge of character -- and as far as I'm concerned, you're tops. I mean, decency-wise -- and otherwise-wise.  Cheers.
+L46865 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Don't be too sure. Just because I wear a uniform -- that doesn't make me a Girl Scout.
+L46864 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You couldn't help yourself. I mean, when you're having a drink with one man, you can't just suddenly walk out on him because you have another date with another man. You did the only decent thing.
+L46863 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You shouldn't.
+L46862 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I forgive you.
+L46861 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't blame you. It was unforgivable.
+L46860 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, as a matter of fact, I was rather hurt when you stood me up that night --
+L46859 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ In the last six weeks you've only been in my elevator once -- and then you didn't take your hat off.
+L46858 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What gave you that idea?
+L46857 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Thank you.  I thought you were avoiding me.
+L46856 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Marry Christmas.
+L46734 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Eight-thirty!
+L46733 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Well, don't tell the fellows in the office about the appendix. They may get the wrong idea how you found out.  'Bye.
+L46732 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I know your height, your weight and your Social Security number -- you had mumps, you had measles, and you had your appendix out.
+L46731 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh.
+L46730 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ A couple of months ago I looked up your card in the group insurance file.
+L46729 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How come?
+L46728 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, I even know who you live with -- your sister and brother-in- law -- I know when you were born -- and where -- I know all sorts of things about you.
+L46727 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sounds good.  How do you know where I live?
+L46726 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ They got a great little band at El Chico, in the Village -- it's practically around the corner from where you live.
+L46725 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ So I see.
+L46724 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What cold? And after the show, we could go out on the town --  I've been taking from Arthur Murray.
+L46723 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How is your cold?
+L46722 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You know, I felt so lousy this morning -- a hundred and one fever -- then my promotion came up -- now you and I -- eleventh row center -- and you said I should have stayed in bed.
+L46721 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Meet you in the lobby. Okay?
+L46720 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ All right? That's wonderful! It's the Majestic -- 44th Street.
+L46719 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Well -- I could meet you at the theatre -- if that's all right.
+L46718 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Eight-thirty.
+L46717 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ What time does the show go on?
+L46716 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, it was just an idea -- I hate to see a ticket go to waste --
+L46715 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, I understand.
+L46714 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm afraid not. I promised to have a drink with him -- he's been calling me all week --
+L46713 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, in that case, couldn't you -- ?
+L46712 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ It used to be serious -- at least I was -- but he wasn't -- so the whole thing is more or less kaputt.
+L46711 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ This date -- is it just a date -- or is it something serious?
+L46710 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Just tell 'em -- now and then.
+L46709 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I wasn't trying to be personal -- it's just that the fellows in the office were -- whether you wondering about you ever --
+L46708 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No. Like a man.
+L46707 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh.  You mean -- like a girl-friend?
+L46706 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm sorry, but I can't tonight. I'm meeting somebody.
+L46705 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah.
+L46704 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You mean tonight?
+L46703 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I thought maybe we could have a bite to eat first -- and then --
+L46702 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sure.
+L46701 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Would you like to?
+L46700 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No.
+L46699 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Great. Look -- have you seen The Music Man?
+L46698 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How'd you make out on the twenty- seventh floor?
+L46697 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I almost didn't recognize you -- this is the first time I've ever seen you in civilian clothes.
+L46696 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh -- Miss Kubelik.  I've been waiting for you. FRAN You have?
+L46695 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Good night.
+L46694 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Good night.
+L46612 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Fine.  Wait.
+L46611 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I hope so.  Wouldn't you know they'd call me on a day like this -- with my cold and everything --  How do I look?
+L46610 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I hope everything goes all right.
+L46608 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'd love to hear them. Maybe we could have lunch in the cafeteria sometime -- or some evening, after work --
+L46607 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ The characters you meet. Something happens to men in elevators. Must be the change of altitude -- the blood rushes to their head, or something -- boy, I could tell you stories --
+L46606 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Really?
+L46605 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Couldn't happen to a nicer guy.  You know, you're the only one around here who ever takes his hat off in the elevator.
+L46604 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Why not? Now that they're kicking me upstairs --
+L46603 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You're beginning to sound like Mr. Kirkeby already.
+L46602 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You may not realize it, Miss Kubelik, but I'm in the top ten -- efficiency-wise and this may be the day -- promotion-wise.
+L46601 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Twenty-seven.
+L46540 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I should have stayed in bed last night.
+L46539 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You should have stayed in bed this morning.
+L46538 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That's me. 
+L46537 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Well, to make the figures come out even -- since I have no colds a year -- some poor slob must have five colds a year.
+L46536 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Why?
+L46535 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That makes me feel just terrible.
+L46534 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Really?  I was looking at some figures from the Sickness and Accident Claims Division -- do you know that the average New Yorker between the ages of twenty and fifty has two and a half colds a year?
+L46533 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh, I never catch colds.
+L46532 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah.  I better not get too close.
+L46531 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Say, you got a lulu.
+L46530 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I sort of like it.
+L46529 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ It was making me nervous, so I chopped it off.  Big mistake, huh?
+L46528 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What did you do to your hair?
+L46525 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Morning, Miss Kubelik.
+L46524 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Morning, Mr. Baxter.
+L47338 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Gas?
+L47337 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ I thought I smelled gas coming from your apartment.
+L47336 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What for?
+L47335 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ Oh, Mr. Baxter -- I'm glad you're here -- I was just going to get the passkey.
+L47104 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ I'm warning you, Mr. Baxter -- this is a respectable house, not a honky-tonky.  Come on, Oscar.
+L47103 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Don't worry about Dr. Dreyfuss -- I happen to know he was out on a case.
+L47102 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ What you get from renting to bachelors. All night I didn't sleep ten minutes -- and I'm sure you woke up Dr. Dreyfuss.
+L47101 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm sorry, Mrs. Lieberman -- and I'll never invite those people again.
+L47100 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ All that marching -- tramp, tramp, tramp -- you were having army maneuvers maybe?
+L47099 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Last night?
+L47098 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ So who did you think it was -- Kris Kringle? What was going on here last night?
+L47097 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh -- Mrs. Lieberman.
+L46429 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ Good night, Mr. Baxter.
+L46428 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No, no.  Just waiting for a friend. Good night, Mrs. Lieberman.
+L46427 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ Some weather we're having.  Must be from all the meshugass at Cape Canaveral.  You locked out of your apartment?
+L46426 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Good evening, Mrs. Lieberman.
+L46425 +++$+++ u3737 +++$+++ m246 +++$+++ MRS. LIEBERMAN +++$+++ Good evening, Mr. Baxter.
+L47555 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Save it. The old payola won't work any more. Goodbye, Mr. Sheldrake.
+L47554 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Now hold on, Baxter --
+L47553 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Just following doctor's orders. I've decided to become a mensch. You know what that means? A human being.
+L47552 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ What's gotten into you, Baxter?
+L47551 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That's right, Mr. Sheldrake. I won't be needing it -- because I'm all washed up around here.
+L47550 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ But this is the key to the executive washroom.
+L47549 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No I didn't.
+L47548 +++$+++ u3738 +++$+++ m246 +++$+++ SHELDRAKE +++$+++ Say, Baxter -- you gave me the wrong key.

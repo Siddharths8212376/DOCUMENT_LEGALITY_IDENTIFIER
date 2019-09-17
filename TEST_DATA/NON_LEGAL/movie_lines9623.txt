@@ -1,0 +1,200 @@
+L99883 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Do you remember his exact words?
+L99882 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ He laughed -- and basically said he would decide when it was over.
+L99881 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What did he say?
+L99876 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ How?
+L99875 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ Yes -- he did.
+L99874 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Did he make your life miserable?
+L99873 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ He used to call me -- tell me that I couldn't just walk out on him.  He said that if I didn't come back he'd make my life miserable.
+L99872 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ -- And what did Dr. Paley do after you stopped seeing him?
+L99871 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ I realized he wasn't serious.  He was seeing other women -- asking other nurses at the hospital out, so I ended it.
+L99870 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Then what happened?
+L99869 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ We dated for about a month last year.
+L99868 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What was the nature of your relationship with Dr. Paley.
+L99867 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ I'm a nurse.  I used to work at Roseburg Memorial Hospital.  Dr. Paley's on staff there.
+L99866 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Where did you meet him?
+L99865 +++$+++ u4173 +++$+++ m278 +++$+++ MISS SELLERS +++$+++ Yes.
+L99864 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Miss Sellers, do you know Dr. Alan Paley?
+L100002 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Because he called me.
+L100001 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Then why did you go see Mr. Koehler in the first place?
+L100000 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ No.
+L99999 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You didn't know about it before that?
+L99998 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ To show you this.  It's a letter from that lawyer, Koehler.  He wrote it to me the day after I saw him.  He's the one who told me I could get the money if Miss Lawson went to jail.
+L99997 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Why'd you come here?
+L99996 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I'm gonna go to jail.  I know they're gonna make it look like I did it. They gotta put it on someone.
+L99995 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ What do you think I've got?  A gun? Maybe I'm gonna kill you too.  Maybe I'll blow your head off right now.
+L99994 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What do you have in your purse?
+L99992 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You killed him -- didn't you, Joanne?
+L99991 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99990 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Then you would have gotten your money?
+L99989 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ You take what people say and make it ugly.  You make others believe what you want them to.  She should have been found guilty.  She shouldn't have gotten off.
+L99948 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Because you were jealous.  Because he cut you out of the will.  Because you have a cocaine habit to feed -- because you know that if Rebecca Lawson is found guilty the new will is void -- and there's a very good chance the old one would be honored.
+L99947 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ No!  Why would I want to kill him?
+L99946 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Isn't it true that you put the cocaine in the bottle?
+L99945 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ No.
+L99944 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Isn't it true that you stopped by the house after you left the drug store and dropped off the items you bought?
+L99943 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I don't know.
+L99942 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You see that's what bothers me.  No other bottle of nasal spray was found in the house.  The police looked. There was only the one bottle.  But you say you didn't arrive until after Mr. Marsh was dead -- yet we know he was using the nasal spray prior to his death.  How do you think it got there?
+L99941 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ P.M.
+L99940 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ A.M -- or P.M.?
+L99939 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Three fifteen.
+L99938 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Would you read for us the time of the purchase?
+L99937 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Dristan nasal spray.
+L99936 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ There's an item you picked up that's marked.  Will you read it?
+L99935 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99934 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Well - I'm a little confused.  This is a charge receipt from Rosen's Drug Store where Mr. Marsh had an account.  It's dated the day of the murder.  Is this your signature?
+L99933 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99931 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99930 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Two hundred and fifty thousand dollars is a lot of money.  That must have made you pretty angry?
+L99929 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ She talked him into it.  She wanted everything.
+L99928 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ In his previous will Mr. Marsh left you two hundred and fifty thousand dollars -- then he cut you out.  Why do you think he did that?
+L99927 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99926 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ --and that he changed his will?
+L99925 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99924 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ --And that Mr. Marsh paid less attention to you?
+L99923 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99922 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ And you resented that he cared for her in a way he once cared for you?
+L99921 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99920 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You resented the fact that she told you what to do in Mr. Marsh's house?
+L99919 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99918 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You don't like her because you were involved with Mr. Marsh before she came along.  Isn't that true?
+L99917 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ No.
+L99916 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You don't like Miss Lawson much do you?
+L99915 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I've been to a few -- yes.
+L99914 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You've tried it?  Isn't it true that you've been in and out of Rehab centers for the last four years?
+L99913 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I've tried it.
+L99737 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Money isn't the only reason people commit murder, Miss Braslow.
+L99736 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I'm a practical woman Mr. Dulaney. Killing Andrew wasn't in my best interest.  As it is I'm out of a job and I'm not in his will.
+L99735 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I was jealous.  Of course I was hurt. He switched me off like a little toy he was finished playing with.  But I didn't kill him.
+L99734 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ It must have been horrible.  Having to go there -- seeing them together - - knowing he was sleeping with her in the same bed he did with you.
+L99733 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.
+L99732 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You're lying.  Marsh was wearing a cast on the tape.  It was right before he went to Chicago and met Miss Lawson.  He dumped you for her, didn't he?
+L99731 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes, I slept with him but that was a long time ago.
+L99730 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I thought he was a kind, gentle man?
+L99729 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ That bastard!
+L99728 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ He video taped you.
+L99727 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Who told you that?
+L99569 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes.  I suppose it's possible.
+L99568 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Well, think about it.  Isn't it possible?
+L99567 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I don't know.  I'm not sure.
+L99566 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ So, isn't it possible that he was confiding in you about the pain he was feeling about losing what might be his last chance for love?  That what he really was saying was that the uncertainty of her leaving was driving him crazy and if it didn't stop it was going to kill him.  That if she did leave his heart couldn't take it.
+L99565 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I suppose.
+L99564 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ So, the woman he loved passionately was thinking about leaving.  That must cause tremendous anxiety. Sleepless nights.  Incredible stress.
+L99563 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes -- he mentioned it.
+L99562 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Didn't Mr. Marsh also tell you that Miss Lawson felt bored here and was thinking about going back to Chicago for awhile?
+L99561 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ He said that if it kept up she was going to kill him.  That his heart couldn't take it.
+L99560 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Could you repeat the last part of what Mr. Marsh said to you the day before his death?
+L99559 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes--  It was on a Friday.  I remember because I was going to visit my sister for her birthday.  It would be October twenty-eighth.
+L99558 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Do you remember the date when you saw Miss Lawson in the bathroom?
+L99557 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ What other kind of white powder do people keep in a vial?
+L99556 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ How do you know it was cocaine that Miss Lawson had in the bathroom?
+L99464 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I was at the house one morning -- I thought Miss Lawson was upstairs with Mr. Marsh.  When I went into the guest bathroom she was standing in front of the mirror pouring this white powder out of a vial.
+L99463 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ How do you know that?
+L99462 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Yes -- cocaine.
+L99461 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What about Miss Lawson?
+L99460 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ No.
+L99459 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Did Mr. Marsh use drugs?
+L99458 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I wasn't lookin' through the keyhole if that's what you're thinking.  I'd come to house sometimes to pick up papers or speak to Andrew.  I'd find their little toys all over the place.
+L99457 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ How do you know what kind of sex they had?
+L99456 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ Andrew was a kind and gentle man, but he was thirty years older than her. Where's the attraction to sleep with someone like that -- to have the kind of sex they had.
+L99455 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ If you don't know her that well what makes you think she's capable of murder?
+L99454 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I really don't know her that well. We would say hello to each other when I would come to the house, but that was about it.
+L99453 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I take it you don't like Miss Lawson very much?
+L99452 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I don't know.  It's incredible to think that anyone could be capable of doing that -- but if anyone could it would be Rebecca.
+L99451 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You don't really believe what the district attorney is saying about Miss Lawson, do you?
+L99450 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ He did.  Look, I know you can lead a horse to water but you can't make him drink -- but you hold a pail of water in front of an old horse for long enough  -- and well...
+L99449 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What changed?
+L99448 +++$+++ u4168 +++$+++ m278 +++$+++ JOANNE +++$+++ I worked for Mr. Marsh for six years. He was a good man -- until she came along.
+L100008 +++$+++ u4170 +++$+++ m278 +++$+++ KOEHLER +++$+++ Sorry.
+L100007 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I'm not asking for names or specifics.  I just want to know what prompted you to make the call?
+L100006 +++$+++ u4170 +++$+++ m278 +++$+++ KOEHLER +++$+++ You know I can't talk about that.
+L100005 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I need to ask you a question.  What made you get in touch with Joanne Braslow?
+L100004 +++$+++ u4170 +++$+++ m278 +++$+++ KOEHLER +++$+++ Frank -- what are you doing here?
+L100003 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Hi, Joe.
+L99817 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ No further questions.
+L99816 +++$+++ u4176 +++$+++ m278 +++$+++ ROSTON +++$+++ Yes.
+L99815 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Would it be fair to say that when she did find out it was a shock to her?
+L99813 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ And she left shortly after that?
+L99812 +++$+++ u4176 +++$+++ m278 +++$+++ ROSTON +++$+++ Yes.
+L99811 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ And didn't Miss Lawson come home one day and find you in bed with your male lover?
+L99810 +++$+++ u4176 +++$+++ m278 +++$+++ ROSTON +++$+++ Yes.
+L99809 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ And your sexual tastes were something that you hid from Miss Lawson?
+L99808 +++$+++ u4176 +++$+++ m278 +++$+++ ROSTON +++$+++ Yes.
+L100036 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Don't listen to him.  Can't you see he's trying to turn you against me.
+L100035 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ How's it supposed to work Rebecca? You and Paley celebrate your victory. You get me over here and provoke a fight so he has to rush in and save you -- but then he's given himself away as your accomplice -- now he has to kill me.  After that I figure she'll tell the Police that you broke in.  That you were crazed because we humiliated you in court?
+L100034 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ No -- he's lying.
+L100031 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Shoot him.
+L100030 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ She's right, Paley.  You've got to kill me.  She doesn't have to -- she's free -- she can't be tried again -- but you, you planned it with her.  You supplied the Coke.  You're an accessory to murder.
+L100024 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Don't push me, Frank.  I might lose my temper and send it out just for spite.
+L100023 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I'm not leaving without that tape.
+L100022 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ So, sue me.  Things have changed.  I think you should go home -- and after you leave I see no reason for us to ever have contact again.
+L100021 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ That wasn't the deal.
+L100020 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I've been thinking about that.  I've decided to give it to you after I've collected the inheritance.  You can take that one if you want -- but there's another copy.
+L100017 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ That's crazy.
+L100016 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You killed him.  You killed him -- and I got you off.
+L100012 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Frank -- It's Rebecca.  I need to see you right away.  I've got the tape.
+L100011 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Hello?
+L99834 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ No -- I'm a survivor.
+L99833 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You're a monster.
+L99832 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ You can think whatever you want, Frank -- but I didn't kill Andrew, and I'm not going to prison for something I didn't do.
+L99829 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ No -- you're not.
+L99828 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I'm dropping the case.
+L99827 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I do need you.  No matter what you think of me -- I didn't do it.
+L99826 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You don't need anybody.
+L99825 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I knew you were thinking that.  I could see it in your eyes today in the courtroom.  You're wrong, Frank. I need you to believe that.
+L99824 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You killed him -- didn't you?
+L99823 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ You're too weak, Frank.  When you want something you have to do what- ever it takes to get it.  If something gets in your way you remove it.
+L99822 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ He was only doing what he thought was right.
+L99821 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Fuck him!  He tried to shatter mine.
+L99820 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Rebecca -- we shattered a man's life in open court.
+L99819 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ To celebrate how masterfully you destroyed Roston today.
+L99818 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What's that for?
+L99635 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Are you scared?
+L99634 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What are you going you doing?
+L99633 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Tonight we open new doors.
+L99632 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Rebecca -- take these off.
+L99585 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Honey.
+L99584 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Sugar or honey?
+L99582 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What does that mean?  You've been thinking about the case?  Or you thought everything out before you killed Marsh?
+L99581 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Don't worry about Paley.  He can't touch me.  No one can.  I've thought it all out.
+L99580 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I'm glad you have such confidence in me.
+L99579 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I'm sure you'll be able to handle him.
+L99578 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Paley could be a problem tomorrow.
+L99577 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Something wrong?
+L99574 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ You can see me now.
+L99573 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Can I see you later?
+L99571 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ It's only the beginning.
+L99570 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ You were brilliant today.
+L99487 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Of course.
+L99486 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Alone?
+L99485 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I went out on the boat.
+L99484 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I called you all weekend.  Where were you?
+L99476 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I don't know, Frank -- but don't you think that's something we should find out?
+L99475 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Why would she lie?
+L99474 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I don't use cocaine anymore.  If she says she saw me doing it she's lying.
+L99473 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ No, I don't have to believe you.  The jury has to believe you and answers like he's lying or she's mistaken aren't going to convince them.
+L99472 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ It isn't true.  You have to believe me.
+L99471 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ That's not good enough, Goddamit!
+L99470 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ She's mistaken.
+L99469 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I just left Joanne Braslow.  She told me she saw you doing cocaine at Marsh's house!
+L99468 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ What?
+L99467 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You lied to me!
+L99435 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ You take a lot for granted.
+L99434 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ There's nothing wrong in admitting that you want me, Frank.
+L99432 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ No -- that's what I know you were thinking.
+L99431 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Is that what you think I was thinking?
+L99430 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ You and me -- making love.
+L99429 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ What would?
+L99428 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Yes -- it would be nice.
+L99426 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ It's hard to let go of a dream, isn't it?  To let go of what you want?
+L99425 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ I broke my ankle skating.  That ended that dream.
+L99424 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ That seems so far away from who you are now.  What happened?
+L99423 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Yeah.
+L99422 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Really?
+L99421 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ No -- I wanted to be a professional hockey player.
+L99420 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Did you always want to be a lawyer?
+L99419 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ It won't be that hard.
+L99418 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ It's going to be hard to convince a jury that he's testifying against you in a murder trial because you blew him off.
+L99417 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ I hardly know him.  He wanted me and he couldn't have me.
+L99416 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ Tell me about Doctor Paley?
+L99415 +++$+++ u4166 +++$+++ m278 +++$+++ DULANEY +++$+++ It's okay.
+L99414 +++$+++ u4174 +++$+++ m278 +++$+++ REBECCA +++$+++ Sorry.

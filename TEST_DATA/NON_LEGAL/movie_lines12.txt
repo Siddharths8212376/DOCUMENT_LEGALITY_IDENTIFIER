@@ -1,0 +1,200 @@
+L5282 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ That's no bull.
+L5281 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, two days with him is enough.
+L5280 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ How would you know?
+L5279 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hard man to live with.
+L5268 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Shrink major, not a shrink.
+L5267 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Well, I been workin' the other side of the street for the last few years.  And you don't exactly look like a shrink, wearin' that dress...
+L5266 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I'm not so sure I can say the same thing...You don't look like a cop.
+L5265 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Name's Hammond, Reggie Hammond. I heard a lot about you. And any friend of Jack's is a friend of mine.
+L5264 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Who the hell are you?
+L4613 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ Alright, I'm coming...hold on.
+L4612 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Keep stallin'.
+L4610 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What do you want?
+L4609 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Stall.
+L4604 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Shut up.
+L4603 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What do you want?  What's goin' on?
+L4602 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What the hell's wrong?  I didn't do anything.
+L4601 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Shut up.
+L4600 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ Hey...
+L4500 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Sure, right.
+L4499 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ We'll follow you.  Take it slow,okay?
+L4498 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Yeah, old times.
+L4497 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ We got a lot to talk about.
+L4496 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Can't complain.
+L4495 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ How ya doin'?
+L4494 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Hot?  Hey, they're not even room temperature.
+L4493 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ How hot are they?
+L5234 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ What are you talkin' about? I said I wouldn't hurt her.
+L5233 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Rosalie, you okay?
+L5231 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ First, the money.
+L5230 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Let her go.
+L4559 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You try to mess with us or go to the cops, I promise you, I'll put holes in her you wouldn't believe.
+L4558 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Come on, you can trust me. Please.
+L4555 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Honest. The place we stashed it opens Monday morning. I can't get it till then. Monday morning, that's when it opens. After that, I'll get the money to you right away...
+L4554 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You chickenshit punk...
+L4553 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I can't get it until Monday. Honest.
+L4552 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ When?
+L4551 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ No! Don't kill her.  I can get you the money.
+L4550 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Billy, go ahead, break it...
+L4549 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Don't give me this, we were partners.
+L4548 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Instead of worryin' about Reggie, you better worry about me...
+L4547 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You want that Indian to snap her neck?
+L4546 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I don't know what you're talkin' about.
+L4545 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I want the money, asshole, what do you think?  The money that Reggie hid...
+L4544 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Whaddya want?  I thought you were locked up-
+L4543 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Surprise, Luther.
+L5125 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'll got your money to you. No sweat.
+L5124 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Fuck you.  You got no right for this kind of play.
+L5123 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Try and take it.
+L5122 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Give it back.
+L5121 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, I know that, but this is me and we're old friends. I haven't got the money so what are you gonna do about it?
+L5120 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ This ain't a credit business.
+L5119 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Five.  On credit.
+L5118 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Five bills.
+L5117 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Don't mess with me. How much?
+L5116 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ This is clean shit.  No serial numbers and never been used...
+L5115 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How much?
+L5114 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ It's loaded... I got some shells in here.
+L5113 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How about some ammo?
+L5110 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'm sure.  Everybody here's looking at everybody else's ass.
+L5109 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ You sure?
+L5108 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Naw, right here's okay.
+L5107 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ You want to go outside?
+L5106 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Not bad, not bad.
+L5105 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How you doing, man?
+L5890 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ I can't pretend to be your husband... David's in great shape.
+L5889 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ Akta dedero ansila do mektet.
+L5876 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ No, I'm not proud of myself... But we don't have the luxury of choice.
+L5875 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ Vano da, mechteba?! Soun domo kala chon hammas!
+L5693 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ You know exactly where they are!
+L5692 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ Ikset-kiba.  Me imanetaba oum dalat!
+L5680 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ The case was stolen?
+L5679 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ San Agamat chay bet... envolet!
+L5678 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ The case..with the stones... Where is it?
+L5674 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ Napoleon... small.
+L5673 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ What're you laughing about?
+L5645 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ At your service.
+L5644 +++$+++ u85 +++$+++ m5 +++$+++ LEELOO +++$+++ Corn-i-Lius?
+L5643 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Appipulai Leeloo Minai..
+L5761 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ I know...
+L5760 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ You are a monster, Zorg!
+L5756 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Let me reassure you Father..I will never kill more people in my entire life than religion has killed in the last 2000 years.
+L5755 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Destroying a glass is one thing..killing people with the weapons you produce is quite another.
+L5754 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Father, by creating a little destruction, I am, in fact, encouraging life!  So, in reality, you and I are in the same business!
+L5752 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ They are robots!
+L5751 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ ...Look at all these little things... so busy all of a sudden. Notice how each one is useful. What a lovely ballet, so full of form and color.  So full of..life!
+L5748 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Follow me.. Life, which you so nobly serve, comes from destruction. Look at this empty glass.
+L5747 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ No thank you.
+L5746 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ ...would you like a drink?
+L5745 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Ah, Father... You are so wrong. Let me explain...
+L5744 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ ...I'm a priest! I'm here to serve life, All you want to do is destroy it.
+L5743 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Why?  What's wrong with me?
+L5742 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Even it I did know where the stones were I would never tell somebody like you.
+L5741 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Personally, they are of no interest to me, I'd rather sell weapons..but I have a customer... so tell me...
+L5740 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ ...Why on earth do the stones interest you?
+L5739 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ I'm glad you got your memory back, Father... Because you're going to need it... Where are the stones?
+L5738 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ I remember you now..the so called art dealer.
+L5737 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ Zorg. Jean-Baptiste Emmanuel Zorg... nice to see you again
+L5711 +++$+++ u99 +++$+++ m5 +++$+++ ZORG +++$+++ I'm fucked!
+L5710 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ ...We're saved!
+L6266 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ That's what I'm saying.
+L6265 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ And you don't know how they open, is that what you are saying?
+L6264 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Yes, of course, but... The Stones are shut! They have to be open for it to work.
+L6263 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ There's no light! You told me there were supposed to be four beams of light.
+L6259 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Theoretically, yes! The four Stones form the beam and the Fifth Element is supposed to stand in the middle there, but... I don't have the reference book. I've never seen the Stones work!
+L6258 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Don't tell me you don't know how all this works?
+L6172 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Uh.. Have you tried the Diva's suite?
+L6171 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ When is she not in trouble?
+L6170 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Leeloo's in trouble?
+L6169 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Yeah, I know... to save the world... but right now all I want to do is save Leeloo.
+L6168 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ You're probably very angry with me and I quite understand. But I want you to know I'm fighting for a noble cause.
+L5840 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Trying to save your ass so you can save the world.
+L5839 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ What are you doing?
+L5833 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Father, I was in the Army for awhile and every time they told us we were on a mission to save the world the only thing that changed was I lost a lot of friends. So thanks for the offer.. but no thanks.
+L5832 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Of course.
+L5831 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Good luck..
+L5830 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ We have to save the world.
+L5829 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ What kind of mission?
+L5828 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ We're not going on vacation..we're on a mission..
+L5827 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Is that the usual way priests go on vacation?
+L5826 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ I'm sorry to have to resort to such methods, but we heard about your good luck on he radio and we need the tickets to Fhloston.
+L5658 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ That's what I thought.
+L5657 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ It means, "Never without my permission".
+L5656 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Excuse me! Just one thing!  She said something to me a while ago and... I don't really get it... Akta Gamat?
+L5655 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I know. I was there when she arrived.
+L5654 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ She's fine, really..don't you worry.. just needs some rest..she's had a very long trip.
+L5653 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I might call to check up on her, you know... to see if she's better?
+L5652 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Yes. That's fine! Thank you very much. A thousand times over!
+L5651 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Dallas. Korben Dallas.
+L5650 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Thank you so much for your help Mr...?
+L5649 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ She's an exception..
+L5648 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ They all like this in your family, father?
+L5628 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Uh yes, we're cousins..distant cousins..
+L5627 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ So you do know her.
+L5626 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ There's not a moment to lose! Wake her up, but be gentle about it!  This woman is mankind's most precious possession! She is... perfect!
+L5625 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ You noticed...
+L5624 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ He's a she!
+L5622 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ The girl?
+L5621 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I brought the girl remember?
+L5620 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Who are you?
+L5617 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ She dropped in on me... holding this.
+L5616 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ That's me.  But I don't know who she is... where did you find her?
+L5615 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ She's not my bride, she's my fare. She's looking for this Vito Cornelius. According to the phone guide he lives here.
+L5614 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Weddings are one floor down. Congratulations.
+L5613 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Excuse me, I'm looking for a priest.
+L5557 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ This is government business now. You ought to go home and get some rest, Father.
+L5556 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ What are we going to do?
+L5522 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Thank you, Mr. President.
+L5521 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ Did you see that..thing..swallow our battleship like a gum drop?  You can't even tell me what it is! I ask you for options you give me bullshit. Give them permission to enter our territories with my warmest regards.
+L5516 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ White turns to black.  Light to Dark. Life to Death.  For all eternity.
+L5515 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ But what happens if instead of this... Ultimate Warrior... it is EVIL who stands here?
+L5512 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Yes..thank God..
+L5511 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ Is there anything that can stop it?
+L5510 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ And then it will be too late. The goal of evil is to wipe out life! All forms of life. For all eternity...Life upsets it.
+L5509 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ And then?
+L5508 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ We have forty-eight hours, the time it needs to adapt itself to our living conditions.
+L5470 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ That's exactly what we are going to try and do: Protect the lives of some 200 billion of our fellow citizens! General? You may fire when ready.
+L5469 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Time is of no importance, Mr. President. Only life is important.
+L5468 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ Your theory is interesting Father but I don't think we have time to go into it right now!
+L5464 +++$+++ u91 +++$+++ m5 +++$+++ PRESIDENT +++$+++ One more reason to shoot first eh?
+L5463 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Imagine for a moment that this. thing is not anything that can be identified because it prefers not to be, because it is the antithesis of all we are. Because it is evil.. TOTAL EVIL.
+L6252 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Later, David! Later! There's not a minute to lose!
+L6251 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ You're all safe. Thanks be to God!
+L5913 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ It's all my fault.  I'm the servant... It's my mission! Here!
+L5912 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ On the plane... with Mr. Dallas... the real one.
+L5911 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Where's Leeloo?
+L5731 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Good work, my son.  Now all we need is a way to get there.
+L5730 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ I got it!  Everything  here we need to know about Fhloston Paradise Hotel... and a detailed blueprint of the entire hotel!
+L5689 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Perfect.
+L5688 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ They really made her...
+L5687 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ I didn't know your size.
+L5686 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ There was this guy with a limp who came a month ago..said he was an art dealer ... Asking all these questions about the Sacred Stones..at the time I didn't think anything of it.. What was his name? I'm so bad with names...
+L5676 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Yes. Of course..
+L5675 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ Uh father, I know she's been through a lot... but the sacred stones..we don't have much time..
+L5672 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Learning our history! The last 5000 years that she missed! She's been out of circulation a while, you know.
+L5671 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ What's she doing?
+L5647 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ Absolutely sure There's the triple suns on her gloves!
+L5646 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ Father.  You sure she's the Supreme Being?
+L5637 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ The Supreme Being, the fifth element is here, in our parish!!! It's a miracle!!!
+L5636 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ Father, will you please explain what's going on?
+L5632 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ I can't wear these clothes! This calls for dignity! I have to dress the part!
+L5631 +++$+++ u79 +++$+++ m5 +++$+++ DAVID +++$+++ What is?
+L5630 +++$+++ u78 +++$+++ m5 +++$+++ CORNELIUS +++$+++ It's a miracle!!!
+L6124 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ They are... with me...
+L6123 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I'm sorry, but... the Stones...
+L6120 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ I would like to have died in peace...
+L6119 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Listen, the last time I admitted to a woman I loved her ... I never saw her again.
+L6118 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ I don't have time... I need to know.
+L6117 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I... I don't know! We hardly know each other... it takes time!
+L6116 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ Do you love her?
+L6115 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ I'll help her, I promise, but I think you should tell me where the Stones are!
+L6114 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ She was taught to love the life of others... but not her own. You have to teach her to love if you want her to truly live!
+L6110 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ ...So Cornelius was telling the truth!
+L6109 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ Yes, and more than that... You must give her the Stones, she's the only one who knows how to use them.
+L6108 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Leeloo... is... she's...
+L6107 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ The Fifth Element... The Supreme Being... Your wife...
+L6106 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Who?
+L6105 +++$+++ u80 +++$+++ m5 +++$+++ DIVA +++$+++ You're a good man... She was right to have chosen you...
+L5670 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ Leeloo..
+L5669 +++$+++ u81 +++$+++ m5 +++$+++ FINGER +++$+++ Uh huh..and I don't suppose you got the name of this..perfect fare..
+L5668 +++$+++ u84 +++$+++ m5 +++$+++ KORBEN +++$+++ 5'7", green eyes... long legs... great skin... perfect..

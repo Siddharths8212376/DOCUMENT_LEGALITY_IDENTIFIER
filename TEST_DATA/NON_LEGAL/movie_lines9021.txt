@@ -1,0 +1,200 @@
+L131425 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Give men that. I know how to do it.
+L131382 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ Yeah, you is. I know when people is in trouble, and you is.
+L131381 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I'm not in trouble.
+L131375 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ No trouble.
+L131374 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ You ain't gettin' in no trouble, I hope.
+L131221 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ I can't read. Nobody taught me.
+L131220 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Do you like to read?
+L131214 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Yes, so what. It's nothing serious, really. Just a small defect.
+L131213 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ So what?
+L131212 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ There's a little something wrong with it. Just this part here--the right ventricle. It's slightly enlarged.
+L131211 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ What you got a picture of your heart for?
+L131210 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ It's just my heart.
+L131209 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ What's that?
+L131193 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ Pretty, ain't it? You a plumber?
+L131192 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Rose Rose?
+L131417 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ What business is you in, Jack? Just tell me what your business is...
+L131416 +++$+++ u696 +++$+++ m44 +++$+++ JACK +++$+++ You mean *swimmin'*. I ain't goin' in that vat to fish out no cigarette!
+L131415 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ It's not that hard to find it in there, Jack--it'll take you just a minute. You just gotta go fishin'.
+L131414 +++$+++ u696 +++$+++ m44 +++$+++ JACK +++$+++ Them people drinkin' that cider, they don't know there's a cigarette in there!
+L131413 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ That just ain't right, Jack--your cigarette's gonna end up in nine or ten gallons of this batch of cider! That ain't right.
+L131305 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You think so, Jack? Well... I wouldn't want to be in that Wally's shoes tonight.
+L131304 +++$+++ u696 +++$+++ m44 +++$+++ JACK +++$+++ I bet the view looks better from the Worthin'tons'.
+L131296 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Jack, you gotta watch your language 'round my daughter.
+L131295 +++$+++ u696 +++$+++ m44 +++$+++ JACK +++$+++ Shit. We don't know what he is.
+L131294 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Now, now. He's a good boy.
+L131293 +++$+++ u696 +++$+++ m44 +++$+++ JACK +++$+++ Who cares?
+L131396 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Anyway, I was just showing you this guy as an example of what's available-- I didn't think you'd be interested.
+L131395 +++$+++ u701 +++$+++ m44 +++$+++ MRS. GOODHALL +++$+++ I fail to see how a little Christianity could *hurt* anyone here!
+L131392 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Then I suppose we can look forward to catching various diseases from him!
+L131391 +++$+++ u701 +++$+++ m44 +++$+++ MRS. GOODHALL +++$+++ You can't think that a man who has *served* under such conditions as exist over there will be in the slightest daunted by a little *snow*-- have you no idea how harsh and primitive and full of *disease* that part of the world is?
+L131390 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Does it *snow* in Bombay? One winter here and we'll be shipping him south, in a *coffin*!
+L131389 +++$+++ u701 +++$+++ m44 +++$+++ MRS. GOODHALL +++$+++ I fail to see how someone courageous enough to make a commitment to a foreign mission is automatically to be dismissed--that part of the world requires precisely the kind of dedication that is needed here.
+L131388 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ *No*! I don't want to know him! He's doing *missionary* work--in *India*! I wrote him *weeks* ago, but he's either too holy or too busy to answer. Maybe he got killed in the war!
+L131387 +++$+++ u701 +++$+++ m44 +++$+++ MRS. GOODHALL +++$+++ Do you know him?
+L131637 +++$+++ u698 +++$+++ m44 +++$+++ MAJOR WINSLOW +++$+++ Four weeks or so, right around Halloween.
+L131636 +++$+++ u703 +++$+++ m44 +++$+++ OLIVE +++$+++ When will he be home, Major?
+L131635 +++$+++ u698 +++$+++ m44 +++$+++ MAJOR WINSLOW +++$+++ No autonomic effects... that's correct.
+L131632 +++$+++ u698 +++$+++ m44 +++$+++ MAJOR WINSLOW +++$+++ It's encephalitis B. He's recovering at Mount Lavinia Hospital, Ceylon.  Uh... Captain Worthington is paralyzed.  Waist down. He won't walk.
+L131631 +++$+++ u703 +++$+++ m44 +++$+++ OLIVE +++$+++ Then it's malaria?
+L131626 +++$+++ u698 +++$+++ m44 +++$+++ MAJOR WINSLOW +++$+++ Because the crew thought he'd gone down with the plane. They were hospitalized for almost a week in China before they were flown back to India. It wasn't until that they sorted through their gear...
+L131625 +++$+++ u703 +++$+++ m44 +++$+++ OLIVE +++$+++ Why was he missing for twenty days?
+L131624 +++$+++ u698 +++$+++ m44 +++$+++ MAJOR WINSLOW +++$+++ When the plane was hit, the crew chief and the radioman jumped close together. The copilot jumped third. All on Captain Worthington's orders-- the captain was still flying the plane. None of the men of the ground could see the sky--that's how thick the jungle was. They never saw the plane crash--they never *heard* it crash. They never saw Captain Worthington's parachute, either.
+L131710 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Who *live* here in this cider house, Peaches? Who grind them apples, who press that cider, who clean up the mess, and who just plain *live* here... just breathin' in the vinegar?  Somebody who *don't* live here made them rules. Them rules ain't for *us*. *We* the ones who make up them rules. We makin' our *own* rules, every day. Ain't that right, Homer?
+L131709 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ They're *outrageous*, them rules!
+L131550 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Then you pickin' 'em too fast--they ain't no better than drops to me. See that bruise, and that one? *Half* of these is bruised! Look at this one! It ain't got no stem! You might as well *step* on 'em, too--they only good for cider.
+L131549 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ They ain't drops--I picked 'em off the tree!
+L131548 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You pickin' nothin' but cider apples, Peaches--I hope you understand that.
+L131541 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ What have you two been doin' to make it look so nice?
+L131540 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ It look nicer then home!
+L131539 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Don't this place look like home?
+L131510 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ We see you next harvest.
+L131509 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You all take care of yourself, too, Homer!
+L131473 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ Sorry, Homer...
+L131472 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Mind your own business, Peaches.
+L131471 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ Ain't you gonna see what it is, Homer?
+L131218 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ They told Muddy his feet was too flat!
+L131217 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ They told me I was too old to serve.
+L131738 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ That's right. I know you understand how I feel, Homer--you is breakin' them rules, too. Ain't that right?
+L131737 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ That what happen--you lost you only daughter so's you killed yourself! That's what we say, all right.
+L131731 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ That's right! A girl's gotta know how to defend herself, don't she?
+L131730 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ *You* taught her, I suppose...
+L131729 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ She's *good* with that knife! She's real fast. She's a lot better with that knife than *you* is, Muddy! And who do you suppose taught her?
+L131690 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Tell him what you want, Muddy--*you* is the crew boss today.
+L131689 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ I told him that you all is sick.
+L131688 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Tell that Vernon to mind his own business, Muddy.
+L131687 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ It's that Vernon--he keeps askin' where you and Homer and Rose Rose is at.
+L131332 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ Yeah, we can wait all night for the water to come back on--you just go on and take your time.
+L131331 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Don't let us make you nervous or nothin'--we know you gotta job to do.
+L131303 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Well, Muddy, we can look at all these angry stars Homer's been readin' to us about.
+L131302 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ *What* view?
+L131299 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ What view?
+L131298 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Where's your manners? Make room for Homer, so's he can enjoy the view.
+L131671 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ That's right, Homer. This ain't your business.
+L131670 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You just go inside, Homer. We don't need no help.
+L131668 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ I ain't your business no more, Daddy. Please let me go.
+L131667 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You ain't goin' nowhere in the middle of the night, girl!
+L131666 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ You gotta let me go, Daddy. Please...
+L131665 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Where do you think you're going?
+L131514 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ You just stay out of trouble, Homer!
+L131513 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Now, now, Jack--that just ain't right.
+L131432 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You oughta know you don't go to jail for cuttin' a guy's *clothes*. Ain't that right, Homer?
+L131431 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ Yeah, you really showed him, Daddy-- you just about cut your own hand off, and all you cut off *him* was his clothes!
+L131430 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ Now, now, darlin'... Jack just needs to know what business he's in.
+L131429 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ We should drown that damn Jack in the vat!
+L131380 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ That's right--that sounds like trouble to me.
+L131379 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ That sounds like you is in trouble already, Homer.
+L131308 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ What's lucky about that?
+L131307 +++$+++ u700 +++$+++ m44 +++$+++ MR. ROSE +++$+++ You lucky you in your work boots tonight, girl...
+L131306 +++$+++ u706 +++$+++ m44 +++$+++ ROSE ROSE +++$+++ Daddy, I'd like to be in that Wally's shoes *every* night.
+L131755 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ He ain't never been outta Maine!
+L131754 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ You ever see a palm tree, Homer?
+L131723 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ She took off on the bicycle, man.
+L131722 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ She took off in the night!
+L131721 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ Rose Rose has runned away!
+L131424 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ Yeah, that cigarette ain't hard to find when you're properly undressed.
+L131423 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ The good news, Jack, is you're half- undressed for *swimmin'*...
+L131422 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ You're lucky he didn't cut your *nipples* off, man.
+L131377 +++$+++ u702 +++$+++ m44 +++$+++ MUDDY +++$+++ She's about the most beautiful girl I ever seen--I don't know if she's the nicest.
+L131376 +++$+++ u704 +++$+++ m44 +++$+++ PEACHES +++$+++ That Candy--she's the nicest girl I know!
+L141325 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ You're welcome. I was just going to ask you if you'd like to join us.
+L141324 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Oh. Well, thanks for the drink.
+L141322 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ Really? Wish we had met eight hours ago.
+L141321 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ No, no. Nothing like that. I work in a bank.
+L141320 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ Don't tell me you started a tech firm here before us.
+L141319 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Well, typically, corporate loans are relatively simple matters, but you do need to demonstrate a capacity for gross fund recovery.
+L141318 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ So we've been meeting with banks all day. It's amazing how many ways they can say "no" without ever using the word.
+L141317 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ On me. For the seat. Cheers.
+L141316 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Can --
+L141315 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ That's right. So, brainiacs that we are, we thought we'd be innovative and relocate east. Try our luck with a straight corporate loan out here.
+L141314 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Silicon Valley?
+L141313 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ It's more like what aren't I doing. My partners and I are trying to secure start up capital for a small tech company. We tried the venture capitalist route in the Valley, but then again who hasn't up there.
+L141312 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ So, what do you do?
+L141311 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ Oh god. I'm overbearing and rude. Lily. Lily Finn.
+L141310 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ My name's Grant. Grant Ashby.
+L141309 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Uh, Maker's Mark. Rocks.
+L141308 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ Brutal day. They say the streets are lined with money down here, but I guess you have to know the secret handshake. What are you drinking?
+L141307 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Tough day?
+L141306 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ Thanks for playing along. I just have to sit for a while.
+L141303 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ I wasn't sure if you'd make it.
+L141302 +++$+++ u715 +++$+++ m45 +++$+++ LILY +++$+++ But I'm not that late. You didn't have to give away my seat.
+L141564 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Jake? Right. Uh-huh... Uh-huh... Yeah, it's going through --
+L141563 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Same thing with playing a con. You have to be able to see that deep.
+L141442 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Two million.
+L141441 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Ten percent. Of how much?
+L141440 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ The standard ten.
+L141439 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Then there it is. Ashby gets the itch.
+L141438 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ No, I understand that. What I mean... What I'm trying to say... I was actually wondering about... Well, my cut.
+L141437 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ You're worried about recouping the loan. I already told you.
+L141436 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Let's just slow down for a second...
+L141435 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ You need some convincing. Consider it a convincer.
+L141434 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ What's this?
+L141433 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ There'll be red flags.
+L141432 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ I know. It won't go unnoticed.
+L141431 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ This has to happen fast.
+L141430 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Everything looks in order.
+L141429 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ We had to finalize the deal.
+L141363 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Yes. That's why I wish there were guys willing to take a chance and live a little.
+L141362 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ And you have this letter of intent?
+L141361 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Exactly. But the Catch-22 is that you can't tell anyone about the offer, because if it's public, you could start a bidding war and that's considered a breach of etiquette. It could kill a deal. But, wait too long and you're not considered hot anymore.
+L141360 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Sort of like a letter of intent.
+L141359 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Right. The guys who started that did what a lot of companies in the Valley do. They get a good idea, shop it around, raise some capital, then sell it off to a bigger company. Microsoft, Intel, Oracle, whatever. The beauty of it is, they've pretty much sold the company before they're even real. The bigger company is already set to buy it, all they want to do is make sure that the idea actually works. So they get some start up capital, make it work, then sell it for like five times the initial loan.
+L141358 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Big.Com. That Internet thing.
+L141357 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Listen, what I'm about to tell you, I'm telling you in confidence, okay?  Have you ever heard of a company called Big.Com?
+L141353 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ I don't follow.
+L141352 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ We know exactly how we're going to make the money back. There in lies the Catch-22
+L141351 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Banks need to know how they're going to get their money back.
+L141350 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ They scare people off because most people lack vision. Vision and balls. Present company excluded of course.
+L141349 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ That's right. And tech firms... They 'tend to scare people off.
+L141348 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ A capacity for gross fund recovery. Yeah, we got that part.
+L141347 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ Well, typically speaking, they're not. As long as you can demonstrate --
+L141346 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Maybe you can help us understand what's so hard about getting a corporate loan.
+L141345 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Here's where a little research comes in handy. Corporate banks give out VP titles like calendars. It's a small lie, but now we're sure he's playing.
+L141342 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ What do I do? I'm the VP of Finance.
+L141341 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ What do you do over at your bank, Grant?
+L141333 +++$+++ u708 +++$+++ m45 +++$+++ ASHBY +++$+++ I envy you guys. Taking a chance like that.
+L141332 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Uh, right... And that was it. That's when we decided to start our own business. No more shithead bosses.
+L140825 +++$+++ u709 +++$+++ m45 +++$+++ BIG AL +++$+++ It's Alfonse. I want to settle up. I haven't been ducking you. I told you I'd get it.
+L140824 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ It can erase all those things about you that you wish didn't exist.
+L140797 +++$+++ u709 +++$+++ m45 +++$+++ BIG AL +++$+++ I'm gonna go get eggrolls. Anyone want eggrolls?
+L140796 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ What are you talking about? You should get a fucking Academy Award for the Shill work you do.  We got it down cold, Al. You don't want to jinx it by changing something up, do you?
+L140795 +++$+++ u709 +++$+++ m45 +++$+++ BIG AL +++$+++ Yeah, but come on... All I get to do is cry and get insulted.
+L140794 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Gordo plays the inside. You're the Shill.
+L140793 +++$+++ u709 +++$+++ m45 +++$+++ BIG AL +++$+++ Hey, Jake... When am I gonna get to play the Inside?
+L141678 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ So why don't you take a deep breath, Jake, and I'll count to ten. One. Two. Three...
+L141677 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Guess so.
+L141676 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Like putting on a play... Guess some people forgot their lines.
+L141675 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ It's like putting on a play, where everyone knows their part except for the mark.
+L141674 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Oh, Jake. You disappoint me. And you just let Lily here down again. What was it you said about playing the big con?
+L141673 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Probably safe in the hands of the Federal Government.
+L141672 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Alright... Turn around. She doesn't get shit, unless I get that money. Where is it?
+L141553 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Today? Started off great...
+L141552 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Alrlght, alrlght. What happened today?
+L141536 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ She walked.
+L141535 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ After you cut her loose.
+L141534 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ We were back on.
+L141519 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Yes it is, Jake! Yes it is! They were right there for you. She was right there for you! Look at her!
+L141518 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ It's not true.
+L141517 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ BULLSHIT! You were scared, Jake! You lost your nerve! You lost your confidence! You weren't being noble. You weren't trying to save anybody but yourself! Admit it.
+L141516 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ I was doing it for them.
+L141515 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ So much for honor among thieves. You would have cut loose your friends, your girl...
+L141398 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ You know when the first con was ever played? It was when Adam fell for Eve in the Garden of Eden.
+L141397 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Is that what it was, Jake? Was it love?
+L141293 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ My father used to play the same fucking lotto numbers with these other guys in the pharmacy. The same numbers everyday for sixteen years. One day he gets pissed off, tells them he's out and plays his own numbers. They hit the Lucky Seven for one point two million.
+L141292 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ She had you tempting fate.
+L141267 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Having a gun pointed at you for one. It's not like breaking a mirror bad luck, but it's bad. Three on a match, black cats... Believe it. Believe it all.
+L141266 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Like what?
+L141265 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Luck's a funny thing. Especially the bad.
+L141264 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ You're a superstitious fucker.
+L141263 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Back in WWI or WWII, one of the WW's, if you took the time to light three cigarettes with one match, some Nazi would be able to figure out where you were. Then, well... It was the last cigarette you and your two buddies ever had. So three on a match is bad luck.
+L141262 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Thanks. Did you know you shouldn't light three cigarettes with a match?
+L141139 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ We got our stake. Now we need to find our guy in Gillett's bank.
+L141138 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Nice.
+L141091 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ Cue the fucking violins. Come on... It's getting cold.
+L141090 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ He's just as crooked as the next guy. You'd think he'd have more important things to do with tax payer dollars.
+L141067 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Factors that weren't clear to me until now.
+L141066 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ But there were other factors.
+L141021 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ That was it. We had our crew. Now we needed the Mark.
+L141020 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ I can see why you liked her.
+L140984 +++$+++ u713 +++$+++ m45 +++$+++ JAKE +++$+++ Suits used to say that in any con, sooner or later someone's going to start asking the right questions. Usually, it takes a little longer.
+L140983 +++$+++ u710 +++$+++ m45 +++$+++ BUTCH +++$+++ So how'd you get caught?

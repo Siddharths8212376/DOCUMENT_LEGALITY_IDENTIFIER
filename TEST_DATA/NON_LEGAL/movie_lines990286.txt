@@ -1,0 +1,200 @@
+L500074 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ Yes, I mean, who wants to read about another dead priest? It's about some other guy, some guy who's not a priest, who doesn't die. You see, it's better already.
+L500073 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No.
+L500072 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ Yeah. Well, maybe I'll change it.
+L500071 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I see.
+L500070 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ A priest who dies.
+L500069 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ What's it about?
+L500068 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ Well, I've been away for a bit, travelling, that sort of thing, and now I'm trying to write a novel.
+L500067 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ What do you do?
+L500066 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Would you like to see the rest?
+L500065 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ It's nice.
+L500064 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ I'd be delighted.
+L500063 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Would you like to come in?
+L500062 +++$+++ u7579 +++$+++ m512 +++$+++ HUGO +++$+++ You must be Juliet.
+L500061 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ You must be Hugo.
+L500485 +++$+++ u7584 +++$+++ m512 +++$+++ SALESMAN +++$+++ Well, it's up to you. Seven six five. How will you be paying?
+L500484 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ The first one was fine.
+L500483 +++$+++ u7584 +++$+++ m512 +++$+++ SALESMAN +++$+++ It's up to you. Air Patagonia. New outfit: via Caracas and Bogot . No catering. Four hundred and eleven pounds. Four one one. Good value, but refueling at Bogot  is variable.
+L500482 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yes, the first one's fine. Heathrow direct.
+L500481 +++$+++ u7584 +++$+++ m512 +++$+++ SALESMAN +++$+++ Air France. Glasgow. Direct, but then you're looking at the wrong end of nine hundred and twelve pounds. That's nine one two. It's up to you.
+L500480 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ What?
+L500479 +++$+++ u7584 +++$+++ m512 +++$+++ SALESMAN +++$+++ Air Portugal, on the other hand, via Lisbon, same day, five hundred and sixty-five. Five six five. It's up to you. Catering important?
+L500478 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ That sounds fine.
+L500477 +++$+++ u7584 +++$+++ m512 +++$+++ SALESMAN +++$+++ October 15th, direct flight, London Heathrow to Rio de Janeiro, British Airways, you are looking at seven hundred and sixty-five pounds. Seven six five.
+L500620 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ And you said you supposed so, but I wasn't offering it for debate.
+L500619 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Sorry?
+L500618 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ I mean, that's what it's like.
+L500617 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I suppose so.
+L500616 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Like recognizing criminals by their crimes.
+L500615 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Diseases.
+L500614 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ And what do you recognize, names or faces?
+L500613 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Yes.
+L500612 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ But in your work you must meet lots of different people, every day -- new people, new faces. No?
+L500611 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ Same as everyone else.
+L500610 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Do you think you have a good memory for faces?
+L500609 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ No. I haven't seen them.
+L500608 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Look again if you like.
+L500607 +++$+++ u7580 +++$+++ m512 +++$+++ JULIET +++$+++ I'm sorry, I've never seen any of them.
+L500606 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Take all the time you like, doctor.
+L500658 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Or a fake?
+L500657 +++$+++ u7583 +++$+++ m512 +++$+++ MITCHELL +++$+++ Is it real?
+L500656 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Your watch.
+L500628 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ One other thing. Do you have any tattoos?
+L500627 +++$+++ u7583 +++$+++ m512 +++$+++ MITCHELL +++$+++ You can tell by the intonation.
+L500622 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ It's like recognizing criminals by their crimes.
+L500621 +++$+++ u7583 +++$+++ m512 +++$+++ MITCHELL +++$+++ Offering it for debate.
+L500515 +++$+++ u7582 +++$+++ m512 +++$+++ MCCALL +++$+++ Excellent. DC Mitchell is a rising star, Mr. Stevens. Under my tutelage he will undoubtedly make the grade.
+L500514 +++$+++ u7583 +++$+++ m512 +++$+++ MITCHELL +++$+++ Both, sir.
+L501325 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Well, it's a small town. Sooner or later things catch up with you... don't they?
+L501324 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ What're you talking about, George?
+L501323 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ She's a very groovy girl. That's the problem.
+L501322 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ Then what's the problem?
+L501321 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ No, it's a very groovy girl.
+L501320 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ Don't you like her?
+L501319 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I am... except I've gotta do somebody at their house.
+L501318 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ I thought you were in a good mood.
+L501308 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ No.
+L501307 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Look, would you argue with your doctor?
+L501306 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ I don't know, I think...
+L501305 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ It's great.  You wanna speak to Mary? Hold on...
+L501304 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ Don't you think there's too much gold?
+L501301 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Yeah, baby, how's it going?
+L501300 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ Anyway, you remember Harold?
+L501297 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Chicken salad, Devra!
+L501296 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ Chicken salad.
+L501295 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Yeah, baby. Things are great. Listen, there's Devra, whatta you want?
+L501294 +++$+++ u7585 +++$+++ m513 +++$+++ ANJANETTE +++$+++ You're in a good mood today, George.
+L501771 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- think what you have time to think, Lester.
+L501770 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ What are you talking about?
+L501769 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Lester, you're a miserable man. You're not helping anybody. You're just twisting arms to raise money for a lot of silly son of a bitches that are out for themselves -- this is just business, don't kid yourself. And you know the worst thing about it, even if it does somebody some good somewhere which I can't possibly imagine, you'll never know the difference. You're just sweating and kidding yourself - and you're kidding yourself if you think your new business partner is going to keep his hands off that girl -- or that she'll keep her hands off him.
+L501768 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Yes and you don't have to be sarcastic about it, that's a beautiful thing he's doing -- some people do more than go to the beauty parlor and shop at Saks --
+L501767 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- is that what this is all about?
+L501766 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ -- yes, we're all trying to do something to make this a better country to live in, believe it or not.
+L501765 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- is that right?
+L501762 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ You make me sick. Just be straight for once in your life.
+L501761 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ That's okay too.
+L501760 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ We cannot go into this later.
+L501758 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Can't we go into this later, sweetheart?
+L501757 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- cause she's going to be very, very expensive.
+L501756 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ -- what, who? Oh she's very nice, yes -- I mean normally ---
+L501755 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- I hope you like Miss Shawn --
+L501754 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Yes, sweetheart, shh.
+L501753 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Lester.
+L501709 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Why would I like to know if there's nothing I can do about it, goddammit --
+L501708 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I just thought you'd like to know --
+L501707 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ What do you expect me to do about it?
+L501706 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ That girl's making an awful spectacle of herself.
+L501705 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Lester, don't you think that uhh --
+L501704 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ -- yes, Senator -- just a minute, dear --
+L501669 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ It's just -- fabulous.  Think you could do anything for me?
+L501668 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ That's George.
+L501292 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ No, doll, I listen to you. And if a deal loses money that's not so bad either if it's handled right.
+L501291 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ That you were just indulging me.
+L501290 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ What?
+L501289 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Yes, but... I thought...
+L501288 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ You suggested it, don't you think it's a good idea?
+L501287 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I don't know. He's a hairdresser.
+L501286 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Maybe he's too flighty and irresponsible. That's why I asked if he was a fairy.
+L501285 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Why?
+L501284 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ I'm thinking of investing with him. He worries me.
+L501283 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Maybe... why do you ask?
+L501282 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Maybe he's just a kooky guy who likes doing something kooky like that.
+L501280 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Well, I don't know for sure... he's a hairdresser.
+L501279 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ That kid... the hairdresser.
+L501278 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Who?
+L501277 +++$+++ u7597 +++$+++ m513 +++$+++ LESTER +++$+++ Do you think George is a fairy?
+L501649 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Don't be silly. I'll just tell Lester we were smoking a couple of joints. See?
+L501648 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Holy Christ. You want to get us killed?
+L501647 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Sweetheart, it's a bore out there... let's lock the door.
+L501630 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ And who's Jill?
+L501629 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ She's a friend of Jill's.
+L501628 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ She what?
+L501627 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Well she...
+L501626 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Why didn't you come alone? Lester invited you. Did you have to bring her?
+L501555 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Right now, I just don't care.
+L501554 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ But aren't you...
+L501553 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ No, baby... I'm glad you're coming tonight.
+L501552 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ No, that's okay, I'll do It now.
+L501551 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Comb my hair out later, honey.
+L501547 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Hello, George.
+L501546 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Hi.
+L501119 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ That's great. You look great, baby, great. Dennis, look at Felicia's hair.
+L501118 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I mean it or I wouldn't say it.
+L501117 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I know.
+L501116 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ And I certainly wouldn't tell Lester.
+L501115 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ No, I know.
+L501114 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I wouldn't say so if I didn't.
+L501113 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ She's fine. You really think I'd be a good investment?
+L501112 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I hope she's all right.
+L501111 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ -- Anyway.
+L501092 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I don't know. Just a minute...
+L501091 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Is she all right?
+L501074 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Hey, listen, baby, I'm a star.
+L501073 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ The shop. I think you're a good investment, and I don't mind telling him.
+L501072 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ What about?
+L501071 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Yes.
+L501070 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Your husband?
+L501069 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Why don't you see Lester?
+L501068 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ All I ever do is play. I should be doing something to get my own shop open.
+L501067 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ What about?
+L501066 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I don't know. I'm beginning to feel guilty.
+L501065 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ We have this political thing tonight. Could you comb me out at the house?
+L501064 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Whatever you say.
+L501063 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ What're you doing later?
+L501062 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ You're looking great, baby.
+L501061 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I can see that.
+L501023 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Jesus, I don't know, baby, I been cutting too much hair lately. I'm losing all my concepts...
+L501022 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I've never been treated that way, and I'm not going to start now.
+L501021 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ What kind of treatment?
+L501020 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I'm not used to that kind of treatment.
+L501016 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'm coming, baby --  How's Otis doing, anyway?
+L501015 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ George --
+L501005 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'll have Mary wash you. Mary!
+L501004 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- to be put in that kind of position...
+L501003 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I don't want to place you in any position --
+L501002 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- I like myself far too much, far too much.
+L500992 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ -- Numbers, and I don't need to place myself in that kind of position.
+L500991 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ What?
+L500990 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Nummers.
+L500989 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ -- What?
+L500988 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I'm perfectly calm, George, I'm simply saying you have no respect for me, that you're incapable of distinguishing between me and one of your average Hollywood... mummers...
+L500987 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Calm down, baby.
+L500986 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I don't care about that girl, I don't care if she's dead.
+L500983 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I don't care.
+L500982 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ But you don't know what happened.
+L500981 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I don't want to talk about it...
+L500980 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I gotta talk to you.
+L500979 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ You're late, George.
+L500810 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'll be right back, baby, really.
+L500809 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I don't want to see you anymore.
+L500808 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'll be back in a while.
+L500807 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ You're very rude... if you don't come back --
+L500806 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ And listen, I'll be right back and I want your ass in that bed when I get back.
+L500805 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I've gotta give her some pills. Percodan, she ran out.
+L500804 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ So what are you doing going over there? You're not her doctor.
+L500803 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Wow.
+L500802 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ It turned out to be cancer.
+L500801 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ She did?
+L500800 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Ruth Lesserman had a pancreatic ulcer.
+L500799 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I know.
+L500798 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Gee, that's very serious...
+L500797 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I don't know.
+L500796 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ That's very serious. Who's her doctor?
+L500795 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Yeah, I think so.
+L500794 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Does she have a pancreatic ulcer?
+L500793 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ She's got a...
+L500792 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ These attacks... it's got something to do with her... uh... pancreas.
+L500791 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ What?
+L500790 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'll be right back, it's just that this girl is a different girl... she has attacks.
+L500789 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Why not?
+L500788 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ Listen, baby, don't leave, really.
+L500787 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Thanks a lot.
+L500782 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ You mean that girl, don't you?
+L500781 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ I'm not. I mean I've gotta see this friend of mine for a few minutes.
+L500780 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ I thought you said you weren't going anywhere.
+L500779 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ My keys.
+L500778 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ What're you looking for?
+L500777 +++$+++ u7588 +++$+++ m513 +++$+++ GEORGE +++$+++ No.
+L500776 +++$+++ u7586 +++$+++ m513 +++$+++ FELICIA +++$+++ Whoever she is, she doesn't give up, does she?
+L500765 +++$+++ u7589 +++$+++ m513 +++$+++ GEORGE'S VOICE +++$+++ Hello.
+L500764 +++$+++ u7587 +++$+++ m513 +++$+++ FELICIA'S VOICE +++$+++ Shit.

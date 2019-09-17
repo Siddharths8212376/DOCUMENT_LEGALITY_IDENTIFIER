@@ -1,0 +1,200 @@
+L630078 +++$+++ u8661 +++$+++ m587 +++$+++ FALE +++$+++ That woman is...was...your... psychiatrist?  And now she's spray- painting our building?
+L630077 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ Ex-psychiatrist!  Now, what about flashlights?  How many flashlights...?
+L630076 +++$+++ u8661 +++$+++ m587 +++$+++ FALE +++$+++ Your psychiatrist?  Did you just say, "your psychiatrist"?
+L630075 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ WHY DON'T WE FORGET MY GODDAMN PSYCHIATRIST AND DEAL WITH THE TASK AT HAND.  THIS IS IMPORTANT.
+L630071 +++$+++ u8661 +++$+++ m587 +++$+++ FALE +++$+++ No!  Absolutely not. Don't tell me anything.
+L630070 +++$+++ u8663 +++$+++ m587 +++$+++ JEFFREY +++$+++ You really want to know?
+L630069 +++$+++ u8661 +++$+++ m587 +++$+++ FALE +++$+++ One dozen bolt cutters!  Whadda you gonna do with one dozen bolt cutters?
+L629517 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ I'll be right here...just in case.
+L629516 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ No, thank you.
+L629515 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ James Cole.  That's everything we got.  None of the James Coles on the computer match him. No license, no prints, no warrants.  Nothing. You want me to go in with you?
+L629514 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Yes, please.  You said he gave a name...
+L629513 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ You want to go in?  Examine him?
+L629512 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ That would explain the bruises, I guess.  The struggle.
+L629511 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ Were you listening?  We got two officers in the hospital.  Yeah, he's in restraints, plus the medic gave him enough stellazine to kill a horse.  Look at him!  Still on his feet.
+L629510 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ You have him in restraints.
+L629509 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ Negative for drugs.  But he took on five cops like he was dusted to the eyeballs.  No drugs.  You believe that?
+L629508 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ He's been tested for drugs?
+L629507 +++$+++ u8662 +++$+++ m587 +++$+++ FRANKI +++$+++ -- so they get there and they ask the guy real nice for some kind of i.d., and he gets agitated, starts screaming about viruses. Totally irrational, totally disoriented, doesn't know where he is, what day it is, alla that stuff.  All they got was his name.  They figure he's stoned out of his mind, it's some kinda psychotic episode, so they're gonna bring him...
+L630206 +++$+++ u8667 +++$+++ m587 +++$+++ WOMAN CABBIE +++$+++ Twelve Monkeys, honey.  Guess you folks didn't turn on your radio this morning.
+L630205 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ What?  What did you say?
+L630204 +++$+++ u8667 +++$+++ m587 +++$+++ WOMAN CABBIE +++$+++ On your normal mornin', okay, plenty a time, but today, gotta take inta account your Army-of-the-Twelve-Monkeys factor.
+L630203 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Tight?  My watch says 7:30.
+L630202 +++$+++ u8667 +++$+++ m587 +++$+++ WOMAN CABBIE +++$+++ Might be tight.
+L630201 +++$+++ u8666 +++$+++ m587 +++$+++ RAILLY +++$+++ Nine thirty
+L633021 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Things ain't always the way they seem. You got to ask yourself; is it worth it?
+L633020 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Any parting words of wisdom?
+L633019 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Same back at you.
+L633018 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No and I don't plan on sticking around either.  I don't guess I'll be seeing you again.  Take it easy.
+L633017 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ We all got plans.  I planned on seeing all my life.  I know you didn't plan on straying into town.
+L633016 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Not this twig, friend.  I got plans.
+L633015 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ More or less.
+L633014 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ We're all just floating along like twigs in a stream, so enjoy the ride.  Is that it?
+L633013 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ We was born to die, boy.  From the minute you take your first breath you got a death sentence hanging over your head.  You just don't know where, or when, or how.  Don't make sense worryin' about the particulars.
+L633012 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You don't fear death?
+L633011 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Afraid of it?  Boy, I live in the dark.  People are afraid of what they can't see.  I can't see nuthin', so it's all the same to me. Kiss from a beautiful woman, a lick from a dog.  The kiss of death. It's all the same.
+L633010 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You afraid of the dark?
+L633009 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Night is when you want to sleep, but the dry heat keeps you tossin' and turnin'.  It's when you wish the sun was bakin' high in the sky so you could see what it is you're afraid of.
+L633008 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You're a hell of a pessimist, old man.
+L633007 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Ain't over yet.  Night is part of day; separate, but equal.  Night is when you let your guard down; when you see things in the shadows and hear things in the dark.
+L633006 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ The day wasn't so bad.  We all got through it all right.
+L632811 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ I won't hold my breath.
+L632810 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'm a little short. I'll catch you next time.
+L632809 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Ain't you got a little something for the infirm?
+L632808 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Think you'll live that long?
+L632807 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Maybe one day I'll get to sit on a corner and spout wise.
+L632806 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ That's 'cause I've done a lot of living.
+L632805 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You sure got a lot of philosophy, old man.
+L632804 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ What do you want for free?
+L632803 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I think I've heard that before.
+L632802 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Or maybe you just think you do.  You can run just as far as you can, but wherever you go, there you are.
+L632801 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Maybe I do.
+L632800 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ I can see just fine.  For example: You're a young man who thinks he's got someplace to be.
+L632799 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ That a fact?
+L632798 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Just 'cause I ain't got eyes doesn't mean I can't see.
+L632797 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You sure seen a lot for a blind man.
+L632256 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ See.  Ain't nothing I can do but keep him here beside me.  That's where he belongs anyways.  Me and Jesse, that's my dog, not anymore, but me and Jesse we been pals since the war when I lost my eyes.  He was just a pup then . . .
+L632255 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ He no!
+L632254 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ He's only just dead.  What was I supposed to do with him?  I can't take him away anywhere.  And nobody wants to take him for me.  Do you?
+L632253 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What the hell are you keeping a dead dog around for?
+L632252 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ I hope you wasn't pettin' him none, was you?
+L632251 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Oh, Jesus.
+L632250 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ That's 'cause he's dead.
+L632249 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I think you'd better give your pooch a sip.  He looks sick.
+L632246 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Christ!
+L632245 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Don't forget to open it for me.  I can't be opening my own bottle.
+L632244 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, yeah.
+L632243 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Get me a Dr. Peppa!  I don't want no Pepsi.  Pepsi ain't nothing but flavored water.
+L632242 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ All right, old man.  Christ.
+L632241 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Change?  You want my change?  I fought the war and lost my eyes just so I could give you my change?
+L632240 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, sure.  You got change?
+L632239 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Don't be sorry.  Just run over there and get me my pop before I die of thirst.
+L632238 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I said I was sorry.
+L632237 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Lost my eyes on Okinawa.  Lost them fighting the war.  Fought the war and lost my eyes just so you could come around here and make fun of me.
+L632236 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Christ no!
+L632235 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ I ain't got no eyes.  You want to see?
+L632234 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I don't know.  I thought you were keeping the sun from your eyes.
+L632233 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ What'd you think I was doing out here with these glasses on?  Sunnin' myself?
+L632232 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'm sorry, I didn't--
+L632231 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Hell no, I can't do that myself. I'm blind.  Can't you see that?
+L632230 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You can't do that yourself?
+L632229 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Yeah I want something.  I want you to run over to that machine and get me a pop.
+L632228 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You want something?
+L632227 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Don't call me old man.  Ain't you got no respect, boy?
+L632226 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You want something, old man?
+L632225 +++$+++ u8668 +++$+++ m588 +++$+++ BLIND MAN +++$+++ Hey!  You there!
+L632578 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'm a rich man off of thirty bucks?
+L632577 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ That's my morning's pay.
+L632576 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Thirty-bucks?  That's it?
+L632562 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Next city you're in take it to a jeweler.  He won't give you less than four-hundred for it.
+L632561 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ Never heard of it.  It's got no day or date.  Hell, it ain't even got numbers.  What's the matter?  You couldn't afford a Timex?
+L632560 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ It's a Movado.
+L632559 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'll bet my watch against your pay.
+L632558 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ You want to make a kiddies bet?
+L632557 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Nothing.
+L632556 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ Well, a man with some gumption.  How much money you got?
+L632555 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'll take a piece of that bet. I say it doesn't come up five times each side.
+L632552 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ Put your money where your chicken- lipped mouth is.  I'll bet this mornings pay I'm right.
+L632551 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ I got more brains than you've got teeth.
+L632550 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ And what are you?  A rocket scientist?
+L632549 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ No it won't.  You just don't know shit about statistics.
+L632548 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ It will.
+L632547 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ A coin's got two sides.  When you flip it there's a fifty-fifty chance it'll be heads or tails.  Boyd thinks if you flip a coin ten times half the time it'll come up each side.
+L632546 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ It is not.
+L632545 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ It's nonsense.
+L632540 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ You got two years on me.  What's that make me?
+L632539 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ You ain't nothing but an old fool.
+L632538 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ Will be.
+L632537 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ Hundred and eight ain't a hundred and thirteen.
+L632536 +++$+++ u8669 +++$+++ m588 +++$+++ BOYD +++$+++ Hundred and eight already.
+L632535 +++$+++ u8672 +++$+++ m588 +++$+++ ED +++$+++ One-hundred-thirteen degrees.  That was back in July of forty-seven. Now there ain't no way it's gonna be hotter than that.
+L632945 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ I'll give you the money!  Okay? I'll give you two-fifty.  Just . . . just, please.
+L632944 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Please, you don't understand.  I have to get out of here.  They're going to come looking for me. They're going to kill me.  If I can't get this ticket then I'm going to have to do things to get out of here.  I don't want to hurt anybody, I just want to leave.
+L632943 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah.  Just a little short. Figures.  I just wanted to get out, that's all.
+L632942 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ I'm sorry, sir.  It's thirty dollars for the ticket.
+L632941 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I bought a beer.  That was two- fifty.  I bought a beer, otherwise I would have thirty.
+L632940 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ The ticket is thirty dollars.
+L632939 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Twenty-seven, fifty.  That's all I got.
+L632938 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ Thirty even.
+L632937 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ One way.
+L632936 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ One way, or round trip?
+L632935 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ How much.
+L632934 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ We have a bus to Mexico.  Arrives in two hours.  Have to make a couple of connections, but it will get you across the border.
+L632933 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I don't care, just get me there.
+L632932 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ Where in Mexico would you like--
+L632931 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I . . . Mexico.  You got a bus that goes to Mexico?  That's where I have to go.
+L632930 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ But, in particular?
+L632929 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Out of here.
+L632928 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ Where to?
+L632927 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I need a ticket.
+L632926 +++$+++ u8670 +++$+++ m588 +++$+++ CLERK +++$+++ Can I help you, sir?
+L633145 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Honest like Al Capone on tax day. Where are my keys?
+L633144 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ I don't want no dirty money.  I run an honest business.
+L633143 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What's it to you?
+L633142 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Two-hundred dollars in hundred- dollar bills.  And this morning you was broke.
+L633141 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ You got the money?
+L633140 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I want my car.
+L633139 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ What the hell . . . oh it's you. Might've figured.  What do you want?
+L633138 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Come back when the sun comes up.
+L633137 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ It is morning.
+L633136 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ We're closed.  Come back in the morning.
+L633135 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Open up!
+L633134 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ What you want?
+L632922 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ There you go, sweet talking me again.
+L632921 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Goddamn you!  You son of a bitch!
+L632919 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Yeah, you better remember that.
+L632918 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Please, just leave the car alone.
+L632917 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ What's the matter?  The fight gone out of you?  I'm just gonna smash a headlight.  Maybe two.
+L632916 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ No!
+L632914 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ You listen to me, you fancy city man.  You owe me money, and this car ain't going nowheres until I get it. And if you take another five hours I'll find another fifty dollars worth of work to do on her.  Now get out of here!  You're stinking up my garage.
+L632913 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I'm taking my car, and I'm taking it now!
+L632912 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Take it.  As soon as I get my money. Fifty dollars for an almost new gasket.  You don't know what kind of a deal you're getting.
+L632911 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Listen you stupid fuck, I want my car.
+L632910 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Is that an insult?  Are you insulting me.
+L632909 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What reputation?  You're nothing but an ignorant, inbred, tumble weed hick.
+L632908 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Well, now, you just know all there is about bein' a mechanic, don't you?  I can't do unauthorized work. I suppose I can just let you ride out of here with a bad gasket.  Then you get in an accident and get killed.  Or worse.  Who they gonna blame then?  They gonna blame me, and there goes my reputation.
+L632907 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I didn't tell you to do it!  You can't just do unauthorized work.
+L632906 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Yeah, but it was shot.
+L632905 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I didn't tell you to replace any gasket.
+L632904 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Yep.  For the hose.  But while you was gone I replaced a gasket. That's going to run you another fifty.
+L632903 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You said this morning the hose was going to run me one-fifty.
+L632902 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ It's going to cost you two-hundred dollars.
+L632901 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What?
+L632900 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Two-hundred.
+L632899 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Listen, Darrell, about that hundred- fifty bucks for the car, as soon as I get where I'm going I swear I'll--
+L632898 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ No charge.
+L632897 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ That's a good piece of advice, Darrell.
+L632896 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ You think bad, and bad is what you get.
+L632895 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You believe that?
+L632894 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Hell, I've had days I would gladly trade with a whippin' dog.  Ain't much you can do when you feel like that 'cept tough it out.
+L632893 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You've been there?
+L632892 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ One of those days you feel like you been runnin' in circles and you ain't no closer to where you tryin' to get than when you started?
+L632891 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Yeah, well, I've been around the bend a bit.
+L632890 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Hey there.  I was beginnin' to think you wasn't comin' back.  You don't look so good.
+L632500 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Sweet talk me all you want, I still want my hundred-forty-five dollars.
+L632499 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ You son of a bitch!
+L632498 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Now that's too bad.  I sure hope you know how to wash dishes or shovel shit 'cause you're gonna have to work this one off.
+L632497 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ I don't have a credit card.  They took my wallet.
+L632496 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Then you're only a hundred-forty- five in the hole.  Now why don't you just take your Visa Express Silver Card, call Karl Malden and have him send you the money lickity split.
+L632494 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Listen, man.  I got rolled half and hour ago for everything I had.
+L632493 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Then you ain't gonna have the car.
+L632492 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ It might as well be fifteen-hundred dollars, because I don't have the money.
+L632491 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ I don't know, but it's the reason I'm living here and you're just passing through.  Now you owe me a hundred-fifty dollars.
+L632490 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ What's that got to do with the radiator hose?
+L632489 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ That's not just a Ford, that's a sixty-four-and-a-half Mustang.
+L632488 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ That's a Ford, not a Ferrari.  You going to tell me no one else in this shit hole drives a Ford?
+L632487 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ That's about an hour and a half longer than I usually spend looking for parts.  You're the one thinks that car's so damn fancy.  What you expect but fancy damn prices?
+L632486 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ About an hour and a half, because that's all the longer I've been gone.
+L632485 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ A God damn radiator hose in a sixty- four-and-a-half Mustang.  You know how long it took me to find that hose?
+L632484 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ To replace a God damn radiator hose!?
+L632483 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Hundred-fifty.
+L632482 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ How much!?
+L632481 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Well . . . parts, labor . . . let's call it a hundred-fifty bucks.
+L632480 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ How much?
+L632479 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ She's all yours. Put a new hose in it, and she runs like a dream now.
+L632478 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Look, I just want to pick up my car.
+L632477 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Another accident?  You got to be more careful.
+L632476 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Just banged my head.  It was an accident.
+L632475 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Don't look like nothing.
+L632474 +++$+++ u8677 +++$+++ m588 +++$+++ JOHN +++$+++ Nothing.
+L632473 +++$+++ u8671 +++$+++ m588 +++$+++ DARRELL +++$+++ Hey, your . . . what the hell happened to you.

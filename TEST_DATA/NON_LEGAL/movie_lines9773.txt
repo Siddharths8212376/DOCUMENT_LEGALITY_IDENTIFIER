@@ -1,0 +1,200 @@
+L181804 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Jack Vincennes.  He's the technical advisor on 'Badge of Honor,' sir.  He lives for it. That's the way to get him.
+L181801 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I know that, sir.  I also know that when he made lieutenant, it was as a detective.
+L181800 +++$+++ u4992 +++$+++ m332 +++$+++ CHIEF +++$+++ Ed, you're 30.  Your father didn't make lieutenant until he was 33.
+L181798 +++$+++ u4992 +++$+++ m332 +++$+++ CHIEF +++$+++ And I'll promote you.  You'll be a lieutenant immediately.
+L181797 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I'll testify, sir.  I'm not afraid to do what's right.
+L181796 +++$+++ u4992 +++$+++ m332 +++$+++ CHIEF +++$+++ I want to know who we give the public in contrast?  The department needs role models. Clean-cut, <u>forthright</u> men the public can admire.
+L181792 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ The public demands justice, sir. This was a full-fledged riot of policemen.  Shift the guilt to men whose pensions are secured.  Force them to retire.  But someone has to swing.  Indict, try and convict Stensland and Bud White.  Secure them jail time.  Feed them to the sharks, sir.  Protect yourself; protect the department.
+L181791 +++$+++ u4992 +++$+++ m332 +++$+++ CHIEF +++$+++ Ed, your observations have been astute.  What's your assessment of this situation?
+L182537 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Just show me where they are!
+L182536 +++$+++ u4993 +++$+++ m332 +++$+++ CLERK +++$+++ I don't have time.  I have --
+L182535 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Where are the police academy files?
+L182534 +++$+++ u4993 +++$+++ m332 +++$+++ CLERK +++$+++ Someone must've pulled the records.
+L182533 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ So on active duty, Meeks didn't make an arrest from 1938 to '43.
+L182532 +++$+++ u4993 +++$+++ m332 +++$+++ CLERK +++$+++ Nothing.
+L182531 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Anything?
+L182276 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Until he gunned down six people.
+L182275 +++$+++ u4993 +++$+++ m332 +++$+++ CLERK +++$+++ More or less.
+L182274 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Clean?
+L182273 +++$+++ u4993 +++$+++ m332 +++$+++ CLERK +++$+++ I got the rap sheets on the black guys, sir.  Coates and Jones got charges a mile long.  But except for some kid stuff, Fontaine's clean.
+L182134 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Where do they get their stuff? Come on.  Give me one to feed the D.A.  Just a little one.
+L182133 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Ty and Larry fuck with that shit, not me.
+L182132 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Were you on hop?  You were passed out when you got arrested.  Were you hopped up, Ray?
+L182131 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ I got nothin' more to say till I see a judge.
+L182130 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You guys were arrested this morning, but none of you have last night's clothes.  <u>You</u> were seen burning them.  Add to that the fact that you hid the car you were cruising around in last night and it doesn't look good.
+L182129 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Say what?
+L182128 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Why were you throwing clothes in the building incinerator?
+L182127 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ I don't own no shotguns.
+L182126 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Ray, we got the shotguns.
+L182125 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Man, what're you saying?
+L182124 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Oh?  you feel that way about people, too?
+L182123 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Dogs got no reason to live.
+L182122 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I heard you like to shoot dogs.
+L182121 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ You ain't woofin' I did.  Stupid down home niggers got no more sense than a fuckin' dog.
+L182120 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Ray, you protected Ty and Larry up in Casitas, didn't you?
+L182117 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Man, why're you talkin' about Larry?  His business is his business.
+L182116 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Nothing, Ray.  That Larry, he's a pisser.  You did the Casitas Youth Camp with him, didn't you?
+L182115 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Believed what?
+L182114 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ That fucking Larry.  I almost believed him.
+L182113 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ I never truck with no sissies!
+L182112 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Just getting my facts straight. Twenty-two makes it a gas chamber bounce. You should have pulled this caper a couple of years ago.  Get life, do a little Youth Authority jolt, transfer to Folsom a big man. Orbit on some of that good prison brew, get yourself a sissy --
+L182111 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Man, why do you keep asking me that?
+L182110 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You look like Robinson after that last LaMotta fight.  'Course LaMotta looked a lot worse.  So you're twenty-two, right?
+L182109 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Did one of the officers work you over a little?
+L182108 +++$+++ u4994 +++$+++ m332 +++$+++ COATES +++$+++ Say what and so what.
+L182107 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You're twenty-two, aren't you, Ray?
+L181886 +++$+++ u4995 +++$+++ m332 +++$+++ COHEN +++$+++ Some ferstunkener is moving in and we don't know who?!  Maybe we should ask Hedda Hopper!
+L181885 +++$+++ u5008 +++$+++ m332 +++$+++ STOMPANATO +++$+++ Gone.  Not a trace.
+L181884 +++$+++ u4995 +++$+++ m332 +++$+++ COHEN +++$+++ And what about the merchandise Deuce was holding for me?
+L181883 +++$+++ u5008 +++$+++ m332 +++$+++ STOMPANATO +++$+++ Nobody.  At least not yet.
+L181882 +++$+++ u4995 +++$+++ m332 +++$+++ COHEN +++$+++ I don't want a floor plan; I want to know who!  Who's taking the ticket for this, Johnny?
+L181881 +++$+++ u5008 +++$+++ m332 +++$+++ STOMPANATO +++$+++ They shot him in his library.
+L181880 +++$+++ u4995 +++$+++ m332 +++$+++ COHEN +++$+++ What do you mean Deuce Perkins got clipped last night?!
+L182523 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ In my car.  Blackmail shit.  The trunk under the carpet.  Patchett got me to photograph a cop fucking this gorgeous cunt Lynn, looks just like Veronicaaa --
+L182522 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ And?
+L182521 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ He runs call girls.  Primo tail. Fixed up like movie stars.
+L182520 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Reciprocity, Mr. Hudgeons, is the key to all relationships.
+L182519 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ And what?
+L182518 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ And?
+L182517 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ Okay.  Okay.  Everyone knows Patchett's worth a boat-load of greenbacks.  From aviation, freeway construction.  But the man has hobbies, too.  He bankrolls B movies under the table and runs movie star look-alike hookers. And try this on:  he's rumored to be a periodic heroin sniffer.  All in all a powerful behind-the- scenes strange-o.
+L182514 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Alright.  We'll drop that line for now.  Next topic.  Please comment on Pierce Patchett.
+L182513 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ Okay so we worked together.  It was an information exchange.  I got him first class collars and he got me good stories.  We were friends for Chrissakes!
+L182512 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ What does that have to do --
+L182511 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ But you were business associates?
+L182510 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ Take it easy!  I didn't have anything to do with him getting killed if that's what you mean.
+L182509 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ Trashcan Jack.  The Big V.  I can tell you he's on the Night Train to the big adios.
+L182508 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ It's for your own safety.  Now what can you tell us about Sergeant John Vincennes?
+L182507 +++$+++ u4998 +++$+++ m332 +++$+++ HUDGEONS +++$+++ I'm happy to cooperate.  You don't need to tie me down.
+L182506 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ This is Mr. Hudgeons, Wendell.
+L182666 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ <u>Really</u>?  Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis?
+L182665 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Something like that.
+L182664 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Why not, lad?  Absolute justice?
+L182663 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ <u>No</u>.
+L182659 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Absolutely.  Prostitution and gambling are victimless crimes. The heroin we'll run down to the coloreds.  Anesthetize them.  As long as it's not a middle class problem, no one will care.  It's still a crime free city... for respectable people.
+L182658 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ And now you'll provide them.
+L182657 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ A vacuum, Edmund.  That's what we have in Los Angeles.  Sending Mickey Cohen up created it.  My containment work maintained it. Certain photographs guarantee it. Organized crime has been held back, but there's still a demand for the services it provides.
+L182656 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Why?
+L182655 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Jack was a shame, but Dick Stensland had the audacity to try to sell me my own heroin.  Through his whore girl friend.  I sent him to make the buy.  The rest is history.
+L182654 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Tell that to Jack Vincennes.  To Stensland.
+L182653 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ I'm loathe to kill my brother officers, Edmund.
+L182494 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Anonymous.  Probably nothing.
+L182493 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ No... Where'd the tip come from?
+L182190 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Something's wrong.  I feel it inside.  Doesn't that sound crazy?
+L182189 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ There always are.  But there are also three men and three guns. Matched forensically.  A few loose ends don't matter.
+L182188 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ There are loose ends out there, Dudley.  I --
+L182150 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ She may still be alive, whoever she is.
+L182149 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Don't get sidetracked.  Stay with the Nite Owl.
+L182103 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I'll break them, sir.
+L182102 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Ed, I want confessions.
+L181932 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Get on it.
+L181931 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ We got a call earlier on three Negro youths.  Firing shotguns in Griffith Park from a late-model purple Mercury Coupe.
+L181930 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Why?
+L181927 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ It's mine.  I'll make you my second in command.
+L181926 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Yes, I do, sir.
+L181925 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Edmund, you don't want it and you can't have it.
+L181924 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Sir, I took the call.  It's my case.
+L181910 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ His blood's always up.
+L181909 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ You should stay away from a man when his blood is up.
+L181808 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ So be it.
+L181807 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Yes, Dudley.  I am.
+L181806 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ You'll reap the benefits, but are you truly prepared to be despised within the department?
+L181795 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ No, Edmund.  He's a man who can answer yes to those questions I ask you from time to time.
+L181794 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ White's a mindless thug.
+L181793 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Stensland's a disgrace.  Straight D fitness reports from every C.O. he ever served under.  But White is a valuable officer.
+L181754 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ At least get rid of the glasses. I can't think of one Bureau man who wears them.
+L181753 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I know you mean well, Dudley, but I don't need to do it the way you did.  Or my father.
+L181752 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Then for God's sake, don't be a detective.  Stick to assignments where you won't have to make those choices.  Patrol, Internal Affairs, but not the Bureau.
+L181751 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ No.
+L181750 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Would you be willing to shoot hardened criminals in the back to offset the chance --
+L181749 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ No.
+L181748 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Would you be willing to beat confessions out of suspects you knew to be guilty?
+L181747 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ No.
+L181746 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis...?  Yes or no, Edmund.
+L181745 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I... No.
+L181744 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Answer yes or no.
+L181743 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Dudley, we've been over this.
+L181742 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Am I...?  Would you be willing to plant corroborative evidence on a suspect you knew was guilty in order to ensure an indictment?
+L181741 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You're wrong.
+L181739 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I was thinking Detective Bureau.
+L181738 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ You'll make lieutenant inside a year.  Patrol division?
+L181737 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ The youngest applicant by eight years.
+L181736 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ That was his favorite toast.  I saw the test results on the lieutenant's exam.  You placed first out of twenty-three.
+L182488 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Not even with Exley?
+L182487 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ No.
+L182486 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Have you discussed this with anyone else, John?
+L182485 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Don't start trying to do the right thing, John.  You haven't had enough practice.
+L182484 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ It's a private investigation.  I fucked something up and I want to make amends.
+L182483 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ You're Narco, lad, not Homicide. And since when do you work with Edmund?
+L182482 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Part of it has to do with a murder.  I've been working with Ed Exley on it.
+L182481 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ What's this all about, lad?
+L182480 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Twelve years ago he worked a vice roust with Dick Stensland.  They arrested a Pierce Patchett on an extortion scam.  Guy ran hookers. He'd have them photographed with their johns, then double-dip for some blackmail.  Charges got dropped.  Insufficient evidence. You were supervising officer on the case and I was wondering if you remember anything about it.
+L182479 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ A disgrace as a policeman. Straight D fitness reports from every C.O. he ever served under. What about him?
+L182478 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ You remember Buzz Meeks, Dudley?
+L182477 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ Lucky for you that my wife and four fair daughters are at the beach in Santa Barbara.
+L182476 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Two minutes, Dudley.  It's important.
+L182475 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ John Vincennes.  It's three A.M., lad.
+L182105 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ I think you'll be surprised what Edmund's capable of.
+L182104 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ You think golden boy can handle it, Cap?
+L181817 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Okay.  I'll do it.
+L181816 +++$+++ u4996 +++$+++ m332 +++$+++ DUDLEY +++$+++ John, I doubt you've ever drawn a stupid breath.  Don't start now.
+L182431 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Great.  You get the girl, I get the coroner.
+L182430 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I'm going to Lynn Bracken's.  I'll meet you at the Dining Car.
+L182429 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ What are you going to do?
+L182409 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ She <u>is</u> Lana Turner.
+L182408 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ What?
+L182407 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ She is Lana Turner.
+L182395 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Yeah.  But first I want to brace Stompanato.
+L182394 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ High line whores.  With plastic surgery to look like movie stars. And who knows what else?  It's run by this guy Pierce Patchett.  You want to talk to him?
+L182393 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ What's Fleur-de-Lis?
+L182392 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Movie star hookers.  Whatever you desire... It's Fleur-fr-Lis again.
+L182391 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Rita Hayworth at the morgue and now Veronica Lake with White. What the hell's going on?
+L182390 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Jesus... Maybe White's not so dumb after all.
+L182389 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Bud White.  He sees us and we're dead.
+L182388 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ What's that for?
+L182370 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ A third.  I don't think we can make a case without Bud White.
+L182369 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Okay, college boy, I'll help you. But I want half the collar.
+L182368 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I want to do it right.
+L182367 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ The Nite Owl was solved, Lieutenant.
+L182366 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I've given up angles for awhile. I just want to solve this thing.
+L182365 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ I'm trying to figure what angle you're playing <u>this</u> time, but I sure as hell can't see one.
+L182363 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Rollo's the reason I became a cop. I wanted to catch the guys who thought they could get away with it.  It was supposed to be about truth and justice and Rollo.  But somewhere along the way I forgot all that... How about you, Jack? Why'd you become a cop?
+L182362 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ So what's the point?
+L182361 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Rollo was a purse snatcher.  My father ran into him off duty.  He shot my father six times and got away clean.  No one even knew who he was.  I made the name up to give him some personality.
+L182360 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Is there more to that, or do I have to guess?
+L182358 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ You should be the last person who wants to dig any deeper into the Nite Owl, <u>Lieutenant</u>.
+L182357 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ It's a simple question.
+L182356 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ What?
+L182355 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Do you make the three Negroes for the Nite Owl killings?
+L182354 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ I ain't a priest, Lieutenant.  I can't hear your confession.
+L182353 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Listen, I think I made a mistake, too.
+L182352 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Yeah.  My whole life.
+L182351 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You make a mistake?
+L182350 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Transfer me, suspend me.  Just leave me alone.
+L182349 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Yesterday yes, today no.  What happened last night?
+L182348 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Yesterday that might've meant something.  Pull me off.  You'd be doing me a big favor.
+L182347 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ It's not a request.  I need to know what White knows.  Follow him or I'll have you pulled off 'Badge of Honor.'  Permanently.
+L182346 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Even I'm not that crazy.
+L182345 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I want you to follow Bud White.
+L182344 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Damnit... <u>What</u>?
+L182343 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Give me a minute, will ya?
+L182342 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I need to speak to you.
+L182097 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Just don't shoot me.
+L182096 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Glasses.
+L182095 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ What?
+L182094 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Damnit...
+L182085 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ <u>Shit</u>.  Someone beat us here.
+L182084 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ L.A.P.D.
+L181829 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ I'm snitching three old timers who'll be fishing in Oregon next week.  Next to you I'm clean.  And smart.
+L181828 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ What about you?
+L181827 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ You're playing an angle, college boy.  You're getting something out of this so you don't have to hobnob with the fucking rank and file cops who'll hate your guts for snitching.  If they're making you a detective, watch out.  Some Bureau guys are gonna burn in this and you're gonna have to work with friends of theirs.
+L181826 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ You're the payoff expert.  I'm just doing my duty.
+L181825 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ Yeah, Exley.  What's the payoff?
+L181824 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ <u>Throwing me</u>?
+L181823 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ I should've known.  What's the Chief throwing you?
+L181822 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ That's right.
+L181821 +++$+++ u4999 +++$+++ m332 +++$+++ JACK +++$+++ You're the key witness?
+L181697 +++$+++ u5010 +++$+++ m332 +++$+++ YOUNG OFFICER +++$+++ Of his penis, sir?
+L181696 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ I get the idea.  You got a description?
+L181695 +++$+++ u5010 +++$+++ m332 +++$+++ YOUNG OFFICER +++$+++ With tinsel and plastic icicles and... on his penis, sir.
+L181694 +++$+++ u4997 +++$+++ m332 +++$+++ EXLEY +++$+++ Decorated?
+L181693 +++$+++ u5010 +++$+++ m332 +++$+++ YOUNG OFFICER +++$+++ A guy dressed as Santa has been exposing himself to kids in Los Feliz.  Apparently, sir, he's decorated himself.

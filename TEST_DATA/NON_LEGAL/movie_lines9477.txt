@@ -1,0 +1,200 @@
+L620562 +++$+++ u3328 +++$+++ m221 +++$+++ CALLER +++$+++ Never mind.  Wet a towel and wrap it around your head.  That'll muffle the signal.
+L620561 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Who are you?
+L620560 +++$+++ u3328 +++$+++ m221 +++$+++ CALLER +++$+++ Don't bother looking.  It's in your skull.
+L620559 +++$+++ u3328 +++$+++ m221 +++$+++ CALLER +++$+++ They've got you bugged, and they'll be busting down the door in about three minutes unless you do exactly what I say.
+L620558 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What do you want?
+L620693 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ May I use your pen?
+L620692 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ There you go, Mr. Brubaker.  Suite 610 in the East Wing.
+L620691 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Thank you.
+L620690 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ I'll go encode your room key.
+L620689 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ Identification?
+L620688 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Get it, please.
+L620687 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ Hmm.  It seems you left something in our safe.
+L620686 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Definitely.
+L620685 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ Would you like the same suite?
+L620684 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Thank you.
+L620683 +++$+++ u3329 +++$+++ m221 +++$+++ CLERK +++$+++ Nice to have you back with us, Mr. Brubaker.
+L621095 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ You're nothing!  You're nobody!  You're a stupid dream.  Well all dreams come to an end.
+L621094 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ I am Quaid.
+L621093 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ I didn't want it to end this way.  I wanted Hauser back.  But nooo.  You had to be Quaid.
+L621091 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Who gives a shit what you believe? In thirty seconds, you'll be dead. Then I'll blow this place up...
+L621090 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Do you expect me to believe you?
+L621089 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Impossible.  Once the reaction starts, it'll spread to all the turbinium in the planet.  Mars will go into global meltdown.--That's why the aliens never turned it on.
+L621088 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What are you afraid of?  Turn it on.
+L621035 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ My friend, five minutes from now, you won't give a shit about the people.  Fire it up, Doc.
+L621034 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Come on, Cohaagen!  You got what you want.  Give these people air!
+L621023 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Not true, he's one of my best friends...He's got a big house and a Mercedes.  And you like Melina, right?  Well, you'll get to fuck her every night.--That's right.  She's gonna be Hauser's babe.
+L621022 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ The guy's a fucking asshole.
+L621015 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Who is it this time--my mother?
+L621014 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Don't take my word for it, Quaid. Someone you trust wants to talk to you.
+L621013 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Well, Cohaagen, I have to hand it to you...This is the best mindfuck yet.
+L621012 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Perfect, my ass!  --You pop your memory cap before we can activate you.  Then Richter goes hod wild, screwing up everything I spent a year planning. --Frankly, I'm amazed is worked.
+L621011 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Sorry.  Too perfect.
+L621010 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ The guy with the suitcase; the mask; the money; the message form Hauser...All of that was set up by us.
+L621008 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ We gave you lots of help.  Benny here...
+L621007 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ So why am I still alive?
+L621006 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ He wasn't in on it.  You set him off by going to Rekall.
+L621005 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Get your story straight.  This idiot's been trying to kill me since I went to Rekall.  --You don't kill somebody you're trying to plant.
+L621004 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ That's what we wanted you to think. The fact is, Hauser volunteered to become Doug Quaid. It was the only way to fool the psychics.
+L621003 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ He's lying.  Hauser turned against you.
+L621002 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ You see, Quaid, none of my people could get close to Kuato.  The fucking mutants could always sniff us out.  So Hauser and I sat down and invented you: the perfect mole.
+L620998 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Don't be modest.  Kuato's dead; the Resistance has been completely wiped out; and you were the key to the whole thing.
+L620997 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Fuck you.
+L620996 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Well, my boy, you're a hero.
+L621051 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ It's about goddamn time.
+L621050 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Kill him.
+L620964 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Don't be an idiot.
+L620963 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ I say we throw the switch and see what happens.
+L620906 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Yes, sir.
+L620905 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Perfect!...Get out of Sector G.  Now. Don't think.  Do it.
+L620904 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ They've got Quaid!  They're protecting him!
+L620903 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Stop fighting and get out.
+L620678 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Great!  Because, otherwise I'll erase your ass.
+L620677 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Yes, sir.
+L620676 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Now let's get down to business.  Kuato wants what's in Quaid's head.  And he might be able to get it, cause they say he's psychic.  Now I have a little plan to keep this from happening.  --Do you think you can play along?
+L620675 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Yes, sir.
+L620674 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Who told you to think?!  I don't give you enough information to think!  You do what you're told!!  That's what you do!
+L620673 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ But I thought...
+L620672 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ I know that.
+L620671 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ He had help.  From our side, sir.
+L620669 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Because I've got the greatest job in the solar system.  As long as the turbinium keeps flowing, I can do anything I want.  Anything.  If fact, the only thing I ever worry about is that one day, if the rebels win, it all might end.
+L620668 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ No, sir.
+L620667 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Richter, do you know why I'm such a happy person?
+L620546 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Listen to me, Richter, I want Quaid delivered alive for re-implantation. Have you got that?  I want him back in place with Lori.
+L620545 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ That's now.  In an hour, he could have total recall.
+L620544 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ Lori says he can't remember jack shit!
+L620543 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ We can't let him run around.  He knows too much.
+L620542 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ If I wanted him dead, you moron, I wouldn't have dumped him on Earth.
+L620541 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ I'm trying to neutralize a traitor.
+L620540 +++$+++ u3330 +++$+++ m221 +++$+++ COHAAGEN +++$+++ What the fuck is going on down there?!
+L620439 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Come on...put his head in place.
+L620438 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ Ernie, dump him in a cab.  Around the corner.  Tiffany, you help him.  I'll destroy his file and refund his money.  And if anybody comes asking...we've never heard of Douglas Quaid.
+L620437 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ I'll do what I can.  It's getting messy in there.
+L620436 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ Okay, this is what we're gonna do. Renata, cover up any memory he has of us or Rekall.
+L620432 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ I've been trying to tell you.  Someone erased his memory.
+L620431 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ Oh shit....Oh shit...
+L620430 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ We haven't implanted it yet.
+L620429 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ Why not?
+L620428 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ I'm afraid that's not possible.
+L620427 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ Use your head, you dumb bitch!  He's acting out the secret agent role from his Ego Trip!
+L620426 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Listen to me!  He's been going on and on about Mars.  He's really been there.
+L620418 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ It's not my fault.  We hit a memory cap.
+L620417 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ What the fuck is going on here?!  You can't install a simple goddamn double implant?!
+L620411 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Looks like another schizoid embolism.
+L620410 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ I'm with an very important client.
+L620409 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ You better get down here.
+L620408 +++$+++ u3339 +++$+++ m221 +++$+++ MCCLANE +++$+++ What is it?
+L620407 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Bob?
+L620402 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Forty-one A, Ernie.
+L620401 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Sleazy...and demure.
+L620400 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Demure, aggressive, sleazy?  Be honest.
+L620398 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Slim, athletic, voluptuous?
+L620397 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Brunette.
+L620396 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Blonde, brunette, redhead?
+L620395 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Hmmm.  And how do you like your women?
+L620394 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Hetero.
+L620393 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Your sexual orientation?
+L620388 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Not really.  I've just always been fascinated by Mars.
+L620387 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ I see.  Slipping away for a little hanky-panky.
+L620386 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Eight years.
+L620385 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ So, been married long?
+L620382 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Don't you keep up with the news?  We're doing alien artifacts now.
+L620381 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Two-headed monsters?
+L620379 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Nice to meet you.
+L620378 +++$+++ u3331 +++$+++ m221 +++$+++ DR. LULL +++$+++ Good evening...  Doug.  I'm Dr. Lull.
+L620848 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ It's a symbol.  Of your desire to return to reality. --Inside your dream, you'll fall asleep.
+L620847 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What is it?
+L620846 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ Swallow this.
+L620845 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Suppose I do...then what?
+L620832 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ No need to be rude.  I'll do it.
+L620831 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ You open it.
+L620829 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ That's right.
+L620828 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ Mr. Quaid, can you hear yourself? "She's real because you dreamed her?"
+L620827 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ She's real.  I dreamed about her before I even went to Rekall.
+L620826 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ What about the girl?  Brunette, athletic, sleazy and demure; just like you specified.  Is that a coincidence?
+L620825 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Bullshit.  It's all coincidence.
+L620824 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ Think about it.  Your dream started in the middle of the implant procedure. Everything after that--the chases, the trip to Mars, your suite here at the Hilton--these are all elements of your Rekall Holiday.  And Ego Trip: You paid to be a secret agent.
+L620823 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ How much is Cohaagen paying you for this?
+L620822 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ I've been artificially implanted as an emergency measure.  I'm sorry to tell you this, Mr. Quaid, but you've suffered a schizoid embolism. We can't snap you out of your fantasy. I've been sent in to try to talk you down.
+L620821 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Well, if this is my delusion, who invited you?
+L620820 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ Not exactly.  What you're experiencing is a free-form delusion based on our memory tapes.  But you're inventing it yourself as you go along.
+L620819 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Oh, I get it; I'm dreaming!  And this is all part of that delightful vacation your company sold me.
+L620818 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ You're strapped into an implant chair, and I'm monitoring you at a psycho-probe console.
+L620817 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ At Rekall.
+L620816 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Amazing.  Where are we?
+L620815 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ I'm quite serious.  You're not here, and neither am I.
+L620814 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Ya know, Doc, you could have folled me.
+L620813 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ I'm afraid you're not really standing here right now.
+L620812 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ I'm listening.
+L620811 +++$+++ u3332 +++$+++ m221 +++$+++ EDGEMAR +++$+++ This is going to be very difficult for you at accept, Mr. Quaid.
+L620810 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What do you want?
+L620908 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ O.K., everybody pull out!
+L620907 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Pull them out.
+L620902 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ This is Richter sir...I've got them pinned down.
+L620901 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ Richter!  Call from Cohaagen.
+L620651 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ Arrest that woman!
+L620650 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ HER!
+L620648 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ There!  The woman!
+L620647 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ Where?
+L620646 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Quaid!  That's Quaid!
+L620632 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Watch your mouth, Captain.
+L620631 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ Not since you lost him.
+L620630 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Any news of Quaid?
+L620629 +++$+++ u3333 +++$+++ m221 +++$+++ EVERETT +++$+++ Mr. Cohaagen wants to see you right away.
+L620979 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Melina!
+L620978 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ They found us!  Everybody out!
+L620977 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ C'mon!
+L620976 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Shit!
+L620953 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Wrong.  Kuato's a mutant.  So don't get upset when you see him.
+L620952 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ You're Kuato, right?
+L620951 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Yes, you do.  That's why we brought you here.  --  Cohaagen's big secret is buried in that black hole you call a brain.  And Kuato's  gonna dig it out.
+L620950 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ I don't know.
+L620949 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ You tell me.
+L620948 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What, aliens?
+L620947 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Cohaagen found something weird inside, and it's got him scared shitless.
+L620946 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Yeah.
+L620945 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ You heard the rumors about the Pyramid Mine?
+L620944 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ On his way.
+L620943 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Where's Kuato?
+L620942 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Sit down.
+L620939 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ We don't have much choice then, do we?
+L620938 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ If we don't hand you over, everybody in the sector'll be dead by morning.
+L620750 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Relax, you'll live longer.
+L620749 +++$+++ u3334 +++$+++ m221 +++$+++ GEORGE +++$+++ Hey, hey Tony.  Give the big guy a break.
+L620465 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Unh-uh, pal.  You've got yourself mixed up with somebody else.
+L620464 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Harry, you're making a big mistake! You've got me mixed up with somebody else!
+L620463 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ You shoulda listened to me, Quaid. I was there to keep you outta trouble.
+L620462 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Are you crazy?!  I don't know anything about Mars.
+L620461 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ You blabbed, Quaid!  You blabbed about Mars!
+L620460 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What the fuck did I do wrong?!  Tell me!
+L620459 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Come on, let's go have that drink.
+L620458 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Harry, what the hell is this?
+L620456 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ No, Harry, I'm already late...See you tomorrow.
+L620455 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Let me buy you a drink.
+L620454 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What are you, my father?
+L620453 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Yeah, you did.  I told you not to but you did anyway.
+L620452 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ I did?
+L620451 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ You went to Rekall, remember?
+L620450 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ What trip?
+L620449 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ How was your trip to Mars?
+L620448 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Harry!
+L620447 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Hey, Quaid!
+L620331 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Don't fuck with your brain, pal.  It ain't worth it.
+L620330 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ No shit...
+L620329 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ A friend of mine tried one of their "special offers"...Nearly got himself lobotomized.
+L620328 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Why not?
+L620327 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Well don't.
+L620326 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ I don't know.  Maybe.
+L620325 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ "RekallRekallRekall."  You thinkin' of goin' there?
+L620324 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Yeah.
+L620323 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Oh, Rekall.
+L620322 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ They sell fake memories.
+L620321 +++$+++ u3335 +++$+++ m221 +++$+++ HARRY +++$+++ Rekall?
+L620320 +++$+++ u3341 +++$+++ m221 +++$+++ QUAID +++$+++ Hey Harry...Harry!  You ever heard of Rekall?
+L620636 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ What the hell is this?
+L620635 +++$+++ u3336 +++$+++ m221 +++$+++ HELM +++$+++ Look at this shit.
+L620619 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Come on!
+L620618 +++$+++ u3336 +++$+++ m221 +++$+++ HELM +++$+++ I've got a lock!  There!
+L620617 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Up!
+L620616 +++$+++ u3336 +++$+++ m221 +++$+++ HELM +++$+++ He's not at ground level.
+L620612 +++$+++ u3342 +++$+++ m221 +++$+++ RICHTER +++$+++ Split up.  Find him.

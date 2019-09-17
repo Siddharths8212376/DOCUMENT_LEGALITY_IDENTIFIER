@@ -1,0 +1,200 @@
+L46510 +++$+++ u3726 +++$+++ m246 +++$+++ BLONDE +++$+++ You sure this is a good idea? DOBISCH Can't think of a better one.
+L46504 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ Yeah.  How much?
+L46503 +++$+++ u3726 +++$+++ m246 +++$+++ BLONDE +++$+++ This the place?
+L46495 +++$+++ u3726 +++$+++ m246 +++$+++ BLONDE +++$+++ That's sweet.  That's real sweet.
+L46494 +++$+++ u3728 +++$+++ m246 +++$+++ DOBISCH +++$+++ My mother.
+L46493 +++$+++ u3726 +++$+++ m246 +++$+++ BLONDE +++$+++ I'm getting lonely.  Who are you talking to, anyway?
+L47206 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ You wash 'em, you break 'em. I'll come back for them later.  If he makes trouble, give me a yell.
+L47205 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Look, Mrs. Dreyfuss, you don't have to wait around. I'll wash the dishes and --
+L47204 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ What did I tell you?
+L47203 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ One napkin, coming up.  I wish we had some champagne to wrap it around.
+L47202 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ You must eat -- and you must get healthy -- and you must forget him. Such a fine boy he seemed when he first moved in here -- clean and cut -- a regular Ivy Leaguer. Turns out he is King Farouk. Mit the drinking -- mit the cha cha -- mit the no napkins. A girl like you, for the rest of your life you want to cry in your noodle soup? Who needs it! You listen to me, you find yourself a nice, substantial man -- a widower maybe -- and settle down -- instead of nashing all those sleeping pills -- for what, for whom? -- for some Good Time Charlie?  Sssh!
+L47200 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ So what are you waiting for -- a singing commercial?
+L47199 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yes, Mrs. Dreyfuss. He starts out with a worried backward glance toward the two. Fran is just sitting there, the spoon in her hand, not touching the soup.
+L47198 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ Beatnik! Go to my kitchen -- third drawer, under the good silver, there is napkins.
+L47197 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, I have some paper towels --
+L47196 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ You wouldn't have such a thing as a napkin, would you?
+L47158 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ Big shot! For you, I wouldn't lift a finger -- but for her, I'll fix a little something to eat.
+L47157 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I didn't really do anything -- honest -- I mean, you take a girl out a couple of times a week -- just for laughs -- and right away she thinks you're serious -- marriage-wise.
+L47156 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ From me the doctor has no secrets. Poor girl -- how could you do a thing like that?
+L47155 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Ma'am?
+L47154 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ Eggs he asks me for. Oranges. What you need is a good horse-whipping.
+L47153 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Mrs. Dreyfuss, can I borrow some coffee -- and maybe an orange and a couple of eggs?
+L46449 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, you don't have to worry about that -- nothing in there that anybody would want to steal...  Good night, Mrs. Dreyfuss.
+L46448 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ Such a racket I heard in your place -- maybe you had burglars.
+L46447 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I seem to have dropped my key.  Oh -- here it is.
+L46446 +++$+++ u3736 +++$+++ m246 +++$+++ MRS. DREYFUSS +++$+++ Something the matter?
+L46445 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh.  Hello there, Mrs. Dreyfuss.
+L46598 +++$+++ u3735 +++$+++ m246 +++$+++ MOFFETT +++$+++ It's a bet.
+L46597 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Shall we say -- a dollar?
+L46596 +++$+++ u3735 +++$+++ m246 +++$+++ MOFFETT +++$+++ I've been here twice as long as you have --
+L46595 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Care to make a small wager?
+L46594 +++$+++ u3735 +++$+++ m246 +++$+++ MOFFETT +++$+++ What gives, Baxter? You getting promoted or getting fired?
+L46593 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh!
+L46592 +++$+++ u3735 +++$+++ m246 +++$+++ MOFFETT +++$+++ She's been trying to reach you for the last twenty minutes. They want you up stairs.
+L46591 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Sheldrake?
+L46590 +++$+++ u3735 +++$+++ m246 +++$+++ MOFFETT +++$+++ All right -- I'll tell him.  Hey, Baxter -- that was Personnel. Mr. Sheldrake's secretary.
+L47607 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Shut up and deal!
+L47606 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Did you hear what I said, Miss Kubelik? I absolutely adore you.
+L47605 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Seven --  -- queen.
+L47604 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I love you, Miss Kubelik.
+L47602 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm going to send him a fruit cake every Christmas.
+L47601 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What about Mr. Sheldrake?
+L47600 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ In there.
+L47599 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That's funny -- so am I.  What did you do with the cards?
+L47598 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Where are you going? BUD Who knows? Another neighborhood -- another town -- another job -- I'm on my own.
+L47596 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Of course not.
+L47595 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Mind if I come in?
+L47594 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm fine all over.
+L47593 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are you sure? How's your knee?
+L47592 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm fine.
+L47591 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are you all right?
+L47520 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Good night, Miss Kubelik.
+L47519 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Good night, Mr. Baxter.
+L47518 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ That's very wise.
+L47517 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No. You know how people talk. So I decided it would be better if we didn't see each other till everything is settled, divorce-wise.
+L47516 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Aren't you meeting Mr. Sheldrake?
+L47515 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh.
+L47514 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No, thank you.  I -- well, to tell you the truth --  -- I have this heavy date for tonight --
+L47513 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes.  You walking to the subway?
+L47512 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ For that matter, you were wrong about me, too. What you said about those who take and those who get took? Well, Mr. Sheldrake wasn't using me -- I was using him. See?  Last month I was at desk 861 on the nineteenth floor -- now I'm on the twenty-seventh floor, paneled office, three windows -- so it all worked out fine -- we're both getting what we want.
+L47511 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I guess so.
+L47510 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I told you all along. You see, you were wrong about Mr. Sheldrake.
+L47509 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I never thought he'd do it.
+L47508 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You mean, leaving his wife? Yeah. I'm very happy for you.
+L47507 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I know.  I suppose you heard about Mr. Sheldrake --?
+L47506 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Nothing's changed. You know, we never finished that gin game --
+L47505 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ How's everything at the apartment?
+L47504 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Fine.
+L47503 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Fine. How's your eye?
+L47502 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, Miss Kubelik. How do you feel?
+L47431 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ So I want you to keep a clear head.
+L47430 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh.
+L47429 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ We're going to finish that gin game.
+L47428 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't?
+L47427 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You don't have to if you don't want to --
+L47426 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ What?
+L47425 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I mean, after that?
+L47424 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ The dishes?
+L47423 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You know what we're going to do after dinner?
+L47422 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Cheers.
+L47421 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Oh, no. Sometimes I have dinner with Ed Sullivan, sometimes with Dinah Shore or Perry Como -- the other night I had dinner with Mae West -- of course, she was much younger then.  Cheers.
+L47420 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You usually eat alone?
+L47419 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You know, I used to live like Robinson Crusoe -- shipwrecked among eight million people. Then one day I saw a footprint in the sand -- and there you were --  It's a wonderful thing -- dinner for two.
+L47418 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Might as well go all the way.
+L47417 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I see you bought some napkins.
+L47416 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's a must -- gracious-living-wise.
+L47415 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Shall I light the candles?
+L47414 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You ought to see my backhand.  And wait till I serve the meatballs. 
+L47413 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Say, you're pretty good with that racquet.
+L47412 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No -- just come as you are.
+L47411 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are we dressing for dinner?
+L47385 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes, nurse.
+L47384 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ So let 'em. Look, I'm going to cook dinner for us. We'll have the fruit cake for dessert. You just sit there and rest. You've done enough for one day.
+L47383 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No, thanks. The fellows in the office may get the wrong idea how I found out.
+L47382 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Of course not. Here's the fruit cake.  And you want to see my knee? 
+L47381 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are you just making that up to make me feel better?
+L47380 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah. Took me a year before I could bend my knee -- but I got over the girl in three weeks. She still lives in Cincinnati, has four kids, gained twenty pounds -- she sends me a fruit cake every Christmas.
+L47379 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That's terrible.
+L47378 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Uh-huh. While I was sitting there, trying to make my mind up, a cop stuck his head in the car, because I was illegally parked -- so I started to hide the gun under the seat and it went off -- pow!
+L47377 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ In the knee?
+L47376 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Here.
+L47375 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Where?
+L47374 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Anyway, I parked the car and loaded the gun -- well, you read in the papers all the time that people shoot themselves, but believe me, it's not that easy -- I mean, how do you do it? -- here, or here, or here --  -- you know where I finally shot myself?
+L47373 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ No, I don't.
+L47372 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Worse than that -- she was the wife of my best friend -- and I was mad for her. But I knew it was hopeless -- so I decided to end it all. I went to a pawnshop and bought a forty-five automatic and drove up to Eden Park -- do you know Cincinnati?
+L47371 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Over a girl?
+L47370 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, maybe not exactly -- I tried to do it with a gun.
+L47369 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You did?
+L47368 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I know how you feel, Miss Kubelik. You think it's the end of the world -- but it's not, really. I went through exactly the same thing myself.
+L47367 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I wonder how long it takes to get someone you're stuck on out of your system? If they'd only invent some kind of a pump for that --
+L47366 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You can't leave yet. The doctor says it takes forty-eight hours to get the stuff out of your system.
+L47365 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I really ought to be getting home. My family will be flipping by now.
+L47364 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I wouldn't say that --  What would you like to have for diner? There's onion soup and canned asparagus --
+L47363 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Some people take, some people get took -- and they know they're getting took -- and there's nothing they can do about it.
+L47362 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ A what?
+L47361 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I know so. He's a taker.
+L47360 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I guess so.
+L47359 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You mean to someone like Mr. Sheldrake.
+L47358 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's just that I'm the kind of guy who can't say no -- I don't mean to girls -- I mean --
+L47357 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes, you are,  When I was straightening up the couch, you know what I found? Six hairpins, a lipstick, a pair of false eyelashes, and a swizzle stick from the Stork Club.
+L47356 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ As a matter of fact, I'm a pretty good cook -- but I'm a lousy housekeeper.
+L47355 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Tennis racquet? Oh, I remember -- I was cooking myself an Italian dinner.  I used it to strain the spaghetti. FRAN  Why not?
+L47353 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, things are a little disorganized around here.
+L47352 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ It's very curious -- I could only find three and a half pair.
+L47351 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Thank you.
+L47350 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I was washing my stockings, so I decided I might as well do your socks.
+L47349 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What are you doing with that?
+L47348 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh.
+L47347 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ In this house, you're supposed to.
+L47346 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Are you supposed to?
+L47345 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You turned it on -- but you didn't light it.
+L47344 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Yes. I was boiling some water to get the coffee stains out of my dress.
+L47343 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Gas.  Didn't you turn it on?
+L47342 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sure.  What's that funny smell?
+L47341 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Are you all right?
+L47326 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I think you should. I have to run down to the grocery anyway -- all that's left around here is one frozen pizza --  I'll be right back -- okay?
+L47325 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't want to talk to him.
+L47324 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ -- Mr. Sheldrake.
+L47323 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ For me?
+L47322 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ There's a call for you --
+L47300 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah. Well -- that's the way it crumbles, cookie-wise. Go to sleep.
+L47299 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why can't I ever fall in love with somebody nice like you?
+L47298 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I would.
+L47297 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Who'd care?
+L47296 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Please, Miss Kubelik, you got to promise me you won't do anything foolish.
+L47295 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ So they'll shoot me -- like a horse.
+L47294 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ It's only one story down -- the best you can do is break a leg.
+L47293 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I just want some fresh air.
+L47292 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Now don't go getting any ideas, Miss Kubelik.
+L47291 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Would you mind opening the window?
+L47290 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Just somebody delivering a bottle of champagne. Like some?
+L47289 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Who was that?
+L47262 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Gin.
+L47261 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Sure.
+L47260 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You sure you want to throw that card?
+L47259 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You bet. I got a terrific hand.
+L47258 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Do I have to?
+L47257 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Pick up your cards and let's go.
+L47256 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't like myself very much anyway.
+L47255 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Well, for one thing, you can't spell. And secondly -- if you did something like that -- you'd hate yourself.
+L47254 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why not?
+L47253 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Miss Kubelik, I don't think that's such a good idea.
+L47252 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ As one woman to another -- I'm sure she'll understand --
+L47251 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You are?
+L47250 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm going to write a letter to Mrs. Sheldrake.
+L47249 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ What for?
+L47248 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Can I have that pad and the pencil?
+L47247 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ No doubt about it.
+L47246 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You really think so?
+L47245 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I'm sure that's the explanation.
+L47244 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Maybe he does love me -- only he doesn't have the nerve to tell his wife.
+L47243 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Mr. Sheldrake? Oh, yes. Very.
+L47242 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Was he really upset when you told him?
+L47241 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You better win a hand -- you're on a blitz.
+L47240 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Oh. I can type up a storm, but I can't spell. So they gave me a pair of white gloves and stuck me in an elevator -- that's how I met Jeff --  Oh, God, I'm so fouled up. What am I going to do now?
+L47239 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Too slow?
+L47238 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ So I came to New York and moved in with my sister and her husband -- he drives a cab. They sent me to secretarial school, and I applied for a job with Consolidated - but I flunked the typing test --
+L47237 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Cut.
+L47236 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Three. The last one was manager of a finance company, back home in Pittsburgh -- they found a little shortage in his accounts, but he asked me to wait for him -- he'll be out in 1965.
+L47235 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I just have this talent for falling in love with the wrong guy in the wrong place at the wrong time. BUD  How many guys were there?
+L47233 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Gin.
+L47232 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I was fifteen -- we used to go there to smoke. His name was George -- he threw me over for a drum majorette.
+L47231 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ A cemetery?
+L47230 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That's me with men. I've been jinxed from the word go -- first time I was ever kissed was in a cemetery.
+L47229 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ A bad insurance risk?
+L47228 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ What do you call it when somebody keeps getting smashed up in automobile accidents?
+L47227 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Pick a card.
+L47226 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I don't want it.
+L47225 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Yeah -- I know what you mean.  Queen.
+L47224 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Why do people have to love people, anyway?
+L47223 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Give what up?
+L47222 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I think I'm going to give it all up.
+L47219 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ You don't have to entertain me.
+L47218 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ I am. Let me get the cards.
+L47217 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ I'm not very good at it.
+L47216 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ You want me to move the television set in here?  You play gin rummy?
+L47214 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ Sure.
+L47213 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ That's right. Will you see that Mr. Sheldrake gets it?
+L47212 +++$+++ u3727 +++$+++ m246 +++$+++ BUD +++$+++ There's nothing here but a hundred dollar bill.
+L47211 +++$+++ u3730 +++$+++ m246 +++$+++ FRAN +++$+++ Open it.

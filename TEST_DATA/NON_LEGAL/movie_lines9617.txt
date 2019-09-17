@@ -1,0 +1,200 @@
+L94635 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Nice of you to offer, Jeffrey, but certainly not. just relax and enjoy your coffee. I'm sure Sandy will be back soon.
+L94634 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Sure thing. please don't worry about me. Can I help you with the dishes?
+L94633 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Please excuse me a moment, Jeffrey, and I'll get to the dishes.
+L94621 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Anyone else?. Alright Jeffrey, just a minute.
+L94620 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ That sounds great!
+L94619 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Here you are. Would anyone like coffee?
+L94244 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Say "goodnight" to Sandy.
+L94243 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Oh, you're welcome. Nice to finally meet you, Jeffrey.
+L94242 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Mrs. Williams? Thanks for the cake.
+L94229 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Yeah.
+L94228 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ He comes over to study.
+L94222 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Yeah. okay.
+L94221 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ It's a real good chocolate cake. Duncan Hines' devil's food. real good.
+L94220 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ No. No thank you.
+L94219 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Would you like a piece of cake?
+L94218 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Yeah, I know.
+L94217 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ I was sorry to hear about your father. I know your mother from church. It's such a shame.
+L94216 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Alright.
+L94215 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Really, he'll be home soon, would you like a cup of coffee?
+L94214 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ I just wanted to ask him a few questions, that's all. Maybe I better go.
+L94213 +++$+++ u4119 +++$+++ m275 +++$+++ MRS. WILLIAMS +++$+++ Oh, yes, Jeffrey. Come in. He'll be back any minute now. You're welcome to wait. Is it urgent?
+L94212 +++$+++ u4115 +++$+++ m275 +++$+++ JEFFREY +++$+++ Hello. uh. my name is Jeffrey Beaumont. Is Detective Williams in?
+L94984 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ ... Stop it Mike.
+L94983 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ Hey come here, you stole my girl, you bastard. I'm gonna kick your ass, right in front of your stupid house.
+L94632 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ Okay.
+L94631 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ Come on out a minute, okay?
+L94630 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ Sure. just a sec.  Excuse me.
+L94629 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ Sandy?. Could I talk to you a minute?
+L94618 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ Mike. We don't have to watch it. Come on.
+L94617 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ I don't know why we have to watch T.V.
+L94616 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ You can change it if you want to.
+L94615 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ What are watchin' this junk for?
+L94226 +++$+++ u4116 +++$+++ m275 +++$+++ MIKE +++$+++ Yeah, nice meetin' yuh.
+L94225 +++$+++ u4121 +++$+++ m275 +++$+++ SANDY +++$+++ Mike's gotta go.  Nice to meet you.
+L95571 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What plane?  We going someplace?  Where we headed?  You have your money.  It's all there.  What the fuck is going on?
+L95570 +++$+++ u4123 +++$+++ m276 +++$+++ ALESSANDRO +++$+++ On the plane.
+L95569 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Where do you guys want to count?
+L95568 +++$+++ u4123 +++$+++ m276 +++$+++ ALESSANDRO +++$+++ Greetings, Mr. George.
+L95541 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Um-hmm.
+L95540 +++$+++ u4123 +++$+++ m276 +++$+++ ALESSANDRO +++$+++ I've been holding this shit for him for three weeks.  You tell Diego I don't appreciate it.  You tell him I want my money by Friday.  Can you do that?
+L95537 +++$+++ u4123 +++$+++ m276 +++$+++ ALESSANDRO +++$+++ Oh, I see.  George.  Well, that explains everything.  Open your mouth, George.
+L95536 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I don't know.  He sent me.  I'm George.
+L95535 +++$+++ u4123 +++$+++ m276 +++$+++ ALESSANDRO +++$+++ QUIET!  Callate!  Where's Diego?
+L95932 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ This is a one time thing, Gusto.  One and I'm out.  Give me a good price for old time's sake.  What do you think?
+L95931 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Ha ha.  That's too much, Georgie.  Those days are over.  The rate is one-thousand dollars.  Inflation, you know?
+L95930 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Five-thousand per kilo.
+L95929 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Alright.  I'll ask Pablo, tell him it's for you.  I don't think there will be a problem.
+L95928 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ No.  I have the space.  I figured it out.  This is what I want to do.
+L95927 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Three-hundred kilos is a very big load, Georgie.  Why don't we start small?
+L95844 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ A toast!  To Mister George Jung.  Mr. I 95, north and south.  My brother-in-law. Happy birthday!
+L95843 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ No honey, I'm alright.
+L95740 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ That's impossible.  We can't be up and running.  Who's distributing?
+L95739 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Yes.  Jack Stevens is already a very busy man.  Along with many others.  You shouldn't stay away so long.
+L95738 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ He what?
+L95737 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ The word is that soon he is to be king of the middle empire.  He is doing multiple runs right now and using the island as a jump-off point.
+L95736 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Motherfucker works fast.
+L95735 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Let us walk.  From what I understand, Diego has bought a hundred and sixty acres, a marina, a hotel, and an airstrip.
+L95734 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What?
+L95733 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Norman Cay is not a person.  He is an island, George.  In the Bahamas.  From what they say, it is free and it's Diego's new home.
+L95661 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ My pleasure, Augusto.  Diego has told me much about you.
+L95660 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Pleased to meet you finally, George.  I am Augusto Oliveras.
+L95764 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Dejen la maricada pues!  No jodan! Nadie va a matar a nadie!  George, debemos hablarle al Patron, es la unica manera, mano.
+L95763 +++$+++ u4141 +++$+++ m276 +++$+++ MIRTHA +++$+++ Mama, vos sos bien antigua.  Como lo va a matar con un picahielo.  Eso era en su tiempo, estamos casi ya en los ochenta. El lo va a meter un tiro, lo va a volar, le va a hechar un hijueputa carro encima.
+L95762 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Blanca, por favor.
+L95748 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ Que queres decir.  Que es lo que el va hacer?  Pues, no va hacer nada.
+L95747 +++$+++ u4141 +++$+++ m276 +++$+++ MIRTHA +++$+++ Que va hacer?
+L95728 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ I don't know.  Drunk somewhere.  Try the bar.  And if you find her, tell her to come, it's almost midnight.
+L95727 +++$+++ u4141 +++$+++ m276 +++$+++ MIRTHA +++$+++ Thanks.  I am.  Where's Martha?
+L95726 +++$+++ u4124 +++$+++ m276 +++$+++ AUGUSTO +++$+++ I'm so glad you two could make it. Mirtha, look at you.  So beautiful.  You look like you're about to burst.
+L95343 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Which brings me to rule number three: which says, fuck rules one and two, skip bail and take off.
+L95342 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ George, I went to the doctor.  I don't have two years.
+L95341 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What?  You're not going to wait for me?
+L95340 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Two years.  George, I can't wait that long.
+L95339 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Lawyer says he can plead it down to five years.  I'll serve two.
+L95338 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ What, and miss all the fun?  C'mon, not a chance.  So, what's the verdict?
+L95337 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Baby, you didn't have to come.
+L95336 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Surprise.
+L95326 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Relax, baby.  We're going to wind up like us.
+L95325 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Promise me that we'll never be like them.  I don't want to wind up like that.
+L95324 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Oh, they weren't that bad.  I mean, they were kind of cute.
+L95323 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Oh my G-d, how embarrassing were they? I wanted to shoot myself.
+L95322 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Nice first impression.  A nose bleed in front of your parents.
+L95321 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ No, not at all.  Sure.  You're right. You fly home and get some rest.
+L95320 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Would you be bummed out if I didn't go to Chicago with you?
+L95319 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I'm taking you to the doctor when we get home, and I don't want to hear any arguments.
+L95318 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ I feel like shit.  Me and my frigging nosebleeds.
+L95317 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Are you sure you're okay?  You're pale.
+L95316 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Okay, guys, we're gonna leave.  Let's get the check.
+L95315 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Yeah, I don't feel so well.
+L95314 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ You wanna split?
+L95311 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Oh my G-d, I'm so sorry.
+L95310 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Honey, your nose!
+L95291 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ We'll take it.
+L95290 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Are you kidding?
+L95289 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Should we buy it?
+L95218 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I'm telling you, Derek, it will sell.
+L95217 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ We're gonna call it California sinsemilla.  Sounds exotic.
+L95192 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yeah.  I am.
+L95191 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You happy, baby?
+L95190 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Just everything.  You.  California.  The beach.  This spot right here.  I feel like I belong here, you know?  It just feels right.
+L95189 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ What is?
+L95188 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ This is it for me.
+L95169 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Derek!
+L95168 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Nothing like this back home.
+L95166 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You'll see for yourself.
+L95165 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Are you sure this guy is cool?
+L95136 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yeah.  I am.
+L95135 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You happy, baby?
+L95134 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Just everything.  You.  California.  The beach.  This spot right here.  I feel like I belong here, you know?  It just feels right.
+L95133 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ What is?
+L95132 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ This is it for me.
+L95113 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Derek!
+L95112 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Nothing like this back home.
+L95110 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You'll see for yourself.
+L95109 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Are you sure this guy is cool?
+L95164 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Look, if you really wanna score some dope, I got the guy.
+L95163 +++$+++ u4144 +++$+++ m276 +++$+++ TUNA +++$+++ Man.  Fuck you guys.  I have this great idea and you guys have to be all skeptical.
+L95162 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You can't sell this to your friends.
+L95159 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ It's garbage.
+L95158 +++$+++ u4144 +++$+++ m276 +++$+++ TUNA +++$+++ I know it's not the greatest.  It's commercial.
+L95157 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Tuna, this is crap.
+L95108 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Look, if you really wanna score some dope, I got the guy.
+L95107 +++$+++ u4144 +++$+++ m276 +++$+++ TUNA +++$+++ Man.  Fuck you guys.  I have this great idea and you guys have to be all skeptical.
+L95106 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ You can't sell this to your friends.
+L95103 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ It's garbage.
+L95102 +++$+++ u4144 +++$+++ m276 +++$+++ TUNA +++$+++ I know it's not the greatest.  It's commercial.
+L95101 +++$+++ u4125 +++$+++ m276 +++$+++ BARBARA +++$+++ Tuna, this is crap.
+L96077 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ So you do have an agreement with the United States Government, Mr. Jung, correct?
+L96076 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I'm doing sixty years at Otisville, no chance of parole.  Even if they cut my sentence in half I'll be seventy-three years old.  That's some fucking deal.  I don't know if the parole board, the judge, the pope or Jesus Christ himself can get me out of here.  I have a really bad record, I'm not sure what's going to happen.
+L96075 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ Mr. Jung, don't you have an agreement or understanding with the United States Government in connection with your testimony in this case?
+L96074 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Excuse me?
+L96073 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ Really.  Are you getting paid, Mr. Jung?
+L96072 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Something about vengance being best served cold.
+L96071 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ Excuse me?
+L96070 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ No, I cam here out of my own volition.
+L96069 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ Do you have any agreement or understanding whatsoever with the United States government in regards to your testimony?
+L96068 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yes, I am.
+L96067 +++$+++ u4126 +++$+++ m276 +++$+++ CALIBANOS +++$+++ Mr. Jung, you're a convicted felon, correct?
+L95659 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Diego needs to see you right away, please.  Excuse us, Amorcito.
+L95658 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Mirtha.
+L95507 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Padrino will pay ten-thousand per kilo. For everyone.  For you, and you, and you.
+L95506 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I see.  How much?
+L95505 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ You.  Your responsibility is over.  You do not fly.  You are not a pilot.  You are not a distributor.  You introduced us to Mr. Stevens and the use of his airplane.  That is all.  You make a percentage.  A generous one.  And you're lucky to get that.
+L95504 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Excuse me?
+L95503 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Why are you speaking?
+L95482 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ You're a fucking amateur!
+L95481 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ The coca is my responsibility!
+L95480 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ It's a lousy fifteen kilos.  I piss fifteen kilos.
+L95479 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ I demand to know everything.  I do not trust six-hundred thousand dollars of coca to someone I don't know.
+L95478 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What are we doing here, Diego?  This guy's a clown.  He's talking about clothes.
+L95477 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ I would like to know the contents. Every detail is important.
+L95476 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ My clothes, your clothes.  What does it matter?
+L95475 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Whose cloths?  Your clothes?
+L95474 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What?  Yeah, sure.
+L95473 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Hmm.  I see.  Will there be clothes in the suitcase?
+L95471 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Tell me about the suitcases.  What is the make and the color?
+L95470 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What details?  I put the coke in the false bottoms and take it through customs.
+L95469 +++$+++ u4127 +++$+++ m276 +++$+++ CESAR +++$+++ Not so fast.  I would like to go over the details.
+L95839 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I know.  She needs to slow down.  She's going to blow an O-ring.
+L95838 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Christ almighty, George.  Feed her a cheeseburger or something.  What does she weight, eighty pounds?
+L95834 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ That was out of line.
+L95833 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ For calling you a homo.
+L95832 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ You?
+L95831 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ It's in the past.  I'm out of the business now, so forget about it.  No hard feelings.  We need to move on.  And besides, I'm sorry, too.
+L95830 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ I lost sight of everything.  Forgot who my friends were.
+L95829 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ I heard.
+L95828 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Look, I'm sorry about everything.  I feel like an idiot.  You were right.  I did fuck you.  And then Diego fucked me. Cut me out, too.
+L95827 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yeah.  She told me.
+L95826 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Happy Birthday, George.  Mirtha invited me.
+L95745 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yeah.  I understand.  Just business. Right.  Fuck you.
+L95744 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ It's nothing personal, George.  Just business.
+L95567 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Not bad for a weekend's work, huh?
+L95566 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Nice doing business with you, George.
+L95565 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Half a million for you.  Half a million for me.  One-point-three five for the Colombians.
+L95557 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Sell it?
+L95556 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ It's great and everything, but what am I going to do with all this?
+L95555 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What did I tell you?
+L95285 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Don't be ridiculous, these are my babies.
+L95284 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Are you sure you want to do this in front of everyone?
+L95253 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ You guys are such babies.  You want to go home, go.  Me, I'm not going to stop until I find the fucking motherlode.
+L95252 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ I don't think so.
+L95226 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Barbara and me.  No one else.
+L95225 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ And I only deal with you?
+L95224 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Goodness is right.  If you do the math, that's over thirty grand a week profit. I want you to be my partner on this, Derek.  Fifty-fifty.  That's fifteen thousand a week for you, my friend.  In your pocket, free and clear.
+L95223 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Goodness.
+L95222 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ It's already been negotiated.  It's done.  The money is there waiting.
+L95221 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Come on, George, no one is going to pay that.
+L95220 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Here's the best part.  We can charge five-hundred a pound.
+L95219 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ I don't know...
+L95216 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ Yeah, I know, it's a lot of weight.
+L95215 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ You're kidding, right?  That's a hundred pounds a week.
+L95214 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ The way we figure it, Barbara flies to Boston twice a week.  Two bags per flight.  Twenty-five pounds in each bag.
+L95184 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ It's your grass.
+L95183 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ What the fuck is that?
+L95182 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ I guess not.  Okay.  You know, you're very lucky you're friends of Barbie's. If you weren't, I'd never talk to you.
+L95181 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ We're not cops.  We're from Massachusettes.  I mean, does he look like a cop?
+L95180 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ Because if you are, you have to tell me. If not, it's entrapment.
+L95179 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ No.
+L95178 +++$+++ u4128 +++$+++ m276 +++$+++ DEREK +++$+++ I know what you want.  But, first of all, are you cops?
+L95177 +++$+++ u4136 +++$+++ m276 +++$+++ GEORGE +++$+++ We want some grass.

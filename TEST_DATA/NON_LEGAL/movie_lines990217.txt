@@ -1,0 +1,200 @@
+L451497 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Naturally, you must expect me to attack with Capo Ferro.
+L451496 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ I thought it fitting, considering the rocky terrain --
+L451494 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Begin!
+L451493 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You seem a decent fellow. I hate to die.
+L451492 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You seem a decent fellow. I hate to kill you.
+L451491 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Whether I am or not, you've been more than fair. ---------------------------------------------------------------------------                                                           30.
+L451490 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You are ready, then?
+L451489 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Well, I certainly hope you find him, someday.
+L451488 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ More pursuit than study lately. You see, I cannot find him. It's been twenty years now. I am starting to lose confidence. I just work for Vizzini to pay the bills. There's not a lot of money in revenge.
+L451487 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You've done nothing but study swordplay?
+L451486 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I was eleven years old. When I was strong enough, I dedicated my life to the study of fencing. So the next time we meet, I will not fail. I will go up to the sixfingered man and say, "Hello, my name is Inigo Montoya. You killed my father. Prepare to die."
+L451485 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ How old were you?
+L451481 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ My father was slaughtered by a sixfingered man. He was a great swordmaker, my father. And when the six-fingered man appeared and requested a special sword, my father took the job. He slaved a year before he was done.
+L451480 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Do you always begin conversations this way?
+L451478 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Again. Thank you.
+L451477 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ We'll wait until you're ready.
+L451473 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Nothing comes to mind.
+L451472 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You don't know any way you'll trust me?
+L451471 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ No good. I've known too many Spaniards.
+L451470 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I hate waiting. I could give you my word as a Spaniard.
+L451469 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ That's very comforting. But I'm afraid you'll just have to wait.
+L451468 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ But I promise I will not kill you until you reach the top.
+L451467 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ That does put a damper on our relationship.
+L451466 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I could do that. In fact, I've got some rope up here. But I do not think that you will accept my help, since I am only waiting around to kill you.
+L451465 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ If you're in such a hurry, you could lower a rope, or a tree branch, or find something useful to do. ---------------------------------------------------------------------------                                                           26.
+L451464 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I do not suppose you could speed things up?
+L451463 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Thank you.
+L451462 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Sorry.
+L451461 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Look, I don't mean to be rude, but this is not as easy as it looks. So I'd appreciate it if you wouldn't distract me.
+L451460 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Slow going?
+L451455 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Oh, have it your way.
+L451454 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Well, it's the only way I can be satisfied. If I use my right -- tch -- over too quickly.
+L451453 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You know what a hurry we're in.
+L451452 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I want to duel him left-handed.
+L451450 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You keep using that word -- I do not think it means what you think it means.  My God! He's climbing.
+L451449 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ He didn't fall? Inconceivable!!
+L451438 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Inconceivable!
+L451437 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ He's climbing the rope. And he's gaining on us.
+L451435 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Whoever he is, he's too late --  -- see?  The Cliffs of Insanity. ---------------------------------------------------------------------------                                                           19.
+L451434 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Look! He's right on top of us. I wonder if he is using the same wind we are using.
+L451411 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ I don't swim. ---------------------------------------------------------------------------                                                           15.
+L451410 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Go in, get after her!
+L451408 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ What?
+L451407 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ No reason. It's only, I just happened to look behind us, and something is there.
+L451406 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ As I told you, it would be absolutely, totally, and in all other ways, inconceivable. No one in Guilder knows what we've done. And no one in Florin could have gotten here so fast. Out of curiosity, why do you ask?
+L451405 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ You're sure nobody's following us?
+L451404 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Stop doing that. We can all relax, it's almost over-
+L451401 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ That would be inconceivable.
+L451400 +++$+++ u7148 +++$+++ m480 +++$+++ INIGO +++$+++ Making sure nobody's following us.
+L451601 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You only think I guessed wrong --  -- that's what's so funny! I switched glasses when your back was turned. You fool.
+L451600 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You guessed wrong.
+L451599 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I'll tell you in a minute. First, let's drink -- me from my glass, and you from yours.
+L451598 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ What's so funny?
+L451593 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I will. And I choose --
+L451592 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Then make your choice.
+L451591 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ It has worked -- you've given everything away -- I know where the poison is.
+L451590 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're trying to trick me into giving away something -- it won't work --
+L451589 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ You'd like to think that, wouldn't you?  You've beaten my giant, which means you're exceptionally strong. So, you could have put the poison in your own goblet, trusting on your strength to save you. So I can clearly not choose the wine in front of you. But, you've also bested my Spaniard which means you must have studied. And in studying, you must have learned that man is mortal so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me.
+L451588 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're just stalling now.
+L451587 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Yes -- Australia, and you must have suspected I would have known the powder's origin, so I can clearly not choose the wine in front of me. ---------------------------------------------------------------------------                                                           46.
+L451586 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Australia.
+L451585 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Wait till I get going! Where was I?
+L451584 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Truly, you have a dizzying intellect.
+L451583 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Not remotely. Because iocane comes from Australia, as everyone knows. And Australia is entirely peopled with criminals. And criminals are used to having people not trust them, as you are not trusted by me. So I can clearly not choose the wine in front of you.
+L451582 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You've made your decision then7
+L451581 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Now, a clever man would put the poison into his own goblet, because he would know that only a great fool would reach for what he was given. I'm not a great fool, so I can clearly not choose the wine in front of you. But you must have known I was not a great fool; you would have counted on it, so I can clearly not choose the wine in front of me.
+L451578 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Hmm.
+L451577 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ What you do not smell is called iocane powder. It is odorless, tasteless, dissolves instantly in liquid, and is among the more deadlier poisons known to man.
+L451576 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I smell nothing.
+L451575 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Inhale this, but do not touch.
+L451574 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Good. Then pour the wine.
+L451573 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I accept.
+L451571 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ For the Princess?
+L451570 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Really? In that case, I challenge you to a battle of wits.
+L451569 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Morons.
+L451568 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Yes.
+L451567 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ Let me put it this way: have you ever heard of Plato, Aristotle, Socrates?
+L451566 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ You're that smart?
+L451565 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ I'm afraid so -- I can't compete with you physically. And you're no match for my brains.
+L451564 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ But if there can be no arrangement, then we are at an impasse.
+L451563 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ There will be no arrangement --  -- and you're killing her!
+L451562 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Perhaps an arrangement can be reached.
+L451561 +++$+++ u7155 +++$+++ m480 +++$+++ VIZZINI +++$+++ -- there's nothing to explain. You're trying to kidnap what I've rightfully stolen. ---------------------------------------------------------------------------                                                           43.
+L451560 +++$+++ u7149 +++$+++ m480 +++$+++ MAN IN BLACK +++$+++ Let me explain-
+L451922 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Bye.
+L451921 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ It would take a miracle. Bye!
+L451920 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Think it'll work?
+L451919 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Have fun storming the castle.
+L451918 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Bye-bye, boys.
+L451915 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ A good hour. Yeah.
+L451914 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Yeah, an hour.
+L451913 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ An hour.
+L451912 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ The chocolate coating makes it go down easier. But you have to wait fifteen minutes for full potency. And you shouldn't go swimming after, for at least, what?
+L451905 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ Humperdinck. Humperdinck! Humperdinck!
+L451904 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Nobody's hearing nothing!
+L451903 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ A life expiring and you don't have the decency to say why you won't help --
+L451902 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ I'm not listening.
+L451901 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ What, Humperdinck? Humperdinck. Humperdinck. Ooo-ooo, Humperdinck
+L451900 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Why'd you say that name -- you promised me that you would never say that name --
+L451899 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ He's afraid. Ever since Prince Humperdinck fired him, his confidence is shattered.
+L451898 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ Don't say another word, Valerie.
+L451897 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ "True love." He said, "true love," Max. My God --
+L451896 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ You never had it so good. ---------------------------------------------------------------------------                                                           95.
+L451895 +++$+++ u7154 +++$+++ m480 +++$+++ VALERIE +++$+++ I'm not a witch, I'm your wife. But after what you just said, I'm not even sure I want to be that anymore.
+L451894 +++$+++ u7150 +++$+++ m480 +++$+++ MIRACLE MAX +++$+++ -- get back, witch --
+L451319 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Maybe he won't.
+L451318 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ He'll pinch my cheek. I hate that.
+L451317 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ You are sick, that's why he's here.
+L451316 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ Mom, can't you tell him that I'm sick?
+L451315 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Your grandfather's here.
+L451314 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ What?
+L451313 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ Guess what.
+L451312 +++$+++ u7153 +++$+++ m480 +++$+++ THE KID +++$+++ A little bit.
+L451311 +++$+++ u7151 +++$+++ m480 +++$+++ MOTHER +++$+++ You feeling any better?
+L452745 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Let's hear him.  What have we got to lose?  What's your name?
+L452744 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ What are you saying?
+L452743 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Wait!  This is Boomerang.  This is Boomerang.
+L452690 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ Get on the phone.  Send out a casting call.  Call every agent in town.  I want to see everybody. Everybody.
+L452689 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Congratulations.
+L452688 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ Wait a minute.  This is a very big decision.  It might effect the course of my entire life.  I'll have to think about it.  I'll do it.
+L452687 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ That's genius.  That's genius. Roger, I think I speak for Mr. Bloom and myself when I say that you're the only man in the world who can do justice to SPRINGTIME FOR HITLER.
+L452686 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ Yes.  Dopey show-girls in gooey gowns.  Two-three-kick-turn!  Turn- turn-kick-turn!  It's enough to make you throw up!  At last a chance to do straight drama!  To deal with conflict, with inner truth.  Roger De Bris presents history.  Of course, I think we should add a little music.  That whole third act has got to go. They're losing the war.  It's too depressing.  We'll have to put something in there.  Aaahghhh!  I see it!  A line of beautiful girls, dressed as Storm Troopers, black patent leather boots, all marching together... Two-three-kick-turn!  Turn-turn- kick-turn!
+L452685 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ I think this would be a marvelous opportunity for you, Roger.  Up to now, you've always been associated with musicals, and...
+L452684 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ Please, please, that's what we're here for.  Be careful, that hurt.
+L452683 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Roger, do you mind if we talk a little business?
+L452682 +++$+++ u7162 +++$+++ m481 +++$+++ DE BRIS +++$+++ How would you like to go back to teasing hair, big mouth?
+L452864 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ "Keep a shining in...
+L452863 +++$+++ u7161 +++$+++ m481 +++$+++ BLOOM AND DRUNK +++$+++ "Honeymoon, honeymoon,
+L452862 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ "Honeymoon,
+L452861 +++$+++ u7161 +++$+++ m481 +++$+++ BLOOM AND DRUNK +++$+++ "He's gonna croon love's tune,
+L452860 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ "To my honey I'll croon,
+L452859 +++$+++ u7161 +++$+++ m481 +++$+++ BLOOM AND DRUNK +++$+++ "He wants to croon, he wants to croon,
+L452858 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ "I want to croon,
+L452857 +++$+++ u7161 +++$+++ m481 +++$+++ BLOOM AND DRUNK +++$+++ "Of the silvery mooooon,
+L452856 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ "Of the silvery moon,
+L452855 +++$+++ u7161 +++$+++ m481 +++$+++ BLOOM AND DRUNK +++$+++ "By the light, by the light,
+L453114 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ He's a liar and a cheat and a scoundrel.  He's taken money from little old ladies.  He's talked people into doing things they never would have dreamed of.  Especially me.  But who has he really hurt? 
+L453113 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Don't help me.
+L453046 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Ahhhhhh.  Leo, Leo, Leo.
+L453045 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Well, I... Well, it's just that... I'm sorry I called you fat, fat, fat.
+L453044 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ What is it?
+L453043 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Max, I...
+L453015 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ What are you doing?  We're trapped. It's either the show or us.  There's no way out.  What can we do, blow up the theatre?
+L453014 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Liebkind, no!
+L453013 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ They are?  Have you ever eaten with one?  Liebkind, go!  Kill!
+L453008 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Shut up.
+L453007 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ What???
+L453006 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Here.  Buy bullets.  Kill.  Kill them all!
+L452964 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Double.  Double.  Double.
+L452963 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Ohhhhhhhhh, how I hate you.
+L452962 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ I never should have listened to you.
+L452957 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ I'm turning myself in.  It's the only way.  I'm going to cooperate with the authorities.  They'll reduce my sentence and then there's time off for good behavior.  And maybe I'll get a job in the prison library.  So long.
+L452956 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ What are you doing with those books? Where are you going?
+L452894 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ The majority.  The majority.  Yes. Let's hear from the majority.
+L452893 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Why don't we go over to the theatre and see what's really happening? After all, we've only heard from a small portion of the audience. Let's hear what the majority thinks.
+L452892 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ No way out.  No way out.  What?  Who?
+L452891 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Bloom, Bloom, maybe it's not true.
+L452890 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ No way out.  No way out.
+L452889 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Maybe it's not true!
+L452838 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ To failure!
+L452837 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ To failure!
+L452788 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Watch closely, as Bialystock drives the last nail into the coffin.
+L452787 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Here comes the Times Drama Critic.
+L452786 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ So much for Nutsy Fagin.
+L452670 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ It's gorgeous.  Absolutely gorgeous. You couldn't have picked a better color.  It brings out your eyes. Let's face it, Roger, that dress is you.
+L452669 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Well, it's... uh... it's nice and long... I mean, it's... uh... uh... where do you keep your wallet?
+L452628 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Only if we ask him.
+L452627 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Do you think he'll take the job?
+L452626 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Roger De Bris is the worst director that ever lived.
+L452625 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Roger De Bris.  Roger De Bris.  Oh yes, the director.  Is he good... I mean bad?
+L452624 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Stop talking like that, you white mouse!  Nothing's going to go wrong. As a matter of fact, today I have taken steps to insure total disaster. At two o'clock we have an appointment with none other than Roger De Bris.
+L452623 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ But if something should... God forbid... go wrong, at least we could give them some of their money back.  It would look better in court.
+L452622 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Why?  Take it when you can get it! Flaunt it, baby, flaunt it!
+L452621 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Max, as I was saying, maybe we should go easy on the spending.  I mean these offices and everything.
+L452605 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ I'll show you.  Ulla, go to work.
+L452604 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ What is she gonna do here?
+L452603 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ They'll say, "Oooh, wah, wah, wah, ooh, ooh."
+L452602 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ How do you do.  Have you gone mad?  A receptionist that can't speak English.  What will people say?
+L452594 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ I'm going to buy a toy.  I worked very, very hard and I think I deserve a toy.
+L452593 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ What are you doing?
+L452588 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ OI.  I'm depressed.  Leo, do me a favor.  Open the safe.  I want to see the money.
+L452587 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Then the Department of Justice owns 100% of Bialystock and Bloom.
+L452586 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Leo, what if this play is a hit?
+L452585 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Mrs. Alma Wentworth.  She owns 100% of the profits.
+L452584 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Mrs. Virginia Resnick.  She also owns 50% of the profits.
+L452583 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Mrs. Eleanor Biddlecombe.  She also owns 50% of the profits.
+L452534 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Okay, take it off, take it off.
+L452533 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Look, I'm just not wearing this arm band.  I don't care how big the deal is.
+L452532 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ There it is... in red and white! "Springtime For Hitler," signed, sealed and delivered.  What's the matter with you?
+L452495 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Shut up, you idiot.  He's a harmless nut.  Play along with him.  It's almost in the bag.
+L452494 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Max, I don't want to take any Siegfried Oath.  I don't know what it is, but I don't want to take it. We might end up in the German Army.
+L452434 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Who wrote it?
+L452433 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ Run a week?  Are you kidding?  This play has got to close in the first act.
+L452432 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ It won't run a week!
+L452426 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ A flop, ha!  That's putting it mildly.  A disaster!  A catastrophe! An outrage!  A guaranteed-to-close- in-one-night beauty!
+L452425 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ You found a flop!
+L452424 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ I'll tell you what's happening. We've struck gold.  Not fool's gold, but real gold.  The mother lode.  The mother lode.  The mother of them all.
+L452423 +++$+++ u7160 +++$+++ m481 +++$+++ BLOOM +++$+++ Max, what is it?  What are you doing?  What's happening?
+L452422 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ You can't feel it when it's in your hand, when it's in your pocket.
+L452403 +++$+++ u7158 +++$+++ m481 +++$+++ BIALYSTOCK +++$+++ This is where we belong, Leo.  On top of the world.  Top of the world!

@@ -1,0 +1,200 @@
+L108824 +++$+++ u4224 +++$+++ m282 +++$+++ OPERATOR/PHONE +++$+++ -- sir? --
+L108823 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ D'accord...  Merci.  Un moment -- un moment --
+L108822 +++$+++ u4224 +++$+++ m282 +++$+++ OPERATOR/PHONE +++$+++ One moment, please...  I'm afraid, I have no one by that name registered, sir.
+L108821 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yes, I'm...I'm looking for Mr. Jason Bourne.
+L108820 +++$+++ u4224 +++$+++ m282 +++$+++ OPERATOR/PHONE +++$+++ Yes, sir...  How can I help you?
+L108819 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Paris?
+L108818 +++$+++ u4224 +++$+++ m282 +++$+++ OPERATOR/PHONE +++$+++ 
+L108817 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ ...yes -- oui -- uh...
+L108843 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ I think not...  No, I'm sorry.  It was very sudden. He was here very briefly.
+L108842 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Do you -- his brother -- do you have a phone number?
+L108841 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ It's very bad this.  Terrible sad. Such a young man.
+L108840 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Right.  Yes.  Of course.
+L108839 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ His brother.  You know his brother?
+L108838 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Who?  Who came?
+L108837 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ ...we actually, we were unaware for several days that this had happened. When they came for his things, it was made known for us, you see?
+L108836 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ ...I understand...
+L108835 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ There was an accident.  On the motorway.  Apparently, he was killed instantly.  Really, I'm terrible sorry to be the one to tell you this...
+L108834 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ I have some very bad news for you, sir.  I'm terrible sorry to have to tell you this, but Monsieur Kane has passed away almost two weeks ago...
+L108833 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yes.
+L108832 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ You are a friend of his?
+L108831 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yes.  Is he there?
+L108830 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ You call about Monsieur Kane?  John Michael Kane?
+L108829 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yes, I'm here...
+L108828 +++$+++ u4221 +++$+++ m282 +++$+++ MANAGER/PHONE +++$+++ Bonjour?  Monsieur?  Allo...
+L108958 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ That'd be great.
+L108957 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Let me get you a new copy of the proposal.
+L108956 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I hadn't heard.
+L108955 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ We also thought we hadn't heard from you -- we've had a bit of a publicity nightmare, people have been talking.  Our offices were broken into -- vandalism mostly -- shortly after we last spoke.
+L108954 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Excuse me?
+L108953 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Was it the break-in?
+L108952 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Okay.
+L108951 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ We just picked up a job quite like the one we were bidding for you. Gorgeous boat, hundred-and-seventy- five-foot pleasure cruiser.  I think we learned a few things that might allow us to make our proposal for your job, as I said, a bit more competitive.
+L108950 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yes.
+L108949 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Look, our bid -- it was competitive -- but definitely at the high end of competitive -- when we didn't hear back from you, we did some re-analysis of the numbers, and honestly, we'd really like a chance to do a bit better.  I'm assuming you're still in the market.  It's the same vessel?
+L108948 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Well, I mean it's a tough business, isn't it?  Cutthroat.
+L108947 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Did you?
+L108946 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ We thought you were gone for good.
+L108945 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Really.
+L108944 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Well...  I must admit, when my assistant told me you were here I was, really -- I was quite -- I was surprised.
+L108943 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Thanks.
+L108942 +++$+++ u4226 +++$+++ m282 +++$+++ RAWLINS +++$+++ Mr. Kane...  Come right in...please...have a seat.
+L109145 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Not really.
+L109144 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You have ID?
+L109143 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Think I could rent a scooter?
+L109142 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Yes.
+L109141 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ This your store?
+L109140 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Can I help you?
+L109114 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I'm gonna find the end of this.  I can't protect you.
+L109113 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What about you?
+L109112 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I can't protect you anymore.
+L109111 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What was I thinking, right?
+L109110 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ If you're lucky.  Take it.  There's enough in there to make a life.  Any life.  Just get out now. Get low.  Stay low.  <u>Take it</u>.
+L109109 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ And that's it?
+L109083 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109082 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109081 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109080 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109079 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109078 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109074 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109073 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109071 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109070 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109069 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ We have to keep moving.
+L109068 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Who is it?
+L109065 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109064 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109063 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I won't let that happen.
+L109062 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109061 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx
+L109047 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What?
+L109046 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Stop where you are.
+L109045 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ xxxxxx
+L109044 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ xxxxxx.
+L109041 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Yes.  That's who I want to be.
+L109040 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ You could do that?
+L109039 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ It doesn't matter who you were before.  It's who you want to be. That's all that matters.  We have this money.  We have what we have.  I had nothing before and now, I don't know, maybe I have more, maybe it's nothing, but...  I say we leave here.  We leave this place.  We go until we can't go anymore.
+L108993 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Go back to the hotel.
+L108992 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ <u>So what are we doing</u>?
+L108991 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't know. 
+L108990 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What does that mean?  Jason, what does that mean?  Jason, please...who is he?
+L108989 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ It's a name.  Mr. Wombosi owns a thirty million dollar yacht.  He's the proud owner of an Alliance Security package.  He also paid a visit to the morgue to see John Michael Kane. 
+L108988 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What is that?
+L108987 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Nykwana Wombosi. 
+L108986 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- I don't know what you're doing and you're scaring me -- what are you looking for? -- what just happened in there? --
+L108960 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Let's go --  We got to get away from this phone.
+L108959 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I found it.  It took six calls.  I found Kane.  I found the body.
+L108919 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ It's a company... MPG Capital.
+L108918 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Who paid the bill?
+L108917 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You stayed there five times in the past six months.  But I didn't have time -- I could only get the bill from the last stay -- you were there for two days.  Some room service -- there's half a dozen phone calls here so that's someth--
+L108893 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't know what happened!  I don't know who he is!  I don't know what he wants!  I don't even know who I am!  The only thing I know is that if I stay here, I'm never gonna find out!
+L108892 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- we'll tell them what happened --
+L108891 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- forget it --
+L108890 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- there's two of us -- we'll tell them -- we'll just --
+L108889 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- how? --
+L108888 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- we'll explain it --
+L108887 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- there's no time --
+L108886 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ But the police --
+L108885 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ You stay -- if you want, you stay -- it's okay -- it's better -- maybe it's better -- I don't know --  But I can't stay here.  <u>I can't</u>.
+L108884 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Oh, Jesus...
+L108883 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ And where is he now?  You believe what you want, but I'm telling you the truth -- I never would have brought you here if I thought it was dangerous.
+L108882 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ He had my picture!  He knew I was here!  He came here to kill us!
+L108881 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I didn't know this would happen.
+L108880 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I don't trust anybody and I trusted you!
+L108879 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ You're wrong.  I didn't know.
+L108878 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I trusted you.
+L108877 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ No.
+L108876 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You knew he was coming.
+L108875 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- we can go -- I can get us out of here -- but we have to go now --
+L108874 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ He came to kill us.
+L108873 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- we can't stay here -- I can't stay here -- it's not safe here --
+L108872 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ He went out the window -- why? -- why would someone do that?
+L108871 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Marie -- look at me -- there's no time for this --
+L108870 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ He's dead isn't he?
+L108866 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- do what? -- what are you doing? -- he's got my picture --  -- he's -- my God -- look at him -- he's bleeding to death -- my picture -- look! -- he was trying to kill us! -- omigod --
+L108865 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- let me do this, okay? --
+L108864 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- he's got my picture! -- this is yesterday! -- this is me! --  -- where did you get my picture? --
+L108863 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Marie, just --  -- just stay there! -- just --
+L108862 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- where does this come from? --  How do you have my picture?
+L108861 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- just --
+L108860 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ ...this is my picture... he's got my picture --  -- this is me -- this is Zurich -- this...this...this is yesterday --
+L108859 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ What? -- what? --  -- what is it?
+L108858 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ ...omigod, no...
+L108857 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ WHY ARE YOU TRYING TO KILL ME?
+L108854 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Open it --  -- do it -- what's he got in there?
+L108853 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- what're you doing? -- Jason, please, tell me what's happening!
+L108850 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- quiet -- <u>quiet</u> --
+L108849 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- please -- Jason -- omigod --
+L108848 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- no -- Marie -- <u>no</u>! -- it's not like that --
+L108814 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Go ahead.
+L108813 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ See.  It's starting to come back, yeah?  You mind if I take a bath?
+L108812 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ All this stuff -- it's all about boats.  I think I'm in the shipping business.
+L108811 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ This is your office?  God, you live like a monk...
+L108809 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I guess so.
+L108808 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ This is like a real apartment.  This is really yours?
+L108799 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ How could I forget about you?  You're the only person I know.
+L108798 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Nah...  With you, I mean, you'd probably just forget about me, right?
+L108797 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Look, you could come up.  Or you could wait if you want.  I could go check it out.  You could wait.
+L108796 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You got me pretty fucking curious.
+L108795 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Look, I don't know what's up there.
+L108794 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Anytime.
+L108793 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Thanks for the ride.
+L108792 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Okay, so...
+L108790 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Jason...
+L108789 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't remember any of this.
+L108788 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I should go.
+L108787 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I guess.
+L108786 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ So this is it, right?
+L108785 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Yeah.  Pull in here.  Park it.
+L108784 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Where?
+L108783 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ No.  No.  Go around.  Keep going...
+L108782 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Looks familiar?
+L108781 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Four-fifty.  That's the address...
+L108780 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ That's it?  Is that it?
+L108779 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Slow down.  No, don't stop.  Just...
+L108764 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I thought about it.  I don't know.
+L108763 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You ever think maybe you have a family?
+L108762 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I dream I'm asleep.  I dream that I'm asleep and I can't wake up.  I don't think I smoke.
+L108761 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You were tired.  Here...  For twenty-thousand I like to throw in breakfast.  So what do you dream about?
+L108760 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I can't believe I slept.
+L108759 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ We're about an hour away.
+L108758 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Where are we?
+L108757 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I needed a break.
+L108742 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ You're paranoid.  You were shot. It's natural.
+L108741 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Why do I? -- I come in here -- instinctively -- first thing I do -- I'm looking for the exit -- I'm catching the sightlines -- I know I can't sit with my back to the door --
+L108740 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ People do amazing things when they're scared.
+L108739 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I fought my way out of an embassy. I climbed down a fifty-foot wall -- I went out the window and I was doing it -- I just did it.  I knew how to do it.
+L108738 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Lots of people have guns.  You're American.  Americans love guns.
+L108737 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ There was a gun.  Who has a safe deposit box with a gun and all this money and all these passports?
+L108736 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Okay, so you're a victim.
+L108735 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I was shot twice in the back.
+L108734 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Sounds like you were in an accident or something.
+L108733 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't know.
+L108732 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What are you talking about?
+L108731 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ -- which was okay for a while, I was okay with it...  But then -- there's all these other things -- all these other things I know how to do -- and this -- this stuff from the bank and...  I think something bad happened.
+L108730 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ -- you could put it together --
+L108729 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I kept trying things, I thought if I could find all the things I could do, I could --
+L108728 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Well, this is great.  I'm sick of myself and you have no idea who you are.
+L108727 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Nothing.  It's just not there.
+L108726 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ When you think of it, before the ship -- before you wake up on the ship, what do you see?
+L108725 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ No.
+L108724 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ And you have no idea -- not a clue -- what came before that?
+L108719 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ 
+L108718 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ That's what I'm saying.
+L108717 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Amnesia?  You're saying you don't remember anything that happened before two weeks ago?
+L108716 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Look, go ahead...put the radio on...
+L108715 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What?  Like amnesia?
+L108714 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ No.  No, I mean, I really don't know who I am.  I can't remember anything earlier than two weeks ago.  I'm serious.
+L108713 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Yeah, well, welcome to the club.
+L108712 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't know.  I don't know who I am.
+L108711 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Who pays twenty thousand dollars for a ride to Paris?
+L108710 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Listen to what you want.
+L108709 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ What does that mean?
+L108708 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I don't know.
+L108707 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ I don't know.  Smile.  Sneeze. Something.  You've got a bag full of money and a ride to Paris.  Fuck it, I don't know...  What kind of music do you like?
+L108706 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I'm sorry.  Really.  What do you want me to do?
+L108705 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Shit --  Can I tell you how much you're freaking me out?  Okay?  Because you are -- you're completely freaking me out.
+L108704 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ I know that.
+L108703 +++$+++ u4222 +++$+++ m282 +++$+++ MARIE +++$+++ Just so you know, if you're gonna burn me on the money, you might as well kill me.  I was supposed to have this car back three days ago.  It's not my car.
+L108701 +++$+++ u4216 +++$+++ m282 +++$+++ BOURNE +++$+++ Then I'll find another ride.

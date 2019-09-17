@@ -1,0 +1,200 @@
+L152393 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I really liked you too, Talby. Hey, some debris from the ship! It's coming right by me.
+L152392 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Before we get too far away, and our signals start to fade, I just wanted to tell you... you were my favorite. I really liked you, Doolittle.
+L152391 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Yeah?
+L152390 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I'm going into them, I'm going to hit them. Doolittle...
+L152389 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ No kidding?
+L152388 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ It is, Doolittle, it's the Phoenix! They glow with all the colors of the rainbow, just like everybody said.
+L152387 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Phoenix?
+L152386 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Doolittle... I think it's the Phoenix Asteroids!
+L152385 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Oh yeah?
+L152383 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Guess you're right.
+L152382 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ When you fall, Doolittle, if there's anyone down there on the planet, somebody may see you. They may see you coming down. What a beautiful way to die... as a falling star...
+L152381 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Looks like I'm headed for the planet, Talby. Going right toward it.
+L152378 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Bomb must have gone off inside the ship. Nothing we can do about it now. Hey, it looks like... the skipper. He made it. Commander Powell made it!
+L152377 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ What happened, Doolittle?
+L152376 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Here I am. I think I'm spinning... We're both falling, Talby, in opposite directions, away from each other. My -- my jetpack's gone.
+L152375 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Doolittle, Doolittle, where are you?
+L152363 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Calm down, Talby. I'm coming.
+L152362 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Doolittle! Help me.
+L152191 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Well, I'm in the Emergency Air Lock and --
+L152190 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Not now!
+L152189 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Ah, well, I think I've found the malfunction, sir. I'm in the Emergency Air Lock...
+L152188 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Sh, Talby, don't bother me now.
+L152187 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Ah, Lieutenant Doolittle? Sir?
+L152173 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Sounds good, Talby. Let me know if anything important comes up.
+L152172 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Sorry to interrupt your lunch, sir, but I'm in the Computer Room, and I think I've located the malfunction. The scanner shows it to be some sort of fault in the communications laser, down by the Emergency Air Lock. Can't pinpoint it exactly, but I'm going down there with a starsuit and try to find it.
+L152171 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Yes, Talby, what is it?
+L152170 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Lieutenant Doolittle, this is Talby. Lieutenant?
+L152156 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I wish I had my board with me now. Even if I could only polish it once in awhile.
+L152155 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I really think I should try and locate it immediately. Might be something important.
+L152154 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Don't worry about it. We'll find out when it goes bad.
+L152153 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Ah, Doolittle, I do have a malfunction on this readout, but I can't seem to pinpoint exactly where it is.
+L152152 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I guess I miss the waves and my board most of all.
+L152151 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ ...Somewhere in the autonomic relay circuits...
+L152150 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Waves would be peaking really high and glassy. Hit that water. Ridin' the wall just perfect.
+L152149 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I can't seem to locate the malfunction exactly...
+L152148 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ The waves at Malibu and Zuma were fantastic in the springs Talby. I can remember running out on the beach early spring mornings with my board and a wet suit...
+L152147 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Lieutenant Doolittle, I'm getting a definite malfunction on one of the closed-circuit computer systems...
+L152146 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I can't talk to the others, but with time to myself, I think about back home, back home at Malibu. I used to surf a lot, Talby. I used to be a great surfer.
+L152145 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I think I'm getting a malfunction here somewhere.
+L152144 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ It's funny, but I kind of sit around, you know, a lot of time to myself...
+L152143 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I'm getting something here, on this readout...
+L152142 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ You know what I think about, Talby?
+L152141 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ They are a body of asteroids that make a complete circuit of the universe once every 12.3 trillion years. The Phoenix Asteroids... From what I've heard, Doolittle, they glow... glow with all the colors of the rainbow. Nobody knows why. They just glow as they drift around the universe. Imagine all the sights they've seen in the time they've been travelling -- the birth and death of stars, things we'll never see. The universe is alive, Doolittle. I thought it was all empty, but it isn't. In between the stars, it's seething with light and gasses and dust. There are little pebbles drifting around, planets no one on Earth has ever seen... No one but the Phoenix Asteroids...
+L152140 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Phoenix Asteroids? Never heard of 'em.
+L152139 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ You know, Doollttle, if we're going into the Veil Nebula, we may actually find a strange and beautiful thing: the Phoenix Asteroids. They should be passing through there about now...
+L152138 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ You'll have plenty of time for that, you know. Figure it this way: twenty years in space and we've only aged three, so there'll be plenty of time to stare around...
+L152137 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ ...You see, I can watch things up here, Doolittle. I love to watch things, just stare at the planets and meteors and asteroids, gas clusters...
+L152136 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ ...Should spend some time below, see more of the rest of the ship...
+L152135 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I don't like to go below since Commander Powell died. I feel enclosed down there. If it were big enough, I'd sleep up here...
+L152134 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Must get lonely being up here so much.
+L152133 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ I like it up here.
+L152132 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ You know, Talby, you really ought to eat with the rest of us. You spend too much time up here.
+L152057 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Okay, Doolittle, I'll have it in a minute.
+L152056 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I need a diameter approximation.
+L152055 +++$+++ u743 +++$+++ m47 +++$+++ TALBY +++$+++ Oh! Ah, yes, Doolittle. What is it?
+L152054 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ TALBY!
+L152380 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Yeah, the skipper always was lucky.
+L152379 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Men... men... what happened, men?
+L152272 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Phenomenology...
+L152271 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Sir?
+L152270 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ No, no, Doolittle, you talk to it. Teach it Phenomenology, Doolittle.
+L152269 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ I already have, sir, and Pinback is talking to it now.
+L152268 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Talk to the bomb.
+L152267 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Sir?
+L152266 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Oh, yes... Well, Doolittle, if you can't get it to drop you'll have to talk to it.
+L152265 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ We're running out of time, sir.
+L152264 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Oh, yes, Doolittle, I'm thinking.
+L152263 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Commander? Are you still there?
+L152256 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Ah... it seems to me, Doolittle... Sorry, I've drawn a blank. Hold it. I'll have it again in a minute. I forget so many things in here, so many things. Hold on, just a minute, let me think...
+L152255 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ What were you saying, Commander, about the bomb?
+L152254 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Sorry.
+L152253 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Sorry, sir, you faded out there for a minute.
+L152252 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Doolittle, hello?
+L152251 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Commander Powell? Commander, hello!
+L152250 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Well, what you might try is --
+L152249 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ What should we do, sir? The time is running out.
+L152248 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Sorry, Doolittle. I've forgotten so much since I've been in here. So much.
+L152247 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ That's correct, sir.
+L152246 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ It didn't work?
+L152245 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Negative effect.
+L152244 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ What was that, Doolittle?
+L152243 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Yes sir. Negative effect.
+L152242 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Ah, so many malfunctions... why don't you have anything nice to tell me when you activate me? Oh, well, did you try the azimuth clutch?
+L152241 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ You don't understand, sir, we can't get the bomb to drop.
+L152240 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Ah... pity, pity...
+L152239 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Well, sir, the Dodgers broke up, disbanded over thirteen years ago.
+L152238 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Tell me, Doolittle, how are the Dodgers doing?
+L152237 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ What's that, sir?
+L152236 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ Doolittle, you must tell me one thing.
+L152235 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Commander, sir, we have a big problem. You see, the Veil Nebula bomb, Bomb Number 20, is stuck. It won't drop from the bomb bay. It refuses to listen and plans to detonate in --  -- less than eleven minutes.
+L152234 +++$+++ u742 +++$+++ m47 +++$+++ POWELL +++$+++ I'm glad you've come to talk with me, Doolittle. It's been so long since anyone has come to talk with me.
+L152233 +++$+++ u740 +++$+++ m47 +++$+++ DOOLITTLE +++$+++ Commander Powell, this is Doolittle. Ah, there's something serious come up, sir, and I have to ask you something.
+L154570 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This.
+L154569 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ How I make my living, what's your point?
+L154568 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Okay, okay.  I can explain... You ever have to do something you really don't want to?
+L154567 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ No... Cause tonight the girls are here in a more or less professional capacity. All of them work for me, and you don't... Let's go.
+L154566 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No?
+L154565 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ But see tonight wives and girlfriends aren't invited.
+L154564 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah.
+L154563 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ Oh, yeah?
+L154562 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Bruno's girlfriend.
+L154561 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ Who are you?
+L154664 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This won't hurt.  Triple dose of insulin, you'll go into a coma, couple minutes you'll stop breathing and on a busy night, the coroner will probably mistake it for an O.D.  Plus, it's way classier than blowin' your brains out.
+L154663 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ None of your business.
+L154662 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Who's Camille?
+L154661 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What the hell are you doing?
+L154660 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Ass like your, I can see why he's worried you'll punk.
+L154659 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ He's got exposure.  He sees you starin' at fifteen to life, there's a chance you could roll over, cop a plea, who knows? Man's figured the odds...and he can't take a chance.
+L154658 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ But the boss knows I always been loyal.
+L154657 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This is what your life's worth, Bruno.
+L154656 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm outta Portland.  Sonrisa didn't want local talent.
+L154655 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ How come I never hearda you before?
+L154654 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Security camera got you coming outta the stairwell, weapon in your hand, going to room one-oh-four and greasing the patient.  It's embarrassing to the professional community, is what it is.
+L154653 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ That's a lotta crap.
+L154652 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm hired to do a piece of work, my mark goes down and stays down.  Your's makes it to the hospital where you then gotta go finish the job.  Only the cops got the whole thing on video tape.
+L154651 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What're you talkin' about?
+L154650 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You can hardly blame him, the way you've been taking care of business...or should I say, not taking care of it.
+L154644 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ You're in the last two seconds, you don't cut the crap.
+L154643 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ See what you don't know is you're already in the last two minutes of your life.
+L154642 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You haven't figured this out yet, have you?  You walk in here thinking you're gonna cap her then cap me and take the money back to your boss with your tail wagging... But see it's really the other way around.  You think I'm the whack, when actually you're the whack.
+L154641 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Call the skank now or I start redecorating.
+L154639 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What the hell are you talkin' about? Call her.
+L154638 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's not why we're here.
+L154637 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What?
+L154636 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Actually, that's not gonna be necessary.
+L154635 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Fine.  So call her.  Get her over here.
+L154634 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I like to keep it professional, that's all.
+L154633 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Man, you got a bad attitude.
+L154632 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Sooo...whattya think?  Maybe after I betray the woman who trusts me and you take her and her daughter out and execute them...we could go on a date.  Play a little miniature golf or somethin'.
+L154631 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ You're attractive, you're smart.  Stand on your own two feet, know what I mean? And you got a wicked sense of humor. Man, you really zinged the boss a couple times, it was all I could do--
+L154630 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah?
+L154629 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ I never woulda done it.  Probably not, anyway.  I mean, I actually think you're pretty cool.
+L154628 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, sure, I understand.
+L154627 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Look, that thing about the pliers, I was just doing what the man pays me to do. Ya know?  Comin' off hard.
+L154595 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Or we could go another way 'cause your boss seems to like my face just the way it is.
+L154594 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Or we can work on your face with a pair of pliers for a couple of hours and you tell us where she is.
+L154593 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Now that that's out of the way... You want the woman, here's how it works.  You pull fifty large out of your mattress or wherever, and I make a call to bring her in.
+L154592 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ No wire.
+L154575 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Guess again.
+L154574 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm on a break.
+L154573 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Mr. Sonrisa saw you on the cameras.  He wants you to come see him.
+L154172 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Where?
+L154171 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Move it.
+L154163 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ No.
+L154162 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Can I say something in my defense?
+L154161 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Leave.  Now.
+L154160 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Nothing happened between me and Tia.
+L154157 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ You know each other?
+L154156 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You didn't tell me you lived with her.
+L154155 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Some of us are trying to sleep.
+L154055 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Could you give us a moment.
+L154054 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ And when the fog lifted, there's Darren with his head under Justine's skirt.
+L154053 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Trying to have a relationship with you, Max, is like standing in a fog bank.  You know you're in the middle of something only you have absolutely no idea where you are.
+L154052 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ She was there...
+L154051 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Do you know why I went after Justine?
+L154050 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Justine was not an unwilling participant.
+L154049 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ 'Cause you went out the back door and nailed her girlfriend?  Who would take offense to that?
+L154046 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You're not still pissed?
+L154045 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You mean until you showed up?
+L154044 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ How're ya doin', Max.
+L154177 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Don't look down.
+L154176 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ But I'm afraid of--
+L154175 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Unless you wanna end up in jail, let me and Kendra handle the cops.
+L154174 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ No way.
+L154173 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Out there.
+L154170 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No time.
+L154169 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Lemme put some clothes on.
+L154168 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What?  Where're we going?
+L154167 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's a sweep.  C'mon.
+L154166 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Police drone.
+L154165 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What is it?
+L154154 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You're roommates?
+L154153 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I live here... Guess I don't have to ask what you're doing here.
+L154152 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What are you doing here?
+L154058 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ I see the perimeter defense system is still fully intact... At least I tried.
+L154057 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm really glad we're having this conversation.  You're right.  I was angry at you.  But talking about it-- The scales have fallen from my eyes and I see now that it was all my fault.  Can you ever forgive me?
+L154056 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ I was crazy about you...am crazy about you.  But you keep everyone at arm's length like there's some great big dark something going on that-- I don't know... It's just that the more I tried to get close to you, the more you pulled away.
+L154048 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ It was a complicated situation which could have been misconstrued, causing you to maybe take offense.
+L154047 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Why would I be pissed?
+L154713 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Theo rode for this place a long time, man.
+L154712 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ What're you lookin' at me for?  I'm not his next of kin.  Anyway, I don't got that kind of cash lyin' around.
+L153986 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Yeah, well around here, I'm the Most High... From now on, before you do anything, call in for instructions.
+L153985 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ It concerns only Jah.  But, in this case, I was the instrument of the Most High.
+L153984 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Which is none of your business...or mine.
+L153983 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Like de prophets say, "Only the unrighteous husband sends expensive gift- wrapped underpants to another woman."
+L153982 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ So you just decided to return it to the sender.  Or, in this case, the sender's wife.
+L153981 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Nobody there to sign for it, mon.  What's a bruddah s'posed to do, ride around all day with the damn package?
+L154491 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I got overhead...
+L154490 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ So Max, what do you do with all your money?
+L154489 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Am I?
+L154488 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You're light a deuce.
+L154487 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's a rule.
+L154486 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I'll make it worth your while.
+L154485 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't get involved with guns.
+L154484 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I shouldn't do this.  But I got a client lookin' to score some fire power.  Maybe you'll keep your eyes open for me.
+L154483 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Later.
+L154482 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I'll give you seventy-five bucks for it.
+L154481 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I ain't mad at you...
+L154480 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Which means I gotta fence it for two. Who's got that kinda scrilla lying around, these being the worst of the times.
+L154479 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A grand.

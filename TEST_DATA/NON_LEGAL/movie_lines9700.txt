@@ -1,0 +1,200 @@
+L137101 +++$+++ u4550 +++$+++ m300 +++$+++ MATHESON +++$+++ What the hell are you waiting for, goddammit!  Don't you see what he's doing!  He's hijacking the shipment!
+L137100 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Calm down...give the gun to me. You're out of control, son.
+L137099 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ These are highly trained agents overreacting without just cause.
+L137098 +++$+++ u4550 +++$+++ m300 +++$+++ MATHESON +++$+++ Now I have jurisdiction!  I said get your weapons.
+L137097 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ What the hell are you doing--
+L137025 +++$+++ u4550 +++$+++ m300 +++$+++ MATHESON +++$+++ Do you always transport through the air?
+L137024 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Who the hell ever is.  This is the most protected shipment we've got-- and the most useless. These bills aren't even <u>in</u> circulation; the one thousand dollar bills we're transporting are only used for international banking exchange.
+L137023 +++$+++ u4550 +++$+++ m300 +++$+++ MATHESON +++$+++ I don't know about totally.
+L137602 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Get off the radio!
+L137601 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ I don't give a shit, Qualen!  I had to be insane to ever tie up with a low-life, piece of shit like you.  They beat us.  A couple of fuckin' hick mountain boys beat the man no law agency ever could.
+L137600 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ No names, this is an open line!
+L137599 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ No, that son-of-a-bitch Walker is alive.
+L137598 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ You got what we need?
+L137537 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Give me the fucking code!
+L137536 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ I told you, 50,000 possible keycode combinations, in fifteen second intervals.
+L137535 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ What's the code, Travers?
+L137487 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Insurance against him finding that last case ahead of us.
+L137486 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Why the hell are we wasting time here?!
+L137479 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Primed to go off right over his head, officer.
+L137478 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Is it set?
+L137414 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Hey, you dealt us this hand, we're playing it all the way. Move.
+L137413 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ This is insane.  The hell with the money.  You radio in for that chopper, understand!
+L137398 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ You dumb bastard, you waited too long.  If he made it back, this place would have been covered with police in a few hours.  The way we're moving, it's going to be anyway.
+L137397 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Good, Travers.  It might catch on, like shooting skeet.
+L137375 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ We're down to a few hours before the whole world shows up here.  Where's the next one?
+L137374 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Jessie?  Looks like your friend found company.
+L137328 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ He can't be far away.  Find him. Go!
+L137327 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ He's alive!
+L137325 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Then go fetch.
+L137324 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ This way.
+L137319 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Down there you buy a life, up here you earn it or die.  How's your health?
+L137318 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ What about it?
+L137317 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Man against nature, right Travers.
+L137273 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ We can't and he knows it.
+L137272 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Bring down the money or your friend's dead!
+L137267 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Kill him when he gets down.
+L137266 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ I don't trust him.
+L137258 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ We agree on something.  And for insurance, take his coat.
+L137257 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Don't give him anything.
+L137249 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ I haven't even got on it yet.  Let's go, time to fetch.
+L137248 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Get off my back, Qualen!
+L137245 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ There, what's that place?
+L137244 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Where's the third one, Travers?
+L137234 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ You're both with the mountain rescue team?
+L137233 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Ask the questions.
+L137232 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Don't use my name!
+L137139 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ The monitor! I never ask twice.
+L137138 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Why?  What are you going to do?!
+L137137 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Were.  Give me the tracking monitor!
+L137136 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Kill me?  Christ we're partners in this!
+L137117 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Let's move your ass in there!!
+L137116 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ What's the delay?
+L137114 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Somehow I didn't think you'd wait for me if I'd sent it first.
+L137113 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Why didn't you send the money over?
+L137110 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ On my way.  The cases are hooked up and ready.
+L137109 +++$+++ u4551 +++$+++ m300 +++$+++ QUALEN +++$+++ Travers!  Hurry it up.
+L137029 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ We should be.  Everybody wants what we have.
+L137028 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ I think Treasury personnel are the most superstitious people in the federal government.
+L137027 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ I haven't lost a bill in eighteen years, don't jinx me, Walt.
+L137026 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ Mostly.  Armored cars can be hijacked.  Trains can be derailed.  But nobody can get to us in flight.
+L137022 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ You're the boss.  Let's head out to the tarmac.  Matheson, have you been totally briefed?
+L137021 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ Appreciate it.
+L137020 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ We've got a full crew, but we can squeeze one more, right.
+L137019 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ Matheson has been transferred from the Denver office to Frisco. As a professional courtesy between offices, I was asked if he could hitch a ride.
+L137018 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Richard Travers.
+L137017 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ I'd like to have a word with you. This is Agent Matheson, FBI.
+L137016 +++$+++ u4553 +++$+++ m300 +++$+++ TRAVERS +++$+++ Good morning, Walt.
+L137015 +++$+++ u4554 +++$+++ m300 +++$+++ WRIGHT +++$+++ Rich...
+L138191 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Long time, is right. I don't remember them days too horrorshow. Don't call me Dim no more, either. Officer, call me.
+L138190 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ I just don't get this all. It was them that went for me, brothers. You're not on their side and can't be. You can't be Dim. It was someone we fillied with back in the old days... Trying to get his own malenky bit of revenge after all this time. You remember, Dim?
+L138189 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Been cured, yeah, that was read out to us. The Inspector read all that out to us. He said it was a very good way.
+L138188 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ I've been cured.
+L138187 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Been punished, yeah?
+L138186 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Come, come, my little droogies. I just don't get this at all. The old days are dead and gone. For what I did in the past I've been punished.
+L138185 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Come on, Alex. Come for walkies. Hahahahaha.
+L138182 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Impossible... I don't believe it.
+L138181 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Well, well, well, well, well, well, well, if it isn't little Alex. Long time no viddy, droog. How goes? Surprised are you?
+L137830 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ You bastards... bastards.
+L137829 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ One minoota, droogie. Dim smashes Alex in the face with a full milk bottle. He goes down. The others run away, laughing.
+L137780 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Lets get things nice and sparkling clear. This sarcasm, if I may call it such, does not become you, O my brothers. As I am your droog and leader, I am entitled to know what goes on, eh? Now then, Dim, what does that great big horsy gape of a grin portend?
+L137779 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Sorry about the pain. Using the gulliver to much like, eh? Giving orders and disciplining and that perhaps, eh? You sure the pain's gone? You sure you'll not be happier back up in bed.
+L137776 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Welly, welly, welly, welly, welly, welly, well. To what do I owe the extreme pleasure of this surprising visit? Georgie rises.
+L137775 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ He are here! He have arrived! Hooray!
+L137726 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Doobidoob... a bit tired maybe, everybody is. A long night for growing malchicks... best not to say more. Bedways is rigthways now, so best we go homeways and get a bit of spatchka. Right, right.
+L137725 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ A nozh scrap any time you say. Dim weakens.
+L137724 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Yarbles, great bolshy yarblockos to you I'll meet you with chain, or nozh or britva, any time, not having you aiming tolchocks at me reasonless. It stands to reason, I won't have it.
+L137723 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Watch that... Do watch that, O Dim, if to continue to be on live thou dost wish.
+L137722 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ I don't like you should do what you done. And I'm not your brother no more and wouldn't want to be.
+L137721 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ For being a bastard with no manners and not a dook of an idea how to comport yourself publicwise, O my Brother.
+L137720 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ What did you do that for?
+L137719 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ There was some sophistos from the TV studios around the corner, laughing an govoreeting. The Devotchka was smecking away, and not caring about the wicked world one bit. Then the disc on the stereo twanged off and out, and in the short silence before the next one came on, she suddenly came with a burst of singing, and it was like for a moment, O my brothers, some great bird had flown into the milkbar and I felt all the malenky little hairs on my plott standing endwise, athe shivers crawling up like slow malenky lizards and then down again. Because I knew what she sang. It was a bit from the glorious 9th, by Ludwig van. Dim makes a lip-trump followed by a dog howl, followed by two fingers pronging twice in the air, followed by a clowny guffaw. Alex brings his stick down smartly on Dim's legs.
+L137718 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Pardon me. Luce. He raises glass to breast, pulls red handle between her legs. Milk spurts into glass. Dim joins the others. Alex looks at a party of tourists.
+L137717 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ We've been working hard too. Takes glass.
+L137716 +++$+++ u4560 +++$+++ m301 +++$+++ DIM +++$+++ Hello Lucy, had a busy night? Puts money in machine.
+L138249 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ No, no my boy. No trouble at all. Alex slowly sits.
+L138248 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Look, sir. I'm sorry to have troubled you. I think I ought to be going, sir. Julian bars the way.
+L138247 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Julian. This will be these people now. Alex gets up.
+L138246 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ They're very, very important people and they're interested in you. Bell rings. Julian rises,
+L138245 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Who are they, sir?
+L138244 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Help you.
+L138243 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Help me, sir?
+L138242 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Yes. They want to help.
+L138241 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Phoned some friends, sir?
+L138240 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ And now you, another victim of the modern age. But you can be helped. I phoned some friends while you were having a bath.
+L138239 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ She was very badly raped, you see. We were assaulted by a gang of vicious young hooligans in this house, in this very room you're sitting in now. I was left a helpless cripple. The doctors said it was Pneumonia, because it happened some months later during the 'flu epidemic. The doctors told me it was Pneumonia, but I knew what it was. A victim of the modern age, poor, poor girl. Suddenly his mood changes. He wheels right up to Alex.
+L138238 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ I'm sorry to hear about that, sir. His face contorted in rage.
+L138237 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ No. She's dead!
+L138236 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Your wife, sir? Has she gone away?
+L138235 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ ... used to do everything for me and leave me to my writing.
+L138234 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ My wife... Alex freezes.
+L138233 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Thank you, sir.
+L138232 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ I'm so pleased you appreciate good wine. Have another glass!
+L138227 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ And you, sir?
+L138226 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ No, my health doesn't allow it.
+L138225 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Won't you join me, sir?
+L138224 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Thank you very much, sir. Cheers Suddenly the thought occurs to Alex that the wine may be drugged or poisoned.
+L138223 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Try the wine!
+L138222 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Great, sir. Great.
+L138221 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Of course. Food alright?
+L138220 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ It was very kind of you to leave this out for me, sir. There was no-one around when I finished my bath, so I started. I hope that's alright, sir.
+L138219 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Good evening.
+L138218 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Good evening, sir.
+L138208 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Then, by God, you have been sent here by providence. Tortured in prison, then thrown out to be tortured by the Police. My heart goes out to you, poor, poor boy. Oh, you are not the first to come here in distress. The Police are fond of bringing their victims to the outskirts of this village. But it is providential that you, who are also another kind of victim, should come here. But you're cold and shivering. Julian, draw a bath for this young man.
+L138207 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Yes, sir, that's exactly who I am, sir... and what I am... a victim, sir. Mr. Alexander becomes frenzied as the speech progresses.
+L138206 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ I know who you are! Isn't it your picture in the newspapers? Didn't I see you this morning on the video? Are you not the poor victim of this horrible new technique?
+L138205 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ The police... The horrible ghastly Police. They beat me up, sir. The Police beat me up, sir. Mr. Alexander stares at him. It becomes apparent he is insane.
+L138204 +++$+++ u4570 +++$+++ m301 +++$+++ MR. ALEXANDER +++$+++ Dear, dear, dear. Whatever happened to you, my boy? Mr. Alexander, now confined to a wheelchair, pushes himself away from his desk, and rolls up to Julian. The water drips off Alex's clothes. They look at each other.
+L137825 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ Cut the shit, sonny, and get out of here before you get yourself in some very serious trouble. He rocks the giant phallus which has a special weight swinging inside causing it to swing up and down an eccentric motion.
+L137824 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ You see, madam, I am part of an international student's contest to see who can get the most points for selling magazines.
+L137823 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ No! No! Don't touch it. That's a very important work of art. What the bloody hell do you want?
+L137822 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Naughty, naughty, naughty, you filthy old soomaka.
+L137821 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ Now listen here, you little bastard, just you turn around and walk out of here the same way as you came in. Alex eyes a giant white, fibreglass phallic sculpture on the table beside him.
+L137820 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Our brief govereet thru the letter hole was not, shall we say, satisfactory, yes?
+L137819 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ What the bloody hell d'you think you're doing?
+L137818 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Hi, hi, hi there, at last we meet.
+L137814 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Very well, madam. I suppose you can't be blamed for being suspicious with so many scoundrels and rouges of the night about. Alex walks away from door, then ducks into the bushes where the others are hiding. They put on their maskies and follow Alex round to the rear of the house.
+L137813 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ I... I'm very sorry, but I never open. I'm very sorry but I never open the door to strangers after dark.
+L137812 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ But, missus, this is an emergency. It's a matter of life and death. Me friend's lying in the middle of the road bleeding to death.
+L137811 +++$+++ u4556 +++$+++ m301 +++$+++ CATLADY +++$+++ I'm frightfully sorry. There is a telephone in the Public House about a mile down the road. I suggest you use that.
+L137810 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Excuse me, missus, can you please help? There's been a terrible accident. Can I please use your telephone for an ambulance?
+L138273 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Yes, sir. Rubinstein takes out a notebook.
+L138272 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ Well, shall we get down to it?
+L138271 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ What would you like to know, sir?
+L138270 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ But first we'd like to find out a few things about you.
+L138269 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Thank you very much, sir.
+L138268 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ Well, as I've said, we've heard about you. We are interested in your case. We want to help you.
+L138267 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Fine, sir, fine.
+L138266 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ Feel like talking to us. Answering a few questions?
+L138265 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Much better, thank you, sir.
+L138264 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ Hahaha, and how are you feeling now?
+L138263 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Yes, sir. I suppose you might call it that, sir.
+L138262 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ I understand that you had a rather unfortunate encounter with the Police tonight.
+L138261 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Very kind of you, sir. Thank you very much.
+L138258 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Missus. Very pleased to meet you.
+L138257 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ Hullo.
+L138256 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ How do you do, sir?
+L138255 +++$+++ u4561 +++$+++ m301 +++$+++ DOLIN +++$+++ So this is the young man?
+L138136 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Sorry, Em, I wanted it to be like... a big surprise for you and pee.
+L138135 +++$+++ u4565 +++$+++ m301 +++$+++ EM +++$+++ Why didn't you let us know what was happening, son?
+L138127 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Hullo love, how are you?  Nice to see you, Dad.
+L138126 +++$+++ u4565 +++$+++ m301 +++$+++ EM +++$+++ Alex.
+L138125 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Hi. Hi. Hi, there my Pee and Em. All three look up startled.
+L137738 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Alright, Mum... have a nice day at the factory.
+L137737 +++$+++ u4565 +++$+++ m301 +++$+++ EM +++$+++ Eeee... I'll put your breakfast in the oven. I've got to be off myself now.
+L137736 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ I've got to rest, Mum... got to get fit, otherwise I'm liable to miss a lot more school.
+L137735 +++$+++ u4565 +++$+++ m301 +++$+++ EM +++$+++ You've not been to school all week, son.
+L137734 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Bit of pain in the gulliver, Mum. Leave us be and I'll try to sleep it off... then I'll be as right as dodgers for this after.
+L137733 +++$+++ u4565 +++$+++ m301 +++$+++ EM +++$+++ It's past eight, Alex, you don't want to be late for school, son.
+L137856 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ It will be your own torture. I hope to God it will torture you to madness.
+L137855 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ You try to frighten me, sir, admit so, sir. This is some new form of torture. Say it, brother, sir.
+L137854 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ I've just come back from the hospital. Your victim has died.
+L137853 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Not true, sir. It was only a slight tolchock. She was breathing, I swear it.
+L137852 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ You are now a murderer, little Alex. A murderer, yes.
+L137763 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ As an unmuddied lake, sir. Clear as an azure sky of deepest summer. You can rely on me, sir. Deltoid drinks again but this time sees the teeth in the glass. He groans and retches.
+L137762 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ That's just worries me. A bit too long to long to be reasonable. You're about due now by my reckoning, that's why I'm warning you, little Alex, to keep your handsome young proboscis out of the dirt. Do I make myself clear?
+L137761 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Nobody's got anything on me, brother, sir. I've been out of the rookers of the milicents for a long time now.
+L137760 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ What gets into you all? We study the problem. We've been studying it for damn well near a century, yes, but we get no further with our studies. You've got a good home here, good loving parents, you've got not too bad of a brain. Is it some devil that crawls inside of you?
+L137759 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Cut out all this clever talk about milicents. Just because the Police haven't picked you up lately doesn't, as you very well know, mean that you've not been up to some nastiness. There was a bit of a nastiness last night, yes. Some very extreme nastiness, yes. A few of a certain Billyboy's friends were ambluenced off late last night, yes. Your name was mentioned, the word's got thru to me by the usual channels. Certain friends of yours were named also. Oh, nobody can prove anything about anybody as usual, but I'm warning you, little Alex, being a good friend to you as always, the one man in this sore and sick community who wants to save you from yourself. Deltoid makes a grab for Alex's joint but finds his hand instead. Alex laughs. Derisively and rises. Deltoid distractedly reaches for a glass of water on the night table, and fails to notice a set of false teeth soaking in them. He drinks from the glass. The clink of the teeth sounding like ice-cubes.
+L137758 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ I've been doing nothing I shouldn't, sir. The millicents have nothing on me, brother, sir, I mean. Deltoid pulls Alex down on the bed.
+L137757 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ A big black mark I tell you for every one we don't reclaim. A confession of failure for every one of you who ends up in the stripy hole.
+L137756 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Because next time it's going to be the barry place and all my work ruined. If you've no respect for your horrible self, you at least might have some for me who'se sweated over you. He slaps Alex on the knee.
+L137755 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Well, yes, it's just a manner of speech from your Post Corrective Advisor to you that you watch out, little Alex. He puts his arm round Alex's shoulder.
+L137754 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Just a manner of speech, sir.
+L137753 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Wrong? Why should you think of anything being wrong, have you been doing something you shouldn't. Yes? He shakes Alex's hair.
+L137752 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ To what do I owe this extreme pleasure, sir? Anything wrong, sir? Deltoid "playfully" grabs Alex's hair.
+L137751 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ No time, no time, yes. Sit, sit, sit. Alex sits next to him.
+L137750 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ A cup of the old chai, sir?
+L137749 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Oh, or certainly by this evening, yes? The evening's a great time, isn't it, Alex boy?
+L137748 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ A rather intolerable pain in the head, brother, sir. I think it should be clear by this afterlunch.
+L137747 +++$+++ u4559 +++$+++ m301 +++$+++ DELTOID +++$+++ Ah, Alex boy, awake at last, yes? I met your mother on the way to work, yes? She gave me the key. She said something about a pain somewhere... hence not at school , yes?
+L138290 +++$+++ u4573 +++$+++ m301 +++$+++ RUBINSTEIN +++$+++ Well done, Frank. Julian, get the car, will you please?
+L138289 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Um... well, put it this way... I feel very low in myself. I can't see much in the future, and I feel that any second something terrible is going to happen to me. He pitches forward, face into the plate of spaghetti.
+L138288 +++$+++ u4573 +++$+++ m301 +++$+++ RUBINSTEIN +++$+++ Do you still feel suicidal?
+L138287 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Um... oh no, sir, not exactly, I still feel very miserable, very much down in spirits.
+L138286 +++$+++ u4573 +++$+++ m301 +++$+++ RUBINSTEIN +++$+++ Do you feel that way now?
+L138285 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ Snuff it, sir... um... death, I mean, missus... Er... I just want to die peacefully like with no... pain.
+L138284 +++$+++ u4573 +++$+++ m301 +++$+++ RUBINSTEIN +++$+++ I beg your pardon?
+L138283 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ That is correct, sir. And then all I can think about is like trying to snuff it.
+L138282 +++$+++ u4573 +++$+++ m301 +++$+++ RUBINSTEIN +++$+++ When you say this funny feeling, you mean the state of mind brought on by the treatment they gave you?
+L138281 +++$+++ u4555 +++$+++ m301 +++$+++ ALEX +++$+++ That's right. Er... I can't listen to the 9th any more at all. When I hear the 9th, I get like this funny feeling.

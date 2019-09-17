@@ -1,0 +1,200 @@
+L23852 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Good.  Get on it.  But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets.  Let's get down to the locker and change.
+L23851 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I think I could cobble something together.  A long metal rod with a battery in it.  Give it a hell of a shock.
+L23742 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Good.
+L23741 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ The machine will bring his temperature down.  His vital functions are strong.
+L23740 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Can you do anything for him?
+L23739 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Yes.
+L23738 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Still unconscious?
+L23737 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ He's running a fever.
+L23736 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ How's Broussard?
+L23735 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Yes?
+L23723 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Maybe we can catch it.
+L23722 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Well, what the hell good can we do in here?  We can't grab it -- it might jump on us --
+L23721 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No, don't open the door.  We don't want it escaping.
+L23720 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ The door was closed.  It must still be in here.
+L23719 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Now we're in for it.
+L23717 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Maybe it wasn't always dead.
+L23716 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ How could anything be indigenous to this asteroid?  It's dead.
+L23715 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well, those things out there aren't the same, you know -- the spaceship and the pyramid.  They're from different cultures and different races.  That ship just landed here -- crashed like we did.  The pyramid and the thing from it are indigenous.
+L23714 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What do you mean?
+L23713 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ You know, it's fantastic -- the human race has gone this long without ever encountering another advanced life form, and now we run into a veritable zoo.
+L23712 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I'll come with you.
+L23711 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I'll do it.  The rest of you continue.
+L23672 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Careful, don't get under it!
+L23671 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ There.  Should be coming through about there.
+L23636 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Ask him.
+L23635 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Hey now, what is this?
+L23628 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It wouldn't come.
+L23627 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ That thing, God almighty, didn't you try to get it off him?
+L23253 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well, how does it feel to be rich men?
+L23252 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Boy, that's terrific.
+L23251 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It's over, Hunter.
+L24089 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Thanks for the thought. 
+L24088 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ If you press the button right now, it will blow the whole nose of the ship off.
+L24087 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Is it armed?
+L24086 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Just keep your finger off the button till she's way away from the ship, that's all.
+L24083 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Hey look, somebody has to have his hands free to lock the creature in the lifeboat!
+L24082 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Isn't "bait" the word you used?
+L24076 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I should hope so!  And we'd better make sure it's pretty far from the ship when we blow it.
+L24075 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ This should do it.
+L24054 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ It's not going to work.
+L24053 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ We can use the flamethrower.
+L24052 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I think it's going to be almost impossible to drive it up into the lifeboat.
+L24045 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Our lives are more important. Anyway, we can take a small amount of the most valuable stuff with us on the lifeboat.
+L24044 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What about all the minerals and elements in the cargo hold?  That's the only reason we came out here. We'd have to abandon them all.  We'd be broke.
+L24041 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ And the creature with it.  We can make it back to Irth in the lifeboat.
+L24040 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Blow the ship up?
+L24035 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I've got an idea, but you're not going to like it.
+L24034 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ We can't kill it on board.  It's huge now and must have tremendous amounts of that acid in its body.
+L24011 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ You will notice, though, that there are no more phases.  Only four forms are shown.  After that the pattern repeats.
+L24010 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ ... And Broussard got caught in their reproductive cycle.
+L24004 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ And right next to it, that oval design with the markings -- it's a dead ringer for the spore casings.
+L24003 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Well... I suppose that star-shaped thing could be the parasite that got on Broussard.  Is that what you mean?
+L24002 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ In symbolic form... very stylized... but if you stare at it, you can see some of the different creatures we've been dealing with.
+L24001 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Recognizable!  In that?
+L23993 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ We sure need this flamethrower.
+L23992 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Don't count on it.
+L23975 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ It was horrible -- horrible.  Like a chicken.
+L23974 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ You mean his body was still kicking when it ran off with him?
+L23710 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Listen, hadn't somebody better check on Broussard?
+L23709 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ What common objects?
+L23702 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ The same thing must've happened to the creatures on the other ship... except they took one of those jars on board, and opened it there.
+L23701 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ That must have been when he got it.
+L23698 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Hey!  what about the film?
+L23697 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ This is horrible.
+L23676 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I think it's fizzled out.
+L23675 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What's happening up here?
+L23657 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ It doesn't make any sense.  It paralyzes him... puts him into a coma... then keeps him alive.
+L23656 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I think that's how it's getting oxygen to him.
+L23655 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Oh... God...
+L23654 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ It's some kind of organ -- it's inserted some kind of tube or something down his throat.
+L23653 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What is it -- I can't tell anything --
+L23652 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Look at that.
+L23643 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ I guess I had it coming.  Let's call it settled.
+L23642 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I keep my mouth pretty much shut, but I don't like hitting.
+L23604 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Jay, this is Cleave!  Meet me at the main air lock!
+L23603 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Oh no.
+L23598 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Three blips!  They're coming this way!
+L23597 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ How many?
+L23596 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I've got 'em!  They're back on my screens!
+L23565 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Just can that crap!  I'm in command here till Chaz returns!  And nobody's leaving this ship!
+L23564 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ Why, you chickenshit bastard --
+L23563 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We can't spare the personnel.  We've got minimum takeoff capability right now.  That's why Chaz left us on board.
+L23562 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ But they don't know about the translation!  They could be in danger right now.
+L23561 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ We're not going anywhere.
+L23560 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What do you mean, no?
+L23559 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ No.
+L23558 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I'm getting nowhere.  The whole area around the pyramid is dead to transmission.  I think we should go after them.
+L23528 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ The computer just translated the goddamn message.  It's not an S.O.S. It was a warning.
+L23527 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ What?  What was that?
+L23512 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I'm trying.
+L23511 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Can you get them back?
+L23510 +++$+++ u3582 +++$+++ m236 +++$+++ HUNTER +++$+++ I've completely lost their signal.
+L23509 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Now what's wrong?
+L23956 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ And you and I will bag it, and then we'll take it to the ventral air lock, got it?
+L23955 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Okay.
+L23954 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ All right, then -- when it gets to the other side of the door, you sing out, then drop the door.  Okay?
+L23953 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ They're getting pretty close now.
+L23952 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's get moving with this net.
+L23951 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ They're on the next level up.
+L23950 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Are they close?
+L23949 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ I've got Hunter... and something else as well, in front of him.
+L23861 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Come on -- let's go above and see how they're coming with the gear.
+L23860 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ We're the new pioneers, Chaz.  We even have our own special diseases.
+L23859 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I can see you're putting your spare time to good use.  Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall.  I've seen it happen.
+L23858 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Time and space have no meaning out here.  We're living in Einsteinian equation.
+L23857 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We came out there, we'll go back.  A long time by the clock, but a short time to us.
+L23856 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust.  We are utterly, absolutely alone.  Can anybody really visualize such a scale of distances?  Halfway across Creation...
+L23855 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That's the one about the albatross, right?
+L23854 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ I was thinking of a line from an old poem: "Water, water everywhere, but not a drop to drink."  All that space out there, and we're trapped in this ship.
+L23853 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ I thought I'd find you here.
+L23848 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We'll have to trap it somehow.  If we had a really strong piece of net, we could bag it.
+L23847 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ And what do we do when we find it?
+L23846 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Room by room, corridor by corridor.
+L23845 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ How?
+L23836 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We've got about a week left, right?
+L23835 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Well, I kind of hate to point it out, but all our supplies are based on us spending a strictly limited amount of time out of suspended animation... and as you know, we used up most of that time in harvesting.
+L23834 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We'll have to catch it and eject it from the ship.
+L23807 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Maybe we could write it together.
+L23806 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ The commander normally has first publication rights.
+L23805 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ I'm going to write a book about this expedition.  I'm going to call it "The Snark Log."
+L23800 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ We're going into the freezers now.
+L23799 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We're going home.  We're in hyperspace.
+L23758 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ They're from a dead civilization; they're spores from a tomb.  God knows how long they've been here.
+L23757 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Too primitive.  It's a pre- technological construction.  That slab was engineered by an Iron-Age culture at best.
+L23708 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Primitive pictorial languages are based on common objects in the environment, and this can be used as a starting point for translation...
+L23707 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ That sounds a little fanciful...
+L23688 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It appears to have healed itself.
+L23687 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Is it still dripping?
+L23686 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No, thank God... just missed him.
+L23683 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Reminded me of when I was a kid and the roof leaked -- everybody running for the pots and pans.
+L23682 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ We're just plain lucky.  That could have gone right through the hull -- taken <u>weeks</u> to patch it.
+L23681 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Yes, thank heaven.
+L23680 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It's stopped?
+L23634 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Let's let the machine work on him.
+L23633 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ It's not coming off -- not without his whole face coming off too.
+L23595 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ How the hell should I know?  Come on, give me a hand, let's get him out of there!
+L23594 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ What is it?
+L23593 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ It won't come -- it's stuck.
+L23592 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Help me -- I'm going to try to get it off.
+L23591 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Oh God, oh God no.
+L23590 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ <u>Don't touch him, watch it</u>!
+L23589 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ <u>What is it</u>?
+L23584 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Can you see anything?
+L23583 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ No, it's coming.
+L23582 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Is it still coming up, or is it hooked on something?
+L23581 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ There, it caught!
+L23578 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Maybe we should just wait a few more minutes.
+L23577 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ But what can we do?  He's out of radio contact.
+L23576 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ It'll yank him right off his feet if he's not expecting it.  The line could get tangled in something.
+L23575 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Here's his line.  We can haul him out of there if we have to.
+L23569 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Sun will be down in a minute.
+L23568 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ If we don't hear from him soon, I think we better go in after him.
+L23557 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ I couldn't make it out -- too much interference.
+L23556 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What'd he say?
+L23514 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Can't tell -- these weather conditions could erode anything, fast.
+L23513 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ This looks ancient.
+L23497 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ That creature sure must have considered it important... using his last strength to draw it...
+L23496 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Doesn't seem much doubt about it, does there?
+L23431 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Who knows?
+L23430 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Air lock?
+L23421 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ We should be almost on top of it.  I just can't quite...
+L23420 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ How far?
+L23419 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ It's close, real close.
+L23414 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ My signal's fading.
+L23413 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ What's wrong?
+L23408 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ You lead.
+L23407 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ That way.
+L23403 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ All right.  Now just remember: keep away from those weapons unless I say otherwise.  Martin, do you read me?
+L23402 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Receiving.
+L23375 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Sorry.  Nothing but that same damn transmission, every 32 seconds.  I've tried every frequency on the spectrum.
+L23374 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Just settle down.  Sandy, you get any response yet?
+L23369 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Well... this rock rotates every two hours.  The sun should be coming up in about 20 minutes.
+L23368 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Well, we can't go anywhere in this darkness.  How long till dawn?
+L23303 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Dell -- show me that on a screen.
+L23302 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ I've got it.  It's coming from ascension 6 minutes 32 seconds, declination -39 degrees 2 seconds.
+L23300 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Computer, what's the frequency of the transmission?
+L23299 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ What's the frequency?
+L23298 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Sandy, can you home in on that beam?
+L23297 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ First contact...
+L23263 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Feast your eyes.
+L23262 +++$+++ u3585 +++$+++ m236 +++$+++ STANDARD +++$+++ Sandy, you want to give us some vision?
+L23810 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Tastes like something you'd feed a chicken to make it lay more eggs.
+L23809 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ What's the matter, you don't like this stuff?
+L23808 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ First thing I'm going to do when we get back is eat some biological food.
+L23756 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Couldn't the pyramid have been built here by space travellers?
+L23755 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ No.  It's just too small to support fauna as big as the parasites.  If there were a native ecology, it would have to be microscopic.
+L23752 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ They never made it off the planet. The parasites won.
+L23751 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Yeah?
+L23750 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ We do know that.
+L23745 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ About four hours.
+L23744 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ These day and night cycles are totally disorienting.  I feel like we've been here for days, but it's only been how long?
+L23696 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Could be some kind of venom, or poison...
+L23695 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ That tube must be depositing it in him.
+L23694 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ It appears to be a heavy fluid of some sort... it blocks the X-rays...
+L23384 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Close...
+L23383 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Source of transmission is to the northeast... about 300 meters.
+L23332 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Just a second.  Those aren't water vapor clouds; they have no moisture content.
+L23331 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ My God, it's stormy for a piece of rock that size!
+L23325 +++$+++ u3584 +++$+++ m236 +++$+++ ROBY +++$+++ Look --
+L23324 +++$+++ u3583 +++$+++ m236 +++$+++ MELKONIS +++$+++ Men have waited centuries to contact another form of intelligent life in the universe.  This is an opportunity which may never come again.

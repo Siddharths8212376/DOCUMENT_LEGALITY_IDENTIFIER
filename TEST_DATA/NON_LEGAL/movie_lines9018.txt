@@ -1,0 +1,200 @@
+L122744 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ Roger got me on.  I wasn't doing anything, and -- but you're back, you're really back.  I would have come to Memphis, but --
+L122743 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ When'd you start working here?
+L122259 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ There's settled folks, and there's nomads.  You're just not a settled folk. You never belonged here.
+L122258 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Doing great, Mom, don't worry about me.
+L122257 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ I'm doing fine.
+L122256 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ The place is falling apart.
+L122255 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ Don't you even think about it.
+L122254 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Maybe I should take a few days off. Roger's working now, you could use some help around here...
+L122253 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ Oh no, the prodigal son's home.  We bring out the store bought.
+L122252 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Mom, this is a farm.  We've got real strawberries growing outside, we've got real cream.
+L122236 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ That new roof, that's your doing.
+L122235 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Look, I help take care of the place.  You got my check, didn't you Mom?
+L122230 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ It's nothing you did, Mom, believe me.
+L122229 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ It seemed like she had such a good time last time.
+L122220 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Mom, meet Jango.
+L122219 +++$+++ u684 +++$+++ m43 +++$+++ MOM +++$+++ What happened to your pants?
+L122733 +++$+++ u687 +++$+++ m43 +++$+++ TECHNICIAN +++$+++ You're looking at a Level III search. For your Level III, you gotta have E-4 authorization.  I don't have it.
+L122732 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Can you find her?
+L122731 +++$+++ u687 +++$+++ m43 +++$+++ TECHNICIAN +++$+++ Hmmm.  Durango, Colorado; Asheville, North Carolina, then...canceled her account.
+L122730 +++$+++ u687 +++$+++ m43 +++$+++ TECHNICIAN +++$+++ Sure.  Bettina Peterson.  Marfa, Texas. Let's run a current check.
+L122729 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ What about the sender?
+L122728 +++$+++ u687 +++$+++ m43 +++$+++ TECHNICIAN +++$+++ Okay.  After three years the PTR reverts to tape storage, which is okay because we access it through the CPC.  Here it is.  Ten packages from the same sender.  Baku. Delhi.  St. Petersburg.  The guy was a real road warrior.  This package was Kuala Lampur.  No activity in his account after this package.  No forwarding addresses after K.L.
+L122270 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Kamal, you're breaking up.  Can you hear us?
+L122269 +++$+++ u687 +++$+++ m43 +++$+++ TECHNICIAN +++$+++ Trying.
+L122276 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Who's in charge then, where is Chinn?
+L122275 +++$+++ u688 +++$+++ m43 +++$+++ VOICE +++$+++ Kamal is not here.  We are very defused.
+L122274 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ What's going on down there?
+L122273 +++$+++ u688 +++$+++ m43 +++$+++ VOICE +++$+++ It is Ibrim, I, I am a sorter.
+L122272 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Who is this?  Where is Kamal?
+L122271 +++$+++ u688 +++$+++ m43 +++$+++ VOICE +++$+++ Kamal is not here.
+L122737 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ No sweat.
+L122736 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Thanks.  For everything.
+L122726 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Finish what you started.  You haven't changed, Chuck.  It's still you.
+L122725 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I need to do it.
+L122724 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You want that delivered, we'll deliver it.  That's what we do.
+L122723 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Deliver this package.  Then, I dunno.
+L122722 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ What, then?
+L122720 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Deep, real deep.
+L122719 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Not just that.  Take your time.  Use it. Live it.
+L122718 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Being patient.  Don't rush things.  I get it.
+L122717 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ That's what it's about.
+L122716 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ What?
+L122715 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Take your time.
+L122713 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Digital laser readers.  Wow.  Terrific.
+L122712 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Digital laser readers.
+L122691 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Believe me I know.
+L122690 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ That's all there is.
+L122689 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ To life.
+L122688 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ To life.  Fuck 'em if they can't take a joke.
+L122686 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ What's it all about?  It's about being so thirsty you'd crush a fish's backbone to suck out the spinal fluid -- that's what it's about.
+L122685 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ I'm serious.  The burning bush, the big picture, the words in neon...
+L122684 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Hallelujah.
+L122683 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You've been over the line and you came back.  You've been saved, hallelujah!
+L122681 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ To Wilson.
+L122680 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ To Wilson.
+L122677 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I never thought it would end.  Then it did.  It was so great to be saved, I couldn't stop laughing.
+L122676 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ When I first showed up, I thought you'd lost your fucking marbles.
+L122638 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Forty-three days.
+L122637 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You were how long on this?
+L122634 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Time I had lots of.
+L122633 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Must have taken a hell of a long time.
+L122632 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I braided them.
+L122631 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Cool ropes.
+L122630 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You should have smelled me.
+L122629 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ This stinks really bad.
+L122628 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Want to see my raft?
+L122627 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ How about we go somewhere else?
+L122602 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ This is Amber.  Her boyfriend lost his foot in a shark attack.
+L122601 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Hello.
+L122599 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You beat 'em to shit, pal!  Jesus!
+L122598 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I beat the odds!
+L122590 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I'm most definitely not dead.  And as I recall, you're the sick fucker.
+L122589 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You're fucking dead!
+L122588 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ It's me.
+L122587 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ God damn!  God damn!  Chuck, it's you!
+L122584 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Stan, it's Chuck...Chuck Noland...
+L122583 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Hello?
+L122266 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Right.  Get me everything on Indonesia, New Guinea, all the way to Australia.
+L122265 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Malaysia's tanking.  We're meeting in ten in operations.
+L122128 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ We're on.
+L122127 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Talk is cheap.  Are we on or not?
+L122126 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Ninety five percent?  Just give me the money now.
+L122125 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ A hundred rubles St. Petersburg hits 95 percent in a month.
+L122123 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ This was nothing like Warsaw.  I held the truck then minutes, it's not that big a deal.
+L122122 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ I'm trying to help you here.  There's Warsaw, there's this --
+L122121 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You are one sick fucker.
+L122120 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Take the plunge, admit your mistakes, move on to tomorrow.  That's FedEx, that's women, that's life.
+L122119 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ For the third time.
+L122118 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ That's why I'm running foreign and you're not.  That's why you're not married and I am.
+L122117 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ That's why you're a gambling man.
+L122116 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ We're warriors, not desk jockeys.  We've got to be bold.  You always want all your ducks lined up.  But nothing's 100 percent.  It's always 60-40, maybe 51-49. Hell, I'd take 40-60.  Then roll the dice.
+L122115 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I'm from Arkansas.  Tell me a story with Robert E. Lee in it and maybe I'll pay attention.
+L122114 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You know General McLelland, he wouldn't attack unless he had everything just right.  Finally Abe Lincoln came to him and said, General, if you're not going to use my army, could I borrow it for a while?  So he gave it to Grant and Grant just said, let's go.
+L122113 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Forget it.
+L122112 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ Look, I'm sorry about your plane.  But I couldn't risk being late into Memphis.
+L122111 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ And never take.
+L122110 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ For all those vacation days you got coming.
+L122109 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ It's a ketch Kelly and I had chartered.
+L122108 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ I didn't know we had sailboats.
+L122107 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Baloney.  I do see the damn "big picture."
+L122106 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ You know what your problem is?  You just see the packages in front of you.  You don't see the big picture.
+L122105 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Every person counts, every package counts, that's my point.
+L122104 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ What?  Let Paris hold its plane?  Let Memphis take care of it?  Let somebody down the line clean up your mess?
+L122103 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I was making a point.
+L122102 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ The point of FedEx, as I understand it, is to make the damn connection.
+L122101 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You fucked us over.
+L122100 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ I'm touched.
+L122099 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Jesus.  I got it working... You have no idea how hard it was... They're finally a team...
+L122098 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ But I might not have.
+L122097 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ I checked the weather, you had the jet stream, you could have made it up.
+L122096 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ It was fifteen minutes late.
+L122095 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ You what?
+L122093 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Great.  Terrific.  The good guys won one for a change.
+L122092 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ How'd it go?
+L122091 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Borrowed.  I borrowed it.
+L122090 +++$+++ u686 +++$+++ m43 +++$+++ STAN +++$+++ What do you expect, from the guy who stole a kid's bicycle when his truck broke down?
+L122526 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ No please, join me.  Some sundried fish strips, a few eyeballs, some gills to munch on.
+L122525 +++$+++ u677 +++$+++ m43 +++$+++ CHUCK/CAPTAIN +++$+++ Would you do us the honor of joining us? We're just sitting down at mess.  Pork chops and gravy, cranberries, baked potatoes with all the trimmings, fresh- baked bread, apple pie...
+L122524 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ As it happens, I'm headed for Frisco myself.
+L122523 +++$+++ u677 +++$+++ m43 +++$+++ CHUCK/CAPTAIN +++$+++ San Francisco.  And you?
+L122522 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ May I ask, where are you bound?
+L122521 +++$+++ u677 +++$+++ m43 +++$+++ CHUCK/CAPTAIN +++$+++ Permission granted.
+L122520 +++$+++ u676 +++$+++ m43 +++$+++ CHUCK +++$+++ Permission to come aboard, sir.
+L131402 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ I just hope he won't expect us to say *Grace* all the time.
+L131401 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Dr. Homer Wells.
+L131400 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ I suppose it wouldn't hurt to *meet* him. What's his name again?
+L131356 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ You don't find it depressing that Homer Wells is picking apples?
+L131355 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Wilbur, he picked them for us himself...
+L131354 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Oh my, yes! This is a *far* superior taste--and crisp, too! You know, so many apples are disappointingly mealy. I wonder of most of the apples in my life weren't meant for pies!
+L131287 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ We all know who trained Homer--his credentials are as good as mine are. Don't you be holy to me about the *law*! What has the law done for any of us here?
+L131286 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ These *credentials* are against the law!
+L131283 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Don't you understand? The board is going to *replace* me! That's what the "new blood" is *for*!
+L131282 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ You *invented* him! You've completely made his up!
+L131281 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ "An internship and two years of training at the Boston Lying-in, South End Branch. For his age, he was judged an accomplished gynecological obstetrical surgeon; he is also experienced in pediatric care..."
+L131280 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ This is *your* life story, Wilbur! You just changed the dates!
+L131275 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ One has to be more than "careful" of Mrs. Goodhall--she has sufficient Christian zeal to start her own country! I'd like to give her a little ether.
+L131274 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ It's that Mrs. Goodhall you have to be careful of, Wilbur.
+L131273 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ He is a goddamn psychiatrist--of *course* he wants to "help"! He'd be happy if he could help *commit* me!
+L131109 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Just find him some clothes, Wilbur. He could use some clothes.
+L131108 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ He's still a boy--out in the world, he's still a boy.
+L131107 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Oh, just stop it! You knew this was going to happen. He's a young man.
+L131106 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Let him try to *make* some money! That's part of "seeing the world," isn't it?
+L131105 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ He'll need clothes... some money...
+L130959 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Some new *things* would be useful. I don't need any "new help."
+L130958 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ They just want you to hire some new help.
+L130957 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ They want to replace me! The Board of Trustees wants to *replace* me!
+L130927 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ It was just the ether, Wilbur...
+L130926 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ You were! You *are*! It was fantastic.
+L130925 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Then I wasn't beautiful.
+L130924 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ I was!
+L130923 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ You weren't dreaming about me.
+L130922 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ I was dreaming about you. How beautiful you were!
+L130884 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Life is waiting.
+L130883 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Wilbur, the adopting couple is waiting in your office.
+L130831 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ It claims to restore monthly regularity.
+L130830 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ It's not ergot, it's not pituitary extract, it's not oil of rue...
+L130811 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ Try to think of nothing, Dorothy.
+L130810 +++$+++ u689 +++$+++ m44 +++$+++ ANGELA +++$+++ Only if you can afford it.
+L130952 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I don't know. She got left here, like the rest of us, didn't she?
+L130951 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ What's she so emotional about?
+L130949 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I doubt it. She's just an...
+L130948 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ I think Mary Agnes could kill someone.
+L130947 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I know.
+L130946 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Homer, you know I would never kill anyone--you know I wouldn't.
+L130945 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Sometimes I want to meet them so I can kill them. Just sometimes.
+L130944 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Better than I can!
+L130943 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ And that I can drive a truck!
+L130942 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ You cook very well!
+L130941 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Uh... I'd like to show them that I can cook, a little.
+L130940 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ What for, Buster? What would you do if you met them?
+L130939 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Yeah. But sometimes I wish I could meet mine, anyway.
+L130938 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ Whoever they were, they didn't *do* any of the things parents are supposed to do. Dr. Larch did those things, and Nurse Edna, and Nurse Angela.
+L130937 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Why not?
+L130936 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I know who you mean. I think about leaving here, but not to find *them*.
+L130935 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ I mean your parents.
+L130849 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ I'm sorry, Homer.
+L130848 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I'm *not* a doctor!
+L130847 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ But you've studied with the old man for *years*!
+L130846 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ I'm *not* a doctor. I haven't been to medical school--I haven't even been to high school!
+L130845 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ *You're* a doctor, Homer--you don't smell like ether.
+L130844 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ He's a doctor, Buster--doctors smell like ether.
+L130843 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ He *smells* like he could put you to sleep!
+L130842 +++$+++ u695 +++$+++ m44 +++$+++ HOMER +++$+++ It's because he's too tired to sleep. He has to.
+L130841 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ He *sniffs* that ether! I've seen him do it!
+L131464 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ If Homer wanted to know what was happening here, he could pick up a telephone and call us.
+L131463 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Shouldn't we tell Homer?
+L131462 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ They'll believe it because they want to believe it.
+L131461 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ Why would the little ones believe that *anyone* would adopt him?
+L131460 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ I'll tell them Fuzzy was adopted.
+L131459 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ What are you going to tell the little ones?
+L131013 +++$+++ u697 +++$+++ m44 +++$+++ LARCH +++$+++ She died of *secrecy*, she died of *ignorance*...
+L131012 +++$+++ u690 +++$+++ m44 +++$+++ BUSTER +++$+++ What'd she die of?
+L131643 +++$+++ u691 +++$+++ m44 +++$+++ CANDY +++$+++ Good night, Daddy.
+L131642 +++$+++ u705 +++$+++ m44 +++$+++ RAY +++$+++ Good night, kids. Don't catch cold-- it's gettin' cold already.
+L131641 +++$+++ u691 +++$+++ m44 +++$+++ CANDY +++$+++ Daddy, *please*...
+L131640 +++$+++ u705 +++$+++ m44 +++$+++ RAY +++$+++ How about him not needin' the friggin' compass! How about that?
+L131494 +++$+++ u691 +++$+++ m44 +++$+++ CANDY +++$+++ Good night, Daddy.
+L131493 +++$+++ u705 +++$+++ m44 +++$+++ RAY +++$+++ It's gettin' late. I think I'll pack it in.
+L131341 +++$+++ u691 +++$+++ m44 +++$+++ CANDY +++$+++ Wally said to say, "Hello."
+L131340 +++$+++ u705 +++$+++ m44 +++$+++ RAY +++$+++ He mentions Homer, too, you know.

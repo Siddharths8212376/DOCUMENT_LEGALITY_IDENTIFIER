@@ -1,0 +1,200 @@
+L353056 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Where are you going?
+L353055 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Come with us.
+L353039 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ We'll remember. But that's a long time off...
+L353038 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Of course... that's settled then. But just you remember your promise...
+L353033 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ At least it's over...
+L353032 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I'll make the arrangements.
+L353031 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ They're put into the ground so they can be visited by the living...
+L353030 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What's that?
+L353029 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ We'll have to bury him.
+L352999 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I don't know... but it does.
+L352998 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What people?
+L352997 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ All this. All of it.
+L352996 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ What belongs to the people?
+L352989 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ "Macavity, Macavity, there's no one like Macavity, There never was a cat of such deceitfulness and suavity."
+L352988 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ No.
+L352987 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ You're both full of secrets like Macavity.  Did you steal this?
+L352986 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ I don't know.
+L352985 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ What kind of jewel is this?
+L352973 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Mother and Father said so... you know?
+L352972 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ Are you sure?
+L352971 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes...
+L352970 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ And... and how were you grown? Inside your mother?
+L352954 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes indeed, everyone. Actually, they all have three.  "The naming of cats is a difficult matter. It isn't just one of your holiday games. You may think at first I'm mad as a hatter when I tell you a cat must have THREE DIFFERENT NAMES."  An ordinary name and a fancy name. That's two. Do you want to guess what the third one is?
+L352953 +++$+++ u1858 +++$+++ m122 +++$+++ JESSICA +++$+++ But there are so many of them. Do you know each one separately.
+L352952 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes, cats, of course. What else could they be? Cats. Of course each one has his own name too.
+L352720 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No -- Look, I'm in a hurry.
+L352719 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ My name's Holly... Holly 13. In ancient times they said my number was unlucky. Do you believe in luck?
+L352718 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ It's all right with me. Is he here?
+L352717 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ I like your face. Would you mind if Doc took a picture? I'd like him to give your face to somebody else.
+L352716 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ A Sandman can get as sick of his face as anyone else. Where's the doctor?
+L352715 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ We don't get many Sandmen. I think we've only had one other since I've been here.
+L352714 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ Do you want to see Doc?
+L352713 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Hello.
+L352712 +++$+++ u1863 +++$+++ m122 +++$+++ RECEPTIONIST +++$+++ Hello, Sandman.
+L353088 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh my... I'll try.
+L353087 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Can you make it back?
+L353086 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Yes...
+L353085 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm sorry.
+L353084 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh... I did so look forward to seeing all those people.
+L353083 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I know...  We're going to try and get in this way. I don't think you can make it.
+L353072 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Oh, yes... I think...
+L353071 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Stay? They lived together all their years?
+L353070 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ My father was the husband and my mother was the wife. "Beloved" is a word they used -- to stay together.
+L353069 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Thank you.  Tell me -- what do those words mean? "Beloved husband"... "Beloved son"... "Beloved wife"...
+L353068 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ That's better than gold when it's cold.
+L353066 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I promise. We'll go on as soon as it's light.
+L353065 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Is that really it? It doesn't seem very far. Will we be there soon?
+L353061 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ And all alive you say?
+L353060 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ More... many more.
+L353059 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Thousands and thousands... as many as my cats?
+L353058 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Alive?
+L353057 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ To a city with thousands and thousands of people.
+L353054 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ What a pity. I was hoping you'd be here to bury me.
+L353053 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ We're leaving.
+L353036 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ All right.
+L353035 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Not yet.
+L353034 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Are you ready to put him in?
+L352995 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Of course you can stay. This belongs to the people.
+L352994 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ May we stay here for a while? We'd like to rest.
+L352993 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Never, never, ever. Nothing.
+L352992 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Did your Mother or Father ever mention another place?
+L352991 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ No, no, no
+L352990 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What's beyond this place -- do you know?
+L352982 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I'm sorry but I don't have anything to give you.
+L352981 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ It isn't fair. I'll give you one of my favorite cats... a Jellicle cat.  "Jellicle cats have cheerful faces, Jellicle cats have bright black eyes; They like to practice their airs and graces And wait for the Jellicle Moon to rise."
+L352980 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No -- I'm sorry. It's not possible.
+L352979 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ They're beautiful. May I have one too please?
+L352975 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Dead... they're dead... and buried.
+L352974 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Where are they?
+L352969 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Mother and -- ? You knew your mother and father?
+L352968 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ My parents thought so. Mother and Father. You know?
+L352967 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What makes you think so?
+L352966 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ But there may be a few around somewhere.
+L352965 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Have any other people ever passed through?
+L352964 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Gracious... no.
+L352963 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Are there any other humans?
+L352962 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ I have always been here...
+L352961 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How did you get here?
+L352960 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ Just a place, I suppose... who knows?
+L352959 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ What kind of place is this?
+L352958 +++$+++ u1862 +++$+++ m122 +++$+++ OLD MAN +++$+++ For as long as I can remember.
+L352957 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ How long have you been living here?
+L352810 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ No. Jessica goes back now. Take her back.  Now! Go on back. Back outside, Jessica.
+L352809 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Someone will follow. When you come to the lock, he will tell you how to go on the other side. Jessica may go with you as far as the lock.
+L352808 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Will there be someone to tell us where to go from there...?
+L352807 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ It doesn't matter who we are. Follow the tunnel to the end.
+L352806 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ I don't know who you are. I'd like to thank someone.
+L352402 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Clear Logan-5 and Francis-7.
+L352401 +++$+++ u1859 +++$+++ m122 +++$+++ LOGAN +++$+++ Logan-5... Francis-7, authorized duty quadrant. Intrusion accidental.
+L352400 +++$+++ u1864 +++$+++ m122 +++$+++ VOICE +++$+++ Break-in scanners report intrusion, identify.
+L352611 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ You don't seem quite sure, Jessica.  Can you do it? Will you?
+L352610 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ No -- just there -- on the first level.  Don't look for us. We'll see you.
+L352421 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Too little?  Too little. Okay, wait for me.
+L352420 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ Too little.
+L352419 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Cheeks? Cheeks? Right. Too much, you think?
+L352418 +++$+++ u1865 +++$+++ m122 +++$+++ WOMAN +++$+++ I don't know. The cheeks maybe... look a little --
+L352417 +++$+++ u1860 +++$+++ m122 +++$+++ MAN +++$+++ Well? How do you like it?
+L356223 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Sure, I'm okay.
+L356222 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ I'm, okay... You okay?
+L356221 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Yeah.
+L356220 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Pete... You okay?
+L356219 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ You okay?... What's wrong?
+L356218 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ What?
+L356217 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ You okay, man?
+L356083 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Pile in.
+L356082 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ They're comin' with us.
+L356081 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ What's happenin'?
+L356071 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ No, I'm okay.
+L356070 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ You want somethin'?
+L356068 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ You gotta be kiddin'... This is the boulevard... You can't hear yourself think.
+L356067 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Listen.
+L356066 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Texaco... What's wrong with that?
+L356065 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ This rod is a fuckin', embarrassment, Carl. Whatiya burn in this thing, "V"?
+L356057 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Okay.
+L356056 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Sure, what's wrong with that?
+L356055 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Sheila'll be at "Tops".
+L356054 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Just goin' up'ta "Tops"... Maybe the "Ten Pin".
+L356050 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Where to? Hey, Lanie, I heard you were out of it for a while, too.
+L356049 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ Good... You up for a drive?
+L356048 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ I don't think so.
+L356047 +++$+++ u1866 +++$+++ m123 +++$+++ "V" +++$+++ You're not contagious are you?
+L355812 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ I forgot. Anyway, I hate the idea of acting paranoid.
+L355811 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Why not?
+L355776 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ It kept going off for some reason. False alarms.
+L355775 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Why not?
+L355772 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ How I remember them. Not necessarily the way they happened.
+L355771 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ What do you mean by that?
+L355770 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ I like to remember things my own way.
+L355764 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ Yes, I thought my wife...
+L355763 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ You're a musician?
+L355760 +++$+++ u1877 +++$+++ m123 +++$+++ FRED +++$+++ This is our bedroom.
+L355759 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Do you always sleep here?... In this room?... Both of you?
+L355806 +++$+++ u1885 +++$+++ m123 +++$+++ RENEE +++$+++ I don't know if I want to stay here. I don't feel safe.
+L355805 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ We'll see that the patrol of the house is doubled.
+L355781 +++$+++ u1885 +++$+++ m123 +++$+++ RENEE +++$+++ No, one of us is always here to let the maid in. Nobody else has a key.
+L355780 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Maid? Relative?
+L355779 +++$+++ u1885 +++$+++ m123 +++$+++ RENEE +++$+++ No.
+L355769 +++$+++ u1885 +++$+++ m123 +++$+++ RENEE +++$+++ No. Fred hates them.
+L355768 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Do you own a video camera?
+L355753 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ The angle. The high angle shot on the tape.
+L355752 +++$+++ u1885 +++$+++ m123 +++$+++ RENEE +++$+++ What is?
+L355751 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Very strange.
+L356418 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ There's no such thing as a bad coincidence.
+L356417 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ What's that, Ed?
+L356416 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ You know what I think?
+L356415 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ We've got Pete Dayton's prints all over this place.
+L356233 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Ours, Ed.
+L356232 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ His or ours?
+L356231 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ What a fuckin' job.
+L356162 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Yeah... Laurent.
+L356161 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ You recognize that guy?
+L356025 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ Yeah.
+L356024 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Now we'll see what this son of a bitch is up to.
+L355801 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ Or not so recently?
+L355800 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Has anyone made any threats to either of you recently?
+L355797 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ Or something.
+L355796 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ You don't remember being awakened? It looks like you were aware of someone.
+L355785 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ If anything else happens, you'll call us.
+L355784 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ As best we can.
+L355783 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ We'll keep a watch on the house.
+L355778 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Anybody else have a key to the house.
+L355777 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ Might be a good time to try using it again.
+L355757 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ Right... This just glided along.
+L355756 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ Like you'd get if it was hand held.
+L355755 +++$+++ u1867 +++$+++ m123 +++$+++ AL +++$+++ And smooth... Almost no movement - back and forth, I mean.
+L355754 +++$+++ u1876 +++$+++ m123 +++$+++ ED +++$+++ How'd the camera get so high like that?
+L356395 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Alice?
+L356394 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Look at all this shit... I know a fence... he'll give us money and get us passports in exchange for this and the car...  We can go anywhere.
+L356389 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Up the stairs - down the hall.
+L356388 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Where's the bathroom?
+L356384 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ We gotta get the stuff and get out of here.
+L356383 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Alice...
+L356381 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Alice?
+L356380 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ You killed him.
+L356379 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ We killed him.
+L356378 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ You all right?
+L356375 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Alice, I...
+L356374 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ You got him.
+L356325 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Are you gonna be a man about this, Pete?
+L356324 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Yes.
+L356323 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Are you my man?
+L356321 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Oh, yeah?... What else?
+L356320 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ I'm not goin' home tonight... I'm goin' somewhere else...  To a girlfriend's house.  But, we still have a coupla things to take care of...
+L356319 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ What about tonight?... Whatiya gonna do about Mr. Eddy tonight?
+L356318 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Are you kidding?... I've got so much on Andy, it isn't funny.
+L356317 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ What if Andy tips off Mr. Eddy?
+L356316 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ 'Cause that's how long it's gonna take, baby.
+L356315 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Why are ya goin' so early?
+L356314 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Set.
+L356312 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Okay.
+L356311 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ Lemme call him now. Make sure he's not already busy tomorrow night.
+L356310 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Okay...
+L356309 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ I'll set it up for tomorrow night. You'll meet me at his place at eleven o'clock... Don't drive there... Take a bus... Make sure no one follows you... His address is easy to remember... It's 2224 Deep Dell Place... It's a white stucco job on the south side of the street... I'll be upstairs with Andy... The back door will be open... That leads into the kitchen - go through the kitchen to the living room - there's a bar there... At eleven fifteen, I'll ask Andy to fix me a drink... When he does, you can crack him in the head... Okay?
+L356308 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Yeah. Call him.
+L356307 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ That's his name... Andy. Our ticket out of here.
+L356306 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ Andy?
+L356305 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ So, should I call Andy?
+L356301 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ If you want me to go away, I'll go away.
+L356300 +++$+++ u1883 +++$+++ m123 +++$+++ PETE +++$+++ You liked it.
+L356297 +++$+++ u1868 +++$+++ m123 +++$+++ ALICE +++$+++ No... A job... I didn't know what. He set up an appointment for me to see a man.

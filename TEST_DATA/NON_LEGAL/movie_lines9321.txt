@@ -1,0 +1,200 @@
+L435986 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ The British army is barricaded in Boston.  Harry Lee, is here from Virginia, recruiting for a Continental Army.
+L435985 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ What news?
+L435969 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ Poor Richard says they'll make a Declaration of Independence by July.
+L435968 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Anything about the convention in Philadelphia?
+L435967 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ Rioting both sides of the bay, in Chestertown they burned the Customs House and tar-and-feathered the Customs Agent.  He died of burns. In Wilmington they killed a Royal Magistrate and two Redcoats.
+L435966 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ The middle colonies?
+L435965 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ The New York and Rhode Island assemblies have been dissolved...
+L435942 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Thank you.  How's the spotted one's milk?
+L435941 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ Father, a post rider came from Charleston.  You have a letter inside.
+L436566 +++$+++ u2456 +++$+++ m157 +++$+++ SUSAN +++$+++ Yes, I do.  I hate him and I hope he never comes back.
+L436565 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ You don't hate him.
+L436564 +++$+++ u2456 +++$+++ m157 +++$+++ SUSAN +++$+++ I don't care.  I hate him.
+L436563 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ There are some letters here from him.  Some are just to you.
+L436562 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ I know he did and he's sorry.  He'll come back as soon as he can.
+L436561 +++$+++ u2456 +++$+++ m157 +++$+++ SUSAN +++$+++ He left us.
+L436560 +++$+++ u2448 +++$+++ m157 +++$+++ GABRIEL +++$+++ He wanted to, Susan, but he couldn't leave his men.
+L436022 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Nonetheless, I would like to know, Mister Marion, how... how... how...
+L436021 +++$+++ u2455 +++$+++ m157 +++$+++ ROBINSON +++$+++ I stand corrected.
+L436020 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Mister Robinson, I fought with Captain Marion in the French and Indian War, including the Wilderness Campaign.  We served as scouts under Washington and I have no doubts about Captain Marion's courage or competence on a battlefield. There's not a man in this room, or anywhere, for that matter, to whom I would more willingly trust my life.
+L436007 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Thank you.  Were I an orator, those are the exact words I would have spoken.
+L436006 +++$+++ u2455 +++$+++ m157 +++$+++ ROBINSON +++$+++ Those of us who call ourselves Patriots are not seeking to give birth to an American nation, but to protect one that already exists.  It was born a hundred-and-seventy years ago at Jamestown, Virginia and has grown stronger and more mature with every generation reared and with every crop sown and harvested.  We are a nation and our rights as citizens of that nation are threatened by a tyrant three thousand miles away.
+L436005 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Please.
+L436004 +++$+++ u2455 +++$+++ m157 +++$+++ ROBINSON +++$+++ An American nation.  Colonel Lee, with your permission?
+L436768 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Robert.  Robert E. Lee.
+L436767 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Your son, what did you name him?
+L436766 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ I hope so.
+L436765 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Thank you.  Maybe all of this will buy him some peace.
+L436764 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ And congratulations on the birth of your son.
+L436763 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Goodbye, Harry.
+L436762 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Goodbye, Francis.
+L436711 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ No.  It's not over yet.  Two days ride, Yorktown, Virginia. Washington, the French, Cornwallis and Tarleton.  It will end, one way or another.  Francis, nothing will replace your sons but helping us will justify their sacrifice.
+L436710 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ It is ended.
+L436709 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ They're gone.  And there is nothing you or I can do to bring them back. But there is something you can do to help end all this.
+L436708 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Two.  Gabriel and Thomas.
+L436707 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ How many men have we seen die?
+L436706 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Don't touch him.
+L436692 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I'm sorry, I didn't know.
+L436691 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ His wife was killed yesterday.  She was with child.
+L436255 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Four thousand infantry and around six hundred cavalry...  ... including the Green Dragoons under Tarleton.
+L436254 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ How many men does Cornwallis have under his command?
+L436253 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ They'd be better off, but the cause wouldn't be.
+L436252 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ They're nothing but farmers and you're asking them to try to keep a tiger in their backyard.  They'd be better off letting it move on.
+L436251 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Not held, just slowed down.
+L436250 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ You expect Cornwallis to be held here by militia?
+L436249 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Not me, you.  I'm going north with every Continental regular I can find to reinforce Washington or he won't last six weeks.
+L436248 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ So you're going to try to keep Cornwallis in the South until then.
+L436247 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ The bigger problem is where, not when.  The French fleet won't sail north of the Chesapeake for fear of early storms.
+L436246 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Long time.
+L436245 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Fall, six months at the earliest.
+L436244 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ When?
+L436243 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ And Patriots will start dying on the gallows instead of the battlefield.  Unless we can keep Cornwallis in the South until the French arrive.  A treaty was signed at Versailles after our victory at Saratoga.  The French are sending a fleet and ten thousand troops.
+L436242 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ So now Cornwallis will head north, link up with Clinton and finish off Washington.
+L436241 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ We're a breath away from losing this war.  In the North, Washington is reeling from Valley Forge, running and hiding from Clinton and twelve thousand Redcoats.  Here in the South, Cornwallis has broken our back.  He captured over five thousand of our troops when he took Charleston and today he destroyed the only army that stood between him and New York.
+L436239 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ What are my orders?
+L436238 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I am, I think.
+L436237 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Who's in command?
+L436236 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Last anyone saw, riding hard, northeast, his staff a hundred yards behind, trying to catch up.
+L436235 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Where is he now?
+L436234 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I begged him to stay in the cover of the trees but he insisted the only way to break Cornwallis was muzzle- to-muzzle.  He spent too many years in the British army.
+L436233 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ We saw.
+L436232 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ There's nothing you could have done, Gates is a damned fool.
+L436231 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ I'm sorry I wasn't here for this.
+L436230 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I'm sorry.
+L436229 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Green Dragoons came to my home, killed my son, Thomas.  It was Tarleton himself.
+L436074 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Thank you.
+L436073 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I'll see to it that he serves under me.
+L436072 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ No, thank the Lord.  He's more like his mother.
+L436071 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I recognize him now.  Is he as imprudent as his father was at his age?
+L436070 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Gabriel.
+L436069 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ One of yours?
+L436048 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ I'm a parent, I don't have the luxury of principles.
+L436047 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ And your principles?
+L436046 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ That's what I'm doing.  I will not fight and because I won't, I will not cast a vote that will send others to fight in my stead.
+L436045 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Wars are not fought only by childless men.  A man must weigh his personal responsibilities against his principles.
+L436041 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ You said bribery twice...
+L436040 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ ... time, royal succession, regicide, bribery...
+L436039 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ That's five, keep going...
+L436038 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Royal petition, delegates to court, judicial redress, economic boycott, bribery...
+L436037 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Name five hundred.
+L436036 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ There are a thousand avenues, other than war, at our disposal...
+L436035 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Balderdash!
+L436034 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ We don't have to go to war to gain independence...
+L436033 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I was an American, I just didn't know it yet...
+L436032 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ You were an Englishman then...
+L436030 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ That's a damn long time...
+L436029 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Thirteen years...
+L436028 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ A long time ago...
+L436024 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Harry, Harry, Harry...
+L436023 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Damn it, Francis!  How in God's name do you expect to gain independence without going to war?
+L436013 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ I understood him to be a Patriot as well.
+L436012 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ It's Mister Marion.
+L436011 +++$+++ u2449 +++$+++ m157 +++$+++ LEE +++$+++ Captain Marion, I understood you to be a Patriot.
+L436483 +++$+++ u2450 +++$+++ m157 +++$+++ MAJOR HALBERT +++$+++ Yes... you will wait.
+L436482 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ That will be all, Major.  I'll wait for Lord Cornwallis.
+L436481 +++$+++ u2450 +++$+++ m157 +++$+++ MAJOR HALBERT +++$+++ Yes, quite, but you should know that...
+L436480 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ I'm familiar with appropriate behavior at a military parley.
+L436479 +++$+++ u2450 +++$+++ m157 +++$+++ MAJOR HALBERT +++$+++ You may, of course, keep your weapons, but I must warn you that...
+L436478 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Thank you.
+L436477 +++$+++ u2450 +++$+++ m157 +++$+++ MAJOR HALBERT +++$+++ Lord Cornwallis will be with you presently.
+L436180 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Leave him.  Take care of William and Susan.
+L436179 +++$+++ u2451 +++$+++ m157 +++$+++ MARGARET +++$+++ But what about Thomas?
+L436178 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Margaret, take William and Susan to the river shed.  Hide there.  If we're not back by dawn, go up the river to the Richardson's house. They'll take you to your Aunt Charlotte's farm.  Nathan, Samuel, and I are going to get Gabriel.
+L436092 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ No, there'll be skirmishers on the roads.  We're safer here.
+L436091 +++$+++ u2451 +++$+++ m157 +++$+++ MARGARET +++$+++ We could go stay at Aunt Charlotte's farm.  She's to the west.
+L436090 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Don't worry.
+L436086 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Four, five miles.
+L436085 +++$+++ u2451 +++$+++ m157 +++$+++ MARGARET +++$+++ How far away?
+L436703 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ Yes, he does.
+L436702 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ He looks as if he's sleeping, doesn't he?
+L436701 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ Colonel, let us help his soul find it's place with the Almighty and...
+L436650 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ About a hundred and twenty.  Less than a third.
+L436649 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ How many came back?
+L436589 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ For richer, for poorer, in sickness and in health, 'til death do they part.
+L436588 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ It's a good measure of a woman that she'll have her honeymoon under the stars.
+L436360 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Don't depend on my decency.  I'm one of that sort.
+L436359 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ For trying to impose some decency on that sort.
+L436358 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ For what?
+L436357 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ Thank you.
+L436294 +++$+++ u2454 +++$+++ m157 +++$+++ REV. OLIVER +++$+++ I heard about your son.  I'm sorry.
+L436293 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Reverend.
+L436746 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ And what is the second thing?
+L436745 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ No, he won't.  There are two things you need to know about Cornwallis. First, he is a very proud man, He would rather risk defeat than share a victory.  If you give him what he thinks is an out, he'll take it.
+L436744 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ If Cornwallis receives news that Clinton is coming, he'll simply hold tight and wait.  He'll fight a purely defensive battle and he'll win that.
+L436736 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ Proud, priggish and competent.  A very bad combination in an adversary.
+L436735 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Worse.
+L436734 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ That bad?
+L436733 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Remember Braddock?
+L436732 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ Francis, tell me about General Cornwallis.
+L436725 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ I've had no sons to lose, nor daughters.  I lose the sons of other men.
+L436724 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ I lost another a year ago, Thomas. He was only fifteen.
+L436723 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ I was sorry to hear about your son.
+L436720 +++$+++ u2459 +++$+++ m157 +++$+++ WASHINGTON +++$+++ Earned.
+L436719 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Gray.
+L436095 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Put them away.
+L436094 +++$+++ u2458 +++$+++ m157 +++$+++ THOMAS +++$+++ But father, they might come this way.
+L436093 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Put those away.
+L436079 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ God willing.
+L436078 +++$+++ u2458 +++$+++ m157 +++$+++ THOMAS +++$+++ But it's already been two years and that's two more years.  The war could be over by then.
+L436077 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Seventeen.
+L436076 +++$+++ u2458 +++$+++ m157 +++$+++ THOMAS +++$+++ When?
+L436075 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Not yet, Thomas.
+L436197 +++$+++ u2453 +++$+++ m157 +++$+++ NATHAN +++$+++ I'm glad I killed them... I'm glad...
+L436196 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Don't blame yourself, you did what I told you to do.
+L436195 +++$+++ u2453 +++$+++ m157 +++$+++ NATHAN +++$+++ Father... I killed those men...
+L436175 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Quiet.
+L436174 +++$+++ u2453 +++$+++ m157 +++$+++ NATHAN +++$+++ Father, you can't let them take him...
+L436084 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Six-pounders.  Lots of them.
+L436083 +++$+++ u2453 +++$+++ m157 +++$+++ NATHAN +++$+++ Father?
+L435938 +++$+++ u2452 +++$+++ m157 +++$+++ MARION +++$+++ Thank you.  Did you finish the upper field?
+L435937 +++$+++ u2453 +++$+++ m157 +++$+++ NATHAN +++$+++ Father, I saw a post rider at the house.
+L439849 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ He can if He wants to. He can do anything, just like Inspector Gadget on TV. But I have to keep things ready for him, that's what I think. I've got his picture and I'm going to sit in his chair--
+L439848 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Ellie...God doesn't do things like that. I know you loved y'brother, but--
+L439767 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Is that right, dad?
+L439766 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ They do it to honor the dead, Ellen.
+L439548 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Yes--
+L439547 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Well, it still says some animal got laid down here after, don't it?
+L439546 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ What if you can't read what's written on there anymore?
+L439543 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ It's a place where the dead speak, Missy.
+L439542 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Well...I guess not.
+L439541 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Do you know what this place is, Ellie? Oh, I know you know it's a boneyard, but a bone ain't nothing and even a whole pile of 'em don't amount to much. Do you know what a graveyard really is?
+L439532 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Ayuh.
+L439531 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Bite?
+L439530 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Best never to go climbing on old blowdowns like this, Ellie--sometimes they bite.
+L439512 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ You'll see soon enough, hon.
+L439511 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ But where are we going, Mr. Crandall?
+L439464 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ And now you live on Route 9 in Ludlow, and your dad's gonna be the new doctor up to the college, I hear, and I think you're going to be just as happy as a clam here, Ellen Creed.
+L439463 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ I'm Ellen Creed and I live at 642 Alden Lane, Dearborn, Michigan.  At least, I used to.
+L439462 +++$+++ u2461 +++$+++ m158 +++$+++ JUD +++$+++ Who might you be, little Miss?
+L439942 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ I will. Come and kiss me.
+L439941 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Please hurry.
+L439921 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ Of course I will.
+L439920 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Will you at least call and make sure daddy's okay?
+L439919 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ There are no ghosts, Ellie. I want you to go to sleep and forget all this nonsense.
+L439918 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ He's a ghost. But he's a good ghost.
+L439917 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ Who is this Paxcow? Is he like the boogeyman?
+L439916 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Paxcow says Daddy's going to do something really bad. He--
+L439909 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Paxcow says it's almost too late! We have to go back! Paxcow says it's almost too late!
+L439908 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ Ellie...Ellie...what...
+L439907 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Paxcow says it's almost too late!
+L439838 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ In a minute, hon. Let Gage finish his turn.
+L439837 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ I want to fly it! Can I fly it now, mommy!
+L439574 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ But what if he dies and has to go to the Pet Sematary?
+L439573 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ Honey, Church will be fine.
+L439438 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Yaay!
+L439437 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ Yes, but the rope might be--
+L439434 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Am I really gonna have my own room?
+L439433 +++$+++ u2464 +++$+++ m158 +++$+++ RACHEL +++$+++ It's gorgeous!
+L439903 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ I swear.
+L439902 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Do you swear?
+L439900 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ I'll be there in three days--four at the most. I've got to get the electricity shut off and square things with your school so the truant officer ain't after you, and--
+L439899 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Come with us, daddy. Please come with us!
+L439898 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ Be good to your mother, darlin'. She needs you.
+L439851 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ And I'm going to eat his breakfast cereal, too, even though it tastes like boogers. And...and...
+L439850 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ Ellie--
+L439808 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ Because your mother and I need the rest, sugar. Now buzz.
+L439807 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Then why do I have to go to bed?
+L439806 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ I'm sure you're not.
+L439805 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ I'm not tired!
+L439802 +++$+++ u2462 +++$+++ m158 +++$+++ LOUIS +++$+++ Then you have faith in that. But we don't know it will be; after all, some crazed chair-burglar might break in while we're away and steal it, right?
+L439801 +++$+++ u2460 +++$+++ m158 +++$+++ ELLIE +++$+++ Yeah, sure.
