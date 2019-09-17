@@ -1,4 +1,4 @@
-import pandas as pd 
+"import pandas as pd 
 
 df_legal = pd.read_csv('../DICTIONARY/LEGAL_DICT/complete_legal_terms.csv')
 # print(df_legal.head())
