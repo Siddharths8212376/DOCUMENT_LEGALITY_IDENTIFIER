@@ -1,4 +1,4 @@
-# parsing out the set of most commonly used
+/# parsing out the set of most commonly used
 # english words, we're taking the 3000 most commonly used words
 # source-link : https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/
 
